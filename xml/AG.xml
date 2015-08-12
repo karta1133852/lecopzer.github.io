@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<AG id="001">
+<num>AG-001</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(公民社會) </name>
+<teacher> 黃清賢  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 資訊大樓                      格致廳大講堂 </place>
+<note></note>
+</AG>
+
+<AG id="002">
+<num>AG-002</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(公共管理) </name>
+<teacher> 黃清賢  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note></note>
+</AG>
+
+<AG id="004">
+<num>AG-004</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(憲政民主體制) </name>
+<teacher> 黃清賢  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 測量系館                      經緯廳 </place>
+<note></note>
+</AG>
+
+<AG id="005">
+<num>AG-005</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(法學緒論) </name>
+<teacher> 莊輝濤  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 資訊大樓                      格致廳大講堂 </place>
+<note></note>
+</AG>
+
+<AG id="007">
+<num>AG-007</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(法學緒論) </name>
+<teacher> 黃清賢  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note></note>
+</AG>
+
+<AG id="008">
+<num>AG-008</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(司法與人權) </name>
+<teacher> 黃清賢  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 測量系館                      經緯廳 </place>
+<note></note>
+</AG>
+
+<AG id="009">
+<num>AG-009</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(憲政民主體制) </name>
+<teacher> 潘台雄  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 化工系館                      柏林講堂 </place>
+<note></note>
+</AG>
+
+<AG id="010">
+<num>AG-010</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(法學緒論) </name>
+<teacher> 蔡文斌  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 雲平大樓                      27103 </place>
+<note></note>
+</AG>
+
+<AG id="011">
+<num>AG-011</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(法學緒論) </name>
+<teacher> 李君韜  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
+<note></note>
+</AG>
+
+<AG id="035">
+<num>AG-035</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 林長寬  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5117 </place>
+<note> 伊斯蘭導論                                                               </note>
+</AG>
+
+<AG id="036">
+<num>AG-036</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 蘇梅芳  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 歷史系館                      25236 </place>
+<note> 晚清歷史與人物                                                           </note>
+</AG>
+
+<AG id="037">
+<num>AG-037</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 陳計堯  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 會計系館                      63101 </place>
+<note> 近代世界的形成（１６～２０世紀）                                         </note>
+</AG>
+
+<AG id="038">
+<num>AG-038</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 陳梅卿  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 都計系館                      50204 </place>
+<note> 日本社會文化史                                                           </note>
+</AG>
+
+<AG id="039">
+<num>AG-039</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 蕭瓊瑞  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note> 臺灣美術史                                                               </note>
+</AG>
+
+<AG id="040">
+<num>AG-040</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(文本與歷史) </name>
+<teacher> 謝美娥  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<note> 影視文本與歷史，可承認為新聞傳播學程                                     </note>
+</AG>
+
+<AG id="041">
+<num>AG-041</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(社會經濟史) </name>
+<teacher> 高淑媛  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note> 臺灣社會經濟史                                                           </note>
+</AG>
+
+<AG id="042">
+<num>AG-042</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(文本與歷史) </name>
+<teacher> 謝美娥  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
+<note> 影視文本與歷史，可承認為新聞傳播學程                                     </note>
+</AG>
+
+<AG id="043">
+<num>AG-043</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(文本與歷史) </name>
+<teacher> 許守泯  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 測量系館                      55250 </place>
+<note> 文本與歷史                                                               </note>
+</AG>
+
+<AG id="044">
+<num>AG-044</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 陳文松  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5117 </place>
+<note> 臺灣歷史人物評析                                                         </note>
+</AG>
+
+<AG id="045">
+<num>AG-045</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 李啟彰  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 空中大學                      53101 </place>
+<note> 東亞茶文化交流史                                                         </note>
+</AG>
+
+<AG id="046">
+<num>AG-046</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(口述歷史) </name>
+<teacher> 林德政  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 統計系館                      62223 </place>
+<note> 口述歷史採訪                                                             </note>
+</AG>
+
+<AG id="047">
+<num>AG-047</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史通論) </name>
+<teacher> 蔡幸娟  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 歷史系館                      25236 </place>
+<note> 過去與現在的對話                                                         </note>
+</AG>
+
+<AG id="048">
+<num>AG-048</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(婦女史) </name>
+<teacher> 蔡幸娟  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 建築研究大樓                  5172 </place>
+<note> 傳統中國婦女與政治                                                       </note>
+</AG>
+
+<AG id="049">
+<num>AG-049</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 李啟彰  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<note> 日本歷史與文物                                                           </note>
+</AG>
+
+<AG id="050">
+<num>AG-050</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(文本與歷史) </name>
+<teacher> 許守泯  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 系統系館                      56111 </place>
+<note> 文本與歷史                                                               </note>
+</AG>
+
+</content>

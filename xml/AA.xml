@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<AA id="002">
+<num>AA-002</num>
+<class></class>
+<group></group>
+<name> 普通物理學（一） </name>
+<teacher> 梁永成  </teacher>
+<score> 3 </score>
+<time> [2]A~B  ,  [4]A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49322 </place>
+<note> 英語授課；上課時間(二)18:00-19:30及(四)18:00-19:30                       </note>
+</AA>
+
+<AA id="004">
+<num>AA-004</num>
+<class></class>
+<group></group>
+<name> 普通化學（一） </name>
+<teacher> 桂椿雄  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3274 </place>
+<note> 英語授課                                                                 </note>
+</AA>
+
+<AA id="006">
+<num>AA-006</num>
+<class></class>
+<group></group>
+<name> 微積分（一） </name>
+<teacher> 劉之中  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5825 </place>
+<note></note>
+</AA>
+
+<AA id="008">
+<num>AA-008</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(歷史與文化) </name>
+<teacher> 陳計堯  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 企管系館                      62218 </place>
+<note></note>
+</AA>
+
+</content>

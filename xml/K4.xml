@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K4 id="001">
+<num>K4-001</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 藝術學研究法 </name>
+<teacher> 楊金峯*  ,  王雅倫   ,  陳佳彬  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
+<K4 id="002">
+<num>K4-002</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 音樂評論 </name>
+<teacher> 楊金峯  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5452 </place>
+<note></note>
+</K4>
+
+<K4 id="003">
+<num>K4-003</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 現當代視覺文化研究與評論 </name>
+<teacher> 王雅倫  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
+<K4 id="004">
+<num>K4-004</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 臺灣新編戲曲專題研究 </name>
+<teacher> 朱芳慧   ,  施德玉* </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5452 </place>
+<note></note>
+</K4>
+
+<K4 id="005">
+<num>K4-005</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 臺灣音樂專題研究 </name>
+<teacher> 施德玉  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
+<K4 id="006">
+<num>K4-006</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 當代藝術理論專題研究 </name>
+<teacher> 王雅倫  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5452 </place>
+<note></note>
+</K4>
+
+<K4 id="007">
+<num>K4-007</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 民族音樂學專題研究 </name>
+<teacher> 簡巧珍  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5452 </place>
+<note></note>
+</K4>
+
+<K4 id="008">
+<num>K4-008</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 中西戲劇與劇場史 </name>
+<teacher> 朱芳慧  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
+<K4 id="009">
+<num>K4-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 文物保存與數位典藏 </name>
+<teacher> 陳佳彬  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
+<K4 id="010">
+<num>K4-010</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 環境美學專題研究 </name>
+<teacher> 高燦榮  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
+<K4 id="011">
+<num>K4-011</num>
+<class> 碩                             </class>
+<group></group>
+<name> 藝術專題討論 </name>
+<teacher> 陳佳彬  </teacher>
+<score> 0 </score>
+<time> [2]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 藝術所                        5450 </place>
+<note> 103學年度起入學新生必修課程                                              </note>
+</K4>
+
+</content>

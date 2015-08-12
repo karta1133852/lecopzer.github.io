@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T2 id="001">
+<num>T2-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 護理理論 </name>
+<teacher> 許玉雲*  ,  陳幸眉  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 限本系學生                                                               </note>
+</T2>
+
+<T2 id="002">
+<num>T2-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 領導與品質管理 </name>
+<teacher> 顏妙芬* </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note></note>
+</T2>
+
+<T2 id="004">
+<num>T2-004</num>
+<class> 碩一                           </class>
+<group> A </group>
+<name> 進階護理核心概念 </name>
+<teacher> 王琪珍   ,  林梅鳳   ,  葉莉莉   ,  張瑩如   ,  徐畢卿   ,  顏妙芬   ,  許玉雲   ,  王靜枝*  ,  陳靜敏   ,  林靜蘭   ,  方素瓔   ,  陳彰惠  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 全系研究所教師                                                           </note>
+</T2>
+
+<T2 id="005">
+<num>T2-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 護理文獻評論（一） </name>
+<teacher> 王琪珍* </teacher>
+<score> 1 </score>
+<time> [4]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 本課程為隔週上課                                                         </note>
+</T2>
+
+<T2 id="006">
+<num>T2-006</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 護理文獻評論（一） </name>
+<teacher> 徐畢卿* </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85102 </place>
+<note> 本課程為隔週上課                                                         </note>
+</T2>
+
+<T2 id="007">
+<num>T2-007</num>
+<class></class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 陳幸眉* </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="013">
+<num>T2-013</num>
+<class></class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 林梅鳳   ,  張瑩如   ,  徐畢卿   ,  顏妙芬*  ,  柯乃熒   ,  許玉雲   ,  林靜蘭   ,  陳彰惠  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="016">
+<num>T2-016</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 研究工具的測量與發展 </name>
+<teacher> 馮瑞鶯* </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note></note>
+</T2>
+
+<T2 id="017">
+<num>T2-017</num>
+<class></class>
+<group></group>
+<name> 進階護理學實習（一） </name>
+<teacher> 王瑤華   ,  王琪珍   ,  林梅鳳   ,  顏妙芬*  ,  柯乃熒   ,  許玉雲   ,  林靜蘭   ,  方素瓔   ,  陳幸眉  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="032">
+<num>T2-032</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 生命與醫學倫理 </name>
+<teacher> 王瑤華*  ,  簡偉明  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85X09 </place>
+<note></note>
+</T2>
+
+<T2 id="101">
+<num>T2-101</num>
+<class> 碩                             </class>
+<group></group>
+<name> 護理研究 </name>
+<teacher> 張瑩如*  ,  顏妙芬  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 國際班課程，限本系學生。                                                 </note>
+</T2>
+
+<T2 id="105">
+<num>T2-105</num>
+<class> 碩                             </class>
+<group></group>
+<name> 生命與醫學倫理 </name>
+<teacher> 王瑤華*  ,  簡偉明  </teacher>
+<score> 2 </score>
+<time> [1]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際班課程，限本系學生。                                                 </note>
+</T2>
+
+<T2 id="107">
+<num>T2-107</num>
+<class> 碩                             </class>
+<group></group>
+<name> 健康評估及實習 </name>
+<teacher> 馮瑞鶯   ,  陳幸眉*  ,  盧豐華   ,  歐弘毅   ,  陳志弘   ,  劉彥青   ,  詹世鴻   ,  楊朝鈞  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 國際班課程，限本系學生，技能中心上課。                                   </note>
+</T2>
+
+<T2 id="108">
+<num>T2-108</num>
+<class></class>
+<group></group>
+<name> 進階護理學實習（二） </name>
+<teacher> 王琪珍   ,  張瑩如   ,  顏妙芬*  ,  柯乃熒   ,  林靜蘭   ,  陳幸眉   ,  陳彰惠  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="111">
+<num>T2-111</num>
+<class> 碩                             </class>
+<group></group>
+<name> 進階護理學實習（一） </name>
+<teacher> 林梅鳳*  ,  張嘉蘋  </teacher>
+<score> 3 </score>
+<time> [1]5~8  ,  [3]1~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際班課程，限本系學生。                                                 </note>
+</T2>
+
+<T2 id="112">
+<num>T2-112</num>
+<class> 碩                             </class>
+<group></group>
+<name> 公共衛生照護議題與衛生行政研討 </name>
+<teacher> 陳靜敏* </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 國際班課程，限本系學生。                                                 </note>
+</T2>
+
+<T2 id="113">
+<num>T2-113</num>
+<class> 碩                             </class>
+<group></group>
+<name> 災難護理及緊急醫療 </name>
+<teacher> 馮瑞鶯* </teacher>
+<score> 3 </score>
+<time> [4]5~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際班課程，限本系學生。                                                 </note>
+</T2>
+
+</content>

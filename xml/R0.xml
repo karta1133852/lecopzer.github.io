@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<R0 id="301">
+<num>R0-301</num>
+<class> 碩專延三                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 蔡東峻  </teacher>
+<score> 0 </score>
+<time> [6]A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限修畢四十五學分以上選修。                                               </note>
+</R0>
+
+<R0 id="302">
+<num>R0-302</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 創業基礎與行動 </name>
+<teacher> 蔡東峻  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R0>
+
+<R0 id="303">
+<num>R0-303</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 企業倫理與法律專題 </name>
+<teacher> 蔡崇義  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所，限48人選修。                                                     </note>
+</R0>
+
+<R0 id="304">
+<num>R0-304</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 營運管理 </name>
+<teacher> 王泰裕  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note> 限本所，限68人選修。                                                     </note>
+</R0>
+
+<R0 id="305">
+<num>R0-305</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 統計方法 </name>
+<teacher> 馬瀰嘉  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      61X02 </place>
+<note> 限本所，限80人選修。                                                     </note>
+</R0>
+
+<R0 id="306">
+<num>R0-306</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 策略管理 </name>
+<teacher> 方世杰*  ,  周信輝  </teacher>
+<score> 3 </score>
+<time> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note> 限本所，限68人選修。                                                     </note>
+</R0>
+
+<R0 id="307">
+<num>R0-307</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 財務管理 </name>
+<teacher> 王明隆  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      61X02 </place>
+<note> 限本所，限100人選修。                                                    </note>
+</R0>
+
+<R0 id="308">
+<num>R0-308</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> CEO高階實務管理 （一） </name>
+<teacher> 蔡東峻  </teacher>
+<score> 1 </score>
+<time> [6]B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      61X02 </place>
+<note> 限本所，限100人選修。                                                    </note>
+</R0>
+
+<R0 id="309">
+<num>R0-309</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 企業研究方法 </name>
+<teacher> 吳萬益  </teacher>
+<score> 2 </score>
+<time> [7]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所，限49人選修。                                                     </note>
+</R0>
+
+<R0 id="310">
+<num>R0-310</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 管理經濟 </name>
+<teacher> 康信鴻  </teacher>
+<score> 3 </score>
+<time> [7]3~4  ,  [7]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      61X02 </place>
+<note> 限本所，限80人選修。                                                     </note>
+</R0>
+
+<R0 id="311">
+<num>R0-311</num>
+<class></class>
+<group></group>
+<name> 跨國管理實務融合(一) </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R0>
+
+</content>

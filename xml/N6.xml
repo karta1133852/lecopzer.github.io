@@ -1,0 +1,871 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<N6 id="001">
+<num>N6-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳東陽  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 教室另定限碩、博士、碩專班三年級以上研究生                               </note>
+</N6>
+
+<N6 id="002">
+<num>N6-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構工程專題討論（一） </name>
+<teacher> 吳致平*  ,  盧煉元  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 結構工程組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="003">
+<num>N6-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構工程專題討論（三） </name>
+<teacher> 吳致平   ,  盧煉元* </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 結構工程組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="004">
+<num>N6-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 大地工程專題討論（一） </name>
+<teacher> 倪勝火*  ,  陳景文  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 大地工程組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="005">
+<num>N6-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 大地工程專題討論（三） </name>
+<teacher> 倪勝火   ,  陳景文* </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 大地工程組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="006">
+<num>N6-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 交通工程專題討論（一） </name>
+<teacher> 陳建旭*  ,  楊士賢  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      47160 </place>
+<note> 交通工程組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="007">
+<num>N6-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 交通工程專題討論（三） </name>
+<teacher> 陳建旭   ,  楊士賢* </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      47160 </place>
+<note> 交通工程組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="008">
+<num>N6-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構材料專題討論（一） </name>
+<teacher> 林育芸  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 結構材料組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="009">
+<num>N6-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構材料專題討論（三） </name>
+<teacher> 林育芸  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 結構材料組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="010">
+<num>N6-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工程管理專題討論（一） </name>
+<teacher> 李宇欣   ,  蔡錦松* </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 工程管理組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="011">
+<num>N6-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工程管理專題討論（三） </name>
+<teacher> 李宇欣*  ,  蔡錦松  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 工程管理組（一）（三）合班                                               </note>
+</N6>
+
+<N6 id="021">
+<num>N6-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高樓結構設計 </name>
+<teacher> 甘錫瀅  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 大四，碩博與碩專合班                                                     </note>
+</N6>
+
+<N6 id="022">
+<num>N6-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 有限元素法 </name>
+<teacher> 吳致平  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note> 碩博與碩專合班，甲組核心                                                 </note>
+</N6>
+
+<N6 id="023">
+<num>N6-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構動力學 </name>
+<teacher> 洪李陵  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 碩博與碩專合班，甲組核心                                                 </note>
+</N6>
+
+<N6 id="024">
+<num>N6-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數值分析 </name>
+<teacher> 顏崇斌  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="025">
+<num>N6-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 彈性力學 </name>
+<teacher> 方　中  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note> 碩博與碩專合班，甲組核心，英語授課                                       </note>
+</N6>
+
+<N6 id="026">
+<num>N6-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 板殼力學 </name>
+<teacher> 胡宣德  </teacher>
+<score> 3 </score>
+<time> [2]6~7  ,  [4]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專班合班 ，英語授課                                              </note>
+</N6>
+
+<N6 id="027">
+<num>N6-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構實驗 </name>
+<teacher> 朱聖浩  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4509 </place>
+<note> 碩博與碩專班合班                                                         </note>
+</N6>
+
+<N6 id="028">
+<num>N6-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工程熱力學 </name>
+<teacher> 方　中  </teacher>
+<score> 3 </score>
+<time> [2]7~8  ,  [3]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note> 碩博與碩專班合班，英語授課                                               </note>
+</N6>
+
+<N6 id="029">
+<num>N6-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構控制 </name>
+<teacher> 朱世禹  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="030">
+<num>N6-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構隔減震技術 </name>
+<teacher> 盧煉元  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [2]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="032">
+<num>N6-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 複合材料力學 </name>
+<teacher> 陳東陽  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="035">
+<num>N6-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 軌道工程 </name>
+<teacher> 郭振銘  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="044">
+<num>N6-044</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 地工合成物工程概論 </name>
+<teacher> 黃景川  </teacher>
+<score> 3 </score>
+<time> [3]7  ,  [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="045">
+<num>N6-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數值分析在大地工程上的應用 </name>
+<teacher> 吳建宏  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="046">
+<num>N6-046</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 土壤動力學 </name>
+<teacher> 張文忠  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班，乙組新增核心課程                                         </note>
+</N6>
+
+<N6 id="047">
+<num>N6-047</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 椿基礎分析與設計 </name>
+<teacher> 倪勝火  </teacher>
+<score> 3 </score>
+<time> [5]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="051">
+<num>N6-051</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工程統計 </name>
+<teacher> 陳建旭  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="052">
+<num>N6-052</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等瀝青材料學 </name>
+<teacher> 蕭志銘  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 碩博與碩專合班，丙組核心                                                 </note>
+</N6>
+
+<N6 id="054">
+<num>N6-054</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 舖面分析 </name>
+<teacher> 郭振銘   ,  楊士賢* </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 碩博與碩專合班 ,英文授課                                                 </note>
+</N6>
+
+<N6 id="062">
+<num>N6-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等預力混凝土 </name>
+<teacher> 方一匡  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="064">
+<num>N6-064</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料機械性質 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班，丁組核心課程，英語授課                                   </note>
+</N6>
+
+<N6 id="065">
+<num>N6-065</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等鋼筋混凝土 </name>
+<teacher> 侯琮欽  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班，丁組核心課程                                             </note>
+</N6>
+
+<N6 id="066">
+<num>N6-066</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 非破壞檢測之應用 </name>
+<teacher> 彭朋畿  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4509 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="077">
+<num>N6-077</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 作業研究 </name>
+<teacher> 李宇欣  </teacher>
+<score> 3 </score>
+<time> [3]A  ,  [4]C~D  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班，戊組核心                                                 </note>
+</N6>
+
+<N6 id="301">
+<num>N6-301</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳東陽  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 教室另定限碩、博士、碩專班三年級以上研究生                               </note>
+</N6>
+
+<N6 id="302">
+<num>N6-302</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 吳建宏  </teacher>
+<score> 0 </score>
+<time> [4]A~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note></note>
+</N6>
+
+<N6 id="303">
+<num>N6-303</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 吳建宏  </teacher>
+<score> 0 </score>
+<time> [4]A~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note></note>
+</N6>
+
+<N6 id="321">
+<num>N6-321</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 高樓結構設計 </name>
+<teacher> 甘錫瀅  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 大四，碩博與碩專合班                                                     </note>
+</N6>
+
+<N6 id="322">
+<num>N6-322</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 有限元素法 </name>
+<teacher> 吳致平  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note> 碩博與碩專合班，甲組核心                                                 </note>
+</N6>
+
+<N6 id="323">
+<num>N6-323</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 結構動力學 </name>
+<teacher> 洪李陵  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 碩博與碩專合班，甲組核心                                                 </note>
+</N6>
+
+<N6 id="324">
+<num>N6-324</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 數值分析 </name>
+<teacher> 顏崇斌  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="325">
+<num>N6-325</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 彈性力學 </name>
+<teacher> 方　中  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note> 碩博與碩專合班，甲組核心，英語授課                                       </note>
+</N6>
+
+<N6 id="326">
+<num>N6-326</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 板殼力學 </name>
+<teacher> 胡宣德  </teacher>
+<score> 3 </score>
+<time> [2]6~7  ,  [4]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專班合班 ，英語授課                                              </note>
+</N6>
+
+<N6 id="327">
+<num>N6-327</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 結構實驗 </name>
+<teacher> 朱聖浩  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4509 </place>
+<note> 碩博與碩專班合班                                                         </note>
+</N6>
+
+<N6 id="328">
+<num>N6-328</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 工程熱力學 </name>
+<teacher> 方　中  </teacher>
+<score> 3 </score>
+<time> [2]7~8  ,  [3]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note> 碩博與碩專班合班，英語授課                                               </note>
+</N6>
+
+<N6 id="329">
+<num>N6-329</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 結構控制 </name>
+<teacher> 朱世禹  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="330">
+<num>N6-330</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 結構隔減震技術 </name>
+<teacher> 盧煉元  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [2]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="332">
+<num>N6-332</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 複合材料力學 </name>
+<teacher> 陳東陽  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="335">
+<num>N6-335</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 軌道工程 </name>
+<teacher> 郭振銘  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="344">
+<num>N6-344</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 地工合成物工程概論 </name>
+<teacher> 黃景川  </teacher>
+<score> 3 </score>
+<time> [3]7  ,  [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="345">
+<num>N6-345</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 數值分析在大地工程上的應用 </name>
+<teacher> 吳建宏  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="346">
+<num>N6-346</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 土壤動力學 </name>
+<teacher> 張文忠  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班，乙組新增核心課程                                         </note>
+</N6>
+
+<N6 id="347">
+<num>N6-347</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 椿基礎分析與設計 </name>
+<teacher> 倪勝火  </teacher>
+<score> 3 </score>
+<time> [5]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="351">
+<num>N6-351</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 工程統計 </name>
+<teacher> 陳建旭  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="352">
+<num>N6-352</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 高等瀝青材料學 </name>
+<teacher> 蕭志銘  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 碩博與碩專合班，丙組核心                                                 </note>
+</N6>
+
+<N6 id="354">
+<num>N6-354</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 舖面分析 </name>
+<teacher> 郭振銘   ,  楊士賢* </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 碩博與碩專合班 ,英文授課                                                 </note>
+</N6>
+
+<N6 id="362">
+<num>N6-362</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 高等預力混凝土 </name>
+<teacher> 方一匡  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="364">
+<num>N6-364</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 材料機械性質 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班，丁組核心課程，英語授課                                   </note>
+</N6>
+
+<N6 id="365">
+<num>N6-365</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 高等鋼筋混凝土 </name>
+<teacher> 侯琮欽  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班，丁組核心課程                                             </note>
+</N6>
+
+<N6 id="366">
+<num>N6-366</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 非破壞檢測之應用 </name>
+<teacher> 彭朋畿  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4509 </place>
+<note> 碩博與碩專合班                                                           </note>
+</N6>
+
+<N6 id="377">
+<num>N6-377</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 作業研究 </name>
+<teacher> 李宇欣  </teacher>
+<score> 3 </score>
+<time> [3]A  ,  [4]C~D  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班，戊組核心                                                 </note>
+</N6>
+
+</content>

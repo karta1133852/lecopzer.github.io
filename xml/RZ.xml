@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<RZ id="201">
+<num>RZ-201</num>
+<class></class>
+<group></group>
+<name> 跨國管理實務融合(一) </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</RZ>
+
+<RZ id="202">
+<num>RZ-202</num>
+<class></class>
+<group></group>
+<name> 精實創業進階 </name>
+<teacher> 楊朝旭  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</RZ>
+
+</content>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T9 id="007">
+<num>T9-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 胚胎學 </name>
+<teacher> 郭余民   ,  江謝雅芬*  ,  莫凡毅   ,  司君一   ,  許鍾瑜  </teacher>
+<score> 1 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        820523 </place>
+<note></note>
+</T9>
+
+<T9 id="101">
+<num>T9-101</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 人體解剖學（含實驗） </name>
+<teacher> 郭余民   ,  江謝雅芬*  ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
+<score> 8 </score>
+<time> [1]5~8  ,  [2]1~4  ,  [4]1~4  ,  [5]1~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        820523 </place>
+<note></note>
+</T9>
+
+<T9 id="102">
+<num>T9-102</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 組織學特論 </name>
+<teacher> 江美治*  ,  莫凡毅   ,  司君一   ,  許鍾瑜   ,  王仰高  </teacher>
+<score> 4 </score>
+<time> [2]5~6  ,  [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        820523 </place>
+<note></note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 組織學特論 </name1>
+<time1> [2]7~8  ,  [5]7~8  </time1>
+<place1> 醫學院                        820523 </place1>
+<note1></note1>
+</T9>
+
+<T9 id="103">
+<num>T9-103</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 郭余民   ,  江謝雅芬   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一   ,  許鍾瑜*  ,  王家義   ,  王仰高  </teacher>
+<score> 1 </score>
+<time> [3]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</T9>
+
+<T9 id="104">
+<num>T9-104</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 郭余民   ,  江謝雅芬   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一   ,  許鍾瑜*  ,  王家義   ,  王仰高  </teacher>
+<score> 1 </score>
+<time> [3]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</T9>
+
+<T9 id="107">
+<num>T9-107</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 許鍾瑜* </teacher>
+<score> 0 </score>
+<time> [3]9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</T9>
+
+</content>

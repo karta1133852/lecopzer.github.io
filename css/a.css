@@ -1,0 +1,399 @@
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td {
+	border: 3px solid #666666;
+	text-align: center;
+	height: 50px;
+}
+
+h1 {
+	color: #000034;
+	font-weight: bold;
+
+}
+
+* {
+	box-sizing: border-box;
+
+}
+@font-face{
+	font-family: myF;
+	src: url(KOMIKAX.woff);
+
+}
+
+@keyframes shake{
+	0% {transform :rotate(2deg);
+	-webkit-transform:rotate(2deg);
+	-ms-transform: rotate(2deg);}
+	20% {transform :rotate(-2deg);
+	-webkit-transform:rotate(-2deg);
+	-ms-transform: rotate(-2deg);}
+	40% {transform :rotate(2deg);
+	-webkit-transform:rotate(2deg);
+	-ms-transform: rotate(2deg);}
+	60% {transform :rotate(-2deg);
+	-webkit-transform:rotate(-2deg);
+	-ms-transform: rotate(-2deg);}
+	80% {transform :rotate(2deg);
+	-webkit-transform:rotate(2deg);
+	-ms-transform: rotate(2deg);}
+	100% {transform :rotate(0deg);
+	-webkit-transform:rotate(0deg);
+	-ms-transform: rotate(0deg);}
+}
+@-webkit-keyframes shake{
+	0% {transform :rotate(2deg);
+	-webkit-transform:rotate(2deg);
+	-ms-transform: rotate(2deg);}
+	20% {transform :rotate(-2deg);
+	-webkit-transform:rotate(-2deg);
+	-ms-transform: rotate(-2deg);}
+	40% {transform :rotate(2deg);
+	-webkit-transform:rotate(2deg);
+	-ms-transform: rotate(2deg);}
+	60% {transform :rotate(-2deg);
+	-webkit-transform:rotate(-2deg);
+	-ms-transform: rotate(-2deg);}
+	80% {transform :rotate(2deg);
+	-webkit-transform:rotate(2deg);
+	-ms-transform: rotate(2deg);}
+	100% {transform :rotate(0deg);
+	-webkit-transform:rotate(0deg);
+	-ms-transform: rotate(0deg);}
+}
+
+
+.topNav{
+/*
+	background: linear-gradient(top,#98cf21,#FAFAFA);
+	background: -moz-linear-gradient(top,#98cf21,#FAFAFA);
+	background: -webkit-linear-gradient(top,#98cf21,#FAFAFA);
+	background: -o-linear-gradient(top,#98cf21,#FAFAFA);
+*/
+	background-color: #FAFAFA;
+
+	padding-top: 20px;
+}
+
+
+
+
+.topNavFloat{
+	background-color: #A375FF;
+	position: fixed;
+	left: 80%;
+	bottom: 65%;
+	padding: 15px 0 0 15px;
+	border: 2px solid #80B2FF;
+	width: 20%;
+	z-index: 3;
+	cursor: move;
+}
+
+.topNavFloat form,button{
+	left: 0%;
+
+}
+
+.midNav {
+	background: #FAFAFA;
+	width: 100%;
+	height: 260px;
+}
+
+#tabs {
+	min-height: 280px;
+	margin-top:	17px;
+	width: 80%;
+	left: 10%;
+}
+
+#mainpage {
+	background: #FAFAFA;
+
+}
+
+header{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	max-width: 2200px;
+}
+
+header > ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+header li{
+	float: left;
+	position: relative;
+	width: 20%;
+}
+
+header a{
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #0053CF;
+	text-align: center;
+	padding: 12px;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: block;
+	font-size: 23px;
+
+}
+header a:hover{
+	background-color: #002255;
+
+}
+
+footer{
+	background-color: #75A2E5;
+	margin:0;
+	padding: 2px 0 10px 0;
+	display: block;
+	min-height: 40px;
+
+}
+footer > div{
+	text-align: center;
+}
+
+section{
+	background-color: #FAFAFA;
+	padding: 2px 0 10px 0;
+}
+
+#delBtn{
+	position: relative;
+	margin: 0px 100px 0 0; 
+	float: right;
+}
+
+.addBtn{
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+	left: 44%;
+	position: relative;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+#form{
+	text-align:center;
+	font-size: 22px;
+	font-weight: bold;
+
+}
+#navClassList{
+	background-color: #FAFAFA;
+	border: 0;
+	width: 100%;
+	height: 200px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	resize: vertical;
+	overflow: auto;
+}
+
+#navMiddle{
+	background-color: #FAFAFA;
+}
+
+#navMiddle > button {
+	margin-left: 8px;
+}
+
+#classList{
+	background-color: #FAFAFA;
+	width: 100%;
+	text-align: justify|center;
+}
+#classList p{
+	border: 2px solid #47D1FF;
+	border-radius: 8px;
+	padding: 5px;
+	margin: 10px;
+	transition: box-shadow 0.4s, background-color 0.4s;
+	-webkit-transition: box-shadow 0.4s, background-color 0.4s;
+	animation-name: shake;
+	-webkit-animation-name: shake;
+	animation-duration: 0.2s;
+	-webkit-animation-duration: 0.2s;
+
+}
+
+#classList p:hover{
+	background-color: #85D6FF;
+	cursor: pointer;
+	box-shadow: 3px 5px 5px grey;
+}
+
+.classListClick{
+	background-color: #85D6FF;
+	box-shadow: 3px 5px 5px grey;
+}
+
+.cell{
+	border-radius: 10px;
+	transition: box-shadow 0.4s, background-color 0.4s;
+	-webkit-transition: box-shadow 0.4s, background-color 0.4s;
+}
+
+.cell:hover{
+	background-color: #85D6FF;
+	border: 1px solid #AAAAAA;
+	box-shadow: 3px 5px 5px grey;
+	cursor: pointer;
+}
+
+#cellInfo{
+	width: 230px;
+	position: absolute;
+	padding: 10px 15px 10px 15px;
+	left: 30%;
+	top: 20%;
+	box-shadow: 0 0 10px grey;
+	background-color: #FFF5CC;
+	border-radius: 25px;
+	z-index: 30;
+
+}
+
+#closeInfoBtn{
+	float: right;
+	margin-top: -20px;
+
+}
+
+.home{
+
+	text-decoration: none;
+	color: #000000;
+
+}
+
+#updateNote{
+	padding-top: 0px;
+	padding-left: 35%;
+}
+
+#about{
+	padding-top: 30px;
+/*	padding-left: 15%;*/
+}
+
+#sliderBar{
+	width: 60%;	
+	margin-left: 5px;
+	position: relative;
+}
+
+#sliderBar > input {
+	background-color: #FAFAFA;
+	border-style: none;
+	font-weight: bold;
+}
+
+#sliderBar > div {
+}
+
+.ui-slider .ui-slider-handle {
+	width: 15px;
+}
+
+.ui-slider .ui-slider-range {
+	background: #99CCFF;
+}
+
+.ui-tooltip, .arrow:after {
+    background: #FFFFE0;
+}
+
+.ui-tooltip {
+    padding: 10px 20px;
+    color: black;
+    border-radius: 25px;
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 7px grey;
+}
+.arrow {
+    width: 50px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+}
+.arrow.top {
+    top: -16px;
+    bottom: auto;
+}
+.arrow.left {
+    left: 20%;
+}
+.arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.arrow.top:after {
+    bottom: -20px;
+    top: auto;
+}
+
+
+.ui-tabs { 
+	width: 100%; 
+	background-color:#FAFAFA;
+	border:0;
+	border-style:none;
+	padding: 0;
+}
+
+.ui-tabs .ui-tabs-nav {
+
+	background-color:#FAFAFA;
+}
+
+.ui-tabs .ui-tabs-panel{
+	background-color:#FAFAFA;
+
+}
+
+.ui-tabs .ui-corner-all {
+}
+
+.ui-widget-content {
+}
+
+.ui-widget-header{
+	border: 0;
+	background: white;
+}
+
+#jump {
+	position: fixed;
+	left: 93%;
+	top: 5%;
+	text-decoration: none;	
+	font-weight: bold;
+	font-size: 18px;
+}
+
+

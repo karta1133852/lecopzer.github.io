@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<N3 id="001">
+<num>N3-001</num>
+<class> 碩博一                         </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 吳文中   ,  邱繼正* </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 碩、博士班一年級必修                                                     </note>
+</N3>
+
+<N3 id="002">
+<num>N3-002</num>
+<class> 碩博二                         </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 林家裕  </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93456 </place>
+<note> 碩、博士班二年級必修                                                     </note>
+</N3>
+
+<N3 id="003">
+<num>N3-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 黃定加   ,  吳文中* </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 碩三博三以上必修                                                         </note>
+</N3>
+
+<N3 id="004">
+<num>N3-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等反應工程學 </name>
+<teacher> 吳文中*  ,  吳意珣   ,  林裕川  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [2]3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 碩班甲組生必選（中文授課）                                               </note>
+</N3>
+
+<N3 id="005">
+<num>N3-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等反應工程學 </name>
+<teacher> 吳文中*  ,  吳意珣   ,  林裕川  </teacher>
+<score> 3 </score>
+<time> [2]4  ,  [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note> 碩班甲組生必選（英語授課）                                               </note>
+</N3>
+
+<N3 id="009">
+<num>N3-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等化工熱力學 </name>
+<teacher> 張鑑祥*  ,  陳炳宏   ,  郭人鳳  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [4]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 碩班甲組生必選（中文授課）                                               </note>
+</N3>
+
+<N3 id="010">
+<num>N3-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等化工熱力學 </name>
+<teacher> 張鑑祥*  ,  陳炳宏   ,  郭人鳳  </teacher>
+<score> 3 </score>
+<time> [4]2  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 碩班甲組生必選（英語授課）                                               </note>
+</N3>
+
+<N3 id="023">
+<num>N3-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 界面現象 </name>
+<teacher> 張鑑祥*  ,  李玉郎   ,  楊毓民  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [3]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93706 </place>
+<note></note>
+</N3>
+
+<N3 id="024">
+<num>N3-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 孔洞材料之吸附原理與結構分析 </name>
+<teacher> 鄧熙聖  </teacher>
+<score> 3 </score>
+<time> [1]7~8  ,  [3]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note> 英語授課                                                                 </note>
+</N3>
+
+<N3 id="055">
+<num>N3-055</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高分子表面和界面 </name>
+<teacher> 羅介聰  </teacher>
+<score> 3 </score>
+<time> [4]3~4  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93706 </place>
+<note></note>
+</N3>
+
+<N3 id="105">
+<num>N3-105</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體與光電化學原理 </name>
+<teacher> 吳季珍  </teacher>
+<score> 3 </score>
+<time> [2]7~8  ,  [3]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93706 </place>
+<note></note>
+</N3>
+
+<N3 id="106">
+<num>N3-106</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分析電化學 </name>
+<teacher> 楊明長  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note></note>
+</N3>
+
+<N3 id="109">
+<num>N3-109</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料性質學 </name>
+<teacher> 鍾賢龍  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 英語授課                                                                 </note>
+</N3>
+
+<N3 id="110">
+<num>N3-110</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 廢水高級處理技術 </name>
+<teacher> 黃耀輝  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93352 </place>
+<note></note>
+</N3>
+
+<N3 id="112">
+<num>N3-112</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 酵素及醱酵工程 </name>
+<teacher> 張嘉修   ,  吳意珣* </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93420 </place>
+<note></note>
+</N3>
+
+<N3 id="117">
+<num>N3-117</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 能源與環境生物技術 </name>
+<teacher> 張嘉修  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93420 </place>
+<note></note>
+</N3>
+
+<N3 id="118">
+<num>N3-118</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 機能性高分子特論 </name>
+<teacher> 劉瑞祥  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note> 英語授課                                                                 </note>
+</N3>
+
+<N3 id="120">
+<num>N3-120</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分子螢光學的原理與應用 </name>
+<teacher> 吳文中  </teacher>
+<score> 3 </score>
+<time> [1]8  ,  [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93706 </place>
+<note></note>
+</N3>
+
+<N3 id="125">
+<num>N3-125</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體與光電元件 </name>
+<teacher> 洪昭南  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93422 </place>
+<note></note>
+</N3>
+
+<N3 id="127">
+<num>N3-127</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 尺度分析概念于微流控之應用 </name>
+<teacher> 魏憲鴻  </teacher>
+<score> 3 </score>
+<time> [1]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note></note>
+</N3>
+
+<N3 id="128">
+<num>N3-128</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 化學工程（一） </name>
+<teacher> 林家裕  </teacher>
+<score> 3 </score>
+<time> [2]7~8  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93422 </place>
+<note></note>
+</N3>
+
+</content>

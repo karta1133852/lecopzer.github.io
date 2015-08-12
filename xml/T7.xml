@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T7 id="001">
+<num>T7-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 職能治療理論與應用 </name>
+<teacher> 林玲伊*  ,  郭立杰   ,  陳官琳   ,  黃百川  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        307 </place>
+<note></note>
+</T7>
+
+<T7 id="003">
+<num>T7-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英*  ,  郭立杰   ,  陳官琳   ,  黃百川  </teacher>
+<score> 1 </score>
+<time> [2]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 隔週上課                                                                 </note>
+</T7>
+
+<T7 id="005">
+<num>T7-005</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英*  ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川  </teacher>
+<score> 1 </score>
+<time> [2]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 隔週上課                                                                 </note>
+</T7>
+
+<T7 id="011">
+<num>T7-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 職能治療研究工具之應用 </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  林玲伊   ,  徐秀雲   ,  郭立杰*  ,  陳官琳   ,  黃百川  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note></note>
+</T7>
+
+<T7 id="012">
+<num>T7-012</num>
+<class></class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  汪翠瀅   ,  林玲伊   ,  馬慧英*  ,  張玲慧   ,  陳官琳  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</T7>
+
+<T7 id="013">
+<num>T7-013</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 獨立研究（一） </name>
+<teacher> 林玲伊   ,  郭立杰   ,  陳官琳* </teacher>
+<score> 1 </score>
+<time> [2]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</T7>
+
+<T7 id="014">
+<num>T7-014</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 生物統計學 </name>
+<teacher> 王亮懿   ,  李中一* </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note></note>
+</T7>
+
+<T7 id="015">
+<num>T7-015</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 調查研究法 </name>
+<teacher> 張哲豪*  ,  黃雅淑   ,  林玲伊   ,  陳官琳  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</T7>
+
+<T7 id="016">
+<num>T7-016</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 教學實習（一） </name>
+<teacher> 汪翠瀅* </teacher>
+<score> 0 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</T7>
+
+</content>

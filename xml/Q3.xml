@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<Q3 id="001">
+<num>Q3-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳　敬  </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 電腦網路甲組                                                             </note>
+</Q3>
+
+<Q3 id="002">
+<num>Q3-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 郭文光*  ,  劉光浩  </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 通信網路乙丙丁組                                                         </note>
+</Q3>
+
+<Q3 id="006">
+<num>Q3-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 通訊理論 </name>
+<teacher> 蘇賜麟  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note> 限選修人數25 人                                                          </note>
+</Q3>
+
+<Q3 id="007">
+<num>Q3-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 通信網路 </name>
+<teacher> 李忠憲  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note> 選修人數限制25人                                                         </note>
+</Q3>
+
+<Q3 id="008">
+<num>Q3-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數位訊號處理 </name>
+<teacher> 楊家輝  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 碩專與碩博合班                                                           </note>
+</Q3>
+
+<Q3 id="012">
+<num>Q3-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微波工程 </name>
+<teacher> 蔡智明  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note></note>
+</Q3>
+
+<Q3 id="013">
+<num>Q3-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 隨機程序 </name>
+<teacher> 張名先  </teacher>
+<score> 3 </score>
+<time> [2]6~7  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      靄雲廳 </place>
+<note></note>
+</Q3>
+
+<Q3 id="015">
+<num>Q3-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計算機圖像系統 </name>
+<teacher> 陳立祥  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 碩專、碩博合班                                                           </note>
+</Q3>
+
+<Q3 id="023">
+<num>Q3-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 嵌入式軟體設計特論 </name>
+<teacher> 陳　敬  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92523 </place>
+<note></note>
+</Q3>
+
+<Q3 id="025">
+<num>Q3-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光纖至府接取網路專論 </name>
+<teacher> 黃振發  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92383 </place>
+<note></note>
+</Q3>
+
+<Q3 id="026">
+<num>Q3-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 射頻訊號與系統分析專論 </name>
+<teacher> 莊惠如  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</Q3>
+
+<Q3 id="027">
+<num>Q3-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 近代通訊專論 </name>
+<teacher> 張志文  </teacher>
+<score> 3 </score>
+<time> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note></note>
+</Q3>
+
+<Q3 id="028">
+<num>Q3-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 資料壓縮 </name>
+<teacher> 戴顯權  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92523 </place>
+<note></note>
+</Q3>
+
+<Q3 id="029">
+<num>Q3-029</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳中和*  ,  謝錫堃  </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92523 </place>
+<note> 電腦網路甲組                                                             </note>
+</Q3>
+
+<Q3 id="030">
+<num>Q3-030</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳進興*  ,  鄭光偉  </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92926 </place>
+<note> 通信網路乙丙丁組                                                         </note>
+</Q3>
+
+<Q3 id="033">
+<num>Q3-033</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 詹寶珠  </teacher>
+<score> 0 </score>
+<time> [3]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92523 </place>
+<note> 電腦網路組                                                               </note>
+</Q3>
+
+<Q3 id="034">
+<num>Q3-034</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 張名先*  ,  蘇賜麟  </teacher>
+<score> 0 </score>
+<time> [4]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92171 </place>
+<note> 通信網路乙丙丁組                                                         </note>
+</Q3>
+
+<Q3 id="035">
+<num>Q3-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 無線通訊技術與系統專論 </name>
+<teacher> 蘇賜麟  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note> 先修科目為通信理論、錯誤控制編碼及通信網路                               </note>
+</Q3>
+
+<Q3 id="037">
+<num>Q3-037</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 多媒體網際網路應用 </name>
+<teacher> 陳立祥  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92283 </place>
+<note> 大四碩士合班                                                             </note>
+</Q3>
+
+<Q3 id="038">
+<num>Q3-038</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 戴顯權  </teacher>
+<score> 0 </score>
+<time> [2]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92523 </place>
+<note></note>
+</Q3>
+
+<Q3 id="039">
+<num>Q3-039</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 莊惠如   ,  楊家輝* </teacher>
+<score> 0 </score>
+<time> [4]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</Q3>
+
+<Q3 id="040">
+<num>Q3-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 機器學習 </name>
+<teacher> 詹寶珠  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92523 </place>
+<note> 英文授課                                                                 </note>
+</Q3>
+
+<Q3 id="041">
+<num>Q3-041</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等軟體工程 </name>
+<teacher> 焦惠津  </teacher>
+<score> 3 </score>
+<time> [3]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note></note>
+</Q3>
+
+<Q3 id="042">
+<num>Q3-042</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 網路管理 </name>
+<teacher> 楊竹星  </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92271 </place>
+<note></note>
+</Q3>
+
+<Q3 id="043">
+<num>Q3-043</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 小波訊號處理 </name>
+<teacher> 陳進興  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</Q3>
+
+<Q3 id="045">
+<num>Q3-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 傅立葉分析 </name>
+<teacher> 陳進興  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</Q3>
+
+<Q3 id="046">
+<num>Q3-046</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 網路效能分析模擬 </name>
+<teacher> 郭文光  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</Q3>
+
+<Q3 id="050">
+<num>Q3-050</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 單石射頻積體電路設計 </name>
+<teacher> 鄭光偉  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note> 碩博與電通所合班                                                         </note>
+</Q3>
+
+<Q3 id="051">
+<num>Q3-051</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 科技教育與電子教具設計 </name>
+<teacher> 林偉棻  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note> 大四碩士合班                                                             </note>
+</Q3>
+
+<Q3 id="052">
+<num>Q3-052</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 光電通訊系統 </name>
+<teacher> 黃振發  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</Q3>
+
+</content>

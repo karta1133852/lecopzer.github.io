@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<Q6 id="001">
+<num>Q6-001</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題研討（三） </name>
+<teacher> 謝明得  </teacher>
+<score> 0 </score>
+<time> [6]3~4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92277 </place>
+<note></note>
+</Q6>
+
+<Q6 id="003">
+<num>Q6-003</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 計算機圖像系統 </name>
+<teacher> 陳立祥  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 碩專、碩博合班                                                           </note>
+</Q6>
+
+<Q6 id="005">
+<num>Q6-005</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 電力測試與保護 </name>
+<teacher> 陳建富  </teacher>
+<score> 3 </score>
+<time> [7]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 週日第二至四節　碩博碩專合班                                             </note>
+</Q6>
+
+<Q6 id="006">
+<num>Q6-006</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 電力電子特論 </name>
+<teacher> 林瑞禮  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      靄雲廳 </place>
+<note> 碩博專班合班　英語授課                                                   </note>
+</Q6>
+
+<Q6 id="007">
+<num>Q6-007</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 高電壓工程特論 </name>
+<teacher> 黃慶連  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 碩博碩專合班                                                             </note>
+</Q6>
+
+<Q6 id="008">
+<num>Q6-008</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 直流微系統導論與應用 </name>
+<teacher> 楊宏澤  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 碩博碩專合班                                                             </note>
+</Q6>
+
+</content>

@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<R6 id="002">
+<num>R6-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 張紹基  </teacher>
+<score> 1 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="003">
+<num>R6-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 國際企業管理 </name>
+<teacher> 曾瓊慧  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R6>
+
+<R6 id="004">
+<num>R6-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 國際財務管理 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R6>
+
+<R6 id="005">
+<num>R6-005</num>
+<class> 碩                             </class>
+<group></group>
+<name> 國際行銷管理 </name>
+<teacher> 劉佳玲  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="007">
+<num>R6-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 資訊管理 </name>
+<teacher> 張心馨  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</R6>
+
+<R6 id="008">
+<num>R6-008</num>
+<class> 碩                             </class>
+<group></group>
+<name> 作業管理 </name>
+<teacher> 葉桂珍  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R6>
+
+<R6 id="010">
+<num>R6-010</num>
+<class> 碩                             </class>
+<group></group>
+<name> 財務管理 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="012">
+<num>R6-012</num>
+<class> 碩                             </class>
+<group></group>
+<name> 行銷管理 </name>
+<teacher> 賴孟寬  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R6>
+
+<R6 id="014">
+<num>R6-014</num>
+<class> 碩                             </class>
+<group></group>
+<name> 策略物流與流通企業管理 </name>
+<teacher> 劉宗其  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="015">
+<num>R6-015</num>
+<class> 碩                             </class>
+<group></group>
+<name> 策略行銷 </name>
+<teacher> 蔡燿全  </teacher>
+<score> 3 </score>
+<time> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="017">
+<num>R6-017</num>
+<class> 碩                             </class>
+<group></group>
+<name> 策略性人力資源管理 </name>
+<teacher> 史習安  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62212 </place>
+<note></note>
+</R6>
+
+<R6 id="018">
+<num>R6-018</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 創業管理 </name>
+<teacher> 王瑜琳  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62422 </place>
+<note></note>
+</R6>
+
+<R6 id="019">
+<num>R6-019</num>
+<class> 碩                             </class>
+<group></group>
+<name> 國際行銷與策略專題 </name>
+<teacher> 蔡惠婷  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="021">
+<num>R6-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 定性與量化研究 </name>
+<teacher> 張心馨  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62455 </place>
+<note></note>
+</R6>
+
+<R6 id="023">
+<num>R6-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 行為科學專題 </name>
+<teacher> 葉桂珍  </teacher>
+<score> 3 </score>
+<time> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62457 </place>
+<note></note>
+</R6>
+
+<R6 id="025">
+<num>R6-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計量經濟學 </name>
+<teacher> 康信鴻  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62422 </place>
+<note></note>
+</R6>
+
+<R6 id="027">
+<num>R6-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 財務實証專題討論 </name>
+<teacher> 江明憲  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R6>
+
+<R6 id="029">
+<num>R6-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計量經濟學 </name>
+<teacher> 江明憲  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="031">
+<num>R6-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 多國籍企業專題討論 </name>
+<teacher> 曾瓊慧  </teacher>
+<score> 3 </score>
+<time> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="035">
+<num>R6-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 社群與創新管理專題 </name>
+<teacher> 陳淑惠  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62455 </place>
+<note></note>
+</R6>
+
+<R6 id="037">
+<num>R6-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 多變量分析 </name>
+<teacher> 黃瀞瑩  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62422 </place>
+<note></note>
+</R6>
+
+<R6 id="039">
+<num>R6-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 質性研究方法 </name>
+<teacher> 周信輝  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R6>
+
+<R6 id="041">
+<num>R6-041</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 亞太經貿國際情勢分析 </name>
+<teacher> 胡聯國  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</R6>
+
+<R6 id="043">
+<num>R6-043</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 史習安  </teacher>
+<score> 0 </score>
+<time> [6]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62422 </place>
+<note></note>
+</R6>
+
+</content>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<S8 id="001">
+<num>S8-001</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 研究設計 </name>
+<teacher> 游一龍*  ,  余睿羚   ,  呂宗學  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        205D </place>
+<note></note>
+</S8>
+
+<S8 id="002">
+<num>S8-002</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陸汝斌   ,  游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        604 </place>
+<note> 隔週上                                                                   </note>
+</S8>
+
+<S8 id="003">
+<num>S8-003</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 專題研究（一） </name>
+<teacher> 游一龍*  ,  柯慧貞   ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 1 </score>
+<time> [1]0  ,  [2]0  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note></note>
+</S8>
+
+<S8 id="004">
+<num>S8-004</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陸汝斌   ,  游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        604 </place>
+<note> 隔週上                                                                   </note>
+</S8>
+
+<S8 id="005">
+<num>S8-005</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 專題研究（三） </name>
+<teacher> 游一龍*  ,  柯慧貞   ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 1 </score>
+<time> [1]0  ,  [2]0  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note></note>
+</S8>
+
+<S8 id="006">
+<num>S8-006</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 行為與醫學 </name>
+<teacher> 陸汝斌   ,  游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 1 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note> 隔週上課                                                                 </note>
+</S8>
+
+<S8 id="007">
+<num>S8-007</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陸汝斌   ,  游一龍*  ,  柯慧貞   ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 0 </score>
+<time> [3]0  ,  [4]0  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 供碩三以上尚缺論文學分學生選修                                           </note>
+</S8>
+
+<S8 id="008">
+<num>S8-008</num>
+<class></class>
+<group></group>
+<name> 臨床心理實習（一） </name>
+<teacher> 郭乃文   ,  黃惠玲   ,  余睿羚* </teacher>
+<score> 8 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</S8>
+
+<S8 id="009">
+<num>S8-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 臨床神經心理學 </name>
+<teacher> 余睿羚  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 先修過變態心理學                                                         </note>
+</S8>
+
+<S8 id="010">
+<num>S8-010</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 臨床心理治療 </name>
+<teacher> 郭乃文  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note></note>
+</S8>
+
+<S8 id="011">
+<num>S8-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 物質濫用專題（一） </name>
+<teacher> 游一龍  </teacher>
+<score> 1 </score>
+<time> [4]1~2  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 所研討室                                                                 </note>
+</S8>
+
+<S8 id="012">
+<num>S8-012</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 物質濫用專題（三） </name>
+<teacher> 游一龍  </teacher>
+<score> 1 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 所研討室                                                                 </note>
+</S8>
+
+<S8 id="013">
+<num>S8-013</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 兒童心理治療 </name>
+<teacher> 黃惠玲  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 需先修過臨床心理病理學之學生才能選修此課程                               </note>
+</S8>
+
+<S8 id="014">
+<num>S8-014</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 復健心理學 </name>
+<teacher> 郭乃文  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</S8>
+
+<S8 id="015">
+<num>S8-015</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 臨床心理病理學 </name>
+<teacher> 郭乃文   ,  余睿羚* </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note></note>
+</S8>
+
+<S8 id="016">
+<num>S8-016</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 臨床心理衡鑑 </name>
+<teacher> 黃惠玲  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 需先修過臨床心理病理學之同學,才能修本課程                                </note>
+</S8>
+
+<S8 id="017">
+<num>S8-017</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 憂鬱自殺及成癮 </name>
+<teacher> 柯慧貞  </teacher>
+<score> 3 </score>
+<time> [5]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
+<note></note>
+</S8>
+
+<S8 id="018">
+<num>S8-018</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 心理健康雲端經營專題(一) </name>
+<teacher> 侯廷偉   ,  郭乃文* </teacher>
+<score> 1 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</S8>
+
+<S8 id="019">
+<num>S8-019</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 高齡者之心智功能照護 </name>
+<teacher> 余睿羚  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note> 學生需先修過臨床神經心理學、臨床心理病理學、神經退化性疾患概論           </note>
+</S8>
+
+<S8 id="020">
+<num>S8-020</num>
+<class></class>
+<group></group>
+<name> 臨床心理實習（二） </name>
+<teacher> 郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 8 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</S8>
+
+<S8 id="021">
+<num>S8-021</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 創傷後壓力症候群概論 </name>
+<teacher> 蕭雅心  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</S8>
+
+<S8 id="022">
+<num>S8-022</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 論診斷分類(2) </name>
+<teacher> 陸汝斌  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 12B病房會議室                                                            </note>
+</S8>
+
+</content>

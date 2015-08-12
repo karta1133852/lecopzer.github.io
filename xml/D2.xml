@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<D2 id="004">
+<num>D2-004</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 馬上鈞  </teacher>
+<score> 0 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            體育室前 </place>
+<note></note>
+</D2>
+
+<D2 id="006">
+<num>D2-006</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 陳俊仁  </teacher>
+<score> 0 </score>
+<time> [3]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="007">
+<num>D2-007</num>
+<class></class>
+<group></group>
+<name> 憲法 </name>
+<teacher> 陳怡凱  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="008">
+<num>D2-008</num>
+<class></class>
+<group></group>
+<name> 憲法 </name>
+<teacher> 許登科  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="009">
+<num>D2-009</num>
+<class></class>
+<group></group>
+<name> 民法總則 </name>
+<teacher> 葉婉如  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="010">
+<num>D2-010</num>
+<class></class>
+<group></group>
+<name> 民法總則 </name>
+<teacher> 陳思廷  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="014">
+<num>D2-014</num>
+<class></class>
+<group></group>
+<name> 羅馬法 </name>
+<teacher> 李君韜  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80103 </place>
+<note> 基礎法學                                                                 </note>
+</D2>
+
+<D2 id="015">
+<num>D2-015</num>
+<class></class>
+<group></group>
+<name> 法學緒論 </name>
+<teacher> 李君韜  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 基礎法學                                                                 </note>
+</D2>
+
+<D2 id="055">
+<num>D2-055</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 顏雅倫  </teacher>
+<score> 0 </score>
+<time> [2]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="057">
+<num>D2-057</num>
+<class></class>
+<group></group>
+<name> 行政法（一） </name>
+<teacher> 王毓正  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="058">
+<num>D2-058</num>
+<class></class>
+<group></group>
+<name> 民法債編總論（一） </name>
+<teacher> 顏雅倫  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="060">
+<num>D2-060</num>
+<class></class>
+<group></group>
+<name> 民法親屬編 </name>
+<teacher> 郭書琴  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="062">
+<num>D2-062</num>
+<class></class>
+<group></group>
+<name> 刑法分則（一） </name>
+<teacher> 王士帆  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="063">
+<num>D2-063</num>
+<class></class>
+<group></group>
+<name> 刑法分則（一） </name>
+<teacher> 王效文  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="064">
+<num>D2-064</num>
+<class></class>
+<group></group>
+<name> 民法物權編（一） </name>
+<teacher> 鄭玉山  </teacher>
+<score> 2 </score>
+<time> [4]A~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="065">
+<num>D2-065</num>
+<class></class>
+<group></group>
+<name> 民法物權編（一） </name>
+<teacher> 李君韜  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="066">
+<num>D2-066</num>
+<class></class>
+<group></group>
+<name> 法學德文（一） </name>
+<teacher> 葉婉如  </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 法學外文                                                                 </note>
+</D2>
+
+<D2 id="067">
+<num>D2-067</num>
+<class></class>
+<group></group>
+<name> 電腦與網路刑法 </name>
+<teacher> 王士帆  </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 特別法                                                                   </note>
+</D2>
+
+<D2 id="102">
+<num>D2-102</num>
+<class></class>
+<group></group>
+<name> 民法債編各論（一） </name>
+<teacher> 侯英泠  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="104">
+<num>D2-104</num>
+<class></class>
+<group></group>
+<name> 刑事訴訟法（一） </name>
+<teacher> 李佳玟  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="105">
+<num>D2-105</num>
+<class></class>
+<group></group>
+<name> 刑事訴訟法（一） </name>
+<teacher> 陳運財  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="106">
+<num>D2-106</num>
+<class></class>
+<group></group>
+<name> 民事訴訟法（一） </name>
+<teacher> 郭書琴  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="107">
+<num>D2-107</num>
+<class></class>
+<group></group>
+<name> 民事訴訟法（一） </name>
+<teacher> 邵靖惠  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依本系學號分班原則選課。  </note>
+</D2>
+
+<D2 id="108">
+<num>D2-108</num>
+<class></class>
+<group></group>
+<name> 海商法 </name>
+<teacher> 許忠信  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="109">
+<num>D2-109</num>
+<class></class>
+<group></group>
+<name> 票據法 </name>
+<teacher> 顏雅倫  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 合班上課                                                                 </note>
+</D2>
+
+<D2 id="111">
+<num>D2-111</num>
+<class></class>
+<group></group>
+<name> 行政救濟法 </name>
+<teacher> 蔡志方  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80205 </place>
+<note> 特別法                                                                   </note>
+</D2>
+
+<D2 id="112">
+<num>D2-112</num>
+<class></class>
+<group></group>
+<name> 刑法實例研究 </name>
+<teacher> 王效文  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 專題及實例研討                                                           </note>
+</D2>
+
+<D2 id="113">
+<num>D2-113</num>
+<class></class>
+<group></group>
+<name> 環境法 </name>
+<teacher> 王毓正  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 特別法                                                                   </note>
+</D2>
+
+<D2 id="114">
+<num>D2-114</num>
+<class></class>
+<group></group>
+<name> 進階刑法分則 </name>
+<teacher> 古承宗  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 專題及實例研討                                                           </note>
+</D2>
+
+<D2 id="118">
+<num>D2-118</num>
+<class></class>
+<group></group>
+<name> 消費者債務清理條例 </name>
+<teacher> 王金龍  </teacher>
+<score> 2 </score>
+<time> [6]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 特別法                                                                   </note>
+</D2>
+
+<D2 id="152">
+<num>D2-152</num>
+<class></class>
+<group></group>
+<name> 證券交易法專題研究（一） </name>
+<teacher> 陳俊仁  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 專題及實例研討                                                           </note>
+</D2>
+
+<D2 id="153">
+<num>D2-153</num>
+<class></class>
+<group></group>
+<name> 刑事交互詰問 </name>
+<teacher> 陳運財  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 專題及實例研討                                                           </note>
+</D2>
+
+<D2 id="154">
+<num>D2-154</num>
+<class></class>
+<group></group>
+<name> 法理學（一） </name>
+<teacher> 王效文  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 基礎法學                                                                 </note>
+</D2>
+
+<D2 id="155">
+<num>D2-155</num>
+<class></class>
+<group></group>
+<name> 國際爭端解決法 </name>
+<teacher> 陳怡凱  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 特別法                                                                   </note>
+</D2>
+
+<D2 id="156">
+<num>D2-156</num>
+<class></class>
+<group></group>
+<name> 國際海洋法 </name>
+<teacher> 陳怡凱  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 特別法                                                                   </note>
+</D2>
+
+<D2 id="157">
+<num>D2-157</num>
+<class></class>
+<group></group>
+<name> 國際私法 </name>
+<teacher> 邵靖惠  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80203 </place>
+<note> 特別法                                                                   </note>
+</D2>
+
+<D2 id="158">
+<num>D2-158</num>
+<class></class>
+<group></group>
+<name> 刑事訴訟法爭議問題研究（一） </name>
+<teacher> 王士帆  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 專題及實例研討                                                           </note>
+</D2>
+
+</content>

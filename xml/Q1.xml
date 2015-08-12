@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<Q1 id="002">
+<num>Q1-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子構裝技術 </name>
+<teacher> 洪茂峰  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="003">
+<num>Q1-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 表面科學 </name>
+<teacher> 陳建瑞  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</Q1>
+
+<Q1 id="005">
+<num>Q1-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> ＵＬＳＩ元件物理 </name>
+<teacher> 陳志方  </teacher>
+<score> 3 </score>
+<time> [3]4  ,  [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92225 </place>
+<note></note>
+</Q1>
+
+<Q1 id="007">
+<num>Q1-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳志方  </teacher>
+<score> 0 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note></note>
+</Q1>
+
+<Q1 id="008">
+<num>Q1-008</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 許渭州*  ,  劉文超  </teacher>
+<score> 0 </score>
+<time> [2]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="009">
+<num>Q1-009</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 洪茂峰  </teacher>
+<score> 0 </score>
+<time> [3]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="010">
+<num>Q1-010</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 彭洞清  </teacher>
+<score> 0 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="011">
+<num>Q1-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 雷射工程 </name>
+<teacher> 蔡宗祐  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="014">
+<num>Q1-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高功率GaN-基LED製程專論 </name>
+<teacher> 王水進  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="015">
+<num>Q1-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體元件模擬分析 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note> 電機所與微電子所合班                                                     </note>
+</Q1>
+
+<Q1 id="022">
+<num>Q1-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 寬能隙半導體專論 </name>
+<teacher> 張守進  </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92171 </place>
+<note></note>
+</Q1>
+
+<Q1 id="023">
+<num>Q1-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高速元件 </name>
+<teacher> 劉文超  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="028">
+<num>Q1-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體及先進奈米化製程技術概論（一） </name>
+<teacher> 王英郎  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 台積電主管開授(一),(二)都需修課                                          </note>
+</Q1>
+
+<Q1 id="029">
+<num>Q1-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體元件物理 </name>
+<teacher> 王水進  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</Q1>
+
+<Q1 id="030">
+<num>Q1-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光電元件設計與模擬 </name>
+<teacher> 張守進  </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="032">
+<num>Q1-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 金氧半元件理論 </name>
+<teacher> 江孟學  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note> 英語授課                                                                 </note>
+</Q1>
+
+<Q1 id="033">
+<num>Q1-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體製程 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92171 </place>
+<note></note>
+</Q1>
+
+<Q1 id="034">
+<num>Q1-034</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 開發創新發明專題 </name>
+<teacher> 李清庭  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92283 </place>
+<note></note>
+</Q1>
+
+<Q1 id="035">
+<num>Q1-035</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電子與奈米材料分析 </name>
+<teacher> 李文熙  </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92377 </place>
+<note></note>
+</Q1>
+
+<Q1 id="037">
+<num>Q1-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 量子電子學 </name>
+<teacher> 莊文魁  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+</content>

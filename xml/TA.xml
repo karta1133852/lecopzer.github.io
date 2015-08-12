@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<TA id="001">
+<num>TA-001</num>
+<class> 博一                           </class>
+<group></group>
+<name> 臨床研究設計（一） </name>
+<teacher> 張瑩如   ,  柯乃熒   ,  王秀雲   ,  成戎珠   ,  黃百川   ,  李中一   ,  王榮德   ,  陳彰惠* </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 教室：健照所會議室                                                       </note>
+</TA>
+
+<TA id="002">
+<num>TA-002</num>
+<class> 博一                           </class>
+<group></group>
+<name> 健康照護專題討論（一） </name>
+<teacher> 顏妙芬   ,  王靜枝   ,  陳靜敏   ,  陸汝斌*  ,  洪菁霞   ,  張哲豪   ,  郭立杰   ,  陳彰惠  </teacher>
+<score> 1 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</TA>
+
+<TA id="003">
+<num>TA-003</num>
+<class></class>
+<group></group>
+<name> 獨立研究（一） </name>
+<teacher> 林梅鳳   ,  王靜枝   ,  陳靜敏   ,  黃英修   ,  洪菁霞   ,  張哲豪   ,  陳彰惠  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</TA>
+
+<TA id="004">
+<num>TA-004</num>
+<class> 博一                           </class>
+<group></group>
+<name> 護理哲理與知識建構 </name>
+<teacher> 陳彰惠* </teacher>
+<score> 3 </score>
+<time> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：健照所會議室                                                   </note>
+</TA>
+
+<TA id="005">
+<num>TA-005</num>
+<class> 博一                           </class>
+<group></group>
+<name> 護理哲理與知識建構 </name>
+<teacher> 陳彰惠* </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 醫學院圖書館PBL211                                                       </note>
+</TA>
+
+<TA id="006">
+<num>TA-006</num>
+<class></class>
+<group></group>
+<name> 獨立研究（三） </name>
+<teacher> 謝淑蘭   ,  張瑩如   ,  陳清惠   ,  許玉雲   ,  王靜枝   ,  陳靜敏   ,  黃英修   ,  洪菁霞   ,  郭乃文  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</TA>
+
+<TA id="007">
+<num>TA-007</num>
+<class> 博二                           </class>
+<group></group>
+<name> 健康照護專題討論（三） </name>
+<teacher> 許玉雲   ,  王靜枝   ,  陳靜敏   ,  陸汝斌*  ,  黃英修   ,  洪菁霞   ,  郭立杰   ,  郭乃文  </teacher>
+<score> 1 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</TA>
+
+<TA id="008">
+<num>TA-008</num>
+<class> 博二                           </class>
+<group></group>
+<name> 婦女健康專論 </name>
+<teacher> 陳彰惠* </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 醫學院圖書館PBL211                                                       </note>
+</TA>
+
+<TA id="009">
+<num>TA-009</num>
+<class> 博二                           </class>
+<group></group>
+<name> 跨領域高齡研究新趨勢 </name>
+<teacher> 馬慧英* </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 健照所會議室(高齡健康與照護研究群選修                                    </note>
+</TA>
+
+<TA id="010">
+<num>TA-010</num>
+<class> 博                             </class>
+<group></group>
+<name> 認知與腦波 </name>
+<teacher> 謝淑蘭  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note> 開放大三與大四學生選修(動作科學與照護研究群                              </note>
+</TA>
+
+<TA id="011">
+<num>TA-011</num>
+<class> 博二                           </class>
+<group></group>
+<name> 心理健康特論 </name>
+<teacher> 郭乃文  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 健照所會議室(心理健康研究群必選)                                         </note>
+</TA>
+
+<TA id="012">
+<num>TA-012</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 長期照護之運動與健康促進 </name>
+<teacher> 洪菁霞  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</TA>
+
+<TA id="013">
+<num>TA-013</num>
+<class></class>
+<group></group>
+<name> 臨床心理督導實務 </name>
+<teacher> 郭乃文  </teacher>
+<score> 2 </score>
+<time> [5]9~A  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</TA>
+
+<TA id="014">
+<num>TA-014</num>
+<class> 博                             </class>
+<group></group>
+<name> 健康照護專業英語學術溝通技巧（一） </name>
+<teacher> 林呈鳳* </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 健照所會議室                                                             </note>
+</TA>
+
+<TA id="015">
+<num>TA-015</num>
+<class></class>
+<group></group>
+<name> 教學實習（一） </name>
+<teacher> 郭乃文  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</TA>
+
+<TA id="016">
+<num>TA-016</num>
+<class> 博                             </class>
+<group></group>
+<name> 質性研究實作：訪談資料收集與分析 </name>
+<teacher> 陳麗光  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        205D </place>
+<note> 本所與老年所合開(屬研究法課程)                                           </note>
+</TA>
+
+<TA id="017">
+<num>TA-017</num>
+<class></class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 謝淑蘭   ,  張瑩如   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  陳清惠   ,  許玉雲   ,  王靜枝   ,  陳靜敏   ,  黃英修   ,  郭立杰   ,  柯慧貞   ,  王榮德   ,  陳彰惠  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</TA>
+
+</content>

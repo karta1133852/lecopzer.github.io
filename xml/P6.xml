@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<P6 id="001">
+<num>P6-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 測量專題討論（一） </name>
+<teacher> 江凱偉  </teacher>
+<score> 0 </score>
+<time> [1]6~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 測量系館                      55250 </place>
+<note></note>
+</P6>
+
+<P6 id="010">
+<num>P6-010</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 測量專題討論（三） </name>
+<teacher> 朱宏杰  </teacher>
+<score> 1 </score>
+<time> [1]6~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 測量系館                      55160 </place>
+<note></note>
+</P6>
+
+<P6 id="015">
+<num>P6-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 江凱偉  </teacher>
+<score> 0 </score>
+<time> [2]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note> 博碩三(含)以上學生選修                                                   </note>
+</P6>
+
+<P6 id="020">
+<num>P6-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 空間資訊系統 </name>
+<teacher> 洪榮宏  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+<P6 id="030">
+<num>P6-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 小波基礎理論與應用 </name>
+<teacher> 蔡展榮  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+<P6 id="035">
+<num>P6-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數值攝影測量 </name>
+<teacher> 饒見有  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+<P6 id="036">
+<num>P6-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 衛星雷達測高 </name>
+<teacher> 郭重言  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+<P6 id="038">
+<num>P6-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 類神經網路理論及空間資訊處理之應用 </name>
+<teacher> 張秀雯  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+<P6 id="040">
+<num>P6-040</num>
+<class> 碩                             </class>
+<group></group>
+<name> 數位影像處理 </name>
+<teacher> 林昭宏  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+<P6 id="101">
+<num>P6-101</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 尤瑞哲   ,  王驥魁   ,  郭重言* </teacher>
+<score> 1 </score>
+<time> [2]9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+<P6 id="104">
+<num>P6-104</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 洪榮宏   ,  蔡展榮   ,  江凱偉   ,  王驥魁   ,  郭重言* </teacher>
+<score> 1 </score>
+<time> [3]9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55150 </place>
+<note></note>
+</P6>
+
+</content>

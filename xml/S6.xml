@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<S6 id="001">
+<num>S6-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥品治療學 </name>
+<teacher> 高雅慧*  ,  王明誠  </teacher>
+<score> 4 </score>
+<time> [2]3~4  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 醫院藥學組                                                               </note>
+</S6>
+
+<S6 id="002">
+<num>S6-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 臨床藥學專題討論（一） </name>
+<teacher> 徐之昇   ,  洪欣儀   ,  吳天賞   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
+<score> 1 </score>
+<time> [2]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 醫院藥學組                                                               </note>
+</S6>
+
+<S6 id="003">
+<num>S6-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 物理藥學特論 </name>
+<teacher> 蔡瑞真* </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</S6>
+
+<S6 id="004">
+<num>S6-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥品治療學 </name>
+<teacher> 高雅慧*  ,  王明誠  </teacher>
+<score> 4 </score>
+<time> [2]3~4  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 藥品動態組                                                               </note>
+</S6>
+
+<S6 id="005">
+<num>S6-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥事政策與管理 </name>
+<teacher> 徐之昇   ,  高雅慧*  ,  黃文鴻   ,  蕭美玲  </teacher>
+<score> 2 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S6>
+
+<S6 id="012">
+<num>S6-012</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 臨床藥學專題討論（三） </name>
+<teacher> 徐之昇   ,  洪欣儀   ,  吳天賞   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
+<score> 1 </score>
+<time> [4]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 醫院藥學組                                                               </note>
+</S6>
+
+<S6 id="013">
+<num>S6-013</num>
+<class></class>
+<group></group>
+<name> 臨床實習（二） </name>
+<teacher> 高淑敏   ,  許美英   ,  林嘉音* </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</S6>
+
+<S6 id="014">
+<num>S6-014</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 藥品動態書報討論（三） </name>
+<teacher> 周辰熹* </teacher>
+<score> 1 </score>
+<time> [1]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 藥品動態組                                                               </note>
+</S6>
+
+<S6 id="017">
+<num>S6-017</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥品動態書報討論（一） </name>
+<teacher> 周辰熹* </teacher>
+<score> 1 </score>
+<time> [1]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 藥品動態組                                                               </note>
+</S6>
+
+<S6 id="020">
+<num>S6-020</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥物療效血中濃度監測 </name>
+<teacher> 周辰熹* </teacher>
+<score> 1 </score>
+<time> [1]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note></note>
+</S6>
+
+<S6 id="021">
+<num>S6-021</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥品實驗設計 </name>
+<teacher> 周辰熹* </teacher>
+<score> 1 </score>
+<time> [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note></note>
+</S6>
+
+<S6 id="024">
+<num>S6-024</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 藥物不良反應專題討論（二） </name>
+<teacher> 高雅慧*  ,  王明誠  </teacher>
+<score> 1 </score>
+<time> [3]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 藥劑部                                                                   </note>
+</S6>
+
+<S6 id="025">
+<num>S6-025</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 藥物治療專題討論（二） </name>
+<teacher> 高雅慧*  ,  王明誠  </teacher>
+<score> 1 </score>
+<time> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S6>
+
+<S6 id="030">
+<num>S6-030</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥品劑型設計 </name>
+<teacher> 蔡瑞真* </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S6>
+
+<S6 id="034">
+<num>S6-034</num>
+<class></class>
+<group></group>
+<name> 醫院藥事作業實習 </name>
+<teacher> 高淑敏   ,  許美英   ,  林嘉音* </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</S6>
+
+<S6 id="038">
+<num>S6-038</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 高雅慧* </teacher>
+<score> 0 </score>
+<time> [4]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S6>
+
+<S6 id="040">
+<num>S6-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥學統計 </name>
+<teacher> 王亮懿   ,  李中一* </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note></note>
+</S6>
+
+<S6 id="041">
+<num>S6-041</num>
+<class> 博一                           </class>
+<group> A </group>
+<name> 專題討論（一） </name>
+<teacher> 張俊彥   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  陳本忠   ,  郭靜娟   ,  陳立宗   ,  劉柯俊   ,  鄭靜蘭   ,  歐凰姿   ,  黃金鼎   ,  林立人   ,  張惠華  </teacher>
+<score> 1 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        604 </place>
+<note> 全體教師                                                                 </note>
+</S6>
+
+<S6 id="042">
+<num>S6-042</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 張俊彥   ,  徐之昇   ,  洪欣儀   ,  吳天賞   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  陳本忠   ,  郭靜娟   ,  陳立宗   ,  劉柯俊   ,  鄭靜蘭   ,  歐凰姿   ,  黃金鼎   ,  林立人   ,  張惠華  </teacher>
+<score> 1 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        203D </place>
+<note> 全體教師                                                                 </note>
+</S6>
+
+<S6 id="043">
+<num>S6-043</num>
+<class> 博一                           </class>
+<group></group>
+<name> 藥物發展實習（一） </name>
+<teacher> 黃金鼎* </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        304D </place>
+<note> 臨藥科技所、藥理所合班                                                   </note>
+</S6>
+
+<S6 id="044">
+<num>S6-044</num>
+<class> 博二                           </class>
+<group></group>
+<name> 藥物發展實習（三） </name>
+<teacher> 黃金鼎* </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        304D </place>
+<note></note>
+</S6>
+
+<S6 id="045">
+<num>S6-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 以問題為導向學習癌症轉移 </name>
+<teacher> 曾堯麟   ,  鄭宏祺*  ,  王憶卿   ,  凌　斌   ,  吳梨華   ,  蔣輯武  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0929 </place>
+<note> 生化、基醫、藥生合班                                                     </note>
+</S6>
+
+<S6 id="049">
+<num>S6-049</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物流行病學 </name>
+<teacher> 高雅慧*  ,  林素真   ,  鄭靜蘭  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S6>
+
+<S6 id="050">
+<num>S6-050</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物臨床試驗研究 </name>
+<teacher> 高雅慧*  ,  歐凰姿  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S6>
+
+<S6 id="051">
+<num>S6-051</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物經濟學 </name>
+<teacher> 歐凰姿* </teacher>
+<score> 1 </score>
+<time> [4]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note></note>
+</S6>
+
+<S6 id="052">
+<num>S6-052</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥物基因體學 </name>
+<teacher> 張惠華* </teacher>
+<score> 1 </score>
+<time> [1]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S6>
+
+<S6 id="053">
+<num>S6-053</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物基因體資料庫之分析與應用（二） </name>
+<teacher> 張惠華* </teacher>
+<score> 2 </score>
+<time> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note></note>
+</S6>
+
+<S6 id="054">
+<num>S6-054</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 流行病學 </name>
+<teacher> 張志欽* </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S6>
+
+<S6 id="055">
+<num>S6-055</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥物化學及新藥開發特論 </name>
+<teacher> 洪欣儀* </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note></note>
+</S6>
+
+<S6 id="056">
+<num>S6-056</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 人類遺傳流行病學與基因體資料分析(一) </name>
+<teacher> 張惠華   ,  林聖翔*  ,  陳芃潔  </teacher>
+<score> 1 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note></note>
+</S6>
+
+</content>

@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<F0 id="001">
+<num>F0-001</num>
+<class></class>
+<group></group>
+<name> 微積分實習（一） </name>
+<teacher> 劉之中  </teacher>
+<score> 0 </score>
+<time> [3]5  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5825 </place>
+<note></note>
+</F0>
+
+<F0 id="002">
+<num>F0-002</num>
+<class></class>
+<group></group>
+<name> 微積分（一） </name>
+<teacher> 劉之中  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5825 </place>
+<note></note>
+</F0>
+
+<F0 id="006">
+<num>F0-006</num>
+<class></class>
+<group></group>
+<name> 普通化學 </name>
+<teacher> 桂椿雄  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3274 </place>
+<note></note>
+</F0>
+
+<F0 id="009">
+<num>F0-009</num>
+<class></class>
+<group></group>
+<name> 能源科技概論 </name>
+<teacher> 李約亨  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      繼昌講堂 </place>
+<note></note>
+</F0>
+
+<F0 id="010">
+<num>F0-010</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            體育室前 </place>
+<note></note>
+</F0>
+
+<F0 id="015">
+<num>F0-015</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 夏育群  </teacher>
+<score> 0 </score>
+<time> [4]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5824 </place>
+<note></note>
+</F0>
+
+<F0 id="016">
+<num>F0-016</num>
+<class></class>
+<group></group>
+<name> 計算機概論 </name>
+<teacher> 譚俊豪  </teacher>
+<score> 3 </score>
+<time> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5898 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 計算機概論 </name1>
+<time1> [2]2~4  </time1>
+<place1> 航太系館                      5898 </place1>
+<note1></note1>
+</F0>
+
+<F0 id="025">
+<num>F0-025</num>
+<class></class>
+<group></group>
+<name> 工程圖學 </name>
+<teacher> 楊文彬  </teacher>
+<score> 1 </score>
+<time> [3]6~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5898 </place>
+<note></note>
+</F0>
+
+<F0 id="060">
+<num>F0-060</num>
+<class></class>
+<group></group>
+<name> 電路電子學 </name>
+<teacher> 王大中  </teacher>
+<score> 3 </score>
+<time> [1]8  ,  [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5825 </place>
+<note></note>
+</F0>
+
+<F0 id="061">
+<num>F0-061</num>
+<class></class>
+<group></group>
+<name> 材料力學 </name>
+<teacher> 崔兆棠  </teacher>
+<score> 3 </score>
+<time> [1]7  ,  [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5830 </place>
+<note></note>
+</F0>
+
+<F0 id="062">
+<num>F0-062</num>
+<class></class>
+<group></group>
+<name> 熱力學 </name>
+<teacher> 袁曉峰  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5829 </place>
+<note></note>
+</F0>
+
+<F0 id="063">
+<num>F0-063</num>
+<class></class>
+<group></group>
+<name> 工程數學（一） </name>
+<teacher> 陳維新  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5830 </place>
+<note></note>
+</F0>
+
+<F0 id="064">
+<num>F0-064</num>
+<class></class>
+<group></group>
+<name> 機動學 </name>
+<teacher> 楊世銘  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5829 </place>
+<note> 與航太系合班，航太系為選修。                                             </note>
+</F0>
+
+<F0 id="103">
+<num>F0-103</num>
+<class></class>
+<group></group>
+<name> 自動控制 </name>
+<teacher> 陳介力  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [5]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5898 </place>
+<note></note>
+</F0>
+
+<F0 id="104">
+<num>F0-104</num>
+<class></class>
+<group></group>
+<name> 燃燒學 </name>
+<teacher> 王偉成  </teacher>
+<score> 3 </score>
+<time> [4]5~6  ,  [1]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5822 </place>
+<note> （航太系與能源學程合開）                                                 </note>
+</F0>
+
+<F0 id="105">
+<num>F0-105</num>
+<class></class>
+<group></group>
+<name> 熱傳學 </name>
+<teacher> 鄭金祥  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5825 </place>
+<note></note>
+</F0>
+
+<F0 id="106">
+<num>F0-106</num>
+<class></class>
+<group></group>
+<name> 電路電子實驗 </name>
+<teacher> 王大中  </teacher>
+<score> 1 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5893B </place>
+<note></note>
+</F0>
+
+<F0 id="107">
+<num>F0-107</num>
+<class></class>
+<group></group>
+<name> 太陽光電 </name>
+<teacher> 高　騏  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5822 </place>
+<note></note>
+</F0>
+
+<F0 id="121">
+<num>F0-121</num>
+<class></class>
+<group></group>
+<name> 校外實習（一） </name>
+<teacher> 夏育群*  ,  賴維祥  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</F0>
+
+<F0 id="122">
+<num>F0-122</num>
+<class></class>
+<group></group>
+<name> 校外實習（二） </name>
+<teacher> 夏育群   ,  賴維祥* </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</F0>
+
+<F0 id="151">
+<num>F0-151</num>
+<class></class>
+<group></group>
+<name> 能源實驗（二） </name>
+<teacher> 陳維新   ,  王偉成* </teacher>
+<score> 1 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5828 </place>
+<note></note>
+</F0>
+
+<F0 id="152">
+<num>F0-152</num>
+<class></class>
+<group></group>
+<name> 專題論文（二） </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</F0>
+
+<F0 id="154">
+<num>F0-154</num>
+<class></class>
+<group></group>
+<name> 能源工程實作 </name>
+<teacher> 賴維祥  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5829 </place>
+<note></note>
+</F0>
+
+<F0 id="155">
+<num>F0-155</num>
+<class></class>
+<group></group>
+<name> 潔淨化石燃料技術 </name>
+<teacher> 吳明勳   ,  李約亨* </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5825 </place>
+<note> 能源學程與機械系合開                                                     </note>
+</F0>
+
+</content>

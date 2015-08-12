@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<VL id="002">
+<num>VL-002</num>
+<class> 碩                             </class>
+<group></group>
+<name> 電子材料工程 </name>
+<teacher> 魏炯權  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92B28 </place>
+<note></note>
+</VL>
+
+<VL id="003">
+<num>VL-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 單石射頻積體電路設計 </name>
+<teacher> 鄭光偉  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note> 碩博與電通所合班                                                         </note>
+</VL>
+
+<VL id="004">
+<num>VL-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 晶體結構與材料分析 </name>
+<teacher> 施權峰  </teacher>
+<score> 3 </score>
+<time> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92B28 </place>
+<note></note>
+</VL>
+
+<VL id="005">
+<num>VL-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數位訊號處理 </name>
+<teacher> 楊家輝  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 碩專與碩博合班                                                           </note>
+</VL>
+
+<VL id="006">
+<num>VL-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微波工程 </name>
+<teacher> 蔡智明  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note></note>
+</VL>
+
+<VL id="007">
+<num>VL-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 隨機程序 </name>
+<teacher> 張名先  </teacher>
+<score> 3 </score>
+<time> [2]6~7  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      靄雲廳 </place>
+<note></note>
+</VL>
+
+<VL id="008">
+<num>VL-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計算機圖像系統 </name>
+<teacher> 陳立祥  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 碩專、碩博合班                                                           </note>
+</VL>
+
+<VL id="010">
+<num>VL-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 資料壓縮 </name>
+<teacher> 戴顯權  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92523 </place>
+<note></note>
+</VL>
+
+<VL id="011">
+<num>VL-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 機器學習 </name>
+<teacher> 詹寶珠  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92523 </place>
+<note> 英文授課                                                                 </note>
+</VL>
+
+<VL id="012">
+<num>VL-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等軟體工程 </name>
+<teacher> 焦惠津  </teacher>
+<score> 3 </score>
+<time> [3]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note></note>
+</VL>
+
+<VL id="013">
+<num>VL-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 網路管理 </name>
+<teacher> 楊竹星  </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92271 </place>
+<note></note>
+</VL>
+
+<VL id="014">
+<num>VL-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 小波訊號處理 </name>
+<teacher> 陳進興  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</VL>
+
+<VL id="015">
+<num>VL-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 傅立葉分析 </name>
+<teacher> 陳進興  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</VL>
+
+<VL id="016">
+<num>VL-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 網路效能分析模擬 </name>
+<teacher> 郭文光  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</VL>
+
+<VL id="017">
+<num>VL-017</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 射頻訊號與系統分析專論 </name>
+<teacher> 莊惠如  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</VL>
+
+<VL id="018">
+<num>VL-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子構裝技術 </name>
+<teacher> 洪茂峰  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</VL>
+
+<VL id="019">
+<num>VL-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> ＵＬＳＩ元件物理 </name>
+<teacher> 陳志方  </teacher>
+<score> 3 </score>
+<time> [3]4  ,  [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92225 </place>
+<note></note>
+</VL>
+
+<VL id="020">
+<num>VL-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 雷射工程 </name>
+<teacher> 蔡宗祐  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</VL>
+
+<VL id="022">
+<num>VL-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高速元件 </name>
+<teacher> 劉文超  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</VL>
+
+<VL id="023">
+<num>VL-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體元件物理 </name>
+<teacher> 王水進  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</VL>
+
+<VL id="024">
+<num>VL-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光電元件設計與模擬 </name>
+<teacher> 張守進  </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</VL>
+
+<VL id="025">
+<num>VL-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體製程 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92171 </place>
+<note></note>
+</VL>
+
+<VL id="026">
+<num>VL-026</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電子與奈米材料分析 </name>
+<teacher> 李文熙  </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92377 </place>
+<note></note>
+</VL>
+
+<VL id="027">
+<num>VL-027</num>
+<class> 碩                             </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 李炳鈞  </teacher>
+<score> 0 </score>
+<time> [4]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92B28 </place>
+<note> 電子材料組                                                               </note>
+</VL>
+
+</content>

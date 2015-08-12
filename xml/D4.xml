@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<D4 id="005">
+<num>D4-005</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            體育室前 </place>
+<note></note>
+</D4>
+
+<D4 id="008">
+<num>D4-008</num>
+<class></class>
+<group></group>
+<name> 政治學概論（一） </name>
+<teacher> 李國維  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80101 </place>
+<note></note>
+</D4>
+
+<D4 id="009">
+<num>D4-009</num>
+<class></class>
+<group></group>
+<name> 法學緒論 </name>
+<teacher> 莊輝濤  </teacher>
+<score> 3 </score>
+<time> [5]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80101 </place>
+<note></note>
+</D4>
+
+<D4 id="010">
+<num>D4-010</num>
+<class></class>
+<group></group>
+<name> 經濟學原理（一） </name>
+<teacher> 田維華  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80101 </place>
+<note></note>
+</D4>
+
+<D4 id="011">
+<num>D4-011</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 陳欣之  </teacher>
+<score> 0 </score>
+<time> [1]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    80101 </place>
+<note> 社科大樓6樓、以及1樓公共空間                                             </note>
+</D4>
+
+<D4 id="012">
+<num>D4-012</num>
+<class></class>
+<group></group>
+<name> 中華民國憲法與政府（一） </name>
+<teacher> 莊輝濤  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80101 </place>
+<note></note>
+</D4>
+
+<D4 id="054">
+<num>D4-054</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 李國維  </teacher>
+<score> 0 </score>
+<time> [2]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 分上、下學期開授                                                         </note>
+</D4>
+
+<D4 id="055">
+<num>D4-055</num>
+<class></class>
+<group></group>
+<name> 行政學 </name>
+<teacher> 蔣麗君  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note></note>
+</D4>
+
+<D4 id="056">
+<num>D4-056</num>
+<class></class>
+<group></group>
+<name> 比較政治與政府 </name>
+<teacher> 洪敬富  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note></note>
+</D4>
+
+<D4 id="057">
+<num>D4-057</num>
+<class></class>
+<group></group>
+<name> 國際關係 </name>
+<teacher> 陳欣之  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note></note>
+</D4>
+
+<D4 id="058">
+<num>D4-058</num>
+<class></class>
+<group></group>
+<name> 政治社會學 </name>
+<teacher> 王金壽  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 限二年級以上同學選修 ，「政治領域」領域課程                              </note>
+</D4>
+
+<D4 id="059">
+<num>D4-059</num>
+<class></class>
+<group></group>
+<name> 組織行為與理論 </name>
+<teacher> 蔣麗君  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 限二年級以上同學選修 ，「公共行政」領域課程                              </note>
+</D4>
+
+<D4 id="102">
+<num>D4-102</num>
+<class></class>
+<group></group>
+<name> 政治學方法論（一） </name>
+<teacher> 王宏仁  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note></note>
+</D4>
+
+<D4 id="103">
+<num>D4-103</num>
+<class></class>
+<group></group>
+<name> 政治經濟學 </name>
+<teacher> 王慶輝  </teacher>
+<score> 3 </score>
+<time> [2]N~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80101 </place>
+<note></note>
+</D4>
+
+<D4 id="105">
+<num>D4-105</num>
+<class></class>
+<group></group>
+<name> 當代政治思潮 </name>
+<teacher> 梁文韜*  ,  李國維  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 限二年級以上同學選修，「政治理論」領域課程                               </note>
+</D4>
+
+<D4 id="106">
+<num>D4-106</num>
+<class></class>
+<group></group>
+<name> 環境政策 </name>
+<teacher> 楊永年  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note> 限二年級以上同學選修 ，「公共行政」領域課程（與通識教育中心合開）        </note>
+</D4>
+
+<D4 id="107">
+<num>D4-107</num>
+<class></class>
+<group></group>
+<name> 司法政治 </name>
+<teacher> 王金壽  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80205 </place>
+<note> 限二年級以上同學選修，「比較政治」領域課程                               </note>
+</D4>
+
+<D4 id="108">
+<num>D4-108</num>
+<class></class>
+<group></group>
+<name> 美國外交政策 </name>
+<teacher> 陳欣之  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note> 限二年級以上同學選修 ，「國際關係」領域課程                              </note>
+</D4>
+
+<D4 id="152">
+<num>D4-152</num>
+<class></class>
+<group></group>
+<name> 專題研究：西方自由主義思想研究（一） </name>
+<teacher> 李國維  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80203 </place>
+<note> 限二年級以上同學選，「政治理論」領域課程。已修D443300課程者 ，不可選修   </note>
+</D4>
+
+<D4 id="153">
+<num>D4-153</num>
+<class></class>
+<group></group>
+<name> 專題研究：科技、策略與政策創新 </name>
+<teacher> 鍾兆真  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 限二年級以上同學選修，「公共行政」領域課程                               </note>
+</D4>
+
+<D4 id="154">
+<num>D4-154</num>
+<class></class>
+<group></group>
+<name> 政策實務 </name>
+<teacher> 鍾兆真  </teacher>
+<score> 2 </score>
+<time> [1]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 「公共行政」領域課程，限四年級以上同學選修                               </note>
+</D4>
+
+<D4 id="155">
+<num>D4-155</num>
+<class></class>
+<group></group>
+<name> 專題研究：比較政體 </name>
+<teacher> 王奕婷  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note> 限二年級以上同學選修，「比較政治」領域課程                               </note>
+</D4>
+
+<D4 id="157">
+<num>D4-157</num>
+<class></class>
+<group></group>
+<name> 國際組織 </name>
+<teacher> 周志杰  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80205 </place>
+<note> 限二年級以上同學選修，「國際關係」領域課程                               </note>
+</D4>
+
+<D4 id="158">
+<num>D4-158</num>
+<class></class>
+<group></group>
+<name> 專題論文 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> [5]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 限二年級以上同學選修，非屬領域課程                                       </note>
+</D4>
+
+</content>

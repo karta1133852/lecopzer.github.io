@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="keywords" content="ncku class,成大課表,成大排課表,課表,成大 課表,成大虛擬課表">
+		<meta name="description" content="自製成大排課表, 成大虛擬課表, 成大課表">
+		<meta http-equiv="expires" content="0">
+		<title>NCKU Class</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>	
+		<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+		<script src="js/show.js"></script>	
+		<script src="js/jq.js"></script>	
+		<link rel="stylesheet" type="text/css" href="css/a.css">
+		<link rel="icon" href="title.ico">
+	</head>
+<body style="margin:0;">
+	<div style="font-size:60px;font-family:myF; margin:0 0 0 25px;width:80%">
+		<a class="home" href=" ">NCKU Class</a>
+			<div style="float:right;font-size:15px;padding-top:40px;letter-spacing:24px;">排課表-成大專用</div>
+	</div>
+	<header>
+		<ul>
+			<li id="classQuery" title="">
+				<a href="http://course-query.acad.ncku.edu.tw/qry/" target="_blank">課程查詢</a>
+			</li>
+			<li>
+				<a href="http://course.ncku.edu.tw/course/index.php?type=an" target="_blank">選課系統</a>
+			</li>
+			<li>
+				<a href="update_note.html" >更新日誌</a>
+			</li>
+			<li>
+				<a href="about.html" >關於</a>
+			</li>
+			<li>
+				<a href="contact.html" >聯絡</a>
+			</li>
+		</ul>
+	</header>
+	<br><br>
+
+<div id="mainpage">
+<div id="tabs">
+	<ul>
+		<li><a href="#tag1">class list</a></li>
+		<li><a href="#midNav">功能</a></li>
+	</ul>
+	<nav class="midNav" id="midNav">
+		<h1 align="center">功能表</h1>
+		<p align="center">
+			<a href="https://github.com/lecopzer/NCKUClassWeb"style="text-decoration:none;" target="_blank">
+				歡迎有網頁前or後端經驗,且有git相關經驗者加入</a></p>
+		&nbsp;&nbsp;<input type="checkbox" id="weekendShow" onclick="showWeekend();">顯示週末
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;<input type="checkbox" id="conflictShow" onclick="checkConflictAll();" checked>顯示衝堂<br>
+
+		<br>
+		<div id="sliderBar">
+			<label for="tableSize">課表寬度：</label>
+			<input type="text" id="tableSize" readonly>
+			<div id="sliderSize"></div>
+		</div>
+
+	</nav>
+
+	<div id="tag1">
+	<div id="navClassList">
+		<div id="classList">
+		</div>
+	</div>
+	<div id="navMiddle">	
+		<button onclick="saveTextAsFile()">存檔</button>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		讀檔：<input type="file" id="fileToLoad" ></input>
+		
+			<button onclick="loadFileAsText()">讀取</button>
+		<button id="delBtn" class="funcBtn" onclick="delClick()">刪除</button>
+	</div>
+	</div>
+
+</div>
+
+<br>
+
+	<nav class="topNav" id="navAdd">
+		<form id="form" >
+			系號： <input type="text" name="major" pattern="[A-Z0-9]{2}" maxlength="2" size="3" >
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			序號： <input type="text" name="num" pattern="[1-9]{3}" maxlength="3" size="4">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</form>
+			<br>
+			<button id="addBtn" class="addBtn" onclick="addClass(document.getElementById('form'))">加入</button>
+			<a id="addA" href="javascript:void(0);" onclick="floatAdd()" style="float:right;padding-right:30px;">浮動</a>
+	</nav>
+
+
+	<section>
+		<p id="credit"	style="text-align:center;font-size:22px;">學分：</p>
+		<table id="main" border="1" style="position:relative;width: 75%; left:12.5%;">
+
+		</table>	
+	
+	</section>	
+
+	<div id="cellInfo" style="display:none;">
+		<button id="closeInfoBtn" onclick="closeInfo()">關閉</button>
+	</div>
+	<nav class="topNavFloat" id="navAddFloat" style="display: none;">
+		<form id="formFloat" >
+			系號： <input type="text" name="major" pattern="[A-Z0-9]{2}" maxlength="2" size="3" ><br>
+			序號： <input type="text" name="num" pattern="[1-9]{3}" maxlength="3" size="4">
+		</form>
+			<button onclick="addClass(document.getElementById('formFloat'))">加入</button>
+			<a id="addA" href="javascript:void(0);" onclick="floatAddReset()" style="float:right;padding-right:30px;">關閉</a>
+	</nav>
+
+	<a href="#navAdd" id="jump">Jump!!</a>
+</div>
+
+	<footer>
+		<div>	
+			 <a style="float:right;" href="http://SiteStates.com" title="站長工具">
+				     <img src="http://SiteStates.com/show/image/30621.jpg" border="0" />
+				 </a>
+			designed by Lecopzer<br>
+			NCKU ME 104
+		</div>
+	</footer>
+
+</body>
+
+<script>
+init();
+</script>
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62796082-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>

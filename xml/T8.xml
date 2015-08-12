@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T8 id="001">
+<num>T8-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 呂宗學   ,  胡淑貞*  ,  陳國東   ,  陳美霞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<score> 0 </score>
+<time> [1]8~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 104新聘簡玉雯教師開學後加入授課教師名單                                  </note>
+</T8>
+
+<T8 id="002">
+<num>T8-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 呂宗學   ,  胡淑貞*  ,  陳國東   ,  陳美霞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<score> 0 </score>
+<time> [1]8~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 104新聘簡玉雯教師開學後加入授課教師名單                                  </note>
+</T8>
+
+<T8 id="003">
+<num>T8-003</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 呂宗學   ,  胡淑貞*  ,  陳國東   ,  陳美霞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<score> 0 </score>
+<time> [1]8~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 與碩班專題討論(一)(三)合開                                               </note>
+</T8>
+
+<T8 id="004">
+<num>T8-004</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 呂宗學   ,  胡淑貞*  ,  陳國東   ,  陳美霞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<score> 0 </score>
+<time> [1]8~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 104新聘簡玉雯教師開學後加入授課教師名單                                  </note>
+</T8>
+
+<T8 id="005">
+<num>T8-005</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 呂宗學   ,  胡淑貞*  ,  陳國東   ,  陳美霞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<score> 0 </score>
+<time> [1]8~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 104新聘簡玉雯教師開學後加入授課教師名單                                  </note>
+</T8>
+
+<T8 id="006">
+<num>T8-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 公共衛生的歷史理念與實踐 </name>
+<teacher> 呂宗學  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</T8>
+
+<T8 id="007">
+<num>T8-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 流行病學 </name>
+<teacher> 王榮德  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note></note>
+</T8>
+
+<T8 id="008">
+<num>T8-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康促進理論與實踐 </name>
+<teacher> 胡淑貞*  ,  莊佳蓉  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
+<note></note>
+</T8>
+
+<T8 id="009">
+<num>T8-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物統計學 </name>
+<teacher> 王亮懿   ,  李中一* </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note></note>
+</T8>
+
+<T8 id="010">
+<num>T8-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等流行病學 </name>
+<teacher> 王亮懿   ,  李中一   ,  王榮德*  ,  黃景祥  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
+<note></note>
+</T8>
+
+<T8 id="011">
+<num>T8-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 問卷設計與調查方法 </name>
+<teacher> 王亮懿   ,  莊佳蓉* </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note></note>
+</T8>
+
+<T8 id="012">
+<num>T8-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 意識型態與公共衛生 </name>
+<teacher> 陳美霞  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室為門診大樓8樓08086研討室                                         </note>
+</T8>
+
+<T8 id="013">
+<num>T8-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 傳染病流行病學 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note> 授課教師簡玉雯老師於104學年度新聘                                        </note>
+</T8>
+
+<T8 id="014">
+<num>T8-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康經濟學 </name>
+<teacher> 古鯉榕  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note></note>
+</T8>
+
+<T8 id="015">
+<num>T8-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 衛生計畫與評價 </name>
+<teacher> 胡淑貞  </teacher>
+<score> 2 </score>
+<time> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</T8>
+
+</content>

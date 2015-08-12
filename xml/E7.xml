@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<E7 id="006">
+<num>E7-006</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 建築設計（一） </name>
+<teacher> 林煌迪   ,  吳秉聲*  ,  顏世樺   ,  陳恥德   ,  葉玉祥   ,  陳品蓁  </teacher>
+<score> 3 </score>
+<time> [2]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5111 </place>
+<note> 及5112教室。需同時選修建築圖學                                           </note>
+<class1> 甲乙                           </class1>
+<group1></group1>
+<name1> 建築設計（一） </name1>
+<time1> [2]7~9  ,  [5]6~8  </time1>
+<place1> 建築系館                      5111 </place1>
+<note1> 及5112教室。需同時選修建築圖學                                           </note1>
+</E7>
+
+<E7 id="007">
+<num>E7-007</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 建築圖學 </name>
+<teacher> 黃若珣  </teacher>
+<score> 2 </score>
+<time> [1]N  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note> 5111教室及5112教室。                                                     </note>
+<class1></class1>
+<group1></group1>
+<name1> 建築圖學 </name1>
+<time1> [1]5~6  </time1>
+<place1> 建築系館                      5101 </place1>
+<note1> 5111教室及5112教室。                                                     </note1>
+</E7>
+
+<E7 id="010">
+<num>E7-010</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 微積分 </name>
+<teacher> 許瑞麟  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<class1> 甲乙                           </class1>
+<group1> A </group1>
+<name1> 微積分 </name1>
+<time1> [3]1  </time1>
+<place1> 唯農大樓                      7115 </place1>
+<note1></note1>
+<class2> 甲乙                           </class2>
+<group2> B </group2>
+<name2> 微積分 </name2>
+<time2> [3]1  </time2>
+<place2> 唯農大樓                      7117 </place2>
+<note2></note2>
+</E7>
+
+<E7 id="011">
+<num>E7-011</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 繪畫（一） </name>
+<teacher> 黃步青  </teacher>
+<score> 1 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 建築系館                      5133 </place>
+<note></note>
+</E7>
+
+<E7 id="012">
+<num>E7-012</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 建築概論 </name>
+<teacher> 陳品蓁  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+</E7>
+
+<E7 id="014">
+<num>E7-014</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 黃鈴雯  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            體育室前 </place>
+<note></note>
+</E7>
+
+<E7 id="018">
+<num>E7-018</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 陳震宇  </teacher>
+<score> 0 </score>
+<time> [3]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 建築系館                      5126 </place>
+<note></note>
+</E7>
+
+<E7 id="051">
+<num>E7-051</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 建築設計（三） </name>
+<teacher> 陳柏年*  ,  林靜娟   ,  沈弘軒  </teacher>
+<score> 4 </score>
+<time> [1]5~8  ,  [2]1~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 建築系館                      5123 </place>
+<note> 及5101、5124教室。                                                       </note>
+</E7>
+
+<E7 id="052">
+<num>E7-052</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 西洋建築史 </name>
+<teacher> 傅朝卿  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+</E7>
+
+<E7 id="053">
+<num>E7-053</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 材料力學 </name>
+<teacher> 姚昭智  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築研究大樓                  5172 </place>
+<note> 本課程於建築設計組為選修，未來欲選該組同學可不修本課程，請於第三階段棄選 </note>
+</E7>
+
+<E7 id="054">
+<num>E7-054</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 建築材料 </name>
+<teacher> 陳震宇  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note> 本課程於建築設計組為選修，未來欲選該組同學可不修本課程，請於第三階段棄選 </note>
+</E7>
+
+<E7 id="055">
+<num>E7-055</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 建築物理環境（一） </name>
+<teacher> 林憲德  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+</E7>
+
+<E7 id="061">
+<num>E7-061</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 電腦輔助建築繪圖 </name>
+<teacher> 薛丞倫  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5102 </place>
+<note> 上課教室：建築系館地下1樓電腦教室                                        </note>
+</E7>
+
+<E7 id="101">
+<num>E7-101</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 建築設計（五） </name>
+<teacher> 陳玉霖   ,  卓建光   ,  顏茂倉*  ,  姜樂靜   ,  方　瑋   ,  趙元鴻  </teacher>
+<score> 4 </score>
+<time> [2]1~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 建築系館                      5121 </place>
+<note> 及5122教室                                                               </note>
+</E7>
+
+<E7 id="102">
+<num>E7-102</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 建築構造（二） </name>
+<teacher> 葉玉祥  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+</E7>
+
+<E7 id="103">
+<num>E7-103</num>
+<class> 工程組                         </class>
+<group></group>
+<name> 建築物理環境(三) </name>
+<teacher> 林子平  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築研究大樓                  5172 </place>
+<note> 本課程於建築設計組為選修，建築設計組同學得於第二、三階段加選             </note>
+</E7>
+
+<E7 id="104">
+<num>E7-104</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 建築環境控制系統（一） </name>
+<teacher> 蔡耀賢  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+</E7>
+
+<E7 id="106">
+<num>E7-106</num>
+<class> 設計組                         </class>
+<group></group>
+<name> 都市計劃概論 </name>
+<teacher> 徐中強  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note> 本課程於建築工程組為選修，建築工程組同學得於第二、三階段加選             </note>
+</E7>
+
+<E7 id="107">
+<num>E7-107</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 近代建築史 </name>
+<teacher> 吳秉聲  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
+<note></note>
+</E7>
+
+<E7 id="109">
+<num>E7-109</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 陳世明  </teacher>
+<score> 0 </score>
+<time> [4]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 建築研究大樓                  5172 </place>
+<note></note>
+</E7>
+
+<E7 id="119">
+<num>E7-119</num>
+<class> 工程組                         </class>
+<group></group>
+<name> 結構系統 </name>
+<teacher> 杜怡萱  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築研究大樓                  5172 </place>
+<note> 本課程於建築設計組為選修，建築設計組同學得於第二、三階段加選             </note>
+</E7>
+
+<E7 id="124">
+<num>E7-124</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 建築類型研究 </name>
+<teacher> 顏茂倉  </teacher>
+<score> 2 </score>
+<time> [1]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+<class1> 工程組設計組                   </class1>
+<group1></group1>
+<name1> 建築類型研究 </name1>
+<time1> [1]3  </time1>
+<place1> 建築系館                      5101 </place1>
+<note1></note1>
+</E7>
+
+<E7 id="125">
+<num>E7-125</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 中國建築史 </name>
+<teacher> 蔡侑樺   ,  徐明福* </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+</E7>
+
+<E7 id="126">
+<num>E7-126</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 數位設計與製造方法論 </name>
+<teacher> 柳川肯  </teacher>
+<score> 3 </score>
+<time> [1]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5102 </place>
+<note> 上課教室：建築系館地下1樓電腦教室                                        </note>
+<class1></class1>
+<group1></group1>
+<name1> 數位設計與製造方法論 </name1>
+<time1> [1]5  </time1>
+<place1> 建築系館                      5102 </place1>
+<note1> 上課教室：建築系館地下1樓電腦教室                                        </note1>
+<class2></class2>
+<group2></group2>
+<name2> 數位設計與製造方法論 </name2>
+<time2> [1]7~8  </time2>
+<place2> 建築系館                      5102 </place2>
+<note2> 上課教室：建築系館地下1樓電腦教室                                        </note2>
+</E7>
+
+<E7 id="152">
+<num>E7-152</num>
+<class> 工程組                         </class>
+<group></group>
+<name> 建築專題設計 </name>
+<teacher> 陳震宇*  ,  陳德仁  </teacher>
+<score> 5 </score>
+<time> [1]9~D  ,  [2]N~D  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 建築系館                      5132 </place>
+<note> 限建築工程組選修                                                         </note>
+</E7>
+
+<E7 id="155">
+<num>E7-155</num>
+<class> 設計組                         </class>
+<group></group>
+<name> 建築職業實務 </name>
+<teacher> 薛丞倫  </teacher>
+<score> 6 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</E7>
+
+<E7 id="156">
+<num>E7-156</num>
+<class> 設計組                         </class>
+<group></group>
+<name> 國際工作營 </name>
+<teacher> 薛丞倫  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</E7>
+
+<E7 id="159">
+<num>E7-159</num>
+<class> 工程組                         </class>
+<group></group>
+<name> 建築施工估價 </name>
+<teacher> 陳長庚  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5117 </place>
+<note> 本課程於建築設計組為選修。                                               </note>
+</E7>
+
+<E7 id="163">
+<num>E7-163</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 建築防火安全 </name>
+<teacher> 陳長庚  </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
+<note></note>
+</E7>
+
+<E7 id="168">
+<num>E7-168</num>
+<class> 工程組設計組                   </class>
+<group></group>
+<name> 音樂、美術與都市文化 </name>
+<teacher> 王維潔  </teacher>
+<score> 2 </score>
+<time> [5]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5101 </place>
+<note> 與通識課合開                                                             </note>
+</E7>
+
+<E7 id="201">
+<num>E7-201</num>
+<class> 設計組                         </class>
+<group></group>
+<name> 建築設計（八） </name>
+<teacher> 杜怡萱   ,  林子平   ,  吳光庭* </teacher>
+<score> 6 </score>
+<time> [1]5~D  ,  [2]5~D  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 建築系館                      5131 </place>
+<note></note>
+</E7>
+
+<E7 id="202">
+<num>E7-202</num>
+<class> 設計組                         </class>
+<group></group>
+<name> 畢業設計專題討論 </name>
+<teacher> 吳光庭  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 建築系館                      5101 </place>
+<note></note>
+</E7>
+
+</content>
