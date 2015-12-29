@@ -2,12 +2,12 @@
 <content>
 <Z3 id="001">
 <num>Z3-001</num>
-<class> 碩一                           </class>
+<class> 碩三延                         </class>
 <group></group>
-<name> 書報討論（一） </name>
-<teacher> 張文綺   ,  蔡文杰*  ,  李瑞花   ,  郭瑋君   ,  邱啟洲  </teacher>
-<score> 1 </score>
-<time> [2]7  </time>
+<name> 專題討論 </name>
+<teacher> 張文綺   ,  李瑞花*  ,  郭瑋君   ,  邱啟洲  </teacher>
+<score> 0 </score>
+<time> [2]4~N  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 雲平大樓                      709 </place>
@@ -16,12 +16,12 @@
 
 <Z3 id="002">
 <num>Z3-002</num>
-<class> 碩二                           </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 書報討論（三） </name>
-<teacher> 張文綺   ,  蔡文杰*  ,  李瑞花   ,  郭瑋君   ,  邱啟洲  </teacher>
+<name> 書報討論（二） </name>
+<teacher> 張文綺   ,  李瑞花*  ,  郭瑋君   ,  邱啟洲  </teacher>
 <score> 1 </score>
-<time> [2]8  </time>
+<time> [2]7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 雲平大樓                      709 </place>
@@ -30,38 +30,24 @@
 
 <Z3 id="003">
 <num>Z3-003</num>
-<class> 碩博                           </class>
+<class> 碩二                           </class>
 <group></group>
-<name> 高等植物生理學 </name>
-<teacher> 李瑞花*  ,  郭瑋君  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
+<name> 書報討論（四） </name>
+<teacher> 張文綺   ,  李瑞花*  ,  郭瑋君   ,  邱啟洲  </teacher>
+<score> 1 </score>
+<time> [2]8  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      712 </place>
+<type> 研討 </type>
+<place> 雲平大樓                      709 </place>
 <note></note>
 </Z3>
 
-<Z3 id="005">
-<num>Z3-005</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 植物二次代謝體學 </name>
-<teacher> 張松彬   ,  蔡文杰* </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      712 </place>
-<note> 熱植所與生命所合開                                                       </note>
-</Z3>
-
-<Z3 id="006">
-<num>Z3-006</num>
+<Z3 id="004">
+<num>Z3-004</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 植物科學講座（一） </name>
-<teacher> 張文綺   ,  蔡文杰*  ,  李瑞花   ,  郭瑋君   ,  邱啟洲  </teacher>
+<name> 植物科學講座(二) </name>
+<teacher> 張文綺   ,  李瑞花*  ,  郭瑋君   ,  邱啟洲  </teacher>
 <score> 1 </score>
 <time> [2]5  </time>
 <must> 選修 </must>
@@ -70,12 +56,12 @@
 <note></note>
 </Z3>
 
-<Z3 id="007">
-<num>Z3-007</num>
+<Z3 id="005">
+<num>Z3-005</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 植物科學講座(三) </name>
-<teacher> 張文綺   ,  蔡文杰*  ,  李瑞花   ,  郭瑋君   ,  邱啟洲  </teacher>
+<name> 植物科學講座(四) </name>
+<teacher> 張文綺   ,  李瑞花*  ,  郭瑋君   ,  邱啟洲  </teacher>
 <score> 1 </score>
 <time> [2]6  </time>
 <must> 選修 </must>
@@ -84,102 +70,102 @@
 <note></note>
 </Z3>
 
-<Z3 id="008">
-<num>Z3-008</num>
+<Z3 id="007">
+<num>Z3-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 植物生物化學 </name>
-<teacher> 張清俊  </teacher>
+<name> 植物生物科技 </name>
+<teacher> 李瑞花* </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [1]7~9  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75802 </place>
-<note> 生科所與熱植所合併授課                                                   </note>
-</Z3>
-
-<Z3 id="009">
-<num>Z3-009</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 植物訊息傳遞 </name>
-<teacher> 黃浩仁   ,  李瑞花* </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3414 </place>
-<note> 生命所與熱植所合併授課                                                   </note>
+<type> 研討 </type>
+<place> 雲平大樓                      712 </place>
+<note> 生命、生科、熱植所合開                                                   </note>
 </Z3>
 
 <Z3 id="010">
 <num>Z3-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高等分子生物學 </name>
-<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
+<name> 植物分子與細胞生物學 </name>
+<teacher> 張文綺*  ,  邱啟洲  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3415 </place>
-<note> 生科院核心課程，生物科技所碩一必選                                       </note>
-</Z3>
-
-<Z3 id="011">
-<num>Z3-011</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 張文綺   ,  蔡文杰*  ,  李瑞花   ,  郭瑋君   ,  邱啟洲  </teacher>
-<score> 0 </score>
-<time> [5]7~8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
 <place> 雲平大樓                      712 </place>
 <note></note>
 </Z3>
 
+<Z3 id="011">
+<num>Z3-011</num>
+<class> 碩                             </class>
+<group></group>
+<name> 實驗資料分析與統計專論 </name>
+<teacher> 張文綺*  ,  邱啟洲  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 雲平大樓                      712 </place>
+<note> 限選修過植物學講座系列課程                                               </note>
+</Z3>
+
 <Z3 id="012">
 <num>Z3-012</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 植物逆境生物學 </name>
+<teacher> 張松彬   ,  郭瑋君* </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      712 </place>
+<note> 生科所、與熱植所合班上課                                                 </note>
+</Z3>
+
+<Z3 id="014">
+<num>Z3-014</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 基因體學 </name>
-<teacher> 蔡文杰  </teacher>
+<teacher> 陳虹樺* </teacher>
 <score> 3 </score>
 <time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3414 </place>
-<note> 生命所.熱植所合開                                                        </note>
-</Z3>
-
-<Z3 id="013">
-<num>Z3-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 植物科學特論 </name>
-<teacher> 張松彬   ,  邱啟洲  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      712 </place>
-<note> 熱植所與生命所合開                                                       </note>
+<note></note>
 </Z3>
 
 <Z3 id="015">
 <num>Z3-015</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 實驗設計與方法專論 </name>
-<teacher> 李瑞花*  ,  郭瑋君  </teacher>
-<score> 2 </score>
-<time> [5]3~4  </time>
+<name> 高等細胞生物學 </name>
+<teacher> 王浩文   ,  洪健睿   ,  黃玲惠   ,  張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜*  ,  李瑞花  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      712 </place>
-<note> 限熱植所學生                                                             </note>
+<place> 生科系館                      3415 </place>
+<note> 生科院核心課程                                                           </note>
+</Z3>
+
+<Z3 id="017">
+<num>Z3-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 作物育種與生物技術 </name>
+<teacher> 陳文輝   ,  張松彬* </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3414 </place>
+<note> 生命所、與熱植所合班上課                                                 </note>
 </Z3>
 
 </content>

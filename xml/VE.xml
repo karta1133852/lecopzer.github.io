@@ -2,88 +2,38 @@
 <content>
 <VE id="001">
 <num>VE-001</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 應用電路學 </name>
-<teacher> 林瑞禮  </teacher>
+<name> 系統控制技術 </name>
+<teacher> 李嘉猷   ,  李祖聖* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 電機系館                      92820 </place>
+<note></note>
 </VE>
 
 <VE id="002">
 <num>VE-002</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 應用電路學分析與模擬 </name>
-<teacher> 林瑞禮  </teacher>
-<score> 1 </score>
-<time> 
-  </time>
+<name> 系統控制分析與模擬 </name>
+<teacher> 李嘉猷*  ,  李祖聖  </teacher>
+<score> 3 </score>
+<time> [4]B~D  </time>
 <must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<type> 講義 </type>
+<place> 電機系館                      92417 </place>
+<note></note>
 </VE>
 
 <VE id="003">
 <num>VE-003</num>
-<class></class>
-<group></group>
-<name> 電力電子與電源轉換器設計 </name>
-<teacher> 梁從主  </teacher>
-<score> 3 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</VE>
-
-<VE id="004">
-<num>VE-004</num>
-<class></class>
-<group></group>
-<name> 電力電子與電源轉換器實習 </name>
-<teacher> 梁從主  </teacher>
-<score> 1 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</VE>
-
-<VE id="005">
-<num>VE-005</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 論文研討（一） </name>
-<teacher> 梁從主*  ,  林瑞禮  </teacher>
-<score> 1 </score>
-<time> [1]A~B  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 電機系館                      令洋廳 </place>
-<note> 限本系本所學生選修                                                       </note>
-</VE>
-
-<VE id="006">
-<num>VE-006</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 鄭銘揚  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 鄭銘揚*  ,  吳謂勝  </teacher>
 <score> 0 </score>
 <time> [4]N~5  </time>
 <must> 必修 </must>
@@ -92,18 +42,32 @@
 <note> 控制組                                                                   </note>
 </VE>
 
-<VE id="007">
-<num>VE-007</num>
-<class> 碩一                           </class>
+<VE id="004">
+<num>VE-004</num>
+<class> 碩二                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 張簡樂仁*  ,  王　醴  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 莊智清   ,  王振興* </teacher>
 <score> 0 </score>
-<time> [3]N~5  </time>
+<time> [3]5  ,  [5]N  </time>
 <must> 必修 </must>
 <type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note> 控制組                                                                   </note>
+</VE>
+
+<VE id="005">
+<num>VE-005</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 工業電子專論 </name>
+<teacher> 王　醴  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
 <place> 電機系館                      92720 </place>
-<note> 電力組                                                                   </note>
+<note></note>
 </VE>
 
 <VE id="008">
@@ -113,284 +77,88 @@
 <name> 配電系統自動化 </name>
 <teacher> 黃慶連  </teacher>
 <score> 3 </score>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 電資學院學生選修                                                         </note>
+</VE>
+
+<VE id="009">
+<num>VE-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 高電壓工程特論 </name>
+<teacher> 黃慶連  </teacher>
+<score> 3 </score>
 <time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
-<note></note>
+<note> 電資學院學生選修                                                         </note>
 </VE>
 
 <VE id="010">
 <num>VE-010</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 非接觸式饋電監控系統專論 </name>
-<teacher> 李嘉猷  </teacher>
+<name> 電力系統控制與穩定度 </name>
+<teacher> 王　醴  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92820 </place>
+<place> 電機系館                      92383 </place>
 <note></note>
 </VE>
 
 <VE id="011">
 <num>VE-011</num>
-<class> 碩一二                         </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 能量轉換 </name>
-<teacher> 黃世杰  </teacher>
-<score> 3 </score>
-<time> [2]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 碩博碩專合班                                                             </note>
+<name> 專題討論（二） </name>
+<teacher> 林瑞禮   ,  張簡樂仁* </teacher>
+<score> 0 </score>
+<time> [3]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92720 </place>
+<note> 電力組                                                                   </note>
 </VE>
 
 <VE id="012">
 <num>VE-012</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 論文研討（三） </name>
-<teacher> 梁從主*  ,  林瑞禮  </teacher>
-<score> 1 </score>
-<time> [1]A~B  </time>
-<must> 選修 </must>
+<name> 專題討論（四） </name>
+<teacher> 楊宏澤*  ,  陳建富  </teacher>
+<score> 0 </score>
+<time> [2]N~5  </time>
+<must> 必修 </must>
 <type> 研討 </type>
-<place> 電機系館                      令洋廳 </place>
-<note></note>
-</VE>
-
-<VE id="013">
-<num>VE-013</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 多變數控制 </name>
-<teacher> 蔡聖鴻  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92820 </place>
-<note></note>
-</VE>
-
-<VE id="014">
-<num>VE-014</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電力測試與保護 </name>
-<teacher> 陳建富  </teacher>
-<score> 3 </score>
-<time> [7]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 電機系館                      92720 </place>
-<note> 週日第二至四節　碩博碩專合班                                             </note>
-</VE>
-
-<VE id="015">
-<num>VE-015</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電力電子特論 </name>
-<teacher> 林瑞禮  </teacher>
-<score> 3 </score>
-<time> [2]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      靄雲廳 </place>
-<note> 碩博專班合班　英語授課                                                   </note>
-</VE>
-
-<VE id="017">
-<num>VE-017</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 類神經網路簡介 </name>
-<teacher> 王振興  </teacher>
-<score> 3 </score>
-<time> [1]5~6  ,  [3]3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92225 </place>
-<note></note>
-</VE>
-
-<VE id="018">
-<num>VE-018</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 分佈式發電系統專論 </name>
-<teacher> 王　醴  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92171 </place>
-<note></note>
-</VE>
-
-<VE id="020">
-<num>VE-020</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 風力發電系統專論 </name>
-<teacher> 王　醴  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note></note>
+<note> 電力組                                                                   </note>
 </VE>
 
 <VE id="021">
 <num>VE-021</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 電力系統元件模擬 </name>
-<teacher> 張簡樂仁  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
+<name> 論文研討（二） </name>
+<teacher> 林瑞禮   ,  李嘉猷* </teacher>
+<score> 1 </score>
+<time> [1]A~B  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 英語授課                                                                 </note>
-</VE>
-
-<VE id="022">
-<num>VE-022</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 高電壓工程特論 </name>
-<teacher> 黃慶連  </teacher>
-<score> 3 </score>
-<time> [1]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 碩博碩專合班                                                             </note>
-</VE>
-
-<VE id="053">
-<num>VE-053</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 王振興  </teacher>
-<score> 0 </score>
-<time> [4]7~8  </time>
-<must> 必修 </must>
 <type> 研討 </type>
-<place> 電機系館                      92820 </place>
-<note> 控制組                                                                   </note>
-</VE>
-
-<VE id="054">
-<num>VE-054</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 林瑞禮  </teacher>
-<score> 0 </score>
-<time> [3]N~5  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92271 </place>
-<note> 電力組                                                                   </note>
-</VE>
-
-<VE id="056">
-<num>VE-056</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 馬達驅動專論 </name>
-<teacher> 陳建富  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 碩博碩專合班                                                             </note>
-</VE>
-
-<VE id="060">
-<num>VE-060</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 保護電驛 </name>
-<teacher> 蕭純育  </teacher>
-<score> 3 </score>
-<time> [6]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 選修限10人                                                               </note>
-</VE>
-
-<VE id="061">
-<num>VE-061</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 光源驅動電路設計 </name>
-<teacher> 梁從主  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
+<place> 電機系館                      靄雲廳 </place>
 <note></note>
 </VE>
 
-<VE id="063">
-<num>VE-063</num>
+<VE id="027">
+<num>VE-027</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 直流微系統導論與應用 </name>
-<teacher> 楊宏澤  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note> 碩博碩專合班                                                             </note>
-</VE>
-
-<VE id="064">
-<num>VE-064</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 運動控制系統導論 </name>
-<teacher> 鄭銘揚  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92820 </place>
-<note></note>
-</VE>
-
-<VE id="065">
-<num>VE-065</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電力系統分析 </name>
-<teacher> 張簡樂仁  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 大四碩士合班                                                             </note>
-</VE>
-
-<VE id="066">
-<num>VE-066</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 狀態空間自調式控制專論 </name>
+<name> 機器人原理 </name>
 <teacher> 蔡聖鴻  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
@@ -400,32 +168,46 @@
 <note></note>
 </VE>
 
-<VE id="067">
-<num>VE-067</num>
+<VE id="052">
+<num>VE-052</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 電子電路IC設計 </name>
-<teacher> 魏嘉玲  </teacher>
+<name> 電磁相容學 </name>
+<teacher> 李嘉猷  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92277 </place>
+<place> 電機系館                      92820 </place>
 <note></note>
 </VE>
 
-<VE id="068">
-<num>VE-068</num>
+<VE id="053">
+<num>VE-053</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 數位電源控制電路與系統實作專題 </name>
-<teacher> 蔡建泓  </teacher>
+<name> 電源轉換系統分析 </name>
+<teacher> 林瑞禮  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92453 </place>
+<place> 電機系館                      92720 </place>
 <note></note>
+</VE>
+
+<VE id="054">
+<num>VE-054</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 共振式電能轉換器設計 </name>
+<teacher> 林瑞禮  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92283 </place>
+<note> 碩專、碩博合                                                             </note>
 </VE>
 
 </content>

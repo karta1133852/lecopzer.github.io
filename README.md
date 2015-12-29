@@ -1,65 +1,33 @@
-# NCKUClassWeb
+# [NCKUClassWeb](http://nckuclass.5gb.co/)
 
-成大學生自製虛擬課表網站: http://nckuclass.5gb.co/
+The NCKU Class is a website which the main function is virtual timetable for NCKU students.
 
-目前僅有簡單結構，程式碼部份還有很大改善空間，歡迎pull request
-
-原作者是網頁程式與github的初學者，大家可以一起學習互相指教．
+It's coded with only Html, CSS, Javascript and a few Jquery. Hoping that everyone can join the project quickly.
 
 
-* 開發理念：快速、易懂
+## Characteristics
+
+  - Fast : There is no server side involved when user acts on the website, so no delay for waiting server.
+  - Easy to understand : We almost don't need any extra guides to tell users how to use.
 
 
-Development Environment:
+## Development Environment
 
-	- Ubuntu 15.10
+	- Ubuntu 15.10 + LAMP (apache, MySQL, PHP)
+	- Windows + XAMPP
+	- or other environment can build
 
-	- LAMP (apache, MySQL, PHP)
+## XML Parser
 
-	OR
+	Parser is coded two year ago, and it's horror.
+	I would put on another repo after rewriting it.
 
-	- Windows
-
-	- XAMPP
-
-Coding Style：
-
-	縮排4格, operator前後需空格, 盡可能簡潔
+## future
 	
-	以Java的naming rule 
-    請參考wiki的Java部份https://en.wikipedia.org/wiki/Naming_convention_%28programming%29
+	Make the website not only a virtaul timetable, but also extended with other functions like searching, message board and etc.
+	Imporve UI, make the website looks professional.
 
-
-該改什麼：
-
-	請參考issue的部份，也歡迎提出問題 
-
-
-程式說明：
-	
-	Parse的流程請參考 img/flow_chart.png
-	
-	JS function流程：
-			init() -> user按加入 -> addClass -> checkClassInList -> findClass(maj,num) ->
-			獲取xml資料/判斷是否有子課程 -> pushClassContent -> printClass
-
-	printClass
-		|
-		---- update學分 ---- 判斷time是否未定 ---format time --- 若只有一堂課 --- printClassSingle
-                                                                      |
-													                  ---else --- printClassMulti
-
-Parser：
-
-	Parser目前因code過於雜亂，待修改過後放上
-
-commit rule：
-
-	請參考https://github.com/torvalds/linux/commits/master
-
-	希望英文為主
-
-Contributors:
+## Contributors
 
 	Lecopzer (Jian-Lin Chen) <james455096@gmail.com>  ME-104
 	

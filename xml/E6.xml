@@ -4,109 +4,45 @@
 <num>E6-001</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 微積分（二） </name>
 <teacher> 方永富  </teacher>
 <score> 3 </score>
 <time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      47X52 </place>
-<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<note> 土木甲乙合班                                                             </note>
 <class1> 甲乙                           </class1>
 <group1> A </group1>
-<name1> 微積分（一） </name1>
+<name1> 微積分（二） </name1>
 <time1> [3]1  </time1>
 <place1> 土木系館                      4509 </place1>
 <note1></note1>
 <class2> 甲乙                           </class2>
 <group2> B </group2>
-<name2> 微積分（一） </name2>
+<name2> 微積分（二） </name2>
 <time2> [3]1  </time2>
 <place2> 土木系館                      4504 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
 <group3> C </group3>
-<name3> 微積分（一） </name3>
+<name3> 微積分（二） </name3>
 <time3> [3]1  </time3>
 <place3> 土木系館                      4503 </place3>
 <note3></note3>
-</E6>
-
-<E6 id="002">
-<num>E6-002</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 普通化學 </name>
-<teacher> 邱顯泰* </teacher>
-<score> 3 </score>
-<time> [1]7~8  ,  [4]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      47X52 </place>
-<note> 生技系與土木甲乙合班                                                     </note>
+<class4> 甲乙                           </class4>
+<group4> D </group4>
+<name4> 微積分（二） </name4>
+<time4> [3]1  </time4>
+<place4> 土木系館                      4502 </place4>
+<note4></note4>
 </E6>
 
 <E6 id="003">
 <num>E6-003</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 土木工程概論 </name>
-<teacher> 蔡錦松  </teacher>
-<score> 1 </score>
-<time> [1]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4501 </place>
-<note> 甲乙合班， B1試驗室(47X39)                                               </note>
-</E6>
-
-<E6 id="004">
-<num>E6-004</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 土木工程概念設計 </name>
-<teacher> 蔡錦松  </teacher>
-<score> 1 </score>
-<time> [3]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4501 </place>
-<note> 甲乙合班， B1試驗室(47X39)                                               </note>
-</E6>
-
-<E6 id="005">
-<num>E6-005</num>
 <class> 甲                             </class>
 <group></group>
-<name> 服務學習（一） </name>
-<teacher> 陳景文  </teacher>
-<score> 0 </score>
-<time> [2]9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 土木系館                      4509 </place>
-<note> 系館                                                                     </note>
-</E6>
-
-<E6 id="006">
-<num>E6-006</num>
-<class> 甲                             </class>
-<group></group>
-<name> 體育（一） </name>
-<teacher> 黃賢哲  </teacher>
-<score> 0 </score>
-<time> [2]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 無                            體育室前 </place>
-<note></note>
-</E6>
-
-<E6 id="011">
-<num>E6-011</num>
-<class> 甲                             </class>
-<group></group>
-<name> 普通物理學（一） </name>
+<name> 普通物理學（二） </name>
 <teacher> 鄭　靜  </teacher>
 <score> 3 </score>
 <time> [2]1  ,  [4]3~4  </time>
@@ -116,95 +52,95 @@
 <note></note>
 </E6>
 
-<E6 id="012">
-<num>E6-012</num>
+<E6 id="004">
+<num>E6-004</num>
 <class> 甲                             </class>
 <group></group>
-<name> 普通物理學實驗（一） </name>
+<name> 普通物理學實驗（二） </name>
 <teacher> 周忠憲  </teacher>
 <score> 1 </score>
 <time> [3]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 理化大樓普物實驗室                                                       </note>
+<note> 理化大樓二樓                                                             </note>
+</E6>
+
+<E6 id="011">
+<num>E6-011</num>
+<class> 甲                             </class>
+<group></group>
+<name> 工程圖學（二） </name>
+<teacher> 賴啟銘  </teacher>
+<score> 1 </score>
+<time> [5]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 土木系館                      4509 </place>
+<note></note>
+</E6>
+
+<E6 id="012">
+<num>E6-012</num>
+<class> 甲                             </class>
+<group></group>
+<name> 應用力學 </name>
+<teacher> 顏崇斌  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note></note>
 </E6>
 
 <E6 id="013">
 <num>E6-013</num>
 <class> 甲                             </class>
 <group></group>
-<name> 普通化學實驗 </name>
-<teacher> 李介仁  </teacher>
-<score> 1 </score>
-<time> [5]2~4  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 理化大樓                      35122 </place>
-<note> 理化大樓化學實驗室                                                       </note>
-</E6>
-
-<E6 id="016">
-<num>E6-016</num>
-<class> 甲                             </class>
-<group></group>
-<name> 計算機概論 </name>
-<teacher> 李宇欣*  ,  朱世禹  </teacher>
+<name> 計算機應用 </name>
+<teacher> 李宇欣  </teacher>
 <score> 3 </score>
 <time> [2]3~4  ,  [4]2  </time>
-<must> 必修 </must>
+<must> 必選 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note></note>
+<note> C++程式語言                                                              </note>
 </E6>
 
-<E6 id="017">
-<num>E6-017</num>
+<E6 id="015">
+<num>E6-015</num>
 <class> 甲                             </class>
 <group></group>
-<name> 工程圖學（一） </name>
-<teacher> 賴啟銘  </teacher>
-<score> 1 </score>
-<time> [5]5~7  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 土木系館                      4501 </place>
-<note></note>
-</E6>
-
-<E6 id="030">
-<num>E6-030</num>
-<class> 乙                             </class>
-<group></group>
-<name> 服務學習（一） </name>
+<name> 服務學習（二） </name>
 <teacher> 陳景文  </teacher>
 <score> 0 </score>
-<time> [4]9  </time>
+<time> [2]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4505 </place>
 <note> 系館                                                                     </note>
 </E6>
 
-<E6 id="031">
-<num>E6-031</num>
-<class> 乙                             </class>
+<E6 id="020">
+<num>E6-020</num>
+<class> 甲乙                           </class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 黃滄海  </teacher>
-<score> 0 </score>
-<time> [2]7~8  </time>
-<must> 必修 </must>
+<name> 土木工程實作設計 </name>
+<teacher> 蔡錦松  </teacher>
+<score> 1 </score>
+<time> [3]9  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 無                            體育室前 </place>
-<note></note>
+<place> 土木系館                      4503 </place>
+<note> 甲乙合班                                                                 </note>
 </E6>
 
-<E6 id="036">
-<num>E6-036</num>
+<E6 id="023">
+<num>E6-023</num>
 <class> 乙                             </class>
 <group></group>
-<name> 普通物理學（一） </name>
+<name> 普通物理學（二） </name>
 <teacher> 盧炎田  </teacher>
 <score> 3 </score>
 <time> [2]1  ,  [4]3~4  </time>
@@ -214,73 +150,87 @@
 <note></note>
 </E6>
 
-<E6 id="037">
-<num>E6-037</num>
+<E6 id="024">
+<num>E6-024</num>
 <class> 乙                             </class>
 <group></group>
-<name> 普通物理學實驗（一） </name>
+<name> 普通物理學實驗（二） </name>
 <teacher> 陳則銘  </teacher>
 <score> 1 </score>
 <time> [3]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 理化大樓普物實驗室                                                       </note>
+<note> 理化大樓二樓                                                             </note>
 </E6>
 
-<E6 id="038">
-<num>E6-038</num>
+<E6 id="031">
+<num>E6-031</num>
 <class> 乙                             </class>
 <group></group>
-<name> 普通化學實驗 </name>
-<teacher> 孫亦文  </teacher>
-<score> 1 </score>
-<time> [5]2~4  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 理化大樓                      35121 </place>
-<note> 理化大樓化學實驗室                                                       </note>
-</E6>
-
-<E6 id="041">
-<num>E6-041</num>
-<class> 乙                             </class>
-<group></group>
-<name> 計算機概論 </name>
-<teacher> 李宇欣   ,  朱世禹* </teacher>
-<score> 3 </score>
-<time> [3]8  ,  [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note></note>
-</E6>
-
-<E6 id="042">
-<num>E6-042</num>
-<class> 乙                             </class>
-<group></group>
-<name> 工程圖學（一） </name>
+<name> 工程圖學（二） </name>
 <teacher> 賴啟銘  </teacher>
 <score> 1 </score>
-<time> [2]2~4  </time>
+<time> [1]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 土木系館                      4509 </place>
 <note></note>
 </E6>
 
-<E6 id="051">
-<num>E6-051</num>
+<E6 id="032">
+<num>E6-032</num>
+<class> 乙                             </class>
+<group></group>
+<name> 應用力學 </name>
+<teacher> 盧煉元  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note></note>
+</E6>
+
+<E6 id="033">
+<num>E6-033</num>
+<class> 乙                             </class>
+<group></group>
+<name> 計算機應用 </name>
+<teacher> 王永明  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 土木系館                      4509 </place>
+<note> Matlab 程式語言                                                          </note>
+</E6>
+
+<E6 id="035">
+<num>E6-035</num>
+<class> 乙                             </class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 陳景文  </teacher>
+<score> 0 </score>
+<time> [4]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 土木系館                      4505 </place>
+<note> 系館                                                                     </note>
+</E6>
+
+<E6 id="052">
+<num>E6-052</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 水文學 </name>
-<teacher> 呂珍謀  </teacher>
+<name> 環境工程學 </name>
+<teacher> 吳哲宏  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 水利系館                      4671 </place>
+<place> 土木系館                      4509 </place>
 <note> 土木甲乙合班                                                             </note>
 </E6>
 
@@ -288,61 +238,187 @@
 <num>E6-053</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 測量學 </name>
-<teacher> 尤瑞哲  </teacher>
+<name> 鐵路工程學 </name>
+<teacher> 郭振銘  </teacher>
 <score> 3 </score>
-<time> [1]7~8  ,  [5]5  </time>
-<must> 必修 </must>
+<time> [2]5~6  ,  [5]8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
-<note> 甲乙合班                                                                 </note>
-</E6>
-
-<E6 id="054">
-<num>E6-054</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 測量學實習 </name>
-<teacher> 尤瑞哲  </teacher>
-<score> 1 </score>
-<time> [3]2~4  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 測量系館                      55150 </place>
-<note> 甲乙混合編班                                                             </note>
+<place> 土木系館                      4504 </place>
+<note> 土木甲乙合班                                                             </note>
 </E6>
 
 <E6 id="055">
 <num>E6-055</num>
-<class> 甲乙                           </class>
+<class> 甲                             </class>
 <group></group>
-<name> 測量學實習 </name>
-<teacher> 尤瑞哲  </teacher>
-<score> 1 </score>
-<time> [4]6~8  </time>
+<name> 工程數學（二） </name>
+<teacher> 王永明  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 測量系館                      55180 </place>
-<note> 甲乙混合編班                                                             </note>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note></note>
 </E6>
 
 <E6 id="056">
 <num>E6-056</num>
-<class> 甲乙                           </class>
+<class> 甲                             </class>
 <group></group>
-<name> 測量學實習 </name>
-<teacher> 尤瑞哲  </teacher>
-<score> 1 </score>
-<time> [5]6~8  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 測量系館                      55160 </place>
-<note> 甲乙混合編班                                                             </note>
+<name> 材料力學（二） </name>
+<teacher> 胡宣德  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 土木系館                      4509 </place>
+<note></note>
 </E6>
 
-<E6 id="064">
-<num>E6-064</num>
+<E6 id="057">
+<num>E6-057</num>
 <class> 甲                             </class>
+<group></group>
+<name> 流體力學 </name>
+<teacher> 方　中  </teacher>
+<score> 3 </score>
+<time> [1]7  ,  [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note></note>
+</E6>
+
+<E6 id="058">
+<num>E6-058</num>
+<class> 甲                             </class>
+<group></group>
+<name> 工程地質學 </name>
+<teacher> 陳景文  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note></note>
+</E6>
+
+<E6 id="059">
+<num>E6-059</num>
+<class> 甲                             </class>
+<group></group>
+<name> 工程材料學 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note></note>
+</E6>
+
+<E6 id="060">
+<num>E6-060</num>
+<class> 甲                             </class>
+<group></group>
+<name> 工程材料學實驗 </name>
+<teacher> 林育芸  </teacher>
+<score> 1 </score>
+<time> [4]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 結材室                                                                   </note>
+</E6>
+
+<E6 id="072">
+<num>E6-072</num>
+<class> 乙                             </class>
+<group></group>
+<name> 工程數學（二） </name>
+<teacher> 顏崇斌  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note></note>
+</E6>
+
+<E6 id="073">
+<num>E6-073</num>
+<class> 乙                             </class>
+<group></group>
+<name> 材料力學（二） </name>
+<teacher> 宋見春  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note></note>
+</E6>
+
+<E6 id="074">
+<num>E6-074</num>
+<class> 乙                             </class>
+<group></group>
+<name> 流體力學 </name>
+<teacher> 方　中  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note></note>
+</E6>
+
+<E6 id="075">
+<num>E6-075</num>
+<class> 乙                             </class>
+<group></group>
+<name> 工程地質學 </name>
+<teacher> 黃景川  </teacher>
+<score> 3 </score>
+<time> [3]5~6  ,  [5]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note></note>
+</E6>
+
+<E6 id="077">
+<num>E6-077</num>
+<class> 乙                             </class>
+<group></group>
+<name> 工程材料學 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note></note>
+</E6>
+
+<E6 id="078">
+<num>E6-078</num>
+<class> 乙                             </class>
+<group></group>
+<name> 工程材料學實驗 </name>
+<teacher> 林育芸  </teacher>
+<score> 1 </score>
+<time> [1]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 結材室                                                                   </note>
+</E6>
+
+<E6 id="083">
+<num>E6-083</num>
+<class> 乙                             </class>
 <group></group>
 <name> 服務學習（三） </name>
 <teacher> 陳景文  </teacher>
@@ -350,354 +426,224 @@
 <time> [3]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4505 </place>
 <note> 系館                                                                     </note>
-</E6>
-
-<E6 id="065">
-<num>E6-065</num>
-<class> 甲                             </class>
-<group></group>
-<name> 工程數學（一） </name>
-<teacher> 王永明  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4505 </place>
-<note></note>
-</E6>
-
-<E6 id="066">
-<num>E6-066</num>
-<class> 甲                             </class>
-<group></group>
-<name> 動力學 </name>
-<teacher> 顏崇斌  </teacher>
-<score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4505 </place>
-<note></note>
-</E6>
-
-<E6 id="067">
-<num>E6-067</num>
-<class> 甲                             </class>
-<group></group>
-<name> 材料力學（一） </name>
-<teacher> 林育芸  </teacher>
-<score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4505 </place>
-<note></note>
-</E6>
-
-<E6 id="068">
-<num>E6-068</num>
-<class> 甲                             </class>
-<group></group>
-<name> 運輸工程學 </name>
-<teacher> 楊士賢  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]1  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4505 </place>
-<note></note>
-</E6>
-
-<E6 id="086">
-<num>E6-086</num>
-<class> 乙                             </class>
-<group></group>
-<name> 工程數學（一） </name>
-<teacher> 顏崇斌  </teacher>
-<score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note></note>
-</E6>
-
-<E6 id="087">
-<num>E6-087</num>
-<class> 乙                             </class>
-<group></group>
-<name> 動力學 </name>
-<teacher> 王永明  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [4]1  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note></note>
-</E6>
-
-<E6 id="088">
-<num>E6-088</num>
-<class> 乙                             </class>
-<group></group>
-<name> 材料力學（一） </name>
-<teacher> 宋見春  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note></note>
-</E6>
-
-<E6 id="089">
-<num>E6-089</num>
-<class> 乙                             </class>
-<group></group>
-<name> 運輸工程學 </name>
-<teacher> 蕭志銘  </teacher>
-<score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note></note>
 </E6>
 
 <E6 id="101">
 <num>E6-101</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 工程數學（三） </name>
+<name> 工程或然率 </name>
 <teacher> 洪李陵  </teacher>
 <score> 3 </score>
-<time> [5]5~6  ,  [3]8  </time>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
-<note> 甲乙合班                                                                 </note>
+<place> 土木系館                      4504 </place>
+<note> 三四年級可選修，土木甲乙合班                                             </note>
 </E6>
 
 <E6 id="103">
 <num>E6-103</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 邊坡穩定與土工結構物 </name>
-<teacher> 黃景川  </teacher>
+<name> 工程數學（四） </name>
+<teacher> 譚建國  </teacher>
 <score> 3 </score>
-<time> [2]5~6  ,  [5]8  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
-<note> 甲乙合班                                                                 </note>
+<place> 土木系館                      4509 </place>
+<note> 三四年級可選修，土木甲乙合班                                             </note>
 </E6>
 
 <E6 id="104">
 <num>E6-104</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 公路工程學 </name>
+<name> 大地工程特論 </name>
+<teacher> 李德河  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note> 三四年級可選修，土木甲乙合班                                             </note>
+</E6>
+
+<E6 id="105">
+<num>E6-105</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 施工法 </name>
 <teacher> 陳建旭  </teacher>
 <score> 3 </score>
 <time> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note></note>
+<note> 三四年級可選修，土木甲乙合班                                             </note>
+</E6>
+
+<E6 id="106">
+<num>E6-106</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 公路工程實務 </name>
+<teacher> 方文志   ,  呂介斌   ,  黃裔炎* </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 三四年級可選修，土木甲乙合班                                             </note>
+</E6>
+
+<E6 id="108">
+<num>E6-108</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 瀝青材料實驗 </name>
+<teacher> 蕭志銘  </teacher>
+<score> 2 </score>
+<time> [2]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note> 三四年級可選修，土木甲乙合班                                             </note>
+<class1> 甲乙                           </class1>
+<group1></group1>
+<name1> 瀝青材料實驗 </name1>
+<time1> [2]6~8  </time1>
+<place1></place1>
+<note1> 瀝青實驗室                                                               </note1>
+</E6>
+
+<E6 id="109">
+<num>E6-109</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 預力混凝土學 </name>
+<teacher> 方一匡  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note> 三四年級可選修，土木甲乙合班                                             </note>
+</E6>
+
+<E6 id="110">
+<num>E6-110</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 鋼結構設計 </name>
+<teacher> 鍾興陽  </teacher>
+<score> 3 </score>
+<time> [4]5~6  ,  [1]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 三四年級可選修，最好先修過「鋼結構」再修本課程                           </note>
 </E6>
 
 <E6 id="111">
 <num>E6-111</num>
-<class> 甲                             </class>
+<class> 甲乙                           </class>
 <group></group>
-<name> 結構學（一） </name>
-<teacher> 王彬  </teacher>
+<name> 混凝土配合設計 </name>
+<teacher> 黃忠信  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4509 </place>
-<note></note>
-</E6>
-
-<E6 id="114">
-<num>E6-114</num>
-<class> 甲                             </class>
-<group></group>
-<name> 鋼筋混凝土學 </name>
-<teacher> 洪崇展  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      210 </place>
-<note></note>
-</E6>
-
-<E6 id="115">
-<num>E6-115</num>
-<class> 甲                             </class>
-<group></group>
-<name> 鋼結構 </name>
-<teacher> 鍾興陽  </teacher>
-<score> 3 </score>
-<time> [1]8  ,  [4]5~6  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4502 </place>
-<note></note>
+<place> 土木系館                      4501 </place>
+<note> 甲乙合班                                                                 </note>
+<class1> 甲乙                           </class1>
+<group1></group1>
+<name1> 混凝土配合設計 </name1>
+<time1> [5]7~9  </time1>
+<place1></place1>
+<note1> 結構材料試驗室                                                           </note1>
 </E6>
 
-<E6 id="117">
-<num>E6-117</num>
-<class> 甲                             </class>
+<E6 id="112">
+<num>E6-112</num>
+<class> 甲乙                           </class>
 <group></group>
-<name> 工程計畫管理 </name>
-<teacher> 張行道  </teacher>
+<name> 工程品質與安全 </name>
+<teacher> 潘南飛  </teacher>
 <score> 3 </score>
-<time> [1]7  ,  [4]7~8  </time>
-<must> 必修 </must>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
 <note></note>
 </E6>
 
-<E6 id="118">
-<num>E6-118</num>
+<E6 id="120">
+<num>E6-120</num>
 <class> 甲                             </class>
 <group></group>
-<name> 土壤力學 </name>
-<teacher> 倪勝火  </teacher>
-<score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note></note>
-</E6>
-
-<E6 id="119">
-<num>E6-119</num>
-<class> 甲                             </class>
-<group></group>
-<name> 土壤力學實驗 </name>
-<teacher> 倪勝火  </teacher>
-<score> 1 </score>
-<time> [3]5~7  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 土壤力學實驗室                                                           </note>
-</E6>
-
-<E6 id="138">
-<num>E6-138</num>
-<class> 乙                             </class>
-<group></group>
-<name> 結構學（一） </name>
-<teacher> 吳致平  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4502 </place>
-<note></note>
-</E6>
-
-<E6 id="139">
-<num>E6-139</num>
-<class> 乙                             </class>
-<group></group>
-<name> 鋼結構 </name>
-<teacher> 鍾興陽  </teacher>
-<score> 3 </score>
-<time> [3]7  ,  [1]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4502 </place>
-<note></note>
-</E6>
-
-<E6 id="140">
-<num>E6-140</num>
-<class> 乙                             </class>
-<group></group>
-<name> 鋼筋混凝土學 </name>
-<teacher> 侯琮欽  </teacher>
+<name> 結構學（二） </name>
+<teacher> 王彬  </teacher>
 <score> 3 </score>
 <time> [2]1  ,  [4]3~4  </time>
-<must> 必修 </must>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 土木系館                      4505 </place>
+<note></note>
+</E6>
+
+<E6 id="121">
+<num>E6-121</num>
+<class> 甲                             </class>
+<group></group>
+<name> 基礎工程學 </name>
+<teacher> 吳建宏  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必選 </must>
 <type> 講義 </type>
 <place> 土木系館                      210 </place>
 <note></note>
 </E6>
 
-<E6 id="142">
-<num>E6-142</num>
+<E6 id="130">
+<num>E6-130</num>
 <class> 乙                             </class>
 <group></group>
-<name> 工程計畫管理 </name>
-<teacher> 馮重偉  </teacher>
+<name> 結構學（二） </name>
+<teacher> 吳致平  </teacher>
 <score> 3 </score>
-<time> [1]7  ,  [4]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note></note>
-</E6>
-
-<E6 id="143">
-<num>E6-143</num>
-<class> 乙                             </class>
-<group></group>
-<name> 土壤力學 </name>
-<teacher> 李德河  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
-<must> 必修 </must>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必選 </must>
 <type> 講義 </type>
 <place> 土木系館                      4509 </place>
 <note></note>
 </E6>
 
-<E6 id="144">
-<num>E6-144</num>
+<E6 id="131">
+<num>E6-131</num>
 <class> 乙                             </class>
 <group></group>
-<name> 土壤力學實驗 </name>
-<teacher> 李德河  </teacher>
-<score> 1 </score>
-<time> [2]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 土壤力學實驗室                                                           </note>
-</E6>
-
-<E6 id="151">
-<num>E6-151</num>
-<class></class>
-<group></group>
-<name> 論文 </name>
-<teacher> 李宇欣  </teacher>
-<score> 1 </score>
-<time> 
-  </time>
-<must> 選修 </must>
+<name> 基礎工程學 </name>
+<teacher> 張文忠  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必選 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 土木系館                      210 </place>
+<note></note>
 </E6>
 
 <E6 id="152">
 <num>E6-152</num>
 <class></class>
 <group></group>
-<name> 論文選讀 </name>
-<teacher> 陳建旭  </teacher>
+<name> 論文寫作 </name>
+<teacher> 侯琮欽  </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -710,86 +656,88 @@
 
 <E6 id="153">
 <num>E6-153</num>
-<class> 甲乙                           </class>
+<class></class>
 <group></group>
-<name> 都市計劃 </name>
-<teacher> 徐中強  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
+<name> 專題研究 </name>
+<teacher> 李宇欣  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      47X52 </place>
-<note> 測量四與土木四甲乙合班                                                   </note>
+<place></place>
+<note> 
+ </note>
 </E6>
 
-<E6 id="154">
-<num>E6-154</num>
-<class> 甲乙丙                         </class>
+<E6 id="156">
+<num>E6-156</num>
+<class> 甲乙                           </class>
 <group></group>
-<name> 生態工程概論 </name>
-<teacher> 陳景文  </teacher>
+<name> 研究方法與工程倫理 </name>
+<teacher> 徐德修  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4509 </place>
-<note> 生態工程與生態工程概論只能二選一作為畢業學分                             </note>
-</E6>
-
-<E6 id="155">
-<num>E6-155</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 土木工程設計實務（三） </name>
-<teacher> 郭振銘  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4509 </place>
-<note> 甲乙合班                                                                 </note>
+<note> 土木甲乙合班                                                             </note>
 </E6>
 
 <E6 id="157">
 <num>E6-157</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 隧道工程學 </name>
-<teacher> 吳建宏  </teacher>
-<score> 3 </score>
-<time> [4]3~4  ,  [2]1  </time>
+<name> 電腦輔助土木工程設計 </name>
+<teacher> 黃錦旗  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4504 </place>
-<note> 甲乙合班                                                                 </note>
+<place></place>
+<note> 甲乙合班，計算機中心上課                                                 </note>
 </E6>
 
 <E6 id="158">
 <num>E6-158</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 建築震害與補強實務 </name>
-<teacher> 黃錦旗  </teacher>
+<name> 永續交通設施 </name>
+<teacher> 楊士賢  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [1]5~6  ,  [4]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 英語授課，大四、碩士及碩專班合班，博士班不能修本課程                     </note>
+</E6>
+
+<E6 id="162">
+<num>E6-162</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 土木工程設計實務（一） </name>
+<teacher> 朱聖浩  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
-<note> 甲乙合班                                                                 </note>
+<note> 甲乙合班，科技廠房結構設計                                               </note>
 </E6>
 
-<E6 id="160">
-<num>E6-160</num>
+<E6 id="163">
+<num>E6-163</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 工程談判 </name>
-<teacher> 蔡錦松  </teacher>
+<name> 土木工程設計實務（二） </name>
+<teacher> 倪勝火  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note> 甲乙合班， B1試驗室(47X39)                                               </note>
+<note> 基礎工程設計實務                                                         </note>
 </E6>
 
 </content>

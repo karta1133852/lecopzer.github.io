@@ -2,71 +2,43 @@
 <content>
 <K7 id="001">
 <num>K7-001</num>
-<class> 碩一                           </class>
+<class> 中文                           </class>
 <group></group>
-<name> 遺址調查與保存實習 </name>
-<teacher> 未定  </teacher>
+<name> 考古學理論方法專題 </name>
+<teacher> 趙金勇  </teacher>
 <score> 3 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
+<time> [3]6~8  ,  [4]2~4  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      712 </place>
 <note></note>
 </K7>
 
 <K7 id="002">
 <num>K7-002</num>
-<class> 碩一                           </class>
+<class> 中文                           </class>
 <group></group>
-<name> 歷史考古學 </name>
-<teacher> 未定  </teacher>
+<name> 考古學田野方法與實習 </name>
+<teacher> 鍾國風  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
+<time> [3]3~4  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      712 </place>
 <note></note>
 </K7>
 
 <K7 id="003">
 <num>K7-003</num>
-<class> 碩一                           </class>
+<class> 中文                           </class>
 <group></group>
-<name> 考古學概論 </name>
-<teacher> 未定  </teacher>
+<name> 考古學與文化資產 </name>
+<teacher> 鍾國風   ,  劉益昌* </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note></note>
-</K7>
-
-<K7 id="004">
-<num>K7-004</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 民族考古學 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</K7>
-
-<K7 id="005">
-<num>K7-005</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 考古學理論方法專題 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time> [5]5~7  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      712 </place>
 <note></note>
 </K7>
 

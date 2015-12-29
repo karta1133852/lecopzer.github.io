@@ -4,60 +4,18 @@
 <num>AH-001</num>
 <class></class>
 <group></group>
-<name> 多媒體與電腦輔助 </name>
-<teacher> 宋怡南  </teacher>
+<name> 華語教材教法 </name>
+<teacher> 陳怡靜  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
-<must> 選修 </must>
+<time> [4]5~6  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
-<note> 華語學程，建議修過華語文教學導論及華語教材教法，再行選修                 </note>
+<note> 華語學程                                                                 </note>
 </AH>
 
 <AH id="002">
 <num>AH-002</num>
-<class></class>
-<group></group>
-<name> 語法學 </name>
-<teacher> 陳怡靜  </teacher>
-<score> 2 </score>
-<time> [1]2~3  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
-<note> 華語學程，兩時段擇一即可，建議修過華語文教學導論或詞彙學後，再行選修     </note>
-</AH>
-
-<AH id="003">
-<num>AH-003</num>
-<class></class>
-<group></group>
-<name> 語法學 </name>
-<teacher> 陳怡靜  </teacher>
-<score> 2 </score>
-<time> [1]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
-<note> 華語學程，兩時段擇一即可，建議修過華語文教學導論或詞彙學後，再行選修     </note>
-</AH>
-
-<AH id="004">
-<num>AH-004</num>
-<class></class>
-<group></group>
-<name> 華語文測驗與評量 </name>
-<teacher> 陳怡靜  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
-<note> 華語學程，建議修過華語文教學導論、詞彙學及語法學後，再行選修             </note>
-</AH>
-
-<AH id="005">
-<num>AH-005</num>
 <class></class>
 <group></group>
 <name> 華語文教學導論 </name>
@@ -70,46 +28,88 @@
 <note> 華語學程                                                                 </note>
 </AH>
 
-<AH id="007">
-<num>AH-007</num>
+<AH id="003">
+<num>AH-003</num>
 <class></class>
 <group></group>
-<name> 語言與文化 </name>
+<name> 國語語音學 </name>
 <teacher> 宋怡南  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程。建議修過華語文教學導論、華語教材教法後再行選修。兩時段擇一即可 </note>
+</AH>
+
+<AH id="004">
+<num>AH-004</num>
+<class></class>
+<group></group>
+<name> 國語語音學 </name>
+<teacher> 宋怡南  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程。建議修過華語文教學導論、華語教材教法後再行選修。兩時段擇一即可 </note>
+</AH>
+
+<AH id="005">
+<num>AH-005</num>
+<class></class>
+<group></group>
+<name> 漢字理論與教學 </name>
+<teacher> 宋怡南  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
 <note> 華語學程                                                                 </note>
+</AH>
+
+<AH id="006">
+<num>AH-006</num>
+<class></class>
+<group></group>
+<name> 詞彙學 </name>
+<teacher> 陳怡靜  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程。兩時段擇一即可                                                 </note>
+</AH>
+
+<AH id="007">
+<num>AH-007</num>
+<class></class>
+<group></group>
+<name> 詞彙學 </name>
+<teacher> 陳怡靜  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程。兩時段擇一即可                                                 </note>
 </AH>
 
 <AH id="008">
 <num>AH-008</num>
 <class></class>
 <group></group>
-<name> 語言與文化 </name>
-<teacher> 宋怡南  </teacher>
+<name> 第二語言習得 </name>
+<teacher> 陳怡靜  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
-<note> 華語學程                                                                 </note>
-</AH>
-
-<AH id="036">
-<num>AH-036</num>
-<class></class>
-<group></group>
-<name> 華語教材教法 </name>
-<teacher> 陳怡靜  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
-<note> 華語學程，建議修過華語文教學導論後，再行選修                             </note>
+<note> 華語學程。建議修過華語文教學導論後，再行選修                             </note>
 </AH>
 
 </content>

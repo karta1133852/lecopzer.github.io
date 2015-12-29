@@ -4,8 +4,8 @@
 <num>SB-301</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 呂宗學   ,  胡淑貞   ,  陳美霞   ,  王亮懿   ,  李中一*  ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 呂宗學*  ,  胡淑貞   ,  王亮懿   ,  王榮德   ,  莊佳蓉   ,  簡玉雯  </teacher>
 <score> 1 </score>
 <time> [2]9~A  </time>
 <must> 必修 </must>
@@ -18,70 +18,98 @@
 <num>SB-302</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 生物統計學 </name>
-<teacher> 林聖翔   ,  王亮懿   ,  李中一* </teacher>
+<name> 公共衛生倫理 </name>
+<teacher> 王榮德  </teacher>
 <score> 2 </score>
-<time> [1]B~C  </time>
+<time> [1]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課地點：門診大樓8樓公衛所研討室08086                                   </note>
+<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
 </SB>
 
 <SB id="303">
 <num>SB-303</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 長期照護與管理 </name>
-<teacher> 劉立凡  </teacher>
+<name> 傳染病流行病學 </name>
+<teacher> 簡玉雯  </teacher>
 <score> 2 </score>
-<time> [2]B~C  </time>
+<time> [1]B~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課地點：門診大樓8樓公衛所研討室08086                                   </note>
+<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
 </SB>
 
 <SB id="304">
 <num>SB-304</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 流行病學原理 </name>
-<teacher> 王榮德  </teacher>
+<name> 老年學概論 </name>
+<teacher> 盧豐華  </teacher>
 <score> 2 </score>
-<time> [3]9~A  </time>
-<must> 必修 </must>
+<time> [2]B~C  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課地點：門診大樓8樓公衛所研討室08086                                   </note>
+<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
 </SB>
 
 <SB id="305">
 <num>SB-305</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 公共衛生之社會與行為科學面向 </name>
-<teacher> 翁慧卿  </teacher>
+<name> 環境與職業衛生 </name>
+<teacher> 郭浩然  </teacher>
 <score> 2 </score>
-<time> [4]9~A  </time>
+<time> [3]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課地點：門診大樓8樓公衛所研討室08086                                   </note>
+<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
+</SB>
+
+<SB id="306">
+<num>SB-306</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 環境毒物學 </name>
+<teacher> 劉明毅  </teacher>
+<score> 2 </score>
+<time> [3]B~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
 </SB>
 
 <SB id="307">
 <num>SB-307</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 臨床流行病學 </name>
-<teacher> 呂宗學  </teacher>
+<name> 衛生政策理論與實務 </name>
+<teacher> 古鯉榕  </teacher>
 <score> 2 </score>
-<time> [3]B~C  </time>
+<time> [4]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
+</SB>
+
+<SB id="308">
+<num>SB-308</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 環境與職業衛生個案討論 </name>
+<teacher> 蔡朋枝  </teacher>
+<score> 2 </score>
+<time> [4]B~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課地點：門診大樓8樓公衛所研討室08086                                   </note>
+<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
 </SB>
 
 </content>

@@ -2,12 +2,12 @@
 <content>
 <Q7 id="001">
 <num>Q7-001</num>
-<class> 碩                             </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 江孟學  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 高國興  </teacher>
 <score> 0 </score>
-<time> [4]N~5  </time>
+<time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92371 </place>
@@ -16,10 +16,10 @@
 
 <Q7 id="002">
 <num>Q7-002</num>
-<class> 碩                             </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 江孟學  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 高國興  </teacher>
 <score> 0 </score>
 <time> [5]N~5  </time>
 <must> 必修 </must>
@@ -30,128 +30,128 @@
 
 <Q7 id="003">
 <num>Q7-003</num>
-<class> 碩                             </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 金氧半元件理論 </name>
-<teacher> 江孟學  </teacher>
+<name> 表面技術分析 </name>
+<teacher> 陳建瑞  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92371 </place>
-<note> 英語授課                                                                 </note>
+<note> 電機所微電所合班                                                         </note>
 </Q7>
 
 <Q7 id="004">
 <num>Q7-004</num>
-<class> 碩                             </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> ＵＬＳＩ元件物理 </name>
-<teacher> 陳志方  </teacher>
+<name> 光學導論 </name>
+<teacher> 莊文魁  </teacher>
 <score> 3 </score>
-<time> [3]4  ,  [4]3~4  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92225 </place>
+<place> 電機系館                      92C01 </place>
 <note></note>
 </Q7>
 
 <Q7 id="005">
 <num>Q7-005</num>
-<class> 碩                             </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 高等材料分析 </name>
-<teacher> 阮至正  </teacher>
+<name> 半導體元件,應用,和可靠度 </name>
+<teacher> 陳一浸  </teacher>
 <score> 3 </score>
-<time> [1]5  ,  [2]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 化工系館                      93456 </place>
-<note> 1.中文授課班級：大學部非材料系及重修研究生優先 2.以上優先係指開放第一階  </note>
-</Q7>
-
-<Q7 id="006">
-<num>Q7-006</num>
-<class> 碩                             </class>
-<group></group>
-<name> 半導體元件物理 </name>
-<teacher> 王水進  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92371 </place>
 <note></note>
 </Q7>
 
-<Q7 id="007">
-<num>Q7-007</num>
-<class> 碩                             </class>
+<Q7 id="006">
+<num>Q7-006</num>
+<class> 碩一二                         </class>
 <group></group>
-<name> 半導體及先進奈米化製程技術概論（一） </name>
+<name> 奈米世代半導體製程概論 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 建議材料/化工/化學/物理/光電(聯電主管授課)限126人。                      </note>
+</Q7>
+
+<Q7 id="008">
+<num>Q7-008</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 半導體及先進奈米化製程技術概論（二） </name>
 <teacher> 王英郎  </teacher>
 <score> 3 </score>
 <time> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      迅慧講堂 </place>
-<note> 台積電主管開授(一),(二)都需修課                                          </note>
+<note> 電資學院學生選修                                                         </note>
 </Q7>
 
 <Q7 id="009">
 <num>Q7-009</num>
-<class> 碩                             </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 電子材料工程 </name>
-<teacher> 魏炯權  </teacher>
+<name> III-V族化合物金氧半場效應電晶體 </name>
+<teacher> 王永和  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92B28 </place>
+<place> 電機系館                      92C01 </place>
 <note></note>
 </Q7>
 
 <Q7 id="010">
 <num>Q7-010</num>
-<class> 碩                             </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 電子與奈米材料分析 </name>
-<teacher> 李文熙  </teacher>
+<name> 功率半導體元件概論 </name>
+<teacher> 王水進  </teacher>
 <score> 3 </score>
-<time> [5]7~9  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92377 </place>
+<place> 電機系館                      92C01 </place>
 <note></note>
+</Q7>
+
+<Q7 id="011">
+<num>Q7-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 高電壓工程特論 </name>
+<teacher> 黃慶連  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 電資學院學生選修                                                         </note>
 </Q7>
 
 <Q7 id="012">
 <num>Q7-012</num>
-<class> 碩                             </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 半導體感測器實務技術 </name>
-<teacher> 曾永華  </teacher>
+<name> 配電系統自動化 </name>
+<teacher> 黃慶連  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      令洋廳 </place>
-<note></note>
-</Q7>
-
-<Q7 id="013">
-<num>Q7-013</num>
-<class> 碩                             </class>
-<group></group>
-<name> 半導體元件數值模擬 </name>
-<teacher> 高國興  </teacher>
-<score> 3 </score>
-<time> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92171 </place>
-<note> 大四與奈米學位學程碩士班合開                                             </note>
+<place> 電機系館                      繁城講堂 </place>
+<note> 電資學院學生選修                                                         </note>
 </Q7>
 
 </content>

@@ -1,53 +1,77 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<F7 id="004">
-<num>F7-004</num>
-<class> 甲                             </class>
-<group></group>
-<name> 體育（一） </name>
-<teacher> 涂國誠  </teacher>
-<score> 0 </score>
-<time> [1]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 無                            體育室前 </place>
-<note></note>
-</F7>
-
 <F7 id="006">
 <num>F7-006</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 普通物理學（一） </name>
-<teacher> 蘇漢宗  </teacher>
+<name> 普通物理學（二） </name>
+<teacher> 趙梓程  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4264 </place>
+<place> 資訊新館                      65304 </place>
 <note></note>
+</F7>
+
+<F7 id="008">
+<num>F7-008</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 鄺國權  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系館                      經緯廳 </place>
+<note></note>
+<class1> 甲乙                           </class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1> [5]1  </time1>
+<place1> 資訊系館                      4201 </place1>
+<note1></note1>
+<class2> 甲乙                           </class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2> [5]1  </time2>
+<place2> 資訊系館                      4202 </place2>
+<note2></note2>
+<class3> 甲乙                           </class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3> [5]1  </time3>
+<place3> 資訊系館                      4203 </place3>
+<note3></note3>
+<class4> 甲乙                           </class4>
+<group4> D </group4>
+<name4> 微積分（二） </name4>
+<time4> [5]1  </time4>
+<place4> 資訊系館                      4260 </place4>
+<note4></note4>
 </F7>
 
 <F7 id="009">
 <num>F7-009</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 計算機概論 </name>
-<teacher> 藍崑展  </teacher>
+<name> 線性代數 </name>
+<teacher> 陳朝鈞  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [3]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4264 </place>
-<note> 英語授課,甲乙合班                                                        </note>
+<note> 甲乙合班                                                                 </note>
 </F7>
 
 <F7 id="010">
 <num>F7-010</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 程式設計（一） </name>
-<teacher> 張燕光  </teacher>
+<name> 程式設計（二） </name>
+<teacher> 蔡孟勳  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
 <must> 必修 </must>
@@ -56,78 +80,26 @@
 <note> 甲乙合班                                                                 </note>
 </F7>
 
-<F7 id="012">
-<num>F7-012</num>
+<F7 id="011">
+<num>F7-011</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 微積分（一） </name>
-<teacher> 鄺國權  </teacher>
+<name> 數位電路導論 </name>
+<teacher> 梁勝富  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 測量系館                      經緯廳 </place>
-<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
-<class1> 甲乙                           </class1>
-<group1> A </group1>
-<name1> 微積分（一） </name1>
-<time1> [5]1  </time1>
-<place1> 資訊系館                      4201 </place1>
-<note1></note1>
-<class2> 甲乙                           </class2>
-<group2> B </group2>
-<name2> 微積分（一） </name2>
-<time2> [5]1  </time2>
-<place2> 資訊系館                      4202 </place2>
-<note2></note2>
-<class3> 甲乙                           </class3>
-<group3> C </group3>
-<name3> 微積分（一） </name3>
-<time3> [5]1  </time3>
-<place3> 資訊系館                      4203 </place3>
-<note3></note3>
-<class4> 甲乙                           </class4>
-<group4> D </group4>
-<name4> 微積分（一） </name4>
-<time4> [5]1  </time4>
-<place4> 資訊系館                      4260 </place4>
-<note4></note4>
+<place> 資訊系館                      4264 </place>
+<note> 甲乙合班                                                                 </note>
 </F7>
 
 <F7 id="013">
 <num>F7-013</num>
 <class> 甲                             </class>
 <group></group>
-<name> 服務學習（一） </name>
-<teacher> 黃崇明  </teacher>
-<score> 0 </score>
-<time> [1]N  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note></note>
-</F7>
-
-<F7 id="024">
-<num>F7-024</num>
-<class> 乙                             </class>
-<group></group>
-<name> 體育（一） </name>
-<teacher> 洪甄憶  </teacher>
-<score> 0 </score>
-<time> [1]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 無                            體育室前 </place>
-<note></note>
-</F7>
-
-<F7 id="029">
-<num>F7-029</num>
-<class> 乙                             </class>
-<group></group>
-<name> 服務學習（一） </name>
-<teacher> 黃崇明  </teacher>
+<name> 服務學習（二） </name>
+<teacher> 楊士德  </teacher>
 <score> 0 </score>
 <time> [4]N  </time>
 <must> 必修 </must>
@@ -136,14 +108,42 @@
 <note></note>
 </F7>
 
+<F7 id="030">
+<num>F7-030</num>
+<class> 乙                             </class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 楊士德  </teacher>
+<score> 0 </score>
+<time> [1]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</F7>
+
+<F7 id="053">
+<num>F7-053</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 離散數學 </name>
+<teacher> 高宏宇  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4264 </place>
+<note> 甲乙合班                                                                 </note>
+</F7>
+
 <F7 id="054">
 <num>F7-054</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 數位系統導論 </name>
-<teacher> 陳培殷  </teacher>
+<name> 程式語言 </name>
+<teacher> 胡敏君  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [1]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4264 </place>
@@ -152,96 +152,108 @@
 
 <F7 id="055">
 <num>F7-055</num>
-<class> 甲                             </class>
-<group></group>
-<name> 數位系統實驗 </name>
-<teacher> 陳培殷  </teacher>
-<score> 1 </score>
-<time> [3]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 資訊新館                      65203 </place>
-<note></note>
-</F7>
-
-<F7 id="057">
-<num>F7-057</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 工程數學 </name>
-<teacher> 蘇銓清  </teacher>
+<name> 計算機組織 </name>
+<teacher> 張大緯  </teacher>
 <score> 3 </score>
-<time> [1]5~7  </time>
+<time> [1]8  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4264 </place>
-<note> 甲乙合班，限曾修習微積分（一）（二）                                     </note>
+<note> 甲乙合班                                                                 </note>
 </F7>
 
-<F7 id="062">
-<num>F7-062</num>
-<class></class>
+<F7 id="056">
+<num>F7-056</num>
+<class> 甲乙                           </class>
 <group></group>
-<name> 服務學習（三）-資訊服務 </name>
-<teacher> 楊中平  </teacher>
+<name> 機率與統計 </name>
+<teacher> 吳明龍  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4264 </place>
+<note> 甲乙合班                                                                 </note>
+</F7>
+
+<F7 id="059">
+<num>F7-059</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 蔡孟勳  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </F7>
 
-<F7 id="068">
-<num>F7-068</num>
-<class> 乙                             </class>
+<F7 id="060">
+<num>F7-060</num>
+<class> 甲乙                           </class>
 <group></group>
-<name> 數位系統實驗 </name>
-<teacher> 陳培殷  </teacher>
-<score> 1 </score>
+<name> 視窗程式設計 </name>
+<teacher> 張瑞紘  </teacher>
+<score> 3 </score>
 <time> [4]2~4  </time>
-<must> 必修 </must>
-<type> 實習 </type>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75209 </place>
+<note></note>
+</F7>
+
+<F7 id="072">
+<num>F7-072</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> JAVA軟體開發 </name>
+<teacher> 李信杰  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊新館                      65304 </place>
+<note></note>
+</F7>
+
+<F7 id="073">
+<num>F7-073</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 類比電子電路實作 </name>
+<teacher> 蘇文鈺  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
 <place> 資訊新館                      65203 </place>
 <note></note>
 </F7>
 
-<F7 id="079">
-<num>F7-079</num>
+<F7 id="085">
+<num>F7-085</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 資料結構 </name>
-<teacher> 許靜芳  </teacher>
-<score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4263 </place>
-<note> 甲乙合班                                                                 </note>
-</F7>
-
-<F7 id="080">
-<num>F7-080</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 資訊安全 </name>
-<teacher> 黃宗立  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<name> 資訊工程倫理與生涯規劃 </name>
+<teacher> 謝孫源  </teacher>
+<score> 1 </score>
+<time> [5]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4261 </place>
-<note> 甲乙合班                                                                 </note>
+<place> 資訊系館                      4263 </place>
+<note> 必選 (須修過方能畢業)                                                    </note>
 </F7>
 
-<F7 id="082">
-<num>F7-082</num>
+<F7 id="090">
+<num>F7-090</num>
 <class> 甲乙                           </class>
 <group></group>
 <name> 自由軟體開發與社群發展 </name>
-<teacher> 楊中平  </teacher>
+<teacher> 楊中平*  ,  盧文祥  </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>
@@ -252,190 +264,94 @@
 
 <F7 id="102">
 <num>F7-102</num>
-<class> 甲                             </class>
+<class> 甲乙                           </class>
 <group></group>
-<name> 微算機原理與應用（含實驗） </name>
-<teacher> 楊中平  </teacher>
-<score> 4 </score>
-<time> [1]2~3  ,  [3]2  </time>
-<must> 必修 </must>
+<name> 電腦通訊網路 </name>
+<teacher> 黃崇明  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65304 </place>
-<note> 講義甲乙合班上課                                                         </note>
-<class1> 甲                             </class1>
-<group1> A </group1>
-<name1> 微算機原理與應用（含實驗） </name1>
-<time1> [4]7~9  </time1>
-<place1> 資訊新館                      65304 </place1>
-<note1></note1>
-</F7>
-
-<F7 id="103">
-<num>F7-103</num>
-<class> 乙                             </class>
-<group></group>
-<name> 微算機原理與應用（含實驗） </name>
-<teacher> 楊中平  </teacher>
-<score> 4 </score>
-<time> [1]2~3  ,  [3]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 資訊新館                      65304 </place>
-<note> 講義甲乙合班上課                                                         </note>
-<class1> 乙                             </class1>
-<group1> B </group1>
-<name1> 微算機原理與應用（含實驗） </name1>
-<time1> [1]9~B  </time1>
-<place1> 資訊新館                      65304 </place1>
-<note1></note1>
+<place> 資訊系館                      4203 </place>
+<note></note>
 </F7>
 
 <F7 id="106">
 <num>F7-106</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 演算法 </name>
-<teacher> 謝孫源  </teacher>
+<name> 編譯系統 </name>
+<teacher> 蔡佩璇  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [5]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4263 </place>
+<place> 照坤精密儀器大樓              95405 </place>
 <note> 甲乙合班                                                                 </note>
 </F7>
 
-<F7 id="112">
-<num>F7-112</num>
+<F7 id="107">
+<num>F7-107</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 製造資訊與系統概論 </name>
-<teacher> 陳裕民   ,  陳響亮   ,  鄭芳田   ,  陳朝鈞   ,  蔡佩璇   ,  李家岩* </teacher>
+<name> 計算理論 </name>
+<teacher> 莊坤達  </teacher>
 <score> 3 </score>
-<time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note></note>
-</F7>
-
-<F7 id="115">
-<num>F7-115</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 作業研究 </name>
-<teacher> 李家岩  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4261 </place>
-<note></note>
-</F7>
-
-<F7 id="119">
-<num>F7-119</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 作業系統 </name>
-<teacher> 張大緯  </teacher>
-<score> 3 </score>
-<time> [1]8  ,  [4]5~6  </time>
+<time> [4]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4264 </place>
 <note> 甲乙合班                                                                 </note>
 </F7>
 
-<F7 id="121">
-<num>F7-121</num>
+<F7 id="108">
+<num>F7-108</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 無線通訊網路 </name>
-<teacher> 鄭憲宗  </teacher>
+<name> 競賽演算法設計與實作 </name>
+<teacher> 蔡孟勳  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4203 </place>
-<note> 甲乙合班                                                                 </note>
-</F7>
-
-<F7 id="122">
-<num>F7-122</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 網頁應用及程式設計 </name>
-<teacher> 盧文祥  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊新館                      65304 </place>
+<place> 資訊新館                      65203 </place>
 <note></note>
 </F7>
 
-<F7 id="123">
-<num>F7-123</num>
+<F7 id="109">
+<num>F7-109</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 多處理機平行程式設計 </name>
-<teacher> 未定  </teacher>
+<name> 軟體工程 </name>
+<teacher> 郭淑美  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65105 </place>
+<place> 資訊系館                      4204 </place>
 <note></note>
 </F7>
 
-<F7 id="152">
-<num>F7-152</num>
+<F7 id="120">
+<num>F7-120</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 知識挖掘與資料工程導論 </name>
-<teacher> 莊坤達  </teacher>
+<name> 嵌入式作業系統設計、實作與移植 </name>
+<teacher> 黃敬群  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4202 </place>
+<place> 資訊新館                      65203 </place>
 <note></note>
 </F7>
 
-<F7 id="154">
-<num>F7-154</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 生技醫藥概論 </name>
-<teacher> 楊士德  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4201 </place>
-<note></note>
-</F7>
-
-<F7 id="155">
-<num>F7-155</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 初階影像處理、嵌入式機器人視覺及人機互動 </name>
-<teacher> 連震杰  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4203 </place>
-<note> 碩士班和大學部學生的評量方式不同, 請詳閱課綱                             </note>
-</F7>
-
-<F7 id="186">
-<num>F7-186</num>
+<F7 id="130">
+<num>F7-130</num>
 <class></class>
 <group></group>
-<name> 資訊專題（二） </name>
-<teacher> 陳培殷  </teacher>
+<name> 資訊專題（一） </name>
+<teacher> 謝孫源  </teacher>
 <score> 2 </score>
 <time> 
   </time>
@@ -446,32 +362,88 @@
  </note>
 </F7>
 
-<F7 id="195">
-<num>F7-195</num>
+<F7 id="134">
+<num>F7-134</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 雲端虛擬化環境之系統管理 </name>
-<teacher> 施嘉興  </teacher>
+<name> 訊號與系統 </name>
+<teacher> 蘇文鈺*  ,  王新民  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65203 </place>
-<note></note>
+<note> 甲乙合班                                                                 </note>
 </F7>
 
-<F7 id="196">
-<num>F7-196</num>
+<F7 id="151">
+<num>F7-151</num>
 <class> 甲乙                           </class>
 <group></group>
-<name> 模糊邏輯 </name>
-<teacher> 郭耀煌  </teacher>
+<name> 計算機圖學 </name>
+<teacher> 胡敏君  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4263 </place>
+<note> 大四碩士合班                                                             </note>
+</F7>
+
+<F7 id="152">
+<num>F7-152</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 繪圖技術設計與應用 </name>
+<teacher> 李同益  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4261 </place>
-<note> 碩士班和大學部學生的評量方式不同, 請詳閱課綱                             </note>
+<note> 本課程為大碩合開, 大學部與碩士班評量方式不同, 請詳閱課程大綱             </note>
+</F7>
+
+<F7 id="153">
+<num>F7-153</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 資料庫系統導論 </name>
+<teacher> 李　強  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊新館                      65104 </place>
+<note></note>
+</F7>
+
+<F7 id="154">
+<num>F7-154</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 醫學影像概論 </name>
+<teacher> 孫永年  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4201 </place>
+<note></note>
+</F7>
+
+<F7 id="165">
+<num>F7-165</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 分散式系統 </name>
+<teacher> 蕭宏章  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4261 </place>
+<note></note>
 </F7>
 
 </content>

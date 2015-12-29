@@ -4,83 +4,125 @@
 <num>P5-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 蔡俊鴻  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 李文智  </teacher>
 <score> 0 </score>
 <time> [3]6~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 環工系館                      47118 </place>
-<note> 碩一、二合班                                                             </note>
+<note> 碩一與碩二合班                                                           </note>
+</P5>
+
+<P5 id="002">
+<num>P5-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 李文智  </teacher>
+<score> 0 </score>
+<time> [3]6~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 環工系館                      47118 </place>
+<note> 碩一與碩二合班                                                           </note>
 </P5>
 
 <P5 id="003">
 <num>P5-003</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 蔡俊鴻  </teacher>
-<score> 0 </score>
-<time> [3]6~8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 環工系館                      47118 </place>
-<note> 碩一、二合班                                                             </note>
-</P5>
-
-<P5 id="018">
-<num>P5-018</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 氣膠學 </name>
+<name> 專題討論 </name>
+<teacher> 劉守恒  </teacher>
+<score> 0 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 環工系館                      47111 </place>
+<note> 碩三與博合班（英語授課）                                                 </note>
+</P5>
+
+<P5 id="024">
+<num>P5-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 大氣污染化學與應用 </name>
 <teacher> 吳義林  </teacher>
 <score> 3 </score>
-<time> [5]8  ,  [4]3~4  </time>
+<time> [1]5  ,  [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      會議室 </place>
+<note> 英語授課                                                                 </note>
+</P5>
+
+<P5 id="025">
+<num>P5-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 環境微生物特論 </name>
+<teacher> 吳哲宏  </teacher>
+<score> 3 </score>
+<time> [4]4  ,  [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 環工系館                      47102 </place>
 <note> 英語授課                                                                 </note>
 </P5>
 
-<P5 id="019">
-<num>P5-019</num>
+<P5 id="027">
+<num>P5-027</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 專題討論 </name>
+<name> 環工化學原理 </name>
 <teacher> 侯文哲  </teacher>
-<score> 0 </score>
-<time> [3]6~8  </time>
+<score> 3 </score>
+<time> [3]1~2  ,  [4]8  </time>
 <must> 選修 </must>
-<type> 研討 </type>
-<place> 環工系館                      47110 </place>
-<note> 碩三博三以上選修，與博一二合班，英語授課                                 </note>
+<type> 講義 </type>
+<place> 環工系館                      47112 </place>
+<note></note>
+</P5>
+
+<P5 id="028">
+<num>P5-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 環工生物原理 </name>
+<teacher> 黃良銘  </teacher>
+<score> 3 </score>
+<time> [1]6  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47111 </place>
+<note> 英語授課                                                                 </note>
 </P5>
 
 <P5 id="029">
 <num>P5-029</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 環工物理原理 </name>
-<teacher> 吳義林   ,  林財富*  ,  侯文哲  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [5]4  </time>
+<name> 環境保護法規 </name>
+<teacher> 顏秀慧  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47112 </place>
-<note> 英語授課                                                                 </note>
+<place> 醫學院                        302D </place>
+<note> 環醫所與環工所合班                                                       </note>
 </P5>
 
-<P5 id="036">
-<num>P5-036</num>
-<class> 博二                           </class>
+<P5 id="044">
+<num>P5-044</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 科技論文寫作 </name>
+<name> 環境有機化學 </name>
 <teacher> 邱成財  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [4]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      會議室 </place>
+<place> 環工系館                      47102 </place>
 <note> 英語授課                                                                 </note>
 </P5>
 
@@ -88,38 +130,94 @@
 <num>P5-101</num>
 <class> 博一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 侯文哲  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 劉守恒  </teacher>
 <score> 0 </score>
 <time> [3]6~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 環工系館                      47110 </place>
-<note> 英語授課(博一、二合班)                                                   </note>
+<place> 環工系館                      47111 </place>
+<note> 博一二合班（英語授課）                                                   </note>
 </P5>
 
-<P5 id="102">
-<num>P5-102</num>
+<P5 id="105">
+<num>P5-105</num>
 <class> 博二                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 侯文哲  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 劉守恒  </teacher>
 <score> 0 </score>
 <time> [3]6~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 環工系館                      47110 </place>
-<note> 英語授課(博一、二合班)                                                   </note>
+<place> 環工系館                      47111 </place>
+<note> 博一二合班（英語授課）                                                   </note>
 </P5>
 
-<P5 id="109">
-<num>P5-109</num>
+<P5 id="106">
+<num>P5-106</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 環工數學原理 </name>
-<teacher> 張智華*  ,  侯文哲  </teacher>
+<name> 微量化學分析 </name>
+<teacher> 林達昌  </teacher>
 <score> 3 </score>
-<time> [1]2  ,  [4]5~6  </time>
+<time> [2]6  ,  [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47110 </place>
+<note> 英語授課                                                                 </note>
+</P5>
+
+<P5 id="107">
+<num>P5-107</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 燃燒原理與控制 </name>
+<teacher> 朱　信  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47111 </place>
+<note> 英語授課                                                                 </note>
+</P5>
+
+<P5 id="108">
+<num>P5-108</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 廢水高級處理 </name>
+<teacher> 鄭幸雄  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47111 </place>
+<note></note>
+</P5>
+
+<P5 id="112">
+<num>P5-112</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 土壤化學與分析 </name>
+<teacher> 陳如  </teacher>
+<score> 3 </score>
+<time> [1]8  ,  [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47111 </place>
+<note> 英語授課                                                                 </note>
+</P5>
+
+<P5 id="113">
+<num>P5-113</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 污染預防與永續物料管理 </name>
+<teacher> 劉守恒  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [5]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 環工系館                      47111 </place>
@@ -130,13 +228,13 @@
 <num>P5-115</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 污染場址整治 </name>
-<teacher> 林財富  </teacher>
+<name> 水質管理 </name>
+<teacher> 張智華  </teacher>
 <score> 3 </score>
-<time> [1]3~4  ,  [5]2  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47110 </place>
+<place> 環工系館                      47111 </place>
 <note> 英語授課                                                                 </note>
 </P5>
 
@@ -144,13 +242,13 @@
 <num>P5-116</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 能源與環境特論 </name>
-<teacher> 林素貞  </teacher>
+<name> 綠色能源技術 </name>
+<teacher> 王鴻博  </teacher>
 <score> 3 </score>
-<time> [2]5~6  ,  [4]7  </time>
+<time> [2]5  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47118 </place>
+<place> 環工系館                      47111 </place>
 <note> 英語授課                                                                 </note>
 </P5>
 
@@ -158,153 +256,13 @@
 <num>P5-117</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 實驗設計與分析 </name>
-<teacher> 黃良銘  </teacher>
-<score> 3 </score>
-<time> [1]5  ,  [2]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47114 </place>
-<note> 英語授課                                                                 </note>
-</P5>
-
-<P5 id="119">
-<num>P5-119</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 環境採樣原理與應用 </name>
-<teacher> 林達昌  </teacher>
-<score> 3 </score>
-<time> [2]5~6  ,  [3]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47112 </place>
-<note> 英語授課                                                                 </note>
-</P5>
-
-<P5 id="122">
-<num>P5-122</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 生物反應器設計 </name>
-<teacher> 鄭幸雄  </teacher>
-<score> 3 </score>
-<time> [1]4  ,  [3]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47112 </place>
-<note></note>
-</P5>
-
-<P5 id="130">
-<num>P5-130</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 清潔生產 </name>
-<teacher> 巢志成  </teacher>
+<name> 空氣、水資源管理暨氣候變遷 </name>
+<teacher> 張智華   ,  蔡俊鴻* </teacher>
 <score> 3 </score>
 <time> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47111 </place>
-<note> 英語授課                                                                 </note>
-</P5>
-
-<P5 id="131">
-<num>P5-131</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 資源循環 </name>
-<teacher> 張祖恩  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47112 </place>
-<note></note>
-</P5>
-
-<P5 id="132">
-<num>P5-132</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 環境影響評估 </name>
-<teacher> 林素貞  </teacher>
-<score> 3 </score>
-<time> [2]2  ,  [4]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47118 </place>
-<note></note>
-</P5>
-
-<P5 id="135">
-<num>P5-135</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 水處理工程特論 </name>
-<teacher> 葉宣顯  </teacher>
-<score> 3 </score>
-<time> [2]7~8  ,  [4]8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47111 </place>
-<note></note>
-</P5>
-
-<P5 id="143">
-<num>P5-143</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 地下水模擬 </name>
-<teacher> 簡錦樹  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3031 </place>
-<note></note>
-</P5>
-
-<P5 id="144">
-<num>P5-144</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 現代空氣污染控制技術 </name>
-<teacher> 朱　信  </teacher>
-<score> 3 </score>
-<time> [1]3  ,  [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47114 </place>
-<note> 英語授課                                                                 </note>
-</P5>
-
-<P5 id="146">
-<num>P5-146</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 海洋污染 </name>
-<teacher> 劉大綱  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note></note>
-</P5>
-
-<P5 id="147">
-<num>P5-147</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 環境系統分析 </name>
-<teacher> 吳明洋  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47114 </place>
+<place> 環工系館                      47110 </place>
 <note></note>
 </P5>
 

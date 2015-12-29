@@ -1,101 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<H1 id="005">
-<num>H1-005</num>
-<class></class>
-<group></group>
-<name> 微積分（一） </name>
-<teacher> 林良靖  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63101 </place>
-<note></note>
-</H1>
-
 <H1 id="006">
 <num>H1-006</num>
 <class></class>
 <group></group>
-<name> 計算機概論 </name>
-<teacher> 劉裕宏  </teacher>
-<score> 3 </score>
-<time> [1]1~3  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63205 </place>
-<note></note>
-</H1>
-
-<H1 id="007">
-<num>H1-007</num>
-<class></class>
-<group></group>
-<name> 民法概要 </name>
-<teacher> 張國彬  </teacher>
-<score> 3 </score>
-<time> [4]A~C  </time>
-<must> 必選 </must>
-<type> 講義 </type>
-<place> 會計系館                      63211 </place>
-<note> 大一必選                                                                 </note>
-</H1>
-
-<H1 id="009">
-<num>H1-009</num>
-<class></class>
-<group></group>
-<name> 體育（一） </name>
-<teacher> 彭怡千  </teacher>
-<score> 0 </score>
-<time> [5]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 無                            體育室前 </place>
-<note></note>
-</H1>
-
-<H1 id="010">
-<num>H1-010</num>
-<class></class>
-<group></group>
-<name> 初級會計學（一） </name>
+<name> 初級會計學（二） </name>
 <teacher> 林囿成  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
-<note> 外班學生選課須先經授課教師簽名                                           </note>
+<note></note>
 <class1></class1>
 <group1></group1>
-<name1> 初級會計學（一） </name1>
+<name1> 初級會計學（二） </name1>
 <time1> [5]1~2  </time1>
 <place1> 會計系館                      63101 </place1>
 <note1></note1>
 </H1>
 
-<H1 id="016">
-<num>H1-016</num>
+<H1 id="007">
+<num>H1-007</num>
 <class></class>
 <group></group>
-<name> 服務學習（一） </name>
-<teacher> 梁少懷  </teacher>
-<score> 0 </score>
-<time> [1]9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 會計系館                      63101 </place>
-<note></note>
-</H1>
-
-<H1 id="017">
-<num>H1-017</num>
-<class></class>
-<group></group>
-<name> 經濟學（一） </name>
-<teacher> 翁明宏  </teacher>
+<name> 經濟學（二） </name>
+<teacher> 伍弘歷  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
 <must> 必修 </must>
@@ -104,31 +34,79 @@
 <note></note>
 </H1>
 
-<H1 id="052">
-<num>H1-052</num>
+<H1 id="008">
+<num>H1-008</num>
 <class></class>
 <group></group>
-<name> 成本會計（一） </name>
-<teacher> 楊朝旭  </teacher>
+<name> 微積分（二） </name>
+<teacher> 林良靖  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63101 </place>
+<note> 會計系大一必選                                                           </note>
+</H1>
+
+<H1 id="013">
+<num>H1-013</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 梁少懷  </teacher>
+<score> 0 </score>
+<time> [1]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 會計系館                      63101 </place>
+<note> 打掃會計系館                                                             </note>
+</H1>
+
+<H1 id="055">
+<num>H1-055</num>
+<class></class>
+<group></group>
+<name> 成本會計（二） </name>
+<teacher> 孫文琦  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
-<note> 外系學生選課須先經授課教師簽名                                           </note>
+<note> 配合老師排課時間，調課到禮拜五上午2-4                                    </note>
 <class1></class1>
 <group1></group1>
-<name1> 成本會計（一） </name1>
+<name1> 成本會計（二） </name1>
 <time1> [2]1  ,  [4]1  </time1>
+<place1> 會計系館                      63104 </place1>
+<note1> 配合老師排課時間，調課到禮拜2上午3-4                                     </note1>
+</H1>
+
+<H1 id="057">
+<num>H1-057</num>
+<class></class>
+<group></group>
+<name> 中級會計學（二） </name>
+<teacher> 周庭楷  </teacher>
+<score> 4 </score>
+<time> [3]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63104 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 中級會計學（二） </name1>
+<time1> [3]9  ,  [3]5  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
 
-<H1 id="053">
-<num>H1-053</num>
+<H1 id="059">
+<num>H1-059</num>
 <class></class>
 <group></group>
-<name> 統計學（一） </name>
+<name> 統計學（二） </name>
 <teacher> 溫敏杰  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
@@ -138,65 +116,73 @@
 <note></note>
 </H1>
 
-<H1 id="054">
-<num>H1-054</num>
+<H1 id="061">
+<num>H1-061</num>
 <class></class>
 <group></group>
-<name> 中級會計學（一） </name>
-<teacher> 謝喻婷  </teacher>
-<score> 4 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63404 </place>
-<note> 研究所先修                                                               </note>
-<class1></class1>
-<group1></group1>
-<name1> 中級會計學（一） </name1>
-<time1> [1]9~A  </time1>
-<place1> 會計系館                      63404 </place1>
-<note1> 研究所先修                                                               </note1>
-</H1>
-
-<H1 id="055">
-<num>H1-055</num>
-<class></class>
-<group></group>
-<name> 中級會計學（一） </name>
-<teacher> 周庭楷  </teacher>
-<score> 4 </score>
-<time> [3]5~7  </time>
+<name> 基本財務學 </name>
+<teacher> 黃炳勳  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63211 </place>
+<place> 會計系館                      63102 </place>
 <note></note>
-<class1></class1>
-<group1></group1>
-<name1> 中級會計學（一） </name1>
-<time1> [3]8~9  </time1>
-<place1> 會計系館                      63211 </place1>
-<note1></note1>
 </H1>
 
 <H1 id="062">
 <num>H1-062</num>
 <class></class>
 <group></group>
-<name> 服務學習（三） </name>
+<name> 基本財務學 </name>
+<teacher> 黃炳勳  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63102 </place>
+<note> 限外系選修，英語授課                                                     </note>
+</H1>
+
+<H1 id="063">
+<num>H1-063</num>
+<class></class>
+<group></group>
+<name> 管理學 </name>
+<teacher> 陳淑惠  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63101 </place>
+<note> 會計系大二必選                                                           </note>
+</H1>
+
+<H1 id="065">
+<num>H1-065</num>
+<class></class>
+<group></group>
+<name> 中級會計學（二） </name>
 <teacher> 謝喻婷  </teacher>
-<score> 0 </score>
-<time> [2]9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 會計系館                      63104 </place>
-<note></note>
+<score> 4 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63210 </place>
+<note> 財金所先修課程                                                           </note>
+<class1></class1>
+<group1></group1>
+<name1> 中級會計學（二） </name1>
+<time1> [4]A~B  </time1>
+<place1> 會計系館                      63404 </place1>
+<note1></note1>
 </H1>
 
 <H1 id="102">
 <num>H1-102</num>
 <class></class>
 <group></group>
-<name> 高級會計學（一） </name>
+<name> 高級會計學（二） </name>
 <teacher> 陳政芳  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
@@ -206,71 +192,127 @@
 <note></note>
 <class1></class1>
 <group1></group1>
-<name1> 高級會計學（一） </name1>
+<name1> 高級會計學（二） </name1>
 <time1> [2]N  ,  [3]N  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
 
-<H1 id="124">
-<num>H1-124</num>
+<H1 id="106">
+<num>H1-106</num>
 <class></class>
 <group></group>
-<name> 公司法及商業會計法 </name>
+<name> 證券交易法 </name>
 <teacher> 蘇義洲  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
-<must> 必修 </must>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
+<place> 會計系館                      63102 </place>
 <note></note>
 </H1>
 
-<H1 id="125">
-<num>H1-125</num>
+<H1 id="108">
+<num>H1-108</num>
 <class></class>
 <group></group>
-<name> 中級會計學（三） </name>
-<teacher> 周庭楷  </teacher>
-<score> 4 </score>
-<time> [3]2~4  </time>
+<name> 審計學（一） </name>
+<teacher> 李明憲  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63211 </place>
+<place> 會計系館                      63104 </place>
 <note></note>
 <class1></class1>
 <group1></group1>
-<name1> 中級會計學（三） </name1>
-<time1> [1]N  ,  [3]1  </time1>
-<place1> 會計系館                      63211 </place1>
+<name1> 審計學（一） </name1>
+<time1> [4]5  ,  [4]9  </time1>
+<place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
 
-<H1 id="130">
-<num>H1-130</num>
+<H1 id="115">
+<num>H1-115</num>
 <class></class>
 <group></group>
-<name> 固定收益型證券 </name>
-<teacher> 王澤世  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63104 </place>
-<note> 會計系與統計系合開                                                       </note>
-</H1>
-
-<H1 id="133">
-<num>H1-133</num>
-<class></class>
-<group></group>
-<name> 營業稅法及稅捐稽徵法 </name>
-<teacher> 楊博任  </teacher>
+<name> 政府會計 </name>
+<teacher> 楊明宗  </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63101 </place>
+<place> 會計系館                      63102 </place>
+<note></note>
+</H1>
+
+<H1 id="116">
+<num>H1-116</num>
+<class></class>
+<group></group>
+<name> 國際貿易 </name>
+<teacher> 張瀞之  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note> 物流管理領域必修  交管系與會計系合                                       </note>
+</H1>
+
+<H1 id="117">
+<num>H1-117</num>
+<class></class>
+<group></group>
+<name> 企業資源規劃與資料探勘 </name>
+<teacher> 徐立群  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63205 </place>
+<note> 非使用電腦教室時將改至63104上課                                          </note>
+</H1>
+
+<H1 id="118">
+<num>H1-118</num>
+<class></class>
+<group></group>
+<name> 商事法 </name>
+<teacher> 林大洋  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note> 交管系與會計系合開                                                       </note>
+</H1>
+
+<H1 id="119">
+<num>H1-119</num>
+<class></class>
+<group></group>
+<name> 衍生性金融商品導論 </name>
+<teacher> 劉裕宏  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63211 </place>
+<note> 會計系大三必選                                                           </note>
+</H1>
+
+<H1 id="154">
+<num>H1-154</num>
+<class></class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 鄭詩瑜  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61103 </place>
 <note></note>
 </H1>
 
@@ -278,22 +320,22 @@
 <num>H1-155</num>
 <class></class>
 <group></group>
-<name> 會計資訊系統及企業資源規劃 </name>
-<teacher> 薛明賢  </teacher>
+<name> 模擬導論 </name>
+<teacher> 蔡青志  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
-<must> 必修 </must>
+<time> [2]5~6  ,  [5]8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
-<note> 配合教師授課，本學期調到星期五2-4                                        </note>
+<place> 工管系館                      61103 </place>
+<note></note>
 </H1>
 
-<H1 id="157">
-<num>H1-157</num>
+<H1 id="156">
+<num>H1-156</num>
 <class></class>
 <group></group>
-<name> 會計師業務及管理顧問專題 </name>
-<teacher> 龔俊吉  </teacher>
+<name> 國際財務管理 </name>
+<teacher> 李宏志  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 選修 </must>
@@ -302,51 +344,45 @@
 <note></note>
 </H1>
 
-<H1 id="158">
-<num>H1-158</num>
+<H1 id="157">
+<num>H1-157</num>
 <class></class>
 <group></group>
-<name> 所得稅法 </name>
-<teacher> 林志隆  </teacher>
+<name> 期貨與選擇權 </name>
+<teacher> 顏盟峯  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
-<note> 大四必選                                                                 </note>
+<note></note>
 </H1>
 
-<H1 id="163">
-<num>H1-163</num>
+<H1 id="158">
+<num>H1-158</num>
 <class></class>
 <group></group>
-<name> 審計學（二） </name>
-<teacher> 李明憲  </teacher>
+<name> 財務報表分析 </name>
+<teacher> 林軒竹  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
-<must> 必修 </must>
+<must> 必選 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
-<note> 審計實務                                                                 </note>
-<class1></class1>
-<group1></group1>
-<name1> 審計學（二） </name1>
-<time1> [4]5  ,  [4]9  </time1>
-<place1> 會計系館                      63104 </place1>
-<note1></note1>
+<place> 管理學院                      61X02 </place>
+<note> 會計系大四必選                                                           </note>
 </H1>
 
-<H1 id="164">
-<num>H1-164</num>
+<H1 id="159">
+<num>H1-159</num>
 <class></class>
 <group></group>
-<name> 公司治理與財務報導—國際會計與稅務專題研 </name>
-<teacher> 王金來  </teacher>
+<name> 稅務專題研討 </name>
+<teacher> 林志隆  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63404 </place>
+<place> 會計系館                      63102 </place>
 <note></note>
 </H1>
 

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<U2 id="101">
-<num>U2-101</num>
+<U2 id="001">
+<num>U2-001</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
@@ -16,95 +16,179 @@
  </note>
 </U2>
 
-<U2 id="102">
-<num>U2-102</num>
+<U2 id="002">
+<num>U2-002</num>
 <class> 碩                             </class>
 <group></group>
-<name> 醫事法與醫療疏失案例研究 </name>
-<teacher> 侯英泠  </teacher>
-<score> 2 </score>
-<time> [4]8~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    七樓會議室 </place>
-<note> 碩士班限丁組、原科法所。學士班開放大三以上（特別法）。                   </note>
-</U2>
-
-<U2 id="103">
-<num>U2-103</num>
-<class> 碩                             </class>
-<group></group>
-<name> 刑事法與法社會學（一） </name>
-<teacher> 李佳玟  </teacher>
+<name> 社會福利與法律 </name>
+<teacher> 蔡維音  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note> 碩士班限丁組、原科法所。學士班開放大三以上（基礎法學）。                 </note>
+<note> 限碩士班丁組、原科法所選修。另開放學士班選修，限大三以上（特別法）。     </note>
 </U2>
 
-<U2 id="104">
-<num>U2-104</num>
+<U2 id="003">
+<num>U2-003</num>
 <class> 碩                             </class>
 <group></group>
-<name> 法律文件寫作（二） </name>
+<name> 醫療說明義務與案例研究（一） </name>
+<teacher> 侯英泠  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    七樓會議室 </place>
+<note> 限碩士班丁組、原科法所選修。另開放學士班選修，限大三以上（專題及實例研討 </note>
+</U2>
+
+<U2 id="004">
+<num>U2-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 公共工程與法律（一） </name>
 <teacher> 許登科  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    七樓會議室 </place>
-<note> 碩士班限丁組、原科法所。學士班開放大三以上（基礎法學）。                 </note>
+<place> 社科院大樓                    七樓研討室B </place>
+<note> 限碩士班丁組、原科法所選修。另開放學士班選修，限大三以上（專題及實例研討 </note>
 </U2>
 
-<U2 id="105">
-<num>U2-105</num>
+<U2 id="005">
+<num>U2-005</num>
 <class> 碩                             </class>
 <group></group>
-<name> 民事實體法與程序法整合 </name>
-<teacher> 邵靖惠  </teacher>
+<name> 法律人倫理 </name>
+<teacher> 許登科  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    七樓研討室A </place>
-<note> 碩士班限丁組、原科法所。學士班開放大三以上（特別法）。                   </note>
+<note> 限碩士班丁組、原科法所選修。另開放學士班選修，限大三以上（基礎法學）。   </note>
 </U2>
 
-<U2 id="106">
-<num>U2-106</num>
+<U2 id="006">
+<num>U2-006</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 忠實義務基本問題研究 </name>
+<name> 美國法學名著選讀（二） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 2 </score>
-<time> [1]8~9  </time>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note></note>
+<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
 </U2>
 
-<U2 id="107">
-<num>U2-107</num>
+<U2 id="007">
+<num>U2-007</num>
 <class> 博                             </class>
 <group></group>
-<name> 德國法學名著選讀（二） </name>
+<name> 德國法學名著選讀（一） </name>
 <teacher> 許育典  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note> 開放大三以上選修(法學外文)                                               </note>
+<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
 </U2>
 
-<U2 id="108">
-<num>U2-108</num>
+<U2 id="008">
+<num>U2-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 日本司法權獨立重要案例選讀（二） </name>
+<teacher> 陳運財  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+</U2>
+
+<U2 id="009">
+<num>U2-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 法國法學名著選讀（二） </name>
+<teacher> 陳思廷  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室C </place>
+<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+</U2>
+
+<U2 id="010">
+<num>U2-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 刑事法法學德文（二） </name>
+<teacher> 古承宗  </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室C </place>
+<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+</U2>
+
+<U2 id="011">
+<num>U2-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 民商法法學德文（一） </name>
+<teacher> 李君韜  </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓會議室 </place>
+<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+</U2>
+
+<U2 id="012">
+<num>U2-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 日本法學名著選讀（二） </name>
+<teacher> 陳俊郎  </teacher>
+<score> 2 </score>
+<time> [2]1~2  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓會議室 </place>
+<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+</U2>
+
+<U2 id="013">
+<num>U2-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 比較公司法 </name>
+<teacher> 陳俊仁  </teacher>
+<score> 2 </score>
+<time> [1]8~9  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note> 英語授課                                                                 </note>
+</U2>
+
+<U2 id="014">
+<num>U2-014</num>
 <class> 博                             </class>
 <group></group>
-<name> 憲法基本問題研究（二） </name>
+<name> 憲法基本問題研究（一） </name>
 <teacher> 許育典  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
@@ -114,95 +198,53 @@
 <note> 開放碩士班選修                                                           </note>
 </U2>
 
-<U2 id="109">
-<num>U2-109</num>
-<class> 博                             </class>
-<group></group>
-<name> 法學方法論（一） </name>
-<teacher> 蔡志方  </teacher>
-<score> 2 </score>
-<time> [3]7~8  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室B </place>
-<note> 開放碩士班選修                                                           </note>
-</U2>
-
-<U2 id="110">
-<num>U2-110</num>
+<U2 id="017">
+<num>U2-017</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 陸運科技安全法專題研究 </name>
-<teacher> 蔡志方  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    80203 </place>
-<note></note>
-</U2>
-
-<U2 id="111">
-<num>U2-111</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 魚類養殖與捕魚之法律問題研究 </name>
-<teacher> 蔡志方  </teacher>
+<name> 經濟憲法專題研究 </name>
+<teacher> 蔡維音  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    七樓研討室B </place>
-<note> 海事所與法律所合開，法律所比照研討課程。                                 </note>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓會議室 </place>
+<note></note>
 </U2>
 
-<U2 id="112">
-<num>U2-112</num>
+<U2 id="018">
+<num>U2-018</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 智慧財產權法律與實務專題研究（一） </name>
+<name> 智慧財產權法律與實務專題研究（二） </name>
 <teacher> 許忠信  </teacher>
 <score> 2 </score>
 <time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
+<place> 社科院大樓                    七樓會議室 </place>
 <note></note>
 </U2>
 
-<U2 id="113">
-<num>U2-113</num>
+<U2 id="019">
+<num>U2-019</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 國際經濟法專題研究（一） </name>
-<teacher> 許忠信  </teacher>
-<score> 2 </score>
-<time> [3]7~8  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note></note>
-</U2>
-
-<U2 id="114">
-<num>U2-114</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 國際金融法專題研究（一） </name>
+<name> 國際金融法專題研究（二） </name>
 <teacher> 許忠信  </teacher>
 <score> 2 </score>
 <time> [3]9~A  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note></note>
+<place> 社科院大樓                    七樓會議室 </place>
+<note> 英語授課                                                                 </note>
 </U2>
 
-<U2 id="115">
-<num>U2-115</num>
+<U2 id="020">
+<num>U2-020</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 醫事民法專題研究（一） </name>
+<name> 醫事民法專題研究（二） </name>
 <teacher> 侯英泠  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
@@ -212,11 +254,11 @@
 <note></note>
 </U2>
 
-<U2 id="116">
-<num>U2-116</num>
+<U2 id="021">
+<num>U2-021</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 國民參與刑事程序專題研究（一） </name>
+<name> 非常救濟程序與冤獄救援（一） </name>
 <teacher> 陳運財  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
@@ -226,25 +268,11 @@
 <note></note>
 </U2>
 
-<U2 id="117">
-<num>U2-117</num>
+<U2 id="022">
+<num>U2-022</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 美國法學名著選讀（一） </name>
-<teacher> 李佳玟  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note> 開放大三以上選修(法學外文)                                               </note>
-</U2>
-
-<U2 id="118">
-<num>U2-118</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 刑事法與法社會學專題研究（一） </name>
+<name> 刑事法與法社會學專題研究（二） </name>
 <teacher> 李佳玟  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
@@ -254,11 +282,11 @@
 <note></note>
 </U2>
 
-<U2 id="119">
-<num>U2-119</num>
+<U2 id="023">
+<num>U2-023</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 刑法專題研究（一） </name>
+<name> 比較刑法專題研究（二） </name>
 <teacher> 王效文  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
@@ -268,11 +296,25 @@
 <note></note>
 </U2>
 
-<U2 id="120">
-<num>U2-120</num>
+<U2 id="024">
+<num>U2-024</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 家事事件專題研究（四） </name>
+<name> 刑法專題研究（二） </name>
+<teacher> 王效文  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note></note>
+</U2>
+
+<U2 id="025">
+<num>U2-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 家事事件專題研究（一） </name>
 <teacher> 郭書琴  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
@@ -282,96 +324,40 @@
 <note></note>
 </U2>
 
-<U2 id="121">
-<num>U2-121</num>
+<U2 id="026">
+<num>U2-026</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 環境法專題研究（一） </name>
+<name> 環境法專題研究（二） </name>
 <teacher> 王毓正  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time> [2]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
+<place> 社科院大樓                    七樓研討室B </place>
 <note></note>
 </U2>
 
-<U2 id="122">
-<num>U2-122</num>
-<class> 碩博                           </class>
+<U2 id="027">
+<num>U2-027</num>
+<class> 碩                             </class>
 <group></group>
-<name> 風險釋義與刑法專題研究（一） </name>
-<teacher> 古承宗  </teacher>
+<name> 公平交易法專題研究（二） </name>
+<teacher> 林易典  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time> [1]1~2  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
-<note></note>
+<place> 社科院大樓                    七樓研討室B </place>
+<note> 限碩甲乙丙組選修                                                         </note>
 </U2>
 
-<U2 id="123">
-<num>U2-123</num>
+<U2 id="028">
+<num>U2-028</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 經濟行政法專題研究（三） </name>
-<teacher> 許登科  </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note></note>
-</U2>
-
-<U2 id="124">
-<num>U2-124</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 國際人權法專題研究（二） </name>
-<teacher> 陳怡凱  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note></note>
-</U2>
-
-<U2 id="125">
-<num>U2-125</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 法國法學名著選讀（一） </name>
-<teacher> 陳思廷  </teacher>
-<score> 2 </score>
-<time> [1]5~6  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note> 開放大三以上選修(法學外文)                                               </note>
-</U2>
-
-<U2 id="126">
-<num>U2-126</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 文化創意產業與法律專題研究（一） </name>
-<teacher> 陳思廷  </teacher>
-<score> 2 </score>
-<time> [1]7~8  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note></note>
-</U2>
-
-<U2 id="127">
-<num>U2-127</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 法律實證專題研究（五） </name>
-<teacher> 邵靖惠  </teacher>
+<name> 刑事法基礎理論專題研究（三） </name>
+<teacher> 許澤天  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 選修 </must>
@@ -380,11 +366,95 @@
 <note></note>
 </U2>
 
-<U2 id="128">
-<num>U2-128</num>
+<U2 id="029">
+<num>U2-029</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 企業暨金融法專題研究（一） </name>
+<name> 比較刑事訴訟法專題研究（三） </name>
+<teacher> 許澤天   ,  王士帆* </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室B </place>
+<note></note>
+</U2>
+
+<U2 id="030">
+<num>U2-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 風險釋義與刑法專題研究（二） </name>
+<teacher> 古承宗  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note></note>
+</U2>
+
+<U2 id="031">
+<num>U2-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 經濟行政法專題研究（四） </name>
+<teacher> 許登科  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室B </place>
+<note></note>
+</U2>
+
+<U2 id="032">
+<num>U2-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> ECFA專題研究 </name>
+<teacher> 陳怡凱  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note></note>
+</U2>
+
+<U2 id="033">
+<num>U2-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 智慧財產權法專題研究（二） </name>
+<teacher> 陳思廷  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓會議室 </place>
+<note></note>
+</U2>
+
+<U2 id="034">
+<num>U2-034</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 企業暨金融法專題研究（二） </name>
+<teacher> 顏雅倫  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note></note>
+</U2>
+
+<U2 id="035">
+<num>U2-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 比較競爭法專題研究（一） </name>
 <teacher> 顏雅倫  </teacher>
 <score> 2 </score>
 <time> [1]8~9  </time>
@@ -394,84 +464,14 @@
 <note></note>
 </U2>
 
-<U2 id="129">
-<num>U2-129</num>
+<U2 id="036">
+<num>U2-036</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 工程契約法專題研究 </name>
+<name> 採購契約爭議處理專題研究 </name>
 <teacher> 葉婉如  </teacher>
 <score> 2 </score>
 <time> [3]1~2  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
-<note></note>
-</U2>
-
-<U2 id="130">
-<num>U2-130</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 民商法法學德文（四） </name>
-<teacher> 葉婉如  </teacher>
-<score> 2 </score>
-<time> [5]1~2  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
-<note> 開放大三以上選修(法學外文)                                               </note>
-</U2>
-
-<U2 id="132">
-<num>U2-132</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 日本法學名著選讀（一） </name>
-<teacher> 陳俊郎  </teacher>
-<score> 2 </score>
-<time> [2]1~2  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
-<note> 開放大三以上選修(法學外文)                                               </note>
-</U2>
-
-<U2 id="133">
-<num>U2-133</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 刑事法法學德文（一） </name>
-<teacher> 王士帆  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室B </place>
-<note> 開放大三以上選修(法學外文)                                               </note>
-</U2>
-
-<U2 id="134">
-<num>U2-134</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 刑事訴訟實務專題研究（一） </name>
-<teacher> 王士帆  </teacher>
-<score> 2 </score>
-<time> [5]3~4  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
-<note></note>
-</U2>
-
-<U2 id="135">
-<num>U2-135</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 刑法歸責理論研究（一） </name>
-<teacher> 古承宗  </teacher>
-<score> 2 </score>
-<time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>

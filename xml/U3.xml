@@ -4,13 +4,13 @@
 <num>U3-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 教育研究法 </name>
-<teacher> 楊琬琳*  ,  洪素蘋   ,  許清芳  </teacher>
+<name> 學生出題教學設計 </name>
+<teacher> 于富雲  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
-<must> 必修 </must>
+<time> [3]5~7  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80211 </place>
+<place> 社科院大樓                    團體諮商室 </place>
 <note></note>
 </U3>
 
@@ -18,27 +18,27 @@
 <num>U3-002</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 創新學習與教學 </name>
-<teacher> 楊雅婷  </teacher>
-<score> 3 </score>
-<time> [1]1~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    心智教室 </place>
-<note></note>
+<name> 專題研討 </name>
+<teacher> 程炳林  </teacher>
+<score> 0 </score>
+<time> [1]4~N  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    A424 </place>
+<note> 非本所學生，須修過基礎統計                                               </note>
 </U3>
 
 <U3 id="003">
 <num>U3-003</num>
-<class> 碩一                           </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 人格心理學研究 </name>
-<teacher> 趙梅如  </teacher>
+<name> 青少年偏差行為專題研究 </name>
+<teacher> 董旭英  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    團體諮商室 </place>
+<place> 社科院大樓                    80211 </place>
 <note></note>
 </U3>
 
@@ -46,10 +46,10 @@
 <num>U3-004</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 教育心理學專題研究 </name>
+<name> 動機心理學專題研究 </name>
 <teacher> 程炳林  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
@@ -60,27 +60,27 @@
 <num>U3-005</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 服務學習專題研究 </name>
-<teacher> 董旭英  </teacher>
+<name> 決策與判斷 </name>
+<teacher> 許清芳  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
-<must> 必修 </must>
+<time> [2]5~7  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    團體諮商室 </place>
-<note> 融入服務學習內涵 ，碩二必修；博班選修                                    </note>
+<note> 外所學生須經授課教師確認統計基本知識，同意後才可選修本課程               </note>
 </U3>
 
 <U3 id="006">
 <num>U3-006</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 教育統計與電腦應用 </name>
-<teacher> 陸偉明  </teacher>
+<name> 資料管理 </name>
+<teacher> 許清芳  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    A424 </place>
+<place> 資訊大樓                      75309 </place>
 <note></note>
 </U3>
 
@@ -88,13 +88,13 @@
 <num>U3-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 專題研討 </name>
-<teacher> 湯　堯  </teacher>
-<score> 0 </score>
-<time> [1]4~N  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    A424 </place>
+<name> 諮商理論與技術專題研究 </name>
+<teacher> 饒夢霞  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    團體諮商室 </place>
 <note></note>
 </U3>
 
@@ -102,10 +102,10 @@
 <num>U3-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 網路教學與評鑑策略 </name>
-<teacher> 于富雲  </teacher>
+<name> 教育科技之研究議題與方法 </name>
+<teacher> 楊雅婷  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    心智教室 </place>
@@ -116,13 +116,13 @@
 <num>U3-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 本土文化與社會心理學專題 </name>
-<teacher> 趙梅如  </teacher>
+<name> 高等教育專題研究 </name>
+<teacher> 湯　堯  </teacher>
 <score> 3 </score>
-<time> [2]5~7  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    團體諮商室 </place>
+<place> 社科院大樓                    80211 </place>
 <note></note>
 </U3>
 
@@ -130,10 +130,10 @@
 <num>U3-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 國際教育政策與行政專題研究 </name>
-<teacher> 湯　堯  </teacher>
+<name> 人際關係專題研究 </name>
+<teacher> 趙梅如  </teacher>
 <score> 3 </score>
-<time> [4]5~7  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
@@ -144,39 +144,11 @@
 <num>U3-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 當代醫學與健康照護教育專題研究 </name>
-<teacher> 蔡景仁  </teacher>
+<name> 質性研究專題 </name>
+<teacher> 趙梅如  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80211 </place>
-<note></note>
-</U3>
-
-<U3 id="012">
-<num>U3-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 多層次統計分析 </name>
-<teacher> 許清芳  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75209 </place>
-<note></note>
-</U3>
-
-<U3 id="013">
-<num>U3-013</num>
-<class> 博一                           </class>
-<group></group>
-<name> 教育研究方法論專題研究 </name>
-<teacher> 楊琬琳   ,  洪素蘋   ,  陸偉明   ,  湯　堯   ,  董旭英*  ,  趙梅如   ,  許清芳  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    團體諮商室 </place>
 <note></note>
@@ -184,38 +156,10 @@
 
 <U3 id="014">
 <num>U3-014</num>
-<class> 博一                           </class>
-<group></group>
-<name> 當代教育心理學專題研究 </name>
-<teacher> 彭淑玲   ,  謝意苹   ,  饒夢霞   ,  于富雲   ,  程炳林   ,  楊雅婷* </teacher>
-<score> 3 </score>
-<time> [4]5~7  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    團體諮商室 </place>
-<note></note>
-</U3>
-
-<U3 id="015">
-<num>U3-015</num>
-<class> 博                             </class>
-<group></group>
-<name> 學習與教學心理學專題研究 </name>
-<teacher> 程炳林  </teacher>
-<score> 3 </score>
-<time> [1]1~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    團體諮商室 </place>
-<note></note>
-</U3>
-
-<U3 id="016">
-<num>U3-016</num>
 <class> 博二                           </class>
 <group></group>
-<name> 獨立研究（一） </name>
-<teacher> 董旭英   ,  楊雅婷* </teacher>
+<name> 獨立研究（二） </name>
+<teacher> 湯　堯   ,  董旭英   ,  楊雅婷* </teacher>
 <score> 1 </score>
 <time> [4]1  </time>
 <must> 必修 </must>
@@ -224,18 +168,32 @@
 <note></note>
 </U3>
 
-<U3 id="017">
-<num>U3-017</num>
+<U3 id="015">
+<num>U3-015</num>
 <class> 博二                           </class>
 <group></group>
-<name> 專業實習（一） </name>
+<name> 專業實習（二） </name>
 <teacher> 董旭英   ,  楊雅婷*  ,  許清芳  </teacher>
 <score> 1 </score>
 <time> [3]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    A422 </place>
-<note> 研究室                                                                   </note>
+<note></note>
+</U3>
+
+<U3 id="016">
+<num>U3-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 教育行政與教學實習 </name>
+<teacher> 董旭英  </teacher>
+<score> 0 </score>
+<time> [3]N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    A424 </place>
+<note></note>
 </U3>
 
 </content>

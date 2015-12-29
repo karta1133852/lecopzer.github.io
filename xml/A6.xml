@@ -4,8 +4,8 @@
 <num>A6-001</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）—成功登大人 </name>
-<teacher> 林志峯  </teacher>
+<name> 服務學習（三）—運用遠距課輔關懷偏鄉弱勢 </name>
+<teacher> 徐之昇  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -20,8 +20,8 @@
 <num>A6-002</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）—愛，從我開始 </name>
-<teacher> 陳鈞宜  </teacher>
+<name> 服務學習（三）－榕鳳形象大使服務 </name>
+<teacher> 湯　堯  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -52,8 +52,8 @@
 <num>A6-004</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）─分享愛‧愛分享 </name>
-<teacher> 徐碧真  </teacher>
+<name> 服務學習（三）－畢典服務與反思 </name>
+<teacher> 周士琦  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -68,8 +68,8 @@
 <num>A6-005</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）-性福/服務學習 </name>
-<teacher> 徐珊惠  </teacher>
+<name> 服務學習（三）—愛，從我開始 </name>
+<teacher> 陳鈞宜  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -84,8 +84,8 @@
 <num>A6-006</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）—校園生活學習 </name>
-<teacher> 朱朝煌  </teacher>
+<name> 服務學習（三）—國際禮賓大使 </name>
+<teacher> 王筱雯  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -96,40 +96,8 @@
  </note>
 </A6>
 
-<A6 id="010">
-<num>A6-010</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—鋼琴音樂營 </name>
-<teacher> 朱朝煌  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="011">
-<num>A6-011</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—尊重生命，關懷流浪動物 </name>
-<teacher> 詹錢登  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="012">
-<num>A6-012</num>
+<A6 id="007">
+<num>A6-007</num>
 <class></class>
 <group></group>
 <name> 服務學習（三）─圖書館館藏維護管理 </name>
@@ -144,12 +112,12 @@
  </note>
 </A6>
 
-<A6 id="013">
-<num>A6-013</num>
+<A6 id="008">
+<num>A6-008</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）—運用遠距課輔關懷偏鄉弱勢 </name>
-<teacher> 徐之昇  </teacher>
+<name> 服務學習（三）府成平安居─賃居服務學習 </name>
+<teacher> 陳國彬  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -160,8 +128,8 @@
  </note>
 </A6>
 
-<A6 id="014">
-<num>A6-014</num>
+<A6 id="009">
+<num>A6-009</num>
 <class></class>
 <group></group>
 <name> 服務學習（三）─藝術中心 </name>
@@ -176,8 +144,8 @@
  </note>
 </A6>
 
-<A6 id="015">
-<num>A6-015</num>
+<A6 id="010">
+<num>A6-010</num>
 <class></class>
 <group></group>
 <name> 服務學習（三） ─圖書閱覽服務 </name>
@@ -192,8 +160,8 @@
  </note>
 </A6>
 
-<A6 id="016">
-<num>A6-016</num>
+<A6 id="011">
+<num>A6-011</num>
 <class></class>
 <group></group>
 <name> 服務學習（三）─醫院服務與體驗 </name>
@@ -208,80 +176,64 @@
  </note>
 </A6>
 
+<A6 id="012">
+<num>A6-012</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） ─校園無障礙 </name>
+<teacher> 鄭淑惠  </teacher>
+<score> 0 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 唯農大樓                      7108 </place>
+<note> 授課時間：每週四 第三＆四節(有固定上課時間)                              </note>
+</A6>
+
+<A6 id="015">
+<num>A6-015</num>
+<class></class>
+<group></group>
+<name> 服務學習（三）-性福/服務學習 </name>
+<teacher> 徐珊惠  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</A6>
+
+<A6 id="016">
+<num>A6-016</num>
+<class></class>
+<group></group>
+<name> 服務學習（三）─分享愛‧愛分享 </name>
+<teacher> 徐碧真  </teacher>
+<score> 0 </score>
+<time> [2]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</A6>
+
 <A6 id="017">
 <num>A6-017</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）-國際服務學習 </name>
-<teacher> 杜怡萱  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="018">
-<num>A6-018</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—交通安全服務 </name>
-<teacher> 陳國彬  </teacher>
-<score> 0 </score>
-<time> [4]7~8  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 軍訓館                        6022 </place>
-<note> 首次上課時間10/1(四)7,8節 地點：軍訓室6022教室                           </note>
-</A6>
-
-<A6 id="019">
-<num>A6-019</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—國際義工 </name>
-<teacher> 蔡美玲  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="020">
-<num>A6-020</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—關懷與美善 </name>
-<teacher> 林呈鳳  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="021">
-<num>A6-021</num>
 <class></class>
 <group></group>
 <name> 服務學習及磨課師課程教學實習 </name>
 <teacher> 賴明德  </teacher>
 <score> 0 </score>
-<time> [1]N  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 本課程限大三、大四及研究生修課                                           </note>
+<note> 
+ </note>
 </A6>
 
 </content>

@@ -36,7 +36,7 @@ $(function () {
 
 $(function() {
 	$("#classQuery").tooltip({
-		disabled: false,
+		disabled: true,
 		content: "搶課囉",
 		items: "li",
 		position: {

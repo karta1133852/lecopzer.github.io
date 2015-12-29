@@ -4,7 +4,7 @@
 <num>A7-001</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李淑如  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -18,13 +18,13 @@
 <num>A7-002</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
-<teacher> 黃潔莉  </teacher>
+<name> 基礎國文(綜合文類)（二） </name>
+<teacher> 未定  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5108 </place>
+<place> 耐震大樓(建築研究大樓旁)      5117 </place>
 <note></note>
 </A7>
 
@@ -32,7 +32,7 @@
 <num>A7-003</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李京珮  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -46,7 +46,7 @@
 <num>A7-004</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 仇小屏  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -60,7 +60,7 @@
 <num>A7-005</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 吳文璋  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -74,7 +74,7 @@
 <num>A7-006</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 陳梅香  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -88,7 +88,7 @@
 <num>A7-007</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 黃聖松  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -102,7 +102,7 @@
 <num>A7-008</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 高佑仁  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -116,7 +116,7 @@
 <num>A7-009</num>
 <class></class>
 <group></group>
-<name> 基礎國文(古典散文)（一） </name>
+<name> 基礎國文(古典散文)（二） </name>
 <teacher> 林美惠  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -130,7 +130,7 @@
 <num>A7-010</num>
 <class></class>
 <group></group>
-<name> 基礎國文(現代小說)（一） </name>
+<name> 基礎國文(現代小說)（二） </name>
 <teacher> 蘇敏逸  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -144,13 +144,13 @@
 <num>A7-012</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 陳弘學  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7115 </place>
 <note></note>
 </A7>
 
@@ -158,7 +158,7 @@
 <num>A7-013</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李淑如  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
@@ -172,13 +172,13 @@
 <num>A7-014</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
-<teacher> 黃潔莉  </teacher>
+<name> 基礎國文(綜合文類)（二） </name>
+<teacher> 未定  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 空中大學                      53101 </place>
+<place> 物理二館                      49X06 </place>
 <note></note>
 </A7>
 
@@ -186,7 +186,7 @@
 <num>A7-015</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李京珮  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
@@ -200,7 +200,7 @@
 <num>A7-017</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李淑如  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
@@ -210,25 +210,11 @@
 <note></note>
 </A7>
 
-<A7 id="018">
-<num>A7-018</num>
-<class></class>
-<group></group>
-<name> 基礎國文(綜合文類)（一） </name>
-<teacher> 黃潔莉  </teacher>
-<score> 2 </score>
-<time> [3]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41101 </place>
-<note></note>
-</A7>
-
 <A7 id="019">
 <num>A7-019</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李京珮  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
@@ -242,7 +228,7 @@
 <num>A7-020</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 陳梅香  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
@@ -256,7 +242,7 @@
 <num>A7-021</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 林素娟  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
@@ -270,7 +256,7 @@
 <num>A7-022</num>
 <class></class>
 <group></group>
-<name> 基礎國文(史傳文學)（一） </name>
+<name> 基礎國文(史傳文學)（二） </name>
 <teacher> 林美惠  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
@@ -280,12 +266,12 @@
 <note></note>
 </A7>
 
-<A7 id="023">
-<num>A7-023</num>
+<A7 id="024">
+<num>A7-024</num>
 <class></class>
 <group></group>
-<name> 基礎國文(古典散文)（一） </name>
-<teacher> 沈寶春  </teacher>
+<name> 基礎國文(古典詩詞)（二） </name>
+<teacher> 賴麗娟  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 必修 </must>
@@ -294,12 +280,12 @@
 <note></note>
 </A7>
 
-<A7 id="024">
-<num>A7-024</num>
+<A7 id="025">
+<num>A7-025</num>
 <class></class>
 <group></group>
-<name> 基礎國文(古典詩詞)（一） </name>
-<teacher> 賴麗娟  </teacher>
+<name> 基礎國文(綜合文類)（二） </name>
+<teacher> 未定  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 必修 </must>
@@ -308,12 +294,12 @@
 <note></note>
 </A7>
 
-<A7 id="025">
-<num>A7-025</num>
+<A7 id="027">
+<num>A7-027</num>
 <class></class>
 <group></group>
-<name> 基礎國文(現代詩)（一） </name>
-<teacher> 萬胥亭  </teacher>
+<name> 基礎國文(古典戲劇)（二） </name>
+<teacher> 林幸慧  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 必修 </must>
@@ -322,25 +308,11 @@
 <note></note>
 </A7>
 
-<A7 id="027">
-<num>A7-027</num>
-<class></class>
-<group></group>
-<name> 基礎國文(古典戲劇)（一） </name>
-<teacher> 林幸慧  </teacher>
-<score> 2 </score>
-<time> [3]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 物理二館                      49X06 </place>
-<note></note>
-</A7>
-
 <A7 id="030">
 <num>A7-030</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李淑如  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -350,25 +322,11 @@
 <note></note>
 </A7>
 
-<A7 id="031">
-<num>A7-031</num>
-<class></class>
-<group></group>
-<name> 基礎國文(綜合文類)（一） </name>
-<teacher> 黃潔莉  </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61101 </place>
-<note></note>
-</A7>
-
 <A7 id="032">
 <num>A7-032</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李京珮  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -382,7 +340,7 @@
 <num>A7-033</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 林耀潾  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -396,13 +354,13 @@
 <num>A7-034</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
-<teacher> 陳美朱  </teacher>
+<name> 基礎國文(綜合文類)（二） </name>
+<teacher> 未定  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<place> 唯農大樓                      7302 </place>
 <note></note>
 </A7>
 
@@ -410,7 +368,7 @@
 <num>A7-035</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 王翠玲  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -424,13 +382,13 @@
 <num>A7-036</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 黃聖松  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4502 </place>
+<place> 數學系館                      3172 </place>
 <note></note>
 </A7>
 
@@ -438,7 +396,7 @@
 <num>A7-037</num>
 <class></class>
 <group></group>
-<name> 基礎國文(現代小說)（一） </name>
+<name> 基礎國文(現代小說)（二） </name>
 <teacher> 翁文嫻  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -452,7 +410,7 @@
 <num>A7-038</num>
 <class></class>
 <group></group>
-<name> 基礎國文(現代小說)（一） </name>
+<name> 基礎國文(現代小說)（二） </name>
 <teacher> 蔡玫姿  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -466,7 +424,7 @@
 <num>A7-039</num>
 <class></class>
 <group></group>
-<name> 基礎國文(古典詩詞)（一） </name>
+<name> 基礎國文(古典詩詞)（二） </name>
 <teacher> 林美惠  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -480,7 +438,7 @@
 <num>A7-040</num>
 <class></class>
 <group></group>
-<name> 基礎國文(古典詩詞)（一） </name>
+<name> 基礎國文(古典詩詞)（二） </name>
 <teacher> 賴麗娟  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -494,7 +452,7 @@
 <num>A7-041</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 高佑仁  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
@@ -508,7 +466,7 @@
 <num>A7-043</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李淑如  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
@@ -522,8 +480,8 @@
 <num>A7-044</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
-<teacher> 黃潔莉  </teacher>
+<name> 基礎國文(綜合文類)（二） </name>
+<teacher> 未定  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -536,7 +494,7 @@
 <num>A7-045</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 李京珮  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
@@ -550,7 +508,7 @@
 <num>A7-046</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 王翠玲  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
@@ -564,7 +522,7 @@
 <num>A7-047</num>
 <class></class>
 <group></group>
-<name> 基礎國文(綜合文類)（一） </name>
+<name> 基礎國文(綜合文類)（二） </name>
 <teacher> 陳美朱  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
@@ -578,7 +536,7 @@
 <num>A7-048</num>
 <class></class>
 <group></group>
-<name> 基礎國文(現代小說)（一） </name>
+<name> 基礎國文(現代小說)（二） </name>
 <teacher> 蔡玫姿  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>

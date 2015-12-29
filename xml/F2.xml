@@ -1,43 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<F2 id="004">
-<num>F2-004</num>
+<F2 id="006">
+<num>F2-006</num>
 <class></class>
 <group></group>
-<name> 微積分 </name>
-<teacher> 陳重弘  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 都計系館                      50102 </place>
-<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
-<class1></class1>
-<group1> A </group1>
-<name1> 微積分 </name1>
-<time1> [3]1  </time1>
-<place1> 唯農大樓                      7309 </place1>
-<note1></note1>
-<class2></class2>
-<group2> B </group2>
-<name2> 微積分 </name2>
-<time2> [3]1  </time2>
-<place2> 唯農大樓                      7311 </place2>
-<note2></note2>
-<class3></class3>
-<group3> C </group3>
-<name3> 微積分 </name3>
-<time3> [3]1  </time3>
-<place3> 唯農大樓                      7313 </place3>
-<note3></note3>
-</F2>
-
-<F2 id="005">
-<num>F2-005</num>
-<class></class>
-<group></group>
-<name> 服務學習（一） </name>
-<teacher> 黃泰霖  </teacher>
+<name> 服務學習（二） </name>
+<teacher> 陳志宏  </teacher>
 <score> 0 </score>
 <time> [2]2  </time>
 <must> 必修 </must>
@@ -46,17 +14,17 @@
 <note></note>
 </F2>
 
-<F2 id="006">
-<num>F2-006</num>
+<F2 id="007">
+<num>F2-007</num>
 <class></class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 彭怡千  </teacher>
-<score> 0 </score>
-<time> [4]7~8  </time>
+<name> 經濟學 </name>
+<teacher> 蔡仰虔  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 無                            體育室前 </place>
+<place> 都計系館                      50204 </place>
 <note></note>
 </F2>
 
@@ -64,10 +32,10 @@
 <num>F2-008</num>
 <class></class>
 <group></group>
-<name> 都市計劃概論 </name>
-<teacher> 李子璋*  ,  孔憲法  </teacher>
+<name> 統計學 </name>
+<teacher> 石豐宇  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [1]1~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 都計系館                      50204 </place>
@@ -78,8 +46,8 @@
 <num>F2-009</num>
 <class></class>
 <group></group>
-<name> 設計概論 </name>
-<teacher> 曾憲嫻  </teacher>
+<name> 都市社會學 </name>
+<teacher> 謝宏昌  </teacher>
 <score> 2 </score>
 <time> [1]5~6  </time>
 <must> 必修 </must>
@@ -92,17 +60,17 @@
 <num>F2-010</num>
 <class></class>
 <group></group>
-<name> 基本設計（一） </name>
-<teacher> 陳志宏*  ,  黃泰霖  </teacher>
+<name> 基本設計（二） </name>
+<teacher> 蔡振芳   ,  陳志宏*  ,  黃泰霖  </teacher>
 <score> 3 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 都計系館                      50303 </place>
-<note></note>
+<note> 須修過「基本設計(一)」                                                   </note>
 <class1></class1>
 <group1></group1>
-<name1> 基本設計（一） </name1>
+<name1> 基本設計（二） </name1>
 <time1> [3]6~8  </time1>
 <place1> 都計系館                      50303 </place1>
 <note1></note1>
@@ -112,33 +80,13 @@
 <num>F2-011</num>
 <class></class>
 <group></group>
-<name> 圖學 </name>
-<teacher> 蔡振芳  </teacher>
-<score> 2 </score>
-<time> [5]5  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 都計系館                      50303 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 圖學 </name1>
-<time1> [5]6~8  </time1>
-<place1> 都計系館                      50303 </place1>
-<note1></note1>
-</F2>
-
-<F2 id="012">
-<num>F2-012</num>
-<class></class>
-<group></group>
-<name> 都市環境概論 </name>
-<teacher> 黃泰霖  </teacher>
+<name> 計算機概論 </name>
+<teacher> 陳日昇  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50204 </place>
+<place> 資訊大樓                      75309 </place>
 <note></note>
 </F2>
 
@@ -146,17 +94,17 @@
 <num>F2-055</num>
 <class></class>
 <group></group>
-<name> 基本設計（二） </name>
+<name> 都市規劃與設計實習（一） </name>
 <teacher> 曾憲嫻*  ,  張秀慈   ,  林漢良  </teacher>
 <score> 3 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 都計系館                      50221 </place>
-<note> 須修過「基本設計(一)」                                                   </note>
+<note> 須修過基本設計(二)                                                       </note>
 <class1></class1>
 <group1></group1>
-<name1> 基本設計（二） </name1>
+<name1> 都市規劃與設計實習（一） </name1>
 <time1> [3]6~8  </time1>
 <place1> 都計系館                      50221 </place1>
 <note1></note1>
@@ -166,27 +114,27 @@
 <num>F2-056</num>
 <class></class>
 <group></group>
-<name> 規劃分析方法 </name>
-<teacher> 李子璋  </teacher>
+<name> 都市經濟學 </name>
+<teacher> 陳彥仲  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 都計系館                      50202 </place>
-<note></note>
+<note> 須修過「經濟學」                                                         </note>
 </F2>
 
 <F2 id="057">
 <num>F2-057</num>
 <class></class>
 <group></group>
-<name> 都市土地使用計劃 </name>
-<teacher> 張學聖*  ,  葉如萍  </teacher>
+<name> 都市交通計劃 </name>
+<teacher> 李子璋  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50202 </place>
+<place> 都計系館                      50204 </place>
 <note></note>
 </F2>
 
@@ -194,13 +142,13 @@
 <num>F2-058</num>
 <class></class>
 <group></group>
-<name> 都市設計 </name>
-<teacher> 陳志宏  </teacher>
+<name> 地理資訊系統概論 </name>
+<teacher> 林漢良  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50202 </place>
+<place> 建築系館                      5102 </place>
 <note></note>
 </F2>
 
@@ -208,27 +156,27 @@
 <num>F2-059</num>
 <class></class>
 <group></group>
-<name> 服務學習（三） </name>
-<teacher> 黃偉茹  </teacher>
-<score> 0 </score>
-<time> [1]8  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 都計系館                      50221 </place>
-<note> 服務地點於校外，同學須能自行前往。實際上課及社區服務時間詳見課程大綱。   </note>
+<name> 都市發展史 </name>
+<teacher> 孔憲法  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50202 </place>
+<note></note>
 </F2>
 
 <F2 id="060">
 <num>F2-060</num>
 <class></class>
 <group></group>
-<name> 敷地計劃 </name>
+<name> 社區計劃 </name>
 <teacher> 竇國昌  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50204 </place>
+<place> 都計系館                      50202 </place>
 <note></note>
 </F2>
 
@@ -236,31 +184,31 @@
 <num>F2-061</num>
 <class></class>
 <group></group>
-<name> 電腦繪圖 </name>
-<teacher> 陳香綾  </teacher>
+<name> 地形學 </name>
+<teacher> 吳銘志  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 建築系館                      5102 </place>
-<note> 上課地點為設計學院電腦教室。                                             </note>
+<place> 都計系館                      50204 </place>
+<note></note>
 </F2>
 
 <F2 id="102">
 <num>F2-102</num>
 <class></class>
 <group></group>
-<name> 都市規劃與設計實習（二） </name>
-<teacher> 未定   ,  李子璋*  ,  鄒克萬  </teacher>
+<name> 都市規劃與設計實習（三） </name>
+<teacher> 李子璋*  ,  葉如萍   ,  蘇勤惠  </teacher>
 <score> 3 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 都計系館                      50305 </place>
-<note> 須修過「都市規劃與設計實習(一)」                                         </note>
+<note> 須修過「都市規劃與設計實習(二)」                                         </note>
 <class1></class1>
 <group1></group1>
-<name1> 都市規劃與設計實習（二） </name1>
+<name1> 都市規劃與設計實習（三） </name1>
 <time1> [3]6~8  </time1>
 <place1> 都計系館                      50305 </place1>
 <note1></note1>
@@ -270,27 +218,27 @@
 <num>F2-103</num>
 <class></class>
 <group></group>
-<name> 區域計劃概論 </name>
-<teacher> 葉如萍  </teacher>
+<name> 都市財政學 </name>
+<teacher> 鄒克萬  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 都計系館                      50308 </place>
-<note> 須修過「都市計劃概論」                                                   </note>
+<note> 須修過「經濟學」                                                         </note>
 </F2>
 
 <F2 id="104">
 <num>F2-104</num>
 <class></class>
 <group></group>
-<name> 都市再生概論 </name>
-<teacher> 曾憲嫻  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
+<name> 都市及區域計劃法規 </name>
+<teacher> 趙子元  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50102 </place>
+<place> 都計系館                      50202 </place>
 <note></note>
 </F2>
 
@@ -298,13 +246,13 @@
 <num>F2-105</num>
 <class></class>
 <group></group>
-<name> 土地及地籍法規 </name>
-<teacher> 趙子元  </teacher>
-<score> 2 </score>
-<time> [1]5~6  </time>
+<name> 都市美學 </name>
+<teacher> 王煦中  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50308 </place>
+<place> 都計系館                      50202 </place>
 <note></note>
 </F2>
 
@@ -312,13 +260,13 @@
 <num>F2-106</num>
 <class></class>
 <group></group>
-<name> 公共設施計劃 </name>
-<teacher> 葉光毅  </teacher>
-<score> 2 </score>
-<time> [5]3~4  </time>
+<name> 都市防災 </name>
+<teacher> 黃泰霖  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50202 </place>
+<place> 都計系館                      50308 </place>
 <note></note>
 </F2>
 
@@ -326,45 +274,45 @@
 <num>F2-107</num>
 <class></class>
 <group></group>
-<name> 環境地質學 </name>
-<teacher> 簡錦樹  </teacher>
+<name> 運輸系統經營管理 </name>
+<teacher> 石豐宇  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50202 </place>
-<note> 地科三、都計三合班 ，地科系「水資源」領域核心課程                        </note>
+<place> 都計系館                      50302 </place>
+<note></note>
 </F2>
 
 <F2 id="108">
 <num>F2-108</num>
 <class></class>
 <group></group>
-<name> 生態學 </name>
-<teacher> 邱慈暉   ,  陳一菁*  ,  仲澤剛史  </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
+<name> 社區規劃與地方行銷 </name>
+<teacher> 方雅慧   ,  張秀慈* </teacher>
+<score> 3 </score>
+<time> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50202 </place>
-<note></note>
+<place> 都計系館                      50302 </place>
+<note> 具服務學習內涵課程，實際上課時間與社區服務時間詳見課程大綱。             </note>
 </F2>
 
 <F2 id="152">
 <num>F2-152</num>
 <class></class>
 <group></group>
-<name> 都市規劃與設計實習（四） </name>
+<name> 都市規劃與設計實習（五） </name>
 <teacher> 謝宏昌   ,  張學聖   ,  趙子元* </teacher>
 <score> 3 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 都計系館                      50219 </place>
-<note> 須修過「都市規劃與設計實習(三)」                                         </note>
+<note> 須修過都市規劃與設計實習(四)                                             </note>
 <class1></class1>
 <group1></group1>
-<name1> 都市規劃與設計實習（四） </name1>
+<name1> 都市規劃與設計實習（五） </name1>
 <time1> [3]6~8  </time1>
 <place1> 都計系館                      50219 </place1>
 <note1></note1>
@@ -374,41 +322,69 @@
 <num>F2-153</num>
 <class></class>
 <group></group>
-<name> 論文（一） </name>
-<teacher> 孔憲法  </teacher>
+<name> 校外實習 </name>
+<teacher> 趙子元  </teacher>
 <score> 1 </score>
-<time> [3]1  </time>
-<must> 選修 </must>
+<time> [3]9  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 都計系館                      50219 </place>
-<note> 修課同學須將論文研究主題與指導老師名單送交助教室。                       </note>
+<note> 須已完成本系同意之校外實習30天以上                                       </note>
 </F2>
 
 <F2 id="154">
 <num>F2-154</num>
 <class></class>
 <group></group>
-<name> 區域交通計劃 </name>
-<teacher> 葉如萍  </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
+<name> 論文（二） </name>
+<teacher> 孔憲法  </teacher>
+<score> 1 </score>
+<time> [3]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50302 </place>
-<note></note>
+<place> 都計系館                      50219 </place>
+<note> 須修過「論文(一)」                                                       </note>
 </F2>
 
 <F2 id="155">
 <num>F2-155</num>
 <class></class>
 <group></group>
-<name> 都市及區域政策 </name>
-<teacher> 黃偉茹  </teacher>
+<name> 衛星遙測概論 </name>
+<teacher> 劉正千  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [4]3~4  ,  [2]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 都計系館                      50308 </place>
+<note> 都計系與地科系合班，於都計系教室上課。                                   </note>
+</F2>
+
+<F2 id="156">
+<num>F2-156</num>
+<class></class>
+<group></group>
+<name> 空間政治經濟學 </name>
+<teacher> 黃偉茹  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50308 </place>
+<note></note>
+</F2>
+
+<F2 id="157">
+<num>F2-157</num>
+<class></class>
+<group></group>
+<name> 能源策略 </name>
+<teacher> 陳彥仲  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5830 </place>
 <note></note>
 </F2>
 
