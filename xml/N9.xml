@@ -210,6 +210,34 @@
 <note></note>
 </N9>
 
+<N9 id="043">
+<num>N9-043</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 軟體工程專論 </name>
+<teacher> 侯廷偉  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41111 </place>
+<note></note>
+</N9>
+
+<N9 id="045">
+<num>N9-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 隨機程序 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41103 </place>
+<note></note>
+</N9>
+
 <N9 id="047">
 <num>N9-047</num>
 <class> 碩博                           </class>
@@ -290,7 +318,7 @@
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41111 </place>
+<place> 工科系館                      41220 </place>
 <note></note>
 </N9>
 

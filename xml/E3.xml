@@ -895,7 +895,7 @@
 <class> 甲乙丙                         </class>
 <group></group>
 <name> 工業觸媒（一） </name>
-<teacher> 林弘萍   ,  許梅娟*  ,  黃耀輝   ,  陳炳宏   ,  侯聖澍   ,  羅介聰   ,  陳志勇  </teacher>
+<teacher> 林弘萍   ,  許梅娟*  ,  黃耀輝   ,  陳炳宏   ,  侯聖澍   ,  羅介聰  </teacher>
 <score> 3 </score>
 <time> [1]7~9  </time>
 <must> 選修 </must>
@@ -909,7 +909,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 化工程序實驗 </name>
-<teacher> 林建功*  ,  陳志勇  </teacher>
+<teacher> 林建功  </teacher>
 <score> 2 </score>
 <time> [2]3~8  </time>
 <must> 必修 </must>

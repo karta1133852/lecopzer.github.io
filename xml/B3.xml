@@ -91,7 +91,7 @@
 <name> 日本社會文化史（二） </name>
 <teacher> 陳梅卿  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -231,7 +231,7 @@
 <name> 區域研究通論 </name>
 <teacher> 陳文松  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -303,7 +303,7 @@
 <name> 臺灣近代史 </name>
 <teacher> 高淑媛  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -416,6 +416,34 @@
 <teacher> 顧　盼  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</B3>
+
+<B3 id="121">
+<num>B3-121</num>
+<class></class>
+<group></group>
+<name> 歷史名著專書導讀：史記 </name>
+<teacher> 王健文  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</B3>
+
+<B3 id="122">
+<num>B3-122</num>
+<class></class>
+<group></group>
+<name> 中國古代生命禮俗史 </name>
+<teacher> 江達智  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>

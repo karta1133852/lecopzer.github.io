@@ -270,14 +270,14 @@
 <num>S9-022</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 分子腫瘤學書報討論 </name>
-<teacher> 洪澤民* </teacher>
+<name> 分子腫瘤學書報討論（二） </name>
+<teacher> 洪澤民   ,  陳玉玲* </teacher>
 <score> 1 </score>
 <time> [4]5  </time>
 <must> 選修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place> 門診大樓                      7023 </place>
-<note></note>
+<note> 與口醫所合開                                                             </note>
 </S9>
 
 <S9 id="023">
@@ -494,14 +494,14 @@
 <num>S9-313</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 分子腫瘤學書報討論 </name>
-<teacher> 洪澤民* </teacher>
+<name> 分子腫瘤學書報討論（二） </name>
+<teacher> 洪澤民   ,  陳玉玲* </teacher>
 <score> 1 </score>
 <time> [4]5  </time>
 <must> 選修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place> 門診大樓                      7023 </place>
-<note></note>
+<note> 與口醫所合開                                                             </note>
 </S9>
 
 <S9 id="314">

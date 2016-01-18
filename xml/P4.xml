@@ -70,6 +70,22 @@
 <note> 碩博二必修                                                               </note>
 </P4>
 
+<P4 id="008">
+<num>P4-008</num>
+<class></class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 楊文彬  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</P4>
+
 <P4 id="021">
 <num>P4-021</num>
 <class> 碩博                           </class>
@@ -95,20 +111,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5828 </place>
-<note></note>
-</P4>
-
-<P4 id="023">
-<num>P4-023</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 微擾方法 </name>
-<teacher> 王振源  </teacher>
-<score> 3 </score>
-<time> [3]3  ,  [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5827 </place>
 <note></note>
 </P4>
 
@@ -207,20 +209,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5827 </place>
-<note></note>
-</P4>
-
-<P4 id="044">
-<num>P4-044</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 奈微系統量子論 </name>
-<teacher> 楊憲東  </teacher>
-<score> 3 </score>
-<time> [2]2  ,  [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5821 </place>
 <note></note>
 </P4>
 

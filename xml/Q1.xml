@@ -33,7 +33,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 陳志方*  ,  王永和  </teacher>
+<teacher> 陳志方  </teacher>
 <score> 0 </score>
 <time> [5]N~5  </time>
 <must> 必修 </must>
@@ -180,20 +180,6 @@
 <type> 講義 </type>
 <place> 電機系館                      迅慧講堂 </place>
 <note> 電資學院學生選修                                                         </note>
-</Q1>
-
-<Q1 id="030">
-<num>Q1-030</num>
-<class> 碩博                           </class>
-<group></group>
-<name> III-V族化合物金氧半場效應電晶體 </name>
-<teacher> 王永和  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92C01 </place>
-<note></note>
 </Q1>
 
 <Q1 id="031">

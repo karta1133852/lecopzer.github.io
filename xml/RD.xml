@@ -147,7 +147,7 @@
 <name> 國際金融與海外投資策略 </name>
 <teacher> 康信鴻  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -200,7 +200,7 @@
 <num>RD-115</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 公司理財專題 </name>
+<name> 國際財務管理專題研討 </name>
 <teacher> 張紹基  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
@@ -347,6 +347,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
+<note></note>
+</RD>
+
+<RD id="126">
+<num>RD-126</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 創新管理專題 </name>
+<teacher> 劉佳玲  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62455 </place>
 <note></note>
 </RD>
 

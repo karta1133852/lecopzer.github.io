@@ -215,7 +215,7 @@
 <class></class>
 <group></group>
 <name> 跨文化溝通 </name>
-<teacher> 陳麗美  </teacher>
+<teacher> 高郁婷  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 必修 </must>
@@ -1173,7 +1173,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5107 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="502">
@@ -1186,8 +1186,8 @@
 <time> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5108 </place>
-<note></note>
+<place> 空中大學                      53101 </place>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="503">
@@ -1243,7 +1243,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5107 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="507">
@@ -1271,7 +1271,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5107 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="509">
@@ -1312,8 +1312,8 @@
 <time> [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5108 </place>
-<note></note>
+<place> 空中大學                      53101 </place>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="512">
@@ -1327,7 +1327,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5108 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="513">
@@ -1340,8 +1340,8 @@
 <time> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5107 </place>
-<note></note>
+<place> 空中大學                      53101 </place>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="514">
@@ -1411,7 +1411,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="519">
@@ -1453,7 +1453,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="522">
@@ -1467,7 +1467,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="523">
@@ -1537,7 +1537,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="528">
@@ -1565,7 +1565,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
-<note></note>
+<note> 限非日語母語人士修課                                                     </note>
 </A1>
 
 <A1 id="530">

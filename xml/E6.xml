@@ -534,20 +534,6 @@
 <note> 三四年級可選修，土木甲乙合班                                             </note>
 </E6>
 
-<E6 id="110">
-<num>E6-110</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 鋼結構設計 </name>
-<teacher> 鍾興陽  </teacher>
-<score> 3 </score>
-<time> [4]5~6  ,  [1]8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4502 </place>
-<note> 三四年級可選修，最好先修過「鋼結構」再修本課程                           </note>
-</E6>
-
 <E6 id="111">
 <num>E6-111</num>
 <class> 甲乙                           </class>
@@ -670,6 +656,20 @@
  </note>
 </E6>
 
+<E6 id="154">
+<num>E6-154</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 胡宣德  </teacher>
+<score> 1 </score>
+<time> [5]5  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 土木系館                      210 </place>
+<note> 三四年級合開                                                             </note>
+</E6>
+
 <E6 id="156">
 <num>E6-156</num>
 <class> 甲乙                           </class>
@@ -691,11 +691,11 @@
 <name> 電腦輔助土木工程設計 </name>
 <teacher> 黃錦旗  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 甲乙合班，計算機中心上課                                                 </note>
+<place> 土木系館                      4501 </place>
+<note> 甲乙合班                                                                 </note>
 </E6>
 
 <E6 id="158">

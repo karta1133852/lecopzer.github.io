@@ -182,20 +182,6 @@
 <note></note>
 </R5>
 
-<R5 id="152">
-<num>R5-152</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 軌道運輸業經營與管理 </name>
-<teacher> 鄭永祥  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62X01 </place>
-<note></note>
-</R5>
-
 <R5 id="153">
 <num>R5-153</num>
 <class> 碩博                           </class>
@@ -217,7 +203,7 @@
 <name> 無線通訊原理與應用 </name>
 <teacher> 陳文字  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -235,20 +221,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
-<note></note>
-</R5>
-
-<R5 id="162">
-<num>R5-162</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 公路客運業經營與管理 </name>
-<teacher> 魏健宏  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62105 </place>
 <note></note>
 </R5>
 

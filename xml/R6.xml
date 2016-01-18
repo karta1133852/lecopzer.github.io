@@ -14,20 +14,6 @@
 <note></note>
 </R6>
 
-<R6 id="005">
-<num>R6-005</num>
-<class> 碩                             </class>
-<group></group>
-<name> 公司理財專題 </name>
-<teacher> 張紹基  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61401 </place>
-<note></note>
-</R6>
-
 <R6 id="007">
 <num>R6-007</num>
 <class> 碩                             </class>
@@ -78,6 +64,20 @@
 <teacher> 江明憲  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="019">
+<num>R6-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際財務管理專題研討 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61401 </place>

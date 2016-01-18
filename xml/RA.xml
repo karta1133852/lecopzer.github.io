@@ -494,20 +494,6 @@
 <note></note>
 </RA>
 
-<RA id="319">
-<num>RA-319</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 服務業行銷 </name>
-<teacher> 高如妃  </teacher>
-<score> 3 </score>
-<time> [6]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62201 </place>
-<note></note>
-</RA>
-
 <RA id="320">
 <num>RA-320</num>
 <class> 碩專                           </class>
@@ -519,20 +505,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
-<note></note>
-</RA>
-
-<RA id="321">
-<num>RA-321</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 多變量分析 </name>
-<teacher> 吳萬益  </teacher>
-<score> 3 </score>
-<time> [6]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62201 </place>
 <note></note>
 </RA>
 

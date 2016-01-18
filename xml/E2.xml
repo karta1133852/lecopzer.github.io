@@ -649,7 +649,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 電機概論 </name>
-<teacher> 梁從主  </teacher>
+<teacher> 未定  </teacher>
 <score> 3 </score>
 <time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -826,20 +826,6 @@
 <note></note>
 </E2>
 
-<E2 id="099">
-<num>E2-099</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 新創探索 </name>
-<teacher> 張天豪  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note></note>
-</E2>
-
 <E2 id="101">
 <num>E2-101</num>
 <class> 甲乙丙                         </class>
@@ -865,6 +851,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
+<note></note>
+</E2>
+
+<E2 id="103">
+<num>E2-103</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 新創探索 </name>
+<teacher> 張天豪  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      靄雲廳 </place>
 <note></note>
 </E2>
 
@@ -1279,10 +1279,10 @@
 <name> 電源轉換器設計 </name>
 <teacher> 梁從主  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92720 </place>
+<place> 電機系館                      92177 </place>
 <note> 大三四合班                                                               </note>
 </E2>
 

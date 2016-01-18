@@ -188,7 +188,7 @@
 <num>U2-014</num>
 <class> 博                             </class>
 <group></group>
-<name> 憲法基本問題研究（一） </name>
+<name> 憲法基本問題研究（三） </name>
 <teacher> 許育典  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
@@ -258,7 +258,7 @@
 <num>U2-021</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 非常救濟程序與冤獄救援（一） </name>
+<name> 刑事證據法專題研究（二） </name>
 <teacher> 陳運財  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
@@ -363,20 +363,6 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
-<note></note>
-</U2>
-
-<U2 id="029">
-<num>U2-029</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 比較刑事訴訟法專題研究（三） </name>
-<teacher> 許澤天   ,  王士帆* </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室B </place>
 <note></note>
 </U2>
 

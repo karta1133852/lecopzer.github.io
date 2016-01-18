@@ -192,6 +192,34 @@
 <note></note>
 </F1>
 
+<F1 id="107">
+<num>F1-107</num>
+<class></class>
+<group></group>
+<name> 造機設計原理 </name>
+<teacher> 吳鴻文  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56222 </place>
+<note></note>
+</F1>
+
+<F1 id="114">
+<num>F1-114</num>
+<class></class>
+<group></group>
+<name> 高等材料力學 </name>
+<teacher> 陳長鈕  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56222 </place>
+<note></note>
+</F1>
+
 <F1 id="132">
 <num>F1-132</num>
 <class></class>
@@ -260,20 +288,6 @@
 <type> 講義 </type>
 <place> 系統系館                      56226 </place>
 <note> 機電控制組選修                                                           </note>
-</F1>
-
-<F1 id="145">
-<num>F1-145</num>
-<class></class>
-<group></group>
-<name> 人因工程 </name>
-<teacher> 吳鴻文  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56222 </place>
-<note></note>
 </F1>
 
 <F1 id="146">

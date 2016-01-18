@@ -25,7 +25,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
+<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
 </N8>
 
 <N8 id="003">
@@ -123,7 +123,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
+<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
 </N8>
 
 <N8 id="013">
@@ -287,10 +287,10 @@
 <name> 實驗水力學 </name>
 <teacher> 賴悅仁  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4644 </place>
 <note></note>
 </N8>
 
@@ -315,7 +315,7 @@
 <name> 邊界層理論 </name>
 <teacher> 黃清哲  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -334,6 +334,34 @@
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
 <note></note>
+</N8>
+
+<N8 id="038">
+<num>N8-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 防災實務 </name>
+<teacher> 王曉中   ,  尹孝元   ,  謝正倫* </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note> 自災所與水利所合開課程                                                   </note>
+</N8>
+
+<N8 id="039">
+<num>N8-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 地區防災計畫 </name>
+<teacher> 王曉中   ,  謝正倫* </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note> 自災所與水利所合開課程                                                   </note>
 </N8>
 
 <N8 id="041">
@@ -357,7 +385,7 @@
 <name> 非線性波動力學 </name>
 <teacher> 黃煌煇  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -375,7 +403,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
+<note> 海事所與水利所合開、英語授課。                                           </note>
 </N8>
 
 <N8 id="044">
@@ -509,7 +537,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 比較水法與國際水法 </name>
-<teacher> 李方中  </teacher>
+<teacher> 李方中* </teacher>
 <score> 2 </score>
 <time> [5]B~C  </time>
 <must> 選修 </must>

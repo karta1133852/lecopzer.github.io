@@ -130,6 +130,20 @@
 <note> 上課教室：健照所會議室                                                   </note>
 </TA>
 
+<TA id="010">
+<num>TA-010</num>
+<class> 博                             </class>
+<group></group>
+<name> 泛自閉症照護：以實證為基礎的整合性終生照 </name>
+<teacher> 徐畢卿  </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> １健照所會議室。２中文授課                                               </note>
+</TA>
+
 <TA id="011">
 <num>TA-011</num>
 <class></class>
@@ -144,6 +158,20 @@
 <place></place>
 <note> 
  </note>
+</TA>
+
+<TA id="012">
+<num>TA-012</num>
+<class> 博                             </class>
+<group></group>
+<name> 健身運動與認知神經科學專題研究 </name>
+<teacher> 楊政達  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note> １英語授課。２為動作科學與照護研究群選修課程                             </note>
 </TA>
 
 <TA id="016">

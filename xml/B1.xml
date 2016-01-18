@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 各體文選及習作（二） </name>
-<teacher></teacher>
+<teacher> 高佑仁  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 必修 </must>
@@ -161,10 +161,24 @@
 <name> 古典戲曲製演 </name>
 <teacher> 高美華  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中文系館                      21201 </place>
+<place> 中文系館                      文學院演講廳 </place>
+<note></note>
+</B1>
+
+<B1 id="015">
+<num>B1-015</num>
+<class></class>
+<group></group>
+<name> 語言學概論 </name>
+<teacher> 陳梅香  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21101 </place>
 <note></note>
 </B1>
 
@@ -173,7 +187,7 @@
 <class></class>
 <group></group>
 <name> 歷代文選及習作（二） </name>
-<teacher> 林耀潾  </teacher>
+<teacher> 侯美珍  </teacher>
 <score> 2 </score>
 <time> [1]2~3  </time>
 <must> 必修 </must>
@@ -187,7 +201,7 @@
 <class></class>
 <group></group>
 <name> 歷代文選及習作（二） </name>
-<teacher> 林美惠  </teacher>
+<teacher> 林耀潾  </teacher>
 <score> 2 </score>
 <time> [1]2~3  </time>
 <must> 必修 </must>
@@ -259,13 +273,11 @@
 <name> 里山里海的方案規劃與實踐 </name>
 <teacher> 林朝成  </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 服務學習(三)課程，限30人選課                                             </note>
 </B1>
 
 <B1 id="059">
@@ -355,7 +367,7 @@
 <B1 id="101">
 <num>B1-101</num>
 <class></class>
-<group> 2 </group>
+<group></group>
 <name> 詞選及習作（二） </name>
 <teacher> 王偉勇  </teacher>
 <score> 2 </score>
@@ -369,7 +381,7 @@
 <B1 id="102">
 <num>B1-102</num>
 <class></class>
-<group> 2 </group>
+<group></group>
 <name> 詞選及習作（二） </name>
 <teacher> 王偉勇  </teacher>
 <score> 2 </score>
@@ -383,7 +395,7 @@
 <B1 id="103">
 <num>B1-103</num>
 <class></class>
-<group> 3 </group>
+<group></group>
 <name> 聲韻學（二） </name>
 <teacher> 陳梅香  </teacher>
 <score> 3 </score>
@@ -397,7 +409,7 @@
 <B1 id="104">
 <num>B1-104</num>
 <class></class>
-<group> 2 </group>
+<group></group>
 <name> 現代小說欣賞及習作（二） </name>
 <teacher> 蘇敏逸  </teacher>
 <score> 2 </score>
@@ -411,7 +423,7 @@
 <B1 id="105">
 <num>B1-105</num>
 <class></class>
-<group> 2 </group>
+<group></group>
 <name> 現代小說欣賞及習作（二） </name>
 <teacher> 蘇偉貞  </teacher>
 <score> 2 </score>
@@ -425,9 +437,9 @@
 <B1 id="107">
 <num>B1-107</num>
 <class></class>
-<group> 2 </group>
+<group></group>
 <name> 中國思想史（二） </name>
-<teacher> 葉海煙  </teacher>
+<teacher> 林朝成  </teacher>
 <score> 3 </score>
 <time> [1]2  ,  [4]3~4  </time>
 <must> 必修 </must>
@@ -506,20 +518,6 @@
 <note></note>
 </B1>
 
-<B1 id="113">
-<num>B1-113</num>
-<class></class>
-<group></group>
-<name> 古文字選讀 </name>
-<teacher> 高佑仁  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      21201 </place>
-<note></note>
-</B1>
-
 <B1 id="114">
 <num>B1-114</num>
 <class></class>
@@ -537,7 +535,7 @@
 <B1 id="153">
 <num>B1-153</num>
 <class></class>
-<group> 2 </group>
+<group></group>
 <name> 楚辭（二） </name>
 <teacher> 陳怡良  </teacher>
 <score> 2 </score>

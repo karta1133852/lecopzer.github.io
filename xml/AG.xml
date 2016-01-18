@@ -329,11 +329,25 @@
 <name> 公民與歷史(歷史與文化) </name>
 <teacher> 張勝柏  </teacher>
 <score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 公民與歷史 </type>
+<place> 交管系館                      62107 </place>
+<note> 愛爾蘭歷史與文化                                                         </note>
+</AG>
+
+<AG id="048">
+<num>AG-048</num>
+<class></class>
+<group></group>
+<name> 公民與歷史(社會經濟史) </name>
+<teacher> 高淑媛  </teacher>
+<score> 2 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 公民與歷史 </type>
-<place> 唯農大樓                      許文龍講堂 </place>
-<note> 愛爾蘭歷史與文化                                                         </note>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<note></note>
 </AG>
 
 </content>

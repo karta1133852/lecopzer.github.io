@@ -283,7 +283,7 @@
 <class></class>
 <group> B </group>
 <name> 工業設計（二） </name>
-<teacher> 陸定邦  </teacher>
+<teacher> 蕭世文  </teacher>
 <score> 3 </score>
 <time> [3]5~A  </time>
 <must> 必修 </must>
@@ -297,13 +297,13 @@
 <class></class>
 <group> C </group>
 <name> 工業設計（二） </name>
-<teacher> 蕭世文  </teacher>
+<teacher> 陳亞麟  </teacher>
 <score> 3 </score>
 <time> [5]5~A  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 無                            53304 </place>
-<note> 採中文、英文雙語進行                                                     </note>
+<note></note>
 </F3>
 
 <F3 id="105">
@@ -318,6 +318,34 @@
 <type> 講義 </type>
 <place> 無                            53311 </place>
 <note> 1.納入「創意設計學程」2.「創意設計學程」學生請至創意設計教學資源中心加簽 </note>
+</F3>
+
+<F3 id="106">
+<num>F3-106</num>
+<class></class>
+<group></group>
+<name> 電腦輔助圖形設計 </name>
+<teacher> 謝孟達  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5102 </place>
+<note></note>
+</F3>
+
+<F3 id="107">
+<num>F3-107</num>
+<class></class>
+<group></group>
+<name> 設計溝通 </name>
+<teacher> 陳亞麟  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5205A </place>
+<note></note>
 </F3>
 
 <F3 id="108">

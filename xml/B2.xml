@@ -613,7 +613,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26408 </place>
-<note> 日文組必修，需同時選修日文                                               </note>
+<note> 日文組必修，需同時選修日文，限非日語母語人士修課                         </note>
 </B2>
 
 <B2 id="110">
@@ -877,11 +877,13 @@
 <name> 應用第二外語暨戲劇表演（二） </name>
 <teacher> 陳健宏  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26401 </place>
-<note> 法文組進階選修，課程搭配第二外語畢業公演                                 </note>
+<place></place>
+<note> 
+ </note>
 </B2>
 
 <B2 id="162">

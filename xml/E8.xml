@@ -206,14 +206,14 @@
 <note></note>
 </E8>
 
-<E8 id="063">
-<num>E8-063</num>
+<E8 id="062">
+<num>E8-062</num>
 <class></class>
 <group></group>
-<name> 水質工程 </name>
-<teacher> 張智華  </teacher>
+<name> 水資訊概論 </name>
+<teacher> 吳嘉文*  ,  蔡惠峰  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [5]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4622 </place>
@@ -353,7 +353,7 @@
 <name> 營建及管理 </name>
 <teacher> 蔡雅雯  </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>
@@ -396,6 +396,20 @@
 <teacher> 顏沛華  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4627 </place>
+<note></note>
+</E8>
+
+<E8 id="157">
+<num>E8-157</num>
+<class></class>
+<group></group>
+<name> 水質工程 </name>
+<teacher> 張智華  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>

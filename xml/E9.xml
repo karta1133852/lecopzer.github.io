@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 近代物理 </name>
-<teacher> 盧炎田  </teacher>
+<teacher> 未定  </teacher>
 <score> 3 </score>
 <time> [1]8  ,  [4]5~6  </time>
 <must> 必修 </must>
@@ -287,6 +287,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41102 </place>
+<note></note>
+</E9>
+
+<E9 id="115">
+<num>E9-115</num>
+<class></class>
+<group></group>
+<name> 機率與統計 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41103 </place>
 <note></note>
 </E9>
 

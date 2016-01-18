@@ -455,10 +455,24 @@
 <name> 最高法院刑事判決研究 </name>
 <teacher> 王士帆  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80203 </place>
+<place> 社科院大樓                    80205 </place>
+<note> 專題及實例研討                                                           </note>
+</D2>
+
+<D2 id="159">
+<num>D2-159</num>
+<class></class>
+<group></group>
+<name> 刑事訴訟法專題研究 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> [5]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
 <note> 專題及實例研討                                                           </note>
 </D2>
 

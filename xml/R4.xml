@@ -46,7 +46,7 @@
 <num>R4-004</num>
 <class> 碩                             </class>
 <group></group>
-<name> 流通策略與店舖經營 </name>
+<name> 服務行銷管理 </name>
 <teacher> 劉宗其  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
@@ -133,7 +133,7 @@
 <name> 國際金融與海外投資策略 </name>
 <teacher> 康信鴻  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -161,7 +161,7 @@
 <name> 創新管理專題 </name>
 <teacher> 劉佳玲  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62455 </place>
@@ -214,7 +214,7 @@
 <num>R4-016</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 公司治理專題討論 </name>
+<name> 國際財務管理專題研討 </name>
 <teacher> 胡聯國  </teacher>
 <score> 3 </score>
 <time> [3]A~C  </time>
@@ -396,7 +396,7 @@
 <num>R4-312</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 公司治理專題討論 </name>
+<name> 國際財務管理專題研討 </name>
 <teacher> 胡聯國  </teacher>
 <score> 3 </score>
 <time> [3]A~C  </time>

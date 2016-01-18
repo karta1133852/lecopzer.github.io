@@ -420,20 +420,6 @@
 <note> 核心通識，課程主題:音樂舞蹈戲劇                                          </note>
 </A9>
 
-<A9 id="105">
-<num>A9-105</num>
-<class></class>
-<group></group>
-<name> 創意設計 </name>
-<teacher> 馬敏元*  ,  周君瑞  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place> 耐震大樓(建築研究大樓旁)      5108 </place>
-<note> 學程報名請洽三創中心楊小姐,相關領域：人文學、社會科學                    </note>
-</A9>
-
 <A9 id="106">
 <num>A9-106</num>
 <class></class>
@@ -1279,7 +1265,7 @@
 <class></class>
 <group></group>
 <name> 智慧綠生活 </name>
-<teacher> 薛丞倫   ,  陳世明   ,  陳震宇   ,  葉玉祥   ,  陳品蓁   ,  黃偉茹   ,  鄒克萬   ,  孔憲法   ,  周君瑞   ,  洪郁修   ,  曾元琦   ,  陳璽任*  ,  劉世南   ,  仲曉玲   ,  林蕙玟   ,  楊佳翰  </teacher>
+<teacher> 薛丞倫   ,  陳世明   ,  陳震宇   ,  葉玉祥   ,  陳品蓁   ,  葉如萍   ,  周君瑞   ,  洪郁修   ,  曾元琦   ,  陳璽任*  ,  劉世南   ,  仲曉玲   ,  林蕙玟   ,  楊佳翰  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -1442,32 +1428,18 @@
 <note> 跨領域通識                                                               </note>
 </A9>
 
-<A9 id="278">
-<num>A9-278</num>
+<A9 id="276">
+<num>A9-276</num>
 <class></class>
 <group></group>
-<name> 科學寫作 </name>
-<teacher> 李旺龍  </teacher>
+<name> 都市與生活 </name>
+<teacher> 葉如萍  </teacher>
 <score> 2 </score>
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
-<note> 遠距教學,相關領域：人文學、自然與工程科學                                </note>
-</A9>
-
-<A9 id="279">
-<num>A9-279</num>
-<class></class>
-<group></group>
-<name> 當代科學傳播議題 </name>
-<teacher> 黃紀茸  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place> 理化大樓                      格致廳小講堂 </place>
-<note> 遠距教學  相關領域：社會科學、自然與工程科學                             </note>
+<place> 都計系館                      50204 </place>
+<note> 相關領域：人文學、社會科學、自然工程科學、生命科學與健康                 </note>
 </A9>
 
 <A9 id="280">
@@ -1900,7 +1872,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 測量系館                      55250 </place>
+<place> 測量系館                      55160 </place>
 <note> 英語授課，相關領域：人文學、社會科學、生命科學與健康                     </note>
 </A9>
 
@@ -1944,20 +1916,6 @@
 <type> 哲學與藝術 </type>
 <place> 交管系館                      62205 </place>
 <note> 核心通識                                                                 </note>
-</A9>
-
-<A9 id="384">
-<num>A9-384</num>
-<class></class>
-<group></group>
-<name> 都市與生活 </name>
-<teacher> 葉如萍  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place> 都計系館                      50202 </place>
-<note> 相關領域：人文學、社會科學、自然工程科學、生命科學與健康                 </note>
 </A9>
 
 <A9 id="402">

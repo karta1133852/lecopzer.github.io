@@ -77,10 +77,10 @@
 <name> 環工化學原理 </name>
 <teacher> 侯文哲  </teacher>
 <score> 3 </score>
-<time> [3]1~2  ,  [4]8  </time>
+<time> [1]6  ,  [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47112 </place>
+<place> 環工系館                      47111 </place>
 <note></note>
 </P5>
 
@@ -91,10 +91,10 @@
 <name> 環工生物原理 </name>
 <teacher> 黃良銘  </teacher>
 <score> 3 </score>
-<time> [1]6  ,  [5]3~4  </time>
+<time> [3]1~2  ,  [4]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47111 </place>
+<place> 環工系館                      47112 </place>
 <note> 英語授課                                                                 </note>
 </P5>
 

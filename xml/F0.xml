@@ -105,10 +105,10 @@
 <name> 流體力學 </name>
 <teacher> 李定智  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5825 </place>
+<place> 航太系館                      5897 </place>
 <note></note>
 </F0>
 
@@ -159,7 +159,7 @@
 <class></class>
 <group></group>
 <name> 燃料電池 </name>
-<teacher> 賴維祥  </teacher>
+<teacher> 未定  </teacher>
 <score> 3 </score>
 <time> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
