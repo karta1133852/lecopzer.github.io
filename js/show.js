@@ -462,6 +462,12 @@ function setClassTimeCss() {
 		}
 	}
 	document.getElementById("main").style.tableLayout = "fixed";
+
+	for(i = 48; i <= 55; i++){
+			document.getElementById("td" + i).style.backgroundColor = "rgb(255,235,238)";
+	
+	}
+
 }
 
 function init() {
