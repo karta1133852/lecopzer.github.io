@@ -105,13 +105,27 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  黃光渠   ,  林東盈   ,  陳文字   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  張有恒   ,  黃國平   ,  張瀞之   ,  黃光渠   ,  林東盈   ,  陳文字   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 0 </score>
 <time> [5]1  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 交管系館                      62107 </place>
 <note> 交管所及電管所合班                                                       </note>
+</R9>
+
+<R9 id="034">
+<num>R9-034</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 車輛資通訊與車載網路 </name>
+<teacher> 李威勳  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note></note>
 </R9>
 
 </content>

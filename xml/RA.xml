@@ -79,7 +79,7 @@
 <name> 行銷模式 </name>
 <teacher> 高如妃  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -93,7 +93,7 @@
 <name> 品牌文創策略 </name>
 <teacher> 高如妃  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -138,7 +138,7 @@
 <time> [4]N  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 管理學院                      62201 </place>
+<place> 管理學院                      62203 </place>
 <note> 英語授課                                                                 </note>
 </RA>
 
@@ -275,8 +275,22 @@
 <name> 多變量分析 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> [7]6~8  </time>
 <must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note></note>
+</RA>
+
+<RA id="022">
+<num>RA-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 企業倫理與法律 </name>
+<teacher> 陳俊仁  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
 <note></note>
@@ -361,7 +375,7 @@
 <name> 行銷模式 </name>
 <teacher> 高如妃  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -375,7 +389,7 @@
 <name> 品牌文創策略 </name>
 <teacher> 高如妃  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -494,6 +508,20 @@
 <note></note>
 </RA>
 
+<RA id="319">
+<num>RA-319</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 服務業行銷 </name>
+<teacher> 高如妃  </teacher>
+<score> 3 </score>
+<time> [6]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note></note>
+</RA>
+
 <RA id="320">
 <num>RA-320</num>
 <class> 碩專                           </class>
@@ -508,6 +536,34 @@
 <note></note>
 </RA>
 
+<RA id="321">
+<num>RA-321</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 多變量分析 </name>
+<teacher> 吳萬益  </teacher>
+<score> 3 </score>
+<time> [7]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note></note>
+</RA>
+
+<RA id="322">
+<num>RA-322</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 企業倫理與法律 </name>
+<teacher> 陳俊仁  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note></note>
+</RA>
+
 <RA id="331">
 <num>RA-331</num>
 <class> 碩專                           </class>
@@ -519,7 +575,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 核心課程                                                      </note>
+<note> 台北班課程 核心課程(上課地點為台北科技大學科研1322教室)                  </note>
 </RA>
 
 <RA id="332">
@@ -533,7 +589,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程                                                               </note>
+<note> 台北班課程(上課地點為台北科技大學科研1322教室)                           </note>
 </RA>
 
 <RA id="333">
@@ -563,7 +619,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程                                                               </note>
+<note> 台北班課程 (上課地點為台北科技大學科研1322教室)                          </note>
 </RA>
 
 </content>

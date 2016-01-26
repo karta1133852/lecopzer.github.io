@@ -284,20 +284,6 @@
 <note> 碩博與碩專班合班                                                         </note>
 </N6>
 
-<N6 id="021">
-<num>N6-021</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 結構隔減震技術 </name>
-<teacher> 盧煉元  </teacher>
-<score> 3 </score>
-<time> [4]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4506 </place>
-<note> 碩博與碩專班合班                                                         </note>
-</N6>
-
 <N6 id="022">
 <num>N6-022</num>
 <class> 碩博                           </class>
@@ -323,7 +309,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note></note>
+<note> 碩博與碩專班合班，乙組核心。                                             </note>
 </N6>
 
 <N6 id="034">
@@ -510,7 +496,7 @@
 <time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4506 </place>
+<place> 土木系館                      4501 </place>
 <note> 英語授課，碩博與碩專班合班，丁組核心                                     </note>
 </N6>
 
@@ -549,10 +535,10 @@
 <name> 永續指標 </name>
 <teacher> 張行道  </teacher>
 <score> 3 </score>
-<time> [2]7~8  ,  [5]7  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4506 </place>
 <note> 碩博與碩專班合班（英語授課），戊組核心                                   </note>
 </N6>
 
@@ -738,20 +724,6 @@
 <note> 碩博與碩專班合班                                                         </note>
 </N6>
 
-<N6 id="321">
-<num>N6-321</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 結構隔減震技術 </name>
-<teacher> 盧煉元  </teacher>
-<score> 3 </score>
-<time> [4]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4506 </place>
-<note> 碩博與碩專班合班                                                         </note>
-</N6>
-
 <N6 id="322">
 <num>N6-322</num>
 <class> 碩專                           </class>
@@ -777,7 +749,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note></note>
+<note> 碩博與碩專班合班，乙組核心。                                             </note>
 </N6>
 
 <N6 id="334">
@@ -964,7 +936,7 @@
 <time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4506 </place>
+<place> 土木系館                      4501 </place>
 <note> 英語授課，碩博與碩專班合班，丁組核心                                     </note>
 </N6>
 
@@ -1003,10 +975,10 @@
 <name> 永續指標 </name>
 <teacher> 張行道  </teacher>
 <score> 3 </score>
-<time> [2]7~8  ,  [5]7  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4506 </place>
 <note> 碩博與碩專班合班（英語授課），戊組核心                                   </note>
 </N6>
 

@@ -422,20 +422,6 @@
 <note></note>
 </U2>
 
-<U2 id="034">
-<num>U2-034</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 企業暨金融法專題研究（二） </name>
-<teacher> 顏雅倫  </teacher>
-<score> 2 </score>
-<time> [1]2~3  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
-<note></note>
-</U2>
-
 <U2 id="035">
 <num>U2-035</num>
 <class> 碩博                           </class>
@@ -458,6 +444,20 @@
 <teacher> 葉婉如  </teacher>
 <score> 2 </score>
 <time> [3]1~2  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓會議室 </place>
+<note></note>
+</U2>
+
+<U2 id="037">
+<num>U2-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際刑事人權法專題研究（一） </name>
+<teacher> 王士帆  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>

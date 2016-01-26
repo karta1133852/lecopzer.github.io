@@ -136,7 +136,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80205 </place>
+<place> 社科院大樓                    80201 </place>
 <note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依104上學期原班選課。     </note>
 </D2>
 
@@ -150,7 +150,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80203 </place>
+<place> 社科院大樓                    階梯教室-心理 </place>
 <note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依104上學期原班選課。     </note>
 </D2>
 
@@ -178,7 +178,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    階梯教室-經濟 </place>
+<place> 社科院大樓                    階梯教室-政治 </place>
 <note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段限依104上學期原班選課。     </note>
 </D2>
 
@@ -290,7 +290,7 @@
 <time> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80203 </place>
+<place> 社科院大樓                    階梯教室-經濟 </place>
 <note> 學號倒數第2碼為單數之單數班，全體學生第一階段限依104上學期原班選課。     </note>
 </D2>
 

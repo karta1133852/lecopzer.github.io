@@ -103,7 +103,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 標靶器官毒理學 </name>
-<teacher> 許釗凱   ,  張雅雯*  ,  張志鵬   ,  王仰高  </teacher>
+<teacher> 吳炳慶   ,  許釗凱   ,  張雅雯*  ,  張志鵬   ,  王應然   ,  李俊璋   ,  王仰高  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
 <must> 選修 </must>
@@ -366,20 +366,6 @@
 <place></place>
 <note> 
  </note>
-</S5>
-
-<S5 id="130">
-<num>S5-130</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 細胞訊息傳遞 </name>
-<teacher> 凌　斌*  ,  蔣輯武* </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        604 </place>
-<note></note>
 </S5>
 
 <S5 id="132">

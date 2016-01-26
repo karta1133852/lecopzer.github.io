@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <content>
 <C5 id="007">
 <num>C5-007</num>
@@ -307,7 +307,7 @@
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科系館                      3417 </place>
-<note>                                                                         </note>
+<note></note>
 </C5>
 
 <C5 id="102">
@@ -321,7 +321,7 @@
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科系館                      3418 </place>
-<note>                                                                         </note>
+<note></note>
 </C5>
 
 <C5 id="103">
@@ -335,7 +335,7 @@
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科系館                      3425 </place>
-<note>                                                                         </note>
+<note></note>
 </C5>
 
 <C5 id="105">

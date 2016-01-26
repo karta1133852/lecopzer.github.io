@@ -97,7 +97,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（二） </name>
-<teacher> 林常青  </teacher>
+<teacher> 陳奕奇  </teacher>
 <score> 0 </score>
 <time> [3]N  </time>
 <must> 必修 </must>
@@ -265,7 +265,7 @@
 <name> 數理經濟學 </name>
 <teacher> 胡政成  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-經濟 </place>
@@ -311,6 +311,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61104 </place>
+<note></note>
+</D5>
+
+<D5 id="164">
+<num>D5-164</num>
+<class></class>
+<group></group>
+<name> 風險管理 </name>
+<teacher> 李宗穎  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80201 </place>
 <note></note>
 </D5>
 

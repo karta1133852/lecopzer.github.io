@@ -170,20 +170,6 @@
 <note> 與醫工系合上                                                             </note>
 </D8>
 
-<D8 id="071">
-<num>D8-071</num>
-<class></class>
-<group></group>
-<name> 助人技巧理論與實務 </name>
-<teacher> 陳柏熹  </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
-<note> 本課程限30人修課，若選課人數超過上限將依選課時間進行強制退選 。          </note>
-</D8>
-
 <D8 id="072">
 <num>D8-072</num>
 <class></class>
@@ -364,6 +350,20 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80201 </place>
 <note></note>
+</D8>
+
+<D8 id="150">
+<num>D8-150</num>
+<class></class>
+<group></group>
+<name> 助人技巧理論與實務 </name>
+<teacher> 陳柏熹  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 本課程限30人修課，若選課人數超過上限將依選課時間進行強制退選 。          </note>
 </D8>
 
 <D8 id="151">

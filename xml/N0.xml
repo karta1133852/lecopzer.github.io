@@ -112,20 +112,6 @@
 <note> 儀設大樓4樓95416工學院會議室                                             </note>
 </N0>
 
-<N0 id="330">
-<num>N0-330</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 工程經濟 </name>
-<teacher> 陳家榮  </teacher>
-<score> 3 </score>
-<time> [4]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資源系館                      4352 </place>
-<note></note>
-</N0>
-
 <N0 id="331">
 <num>N0-331</num>
 <class> 碩專一                         </class>

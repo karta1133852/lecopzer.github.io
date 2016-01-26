@@ -105,7 +105,7 @@
 <name> 歷史／社會領域歷史教學實習 </name>
 <teacher> 江達智  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 歷史系館                      25232 </place>
@@ -328,20 +328,6 @@
 <note></note>
 </A4>
 
-<A4 id="405">
-<num>A4-405</num>
-<class> 學程                           </class>
-<group></group>
-<name> 教學設計與簡報 </name>
-<teacher> 于富雲  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      e化創新教室 </place>
-<note> 建議先選修先備課程「教學原理」                                           </note>
-</A4>
-
 <A4 id="406">
 <num>A4-406</num>
 <class> 學程                           </class>
@@ -389,7 +375,7 @@
 <class> 學程                           </class>
 <group></group>
 <name> 生活科技概論 </name>
-<teacher> 蘇漢宗   ,  黃守仁*  ,  吳銘志   ,  楊懷仁   ,  陳少燕  </teacher>
+<teacher> 蘇漢宗   ,  黃守仁*  ,  楊懷仁   ,  陳少燕  </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>

@@ -19,7 +19,7 @@
 <class></class>
 <group></group>
 <name> 經濟學原理（二） </name>
-<teacher> 田維華  </teacher>
+<teacher> 李宗穎  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
 <must> 必修 </must>
@@ -222,6 +222,20 @@
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-政治 </place>
 <note> 「國際關係」領域課程，本系限二年級以上同學選修                           </note>
+</D4>
+
+<D4 id="108">
+<num>D4-108</num>
+<class></class>
+<group></group>
+<name> 國際政治經濟學 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note></note>
 </D4>
 
 <D4 id="152">

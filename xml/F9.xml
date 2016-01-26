@@ -269,10 +269,10 @@
 <name> 流體力學 </name>
 <teacher> 莊漢聲  </teacher>
 <score> 3 </score>
-<time> [5]5~6  ,  [3]8  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5756 </place>
+<place> 醫技醫工館                    5730 </place>
 <note></note>
 </F9>
 
@@ -295,7 +295,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（二） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰*  ,  黃執中  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰*  ,  黃執中  </teacher>
 <score> 1 </score>
 <time> [5]N  </time>
 <must> 必修 </must>
@@ -338,12 +338,26 @@
 <note1></note1>
 </F9>
 
+<F9 id="117">
+<num>F9-117</num>
+<class></class>
+<group></group>
+<name> 數位影像處理 </name>
+<teacher> 方佑華  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5734 </place>
+<note></note>
+</F9>
+
 <F9 id="151">
 <num>F9-151</num>
 <class></class>
 <group></group>
 <name> 專題研究（四） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰*  ,  黃執中   ,  方佑華  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰*  ,  黃執中   ,  方佑華  </teacher>
 <score> 1 </score>
 <time> [5]N  </time>
 <must> 選修 </must>

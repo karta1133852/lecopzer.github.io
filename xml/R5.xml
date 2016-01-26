@@ -210,20 +210,6 @@
 <note> 交管所與電管所合開                                                       </note>
 </R5>
 
-<R5 id="161">
-<num>R5-161</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 運輸網路分析 </name>
-<teacher> 林東盈  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62205 </place>
-<note></note>
-</R5>
-
 <R5 id="169">
 <num>R5-169</num>
 <class> 碩博                           </class>
@@ -285,7 +271,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  黃光渠   ,  林東盈   ,  陳文字   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  張有恒   ,  黃國平   ,  張瀞之   ,  黃光渠   ,  林東盈   ,  陳文字   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 0 </score>
 <time> [5]1  </time>
 <must> 選修 </must>
@@ -306,6 +292,20 @@
 <type> 講義 </type>
 <place> 交管系館                      62107 </place>
 <note> 選課須經本系登記審核通過                                                 </note>
+</R5>
+
+<R5 id="177">
+<num>R5-177</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 運輸網路均衡模式 </name>
+<teacher> 林東盈  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62205 </place>
+<note></note>
 </R5>
 
 <R5 id="301">
@@ -343,7 +343,7 @@
 <name> 交通管理實務 </name>
 <teacher> 魏健宏  </teacher>
 <score> 3 </score>
-<time> [6]6~8  </time>
+<time> [6]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>

@@ -61,7 +61,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫學工程概論 </name>
-<teacher> 陳家進*  ,  陳天送   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  周有禮   ,  黃執中   ,  郭榮富  </teacher>
+<teacher> 陳家進*  ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  周有禮   ,  黃執中   ,  郭榮富  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 選修 </must>
@@ -117,7 +117,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -145,7 +145,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -173,7 +173,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -187,7 +187,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳家進*  ,  陳天送   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  黃執中   ,  方佑華  </teacher>
+<teacher> 陳家進*  ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  黃執中   ,  方佑華  </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
