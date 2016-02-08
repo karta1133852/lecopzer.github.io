@@ -140,7 +140,8 @@ function addClass() {
 	/*	print class in the class list	*/
 	var num = result.getElementsByTagName("num")[0].childNodes[0].nodeValue.trim();
 	var name = result.getElementsByTagName("name")[0].childNodes[0].nodeValue.trim()
-	document.getElementById("classList").innerHTML += "<p id='p" + num + "' onclick='listClick(this)'>"+
+	document.getElementById("classList").innerHTML += "<p id='p" + num + "' onclick='listClick(this)'" +
+	" onmouseenter='listMouseEnter(this)'>"+
 	num + "  " + name + "</p>";
 	
 	/*	num = 編號, count = 該課的總節數, credit = 該課的學分, 
@@ -169,6 +170,12 @@ function registerInfo(id) {
 	document.getElementById("cellInfo").innerHTML = "";
 	var k = findOnfocusInList(id);
 	document.getElementById("cellInfo").innerHTML += classList[k].content;
+}
+
+function registerListInfo(id) {	
+	document.getElementById("classListDetail").innerHTML = "";
+	var k = findOnfocusInList(id.attributes["id"].value.slice(1));
+	document.getElementById("classListDetail").innerHTML += classList[k].content;
 }
 
 function printClassDiv(num,name,index) {
@@ -544,6 +551,10 @@ function cellFocusSelected(p) {
 	}
 }
 
+function listMouseEnter(p) {
+	registerListInfo(p);
+
+}
 
 function listClick(p) {
 	if(cellOnfocus!="0") {
