@@ -156,6 +156,7 @@ function addClass() {
 		content: content,
 	});	
 	creditUpdate();
+	registerListInfo(document.getElementById("p" + num));
 	/*	clean global variables	*/
 	className = "";
 	localCredit = 0;
