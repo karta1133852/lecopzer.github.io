@@ -140,9 +140,10 @@ function addClass() {
 	/*	print class in the class list	*/
 	var num = result.getElementsByTagName("num")[0].childNodes[0].nodeValue.trim();
 	var name = result.getElementsByTagName("name")[0].childNodes[0].nodeValue.trim()
+	var _time = result.getElementsByTagName("time")[0].childNodes[0].nodeValue.trim();
 	document.getElementById("classList").innerHTML += "<p id='p" + num + "' onclick='listClick(this)'" +
 	" onmouseenter='listMouseEnter(this)'>"+
-	num + "  " + name + "</p>";
+	num + "  " + name + "<span style='float:right;'>" + _time + "</span></p>";
 	
 	/*	num = 編號, count = 該課的總節數, credit = 該課的學分, 
 	 *	id = class的名稱(HTML的tag,不是課程名稱)	
