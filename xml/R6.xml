@@ -28,6 +28,20 @@
 <note></note>
 </R6>
 
+<R6 id="009">
+<num>R6-009</num>
+<class> 碩                             </class>
+<group></group>
+<name> 行銷管理 </name>
+<teacher> 劉宗其  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
 <R6 id="011">
 <num>R6-011</num>
 <class> 碩博                           </class>
@@ -80,7 +94,7 @@
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 國企所                        61401 </place>
+<place> 國企所                        61413 </place>
 <note></note>
 </R6>
 
@@ -110,6 +124,34 @@
 <type> 講義 </type>
 <place> 國企所                        61413 </place>
 <note></note>
+</R6>
+
+<R6 id="027">
+<num>R6-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 張紹基  </teacher>
+<score> 0 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="029">
+<num>R6-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 科技創業與投資管理 </name>
+<teacher> 陳芃婷  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5730 </place>
+<note> 醫工所與國企所合班                                                       </note>
 </R6>
 
 <R6 id="031">

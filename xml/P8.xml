@@ -117,7 +117,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華   ,  陳芃婷   ,  林哲偉  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -145,7 +145,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華   ,  陳芃婷   ,  林哲偉  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰  </teacher>
+<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰   ,  吳炳慶  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -173,7 +173,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  鄭國順   ,  黃執中*  ,  方佑華   ,  陳芃婷   ,  林哲偉  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -229,12 +229,26 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 牙科臨床工程 </name>
-<teacher> 張志涵*  ,  黃振勳   ,  李澤民   ,  袁　國   ,  許修銘   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  范姜如君   ,  張川陽  </teacher>
+<teacher> 張志涵   ,  葉明龍*  ,  黃振勳   ,  李澤民   ,  袁　國   ,  許修銘   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  范姜如君   ,  張川陽  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5725 </place>
+<note></note>
+</P8>
+
+<P8 id="044">
+<num>P8-044</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 軟組織組織工程特論 </name>
+<teacher> 胡晉嘉  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5756 </place>
 <note></note>
 </P8>
 
@@ -266,12 +280,26 @@
 <note> 英語授課                                                                 </note>
 </P8>
 
+<P8 id="050">
+<num>P8-050</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 科技創業與投資管理 </name>
+<teacher> 陳芃婷  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5730 </place>
+<note> 醫工所與國企所合班                                                       </note>
+</P8>
+
 <P8 id="059">
 <num>P8-059</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（二） </name>
-<teacher> 葉明龍*  ,  蘇芳慶   ,  郭榮富   ,  李澤民  </teacher>
+<teacher> 陳家進*  ,  蘇芳慶   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>

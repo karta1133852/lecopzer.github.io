@@ -1201,7 +1201,7 @@
 <must> 必修 </must>
 <type> 哲學與藝術 </type>
 <place> 耐震大樓(建築研究大樓旁)      5117 </place>
-<note> 核心通識，課程主題:戲劇與電影                                            </note>
+<note> 核心通識，課程主題:戲劇與電影    戲劇學程課程                            </note>
 </A9>
 
 <A9 id="220">
@@ -1312,8 +1312,8 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 理化大樓                      格致廳小講堂 </place>
-<note> 新開；跨領域通識                                                         </note>
+<place> 中文系館                      文學院演講廳 </place>
+<note> 新開；跨領域通識    戲劇學程                                             </note>
 </A9>
 
 <A9 id="239">
@@ -2026,7 +2026,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 測量系館                      55160 </place>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
 <note> 英語授課，相關領域：人文學、社會科學、生命科學與健康                     </note>
 </A9>
 
@@ -2110,7 +2110,7 @@
 <time> [5]1~2  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 歷史系館                      25235 </place>
+<place> 中文系館                      文學院演講廳 </place>
 <note> 新開Moocs；相關領域：人文學、社會科學、自然與工程科學                    </note>
 </A9>
 

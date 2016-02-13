@@ -336,6 +336,20 @@
 <note> 球具自備                                                                 </note>
 </A2>
 
+<A2 id="067">
+<num>A2-067</num>
+<class> 一年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 籃球與健康體能 </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time> [3]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            光復籃球高場 </place>
+<note> 男女合班                                                                 </note>
+</A2>
+
 <A2 id="081">
 <num>A2-081</num>
 <class> 一年級                        體育（女生組）　                                                       </class>
@@ -376,6 +390,20 @@
 <type> 講義 </type>
 <place> 無                            自強韻律室 </place>
 <note> 男女合班                                                                 </note>
+</A2>
+
+<A2 id="104">
+<num>A2-104</num>
+<class> 一年級                        體育（男生組）　                                                       </class>
+<group></group>
+<name> 軟網與健康體能 </name>
+<teacher> 郭旭東  </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            敬業網球場 </place>
+<note> 球具自備                                                                 </note>
 </A2>
 
 <A2 id="105">
@@ -1384,6 +1412,20 @@
 <type> 講義 </type>
 <place> 無                            體育室前 </place>
 <note> 男女合班，請於開學當日持診斷書找體育室黃老師選課                         </note>
+</A2>
+
+<A2 id="302">
+<num>A2-302</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 桌球（男） </name>
+<teacher> 郭旭東  </teacher>
+<score> 0 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note></note>
 </A2>
 
 <A2 id="303">

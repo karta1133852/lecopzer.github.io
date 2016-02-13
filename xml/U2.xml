@@ -83,7 +83,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+<note> 法學外文課程開放大三以上修課，所有選修生應符合語文能力要求與授課老師規定 </note>
 </U2>
 
 <U2 id="007">
@@ -97,7 +97,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+<note> 法學外文課程開放大三以上修課，所有選修生應符合語文能力要求與授課老師規定 </note>
 </U2>
 
 <U2 id="008">
@@ -111,7 +111,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
-<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+<note> 法學外文課程開放大三以上修課，所有選修生應符合語文能力要求與授課老師規定 </note>
 </U2>
 
 <U2 id="009">
@@ -125,7 +125,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室C </place>
-<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+<note> 法學外文課程開放大三以上修課，所有選修生應符合語文能力要求與授課老師規定 </note>
 </U2>
 
 <U2 id="010">
@@ -139,7 +139,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室C </place>
-<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+<note> 法學外文課程開放大三以上修課，所有選修生應符合語文能力要求與授課老師規定 </note>
 </U2>
 
 <U2 id="011">
@@ -153,7 +153,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+<note> 法學外文課程開放大三以上修課，所有選修生應符合語文能力要求與授課老師規定 </note>
 </U2>
 
 <U2 id="012">
@@ -167,7 +167,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note> 因屬於「外文法學名著選讀」（法學外文）課程，開放碩博及大三以上選修。     </note>
+<note> 法學外文課程開放大三以上修課，所有選修生應符合語文能力要求與授課老師規定 </note>
 </U2>
 
 <U2 id="013">
@@ -244,12 +244,12 @@
 <num>U2-020</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 醫事民法專題研究（二） </name>
+<name> 藥事法專題研究 </name>
 <teacher> 侯英泠  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
 <must> 選修 </must>
-<type> 研討 </type>
+<type> 講義 </type>
 <place> 社科院大樓                    七樓研討室A </place>
 <note></note>
 </U2>
@@ -272,7 +272,7 @@
 <num>U2-022</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 刑事法與法社會學專題研究（二） </name>
+<name> 刑事訴訟法專題研究（一） </name>
 <teacher> 李佳玟  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
@@ -314,7 +314,7 @@
 <num>U2-025</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 家事事件專題研究（一） </name>
+<name> 民事訴訟法專題研究（二） </name>
 <teacher> 郭書琴  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>

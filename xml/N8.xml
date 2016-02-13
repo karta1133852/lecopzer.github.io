@@ -89,7 +89,7 @@
 <class> 碩博一                         </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 孫建平  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -187,7 +187,7 @@
 <class> 碩博二                         </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 未定  </teacher>
+<teacher> 孫建平  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -434,6 +434,20 @@
 <note></note>
 </N8>
 
+<N8 id="047">
+<num>N8-047</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋保護區 </name>
+<teacher> 劉大綱  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95405 </place>
+<note> 水利所與海事所合班                                                       </note>
+</N8>
+
 <N8 id="301">
 <num>N8-301</num>
 <class> 碩專一                         </class>
@@ -481,7 +495,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 實用水文學 </name>
-<teacher> 未定  </teacher>
+<teacher> 羅偉誠   ,  周乃昉* </teacher>
 <score> 3 </score>
 <time> [6]2~4  </time>
 <must> 必修 </must>
@@ -496,8 +510,8 @@
 <group></group>
 <name> 海岸保護與利用 </name>
 <teacher> 陳璋玲*  ,  施義哲  </teacher>
-<score> 3 </score>
-<time> [1]A~C  </time>
+<score> 2 </score>
+<time> [1]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -537,9 +551,9 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 比較水法與國際水法 </name>
-<teacher> 李方中* </teacher>
+<teacher> 李方中  </teacher>
 <score> 2 </score>
-<time> [5]B~C  </time>
+<time> [5]C~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -552,8 +566,50 @@
 <group></group>
 <name> 實用河川工程 </name>
 <teacher> 龔誠山  </teacher>
-<score> 3 </score>
-<time> [6]7~9  </time>
+<score> 2 </score>
+<time> [6]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
+<N8 id="311">
+<num>N8-311</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 海洋環境監測與生態調查技術 </name>
+<teacher> 黃元照  </teacher>
+<score> 2 </score>
+<time> [2]B~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
+<N8 id="312">
+<num>N8-312</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 灌溉排水特論 </name>
+<teacher> 林尉濤   ,  陳清田   ,  周乃昉* </teacher>
+<score> 2 </score>
+<time> [5]A~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
+<N8 id="313">
+<num>N8-313</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 水利及海洋工程綜論 </name>
+<teacher> 周乃昉  </teacher>
+<score> 2 </score>
+<time> [6]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>

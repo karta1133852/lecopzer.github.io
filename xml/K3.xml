@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<K3 id="001">
-<num>K3-001</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 高級史學英文（二） </name>
-<teacher> 王文霞  </teacher>
-<score> 0 </score>
-<time> [4]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 碩士班英文、日文擇一為必修                                               </note>
-</K3>
-
 <K3 id="003">
 <num>K3-003</num>
 <class> 碩一                           </class>
@@ -162,6 +148,20 @@
 <teacher> 陳玉女  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</K3>
+
+<K3 id="028">
+<num>K3-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 十九世紀歐洲社會經濟史專題 </name>
+<teacher> 王文霞  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>

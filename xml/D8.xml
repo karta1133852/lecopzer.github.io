@@ -91,7 +91,7 @@
 <class></class>
 <group></group>
 <name> 普通生物學 </name>
-<teacher> 胡書榕   ,  邱文泰* </teacher>
+<teacher> 胡書榕*  ,  邱文泰  </teacher>
 <score> 3 </score>
 <time> [4]7~9  </time>
 <must> 選修 </must>
@@ -233,7 +233,7 @@
 <name> 專題研究（二） </name>
 <teacher> 龔俊嘉   ,  謝淑蘭*  ,  蕭富仁   ,  楊政達   ,  林君昱   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [5]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
@@ -352,20 +352,6 @@
 <note></note>
 </D8>
 
-<D8 id="150">
-<num>D8-150</num>
-<class></class>
-<group></group>
-<name> 助人技巧理論與實務 </name>
-<teacher> 陳柏熹  </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
-<note> 本課程限30人修課，若選課人數超過上限將依選課時間進行強制退選 。          </note>
-</D8>
-
 <D8 id="151">
 <num>D8-151</num>
 <class></class>
@@ -380,6 +366,20 @@
 <note></note>
 </D8>
 
+<D8 id="152">
+<num>D8-152</num>
+<class></class>
+<group></group>
+<name> 助人技巧理論與實務 </name>
+<teacher> 陳柏熹  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 本課程限30人修課，若選課人數超過上限將依選課時間進行強制退選 。          </note>
+</D8>
+
 <D8 id="153">
 <num>D8-153</num>
 <class></class>
@@ -392,6 +392,20 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
 <note> 大碩合開課程                                                             </note>
+</D8>
+
+<D8 id="154">
+<num>D8-154</num>
+<class></class>
+<group></group>
+<name> 發展心理學測驗衡鑑實務（二） </name>
+<teacher> 胡中凡  </teacher>
+<score> 3 </score>
+<time> [4]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
 </D8>
 
 </content>

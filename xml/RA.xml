@@ -296,6 +296,20 @@
 <note></note>
 </RA>
 
+<RA id="023">
+<num>RA-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（五） </name>
+<teacher> 陳正忠*  ,  楊曉瑩   ,  王鈿   ,  謝惠璟   ,  高如妃   ,  張巍勳   ,  許介文  </teacher>
+<score> 0 </score>
+<time> [2]N~5  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 管理學院                      62203 </place>
+<note> For NCKU Distinguished Scholarship Recipients                            </note>
+</RA>
+
 <RA id="301">
 <num>RA-301</num>
 <class> 碩專                           </class>
@@ -597,15 +611,13 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 財金理論 </name>
-<teacher> 未定  </teacher>
+<teacher> 林軒竹  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [7]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 台北班課程(上課地點為台北科技大學科研1322教室)                           </note>
 </RA>
 
 <RA id="334">

@@ -98,4 +98,32 @@
 <note></note>
 </R0>
 
+<R0 id="308">
+<num>R0-308</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 中小企業經營與管理 </name>
+<teacher> 王泰裕   ,  周信輝   ,  張紹基*  ,  史習安   ,  曾瓊慧   ,  高如妃  </teacher>
+<score> 3 </score>
+<time> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note></note>
+</R0>
+
+<R0 id="309">
+<num>R0-309</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 專案管理 </name>
+<teacher> 王泰裕  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note></note>
+</R0>
+
 </content>

@@ -206,7 +206,7 @@
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 國企所                        61401 </place>
+<place> 國企所                        61413 </place>
 <note></note>
 </RD>
 
@@ -361,6 +361,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62455 </place>
+<note></note>
+</RD>
+
+<RD id="127">
+<num>RD-127</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 中小企業經營與管理 </name>
+<teacher> 王泰裕   ,  周信輝   ,  張紹基*  ,  史習安   ,  曾瓊慧   ,  高如妃  </teacher>
+<score> 3 </score>
+<time> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
 <note></note>
 </RD>
 

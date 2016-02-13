@@ -75,13 +75,13 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 腫瘤生物學 </name>
-<teacher> 賴明德*  ,  鄭宏祺   ,  黃柏憲   ,  張雋曦   ,  劉校生   ,  張志鵬   ,  吳梨華  </teacher>
+<teacher> 賴明德*  ,  鄭宏祺   ,  黃柏憲   ,  張雋曦   ,  張志鵬   ,  吳梨華  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        601 </place>
-<note> 生化所，基醫所，口醫所，分醫所，臨醫 ，藥生所合班                        </note>
+<note> 生化所，基醫所，口醫所合班                                               </note>
 </S1>
 
 <S1 id="011">
@@ -161,7 +161,7 @@
 <name> 癌症研究中之科學辯證 </name>
 <teacher> 鄭宏祺* </teacher>
 <score> 2 </score>
-<time> [1]8~9  </time>
+<time> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        304D </place>

@@ -351,7 +351,7 @@
 <class></class>
 <group> B </group>
 <name> 物理化學實驗（二） </name>
-<teacher> 葉晨聖  </teacher>
+<teacher> 蘇世剛  </teacher>
 <score> 1 </score>
 <time> [5]6~8  </time>
 <must> 必修 </must>
@@ -460,17 +460,17 @@
 <note></note>
 </C3>
 
-<C3 id="159">
-<num>C3-159</num>
+<C3 id="125">
+<num>C3-125</num>
 <class></class>
 <group></group>
-<name> 物理有機化學 </name>
-<teacher> 宋光生  </teacher>
+<name> 高分子化學 </name>
+<teacher> 施良垣  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 化學系館                      3268 </place>
+<place> 化學系館                      3274 </place>
 <note></note>
 </C3>
 

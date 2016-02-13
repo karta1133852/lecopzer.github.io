@@ -384,4 +384,60 @@
 <note> 僅開放採認自然科國中師資者選修，以特殊因素選課方式選課                   </note>
 </A4>
 
+<A4 id="410">
+<num>A4-410</num>
+<class> 學程                           </class>
+<group></group>
+<name> 學習動機與策略 </name>
+<teacher> 林宴瑛  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A4>
+
+<A4 id="411">
+<num>A4-411</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教育社會學 </name>
+<teacher> 林宴瑛  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A4>
+
+<A4 id="412">
+<num>A4-412</num>
+<class> 學程                           </class>
+<group></group>
+<name> 發展心理學 </name>
+<teacher> 林宴瑛  </teacher>
+<score> 2 </score>
+<time> [2]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A4>
+
+<A4 id="413">
+<num>A4-413</num>
+<class> 學程                           </class>
+<group></group>
+<name> 特殊教育導論 </name>
+<teacher> 林宴瑛  </teacher>
+<score> 3 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A4>
+
 </content>

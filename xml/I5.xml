@@ -163,10 +163,10 @@
 <name> 生物化學（含實驗）（二） </name>
 <teacher> 鄭宏祺  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [5]3~4  ,  [4]5~8  </time>
+<time> [2]3~4  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
+<place> 醫學院                        第三講堂 </place>
 <note></note>
 <class1></class1>
 <group1></group1>
@@ -407,7 +407,7 @@
 <class></class>
 <group></group>
 <name> 外科學（二） </name>
-<teacher> 張財旺   ,  李宜堅   ,  李政昌   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  林毅志   ,  阮俊能   ,  黃士銘*  ,  沈延盛  </teacher>
+<teacher> 李宜堅   ,  李政昌   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  林毅志   ,  阮俊能   ,  黃士銘*  ,  沈延盛  </teacher>
 <score> 1 </score>
 <time> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]8~9  </time>
 <must> 必修 </must>
@@ -477,7 +477,7 @@
 <class></class>
 <group></group>
 <name> 臨床診斷學（二） </name>
-<teacher> 黃文柱   ,  陳炯瑜   ,  蘇五洲   ,  賴明亮   ,  吳達仁   ,  吳至行   ,  楊燿榮   ,  歐弘毅   ,  高愛文   ,  蘇文彬   ,  顏家瑞   ,  徐慧萍   ,  陳雅萍   ,  王明誠*  ,  蔡景仁  </teacher>
+<teacher> 黃文柱   ,  陳炯瑜   ,  蘇五洲   ,  賴明亮   ,  蔡景仁   ,  吳達仁   ,  吳至行   ,  楊燿榮   ,  歐弘毅   ,  高愛文   ,  蘇文彬   ,  顏家瑞   ,  徐慧萍   ,  陳雅萍   ,  王明誠* </teacher>
 <score> 1 </score>
 <time> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]8~9  </time>
 <must> 必修 </must>
@@ -595,7 +595,7 @@
 <class></class>
 <group></group>
 <name> 小兒科學 </name>
-<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  陳永榮   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  王世敏   ,  周言穎  </teacher>
+<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  王世敏   ,  周言穎  </teacher>
 <score> 1 </score>
 <time> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]8~9  </time>
 <must> 必修 </must>
@@ -637,7 +637,7 @@
 <class></class>
 <group></group>
 <name> 心電圖判讀 </name>
-<teacher> 李貽恒   ,  蔡惟全   ,  陳志鴻   ,  吳俊明   ,  李政翰   ,  陳儒逸   ,  詹世鴻   ,  許志新   ,  趙庭興*  ,  林志展   ,  林立人   ,  劉秉彥  </teacher>
+<teacher> 李貽恒   ,  蔡惟全   ,  吳俊明   ,  李政翰   ,  陳儒逸   ,  劉嚴文   ,  詹世鴻   ,  許志新   ,  趙庭興*  ,  林志展   ,  陳柏升   ,  林立人   ,  劉秉彥  </teacher>
 <score> 1 </score>
 <time> [2]4  </time>
 <must> 選修 </must>
@@ -953,7 +953,7 @@
 <class></class>
 <group></group>
 <name> 外科腫瘤學 </name>
-<teacher> 賴吾為   ,  張財旺   ,  李經維   ,  李宜堅   ,  李政昌   ,  陳肇真   ,  曾堯麟   ,  顏亦廷   ,  林毅志   ,  黃士銘*  ,  徐慧萍   ,  凌　斌   ,  沈延盛  </teacher>
+<teacher> 賴吾為   ,  李經維   ,  李宜堅   ,  李政昌   ,  陳肇真   ,  曾堯麟   ,  顏亦廷   ,  林毅志   ,  黃士銘*  ,  徐慧萍   ,  凌　斌   ,  沈延盛  </teacher>
 <score> 1 </score>
 <time> [4]7  </time>
 <must> 選修 </must>

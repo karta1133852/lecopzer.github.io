@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
+<R1 id="004">
+<num>R1-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 鑑識會計學理論與實務研討 </name>
+<teacher> 許順雄  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63404 </place>
+<note></note>
+</R1>
+
 <R1 id="005">
 <num>R1-005</num>
 <class> 碩                             </class>
@@ -75,7 +89,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 會計與財務之實証研究 </name>
-<teacher> 未定  </teacher>
+<teacher> 許育綝  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 選修 </must>

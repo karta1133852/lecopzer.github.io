@@ -39,7 +39,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 建築圖與表現法 </name>
-<teacher> 未定  </teacher>
+<teacher> 陳穎澤  </teacher>
 <score> 1 </score>
 <time> [3]2  ,  [3]1  </time>
 <must> 必修 </must>
@@ -67,7 +67,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 建築設計（四） </name>
-<teacher> 陳柏年*  ,  林靜娟   ,  沈弘軒   ,  辛柏毅   ,  陳彥伶   ,  吳建志  </teacher>
+<teacher> 陳柏年*  ,  林靜娟   ,  沈弘軒   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤  </teacher>
 <score> 4 </score>
 <time> [2]5~8  ,  [1]5~8  ,  [2]1~4  </time>
 <must> 必修 </must>
@@ -295,7 +295,7 @@
 <class> 設計組                         </class>
 <group></group>
 <name> 建築職業倫理 </name>
-<teacher> 薛丞倫* </teacher>
+<teacher> 薛丞倫*  ,  陳穎澤  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>
@@ -309,7 +309,7 @@
 <class> 設計組                         </class>
 <group></group>
 <name> 建築設計（七） </name>
-<teacher> 簡聖芬*  ,  黃若珣   ,  柳川肯   ,  魏子鈞   ,  趙奕翔   ,  陳冠帆   ,  鄭采和  </teacher>
+<teacher> 姚昭智   ,  簡聖芬*  ,  黃若珣   ,  柳川肯   ,  魏子鈞   ,  趙奕翔   ,  陳冠帆   ,  鄭采和  </teacher>
 <score> 5 </score>
 <time> [1]9~D  ,  [2]N~D  </time>
 <must> 必修 </must>
@@ -351,7 +351,7 @@
 <class> 工程組                         </class>
 <group></group>
 <name> 校外實習 </name>
-<teacher> 未定  </teacher>
+<teacher> 葉玉祥  </teacher>
 <score> 0 </score>
 <time> [3]5~6  </time>
 <must> 必修 </must>
@@ -365,7 +365,7 @@
 <class> 工程組設計組                   </class>
 <group></group>
 <name> 建築法規 </name>
-<teacher> 未定  </teacher>
+<teacher> 陳耀光  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 選修 </must>

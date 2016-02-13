@@ -160,7 +160,7 @@
 <num>S8-012</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 兒童心理衡鑑 </name>
+<name> 臨床心理衡鑑 </name>
 <teacher> 黃惠玲  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
@@ -295,6 +295,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        205D </place>
+<note></note>
+</S8>
+
+<S8 id="022">
+<num>S8-022</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 青少年團體治療入門 </name>
+<teacher> 郭乃文  </teacher>
+<score> 2 </score>
+<time> [3]N~5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
 <note></note>
 </S8>
 

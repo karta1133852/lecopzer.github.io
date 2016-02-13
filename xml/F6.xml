@@ -316,8 +316,8 @@
 <time> [3]7~8  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 測量系館                      55170 </place>
-<note></note>
+<place> 測量系館                      55209 </place>
+<note> 須經由任課教師加簽。                                                     </note>
 </F6>
 
 <F6 id="111">
@@ -393,7 +393,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 測量系館                      55250 </place>
-<note> 須經由任課教師加簽                                                       </note>
+<note></note>
 </F6>
 
 <F6 id="156">
