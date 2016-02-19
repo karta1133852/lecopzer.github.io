@@ -322,6 +322,20 @@
 <note> 通訊與網路組                                                             </note>
 </Q3>
 
+<Q3 id="036">
+<num>Q3-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 通信電子學 </name>
+<teacher> 黃振發  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note></note>
+</Q3>
+
 <Q3 id="040">
 <num>Q3-040</num>
 <class> 碩博                           </class>

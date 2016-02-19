@@ -49,10 +49,10 @@
 <name> 進階精神衛生護理學 </name>
 <teacher> 林梅鳳*  ,  徐畢卿   ,  林靜蘭   ,  周承珍   ,  陳柏熹   ,  黃阿敏  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time> [5]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85102 </place>
+<place> 護理系館                      85101 </place>
 <note></note>
 </T2>
 
@@ -110,7 +110,7 @@
 <time> [5]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 護理系館                      85101 </place>
+<place> 護理系館                      85102 </place>
 <note> 另加海外實習，英語授課，限本系學生                                       </note>
 </T2>
 

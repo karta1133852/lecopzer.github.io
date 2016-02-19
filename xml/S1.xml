@@ -47,7 +47,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 生物技術特論 </name>
-<teacher> 陳毓宏   ,  莊偉哲   ,  張文粲*  ,  張明熙   ,  吳華林   ,  賴明德   ,  鄭宏祺   ,  陳昌熙  </teacher>
+<teacher> 陳毓宏   ,  莊偉哲   ,  張文粲*  ,  張明熙   ,  吳華林   ,  賴明德   ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲  </teacher>
 <score> 2 </score>
 <time> [1]3~4  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 應用分子生物學 </name>
-<teacher> 張權發   ,  陳毓宏   ,  莊偉哲   ,  張文粲   ,  張明熙*  ,  陳昌熙   ,  黃柏憲   ,  張雋曦   ,  王淑鶯   ,  蔡曜聲   ,  呂佩融  </teacher>
+<teacher> 張權發   ,  陳毓宏   ,  張文粲   ,  張明熙*  ,  陳昌熙   ,  黃柏憲   ,  王憶卿   ,  張雋曦   ,  王淑鶯   ,  蔡曜聲   ,  呂佩融   ,  許育祥  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -103,7 +103,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 新藥研發 </name>
-<teacher> 莊偉哲   ,  張文粲   ,  張明熙*  ,  鄭宏祺   ,  蔡瑞真   ,  周辰熹   ,  蔡曜聲   ,  郭余民  </teacher>
+<teacher> 莊偉哲   ,  張文粲   ,  張明熙*  ,  鄭宏祺   ,  王憶卿   ,  蔡瑞真   ,  周辰熹   ,  蔡曜聲   ,  許育祥   ,  郭余民  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
 <must> 選修 </must>
@@ -147,7 +147,7 @@
 <name> 分子技術研討 </name>
 <teacher> 吳昭良*  ,  陳玉玲  </teacher>
 <score> 1 </score>
-<time> [4]4  </time>
+<time> [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        0929 </place>

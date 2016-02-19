@@ -192,7 +192,7 @@
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
-<place> 中文系館                      21101 </place>
+<place> 交管系館                      62105 </place>
 <note> 跨領域通識                                                               </note>
 </A9>
 
@@ -402,7 +402,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 哲學與藝術 </type>
-<place> 歷史系館                      振芝講堂 </place>
+<place> 修齊大樓                      26425 </place>
 <note> 核心通識                                                                 </note>
 </A9>
 
@@ -668,7 +668,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 歷史系館                      25236 </place>
+<place> 企管系館                      62218 </place>
 <note> 跨領域通識                                                               </note>
 </A9>
 
@@ -1215,7 +1215,7 @@
 <must> 必修 </must>
 <type> 哲學與藝術 </type>
 <place> 唯農大樓                      許文龍講堂 </place>
-<note> 核心通識，課程主題:東亞藝術                                              </note>
+<note> 核心通識，課程主題:東亞藝術   戲劇學程課程                               </note>
 </A9>
 
 <A9 id="223">
@@ -1536,7 +1536,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 綜合大樓                      48424 </place>
+<place> 土木系館                      4509 </place>
 <note> 相關領域：自然與工程科學、生命科學與健康                                 </note>
 </A9>
 
@@ -1999,7 +1999,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 資訊大樓                      格致廳大講堂 </place>
-<note> 報名請洽三創中心楊小姐，領域：人文學、社會科學、自然與工程科學、生命科學 </note>
+<note> 領域：人文學、社會科學、自然與工程科學、生命科學                         </note>
 </A9>
 
 <A9 id="377">

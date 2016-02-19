@@ -93,10 +93,24 @@
 <name> 中藥概論 </name>
 <teacher> 吳天賞  </teacher>
 <score> 1 </score>
-<time> [5]5~6  </time>
+<time> [4]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 化學系館                      3267 </place>
+<place> 醫學院                        604 </place>
+<note></note>
+</I8>
+
+<I8 id="013">
+<num>I8-013</num>
+<class></class>
+<group></group>
+<name> 有機化學（一） </name>
+<teacher> 郭賓崇  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
 <note></note>
 </I8>
 
@@ -107,13 +121,11 @@
 <name> 生物化學（含分子生物學） </name>
 <teacher> 陳毓宏   ,  吳昭良   ,  莊偉哲*  ,  張文粲   ,  何月仁   ,  吳華林   ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲  </teacher>
 <score> 5 </score>
-<time> 
-  </time>
+<time> [1]2  ,  [3]1~2  ,  [5]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        第三講堂 </place>
+<note></note>
 </I8>
 
 <I8 id="054">
@@ -123,13 +135,11 @@
 <name> 生物化學實驗 </name>
 <teacher> 陳毓宏   ,  吳昭良   ,  莊偉哲*  ,  張文粲   ,  何月仁   ,  吳華林   ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲  </teacher>
 <score> 1 </score>
-<time> 
-  </time>
+<time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 在醫學院三樓實驗室上課。                                                 </note>
 </I8>
 
 <I8 id="055">
@@ -169,15 +179,13 @@
 <class></class>
 <group></group>
 <name> 分析化學實驗 </name>
-<teacher> 李介仁  </teacher>
+<teacher> 孫亦文  </teacher>
 <score> 1 </score>
-<time> 
-  </time>
+<time> [3]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 化學系館                      綜合實驗室二 </place>
+<note></note>
 </I8>
 
 <I8 id="058">
@@ -185,15 +193,27 @@
 <class></class>
 <group></group>
 <name> 有機化學（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 郭賓崇  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
+</I8>
+
+<I8 id="060">
+<num>I8-060</num>
+<class></class>
+<group></group>
+<name> 物理化學 </name>
+<teacher> 陳毓宏  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
 </I8>
 
 </content>

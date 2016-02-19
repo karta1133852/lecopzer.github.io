@@ -266,6 +266,20 @@
 <note></note>
 </A2>
 
+<A2 id="047">
+<num>A2-047</num>
+<class> 一年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 足球與健康體能 </name>
+<teacher> 楊書銘  </teacher>
+<score> 0 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            光復體育場 </place>
+<note> 男女合班                                                                 </note>
+</A2>
+
 <A2 id="051">
 <num>A2-051</num>
 <class> 一年級                        體育（女生組）　                                                       </class>
@@ -669,7 +683,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            光復體育場 </place>
-<note></note>
+<note> 男女合班                                                                 </note>
 </A2>
 
 <A2 id="150">
@@ -851,7 +865,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            光復籃球高場 </place>
-<note></note>
+<note> 男女合班                                                                 </note>
 </A2>
 
 <A2 id="170">

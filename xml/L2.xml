@@ -210,20 +210,6 @@
 <note></note>
 </L2>
 
-<L2 id="115">
-<num>L2-115</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 量子場論（二） </name>
-<teacher> 陳家駒  </teacher>
-<score> 3 </score>
-<time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 物理二館                      49324 </place>
-<note> 英語授課                                                                 </note>
-</L2>
-
 <L2 id="150">
 <num>L2-150</num>
 <class> 碩博                           </class>
@@ -299,7 +285,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 電漿現象之應用 </name>
-<teacher> 未定  </teacher>
+<teacher> 張博宇  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
@@ -315,7 +301,7 @@
 <name> 連續體與流體力學 </name>
 <teacher> 西村泰太郎* </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
