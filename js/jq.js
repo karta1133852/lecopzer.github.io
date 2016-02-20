@@ -22,7 +22,7 @@ $(function() {
 
 
 $(function () {
-	$("header ul li:gt(1) a").click(function(e) {
+	$("header ul li:gt(1):lt(2) a").click(function(e) {
 		$.ajaxSetup({
 			cache: false,
 		});
