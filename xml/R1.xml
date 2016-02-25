@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
+<R1 id="001">
+<num>R1-001</num>
+<class> 碩                             </class>
+<group></group>
+<name> 財務風險管理 </name>
+<teacher> 梁少懷  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63209 </place>
+<note></note>
+</R1>
+
 <R1 id="004">
 <num>R1-004</num>
 <class> 碩                             </class>
@@ -166,20 +180,6 @@
 <type> 研討 </type>
 <place> 會計系館                      63406 </place>
 <note></note>
-</R1>
-
-<R1 id="101">
-<num>R1-101</num>
-<class> 博                             </class>
-<group></group>
-<name> 公司理財（一） </name>
-<teacher> 梁少懷  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63406 </place>
-<note> 外所學生修課需經任課教師簽核                                             </note>
 </R1>
 
 <R1 id="102">

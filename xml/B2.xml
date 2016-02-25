@@ -738,7 +738,7 @@
 <time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26425 </place>
+<place> 修齊大樓                      26512 </place>
 <note> 文學選修Literature                                                       </note>
 </B2>
 
@@ -794,7 +794,7 @@
 <time> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26423 </place>
+<place> 修齊大樓                      26408 </place>
 <note></note>
 </B2>
 
@@ -850,7 +850,7 @@
 <time> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26425 </place>
+<place> 修齊大樓                      修齊講堂 </place>
 <note> 新聞傳播學程選修                                                         </note>
 </B2>
 
@@ -876,22 +876,6 @@
 <group></group>
 <name> 應用第二外語暨戲劇表演（二） </name>
 <teacher> 陳健宏  </teacher>
-<score> 2 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</B2>
-
-<B2 id="162">
-<num>B2-162</num>
-<class></class>
-<group></group>
-<name> 應用第二外語暨戲劇表演（二） </name>
-<teacher> 盧慧娟   ,  白芳怡  </teacher>
 <score> 2 </score>
 <time> 
   </time>

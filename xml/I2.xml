@@ -81,7 +81,7 @@
 <class></class>
 <group></group>
 <name> 基本護理學 </name>
-<teacher> 王瑤華   ,  林梅鳳   ,  林靜蘭*  ,  周承珍   ,  賴維淑   ,  鄭雅方   ,  陳宜?   ,  謝曉燕  </teacher>
+<teacher> 王瑤華   ,  林梅鳳   ,  林靜蘭*  ,  周承珍   ,  賴維淑   ,  鄭雅方   ,  陳宜   ,  謝曉燕  </teacher>
 <score> 2 </score>
 <time> [3]1~2  </time>
 <must> 必修 </must>
@@ -195,7 +195,7 @@
 <class></class>
 <group></group>
 <name> 兒科護理學實習 </name>
-<teacher> 黃美智   ,  馮瑞鶯*  ,  高綺吟  </teacher>
+<teacher> 黃美智   ,  馮瑞鶯*  ,  高綺吟   ,  陳宜  </teacher>
 <score> 3 </score>
 <time> [2]1~8  ,  [4]1  </time>
 <must> 必修 </must>
@@ -223,7 +223,7 @@
 <class></class>
 <group></group>
 <name> 成人護理學實習（二） </name>
-<teacher> 張文芸*  ,  柯乃熒   ,  方素瓔   ,  陳幸眉   ,  賴維淑  </teacher>
+<teacher> 張文芸*  ,  方素瓔   ,  陳幸眉   ,  賴維淑  </teacher>
 <score> 3 </score>
 <time> [1]8  ,  [3]1~8  </time>
 <must> 必修 </must>
@@ -323,7 +323,7 @@
 <class></class>
 <group></group>
 <name> 護理行政實習 </name>
-<teacher> 張瑩如   ,  顏妙芬*  ,  王維芳  </teacher>
+<teacher> 張瑩如   ,  顏妙芬*  ,  王維芳   ,  張嘉蘋  </teacher>
 <score> 2 </score>
 <time> [1]7~8  ,  [2]1~4  </time>
 <must> 必修 </must>
@@ -353,7 +353,7 @@
 <class></class>
 <group></group>
 <name> 論文寫作 </name>
-<teacher> 周承珍  </teacher>
+<teacher> 張文芸   ,  周承珍  </teacher>
 <score> 2 </score>
 <time> 
   </time>

@@ -5,7 +5,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 周乃昉  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 未定  </teacher>
+<teacher> 戴義欽  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -180,6 +180,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
 <note> 英語授課，碩博與碩專合班，土木所與自災所合開                             </note>
+</NC>
+
+<NC id="014">
+<num>NC-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 河溪復育 </name>
+<teacher> 王筱雯  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note> 水利所與自災所合開課程                                                   </note>
 </NC>
 
 </content>

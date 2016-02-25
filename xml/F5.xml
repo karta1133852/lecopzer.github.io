@@ -30,7 +30,7 @@
 <group3> B </group3>
 <name3> 微積分（二） </name3>
 <time3> [3]1  </time3>
-<place3> 環工系館                      47118 </place3>
+<place3> 環工系館                      47111 </place3>
 <note3></note3>
 <class4></class4>
 <group4> C </group4>
@@ -382,26 +382,6 @@
 <type> 講義 </type>
 <place> 環工系館                      47112 </place>
 <note></note>
-</F5>
-
-<F5 id="155">
-<num>F5-155</num>
-<class></class>
-<group></group>
-<name> 環境工程設計（二） </name>
-<teacher> 李文智   ,  張祖恩* </teacher>
-<score> 3 </score>
-<time> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47111 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 環境工程設計（二） </name1>
-<time1> [5]2~4  </time1>
-<place1> 環工系館                      47118 </place1>
-<note1></note1>
 </F5>
 
 <F5 id="163">

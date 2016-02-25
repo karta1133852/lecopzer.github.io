@@ -192,7 +192,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7112 </place>
 <note> 模組三                                                                   </note>
 </A1>
 
@@ -388,7 +388,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7217 </place>
+<place> 唯農大樓                      7206 </place>
 <note> 模組二                                                                   </note>
 </A1>
 
@@ -430,21 +430,7 @@
 <time> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7407 </place>
-<note> 模組二                                                                   </note>
-</A1>
-
-<A1 id="132">
-<num>A1-132</num>
-<class></class>
-<group></group>
-<name> 高科技產業英文 </name>
-<teacher> 吳少方  </teacher>
-<score> 2 </score>
-<time> [3]1~2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 唯農大樓                      7208 </place>
+<place> 唯農大樓                      7202 </place>
 <note> 模組二                                                                   </note>
 </A1>
 
@@ -1160,6 +1146,76 @@
 <type> 講義 </type>
 <place> 唯農大樓                      7117 </place>
 <note> 模組二                                                                   </note>
+</A1>
+
+<A1 id="184">
+<num>A1-184</num>
+<class></class>
+<group></group>
+<name> 聽力與摘記練習 </name>
+<teacher> 吳少方  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7208 </place>
+<note> 模組一                                                                   </note>
+</A1>
+
+<A1 id="185">
+<num>A1-185</num>
+<class></class>
+<group></group>
+<name> 基礎學術英文 </name>
+<teacher> 曾惠鈴  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7302 </place>
+<note> 模組一                                                                   </note>
+</A1>
+
+<A1 id="186">
+<num>A1-186</num>
+<class></class>
+<group></group>
+<name> 基礎學術溝通 </name>
+<teacher> 杜佩璇  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7404 </place>
+<note> 模組一                                                                   </note>
+</A1>
+
+<A1 id="187">
+<num>A1-187</num>
+<class></class>
+<group></group>
+<name> 學術英文寫作 </name>
+<teacher> 許富貴  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7401 </place>
+<note> 模組三                                                                   </note>
+</A1>
+
+<A1 id="188">
+<num>A1-188</num>
+<class></class>
+<group></group>
+<name> 閱讀文學與文化 </name>
+<teacher> 陳安純  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7217 </place>
+<note> 模組三                                                                   </note>
 </A1>
 
 <A1 id="501">

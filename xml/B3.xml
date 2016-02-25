@@ -10,7 +10,7 @@
 <time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7307 </place>
 <note> 基礎課                                                                   </note>
 </B3>
 
@@ -102,7 +102,7 @@
 <num>B3-068</num>
 <class></class>
 <group></group>
-<name> 羅馬帝國史 </name>
+<name> 晚期羅馬帝國史 </name>
 <teacher> 翁嘉聲  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
@@ -178,7 +178,7 @@
 <time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7110 </place>
 <note> 進階，視聽室上課                                                         </note>
 </B3>
 
@@ -206,7 +206,7 @@
 <time> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7115 </place>
 <note> 本課程承認為跨領域通是人文學學分，請自通識中心網頁下載申請表。           </note>
 </B3>
 
@@ -294,20 +294,6 @@
 <place></place>
 <note> 
  </note>
-</B3>
-
-<B3 id="109">
-<num>B3-109</num>
-<class></class>
-<group></group>
-<name> 史料中的臺灣原住民 </name>
-<teacher> 陳計堯  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 唯農大樓                      7311 </place>
-<note></note>
 </B3>
 
 <B3 id="110">
@@ -502,7 +488,7 @@
 <time> [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7115 </place>
 <note></note>
 </B3>
 

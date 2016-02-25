@@ -149,13 +149,11 @@
 <name> 生藥暨中藥學（二） </name>
 <teacher> 洪欣儀   ,  吳天賞* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        604 </place>
+<note></note>
 </I8>
 
 <I8 id="056">
@@ -198,7 +196,7 @@
 <time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 醫學院                        204D </place>
 <note></note>
 </I8>
 

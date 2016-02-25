@@ -684,20 +684,6 @@
 <note> 土木甲乙合班                                                             </note>
 </E6>
 
-<E6 id="157">
-<num>E6-157</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 電腦輔助土木工程設計 </name>
-<teacher> 黃錦旗  </teacher>
-<score> 2 </score>
-<time> [5]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4501 </place>
-<note> 甲乙合班                                                                 </note>
-</E6>
-
 <E6 id="158">
 <num>E6-158</num>
 <class> 甲乙                           </class>

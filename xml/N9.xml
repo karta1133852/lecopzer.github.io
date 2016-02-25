@@ -164,7 +164,7 @@
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41122 </place>
+<place> 工科系館                      41104 </place>
 <note></note>
 </N9>
 
@@ -318,7 +318,7 @@
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41220 </place>
+<place> 工科系館                      41101 </place>
 <note></note>
 </N9>
 
@@ -332,7 +332,7 @@
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41102 </place>
+<place> 工科系館                      41122 </place>
 <note></note>
 </N9>
 
@@ -439,7 +439,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 潘文峰  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>
@@ -467,7 +467,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 未定  </teacher>
+<teacher> 潘文峰  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>
@@ -602,20 +602,6 @@
 <note> 限工科系碩專班學生選修                                                   </note>
 </N9>
 
-<N9 id="327">
-<num>N9-327</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 知識管理 </name>
-<teacher> 陳澤生  </teacher>
-<score> 3 </score>
-<time> [3]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41122 </place>
-<note> 限工科系碩專班學生選修                                                   </note>
-</N9>
-
 <N9 id="329">
 <num>N9-329</num>
 <class> 碩專                           </class>
@@ -655,6 +641,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
+<note> 限工科系碩專班學生選修                                                   </note>
+</N9>
+
+<N9 id="332">
+<num>N9-332</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 知識管理 </name>
+<teacher> 陳澤生  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41101 </place>
 <note> 限工科系碩專班學生選修                                                   </note>
 </N9>
 

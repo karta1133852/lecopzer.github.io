@@ -19,7 +19,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 張清俊   ,  王涵青* </teacher>
+<teacher> 張清俊   ,  王涵青*  ,  林士鳴  </teacher>
 <score> 1 </score>
 <time> [3]8~9  </time>
 <must> 必修 </must>
@@ -47,7 +47,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 生物技術學（二） </name>
-<teacher> 蕭世裕   ,  廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青*  ,  張純純   ,  盧福翊   ,  陳立人   ,  陳俊榮   ,  張文綺   ,  李瑞花  </teacher>
+<teacher> 蕭世裕   ,  廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青*  ,  張純純   ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺   ,  李瑞花  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 書報討論（二） </name>
-<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青* </teacher>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青*  ,  林士鳴  </teacher>
 <score> 1 </score>
 <time> [3]1~2  </time>
 <must> 必修 </must>
@@ -201,7 +201,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 研究特論（一） </name>
-<teacher> 陳宗嶽   ,  王涵青* </teacher>
+<teacher> 陳宗嶽   ,  王涵青*  ,  林士鳴  </teacher>
 <score> 1 </score>
 <time> [3]N~5  </time>
 <must> 選修 </must>
@@ -285,7 +285,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 轉譯生物學 </name>
-<teacher> 王涵青  </teacher>
+<teacher> 王涵青*  ,  林士鳴  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>

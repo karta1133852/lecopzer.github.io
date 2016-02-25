@@ -69,17 +69,17 @@
 <name> 成本會計（二） </name>
 <teacher> 孫文琦  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
-<note> 配合老師排課時間，調課到禮拜五上午2-4                                    </note>
+<note></note>
 <class1></class1>
 <group1></group1>
 <name1> 成本會計（二） </name1>
-<time1> [2]1  ,  [4]1  </time1>
+<time1> [2]3~4  </time1>
 <place1> 會計系館                      63104 </place1>
-<note1> 配合老師排課時間，調課到禮拜2上午3-4                                     </note1>
+<note1></note1>
 </H1>
 
 <H1 id="057">
@@ -354,7 +354,7 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
+<place> 會計系館                      63211 </place>
 <note></note>
 </H1>
 

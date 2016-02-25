@@ -77,11 +77,13 @@
 <name> 醫學科學研究（二） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time> [3]2  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        成杏廳 </place>
-<note> 2月24日課程及評分說明；6月22日期末問卷(點名)                             </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="014">
@@ -147,7 +149,7 @@
 <class></class>
 <group></group>
 <name> 公共衛生學（二） </name>
-<teacher> 林明彥   ,  吳致杰* </teacher>
+<teacher> 林宙晴   ,  王伯智   ,  郭耀昌   ,  郭浩然   ,  蘇慧貞   ,  李俊璋   ,  蔡朋枝   ,  林明彥   ,  吳致杰* </teacher>
 <score> 2 </score>
 <time> [5]5~8  </time>
 <must> 必修 </must>
@@ -200,7 +202,7 @@
 <time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        205D </place>
+<place> 醫學院                        208 </place>
 <note> Ａ模組課程                                                               </note>
 </I5>
 
@@ -261,9 +263,11 @@
 <class1></class1>
 <group1></group1>
 <name1> 醫學科學研究（四） </name1>
-<time1> [3]2  </time1>
-<place1> 醫學院                        成杏廳 </place1>
-<note1> 2月24日課程及評分說明；6月22日期末問卷(點名)                             </note1>
+<time1> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
 </I5>
 
 <I5 id="064">
@@ -276,7 +280,7 @@
 <time> [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        202D </place>
+<place> 醫學院                        第一講堂 </place>
 <note> Ｂ模組課程                                                               </note>
 </I5>
 
@@ -904,20 +908,6 @@
 <type> 講義 </type>
 <place> 醫學院                        第三講堂 </place>
 <note> 臨床醫療課程，限醫學系五年級或更高年級修讀                               </note>
-</I5>
-
-<I5 id="214">
-<num>I5-214</num>
-<class></class>
-<group></group>
-<name> 神經學專題討論 </name>
-<teacher> 林宙晴  </teacher>
-<score> 1 </score>
-<time> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        307 </place>
-<note> 上課時間須配合各位老師的工作行程，所以不一定在前9週或後9週上課           </note>
 </I5>
 
 <I5 id="215">

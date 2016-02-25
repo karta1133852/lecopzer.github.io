@@ -44,20 +44,6 @@
 <note> 上課地點：健照所會議室                                                   </note>
 </TA>
 
-<TA id="004">
-<num>TA-004</num>
-<class> 博一                           </class>
-<group></group>
-<name> 教學理論與方法特論 </name>
-<teacher> 陳彰惠* </teacher>
-<score> 2 </score>
-<time> [2]5~6  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place></place>
-<note> 上課地點：健照所會議室                                                   </note>
-</TA>
-
 <TA id="005">
 <num>TA-005</num>
 <class> 博一                           </class>
@@ -116,20 +102,6 @@
 <note></note>
 </TA>
 
-<TA id="009">
-<num>TA-009</num>
-<class> 博二                           </class>
-<group></group>
-<name> 正向心理照護專題－衡鑑與治療 </name>
-<teacher> 郭乃文* </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課教室：健照所會議室                                                   </note>
-</TA>
-
 <TA id="010">
 <num>TA-010</num>
 <class> 博                             </class>
@@ -170,7 +142,7 @@
 <time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        201D </place>
+<place></place>
 <note> 1.英語授課。2.為動作科學與照護研究群選修課程。3.「心理系五樓玻璃屋」上課 </note>
 </TA>
 

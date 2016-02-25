@@ -119,11 +119,13 @@
 <name> 服務學習（三）府城平安居─賃居服務學習 </name>
 <teacher> 陳國彬  </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 軍訓館                        6022 </place>
-<note> 首次上課時間3/3(四)7,8節 地點：軍訓室6022教室                            </note>
+<place></place>
+<note> 
+ </note>
 </A6>
 
 <A6 id="009">
@@ -227,7 +229,7 @@
 <name> 服務學習（三）─分享愛‧愛分享 </name>
 <teacher> 徐碧真  </teacher>
 <score> 0 </score>
-<time> [2]N  </time>
+<time> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 物治系館                      B02 </place>

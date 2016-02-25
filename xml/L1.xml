@@ -105,10 +105,10 @@
 <name> 分析通論（二） </name>
 <teacher> 連文璟  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [4]3~4  </time>
+<time> [2]4  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 數學系館                      3177 </place>
+<place> 數學系館                      3176 </place>
 <note></note>
 </L1>
 
@@ -119,7 +119,7 @@
 <name> 代數通論（二） </name>
 <teacher> 林　牛  </teacher>
 <score> 3 </score>
-<time> [3]5~6  ,  [5]8  </time>
+<time> [3]6~7  ,  [5]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3176 </place>
@@ -189,7 +189,7 @@
 <name> 數值偏微分方程（一） </name>
 <teacher> 陳旻宏  </teacher>
 <score> 3 </score>
-<time> [2]4  ,  [4]5~6  </time>
+<time> [4]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>
@@ -273,7 +273,7 @@
 <name> 伽羅瓦理論入門 </name>
 <teacher> 夏　杼  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time> [3]N  ,  [1]3  ,  [2]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3176 </place>
@@ -343,10 +343,10 @@
 <name> 快速計算法專題討論 </name>
 <teacher> 舒宇宸  </teacher>
 <score> 0 </score>
-<time> [1]9~A  </time>
+<time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 數學系館                      3175 </place>
+<place> 數學系館                      3176 </place>
 <note></note>
 </L1>
 
@@ -403,6 +403,34 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 數學系館                      3176 </place>
+<note></note>
+</L1>
+
+<L1 id="050">
+<num>L1-050</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數學教學專題討論（一） </name>
+<teacher> 李國明  </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 數學系館                      3173 </place>
+<note></note>
+</L1>
+
+<L1 id="051">
+<num>L1-051</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數學教學專題討論（二） </name>
+<teacher> 李國明  </teacher>
+<score> 0 </score>
+<time> [3]N  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 數學系館                      3173 </place>
 <note></note>
 </L1>
 

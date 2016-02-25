@@ -5,7 +5,7 @@
 <class> 碩博一                         </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 周乃昉  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩博一                         </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 戴義欽  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -103,7 +103,7 @@
 <class> 碩博二                         </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 未定  </teacher>
+<teacher> 周乃昉  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -117,7 +117,7 @@
 <class> 碩博二                         </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 未定  </teacher>
+<teacher> 戴義欽  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -206,7 +206,7 @@
 <time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 水利系館                      4645 </place>
+<place> 水利系館                      4644 </place>
 <note> 限延畢生修讀                                                             </note>
 </N8>
 
@@ -229,7 +229,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 海域物理學 </name>
-<teacher> 未定  </teacher>
+<teacher> 董東璟*  ,  李兆芳   ,  張　懿  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 必修 </must>
@@ -333,7 +333,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
-<note></note>
+<note> 水利所與自災所合開課程                                                   </note>
 </N8>
 
 <N8 id="038">
@@ -432,6 +432,22 @@
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
 <note></note>
+</N8>
+
+<N8 id="046">
+<num>N8-046</num>
+<class></class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 周乃昉  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
 </N8>
 
 <N8 id="047">

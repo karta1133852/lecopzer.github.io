@@ -56,6 +56,20 @@
 <note> 跨領域通識                                                               </note>
 </A9>
 
+<A9 id="031">
+<num>A9-031</num>
+<class></class>
+<group></group>
+<name> 表演藝術概論 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 哲學與藝術 </type>
+<place> 交管系館                      62109 </place>
+<note> 核心通識                                                                 </note>
+</A9>
+
 <A9 id="032">
 <num>A9-032</num>
 <class></class>
@@ -360,7 +374,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 會計系館                      63211 </place>
+<place> 生科系館                      3404 </place>
 <note> 跨領域通識                                                               </note>
 </A9>
 
@@ -374,7 +388,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 唯農大樓                      7108 </place>
+<place> 交管系館                      62205 </place>
 <note> 相關領域：人文學、社會科學；融入服務學習內涵之專業課程                   </note>
 </A9>
 
@@ -994,6 +1008,20 @@
 <note> 跨領域通識                                                               </note>
 </A9>
 
+<A9 id="202">
+<num>A9-202</num>
+<class></class>
+<group></group>
+<name> 表演藝術概論 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 哲學與藝術 </type>
+<place> 企管系館                      62218 </place>
+<note> 核心通識                                                                 </note>
+</A9>
+
 <A9 id="203">
 <num>A9-203</num>
 <class></class>
@@ -1531,7 +1559,7 @@
 <class></class>
 <group></group>
 <name> 氣候變遷與人類永續發展 </name>
-<teacher> 游鎮烽   ,  蔣鎮宇   ,  曾淑芬   ,  王浩文   ,  陳一菁*  ,  郭彥廉   ,  孫建平  </teacher>
+<teacher> 蔣鎮宇   ,  曾淑芬   ,  王浩文   ,  陳一菁*  ,  郭彥廉   ,  孫建平  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -1666,6 +1694,20 @@
 <note> 跨領域通識                                                               </note>
 </A9>
 
+<A9 id="310">
+<num>A9-310</num>
+<class></class>
+<group></group>
+<name> 知識論 </name>
+<teacher> 葉海煙  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<note> 跨領域通識                                                               </note>
+</A9>
+
 <A9 id="311">
 <num>A9-311</num>
 <class></class>
@@ -1760,7 +1802,7 @@
 <time> [4]5~7  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 唯農大樓                      7307 </place>
+<place> 軍訓館                        6021 </place>
 <note> 新開；跨領域通識                                                         </note>
 </A9>
 
@@ -2437,7 +2479,7 @@
 <class></class>
 <group></group>
 <name> 通識專題講座-大學導航 </name>
-<teacher> 陳恒安   ,  馬哲儒   ,  高　強   ,  王秀雲*  ,  吳天賞  </teacher>
+<teacher> 陳恒安   ,  古承宗   ,  楊永年   ,  馬哲儒   ,  高　強   ,  王秀雲*  ,  吳天賞  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -2451,7 +2493,7 @@
 <class></class>
 <group></group>
 <name> 通識專題講座-大學導航 </name>
-<teacher> 徐珊惠*  ,  鄭金祥  </teacher>
+<teacher> 徐珊惠*  ,  鄭金祥   ,  林明彥  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>

@@ -158,20 +158,6 @@
 <note1> 上課教室為建築系綠教室                                                   </note1>
 </N7>
 
-<N7 id="024">
-<num>N7-024</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 環境規劃研究方法與論文寫作 </name>
-<teacher> 陳世明*  ,  吳玉成* </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 建築系館                      5126 </place>
-<note> 本課程本學期將停開，預計105學年第1學期再行開設                           </note>
-</N7>
-
 <N7 id="025">
 <num>N7-025</num>
 <class> 碩博                           </class>
@@ -266,8 +252,8 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 建築研究大樓                  5171 </place>
-<note></note>
+<place></place>
+<note> 上課教室為建築系未來教室                                                 </note>
 </N7>
 
 <N7 id="062">
