@@ -145,23 +145,9 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 科學研究寫作 </name>
-<teacher> 劉宗霖*  ,  王育民  </teacher>
+<teacher> 劉宗霖*  ,  羅玉枝  </teacher>
 <score> 1 </score>
 <time> [1]6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
-<note></note>
-</Z2>
-
-<Z2 id="012">
-<num>Z2-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 端粒與端粒?特論 </name>
-<teacher> 林鼎晏* </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95A09 </place>
@@ -179,20 +165,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95A02 </place>
-<note></note>
-</Z2>
-
-<Z2 id="014">
-<num>Z2-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等病毒學 </name>
-<teacher> 洪建中* </teacher>
-<score> 2 </score>
-<time> [5]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
 <note></note>
 </Z2>
 
@@ -263,34 +235,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95A14 </place>
-<note></note>
-</Z2>
-
-<Z2 id="021">
-<num>Z2-021</num>
-<class> 博                             </class>
-<group></group>
-<name> 分子生物演算法 </name>
-<teacher> 劉宗霖* </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A021 </place>
-<note></note>
-</Z2>
-
-<Z2 id="023">
-<num>Z2-023</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 細胞訊息與調控特論 </name>
-<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝  </teacher>
-<score> 1 </score>
-<time> [3]3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
 <note></note>
 </Z2>
 
