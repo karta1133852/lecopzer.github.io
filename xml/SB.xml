@@ -70,43 +70,15 @@
 <note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
 </SB>
 
-<SB id="306">
-<num>SB-306</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 環境毒物學 </name>
-<teacher> 劉明毅  </teacher>
-<score> 2 </score>
-<time> [3]B~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
-</SB>
-
 <SB id="307">
 <num>SB-307</num>
 <class> 碩專                           </class>
 <group></group>
 <name> 衛生政策理論與實務 </name>
-<teacher> 古鯉榕  </teacher>
+<teacher> 柯乃熒   ,  徐之昇   ,  李俊璋   ,  呂宗學   ,  胡淑貞   ,  王榮德   ,  古鯉榕*  ,  劉立凡  </teacher>
 <score> 2 </score>
-<time> [4]9~A  </time>
+<time> [4]A~B  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課地點：門診大樓8樓公衛所會議室                                        </note>
-</SB>
-
-<SB id="308">
-<num>SB-308</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 環境與職業衛生個案討論 </name>
-<teacher> 蔡朋枝  </teacher>
-<score> 2 </score>
-<time> [4]B~C  </time>
-<must> 選修 </must>
 <type> 講義 </type>
 <place></place>
 <note> 上課地點：門診大樓8樓公衛所會議室                                        </note>

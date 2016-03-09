@@ -47,7 +47,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 基因治療特論 </name>
-<teacher> 郭保麟   ,  王崇任   ,  許耿福   ,  陳毓宏   ,  吳昭良*  ,  謝嘉興   ,  蕭璦莉*  ,  袁　國  </teacher>
+<teacher> 郭保麟   ,  王崇任   ,  許耿福   ,  吳昭良*  ,  謝嘉興   ,  蕭璦莉*  ,  袁　國  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 選修 </must>
@@ -138,34 +138,6 @@
 <type> 講義 </type>
 <place> 醫學院                        1124 </place>
 <note> 與基醫所合班                                                             </note>
-</S4>
-
-<S4 id="014">
-<num>S4-014</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 分子寄生蟲學 </name>
-<teacher> 胥直利*  ,  林威辰* </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        1124 </place>
-<note></note>
-</S4>
-
-<S4 id="015">
-<num>S4-015</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 腫瘤免疫學 </name>
-<teacher> 楊倍昌*  ,  凌　斌*  ,  張志鵬  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        1124 </place>
-<note></note>
 </S4>
 
 </content>

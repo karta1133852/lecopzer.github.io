@@ -164,8 +164,8 @@
 <time> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 上課教室：門診大樓08086研討室                                            </note>
+<place> 醫學院                        204D </place>
+<note> 開課教室異動為醫學院240D教室                                             </note>
 </T8>
 
 <T8 id="013">
@@ -180,20 +180,6 @@
 <type> 講義 </type>
 <place> 醫學院                        202D </place>
 <note> 公衛所與都計所合班                                                       </note>
-</T8>
-
-<T8 id="014">
-<num>T8-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 事故傷害流行病學 </name>
-<teacher> 呂宗學  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課教室在醫院門診大樓8樓公衛所08086研討室                               </note>
 </T8>
 
 <T8 id="015">

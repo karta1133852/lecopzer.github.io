@@ -122,7 +122,7 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91B04 </place>
+<place> 機械系館                      91204 </place>
 <note> 博士班學生可修                                                           </note>
 </N1>
 
@@ -492,7 +492,7 @@
 <time> [1]7~8  ,  [5]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91103 </place>
+<place> 機械系館                      91301 </place>
 <note> 英語授課                                                                 </note>
 </N1>
 
@@ -503,7 +503,7 @@
 <name> 數位控制 </name>
 <teacher> 施明璋  </teacher>
 <score> 3 </score>
-<time> [1]2  ,  [3]3~4  </time>
+<time> [3]5  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91308 </place>

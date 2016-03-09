@@ -318,7 +318,7 @@
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41101 </place>
+<place> 工科系館                      41103 </place>
 <note></note>
 </N9>
 
@@ -416,7 +416,7 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41101 </place>
+<place> 工科系館                      41103 </place>
 <note></note>
 </N9>
 
@@ -546,20 +546,6 @@
 <note> 限工科系碩專班學生選修                                                   </note>
 </N9>
 
-<N9 id="322">
-<num>N9-322</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 光電工程 </name>
-<teacher> 陳顯禎  </teacher>
-<score> 3 </score>
-<time> [5]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41220 </place>
-<note> 限工科系碩專班學生選修                                                   </note>
-</N9>
-
 <N9 id="323">
 <num>N9-323</num>
 <class> 碩專                           </class>
@@ -641,20 +627,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
-<note> 限工科系碩專班學生選修                                                   </note>
-</N9>
-
-<N9 id="332">
-<num>N9-332</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 知識管理 </name>
-<teacher> 陳澤生  </teacher>
-<score> 3 </score>
-<time> [6]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41101 </place>
 <note> 限工科系碩專班學生選修                                                   </note>
 </N9>
 

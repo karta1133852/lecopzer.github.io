@@ -187,26 +187,12 @@
 <class> 碩                             </class>
 <group></group>
 <name> 另類補充療法概論 </name>
-<teacher> 王靜枝  </teacher>
+<teacher> 張文芸   ,  王靜枝* </teacher>
 <score> 2 </score>
 <time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        302D </place>
-<note></note>
-</TC>
-
-<TC id="015">
-<num>TC-015</num>
-<class> 碩                             </class>
-<group></group>
-<name> 高齡教育 </name>
-<teacher> 陳麗光  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        203D </place>
 <note></note>
 </TC>
 
@@ -285,7 +271,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 高齡者的食物與營養 </name>
-<teacher> 邱靜如  </teacher>
+<teacher> 郭素娥   ,  邱靜如* </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
@@ -305,7 +291,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        208 </place>
-<note> 老化與生活學分學程                                                       </note>
+<note> 老化與生活學分學程。本課程為融入服務學習內含之專業課程，修習通過可免修服 </note>
 </TC>
 
 </content>

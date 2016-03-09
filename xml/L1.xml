@@ -63,7 +63,7 @@
 <name> 偏微分方程（一） </name>
 <teacher> 方永富  </teacher>
 <score> 3 </score>
-<time> [2]5~6  ,  [5]5  </time>
+<time> [2]5~6  ,  [5]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>
@@ -108,7 +108,7 @@
 <time> [2]4  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 數學系館                      3176 </place>
+<place> 數學系館                      3175 </place>
 <note></note>
 </L1>
 
@@ -147,7 +147,7 @@
 <name> 幾何與應用 </name>
 <teacher> 江孟蓉  </teacher>
 <score> 3 </score>
-<time> [2]N  ,  [4]5~6  </time>
+<time> [2]2  ,  [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3177 </place>
@@ -294,20 +294,6 @@
 <note></note>
 </L1>
 
-<L1 id="031">
-<num>L1-031</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 代數及其應用專題討論 </name>
-<teacher> 蕭仁傑  </teacher>
-<score> 0 </score>
-<time> [5]9~B  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 數學系館                      研討室一 </place>
-<note></note>
-</L1>
-
 <L1 id="032">
 <num>L1-032</num>
 <class> 碩博                           </class>
@@ -425,7 +411,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 數學教學專題討論（二） </name>
-<teacher> 李國明  </teacher>
+<teacher> 劉珈銘  </teacher>
 <score> 0 </score>
 <time> [3]N  </time>
 <must> 選修 </must>

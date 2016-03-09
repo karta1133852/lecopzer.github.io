@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<P8 id="001">
-<num>P8-001</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電阻抗影像技術 </name>
-<teacher> 鄭國順  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5723 </place>
-<note></note>
-</P8>
-
 <P8 id="002">
 <num>P8-002</num>
 <class> 碩博                           </class>
@@ -210,31 +196,17 @@
 <note> 英語授課                                                                 </note>
 </P8>
 
-<P8 id="033">
-<num>P8-033</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 神經工程 </name>
-<teacher> 陳家進  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5734 </place>
-<note> 英語授課                                                                 </note>
-</P8>
-
 <P8 id="034">
 <num>P8-034</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 牙科臨床工程 </name>
-<teacher> 張志涵   ,  葉明龍*  ,  黃振勳   ,  李澤民   ,  袁　國   ,  許修銘   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  范姜如君   ,  張川陽  </teacher>
+<teacher> 張志涵   ,  葉明龍*  ,  黃振勳   ,  李澤民   ,  許修銘   ,  劉佳觀   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  張川陽   ,  陳永崇  </teacher>
 <score> 2 </score>
-<time> [5]7~8  </time>
+<time> </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5725 </place>
+<place></place>
 <note></note>
 </P8>
 

@@ -76,8 +76,8 @@
 <time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65304 </place>
-<note> 甲乙合班                                                                 </note>
+<place></place>
+<note> 1.甲乙合班。2.在65405教室上課。                                          </note>
 </F7>
 
 <F7 id="011">
@@ -311,10 +311,10 @@
 <name> 競賽演算法設計與實作 </name>
 <teacher> 蔡孟勳  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [3]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65203 </place>
+<place> 資訊新館                      65304 </place>
 <note></note>
 </F7>
 

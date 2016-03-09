@@ -338,20 +338,6 @@
 <note></note>
 </S5>
 
-<S5 id="128">
-<num>S5-128</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 腫瘤免疫學 </name>
-<teacher> 楊倍昌*  ,  凌　斌*  ,  張志鵬  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        1124 </place>
-<note></note>
-</S5>
-
 <S5 id="129">
 <num>S5-129</num>
 <class></class>
@@ -415,7 +401,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 基因治療特論 </name>
-<teacher> 郭保麟   ,  王崇任   ,  許耿福   ,  陳毓宏   ,  吳昭良*  ,  謝嘉興   ,  蕭璦莉*  ,  袁　國  </teacher>
+<teacher> 郭保麟   ,  王崇任   ,  許耿福   ,  吳昭良*  ,  謝嘉興   ,  蕭璦莉*  ,  袁　國  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 選修 </must>
@@ -438,48 +424,6 @@
 <note> 生化，基醫合班                                                           </note>
 </S5>
 
-<S5 id="145">
-<num>S5-145</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 分子神經科學 </name>
-<teacher> 黃阿敏* </teacher>
-<score> 2 </score>
-<time> [4]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        0724 </place>
-<note> 中英文授課   基醫所、生理所合班                                          </note>
-</S5>
-
-<S5 id="146">
-<num>S5-146</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 當代細胞生物學 </name>
-<teacher> 鄭宏祺*  ,  吳佳慶  </teacher>
-<score> 2 </score>
-<time> [4]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        0929 </place>
-<note></note>
-</S5>
-
-<S5 id="147">
-<num>S5-147</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 當代分子生物學 </name>
-<teacher> 陳昌熙*  ,  楊尚訓* </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        0929 </place>
-<note></note>
-</S5>
-
 <S5 id="150">
 <num>S5-150</num>
 <class> 博一二                         </class>
@@ -491,20 +435,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5725 </place>
-<note></note>
-</S5>
-
-<S5 id="155">
-<num>S5-155</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 微生物基因體學 </name>
-<teacher> 何漣漪* </teacher>
-<score> 2 </score>
-<time> [2]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        1124 </place>
 <note></note>
 </S5>
 

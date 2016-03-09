@@ -10,7 +10,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 公民與歷史 </type>
-<place> 電機系館                      迅慧講堂 </place>
+<place> 資訊大樓                      格致廳大講堂 </place>
 <note></note>
 </AG>
 
@@ -122,7 +122,7 @@
 <time> [4]1~2  </time>
 <must> 必修 </must>
 <type> 公民與歷史 </type>
-<place> 物理二館                      49312 </place>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
 <note></note>
 </AG>
 
@@ -362,20 +362,6 @@
 <type> 公民與歷史 </type>
 <place> 工科系館                      41101 </place>
 <note></note>
-</AG>
-
-<AG id="050">
-<num>AG-050</num>
-<class></class>
-<group></group>
-<name> 公民與歷史(歷史與文化) </name>
-<teacher> 陳計堯  </teacher>
-<score> 2 </score>
-<time> [2]5~6  </time>
-<must> 必修 </must>
-<type> 公民與歷史 </type>
-<place> 軍訓館                        6021 </place>
-<note> 近代世界的形成（１６～２０）世紀  英語授課                               </note>
 </AG>
 
 </content>

@@ -77,7 +77,7 @@
 <class></class>
 <group></group>
 <name> 藥學生涯 </name>
-<teacher> 高雅慧   ,  黃金鼎  </teacher>
+<teacher> 林文亮   ,  高雅慧   ,  黃金鼎  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -110,7 +110,7 @@
 <time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        303D </place>
+<place> 醫學院                        307 </place>
 <note></note>
 </I8>
 
@@ -119,7 +119,7 @@
 <class></class>
 <group></group>
 <name> 生物化學（含分子生物學） </name>
-<teacher> 陳毓宏   ,  吳昭良   ,  莊偉哲*  ,  張文粲   ,  何月仁   ,  吳華林   ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲  </teacher>
+<teacher> 邱顯泰   ,  陳俊榮   ,  吳昭良   ,  莊偉哲*  ,  張文粲   ,  何月仁   ,  吳華林   ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲  </teacher>
 <score> 5 </score>
 <time> [1]2  ,  [3]1~2  ,  [5]1~2  </time>
 <must> 必修 </must>
@@ -133,13 +133,13 @@
 <class></class>
 <group></group>
 <name> 生物化學實驗 </name>
-<teacher> 陳毓宏   ,  吳昭良   ,  莊偉哲*  ,  張文粲   ,  何月仁   ,  吳華林   ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲  </teacher>
+<teacher> 黃柏憲  </teacher>
 <score> 1 </score>
 <time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 在醫學院三樓實驗室上課。                                                 </note>
+<note> 1.在醫學院三樓實驗室上課。 2.實際上課時間為週四5-8節。                   </note>
 </I8>
 
 <I8 id="055">
@@ -161,7 +161,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 戴淑華   ,  高雅慧   ,  高淑敏   ,  林嘉音  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -212,6 +212,38 @@
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
 <note></note>
+</I8>
+
+<I8 id="062">
+<num>I8-062</num>
+<class></class>
+<group></group>
+<name> 藥物化學專題研究（二） </name>
+<teacher> 洪欣儀  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</I8>
+
+<I8 id="063">
+<num>I8-063</num>
+<class></class>
+<group></group>
+<name> 醫學論文研究 </name>
+<teacher> 徐之昇   ,  歐凰姿  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
 </I8>
 
 </content>

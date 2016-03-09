@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<P1 id="010">
-<num>P1-010</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 船舶推進理論 </name>
-<teacher> 陳政宏  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56226 </place>
-<note> 英文授課                                                                 </note>
-</P1>
-
 <P1 id="012">
 <num>P1-012</num>
 <class> 碩博                           </class>
@@ -38,7 +24,7 @@
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 系統系館                      56226 </place>
+<place> 系統系館                      56661 </place>
 <note></note>
 </P1>
 
