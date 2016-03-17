@@ -161,7 +161,7 @@
 <name> 燃燒特論 </name>
 <teacher> 林大惠  </teacher>
 <score> 3 </score>
-<time> [4]1  ,  [3]1~2  </time>
+<time> [3]1~2  ,  [4]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>
@@ -307,7 +307,7 @@
 <name> 創意性機構設計 </name>
 <teacher> 顏鴻森  </teacher>
 <score> 3 </score>
-<time> [3]4  ,  [1]7~8  </time>
+<time> [1]7~8  ,  [3]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      象賢講堂 </place>
@@ -335,7 +335,7 @@
 <name> 最佳設計 </name>
 <teacher> 林啟倫  </teacher>
 <score> 3 </score>
-<time> [4]2~3  ,  [3]6  </time>
+<time> [3]6  ,  [4]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91202 </place>

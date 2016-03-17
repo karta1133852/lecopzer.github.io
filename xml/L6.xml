@@ -168,20 +168,6 @@
 <note> 生科所、熱植所合開                                                       </note>
 </L6>
 
-<L6 id="032">
-<num>L6-032</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 蛋白體學技術實驗 </name>
-<teacher> 陳宗嶽  </teacher>
-<score> 1 </score>
-<time> [5]7~8  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place> 資訊大樓                      75614 </place>
-<note></note>
-</L6>
-
 <L6 id="035">
 <num>L6-035</num>
 <class> 博二                           </class>
@@ -249,20 +235,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75802 </place>
-<note></note>
-</L6>
-
-<L6 id="048">
-<num>L6-048</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 動物疫苗學 </name>
-<teacher> 林翰佑  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75614 </place>
 <note></note>
 </L6>
 

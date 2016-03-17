@@ -168,20 +168,6 @@
 <note></note>
 </R4>
 
-<R4 id="013">
-<num>R4-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 跨領域創新與管理 </name>
-<teacher> 陳淑惠  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62422 </place>
-<note></note>
-</R4>
-
 <R4 id="014">
 <num>R4-014</num>
 <class> 碩博                           </class>
@@ -347,20 +333,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62457 </place>
-<note></note>
-</R4>
-
-<R4 id="309">
-<num>R4-309</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 社群與創新管理專題 </name>
-<teacher> 陳淑惠  </teacher>
-<score> 3 </score>
-<time> [2]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
 <note></note>
 </R4>
 

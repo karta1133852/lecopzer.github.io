@@ -133,7 +133,7 @@
 <name> 抽樣調查 </name>
 <teacher> 趙昌泰  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
+<time> [2]2  ,  [5]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62117 </place>
@@ -277,20 +277,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62121 </place>
-<note></note>
-</H2>
-
-<H2 id="152">
-<num>H2-152</num>
-<class></class>
-<group></group>
-<name> 統計實務 </name>
-<teacher> 楊明宗  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 統計系館                      62113 </place>
 <note></note>
 </H2>
 

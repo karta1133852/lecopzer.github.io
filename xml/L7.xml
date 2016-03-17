@@ -217,7 +217,7 @@
 <name> 材料光學 </name>
 <teacher> 陳昭宇  </teacher>
 <score> 3 </score>
-<time> [1]7  ,  [3]7~8  </time>
+<time> [3]7~8  ,  [1]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48422 </place>
@@ -347,20 +347,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48312 </place>
-<note> 限光電所學生                                                             </note>
-</L7>
-
-<L7 id="044">
-<num>L7-044</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 奈米製程專題（二） </name>
-<teacher> 林俊宏  </teacher>
-<score> 2 </score>
-<time> [1]2~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48422 </place>
 <note> 限光電所學生                                                             </note>
 </L7>
 

@@ -276,34 +276,6 @@
 <note></note>
 </E8>
 
-<E8 id="106">
-<num>E8-106</num>
-<class></class>
-<group></group>
-<name> 水資源工程（二） </name>
-<teacher> 周乃昉  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4625 </place>
-<note></note>
-</E8>
-
-<E8 id="107">
-<num>E8-107</num>
-<class></class>
-<group></group>
-<name> 海岸海洋工程（二） </name>
-<teacher> 李兆芳  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4678 </place>
-<note></note>
-</E8>
-
 <E8 id="108">
 <num>E8-108</num>
 <class></class>
@@ -311,10 +283,10 @@
 <name> 數值分析 </name>
 <teacher> 戴義欽  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4629 </place>
+<place> 資訊大樓                      75301 </place>
 <note></note>
 </E8>
 
@@ -368,34 +340,6 @@
 <teacher> 賴文基  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4627 </place>
-<note></note>
-</E8>
-
-<E8 id="155">
-<num>E8-155</num>
-<class></class>
-<group></group>
-<name> 海岸侵蝕與防禦 </name>
-<teacher> 許泰文   ,  莊士賢* </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4627 </place>
-<note></note>
-</E8>
-
-<E8 id="156">
-<num>E8-156</num>
-<class></class>
-<group></group>
-<name> 地下水 </name>
-<teacher> 顏沛華  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>

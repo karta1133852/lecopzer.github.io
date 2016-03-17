@@ -7,10 +7,10 @@
 <name> 發展心理病理學 </name>
 <teacher> 黃惠玲  </teacher>
 <score> 3 </score>
-<time> [4]5~7  </time>
+<time> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        205D </place>
+<place> 醫學院                        202D </place>
 <note> 限本所甲組。                                                             </note>
 </S8>
 
@@ -128,20 +128,6 @@
 <note></note>
 </S8>
 
-<S8 id="010">
-<num>S8-010</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 物質濫用專題（二） </name>
-<teacher> 游一龍*  ,  蕭雅心  </teacher>
-<score> 1 </score>
-<time> [5]1~2  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place></place>
-<note> 所會議室                                                                 </note>
-</S8>
-
 <S8 id="011">
 <num>S8-011</num>
 <class> 碩一                           </class>
@@ -161,7 +147,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 臨床心理衡鑑 </name>
-<teacher> 黃惠玲  </teacher>
+<teacher> 郭乃文   ,  黃惠玲*  ,  余睿羚  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -254,20 +240,6 @@
 <type> 講義 </type>
 <place></place>
 <note> 先修臨床心理病理學、臨床神經心理學                                       </note>
-</S8>
-
-<S8 id="019">
-<num>S8-019</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 論診斷分類（三） </name>
-<teacher> 陸汝斌  </teacher>
-<score> 2 </score>
-<time> [1]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課教室：12B病房會議室                                                  </note>
 </S8>
 
 <S8 id="020">

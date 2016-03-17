@@ -334,20 +334,6 @@
 <note></note>
 </E4>
 
-<E4 id="122">
-<num>E4-122</num>
-<class></class>
-<group> 2 </group>
-<name> 論文（一） </name>
-<teacher> 黃啟原  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
 <E4 id="123">
 <num>E4-123</num>
 <class></class>
@@ -382,20 +368,6 @@
 <group> 5 </group>
 <name> 論文（一） </name>
 <teacher> 吳毓純  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="126">
-<num>E4-126</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 李振誥  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>
@@ -446,54 +418,12 @@
 <note></note>
 </E4>
 
-<E4 id="130">
-<num>E4-130</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 郭明錦  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="131">
-<num>E4-131</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 黃紀嚴  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
 <E4 id="132">
 <num>E4-132</num>
 <class></class>
 <group></group>
 <name> 論文（一） </name>
 <teacher> 陳偉聖  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="133">
-<num>E4-133</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 陳家榮  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>
@@ -516,40 +446,12 @@
 <note></note>
 </E4>
 
-<E4 id="135">
-<num>E4-135</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 陸喬克  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
 <E4 id="137">
 <num>E4-137</num>
 <class></class>
 <group></group>
 <name> 論文（一） </name>
 <teacher> 王建力  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="138">
-<num>E4-138</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 施勵行  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>

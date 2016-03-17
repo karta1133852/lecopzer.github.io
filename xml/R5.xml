@@ -355,7 +355,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（二） </name>
-<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  胡大瀛   ,  張瀞之   ,  孫雅彥   ,  黃郁雯   ,  林佐鼎  </teacher>
+<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  張瀞之   ,  孫雅彥   ,  黃郁雯   ,  林佐鼎  </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -392,6 +392,20 @@
 <type> 講義 </type>
 <place> 交管系館                      62107 </place>
 <note> 選課須經本系登記審核通過                                                 </note>
+</R5>
+
+<R5 id="307">
+<num>R5-307</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 獨立研究（三） </name>
+<teacher> 孫雅彥  </teacher>
+<score> 1 </score>
+<time> [3]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62410 </place>
+<note></note>
 </R5>
 
 </content>

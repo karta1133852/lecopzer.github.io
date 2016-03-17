@@ -450,20 +450,6 @@
 <note></note>
 </C5>
 
-<C5 id="155">
-<num>C5-155</num>
-<class></class>
-<group></group>
-<name> 生命科學與諾貝爾獎 </name>
-<teacher> 陳虹樺*  ,  王浩文  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3425 </place>
-<note> 需先修:《普通生物學（一）》《普通生物學（二） /必修/4.0學分/60分以上     </note>
-</C5>
-
 <C5 id="156">
 <num>C5-156</num>
 <class></class>
@@ -489,20 +475,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>
-<note></note>
-</C5>
-
-<C5 id="158">
-<num>C5-158</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 未定  </teacher>
-<score> 1 </score>
-<time> [1]1  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 生科系館                      3425 </place>
 <note></note>
 </C5>
 

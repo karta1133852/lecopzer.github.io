@@ -105,10 +105,10 @@
 <name> 海洋工程 </name>
 <teacher> 李兆芳  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
+<place> 水利系館                      4678 </place>
 <note></note>
 </NA>
 
@@ -124,20 +124,6 @@
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
 <note></note>
-</NA>
-
-<NA id="010">
-<num>NA-010</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 國際公法 </name>
-<teacher> 陳怡凱  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note> 海事所與法律所合開。 法律所限碩丁組、原科法所選修。                      </note>
 </NA>
 
 <NA id="011">

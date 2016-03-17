@@ -559,7 +559,7 @@
 <name> 生物化學 </name>
 <teacher> 邱繼正  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [4]1  </time>
+<time> [4]1  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 化工系館                      93322 </place>
@@ -865,7 +865,7 @@
 <class></class>
 <group></group>
 <name> 論文（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 張鑑祥   ,  陳東煌   ,  吳季珍   ,  張嘉修   ,  李玉郎   ,  黃耀輝   ,  陳炳宏*  ,  莊怡哲   ,  陳美瑾   ,  吳意珣   ,  溫添進   ,  洪昭南  </teacher>
 <score> 1 </score>
 <time> 
   </time>

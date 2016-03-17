@@ -21,10 +21,10 @@
 <name> 專題討論（二） </name>
 <teacher> 戴義欽  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time> [2]8~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4644 </place>
 <note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
 </N8>
 
@@ -119,10 +119,10 @@
 <name> 專題討論（四） </name>
 <teacher> 戴義欽  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time> [2]8~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4644 </place>
 <note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
 </N8>
 
@@ -249,20 +249,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
-</N8>
-
-<N8 id="032">
-<num>N8-032</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 逕流模式解析 </name>
-<teacher> 徐義人  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4678 </place>
 <note></note>
 </N8>
 
@@ -427,10 +413,10 @@
 <name> 海洋工程 </name>
 <teacher> 李兆芳  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
+<place> 水利系館                      4678 </place>
 <note></note>
 </N8>
 
@@ -612,20 +598,6 @@
 <teacher> 林尉濤   ,  陳清田   ,  周乃昉* </teacher>
 <score> 2 </score>
 <time> [5]A~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note></note>
-</N8>
-
-<N8 id="313">
-<num>N8-313</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 水利及海洋工程綜論 </name>
-<teacher> 周乃昉  </teacher>
-<score> 2 </score>
-<time> [6]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>

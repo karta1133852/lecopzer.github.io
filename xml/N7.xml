@@ -400,6 +400,12 @@
 <type> 講義 </type>
 <place> 建築研究大樓                  5171 </place>
 <note> 以下為環控組課程                                                         </note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 室內環境品質模擬與解析（二） </name1>
+<time1> [1]7~8  </time1>
+<place1> 建築研究大樓                  5171 </place1>
+<note1></note1>
 </N7>
 
 <N7 id="091">
@@ -409,11 +415,17 @@
 <name> 建築環境控制系統特論 </name>
 <teacher> 蔡耀賢  </teacher>
 <score> 3 </score>
-<time> [4]5~7  </time>
+<time> [4]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5171 </place>
 <note></note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 建築環境控制系統特論 </name1>
+<time1> [4]6~7  </time1>
+<place1> 建築研究大樓                  5171 </place1>
+<note1></note1>
 </N7>
 
 <N7 id="092">

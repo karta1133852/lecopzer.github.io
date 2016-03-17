@@ -98,20 +98,6 @@
 <note> 生命所、與熱植所合班上課                                                 </note>
 </L5>
 
-<L5 id="011">
-<num>L5-011</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 族群遺傳學 </name>
-<teacher> 蔣鎮宇  </teacher>
-<score> 3 </score>
-<time> [5]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3413 </place>
-<note></note>
-</L5>
-
 <L5 id="012">
 <num>L5-012</num>
 <class> 碩博                           </class>
@@ -243,7 +229,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 細胞動力學 </name>
-<teacher> 曾淑芬   ,  王浩文   ,  何盧勳   ,  李純純*  ,  彭怡禎  </teacher>
+<teacher> 李介仁   ,  曾淑芬   ,  王浩文   ,  何盧勳   ,  李純純*  ,  彭怡禎   ,  邱文泰  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 選修 </must>
@@ -277,34 +263,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3414 </place>
-<note></note>
-</L5>
-
-<L5 id="054">
-<num>L5-054</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 植物逆境生物學 </name>
-<teacher> 張松彬   ,  郭瑋君* </teacher>
-<score> 2 </score>
-<time> [1]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      712 </place>
-<note> 生科所、與熱植所合班上課                                                 </note>
-</L5>
-
-<L5 id="057">
-<num>L5-057</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 視覺科學 </name>
-<teacher> 劉雅心*  ,  邱慈暉  </teacher>
-<score> 2 </score>
-<time> [3]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3413 </place>
 <note></note>
 </L5>
 

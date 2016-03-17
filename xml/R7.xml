@@ -301,7 +301,7 @@
 <name> 實體性人因工程 </name>
 <teacher> 林明毅  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]4  </time>
+<time> [1]5~6  ,  [3]6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61210 </place>
@@ -348,6 +348,20 @@
 <type> 講義 </type>
 <place> 工管系館                      61202 </place>
 <note></note>
+</R7>
+
+<R7 id="027">
+<num>R7-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 陳梁軒   ,  王泰裕   ,  李賢得   ,  謝中奇   ,  黃宇翔   ,  王惠嘉   ,  翁慈宗   ,  李昇暾*  ,  王逸琳   ,  張秀雲   ,  王維聰   ,  呂執中   ,  謝佩璇   ,  鄭詩瑜   ,  蔡青志   ,  林明毅   ,  張裕清   ,  劉任修   ,  林清河   ,  高　強   ,  利德江  </teacher>
+<score> 0 </score>
+<time> [4]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 工管系館                      61200 </place>
+<note> 工資所與資管所合班                                                       </note>
 </R7>
 
 </content>

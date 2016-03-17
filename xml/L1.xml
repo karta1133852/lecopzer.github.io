@@ -91,7 +91,7 @@
 <name> 數值分析（一） </name>
 <teacher> 侯世章  </teacher>
 <score> 3 </score>
-<time> [2]7~8  ,  [5]2  </time>
+<time> [5]2  ,  [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>
@@ -105,7 +105,7 @@
 <name> 分析通論（二） </name>
 <teacher> 連文璟  </teacher>
 <score> 3 </score>
-<time> [2]4  ,  [4]3~4  </time>
+<time> [4]3~4  ,  [2]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>
@@ -119,7 +119,7 @@
 <name> 代數通論（二） </name>
 <teacher> 林　牛  </teacher>
 <score> 3 </score>
-<time> [3]6~7  ,  [5]7  </time>
+<time> [5]7  ,  [3]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3176 </place>
@@ -161,7 +161,7 @@
 <name> 代數幾何（一） </name>
 <teacher> 章源慶  </teacher>
 <score> 3 </score>
-<time> [4]3~4  ,  [1]5  </time>
+<time> [1]5  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3176 </place>
@@ -343,7 +343,7 @@
 <name> 分析專題討論 </name>
 <teacher> 史習偉  </teacher>
 <score> 0 </score>
-<time> [3]9~A  </time>
+<time> [4]9~A  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 數學系館                      研討室一 </place>
