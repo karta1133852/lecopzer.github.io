@@ -1,4 +1,4 @@
-# [NCKUClassWeb](http://nckuclass.5gb.co/)
+# [NCKUClassWeb](http://lecopzer.github.io/)
 
 The NCKU Class is a website which the main function is virtual timetable for NCKU students.
 
