@@ -1,62 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<F1 id="005">
-<num>F1-005</num>
+<F1 id="010">
+<num>F1-010</num>
 <class></class>
 <group></group>
-<name> 系統及船舶機電概論 </name>
-<teacher> 陳政宏   ,  沈聖智* </teacher>
-<score> 2 </score>
-<time> [1]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56111 </place>
-<note></note>
-</F1>
-
-<F1 id="009">
-<num>F1-009</num>
-<class></class>
-<group></group>
-<name> 微積分（二） </name>
-<teacher> 蕭仁傑  </teacher>
+<name> 微積分（一） </name>
+<teacher> 舒宇宸  </teacher>
 <score> 3 </score>
 <time> [2]5~6  ,  [5]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      俊銘講堂 </place>
-<note></note>
+<place> 共同教室                      成功共同微積分 </place>
+<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（二） </name1>
+<name1> 微積分（一） </name1>
 <time1> [5]8  </time1>
 <place1> 系統系館                      56226 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（二） </name2>
+<name2> 微積分（一） </name2>
 <time2> [5]8  </time2>
 <place2> 工科系館                      41101 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（二） </name3>
+<name3> 微積分（一） </name3>
 <time3> [5]8  </time3>
 <place3> 系統系館                      56111 </place3>
 <note3></note3>
 <class4></class4>
 <group4> D </group4>
-<name4> 微積分（二） </name4>
+<name4> 微積分（一） </name4>
 <time4> [5]8  </time4>
 <place4> 工科系館                      41102 </place4>
 <note4></note4>
 </F1>
 
-<F1 id="010">
-<num>F1-010</num>
+<F1 id="011">
+<num>F1-011</num>
 <class></class>
 <group></group>
-<name> 普通物理學（二） </name>
+<name> 普通物理學（一） </name>
 <teacher> 張烈錚  </teacher>
 <score> 3 </score>
 <time> [1]8  ,  [4]5~6  </time>
@@ -66,31 +52,31 @@
 <note></note>
 </F1>
 
-<F1 id="011">
-<num>F1-011</num>
+<F1 id="012">
+<num>F1-012</num>
 <class></class>
 <group></group>
-<name> 普通物理學實驗（二） </name>
+<name> 普通物理學實驗（一） </name>
 <teacher> 張烈錚  </teacher>
 <score> 1 </score>
 <time> [4]1~3  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 理化大樓二樓                                                             </note>
+<note> 理化大樓２Ｆ普物實驗室 </note>
 </F1>
 
-<F1 id="012">
-<num>F1-012</num>
+<F1 id="014">
+<num>F1-014</num>
 <class></class>
 <group></group>
-<name> 應用力學（一） </name>
-<teacher> 林忠宏  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
+<name> 體育（一） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 系統系館                      56111 </place>
+<place> 無                            體育室前 </place>
 <note></note>
 </F1>
 
@@ -98,24 +84,44 @@
 <num>F1-016</num>
 <class></class>
 <group></group>
-<name> 服務學習（二） </name>
+<name> 服務學習（一） </name>
 <teacher> 涂季平  </teacher>
 <score> 0 </score>
-<time> [1]7  </time>
+<time> [1]3  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 系統系館                      56111 </place>
 <note></note>
 </F1>
 
-<F1 id="019">
-<num>F1-019</num>
+<F1 id="017">
+<num>F1-017</num>
 <class></class>
 <group></group>
-<name> C++程式語言設計 </name>
-<teacher> 李坤洲  </teacher>
+<name> 工程圖學 </name>
+<teacher> 林宇銜  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56111 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 工程圖學 </name1>
+<time1> [1]5~6  </time1>
+<place1></place1>
+<note1> 5F 電腦教室(503) </note1>
+</F1>
+
+<F1 id="018">
+<num>F1-018</num>
+<class></class>
+<group></group>
+<name> 計算機程式設計 </name>
+<teacher> 吳鴻文  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>
@@ -126,64 +132,78 @@
 <num>F1-051</num>
 <class></class>
 <group></group>
-<name> 材料力學 </name>
-<teacher> 趙儒民  </teacher>
+<name> 服務學習（三） </name>
+<teacher> 涂季平  </teacher>
+<score> 0 </score>
+<time> [1]2  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 系統系館                      56113 </place>
+<note></note>
+</F1>
+
+<F1 id="052">
+<num>F1-052</num>
+<class></class>
+<group></group>
+<name> 應用力學（二） </name>
+<teacher> 涂季平  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
 <note></note>
 </F1>
 
-<F1 id="055">
-<num>F1-055</num>
+<F1 id="053">
+<num>F1-053</num>
 <class></class>
 <group></group>
-<name> 工程數學（二） </name>
-<teacher> 李子宜  </teacher>
+<name> 工程數學（一） </name>
+<teacher> 林宇銜  </teacher>
 <score> 3 </score>
-<time> [5]7~9  </time>
+<time> [1]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
 <note></note>
 </F1>
 
-<F1 id="061">
-<num>F1-061</num>
+<F1 id="056">
+<num>F1-056</num>
 <class></class>
 <group></group>
-<name> 流體力學（一） </name>
-<teacher> 邵揮洲  </teacher>
+<name> 熱力學（一） </name>
+<teacher> 陳政宏  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
 <note></note>
 </F1>
 
-<F1 id="067">
-<num>F1-067</num>
+<F1 id="073">
+<num>F1-073</num>
 <class></class>
 <group></group>
-<name> 數值分析 </name>
-<teacher> 陳長鈕  </teacher>
+<name> 電子學（一） </name>
+<teacher> 沈聖智  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
-<must> 選修 </must>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
 <note></note>
 </F1>
 
-<F1 id="069">
-<num>F1-069</num>
+<F1 id="074">
+<num>F1-074</num>
 <class></class>
 <group></group>
-<name> 自動控制 </name>
-<teacher> 黃正能  </teacher>
+<name> 電路學 </name>
+<teacher> 謝旻甫  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -192,157 +212,279 @@
 <note></note>
 </F1>
 
-<F1 id="107">
-<num>F1-107</num>
+<F1 id="104">
+<num>F1-104</num>
 <class></class>
 <group></group>
-<name> 造機設計原理 </name>
-<teacher> 吳鴻文  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56222 </place>
-<note></note>
-</F1>
-
-<F1 id="114">
-<num>F1-114</num>
-<class></class>
-<group></group>
-<name> 高等材料力學 </name>
-<teacher> 陳長鈕  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56222 </place>
-<note></note>
-</F1>
-
-<F1 id="132">
-<num>F1-132</num>
-<class></class>
-<group></group>
-<name> 船舶阻力與推進 </name>
-<teacher> 林宇銜  </teacher>
+<name> 流體力學（二） </name>
+<teacher> 邵揮洲  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56222 </place>
-<note> 船舶科技組選修                                                           </note>
-</F1>
-
-<F1 id="133">
-<num>F1-133</num>
-<class></class>
-<group></group>
-<name> 船舶輔機 </name>
-<teacher> 黃正弘  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56222 </place>
-<note> 船舶科技組選修                                                           </note>
-</F1>
-
-<F1 id="134">
-<num>F1-134</num>
-<class></class>
-<group></group>
-<name> 系統設計理論 </name>
-<teacher> 陳永裕  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56113 </place>
 <note></note>
 </F1>
 
-<F1 id="136">
-<num>F1-136</num>
+<F1 id="115">
+<num>F1-115</num>
 <class></class>
 <group></group>
-<name> 綜合實驗 </name>
-<teacher> 趙儒民   ,  陳政宏   ,  沈聖智* </teacher>
+<name> 振動力學 </name>
+<teacher> 涂季平  </teacher>
 <score> 3 </score>
-<time> [5]5~8  </time>
-<must> 必修 </must>
-<type> 實習 </type>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
 <place> 系統系館                      56222 </place>
-<note> 系館實驗室                                                               </note>
+<note></note>
+</F1>
+
+<F1 id="124">
+<num>F1-124</num>
+<class></class>
+<group></group>
+<name> 論文（一） </name>
+<teacher> 沈聖智  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</F1>
+
+<F1 id="127">
+<num>F1-127</num>
+<class></class>
+<group></group>
+<name> 船舶結構學 </name>
+<teacher> 楊澤民  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56222 </place>
+<note> 船舶組專業選修 </note>
+</F1>
+
+<F1 id="128">
+<num>F1-128</num>
+<class></class>
+<group></group>
+<name> 船舶靜力學 </name>
+<teacher> 林忠宏  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56222 </place>
+<note> 船舶組專業選修 </note>
+</F1>
+
+<F1 id="129">
+<num>F1-129</num>
+<class></class>
+<group></group>
+<name> 機械設計 </name>
+<teacher> 林忠宏  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56222 </place>
+<note></note>
+</F1>
+
+<F1 id="137">
+<num>F1-137</num>
+<class></class>
+<group></group>
+<name> 工程量測與虛擬儀表設計 </name>
+<teacher> 趙儒民  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56222 </place>
+<note> 機電組專業選修 </note>
+</F1>
+
+<F1 id="138">
+<num>F1-138</num>
+<class></class>
+<group></group>
+<name> 電腦輔助設計與製造 </name>
+<teacher> 沈聖智  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 5F電腦教室(503) </note>
+</F1>
+
+<F1 id="140">
+<num>F1-140</num>
+<class></class>
+<group></group>
+<name> 微電腦控制 </name>
+<teacher> 謝旻甫  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56224 </place>
+<note> 機電組專業選修 </note>
 </F1>
 
 <F1 id="142">
 <num>F1-142</num>
 <class></class>
 <group></group>
-<name> 電力系統 </name>
-<teacher> 李建興  </teacher>
+<name> 校外實習 </name>
+<teacher> 陳政宏  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</F1>
+
+<F1 id="143">
+<num>F1-143</num>
+<class></class>
+<group></group>
+<name> 系統工程分析 </name>
+<teacher> 陳永裕  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [4]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56111 </place>
+<note></note>
+</F1>
+
+<F1 id="145">
+<num>F1-145</num>
+<class></class>
+<group></group>
+<name> 電腦輔助船舶設計 </name>
+<teacher> 李子宜  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56222 </place>
+<note></note>
+</F1>
+
+<F1 id="174">
+<num>F1-174</num>
+<class></class>
+<group></group>
+<name> 微機電系統概論 </name>
+<teacher> 趙儒民  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56226 </place>
-<note> 機電控制組選修                                                           </note>
+<note> 機電組專業選修 </note>
 </F1>
 
-<F1 id="147">
-<num>F1-147</num>
+<F1 id="175">
+<num>F1-175</num>
 <class></class>
 <group></group>
-<name> 機電創新實作（一） </name>
-<teacher> 陳嘉元*  ,  王明習   ,  陳永裕   ,  賴維祥   ,  葉明龍  </teacher>
+<name> 有限元素法 </name>
+<teacher> 陳長鈕  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56226 </place>
+<note></note>
+</F1>
+
+<F1 id="176">
+<num>F1-176</num>
+<class></class>
+<group></group>
+<name> 機電創新實作（二） </name>
+<teacher> 陳嘉元*  ,  王明習   ,  陳永裕   ,  賴維祥   ,  郭榮富  </teacher>
 <score> 2 </score>
 <time> [5]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91X08 </place>
-<note> 第一階段不開放選課                                                       </note>
+<note> 工學院主開課程，第一階段不受理選課 </note>
 <class1></class1>
 <group1></group1>
-<name1> 機電創新實作（一） </name1>
+<name1> 機電創新實作（二） </name1>
 <time1> [5]6~7  </time1>
 <place1> 機械系館                      91X08 </place1>
-<note1></note1>
+<note1> 工學院主開課程，第一階段不受理選課 </note1>
 </F1>
 
-<F1 id="162">
-<num>F1-162</num>
+<F1 id="178">
+<num>F1-178</num>
 <class></class>
 <group></group>
-<name> 工程統計學 </name>
-<teacher> 陸磐安  </teacher>
+<name> 線性系統分析 </name>
+<teacher> 黃正能  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56224 </place>
-<note></note>
+<note> 機電組專業選修 </note>
 </F1>
 
-<F1 id="168">
-<num>F1-168</num>
+<F1 id="181">
+<num>F1-181</num>
 <class></class>
 <group></group>
-<name> 資訊與通訊概論 </name>
-<teacher> 李坤洲  </teacher>
+<name> 船舶實驗設計原理 </name>
+<teacher> 林忠宏   ,  陳政宏*  ,  吳鴻文  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [5]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 限修過船舶組專業選修課2門以上 </note>
+<class1></class1>
+<group1></group1>
+<name1> 船舶實驗設計原理 </name1>
+<time1> [5]3~4  </time1>
+<place1></place1>
+<note1> 系館實驗室 </note1>
+</F1>
+
+<F1 id="182">
+<num>F1-182</num>
+<class></class>
+<group></group>
+<name> 船舶設計基礎 </name>
+<teacher> 邵揮洲  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56224 </place>
-<note> 機電控制組選修                                                           </note>
+<note> 船舶組專業選修 </note>
 </F1>
 
 <F1 id="183">
 <num>F1-183</num>
 <class></class>
 <group></group>
-<name> 船舶與機電設計實務（二） </name>
+<name> 船舶與機電設計實務（一） </name>
 <teacher> 陳政宏   ,  陳永裕* </teacher>
 <score> 3 </score>
 <time> 
@@ -352,6 +494,20 @@
 <place></place>
 <note> 
  </note>
+</F1>
+
+<F1 id="185">
+<num>F1-185</num>
+<class></class>
+<group></group>
+<name> 船舶耐海與操控 </name>
+<teacher> 方銘川  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56224 </place>
+<note> 船舶組專業選修 </note>
 </F1>
 
 </content>

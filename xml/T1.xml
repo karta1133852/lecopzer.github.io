@@ -1,11 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<T1 id="006">
-<num>T1-006</num>
+<T1 id="004">
+<num>T1-004</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 陳立宗   ,  孫孝芳* </teacher>
+<name> 專題討論（一） </name>
+<teacher> 張玲*  ,  朱俊憲  </teacher>
+<score> 1 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</T1>
+
+<T1 id="009">
+<num>T1-009</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 張玲*  ,  朱俊憲  </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
@@ -16,79 +30,79 @@
 
 <T1 id="010">
 <num>T1-010</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（四） </name>
-<teacher> 陳立宗   ,  孫孝芳* </teacher>
-<score> 1 </score>
-<time> [4]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        601 </place>
-<note></note>
-</T1>
-
-<T1 id="012">
-<num>T1-012</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 血管新生學 </name>
-<teacher> 周楠華   ,  張俊彥   ,  羅傳堯   ,  鄭宏祺   ,  張雅雯   ,  林銘德   ,  沈延盛   ,  吳梨華*  ,  吳佳慶  </teacher>
-<score> 2 </score>
-<time> [5]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        601 </place>
-<note> 分醫所、基醫所、口醫所合班                                               </note>
-</T1>
-
-<T1 id="015">
-<num>T1-015</num>
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳立宗   ,  孫孝芳* </teacher>
+<teacher> 張玲*  ,  朱俊憲  </teacher>
 <score> 0 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        601 </place>
-<note> 供延畢生修                                                               </note>
+<note> 供碩三以上研究生選課 </note>
 </T1>
 
-<T1 id="019">
-<num>T1-019</num>
+<T1 id="016">
+<num>T1-016</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 癌症分子病理學 </name>
-<teacher> 黃溫雅   ,  呂政展   ,  李政昌   ,  何中良*  ,  蘇五洲   ,  周楠華   ,  賴明德   ,  沈孟儒   ,  謝達斌  </teacher>
+<name> 細胞凋亡的分子機轉 </name>
+<teacher> 陳昌熙   ,  張志鵬   ,  吳梨華   ,  蔣輯武*  ,  張南山  </teacher>
 <score> 2 </score>
-<time> [3]8~9  </time>
+<time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        602 </place>
-<note> 基醫所，分醫所合班                                                       </note>
+<place> 醫學院                        303D </place>
+<note></note>
+</T1>
+
+<T1 id="017">
+<num>T1-017</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 微生物致病機轉 </name>
+<teacher> 楊孔嘉   ,  王貞仁* </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 醫技、分醫、基醫合班 </note>
 </T1>
 
 <T1 id="020">
 <num>T1-020</num>
-<class> 碩一二                         </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 癌症醫學 </name>
-<teacher> 賴吾為   ,  陳彩雲   ,  辛致煒   ,  李政昌   ,  陳海雯   ,  蘇五洲   ,  周楠華   ,  姚維仁   ,  顏家瑞   ,  廖寶琦   ,  張南山*  ,  陳玉玲  </teacher>
+<name> 傳染性疾病與微生物研究導論 </name>
+<teacher> 柯文謙   ,  許博翔   ,  張定宗   ,  張家銘   ,  李南瑤   ,  王世敏   ,  王憲威   ,  鄧景浩*  ,  橋本昌征  </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        601 </place>
-<note> 基醫所，分醫所合班                                                       </note>
+<place> 醫學院                        302D </place>
+<note></note>
 </T1>
 
 <T1 id="021">
 <num>T1-021</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 分子醫學特論（二） </name>
+<name> 研究導論 </name>
+<teacher> 巴磊立   ,  吳梨華   ,  蔣輯武*  ,  王憲威   ,  鄧景浩   ,  張玲   ,  張南山  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統一健康大樓                  T1B003 </place>
+<note> 統一健康大樓B1第 2會議室，分醫與基醫所合班，英語授課 </note>
+</T1>
+
+<T1 id="022">
+<num>T1-022</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 分子醫學特論（一） </name>
 <teacher> 孫孝芳   ,  王憲威*  ,  鄧景浩   ,  張玲   ,  橋本昌征  </teacher>
 <score> 2 </score>
 <time> [2]9~A  </time>
@@ -98,31 +112,59 @@
 <note></note>
 </T1>
 
-<T1 id="023">
-<num>T1-023</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 老化研究特論 </name>
-<teacher> 郭保麟   ,  陳昌熙   ,  莊季瑛   ,  吳梨華   ,  蔣輯武*  ,  張玲   ,  張南山   ,  郭余民  </teacher>
-<score> 2 </score>
-<time> [5]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        303D </place>
-<note> 基醫所、分醫所、生化所合班上課                                           </note>
-</T1>
-
 <T1 id="024">
 <num>T1-024</num>
-<class> 碩博                           </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 遺傳學特論（二） </name>
+<name> 生物資訊 </name>
+<teacher> 陳淑慧   ,  劉宗霖   ,  王育民   ,  曾大千   ,  蔡少正   ,  孫孝芳* </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        醫圖電腦教室 </place>
+<note></note>
+</T1>
+
+<T1 id="025">
+<num>T1-025</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 遺傳學特論（一） </name>
 <teacher> 孫孝芳* </teacher>
 <score> 2 </score>
 <time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統一健康大樓                  T1B003 </place>
+<note></note>
+</T1>
+
+<T1 id="030">
+<num>T1-030</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高等分子生物學 </name>
+<teacher> 楊孔嘉   ,  張權發   ,  黃溫雅   ,  傅子芳   ,  余佳益   ,  呂政展   ,  張文粲   ,  鄭宏祺   ,  陳昌熙   ,  凌　斌   ,  王淑鶯   ,  蔣輯武   ,  王憲威   ,  鄧景浩   ,  張玲   ,  張南山*  ,  吳佳慶   ,  王仰高  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 生化、微免、分醫所、醫技合班上課(303D) </note>
+</T1>
+
+<T1 id="031">
+<num>T1-031</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高等細胞生物學 </name>
+<teacher> 張文粲   ,  陳昌熙   ,  陳韻雯   ,  張雅雯   ,  吳梨華*  ,  蔣輯武   ,  王憲威   ,  鄧景浩   ,  張玲  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
 <note></note>
 </T1>
 

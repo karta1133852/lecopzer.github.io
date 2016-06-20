@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<C4 id="004">
-<num>C4-004</num>
+<C4 id="005">
+<num>C4-005</num>
 <class></class>
 <group></group>
-<name> 地球科學概論（二） </name>
-<teacher> 龔慧貞   ,  林冠瑋  </teacher>
+<name> 地球科學概論（一） </name>
+<teacher> 游鎮烽*  ,  林建宏  </teacher>
 <score> 3 </score>
 <time> [4]3~4  ,  [5]2  </time>
 <must> 必修 </must>
@@ -14,12 +14,12 @@
 <note></note>
 </C4>
 
-<C4 id="005">
-<num>C4-005</num>
+<C4 id="006">
+<num>C4-006</num>
 <class></class>
 <group></group>
-<name> 地球科學概論實習（二） </name>
-<teacher> 龔慧貞   ,  林冠瑋  </teacher>
+<name> 地球科學概論實習（一） </name>
+<teacher> 游鎮烽*  ,  林建宏  </teacher>
 <score> 1 </score>
 <time> [3]2~4  </time>
 <must> 必修 </must>
@@ -28,40 +28,40 @@
 <note></note>
 </C4>
 
-<C4 id="006">
-<num>C4-006</num>
+<C4 id="007">
+<num>C4-007</num>
 <class></class>
 <group></group>
-<name> 普通物理學（二） </name>
+<name> 普通物理學（一） </name>
 <teacher> 楊毅  </teacher>
 <score> 3 </score>
 <time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 物理二館                      49X06 </place>
+<place> 物理二館                      49312 </place>
 <note></note>
-</C4>
-
-<C4 id="007">
-<num>C4-007</num>
-<class></class>
-<group></group>
-<name> 普通物理學實驗（二） </name>
-<teacher> 楊毅  </teacher>
-<score> 1 </score>
-<time> [5]5~7  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 理化大樓二樓                                                             </note>
 </C4>
 
 <C4 id="008">
 <num>C4-008</num>
 <class></class>
 <group></group>
-<name> 普通化學（二） </name>
-<teacher> 黃福永*  ,  蔡惠蓮   ,  林弘萍  </teacher>
+<name> 普通物理學實驗（一） </name>
+<teacher> 楊毅  </teacher>
+<score> 1 </score>
+<time> [5]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 理化大樓二樓 </note>
+</C4>
+
+<C4 id="009">
+<num>C4-009</num>
+<class></class>
+<group></group>
+<name> 普通化學（一） </name>
+<teacher> 黃福永   ,  林弘萍* </teacher>
 <score> 3 </score>
 <time> [2]1~2  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -70,64 +70,78 @@
 <note></note>
 </C4>
 
-<C4 id="009">
-<num>C4-009</num>
+<C4 id="011">
+<num>C4-011</num>
 <class></class>
 <group></group>
-<name> 普通化學實驗（二） </name>
-<teacher> 邱顯泰  </teacher>
+<name> 普通化學實驗（一） </name>
+<teacher> 李介仁  </teacher>
 <score> 1 </score>
 <time> [4]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 理化大樓                      35122 </place>
-<note> 理化大樓一樓                                                             </note>
-</C4>
-
-<C4 id="010">
-<num>C4-010</num>
-<class></class>
-<group></group>
-<name> 微積分（二） </name>
-<teacher> 劉育佑  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 電機系館                      迅慧講堂 </place>
-<note></note>
-<class1></class1>
-<group1> A </group1>
-<name1> 微積分（二） </name1>
-<time1> [3]5  </time1>
-<place1> 地科系館                      3031 </place1>
-<note1></note1>
-<class2></class2>
-<group2> B </group2>
-<name2> 微積分（二） </name2>
-<time2> [3]5  </time2>
-<place2> 地科系館                      研討室一 </place2>
-<note2></note2>
-<class3></class3>
-<group3> C </group3>
-<name3> 微積分（二） </name3>
-<time3> [3]5  </time3>
-<place3> 化學系館                      3274 </place3>
-<note3></note3>
-<class4></class4>
-<group4> D </group4>
-<name4> 微積分（二） </name4>
-<time4> [3]5  </time4>
-<place4> 化學系館                      3268 </place4>
-<note4></note4>
+<note> 理化大樓一樓 </note>
 </C4>
 
 <C4 id="012">
 <num>C4-012</num>
 <class></class>
 <group></group>
-<name> 服務學習（二） </name>
-<teacher> 饒瑞鈞  </teacher>
+<name> 微積分（一） </name>
+<teacher> 江孟蓉  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（一） </name1>
+<time1> [3]5  </time1>
+<place1> 地科系館                      3031 </place1>
+<note1> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（一） </name2>
+<time2> [3]5  </time2>
+<place2> 地科系館                      研討室一 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（一） </name3>
+<time3> [3]5  </time3>
+<place3> 化學系館                      3274 </place3>
+<note3></note3>
+<class4></class4>
+<group4> D </group4>
+<name4> 微積分（一） </name4>
+<time4> [3]5  </time4>
+<place4> 化學系館                      3268 </place4>
+<note4></note4>
+</C4>
+
+<C4 id="013">
+<num>C4-013</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            體育室前 </place>
+<note></note>
+</C4>
+
+<C4 id="014">
+<num>C4-014</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 楊耿明  </teacher>
 <score> 0 </score>
 <time> [4]8  </time>
 <must> 必修 </must>
@@ -136,70 +150,56 @@
 <note></note>
 </C4>
 
-<C4 id="051">
-<num>C4-051</num>
+<C4 id="055">
+<num>C4-055</num>
 <class></class>
 <group></group>
-<name> 岩石學 </name>
-<teacher> 楊懷仁   ,  龔慧貞  </teacher>
+<name> 礦物學 </name>
+<teacher> 江威德  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3017 </place>
+<note></note>
+</C4>
+
+<C4 id="056">
+<num>C4-056</num>
+<class></class>
+<group></group>
+<name> 礦物學實習 </name>
+<teacher> 江威德  </teacher>
+<score> 1 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 地科系館                      3017 </place>
+<note></note>
+</C4>
+
+<C4 id="057">
+<num>C4-057</num>
+<class></class>
+<group></group>
+<name> 地史學 </name>
+<teacher> 梁碧清*  ,  林冠瑋  </teacher>
 <score> 3 </score>
 <time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3035 </place>
+<place> 地科系館                      3017 </place>
 <note></note>
 </C4>
 
-<C4 id="052">
-<num>C4-052</num>
+<C4 id="058">
+<num>C4-058</num>
 <class></class>
 <group></group>
-<name> 岩石學實習 </name>
-<teacher> 楊懷仁  </teacher>
+<name> 地史學實習 </name>
+<teacher> 梁碧清*  ,  林冠瑋  </teacher>
 <score> 1 </score>
 <time> [4]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 地科系館                      3017 </place>
-<note></note>
-</C4>
-
-<C4 id="053">
-<num>C4-053</num>
-<class></class>
-<group></group>
-<name> 岩石學實習 </name>
-<teacher> 楊懷仁  </teacher>
-<score> 1 </score>
-<time> [3]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 地科系館                      3017 </place>
-<note></note>
-</C4>
-
-<C4 id="059">
-<num>C4-059</num>
-<class></class>
-<group></group>
-<name> 構造地質學 </name>
-<teacher> 林慶偉  </teacher>
-<score> 2 </score>
-<time> [1]2~3  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3017 </place>
-<note></note>
-</C4>
-
-<C4 id="060">
-<num>C4-060</num>
-<class></class>
-<group></group>
-<name> 構造地質學實習 </name>
-<teacher> 林慶偉  </teacher>
-<score> 1 </score>
-<time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 地科系館                      3017 </place>
@@ -210,13 +210,13 @@
 <num>C4-061</num>
 <class></class>
 <group></group>
-<name> 礦物學（二） </name>
-<teacher> 江威德  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
+<name> 工程力學 </name>
+<teacher> 王榮泰  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3017 </place>
+<place> 地科系館                      研討室一 </place>
 <note></note>
 </C4>
 
@@ -224,13 +224,13 @@
 <num>C4-062</num>
 <class></class>
 <group></group>
-<name> 礦物學實習（二） </name>
-<teacher> 江威德  </teacher>
-<score> 1 </score>
-<time> [1]N~6  </time>
+<name> 地質資料分析 </name>
+<teacher> 吳銘志  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
-<type> 實習 </type>
-<place> 地科系館                      3017 </place>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
 <note></note>
 </C4>
 
@@ -238,22 +238,120 @@
 <num>C4-063</num>
 <class></class>
 <group></group>
-<name> 衛星遙測概論 </name>
-<teacher> 劉正千  </teacher>
+<name> 工程數學（一） </name>
+<teacher> 林建宏  </teacher>
 <score> 3 </score>
-<time> [4]3~4  ,  [2]1  </time>
+<time> [5]3~4  ,  [2]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50308 </place>
-<note> 都計系與地科系合班，於都計系教室上課。                                   </note>
+<place> 地科系館                      3017 </place>
+<note></note>
 </C4>
 
 <C4 id="064">
 <num>C4-064</num>
 <class></class>
 <group></group>
-<name> 地形學 </name>
+<name> 井測學 </name>
+<teacher> 呂明達  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note></note>
+</C4>
+
+<C4 id="065">
+<num>C4-065</num>
+<class></class>
+<group></group>
+<name> 大氣與太空測計 </name>
+<teacher> 陳佳宏  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note></note>
+</C4>
+
+<C4 id="101">
+<num>C4-101</num>
+<class></class>
+<group></group>
+<name> 野外地質學 </name>
+<teacher> 林冠瑋  </teacher>
+<score> 2 </score>
+<time> [2]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</C4>
+
+<C4 id="105">
+<num>C4-105</num>
+<class></class>
+<group></group>
+<name> 地球科學應用於博物館科普教學及展示導覽服 </name>
 <teacher> 吳銘志  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</C4>
+
+<C4 id="106">
+<num>C4-106</num>
+<class></class>
+<group></group>
+<name> 工業礦物學 </name>
+<teacher> 陳燕華  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</C4>
+
+<C4 id="107">
+<num>C4-107</num>
+<class></class>
+<group></group>
+<name> 海洋學 </name>
+<teacher> 游鎮烽  </teacher>
+<score> 3 </score>
+<time> [3]5~6  ,  [5]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</C4>
+
+<C4 id="108">
+<num>C4-108</num>
+<class></class>
+<group></group>
+<name> 地震地體構造 </name>
+<teacher> 饒瑞鈞  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3017 </place>
+<note></note>
+</C4>
+
+<C4 id="109">
+<num>C4-109</num>
+<class></class>
+<group></group>
+<name> 構造地質學（二） </name>
+<teacher> 林慶偉  </teacher>
 <score> 2 </score>
 <time> [3]1~2  </time>
 <must> 選修 </must>
@@ -262,27 +360,97 @@
 <note></note>
 </C4>
 
-<C4 id="065">
-<num>C4-065</num>
+<C4 id="110">
+<num>C4-110</num>
 <class></class>
 <group></group>
-<name> 太空天氣（一） </name>
-<teacher> 林建宏  </teacher>
+<name> 構造地質學實習（二） </name>
+<teacher> 林慶偉  </teacher>
+<score> 1 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 地科系館                      3017 </place>
+<note></note>
+</C4>
+
+<C4 id="111">
+<num>C4-111</num>
+<class></class>
+<group></group>
+<name> 地球物理資料處理與統計 </name>
+<teacher> 樂鍇．祿璞  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note></note>
+</C4>
+
+<C4 id="112">
+<num>C4-112</num>
+<class></class>
+<group></group>
+<name> 氣象學 </name>
+<teacher> 宋偉國  </teacher>
+<score> 3 </score>
+<time> [5]3~N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</C4>
+
+<C4 id="113">
+<num>C4-113</num>
+<class></class>
+<group></group>
+<name> 空間資訊系統導論 </name>
+<teacher> 劉正千  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</C4>
+
+<C4 id="114">
+<num>C4-114</num>
+<class></class>
+<group></group>
+<name> 古生物學 </name>
+<teacher> 梁碧清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3017 </place>
 <note></note>
 </C4>
 
-<C4 id="101">
-<num>C4-101</num>
+<C4 id="115">
+<num>C4-115</num>
 <class></class>
 <group></group>
-<name> 野外地質訓練(一) </name>
-<teacher> 林冠瑋*  ,  李恩瑞  </teacher>
+<name> 板塊地質學 </name>
+<teacher> 袁彼得  </teacher>
 <score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note></note>
+</C4>
+
+<C4 id="152">
+<num>C4-152</num>
+<class></class>
+<group></group>
+<name> 野外地質訓練(二) </name>
+<teacher> 林冠瑋*  ,  李恩瑞  </teacher>
+<score> 2 </score>
 <time> 
   </time>
 <must> 必修 </must>
@@ -292,87 +460,17 @@
  </note>
 </C4>
 
-<C4 id="111">
-<num>C4-111</num>
+<C4 id="160">
+<num>C4-160</num>
 <class></class>
 <group></group>
-<name> 晶相儀器分析原理與應用 </name>
-<teacher> 江威德   ,  楊懷仁   ,  龔慧貞   ,  陳燕華  </teacher>
-<score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3035 </place>
-<note></note>
-</C4>
-
-<C4 id="112">
-<num>C4-112</num>
-<class></class>
-<group></group>
-<name> 寶石礦物學 </name>
-<teacher> 陳燕華  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3017 </place>
-<note></note>
-</C4>
-
-<C4 id="113">
-<num>C4-113</num>
-<class></class>
-<group></group>
-<name> 地球化學 </name>
+<name> 論文（一） </name>
 <teacher> 游鎮烽  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<score> 1 </score>
+<time> [1]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3031 </place>
-<note></note>
-</C4>
-
-<C4 id="114">
-<num>C4-114</num>
-<class></class>
-<group></group>
-<name> 地球物理學概論 </name>
-<teacher> 李恩瑞  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3035 </place>
-<note></note>
-</C4>
-
-<C4 id="115">
-<num>C4-115</num>
-<class></class>
-<group></group>
-<name> 天氣學 </name>
-<teacher> 宋偉國  </teacher>
-<score> 3 </score>
-<time> [4]3~N  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3035 </place>
-<note></note>
-</C4>
-
-<C4 id="116">
-<num>C4-116</num>
-<class></class>
-<group></group>
-<name> 大氣資料處理、分析與展示 </name>
-<teacher> 陳佳宏  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3035 </place>
+<place> 地科系館                      3036 </place>
 <note></note>
 </C4>
 
@@ -380,13 +478,13 @@
 <num>C4-161</num>
 <class></class>
 <group></group>
-<name> 論文（二） </name>
-<teacher> 游鎮烽*  ,  饒瑞鈞  </teacher>
-<score> 1 </score>
-<time> [2]N  </time>
+<name> 臺灣地質專論 </name>
+<teacher> 饒瑞鈞*  ,  楊耿明  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3036 </place>
+<place> 地科系館                      3017 </place>
 <note></note>
 </C4>
 
@@ -394,10 +492,10 @@
 <num>C4-162</num>
 <class></class>
 <group></group>
-<name> 分析地球化學 </name>
-<teacher> 羅尚德  </teacher>
+<name> 地質災害 </name>
+<teacher> 林慶偉  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3031 </place>
@@ -408,8 +506,36 @@
 <num>C4-163</num>
 <class></class>
 <group></group>
-<name> 地質工程概論 </name>
-<teacher> 吳銘志  </teacher>
+<name> 基礎礦物熱力學 </name>
+<teacher> 龔慧貞  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</C4>
+
+<C4 id="164">
+<num>C4-164</num>
+<class></class>
+<group></group>
+<name> 地球的碳循環與環境變遷 </name>
+<teacher> 羅尚德  </teacher>
+<score> 3 </score>
+<time> [2]7~8  ,  [4]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note></note>
+</C4>
+
+<C4 id="165">
+<num>C4-165</num>
+<class></class>
+<group></group>
+<name> 地球科學應用程式設計 </name>
+<teacher> 李恩瑞  </teacher>
 <score> 3 </score>
 <time> [3]7~9  </time>
 <must> 選修 </must>
@@ -418,62 +544,18 @@
 <note></note>
 </C4>
 
-<C4 id="164">
-<num>C4-164</num>
-<class></class>
-<group></group>
-<name> 水文地質學 </name>
-<teacher> 簡錦樹  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47110 </place>
-<note> 環工系與地科系合班                                                       </note>
-</C4>
-
-<C4 id="165">
-<num>C4-165</num>
-<class></class>
-<group></group>
-<name> 石油地球物理探勘 </name>
-<teacher> 孫鎮球  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3017 </place>
-<note></note>
-</C4>
-
 <C4 id="166">
 <num>C4-166</num>
 <class></class>
 <group></group>
-<name> 生物地質 </name>
-<teacher> 梁碧清  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
+<name> 書報討論 </name>
+<teacher> 吳銘志  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3017 </place>
+<place> 地科系館                      3036 </place>
 <note></note>
-</C4>
-
-<C4 id="171">
-<num>C4-171</num>
-<class></class>
-<group></group>
-<name> 野外地質調查：海岸山脈 </name>
-<teacher> 孫鎮球  </teacher>
-<score> 2 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
 </C4>
 
 </content>

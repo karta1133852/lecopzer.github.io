@@ -4,97 +4,83 @@
 <num>R3-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 胡政宏  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 鄭詩瑜  </teacher>
 <score> 1 </score>
 <time> [4]5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工管系館                      61208 </place>
-<note></note>
+<note> 限工資所碩一選修 </note>
 </R3>
 
 <R3 id="002">
 <num>R3-002</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 王逸琳   ,  張秀雲*  ,  鄭詩瑜   ,  蔡青志  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 陳梁軒   ,  王泰裕   ,  林明毅*  ,  利德江  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工管系館                      61200 </place>
-<note></note>
+<note> 限工資所碩二選修 </note>
 </R3>
 
 <R3 id="003">
 <num>R3-003</num>
 <class> 博一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 陳梁軒  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 王惠嘉  </teacher>
 <score> 1 </score>
 <time> [4]5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工管系館                      61206 </place>
-<note> 工資所博一必修，與博二專討合班                                           </note>
+<note> 與工資所博二合班 </note>
 </R3>
 
 <R3 id="004">
 <num>R3-004</num>
 <class> 博二                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 陳梁軒  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 王惠嘉  </teacher>
 <score> 1 </score>
 <time> [4]5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工管系館                      61206 </place>
-<note> 工資所博二必修，與博一專討合班                                           </note>
+<note> 與工資所博一合班 </note>
 </R3>
 
 <R3 id="005">
 <num>R3-005</num>
-<class> 博三                           </class>
+<class> 博三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳梁軒  </teacher>
+<teacher> 王惠嘉  </teacher>
 <score> 0 </score>
 <time> [4]5  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 工管系館                      61206 </place>
-<note></note>
-</R3>
-
-<R3 id="006">
-<num>R3-006</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 多目標決策分析 </name>
-<teacher> 高　強  </teacher>
-<score> 3 </score>
-<time> [3]3~4  ,  [4]3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61204 </place>
-<note> 本課程需先修科目:線性規劃                                                </note>
+<note> 與工資所博一、博二合班 </note>
 </R3>
 
 <R3 id="007">
 <num>R3-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 領導理論 </name>
-<teacher> 利德江  </teacher>
+<name> 供應鏈管理 </name>
+<teacher> 林清河  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61102 </place>
+<place> 工管系館                      61204 </place>
 <note></note>
 </R3>
 
@@ -102,10 +88,10 @@
 <num>R3-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 企業研究方法 </name>
-<teacher> 林清河  </teacher>
+<name> 不確定決策方法 </name>
+<teacher> 陳梁軒  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [2]2  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61208 </place>
@@ -116,69 +102,41 @@
 <num>R3-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 不確定模式與管理 </name>
-<teacher> 陳梁軒  </teacher>
+<name> 產業電子化策略 </name>
+<teacher> 呂執中  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [4]3~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61202 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </R3>
 
 <R3 id="010">
 <num>R3-010</num>
-<class> 碩博一                         </class>
-<group></group>
-<name> 全球運籌管理 </name>
-<teacher> 呂執中  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61206 </place>
-<note></note>
-</R3>
-
-<R3 id="011">
-<num>R3-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 類神經網路應用 </name>
+<name> 專案管理 </name>
 <teacher> 王泰裕  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61206 </place>
-<note></note>
-</R3>
-
-<R3 id="012">
-<num>R3-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 隨機模式 </name>
-<teacher> 李賢得  </teacher>
-<score> 3 </score>
-<time> [1]6~7  ,  [3]3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61202 </place>
-<note></note>
+<note> 管院「創新與服科學跨領域學程」課程之一 </note>
 </R3>
 
 <R3 id="013">
 <num>R3-013</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 策略競局 </name>
+<name> 可靠度管理 </name>
 <teacher> 謝中奇  </teacher>
 <score> 3 </score>
-<time> [1]1  ,  [3]3~4  </time>
+<time> [3]3~4  ,  [1]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61206 </place>
+<place> 工管系館                      61208 </place>
 <note></note>
 </R3>
 
@@ -186,41 +144,27 @@
 <num>R3-014</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 管理決策分析 </name>
+<name> 動態規劃 </name>
 <teacher> 黃宇翔  </teacher>
 <score> 3 </score>
-<time> [1]3  ,  [3]5~6  </time>
+<time> [1]5~6  ,  [3]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61208 </place>
-<note></note>
-</R3>
-
-<R3 id="015">
-<num>R3-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 機器學習 </name>
-<teacher> 翁慈宗  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61206 </place>
+<place> 工管系館                      61210 </place>
 <note></note>
 </R3>
 
 <R3 id="016">
 <num>R3-016</num>
-<class> 碩博一                         </class>
+<class> 碩博二                         </class>
 <group></group>
-<name> 高等資料庫管理 </name>
+<name> 網路管理 </name>
 <teacher> 王惠嘉  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61208 </place>
+<place> 工管系館                      61204 </place>
 <note></note>
 </R3>
 
@@ -228,10 +172,10 @@
 <num>R3-017</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 網路最佳化管理 </name>
+<name> 最佳化模式及應用 </name>
 <teacher> 王逸琳  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61206 </place>
@@ -242,10 +186,10 @@
 <num>R3-018</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 排程理論 </name>
-<teacher> 張秀雲  </teacher>
+<name> 系統動力學與管理 </name>
+<teacher> 王維聰  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61204 </place>
@@ -256,13 +200,13 @@
 <num>R3-019</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 系統動力學與管理 </name>
-<teacher> 王維聰  </teacher>
+<name> 數學規劃 </name>
+<teacher> 張秀雲  </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61206 </place>
+<place> 工管系館                      61202 </place>
 <note></note>
 </R3>
 
@@ -280,31 +224,31 @@
 <note></note>
 </R3>
 
+<R3 id="021">
+<num>R3-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 系統模擬 </name>
+<teacher> 蔡青志  </teacher>
+<score> 3 </score>
+<time> [5]7  ,  [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61210 </place>
+<note></note>
+</R3>
+
 <R3 id="022">
 <num>R3-022</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 組織發展 </name>
+<name> 消費者行為 </name>
 <teacher> 鄭詩瑜  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61208 </place>
-<note></note>
-</R3>
-
-<R3 id="023">
-<num>R3-023</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 實體性人因工程 </name>
-<teacher> 林明毅  </teacher>
-<score> 3 </score>
-<time> [1]5~6  ,  [3]6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61210 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </R3>
 
@@ -312,13 +256,13 @@
 <num>R3-024</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 品質工程 </name>
+<name> 經驗模式方法 </name>
 <teacher> 張裕清  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61102 </place>
+<place> 工管系館                      61208 </place>
 <note></note>
 </R3>
 
@@ -326,13 +270,13 @@
 <num>R3-025</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 網路安全 </name>
+<name> 行動網路技術與應用 </name>
 <teacher> 劉任修  </teacher>
 <score> 3 </score>
-<time> [2]5~7  </time>
+<time> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61202 </place>
+<place> 工管系館                      61204 </place>
 <note></note>
 </R3>
 
@@ -340,13 +284,13 @@
 <num>R3-026</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 結構方程模型 </name>
+<name> 多變量分析與應用 </name>
 <teacher> 胡政宏  </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61202 </place>
+<place> 工管系館                      61201 </place>
 <note></note>
 </R3>
 
@@ -355,26 +299,26 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 陳梁軒   ,  王泰裕   ,  李賢得   ,  謝中奇   ,  黃宇翔   ,  王惠嘉   ,  翁慈宗   ,  李昇暾*  ,  王逸琳   ,  張秀雲   ,  王維聰   ,  呂執中   ,  謝佩璇   ,  鄭詩瑜   ,  蔡青志   ,  林明毅   ,  張裕清   ,  劉任修   ,  林清河   ,  高　強   ,  利德江  </teacher>
+<teacher> 李昇暾  </teacher>
 <score> 0 </score>
 <time> [4]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 工管系館                      61200 </place>
-<note> 工資所與資管所合班                                                       </note>
+<note></note>
 </R3>
 
 <R3 id="301">
 <num>R3-301</num>
-<class> 碩專                           </class>
+<class> 碩專二                         </class>
 <group></group>
-<name> 領導理論 </name>
-<teacher> 利德江  </teacher>
+<name> 工業管理專題 </name>
+<teacher> 李昇暾  </teacher>
 <score> 3 </score>
-<time> [1]B~D  </time>
-<must> 選修 </must>
+<time> [5]B~D  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61103 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </R3>
 
@@ -382,13 +326,13 @@
 <num>R3-302</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 物流系統 </name>
-<teacher> 李賢得  </teacher>
+<name> 統計方法 </name>
+<teacher> 謝中奇  </teacher>
 <score> 3 </score>
 <time> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61202 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </R3>
 
@@ -396,10 +340,10 @@
 <num>R3-303</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 策略競局 </name>
-<teacher> 謝中奇  </teacher>
+<name> 產業電子化策略 </name>
+<teacher> 呂執中  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61206 </place>
@@ -410,13 +354,13 @@
 <num>R3-304</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 資料探勘 </name>
-<teacher> 翁慈宗  </teacher>
+<name> 高等資料庫管理 </name>
+<teacher> 王惠嘉  </teacher>
 <score> 3 </score>
-<time> [3]B~D  </time>
+<time> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61206 </place>
+<place> 工管系館                      61208 </place>
 <note></note>
 </R3>
 
@@ -424,8 +368,8 @@
 <num>R3-305</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 網路最佳化管理 </name>
-<teacher> 王逸琳  </teacher>
+<name> 決策方法 </name>
+<teacher> 張秀雲  </teacher>
 <score> 3 </score>
 <time> [4]B~D  </time>
 <must> 選修 </must>
@@ -438,8 +382,8 @@
 <num>R3-306</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 品質工程 </name>
-<teacher> 張裕清  </teacher>
+<name> 多變量分析與應用 </name>
+<teacher> 胡政宏  </teacher>
 <score> 3 </score>
 <time> [2]B~D  </time>
 <must> 選修 </must>
@@ -450,7 +394,7 @@
 
 <R3 id="308">
 <num>R3-308</num>
-<class> 碩專延三                       </class>
+<class> 碩專                           </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 李昇暾  </teacher>
@@ -459,7 +403,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 工管系館                      61206 </place>
-<note> 限在職專班三年級(含)以上選修                                             </note>
+<note></note>
 </R3>
 
 </content>

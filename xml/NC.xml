@@ -4,196 +4,154 @@
 <num>NC-001</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 周乃昉  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 王筱雯  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
 </NC>
 
 <NC id="002">
 <num>NC-002</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 戴義欽  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 黃煌煇  </teacher>
 <score> 1 </score>
-<time> [2]8~9  </time>
+<time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
+<place> 水利系館                      4646 </place>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
 </NC>
 
 <NC id="003">
 <num>NC-003</num>
-<class> 碩博                           </class>
+<class> 碩博三延                       </class>
 <group></group>
-<name> 防災實務 </name>
-<teacher> 王曉中   ,  尹孝元   ,  謝正倫* </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
+<name> 專題討論 </name>
+<teacher> 羅偉誠  </teacher>
+<score> 0 </score>
+<time> [2]9~A  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4646 </place>
-<note> 自災所與水利所合開課程                                                   </note>
+<type> 研討 </type>
+<place> 水利系館                      4645 </place>
+<note></note>
 </NC>
 
 <NC id="004">
 <num>NC-004</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 防災資訊系統 </name>
-<teacher> 林漢良  </teacher>
+<name> 防災概論 </name>
+<teacher> 蔡光榮  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [5]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50302 </place>
-<note> 自然災害減災國際學程與都計所合開課程                                     </note>
+<place> 水利系館                      4644 </place>
+<note> 自災所與水利所合開 </note>
 </NC>
 
 <NC id="005">
 <num>NC-005</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 颱洪災害減災方法與技術 </name>
-<teacher> 李維森*  ,  李欣輯   ,  吳亭燁  </teacher>
+<name> 中等水力學 </name>
+<teacher> 賴泉基  </teacher>
 <score> 3 </score>
-<time> [1]5~7  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note> 自災所與水利所合開課程                                                   </note>
+<note> 自災所、水利所與海事所合開 </note>
 </NC>
 
 <NC id="006">
 <num>NC-006</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 雷射遙感探測 </name>
-<teacher> 王驥魁  </teacher>
+<name> 水文系統模擬與預測 </name>
+<teacher> 楊道昌   ,  郭振民   ,  游保杉* </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 測量系館                      55150 </place>
-<note> 測量所與自災所合開課程                                                   </note>
+<place> 水利系館                      4646 </place>
+<note> 水利所與自災所合開 </note>
 </NC>
 
 <NC id="007">
 <num>NC-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 大地測量技術在地殼變形研究之應用 </name>
-<teacher> 景國恩  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 測量系館                      55150 </place>
-<note> 測量所與自災所合開課程                                                   </note>
-</NC>
-
-<NC id="008">
-<num>NC-008</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 空間環境資料分析與模式 </name>
-<teacher> 朱宏杰  </teacher>
+<name> 時系列分析 </name>
+<teacher> 董東璟  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 測量系館                      55150 </place>
-<note> 測量所與自災所合開課程                                                   </note>
+<place> 水利系館                      4646 </place>
+<note> 水利所與自災所合開 </note>
 </NC>
 
 <NC id="009">
 <num>NC-009</num>
-<class> 碩博                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 中等水文學 </name>
-<teacher> 羅偉誠   ,  周乃昉*  ,  游保杉  </teacher>
+<name> 海岸管理學 </name>
+<teacher> 陳璋玲  </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note> 自災所與水利所合開課程                                                   </note>
+<place> 水利系館                      4644 </place>
+<note> 海事所與自災所合開 </note>
 </NC>
 
 <NC id="010">
 <num>NC-010</num>
-<class> 碩博                           </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 地區防災計畫 </name>
-<teacher> 王曉中   ,  謝正倫* </teacher>
+<name> 天然災害經濟分析 </name>
+<teacher> 郭彥廉  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note> 自災所與水利所合開課程                                                   </note>
+<place> 社科院大樓                    80203 </place>
+<note> 經濟分析領域--大學部四年級以上才能修習  (英語授課) </note>
 </NC>
 
 <NC id="011">
 <num>NC-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 自然災害系統管理與風險評估 </name>
-<teacher> 施清芳   ,  周乃昉* </teacher>
-<score> 2 </score>
-<time> [5]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note></note>
-</NC>
-
-<NC id="012">
-<num>NC-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 都市防災計畫與管理 </name>
-<teacher> 李咸亨  </teacher>
+<name> 土石流災害防救實務 </name>
+<teacher> 陳俞旭   ,  陳振宇   ,  蔡元融   ,  謝正倫  </teacher>
 <score> 3 </score>
-<time> [1]3~N  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note> 自災所與水利所合開課程                                                   </note>
+<note> 水利所與自災所合開 </note>
 </NC>
 
 <NC id="013">
 <num>NC-013</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 感測器原理及應用 </name>
-<teacher> 侯琮欽  </teacher>
+<name> 水資源永續發展特論 </name>
+<teacher> 周乃昉  </teacher>
 <score> 3 </score>
-<time> [2]5~6  ,  [5]8  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note> 英語授課，碩博與碩專合班，土木所與自災所合開                             </note>
-</NC>
-
-<NC id="014">
-<num>NC-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 河溪復育 </name>
-<teacher> 王筱雯  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note> 水利所與自災所合開課程                                                   </note>
+<place> 水利系館                      4648 </place>
+<note> 水利所與自災所合開 </note>
 </NC>
 
 </content>

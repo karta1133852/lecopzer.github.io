@@ -2,13 +2,41 @@
 <content>
 <R6 id="001">
 <num>R6-001</num>
-<class> 碩二                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 張紹基  </teacher>
-<score> 1 </score>
-<time> [4]6~7  </time>
+<name> 國際企業管理 </name>
+<teacher> 曾瓊慧  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
 <must> 必修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="003">
+<num>R6-003</num>
+<class> 碩                             </class>
+<group></group>
+<name> 財務管理 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="005">
+<num>R6-005</num>
+<class> 碩                             </class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 史習安  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
 <note></note>
@@ -18,10 +46,24 @@
 <num>R6-007</num>
 <class> 碩                             </class>
 <group></group>
-<name> 國際人力資源管理 </name>
+<name> 行銷管理 </name>
+<teacher> 陳芃婷  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="009">
+<num>R6-009</num>
+<class> 碩                             </class>
+<group></group>
+<name> 策略性人力資源管理 </name>
 <teacher> 史習安  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
@@ -32,7 +74,7 @@
 <num>R6-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 財務計量研討 </name>
+<name> 國際企業研究方法 </name>
 <teacher> 江明憲  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
@@ -42,14 +84,28 @@
 <note></note>
 </R6>
 
+<R6 id="013">
+<num>R6-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 財務實証專題討論 </name>
+<teacher> 江明憲  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
 <R6 id="015">
 <num>R6-015</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 國際投資理論 </name>
-<teacher> 江明憲  </teacher>
+<name> 國際財務管理 </name>
+<teacher> 張紹基  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
@@ -60,94 +116,10 @@
 <num>R6-017</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 國際企業研究方法 </name>
-<teacher> 江明憲  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61401 </place>
-<note></note>
-</R6>
-
-<R6 id="019">
-<num>R6-019</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 國際財務管理專題研討 </name>
-<teacher> 張紹基  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61413 </place>
-<note></note>
-</R6>
-
-<R6 id="023">
-<num>R6-023</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 策略聯盟 </name>
+<name> 跨國企業研究 </name>
 <teacher> 曾瓊慧  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61413 </place>
-<note></note>
-</R6>
-
-<R6 id="025">
-<num>R6-025</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 國際企業理論 </name>
-<teacher> 曾瓊慧  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61413 </place>
-<note></note>
-</R6>
-
-<R6 id="027">
-<num>R6-027</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 張紹基  </teacher>
-<score> 0 </score>
-<time> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 國企所                        61413 </place>
-<note></note>
-</R6>
-
-<R6 id="029">
-<num>R6-029</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 科技創業與投資管理 </name>
-<teacher> 陳芃婷  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5730 </place>
-<note> 醫工所與國企所合班                                                       </note>
-</R6>
-
-<R6 id="031">
-<num>R6-031</num>
-<class> 博                             </class>
-<group></group>
-<name> 高等人力資源管理 </name>
-<teacher> 史習安  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61413 </place>

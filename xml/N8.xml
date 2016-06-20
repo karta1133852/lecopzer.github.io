@@ -4,36 +4,36 @@
 <num>N8-001</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 周乃昉  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 王筱雯  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
 </N8>
 
 <N8 id="002">
 <num>N8-002</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 戴義欽  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 黃清哲  </teacher>
 <score> 1 </score>
-<time> [2]8~9  </time>
+<time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
+<place> 水利系館                      4646 </place>
+<note></note>
 </N8>
 
 <N8 id="003">
 <num>N8-003</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 蕭士俊  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 呂珍謀  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -46,8 +46,8 @@
 <num>N8-004</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 賴悅仁  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 郭玉樹  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -60,22 +60,22 @@
 <num>N8-005</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 游保杉  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 黃煌煇  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
 </N8>
 
 <N8 id="006">
 <num>N8-006</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 黃煌煇  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 蕭政宗  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -88,8 +88,8 @@
 <num>N8-007</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 孫建平  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 戴義欽  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -102,36 +102,36 @@
 <num>N8-011</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 周乃昉  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 王筱雯  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
 </N8>
 
 <N8 id="012">
 <num>N8-012</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 戴義欽  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 黃清哲  </teacher>
 <score> 1 </score>
-<time> [2]8~9  </time>
+<time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
+<place> 水利系館                      4646 </place>
+<note></note>
 </N8>
 
 <N8 id="013">
 <num>N8-013</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 蕭士俊  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 呂珍謀  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -144,8 +144,8 @@
 <num>N8-014</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 賴悅仁  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 郭玉樹  </teacher>
 <score> 1 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -158,22 +158,22 @@
 <num>N8-015</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 游保杉  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 黃煌煇  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
 </N8>
 
 <N8 id="016">
 <num>N8-016</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 黃煌煇  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 蕭政宗  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -186,8 +186,8 @@
 <num>N8-017</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 孫建平  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 戴義欽  </teacher>
 <score> 1 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -196,87 +196,101 @@
 <note></note>
 </N8>
 
-<N8 id="020">
-<num>N8-020</num>
-<class> 碩博三延                       </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 周乃昉  </teacher>
-<score> 0 </score>
-<time> [2]5~6  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 水利系館                      4644 </place>
-<note> 限延畢生修讀                                                             </note>
-</N8>
-
-<N8 id="021">
-<num>N8-021</num>
+<N8 id="019">
+<num>N8-019</num>
 <class> 碩                             </class>
 <group></group>
-<name> 中等水文學 </name>
-<teacher> 羅偉誠   ,  周乃昉*  ,  游保杉  </teacher>
+<name> 海域水動力學 </name>
+<teacher> 許泰文  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time> [5]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
-<note> 104學年度起入學碩士生四選二必修課程                                      </note>
+<note> 「四科任選二科之必修課程」 </note>
 </N8>
 
-<N8 id="022">
-<num>N8-022</num>
+<N8 id="020">
+<num>N8-020</num>
 <class> 碩                             </class>
 <group></group>
-<name> 海域物理學 </name>
-<teacher> 董東璟*  ,  李兆芳   ,  張　懿  </teacher>
+<name> 中等水力學 </name>
+<teacher> 賴泉基  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note> 104學年度起入學碩士生四選二必修課程                                      </note>
+<place> 水利系館                      4646 </place>
+<note> 「四科任選二科之必修課程」 </note>
+</N8>
+
+<N8 id="021">
+<num>N8-021</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 羅偉誠  </teacher>
+<score> 0 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4644 </place>
+<note> 延畢生每學期至少需選修一門課程 </note>
 </N8>
 
 <N8 id="031">
 <num>N8-031</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高等水土保持 </name>
-<teacher> 謝正倫  </teacher>
+<name> 高等地下水 </name>
+<teacher> 羅偉誠*  ,  林宏奕  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
+<N8 id="032">
+<num>N8-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 土石流理論 </name>
+<teacher> 戴義欽   ,  謝正倫* </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
 <note></note>
 </N8>
 
 <N8 id="033">
 <num>N8-033</num>
-<class> 碩                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 流域水土資源綜合管理 </name>
-<teacher> 楊豐榮  </teacher>
+<name> 水文特論 </name>
+<teacher> 徐義人  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note> 僅限碩士班及碩專班學生選課                                               </note>
+<place> 水利系館                      4678 </place>
+<note></note>
 </N8>
 
 <N8 id="034">
 <num>N8-034</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 實驗水力學 </name>
-<teacher> 賴悅仁  </teacher>
+<name> 泥沙運行學 </name>
+<teacher> 詹錢登  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
+<place> 水利系館                      4646 </place>
 <note></note>
 </N8>
 
@@ -284,8 +298,8 @@
 <num>N8-035</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 水中聲學 </name>
-<teacher> 黃清哲  </teacher>
+<name> 溪流生態學 </name>
+<teacher> 孫建平  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
@@ -298,69 +312,69 @@
 <num>N8-036</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 邊界層理論 </name>
-<teacher> 黃清哲  </teacher>
+<name> 水文系統模擬與預測 </name>
+<teacher> 楊道昌   ,  郭振民   ,  游保杉* </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note></note>
-</N8>
-
-<N8 id="037">
-<num>N8-037</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 河溪復育 </name>
-<teacher> 王筱雯  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note> 水利所與自災所合開課程                                                   </note>
+<place> 水利系館                      4646 </place>
+<note> 水利所與自災所合開 </note>
 </N8>
 
 <N8 id="038">
 <num>N8-038</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 防災實務 </name>
-<teacher> 王曉中   ,  尹孝元   ,  謝正倫* </teacher>
+<name> 防災概論 </name>
+<teacher> 蔡光榮  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [5]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
-<note> 自災所與水利所合開課程                                                   </note>
+<place> 水利系館                      4644 </place>
+<note> 自災所與水利所合開 </note>
 </N8>
 
 <N8 id="039">
 <num>N8-039</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 地區防災計畫 </name>
-<teacher> 王曉中   ,  謝正倫* </teacher>
+<name> 土石流災害防救實務 </name>
+<teacher> 陳俞旭   ,  陳振宇   ,  蔡元融   ,  謝正倫  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note> 水利所與自災所合開 </note>
+</N8>
+
+<N8 id="040">
+<num>N8-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 灌溉管理 </name>
+<teacher> 李源泉  </teacher>
+<score> 2 </score>
+<time> [5]B~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
-<note> 自災所與水利所合開課程                                                   </note>
+<note></note>
 </N8>
 
 <N8 id="041">
 <num>N8-041</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高等波浪理論（一） </name>
-<teacher> 陳陽益  </teacher>
+<name> 流體力學特論 </name>
+<teacher> 黃清哲  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
+<place> 水利系館                      4646 </place>
 <note></note>
 </N8>
 
@@ -368,64 +382,134 @@
 <num>N8-042</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 非線性波動力學 </name>
-<teacher> 黃煌煇  </teacher>
+<name> 水資源永續發展特論 </name>
+<teacher> 周乃昉  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
-<note></note>
+<note> 水利所與自災所合開 </note>
 </N8>
 
 <N8 id="043">
 <num>N8-043</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 波浪統計 </name>
-<teacher> 董東璟  </teacher>
+<name> 水資訊學 </name>
+<teacher> 吳嘉文   ,  周乃昉* </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4646 </place>
-<note> 海事所與水利所合開、英語授課。                                           </note>
-</N8>
-
-<N8 id="044">
-<num>N8-044</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 海洋土木工程 </name>
-<teacher> 郭玉樹  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
 <note></note>
 </N8>
 
-<N8 id="045">
-<num>N8-045</num>
+<N8 id="051">
+<num>N8-051</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 海洋工程 </name>
+<name> 有限元素法 </name>
 <teacher> 李兆芳  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4678 </place>
+<place> 水利系館                      4648 </place>
+<note> 水利所與海事所合開 </note>
+</N8>
+
+<N8 id="052">
+<num>N8-052</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 時系列分析 </name>
+<teacher> 董東璟  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note> 水利所與自災所合開 </note>
+</N8>
+
+<N8 id="053">
+<num>N8-053</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 波浪理論 </name>
+<teacher> 蕭士俊  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
 <note></note>
 </N8>
 
-<N8 id="046">
-<num>N8-046</num>
+<N8 id="054">
+<num>N8-054</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等流體力學 </name>
+<teacher> 陳陽益  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note> 水利所與海事所合開 </note>
+</N8>
+
+<N8 id="055">
+<num>N8-055</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋污染 </name>
+<teacher> 劉大綱  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95405 </place>
+<note></note>
+</N8>
+
+<N8 id="056">
+<num>N8-056</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 河海現場調查 </name>
+<teacher> 顏沛華  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note></note>
+</N8>
+
+<N8 id="062">
+<num>N8-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 德文（一） </name>
+<teacher> 高家俊  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
+<N8 id="063">
+<num>N8-063</num>
 <class></class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 周乃昉  </teacher>
+<teacher> 未定  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -436,25 +520,11 @@
  </note>
 </N8>
 
-<N8 id="047">
-<num>N8-047</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 海洋保護區 </name>
-<teacher> 劉大綱  </teacher>
-<score> 3 </score>
-<time> [3]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note> 水利所與海事所合班                                                       </note>
-</N8>
-
 <N8 id="301">
 <num>N8-301</num>
 <class> 碩專一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
+<name> 專題討論（一） </name>
 <teacher> 呂珍謀  </teacher>
 <score> 1 </score>
 <time> [6]5~6  </time>
@@ -468,7 +538,7 @@
 <num>N8-302</num>
 <class> 碩專二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
+<name> 專題討論（三） </name>
 <teacher> 呂珍謀  </teacher>
 <score> 1 </score>
 <time> [6]5~6  </time>
@@ -489,15 +559,15 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
+<note> 延畢生每學期至少需選修一門課程 </note>
 </N8>
 
 <N8 id="304">
 <num>N8-304</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 實用水文學 </name>
-<teacher> 羅偉誠   ,  周乃昉* </teacher>
+<name> 實用水力學 </name>
+<teacher> 周乃昉  </teacher>
 <score> 3 </score>
 <time> [6]2~4  </time>
 <must> 必修 </must>
@@ -510,10 +580,24 @@
 <num>N8-305</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 海岸保護與利用 </name>
-<teacher> 陳璋玲*  ,  施義哲  </teacher>
+<name> 模糊理論及灰色系統 </name>
+<teacher> 劉長齡  </teacher>
+<score> 3 </score>
+<time> [4]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
+<N8 id="306">
+<num>N8-306</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 灌溉管理 </name>
+<teacher> 李源泉  </teacher>
 <score> 2 </score>
-<time> [1]A~B  </time>
+<time> [5]B~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -524,24 +608,24 @@
 <num>N8-307</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 流域水土資源綜合管理 </name>
-<teacher> 楊豐榮  </teacher>
+<name> 海岸開發與保育 </name>
+<teacher> 龔誠山  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time> [6]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
-<note> 僅限碩士班及碩專班學生選課                                               </note>
+<note></note>
 </N8>
 
 <N8 id="308">
 <num>N8-308</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 地下水理論 </name>
-<teacher> 劉長齡  </teacher>
-<score> 3 </score>
-<time> [4]B~D  </time>
+<name> 海事安全 </name>
+<teacher> 陳璋玲*  ,  施義哲  </teacher>
+<score> 2 </score>
+<time> [1]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -552,52 +636,10 @@
 <num>N8-309</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 比較水法與國際水法 </name>
-<teacher> 李方中  </teacher>
-<score> 2 </score>
-<time> [5]C~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note></note>
-</N8>
-
-<N8 id="310">
-<num>N8-310</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 實用河川工程 </name>
-<teacher> 龔誠山  </teacher>
-<score> 2 </score>
-<time> [6]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note></note>
-</N8>
-
-<N8 id="311">
-<num>N8-311</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 海洋環境監測與生態調查技術 </name>
+<name> 海岸濕地復育與管理 </name>
 <teacher> 黃元照  </teacher>
 <score> 2 </score>
 <time> [2]B~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note></note>
-</N8>
-
-<N8 id="312">
-<num>N8-312</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 灌溉排水特論 </name>
-<teacher> 林尉濤   ,  陳清田   ,  周乃昉* </teacher>
-<score> 2 </score>
-<time> [5]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>

@@ -4,8 +4,8 @@
 <num>Z2-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 洪建中   ,  林鼎晏* </teacher>
+<name> 專題討論（一） </name>
+<teacher> 劉宗霖   ,  王育民* </teacher>
 <score> 1 </score>
 <time> [5]3  </time>
 <must> 必修 </must>
@@ -18,8 +18,8 @@
 <num>Z2-002</num>
 <class> 博一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 劉宗霖*  ,  陳炳焜  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 林鼎晏   ,  羅玉枝* </teacher>
 <score> 1 </score>
 <time> [5]3  </time>
 <must> 必修 </must>
@@ -32,8 +32,8 @@
 <num>Z2-003</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 洪建中   ,  林鼎晏* </teacher>
+<name> 專題討論（三） </name>
+<teacher> 劉宗霖   ,  王育民* </teacher>
 <score> 0 </score>
 <time> [5]4  </time>
 <must> 必修 </must>
@@ -46,8 +46,8 @@
 <num>Z2-004</num>
 <class> 博二                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 劉宗霖*  ,  陳炳焜  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 林鼎晏   ,  羅玉枝* </teacher>
 <score> 0 </score>
 <time> [5]4  </time>
 <must> 必修 </must>
@@ -58,29 +58,29 @@
 
 <Z2 id="005">
 <num>Z2-005</num>
-<class> 博                             </class>
+<class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 劉宗霖*  ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  羅玉枝* </teacher>
 <score> 0 </score>
 <time> [5]5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 照坤精密儀器大樓              95A09 </place>
-<note></note>
+<note> 限碩三博三以上同學選課 </note>
 </Z2>
 
 <Z2 id="006">
 <num>Z2-006</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 書報討論（二） </name>
-<teacher> 曾大千*  ,  洪良宜  </teacher>
+<name> 書報討論（一） </name>
+<teacher> 洪建中*  ,  陳炳焜  </teacher>
 <score> 1 </score>
 <time> [2]7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
+<place> 照坤精密儀器大樓              95A02 </place>
 <note></note>
 </Z2>
 
@@ -88,8 +88,8 @@
 <num>Z2-007</num>
 <class> 博一                           </class>
 <group></group>
-<name> 書報討論（二） </name>
-<teacher> 羅竹芳   ,  羅玉枝* </teacher>
+<name> 書報討論（一） </name>
+<teacher> 曾大千*  ,  洪良宜  </teacher>
 <score> 1 </score>
 <time> [5]6  </time>
 <must> 必修 </must>
@@ -102,13 +102,13 @@
 <num>Z2-008</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 書報討論（四） </name>
-<teacher> 曾大千*  ,  洪良宜  </teacher>
+<name> 書報討論（三） </name>
+<teacher> 洪建中*  ,  陳炳焜  </teacher>
 <score> 1 </score>
 <time> [2]8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
+<place> 照坤精密儀器大樓              95A09 </place>
 <note></note>
 </Z2>
 
@@ -116,8 +116,8 @@
 <num>Z2-009</num>
 <class> 博二                           </class>
 <group></group>
-<name> 書報討論（四） </name>
-<teacher> 王育民   ,  羅玉枝* </teacher>
+<name> 書報討論（三） </name>
+<teacher> 曾大千*  ,  洪良宜  </teacher>
 <score> 1 </score>
 <time> [5]7  </time>
 <must> 必修 </must>
@@ -128,71 +128,99 @@
 
 <Z2 id="010">
 <num>Z2-010</num>
-<class> 碩博                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 高等細胞生物學 </name>
-<teacher> 王浩文   ,  洪健睿   ,  黃玲惠   ,  張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜*  ,  李瑞花  </teacher>
+<name> 生物資料分析之程式語言 </name>
+<teacher> 劉宗霖   ,  張文綺  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3415 </place>
-<note> 生科院核心課程                                                           </note>
+<place> 照坤精密儀器大樓              95A021 </place>
+<note> 電腦教室 </note>
 </Z2>
 
 <Z2 id="011">
 <num>Z2-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 科學研究寫作 </name>
-<teacher> 劉宗霖*  ,  羅玉枝  </teacher>
-<score> 1 </score>
-<time> [1]6  </time>
+<name> 基因體生物資訊學 </name>
+<teacher> 劉宗霖   ,  曾大千  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95A021 </place>
+<note> 電腦教室 生訊所醫資所合班 </note>
+</Z2>
+
+<Z2 id="012">
+<num>Z2-012</num>
+<class> 碩                             </class>
+<group></group>
+<name> 基礎細胞與分子生物學 </name>
+<teacher> 曾大千   ,  陳炳焜   ,  洪良宜  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95A02 </place>
+<note> 生訊所醫資所合開 </note>
+</Z2>
+
+<Z2 id="013">
+<num>Z2-013</num>
+<class> 碩                             </class>
+<group></group>
+<name> 分生技術與儀器分析 </name>
+<teacher> 劉宗霖   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95A09 </place>
 <note></note>
 </Z2>
 
-<Z2 id="013">
-<num>Z2-013</num>
+<Z2 id="014">
+<num>Z2-014</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 非編碼核醣核酸學 </name>
-<teacher> 曾大千* </teacher>
-<score> 2 </score>
-<time> [1]7~8  </time>
+<name> 高等分子生物學 </name>
+<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜   ,  羅玉枝   ,  蔡文杰  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A02 </place>
-<note></note>
+<place> 生科系館                      3415 </place>
+<note> 生科院核心課程，生物科技所碩一必選 </note>
 </Z2>
 
 <Z2 id="015">
 <num>Z2-015</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 訊息傳遞蛋白的結構與功能特論 </name>
-<teacher> 羅玉枝* </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
+<name> 研究倫理與論文寫作 </name>
+<teacher> 王育民   ,  陳炳焜  </teacher>
+<score> 1 </score>
+<time> [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
-<note></note>
+<place> 醫學院                        604 </place>
+<note> 必選修，藥理、生訊所合班 </note>
 </Z2>
 
 <Z2 id="016">
 <num>Z2-016</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 癌症治療與抗藥性機轉 </name>
-<teacher> 王育民   ,  陳炳焜*  ,  林鼎晏  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
+<name> 細胞週期與生長調控 </name>
+<teacher> 洪良宜  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
+<place> 照坤精密儀器大樓              95A14 </place>
 <note></note>
 </Z2>
 
@@ -200,24 +228,24 @@
 <num>Z2-017</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 下世代序列資料分析 </name>
-<teacher> 劉宗霖* </teacher>
+<name> 癌症生物學 </name>
+<teacher> 林鼎晏  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A021 </place>
+<place> 照坤精密儀器大樓              95A09 </place>
 <note></note>
 </Z2>
 
 <Z2 id="019">
 <num>Z2-019</num>
-<class> 博                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 高等生物醫學特論（二） </name>
-<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝  </teacher>
+<name> 蛋白質後轉譯修飾 </name>
+<teacher> 洪建中   ,  林鼎晏  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95A09 </place>
@@ -228,13 +256,85 @@
 <num>Z2-020</num>
 <class> 博                             </class>
 <group></group>
-<name> 細胞分裂激脢特論 </name>
-<teacher> 洪良宜* </teacher>
+<name> 高等生物醫學特論（一） </name>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95A09 </place>
+<note></note>
+</Z2>
+
+<Z2 id="021">
+<num>Z2-021</num>
+<class> 博                             </class>
+<group></group>
+<name> 內質網壓力與疾病 </name>
+<teacher> 洪建中  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95A14 </place>
+<note></note>
+</Z2>
+
+<Z2 id="022">
+<num>Z2-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物巨分子之生物物理解析 </name>
+<teacher> 羅玉枝  </teacher>
+<score> 2 </score>
+<time> [1]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95A09 </place>
+<note></note>
+</Z2>
+
+<Z2 id="023">
+<num>Z2-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 訊息傳遞與醫藥應用 </name>
+<teacher> 王育民   ,  陳炳焜  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95A09 </place>
+<note></note>
+</Z2>
+
+<Z2 id="024">
+<num>Z2-024</num>
+<class></class>
+<group></group>
+<name> 生物資料庫設計與應用 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</Z2>
+
+<Z2 id="105">
+<num>Z2-105</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物科技課程教學實習 </name>
+<teacher> 張純純*  ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  盧福翊  </teacher>
+<score> 1 </score>
+<time> [5]N~5  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 資訊大樓                      75802 </place>
 <note></note>
 </Z2>
 

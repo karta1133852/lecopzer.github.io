@@ -2,212 +2,220 @@
 <content>
 <LA id="001">
 <num>LA-001</num>
-<class> 碩一                           </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 張博宇  </teacher>
-<score> 1 </score>
-<time> [4]6~7  </time>
+<name> 太空物理 </name>
+<teacher> 談永頤* </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
 <must> 必修 </must>
-<type> 研討 </type>
-<place> 綜合大樓                      48217 </place>
+<type> 講義 </type>
+<place> 綜合大樓                      48111B </place>
 <note></note>
 </LA>
 
 <LA id="002">
 <num>LA-002</num>
-<class> 碩二                           </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 張博宇  </teacher>
-<score> 0 </score>
-<time> [4]6~7  </time>
+<name> 電漿物理 </name>
+<teacher> 向克強* </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
 <must> 必修 </must>
-<type> 研討 </type>
-<place> 綜合大樓                      48217 </place>
+<type> 講義 </type>
+<place> 綜合大樓                      48216 </place>
 <note></note>
 </LA>
 
 <LA id="003">
 <num>LA-003</num>
-<class> 博一                           </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 張博宇  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 張博宇* </teacher>
 <score> 1 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 綜合大樓                      48217 </place>
-<note></note>
+<place> 綜合大樓                      48218 </place>
+<note> 與博班專題討論(一)(三)、碩班專題討論(三)、專題討論合班 </note>
 </LA>
 
 <LA id="004">
 <num>LA-004</num>
-<class> 博二                           </class>
+<class> 碩二                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 張博宇  </teacher>
-<score> 1 </score>
+<name> 專題討論（三） </name>
+<teacher> 張博宇* </teacher>
+<score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 綜合大樓                      48217 </place>
-<note></note>
+<place> 綜合大樓                      48218 </place>
+<note> 與博班專題討論(一)(三)、碩班專題討論(一)、專題討論合班 </note>
 </LA>
 
 <LA id="005">
 <num>LA-005</num>
-<class> 碩博                           </class>
+<class> 碩博三延                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 張博宇  </teacher>
+<teacher> 張博宇* </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 綜合大樓                      48217 </place>
-<note></note>
+<place> 綜合大樓                      48218 </place>
+<note> 與博班專題討論(一)(三)、碩班專題討論(一)(三)合班 </note>
 </LA>
 
 <LA id="006">
 <num>LA-006</num>
-<class> 碩博                           </class>
+<class> 博一                           </class>
 <group></group>
-<name> 高等太空物理 </name>
-<teacher> 談永頤* </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48111B </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
+<name> 專題討論（一） </name>
+<teacher> 張博宇* </teacher>
+<score> 1 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48218 </place>
+<note> 與碩班專題討論(一)(三)、博班專題討論(三)、專題討論合班 </note>
 </LA>
 
 <LA id="007">
 <num>LA-007</num>
-<class> 碩博                           </class>
+<class> 博二                           </class>
 <group></group>
-<name> 數據處理與資料分析 </name>
-<teacher> 陳炳志* </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48216 </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
+<name> 專題討論（三） </name>
+<teacher> 張博宇* </teacher>
+<score> 1 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48218 </place>
+<note> 與碩班專題討論(一)(三)、博班專題討論(一)、專題討論合班 </note>
 </LA>
 
 <LA id="008">
 <num>LA-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 電動力學與電漿物理之數值模擬 </name>
-<teacher> 西村泰太郎* </teacher>
+<name> 太空物理專題 </name>
+<teacher> 談永頤* </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [2]9~A  ,  [4]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      75301 </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
+<place> 綜合大樓                      48111B </place>
+<note></note>
 </LA>
 
 <LA id="009">
 <num>LA-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高等電漿物理 </name>
-<teacher> 向克強* </teacher>
+<name> 天文物理 </name>
+<teacher> 陳炳志* </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time> [5]4  ,  [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48216 </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
+<note></note>
 </LA>
 
 <LA id="010">
 <num>LA-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 電漿現象之應用 </name>
-<teacher> 張博宇  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48216 </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
-</LA>
-
-<LA id="011">
-<num>LA-011</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 連續體與流體力學 </name>
-<teacher> 西村泰太郎* </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48111B </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
-</LA>
-
-<LA id="013">
-<num>LA-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 核融合電漿科學 </name>
+<name> 電漿量測 </name>
 <teacher> 河森榮一郎* </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
+<note></note>
+</LA>
+
+<LA id="011">
+<num>LA-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電漿波與加熱 </name>
+<teacher> 河森榮一郎* </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48111B </place>
+<note></note>
+</LA>
+
+<LA id="012">
+<num>LA-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 閃電物理 </name>
+<teacher> 陳炳志* </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48216 </place>
+<note></note>
+</LA>
+
+<LA id="013">
+<num>LA-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電漿物理數學方法 </name>
+<teacher> 向克強* </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48216 </place>
+<note></note>
 </LA>
 
 <LA id="014">
 <num>LA-014</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 托克馬克物理 </name>
-<teacher> 向克強* </teacher>
-<score> 2 </score>
-<time> [3]8~9  </time>
+<name> 電動力學實習 </name>
+<teacher> 西村泰太郎* </teacher>
+<score> 3 </score>
+<time> [3]6~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 綜合大樓                      48216 </place>
-<note> 與物理所合開, 電漿所主開                                                 </note>
+<place> 綜合大樓                      48111B </place>
+<note> 與機械系合開, 電漿所主開 </note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 電動力學實習 </name1>
+<time1> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
 </LA>
 
 <LA id="015">
 <num>LA-015</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 統計力學 </name>
-<teacher> 張為民  </teacher>
+<name> 脈衝功率系統 </name>
+<teacher> 張博宇* </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 必修 </must>
+<time> [3]2~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 物理二館                      49116 </place>
-<note> 英語授課；物理所4選2必修，物理所主開。                                   </note>
-</LA>
-
-<LA id="016">
-<num>LA-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 量子力學（二） </name>
-<teacher> 楊緒濃  </teacher>
-<score> 3 </score>
-<time> [2]5~6  ,  [3]6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 物理二館                      49323 </place>
-<note> 英語授課；物理所4選2必修，物理所主開。                                   </note>
+<place> 綜合大樓                      48111B </place>
+<note></note>
 </LA>
 
 </content>

@@ -4,11 +4,11 @@
 <num>T3-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 張權發  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 蔡佩珍  </teacher>
 <score> 1 </score>
-<time> [5]1~2  </time>
-<must> 必修 </must>
+<time> [5]2  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5761 </place>
 <note></note>
@@ -16,104 +16,198 @@
 
 <T3 id="002">
 <num>T3-002</num>
-<class> 碩一                           </class>
+<class> 碩二                           </class>
 <group></group>
-<name> 實驗室品管及管理 </name>
-<teacher> 謝淑珠   ,  吳俊忠  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
+<name> 專題討論（三） </name>
+<teacher> 黃暉升  </teacher>
+<score> 1 </score>
+<time> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5777 </place>
+<place> 醫技醫工館                    5761 </place>
 <note></note>
 </T3>
 
 <T3 id="003">
 <num>T3-003</num>
-<class> 碩一                           </class>
+<class></class>
 <group></group>
-<name> 實驗診斷學 </name>
-<teacher> 傅子芳*  ,  陳呈堯  </teacher>
+<name> 實驗室教學實習（一） </name>
+<teacher> 黃溫雅  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T3>
+
+<T3 id="004">
+<num>T3-004</num>
+<class></class>
+<group></group>
+<name> 實驗室教學實習（三） </name>
+<teacher> 黃溫雅  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T3>
+
+<T3 id="005">
+<num>T3-005</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 微生物致病機轉 </name>
+<teacher> 楊孔嘉   ,  王貞仁* </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
-<must> 必修 </must>
+<time> [1]3~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5777 </place>
-<note> 英語授課                                                                 </note>
+<place> 醫學院                        301D </place>
+<note> 醫技、分醫、基醫合班 </note>
 </T3>
 
 <T3 id="006">
 <num>T3-006</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 實驗室教學實習（二） </name>
-<teacher> 葉才明  </teacher>
-<score> 1 </score>
-<time> 
-  </time>
+<name> 高等分子生物學 </name>
+<teacher> 楊孔嘉*  ,  黃溫雅  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
 <must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 醫技所與分醫所合班，第四講堂與303D上課 </note>
 </T3>
 
-<T3 id="007">
-<num>T3-007</num>
-<class> 碩一                           </class>
+<T3 id="008">
+<num>T3-008</num>
+<class> 碩一二                         </class>
 <group></group>
-<name> 儀器分析 </name>
+<name> 醣生物學 </name>
 <teacher> 張權發  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5777 </place>
-<note> 大四可選                                                                 </note>
+<note></note>
+</T3>
+
+<T3 id="009">
+<num>T3-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 實驗診斷學概論 </name>
+<teacher> 傅子芳  </teacher>
+<score> 1 </score>
+<time> [4]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5776 </place>
+<note></note>
 </T3>
 
 <T3 id="010">
 <num>T3-010</num>
-<class></class>
+<class> 碩三延                         </class>
 <group></group>
-<name> 實驗室教學實習（四） </name>
-<teacher> 葉才明  </teacher>
+<name> 專題討論 </name>
+<teacher> 張權發  </teacher>
+<score> 0 </score>
+<time> [5]2  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5761 </place>
+<note></note>
+</T3>
+
+<T3 id="011">
+<num>T3-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生醫關鍵技術之開發與應用 </name>
+<teacher> 張權發  </teacher>
 <score> 1 </score>
 <time> 
   </time>
 <must> 選修 </must>
-<type> 實習 </type>
+<type> 講義 </type>
 <place></place>
 <note> 
  </note>
 </T3>
 
-<T3 id="021">
-<num>T3-021</num>
-<class> 碩二                           </class>
+<T3 id="012">
+<num>T3-012</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 陳百昇  </teacher>
+<name> 人體研究計畫與醫療器材相關法規暨倫理規範 </name>
+<teacher> 張權發  </teacher>
 <score> 1 </score>
-<time> [5]3~4  </time>
-<must> 必修 </must>
+<time> 
+  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
-<note> 英語授課                                                                 </note>
+<place></place>
+<note> 
+ </note>
 </T3>
 
-<T3 id="031">
-<num>T3-031</num>
-<class> 碩三                           </class>
+<T3 id="016">
+<num>T3-016</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論 </name>
+<name> 創業思維與啟航(一)-創業發展 </name>
 <teacher> 張權發  </teacher>
-<score> 0 </score>
-<time> [5]3~4  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 醫技醫工館                    5761 </place>
-<note></note>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T3>
+
+<T3 id="017">
+<num>T3-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航(二)-創業基礎 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T3>
+
+<T3 id="018">
+<num>T3-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航(三)-創業分享 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </T3>
 
 </content>

@@ -1,30 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
+<VJ id="001">
+<num>VJ-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 通信網路 </name>
+<teacher> 李忠憲  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note> 選修人數限制25人 </note>
+</VJ>
+
 <VJ id="002">
 <num>VJ-002</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 材料科學 </name>
-<teacher> 魏炯權  </teacher>
+<name> 數位訊號處理 </name>
+<teacher> 楊家輝  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92B28 </place>
-<note></note>
+<place> 電機系館                      繁城講堂 </place>
+<note> 碩專與碩博合班 </note>
 </VJ>
 
 <VJ id="003">
 <num>VJ-003</num>
 <class> 碩博                           </class>
 <group></group>
-<name> PLL/DLL設計與應用 </name>
-<teacher> 鄭光偉  </teacher>
+<name> 隨機程序 </name>
+<teacher> 張名先  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [2]6~7  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92277 </place>
+<place> 電機系館                      靄雲廳 </place>
 <note></note>
 </VJ>
 
@@ -32,13 +46,13 @@
 <num>VJ-004</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 固態熱力學 </name>
-<teacher> 李炳鈞  </teacher>
+<name> 通信電子學 </name>
+<teacher> 黃振發  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92B28 </place>
+<place> 電機系館                      令洋廳 </place>
 <note></note>
 </VJ>
 
@@ -46,24 +60,24 @@
 <num>VJ-005</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 奈米世代半導體製程概論 </name>
-<teacher> 彭洞清  </teacher>
+<name> 小波訊號處理 </name>
+<teacher> 陳進興  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      迅慧講堂 </place>
-<note> 建議材料/化工/化學/物理/光電(聯電主管授課)限126人。                      </note>
+<place> 電機系館                      92926 </place>
+<note></note>
 </VJ>
 
 <VJ id="006">
 <num>VJ-006</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 排隊理論 </name>
-<teacher> 李忠憲  </teacher>
+<name> 傅立葉分析 </name>
+<teacher> 陳進興  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92926 </place>
@@ -74,78 +88,8 @@
 <num>VJ-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 適應性信號處理 </name>
-<teacher> 張名先  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      靄雲廳 </place>
-<note></note>
-</VJ>
-
-<VJ id="008">
-<num>VJ-008</num>
-<class> 碩博                           </class>
-<group></group>
-<name> PLL/DLL設計與應用 </name>
-<teacher> 鄭光偉  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92277 </place>
-<note></note>
-</VJ>
-
-<VJ id="009">
-<num>VJ-009</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 無線網路與應用 </name>
+<name> 網路效能分析模擬 </name>
 <teacher> 郭文光  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92453 </place>
-<note></note>
-</VJ>
-
-<VJ id="010">
-<num>VJ-010</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 網路安全 </name>
-<teacher> 楊竹星  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      令洋廳 </place>
-<note></note>
-</VJ>
-
-<VJ id="011">
-<num>VJ-011</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等計算機演算理論 </name>
-<teacher> 戴顯權  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92523 </place>
-<note></note>
-</VJ>
-
-<VJ id="012">
-<num>VJ-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 矩陣理論與計算 </name>
-<teacher> 陳進興  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -154,42 +98,126 @@
 <note></note>
 </VJ>
 
-<VJ id="013">
-<num>VJ-013</num>
+<VJ id="008">
+<num>VJ-008</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 合作式通訊與網路 </name>
+<teacher> 劉光浩  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92383 </place>
+<note></note>
+</VJ>
+
+<VJ id="009">
+<num>VJ-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 奈米世代半導體製程概論 </name>
-<teacher> 彭洞清  </teacher>
+<name> 單石射頻積體電路設計 </name>
+<teacher> 鄭光偉  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note> 碩博與電通所合班 </note>
+</VJ>
+
+<VJ id="010">
+<num>VJ-010</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 光電通訊系統 </name>
+<teacher> 黃振發  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</VJ>
+
+<VJ id="011">
+<num>VJ-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 配電系統自動化 </name>
+<teacher> 黃慶連  </teacher>
 <score> 3 </score>
 <time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      迅慧講堂 </place>
-<note> 建議材料/化工/化學/物理/光電(聯電主管授課)限126人。                      </note>
+<place> 電機系館                      繁城講堂 </place>
+<note> 限電資學院學生選修 </note>
+</VJ>
+
+<VJ id="012">
+<num>VJ-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高電壓工程特論 </name>
+<teacher> 黃慶連  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 限電資學院學生選修 </note>
+</VJ>
+
+<VJ id="013">
+<num>VJ-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子構裝技術 </name>
+<teacher> 洪茂峰  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
 </VJ>
 
 <VJ id="014">
 <num>VJ-014</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 半導體及先進奈米化製程技術概論（二） </name>
-<teacher> 王英郎  </teacher>
+<name> ＵＬＳＩ元件物理 </name>
+<teacher> 陳志方  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time> [3]4  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      迅慧講堂 </place>
-<note> 電資學院學生選修                                                         </note>
+<place> 電機系館                      92383 </place>
+<note></note>
+</VJ>
+
+<VJ id="015">
+<num>VJ-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 雷射工程 </name>
+<teacher> 蔡宗祐  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
 </VJ>
 
 <VJ id="016">
 <num>VJ-016</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 功率半導體元件概論 </name>
+<name> 高功率GaN-基LED製程專論 </name>
 <teacher> 王水進  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
@@ -198,16 +226,184 @@
 
 <VJ id="017">
 <num>VJ-017</num>
-<class> 碩一                           </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 施權峰   ,  黃正亮  </teacher>
-<score> 0 </score>
-<time> [3]N~5  </time>
-<must> 必修 </must>
-<type> 研討 </type>
+<name> 負微分電阻交換元件 </name>
+<teacher> 劉文超  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</VJ>
+
+<VJ id="018">
+<num>VJ-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體及先進奈米化製程技術概論（一） </name>
+<teacher> 王英郎  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 台積電主管開授(一),(二)都需修課 </note>
+</VJ>
+
+<VJ id="019">
+<num>VJ-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體元件物理 </name>
+<teacher> 王水進  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</VJ>
+
+<VJ id="020">
+<num>VJ-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光電元件設計與模擬 </name>
+<teacher> 張守進  </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</VJ>
+
+<VJ id="021">
+<num>VJ-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體製程 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92171 </place>
+<note></note>
+</VJ>
+
+<VJ id="022">
+<num>VJ-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 開發創新發明專題 </name>
+<teacher> 李清庭  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92283 </place>
+<note></note>
+</VJ>
+
+<VJ id="023">
+<num>VJ-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子與奈米材料分析 </name>
+<teacher> 李文熙  </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92377 </place>
+<note> 英語授課 </note>
+</VJ>
+
+<VJ id="024">
+<num>VJ-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 量子電子學 </name>
+<teacher> 莊文魁  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note> 英語授課 </note>
+</VJ>
+
+<VJ id="025">
+<num>VJ-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體感測器實務技術 </name>
+<teacher> 曾永華  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note></note>
+</VJ>
+
+<VJ id="027">
+<num>VJ-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 能量轉換 </name>
+<teacher> 黃世杰  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 碩博碩專合班 </note>
+</VJ>
+
+<VJ id="028">
+<num>VJ-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 單石射頻積體電路設計 </name>
+<teacher> 鄭光偉  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note> 碩博與電通所合班 </note>
+</VJ>
+
+<VJ id="029">
+<num>VJ-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子陶瓷 </name>
+<teacher> 李文熙  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
 <place> 電機系館                      92B28 </place>
-<note> 電子材料組                                                               </note>
+<note></note>
+</VJ>
+
+<VJ id="030">
+<num>VJ-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子與奈米材料分析 </name>
+<teacher> 李文熙  </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92377 </place>
+<note> 英語授課 </note>
 </VJ>
 
 </content>

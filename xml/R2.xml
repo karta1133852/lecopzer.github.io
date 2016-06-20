@@ -2,80 +2,138 @@
 <content>
 <R2 id="001">
 <num>R2-001</num>
-<class> 碩一                           </class>
+<class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 杜宜軒  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 未定  </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 統計系館                      62331 </place>
-<note> 碩一選修                                                                 </note>
+<note> 碩博合班 </note>
 </R2>
 
 <R2 id="002">
 <num>R2-002</num>
-<class> 碩二                           </class>
+<class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 杜宜軒  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 未定  </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 統計系館                      62331 </place>
-<note> 碩二選修                                                                 </note>
+<note> 碩博合班 </note>
 </R2>
 
-<R2 id="003">
-<num>R2-003</num>
-<class> 碩博                           </class>
+<R2 id="004">
+<num>R2-004</num>
+<class> 碩一                           </class>
 <group></group>
-<name> 專題討論 </name>
-<teacher> 杜宜軒  </teacher>
-<score> 0 </score>
-<time> [4]7~8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 統計系館                      62331 </place>
-<note> 碩博三以上選修，碩博合開                                                 </note>
+<name> 數理統計（一） </name>
+<teacher> 趙昌泰  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 統計系館                      62451 </place>
+<note></note>
 </R2>
 
 <R2 id="005">
 <num>R2-005</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 統計諮詢 </name>
+<name> 統計方法 </name>
+<teacher> 蘇佩芳  </teacher>
+<score> 4 </score>
+<time> [1]2~3  ,  [3]5~6  </time>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 統計系館                      62451 </place>
+<note></note>
+</R2>
+
+<R2 id="006">
+<num>R2-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 統計諮詢專題 </name>
 <teacher> 馬瀰嘉  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 必選 </must>
 <type> 講義 </type>
 <place> 統計系館                      62227 </place>
-<note></note>
-</R2>
-
-<R2 id="006">
-<num>R2-006</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 數理統計（二） </name>
-<teacher> 馬瀰嘉  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 必選 </must>
-<type> 講義 </type>
-<place> 統計系館                      62113 </place>
-<note></note>
+<note> 限碩二博二以上選修 </note>
 </R2>
 
 <R2 id="007">
 <num>R2-007</num>
+<class> 博一                           </class>
+<group></group>
+<name> 高等統計推論（一） </name>
+<teacher> 林良靖  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62451 </place>
+<note></note>
+</R2>
+
+<R2 id="008">
+<num>R2-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 線性模式 </name>
-<teacher> 李俊毅  </teacher>
+<name> 統計資料採礦 </name>
+<teacher> 鄭順林  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62225 </place>
+<note></note>
+</R2>
+
+<R2 id="009">
+<num>R2-009</num>
+<class></class>
+<group></group>
+<name> 高等生物統計學與個案研究 </name>
+<teacher> 石　瑜  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R2>
+
+<R2 id="010">
+<num>R2-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 投資技術分析 </name>
+<teacher> 吳宗正  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62333 </place>
+<note></note>
+</R2>
+
+<R2 id="011">
+<num>R2-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 管理學統計方法專題 </name>
+<teacher> 呂金河  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
@@ -84,74 +142,74 @@
 <note></note>
 </R2>
 
-<R2 id="008">
-<num>R2-008</num>
-<class> 碩一                           </class>
+<R2 id="014">
+<num>R2-014</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 臨床試驗 </name>
-<teacher> 杜宜軒  </teacher>
+<name> 企業決策方法 </name>
+<teacher> 潘浙楠  </teacher>
+<score> 3 </score>
+<time> [1]9~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 方法學門 </note>
+</R2>
+
+<R2 id="015">
+<num>R2-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 多變量分析理論與應用 </name>
+<teacher> 詹世煌  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [4]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62451 </place>
+<note></note>
+</R2>
+
+<R2 id="017">
+<num>R2-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 隨機過程 </name>
+<teacher> 張欣民  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62451 </place>
+<note></note>
+</R2>
+
+<R2 id="018">
+<num>R2-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 長期追蹤資料分析 </name>
+<teacher> 張升懋  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 統計系館                      62451 </place>
-<note> 大四以上可選讀                                                           </note>
+<place> 統計系館                      62225 </place>
+<note> 統計所與公衛所合開 </note>
 </R2>
 
-<R2 id="009">
-<num>R2-009</num>
+<R2 id="108">
+<num>R2-108</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 廣義線性模式 </name>
-<teacher> 嵇允嬋  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 統計系館                      62451 </place>
-<note></note>
-</R2>
-
-<R2 id="010">
-<num>R2-010</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 實驗設計理論與應用 </name>
-<teacher> 陳瑞彬  </teacher>
-<score> 3 </score>
-<time> [1]4  ,  [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 統計系館                      62451 </place>
-<note></note>
-</R2>
-
-<R2 id="011">
-<num>R2-011</num>
-<class> 碩博三延                       </class>
-<group></group>
-<name> 統計專題研究：多重比較（二） </name>
-<teacher> 溫敏杰  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 統計系館                      62333 </place>
-<note> 通過資格考後選修                                                         </note>
-</R2>
-
-<R2 id="012">
-<num>R2-012</num>
-<class> 碩博三延                       </class>
-<group></group>
-<name> 統計專題研究：最適設計專題（一） </name>
-<teacher> 陳瑞彬  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 統計系館                      62451 </place>
-<note> 通過資格考後選修                                                         </note>
+<name> 專題討論 </name>
+<teacher> 未定  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 統計系館                      62331 </place>
+<note> 博碩三以上選修, 碩博合班 </note>
 </R2>
 
 </content>
