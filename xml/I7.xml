@@ -34,8 +34,8 @@
 <group></group>
 <name> 人類發展 </name>
 <teacher> 汪翠瀅   ,  陳官琳* </teacher>
-<score> 1 </score>
-<time> [1]3  </time>
+<score> 2 </score>
+<time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        203D </place>
@@ -72,20 +72,6 @@
 <note></note>
 </I7>
 
-<I7 id="019">
-<num>I7-019</num>
-<class></class>
-<group></group>
-<name> 神經心理學與職能治療概論 </name>
-<teacher> 蔡佩倫* </teacher>
-<score> 1 </score>
-<time> [3]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        208 </place>
-<note></note>
-</I7>
-
 <I7 id="020">
 <num>I7-020</num>
 <class></class>
@@ -111,20 +97,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        203D </place>
-<note></note>
-</I7>
-
-<I7 id="025">
-<num>I7-025</num>
-<class></class>
-<group></group>
-<name> 兒童發展 </name>
-<teacher> 陳官琳* </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        307 </place>
 <note></note>
 </I7>
 

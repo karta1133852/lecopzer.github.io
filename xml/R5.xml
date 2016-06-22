@@ -324,6 +324,20 @@
 <note> 交管所電管所合班 </note>
 </R5>
 
+<R5 id="184">
+<num>R5-184</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 航空運輸專論 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [6]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 選課需經本系登記審核通過 </note>
+</R5>
+
 <R5 id="301">
 <num>R5-301</num>
 <class> 碩專                           </class>
@@ -424,6 +438,20 @@
 <place></place>
 <note> 
  </note>
+</R5>
+
+<R5 id="308">
+<num>R5-308</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 航空運輸專論 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [6]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 選課需經本系登記審核通過 </note>
 </R5>
 
 </content>

@@ -56,22 +56,6 @@
 <note></note>
 </T7>
 
-<T7 id="012">
-<num>T7-012</num>
-<class></class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 張哲豪   ,  林玲伊   ,  馬慧英   ,  陳官琳  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place></place>
-<note> 
- </note>
-</T7>
-
 <T7 id="013">
 <num>T7-013</num>
 <class> 碩一                           </class>
@@ -97,7 +81,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第三講堂 </place>
-<note></note>
+<note> 與公衛所合開。 </note>
 </T7>
 
 <T7 id="015">

@@ -115,7 +115,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第三講堂 </place>
-<note></note>
+<note> 與公衛所合開。 </note>
 </S3>
 
 <S3 id="009">
@@ -123,7 +123,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 神經生理學書報討論（一） </name>
-<teacher> 莊季瑛   ,  黃阿敏   ,  楊尚訓*  ,  陳珮君   ,  張雅雯  </teacher>
+<teacher> 莊季瑛   ,  黃阿敏   ,  楊尚訓   ,  陳珮君   ,  張雅雯* </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 選修 </must>
@@ -137,7 +137,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 神經科學 </name>
-<teacher> 莊季瑛   ,  黃阿敏*  ,  楊尚訓   ,  陳珮君   ,  張雅雯  </teacher>
+<teacher> 莊季瑛   ,  黃阿敏   ,  楊尚訓   ,  陳珮君*  ,  張雅雯  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
 <must> 選修 </must>

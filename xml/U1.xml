@@ -151,7 +151,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    八樓研討室A </place>
-<note> 與經濟所合開，領域二 </note>
+<note></note>
 </U1>
 
 <U1 id="012">
@@ -221,7 +221,21 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80203 </place>
-<note> 經濟分析領域--大學部四年級以上才能修習  (英語授課) </note>
+<note> 分析工具領域--大學部四年級以上才能修習  (英語授課) </note>
+</U1>
+
+<U1 id="017">
+<num>U1-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 政治心理學專題研究 </name>
+<teacher> 蒙志成  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室C </place>
+<note></note>
 </U1>
 
 <U1 id="021">
@@ -303,7 +317,7 @@
 <class> 碩專一                         </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 陳欣之   ,  洪敬富   ,  鍾兆真   ,  王奕婷  </teacher>
+<teacher> 陳欣之*  ,  洪敬富   ,  鍾兆真   ,  王奕婷  </teacher>
 <score> 0 </score>
 <time> [6]3~4  </time>
 <must> 必修 </must>
@@ -373,7 +387,7 @@
 <class> 碩專一二                       </class>
 <group></group>
 <name> 政治治理與發展專題：中國發展與治理 </name>
-<teacher> 未定  </teacher>
+<teacher> 洪敬富  </teacher>
 <score> 3 </score>
 <time> [2]A~C  </time>
 <must> 選修 </must>

@@ -35,7 +35,7 @@
 <name> 工程力學 </name>
 <teacher> 潘文峰  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time> [1]1~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
@@ -49,24 +49,10 @@
 <name> 計算機概論 </name>
 <teacher> 王宗一  </teacher>
 <score> 3 </score>
-<time> [2]7~8  ,  [4]3  </time>
+<time> [2]7~8  ,  [1]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
-<note></note>
-</E9>
-
-<E9 id="009">
-<num>E9-009</num>
-<class></class>
-<group></group>
-<name> 材料科學 </name>
-<teacher> 趙隆山  </teacher>
-<score> 3 </score>
-<time> [3]3~4  ,  [4]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41107 </place>
 <note></note>
 </E9>
 
@@ -129,13 +115,17 @@
 <name> 工程圖學與模擬 </name>
 <teacher> 李輝煌  </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [5]3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 工科系館                      41102 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 工程圖學與模擬 </name1>
+<time1> [5]4~N  </time1>
+<place1> 工科系館                      41102 </place1>
+<note1></note1>
 </E9>
 
 <E9 id="018">
@@ -187,7 +177,7 @@
 <name> 材料力學（一） </name>
 <teacher> 陳蓉珊  </teacher>
 <score> 3 </score>
-<time> [1]6~7  ,  [3]3  </time>
+<time> [1]7~8  ,  [3]3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41107 </place>
@@ -235,7 +225,7 @@
 <name> 熱力學 </name>
 <teacher> 劉中堅  </teacher>
 <score> 3 </score>
-<time> [2]7~8  ,  [5]7  </time>
+<time> [4]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
@@ -249,7 +239,7 @@
 <name> 服務學習（三） </name>
 <teacher> 侯廷偉  </teacher>
 <score> 0 </score>
-<time> [2]9  </time>
+<time> [1]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 工科系館                      41107 </place>
@@ -263,7 +253,7 @@
 <name> 流體力學 </name>
 <teacher> 周榮華  </teacher>
 <score> 3 </score>
-<time> [2]5~6  ,  [5]8  </time>
+<time> [2]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41107 </place>
@@ -277,7 +267,7 @@
 <name> 計算機組織與組合語言 </name>
 <teacher> 鄧維光  </teacher>
 <score> 3 </score>
-<time> [3]8  ,  [4]5~6  </time>
+<time> [3]5  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41107 </place>
@@ -291,7 +281,7 @@
 <name> 自動控制 </name>
 <teacher> 何明字  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time> [1]5~6  ,  [3]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41107 </place>

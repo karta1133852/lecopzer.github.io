@@ -35,7 +35,7 @@
 <name> 人力資源管理 </name>
 <teacher> 史習安  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
@@ -53,7 +53,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
-<note></note>
+<note> 國企所與醫工所合開 </note>
 </R6>
 
 <R6 id="009">
@@ -68,6 +68,20 @@
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
 <note></note>
+</R6>
+
+<R6 id="010">
+<num>R6-010</num>
+<class> 碩                             </class>
+<group></group>
+<name> 生物科技產業分析 </name>
+<teacher> 陳芃婷  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5731 </place>
+<note> 國企所與醫工所合開 </note>
 </R6>
 
 <R6 id="011">

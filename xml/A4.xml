@@ -84,20 +84,6 @@
 <note> 教育方法課程(6選3) </note>
 </A4>
 
-<A4 id="205">
-<num>A4-205</num>
-<class> 學程                           </class>
-<group></group>
-<name> 教學原理 </name>
-<teacher> 于富雲  </teacher>
-<score> 2 </score>
-<time> [2]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27808 </place>
-<note> 教育方法課程(6選3) </note>
-</A4>
-
 <A4 id="301">
 <num>A4-301</num>
 <class> 學程                           </class>
@@ -145,7 +131,7 @@
 <class> 學程                           </class>
 <group></group>
 <name> 歷史／社會領域歷史教材教法 </name>
-<teacher> 江達智  </teacher>
+<teacher> 許守泯*  ,  陳恒安   ,  謝美娥   ,  楊尹瑄  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
 <must> 必修 </must>
@@ -259,7 +245,7 @@
 <name> 藝術生活科-視覺應用藝術教材教法 </name>
 <teacher> 吳奕芳  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time> [4]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>

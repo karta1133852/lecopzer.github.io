@@ -41,7 +41,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 碩班核心課程 </note>
+<note> 碩班核心課程/博班選修課程 </note>
 </RA>
 
 <RA id="004">
@@ -217,13 +217,13 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 計量經濟學 </name>
-<teacher> 未定  </teacher>
+<teacher> 謝惠璟  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 博士班方法學門 </note>
+<note> 博士班方法學門；碩士班選修課程 </note>
 </RA>
 
 <RA id="017">
@@ -237,7 +237,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 碩士班核心課程 </note>
+<note> 碩士班核心課程；博士班選修課程 </note>
 </RA>
 
 <RA id="018">
@@ -321,12 +321,12 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 選修課程 </note>
+<note> 選修課程；隔週上課 </note>
 </RA>
 
 <RA id="301">
 <num>RA-301</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 陳正忠  </teacher>
@@ -351,7 +351,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 碩班核心課程 </note>
+<note> 碩班核心課程/博班選修課程 </note>
 </RA>
 
 <RA id="304">
@@ -499,13 +499,13 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 計量經濟學 </name>
-<teacher> 未定  </teacher>
+<teacher> 謝惠璟  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 博士班方法學門 </note>
+<note> 博士班方法學門；碩士班選修課程 </note>
 </RA>
 
 <RA id="317">
@@ -519,7 +519,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 碩士班核心課程 </note>
+<note> 碩士班核心課程；博士班選修課程 </note>
 </RA>
 
 <RA id="318">
@@ -603,7 +603,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 選修課程 </note>
+<note> 選修課程；隔週上課 </note>
 </RA>
 
 <RA id="331">
@@ -617,7 +617,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 核心課程(上課地點為台北科技大學) </note>
+<note> 台北班課程 核心課程(上課地點待通知) </note>
 </RA>
 
 <RA id="332">
@@ -631,7 +631,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 核心課程(上課地點為台北科技大學科研1322教室) </note>
+<note> 台北班課程 核心課程(上課地點待通知) </note>
 </RA>
 
 <RA id="333">
@@ -645,7 +645,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 選修課程(上課地點為台北科技大學科研1322教室) </note>
+<note> 台北班課程 選修課程(上課地點待通知) </note>
 </RA>
 
 <RA id="334">
@@ -659,7 +659,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 方法學課程(上課地點為台北科技大學科研1322教室) </note>
+<note> 台北班課程 方法學課程(上課地點待通知) </note>
 </RA>
 
 </content>

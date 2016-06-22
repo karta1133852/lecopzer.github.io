@@ -67,7 +67,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        醫圖電腦教室 </place>
-<note></note>
+<note> 與分醫所合開。 </note>
 </S5>
 
 <S5 id="107">
@@ -123,7 +123,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        304D </place>
-<note> 限博士班學生選修 </note>
+<note> 限博士班學生選修。再生醫學科技學分學程。與基醫所合開。 </note>
 </S5>
 
 <S5 id="111">
@@ -179,7 +179,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 英文授課 </note>
+<note> 全英文授課。 </note>
 </S5>
 
 <S5 id="119">
@@ -505,7 +505,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 再生醫學科技學分學程；碩專必選；全英文 </note>
+<note> 再生醫學科技學分學程；碩專必選；全英文。5:30上課 </note>
 </S5>
 
 <S5 id="178">

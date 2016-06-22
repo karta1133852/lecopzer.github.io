@@ -231,7 +231,7 @@
 <name> 英語口語訓練（三） </name>
 <teacher> 王穎  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time> [3]7  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26421 </place>
@@ -245,7 +245,7 @@
 <name> 英語口語訓練（三） </name>
 <teacher> 石苓  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time> [3]7  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26423 </place>
@@ -259,7 +259,7 @@
 <name> 英語口語訓練（三） </name>
 <teacher> 高實玫  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time> [3]7  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26401 </place>
@@ -273,7 +273,7 @@
 <name> 英文作文（三） </name>
 <teacher> 閔慧慈  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26404 </place>
@@ -287,7 +287,7 @@
 <name> 英文作文（三） </name>
 <teacher> 陳昭芳  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26406 </place>
@@ -301,7 +301,7 @@
 <name> 英文作文（三） </name>
 <teacher> 鄒文莉  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26408 </place>
@@ -315,7 +315,7 @@
 <name> 英文作文（三） </name>
 <teacher> 游素玲  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26405 </place>
@@ -329,7 +329,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26408 </place>
@@ -343,7 +343,7 @@
 <name> 法文（三） </name>
 <teacher> 陳健宏  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26404 </place>
@@ -357,7 +357,7 @@
 <name> 德文（三） </name>
 <teacher> 謝菁玉  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26405 </place>
@@ -371,7 +371,7 @@
 <name> 西班牙文（三） </name>
 <teacher> 盧慧娟  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26406 </place>
@@ -399,11 +399,11 @@
 <name> 女性作家 </name>
 <teacher> 游素玲  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26421 </place>
-<note> 文學選修 </note>
+<place></place>
+<note> 文學選修，星期二第7節上課 </note>
 </B2>
 
 <B2 id="066">
@@ -683,7 +683,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26402 </place>
-<note> 文學選修，外籍教師，星期三第5節上課。 </note>
+<note> 文學選修，外籍教師 </note>
 </B2>
 
 <B2 id="119">
@@ -693,11 +693,11 @@
 <name> 新英文文學 </name>
 <teacher> 張淑麗  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26401 </place>
-<note> 文學選修 </note>
+<place></place>
+<note> 文學選修，星期二第7節上課 </note>
 </B2>
 
 <B2 id="120">
@@ -707,11 +707,11 @@
 <name> 語言教學與研究量化資料處理 </name>
 <teacher> 陳世威  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26425 </place>
-<note> 語言學選修 </note>
+<place> 修齊大樓                      26409 </place>
+<note> 語言學選修，星期三第N節上課 </note>
 </B2>
 
 <B2 id="121">
@@ -735,11 +735,11 @@
 <name> 英語語言發展史（一） </name>
 <teacher> 李惠琦  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26403 </place>
-<note> 語言學選修 </note>
+<place></place>
+<note> 語言學選修，星期二第7節上課 </note>
 </B2>
 
 <B2 id="161">
@@ -777,11 +777,11 @@
 <name> 電影與文化 </name>
 <teacher> 王穎  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26425 </place>
-<note></note>
+<place></place>
+<note> 星期二第7節上課 </note>
 </B2>
 
 <B2 id="167">

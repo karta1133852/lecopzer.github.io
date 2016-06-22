@@ -229,7 +229,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜   ,  羅玉枝   ,  蔡文杰  </teacher>
+<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
@@ -305,6 +305,34 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75710 </place>
+<note></note>
+</L6>
+
+<L6 id="107">
+<num>L6-107</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 植物荷爾蒙學 </name>
+<teacher> 張清俊  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75802 </place>
+<note></note>
+</L6>
+
+<L6 id="108">
+<num>L6-108</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 水生生物病毒學 </name>
+<teacher> 洪健睿  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75802 </place>
 <note></note>
 </L6>
 

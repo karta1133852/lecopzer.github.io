@@ -171,7 +171,7 @@
 <class></class>
 <group></group>
 <name> 性格心理學 </name>
-<teacher> 未定  </teacher>
+<teacher> 余睿羚  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -205,6 +205,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</D8>
+
+<D8 id="060">
+<num>D8-060</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 周麗芳   ,  胡中凡* </teacher>
+<score> 0 </score>
+<time> [2]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    80201 </place>
 <note></note>
 </D8>
 
@@ -243,13 +257,11 @@
 <name> 專題研究（一） </name>
 <teacher> 龔俊嘉   ,  謝淑蘭*  ,  楊政達   ,  林君昱   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [5]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
 </D8>
 
 <D8 id="104">
@@ -288,6 +300,20 @@
 <teacher> 黃碧群  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</D8>
+
+<D8 id="110">
+<num>D8-110</num>
+<class></class>
+<group></group>
+<name> 記憶心理學 </name>
+<teacher> 林君昱  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>

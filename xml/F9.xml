@@ -323,15 +323,13 @@
 <class></class>
 <group></group>
 <name> 熱力學 </name>
-<teacher> 劉中堅  </teacher>
+<teacher> 未定  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫技醫工館                    5731 </place>
+<note></note>
 </F9>
 
 <F9 id="116">
@@ -362,18 +360,34 @@
 <note></note>
 </F9>
 
-<F9 id="118">
-<num>F9-118</num>
+<F9 id="119">
+<num>F9-119</num>
 <class></class>
 <group></group>
-<name> 動力學 </name>
-<teacher> 未定  </teacher>
+<name> 有機化學（二） </name>
+<teacher> 林建功* </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</F9>
+
+<F9 id="120">
+<num>F9-120</num>
+<class></class>
+<group></group>
+<name> 醫藥生技與產業概論 </name>
+<teacher> 曾大千   ,  陳炳焜* </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5731 </place>
-<note></note>
+<place> 照坤精密儀器大樓              95A021 </place>
+<note> 生技系與醫工系合開 </note>
 </F9>
 
 <F9 id="151">

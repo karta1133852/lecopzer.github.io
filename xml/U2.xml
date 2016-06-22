@@ -107,7 +107,7 @@
 <name> 刑事法法學德文（三） </name>
 <teacher> 許澤天  </teacher>
 <score> 2 </score>
-<time> [3]1~2  </time>
+<time> [4]1~2  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -146,14 +146,14 @@
 <num>U2-112</num>
 <class> 博                             </class>
 <group></group>
-<name> 憲法基本問題研究（四） </name>
+<name> 憲法專題研究（一） </name>
 <teacher> 許育典  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
-<note> 開放碩士班選修。 </note>
+<note></note>
 </U2>
 
 <U2 id="113">
@@ -180,7 +180,7 @@
 <time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
+<place> 社科院大樓                    七樓研討室B </place>
 <note></note>
 </U2>
 
@@ -194,7 +194,7 @@
 <time> [3]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
+<place> 社科院大樓                    七樓研討室B </place>
 <note></note>
 </U2>
 

@@ -14,22 +14,6 @@
 <note> 限修畢四十五學分以上選修。 </note>
 </R0>
 
-<R0 id="302">
-<num>R0-302</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 創業基礎與行動 </name>
-<teacher> 楊朝旭   ,  王泰裕   ,  林正章   ,  蔡東峻   ,  張紹基   ,  史習安   ,  曾瓊慧  </teacher>
-<score> 3 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</R0>
-
 <R0 id="303">
 <num>R0-303</num>
 <class> 碩專一                         </class>
@@ -108,14 +92,14 @@
 <num>R0-308</num>
 <class> 碩專一                         </class>
 <group></group>
-<name> CEO高階實務管理 （一） </name>
+<name> CEO高階實務管理（二） </name>
 <teacher> 蔡東峻  </teacher>
 <score> 1 </score>
 <time> [6]B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      61X02 </place>
-<note> 限本所 </note>
+<note></note>
 </R0>
 
 <R0 id="309">
@@ -125,13 +109,11 @@
 <name> 公司財務策略個案研討 </name>
 <teacher> 張紹基  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
 </R0>
 
 <R0 id="310">
@@ -141,7 +123,7 @@
 <name> 管理經濟 </name>
 <teacher> 康信鴻  </teacher>
 <score> 3 </score>
-<time> [7]6~8  </time>
+<time> [7]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      61X02 </place>
@@ -155,11 +137,13 @@
 <name> 資訊科技與創新及競爭優勢 </name>
 <teacher> 徐立群  </teacher>
 <score> 2 </score>
-<time> [7]7~8  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62X01 </place>
-<note> 限本所 </note>
+<place></place>
+<note> 
+ </note>
 </R0>
 
 <R0 id="312">

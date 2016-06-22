@@ -378,34 +378,6 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
-<A9 id="077">
-<num>A9-077</num>
-<class></class>
-<group></group>
-<name> 法學緒論 </name>
-<teacher> 李君韜  </teacher>
-<score> 2 </score>
-<time> [1]5~6  </time>
-<must> 必修 </must>
-<type> 社會科學 </type>
-<place> 工管系館                      61104 </place>
-<note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(法學緒論)課程者,不得重覆選課,105學年度入學生為領域 </note>
-</A9>
-
-<A9 id="078">
-<num>A9-078</num>
-<class></class>
-<group></group>
-<name> 法學緒論 </name>
-<teacher> 李君韜  </teacher>
-<score> 2 </score>
-<time> [1]7~8  </time>
-<must> 必修 </must>
-<type> 社會科學 </type>
-<place> 工管系館                      61104 </place>
-<note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(法學緒論)課程者,不得重覆選課,105學年度入學生為領域 </note>
-</A9>
-
 <A9 id="081">
 <num>A9-081</num>
 <class></class>
@@ -929,7 +901,7 @@
 <class></class>
 <group></group>
 <name> 防災科技管理概論 </name>
-<teacher> 蔣麗君   ,  吳建宏   ,  姚昭智   ,  張　珩   ,  詹錢登   ,  孫建平   ,  周乃昉   ,  黃泰霖*  ,  林漢良   ,  馬敏元   ,  李俊璋  </teacher>
+<teacher> 蔣麗君   ,  吳建宏   ,  姚昭智   ,  張　珩   ,  詹錢登   ,  孫建平   ,  楊道昌   ,  周乃昉   ,  黃泰霖*  ,  林漢良   ,  馬敏元   ,  李俊璋  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -1242,7 +1214,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place></place>
+<place> 空中大學                      53101 </place>
 <note> 近代世界的形成(16-20世紀),104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不 </note>
 </A9>
 
@@ -1316,20 +1288,6 @@
 <note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(憲政民主體制)課程者,不得重覆選課,105學年度入學生為 </note>
 </A9>
 
-<A9 id="233">
-<num>A9-233</num>
-<class></class>
-<group></group>
-<name> 法學緒論 </name>
-<teacher> 李君韜  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 必修 </must>
-<type> 社會科學 </type>
-<place> 資源系館                      4354 </place>
-<note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(法學緒論)課程者,不得重覆選課,105學年度入學生為領域 </note>
-</A9>
-
 <A9 id="234">
 <num>A9-234</num>
 <class></class>
@@ -1396,7 +1354,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place></place>
+<place> 雲平大樓                      27808 </place>
 <note> 日本歷史與人物,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不得重覆選課 </note>
 </A9>
 
@@ -1638,6 +1596,20 @@
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、生命科學與健康,融入服務學習內涵之專業課程 </note>
 </A9>
 
+<A9 id="281">
+<num>A9-281</num>
+<class></class>
+<group></group>
+<name> 歷史與文化 </name>
+<teacher> 張勝柏  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A9>
+
 <A9 id="282">
 <num>A9-282</num>
 <class></class>
@@ -1662,7 +1634,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place></place>
+<place> 共同教室                      A1307 </place>
 <note> 文本與歷史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(文本與歷史)課程者,不得重覆選課 </note>
 </A9>
 
@@ -1816,7 +1788,7 @@
 <time> [4]1~2  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place></place>
+<place> 理化大樓                      格致廳小講堂 </place>
 <note> 口述歷史採訪,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(口述歷史)課程者,不得重覆選課 </note>
 </A9>
 
@@ -1858,7 +1830,7 @@
 <time> [4]1~2  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place></place>
+<place> 共同教室                      A1307 </place>
 <note> 過去與現代的對話,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史通論)課程者,不得重覆選課 </note>
 </A9>
 
@@ -2023,10 +1995,10 @@
 <name> 日常生活中的微生物 </name>
 <teacher> 辛致煒   ,  楊倍昌   ,  黃一修* </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 護理系館                      85X09 </place>
+<place> 醫技醫工館                    5776 </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文、社會科學、生命科學與健康 </note>
 </A9>
 

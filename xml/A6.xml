@@ -261,11 +261,13 @@
 <name> 服務學習（三）—交通安全服務 </name>
 <teacher> 蔡慧珍  </teacher>
 <score> 0 </score>
-<time> [7]  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note></note>
+<note> 
+ </note>
 </A6>
 
 <A6 id="019">

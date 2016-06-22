@@ -10,13 +10,13 @@
 <time> [3]3~4  ,  [5]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5825 </place>
+<place> 航太系館                      5824 </place>
 <note></note>
 <class1></class1>
 <group1></group1>
 <name1> 微積分（一） </name1>
-<time1> [3]5  </time1>
-<place1> 航太系館                      5834 </place1>
+<time1> [5]1  </time1>
+<place1> 航太系館                      5824 </place1>
 <note1></note1>
 </F0>
 
@@ -75,7 +75,7 @@
 <name> 工程圖學 </name>
 <teacher> 彭兆仲  </teacher>
 <score> 1 </score>
-<time> [3]6~8  </time>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 航太系館                      5896B </place>
@@ -238,6 +238,20 @@
  </note>
 </F0>
 
+<F0 id="106">
+<num>F0-106</num>
+<class></class>
+<group></group>
+<name> 太陽光電 </name>
+<teacher> 高　騏  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5830 </place>
+<note></note>
+</F0>
+
 <F0 id="151">
 <num>F0-151</num>
 <class></class>
@@ -306,7 +320,7 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5834 </place>
+<place> 航太系館                      5825 </place>
 <note> 能源學程與機械系合開。 </note>
 </F0>
 

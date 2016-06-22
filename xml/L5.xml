@@ -215,7 +215,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜   ,  羅玉枝   ,  蔡文杰  </teacher>
+<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
@@ -494,16 +494,34 @@
 
 <L5 id="042">
 <num>L5-042</num>
-<class> 碩博                           </class>
+<class></class>
 <group></group>
 <name> 植物分子標記的產業應用 </name>
 <teacher> 黃浩仁   ,  張文綺   ,  蔡文杰   ,  李瑞花* </teacher>
 <score> 1 </score>
-<time> [1]1  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      712 </place>
-<note></note>
+<place></place>
+<note> 
+ </note>
+</L5>
+
+<L5 id="043">
+<num>L5-043</num>
+<class></class>
+<group></group>
+<name> 3D列印在生物科技的應用 </name>
+<teacher> 蔣鎮宇*  ,  黃浩仁   ,  王浩文  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </L5>
 
 </content>

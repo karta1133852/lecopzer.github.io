@@ -315,12 +315,12 @@
 <class></class>
 <group></group>
 <name> 政治學概論 </name>
-<teacher> 黃清賢  </teacher>
+<teacher> 李國維  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80106 </place>
+<place> 社科院大樓                    80101 </place>
 <note> 自由選修 </note>
 </D5>
 
@@ -363,7 +363,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61104 </place>
-<note> 工資管系與經濟系合開 </note>
+<note> 工資管系與經濟系(自由選修)合開 </note>
 </D5>
 
 <D5 id="153">
@@ -461,7 +461,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80203 </place>
-<note> 經濟分析領域--大學部四年級以上才能修習  (英語授課) </note>
+<note> 分析工具領域--大學部四年級以上才能修習  (英語授課) </note>
 </D5>
 
 </content>

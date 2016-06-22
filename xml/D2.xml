@@ -84,31 +84,17 @@
 <note> 基礎法學 </note>
 </D2>
 
-<D2 id="012">
-<num>D2-012</num>
-<class></class>
-<group></group>
-<name> 羅馬法 </name>
-<teacher> 李君韜  </teacher>
-<score> 2 </score>
-<time> [5]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80105 </place>
-<note> 基礎法學 </note>
-</D2>
-
 <D2 id="013">
 <num>D2-013</num>
 <class></class>
 <group></group>
 <name> 法學緒論 </name>
-<teacher> 李君韜  </teacher>
+<teacher> 許澤天  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    階梯教室-經濟 </place>
+<place> 社科院大樓                    實習法庭 </place>
 <note> 基礎法學 </note>
 </D2>
 
@@ -218,20 +204,6 @@
 <teacher> 葉婉如  </teacher>
 <score> 2 </score>
 <time> [5]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    實習法庭 </place>
-<note> 專題及實例研討 </note>
-</D2>
-
-<D2 id="065">
-<num>D2-065</num>
-<class></class>
-<group></group>
-<name> 民法實例演習（一） </name>
-<teacher> 李君韜  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
