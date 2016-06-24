@@ -39,9 +39,9 @@
 <class> 碩博二                         </class>
 <group></group>
 <name> 創意產業研究行動方案 </name>
-<teacher> 劉舜仁  </teacher>
+<teacher> 林蕙玟  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -53,12 +53,26 @@
 <class> 博                             </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 劉舜仁  </teacher>
+<teacher> 劉世南  </teacher>
 <score> 0 </score>
 <time> [1]9~A  </time>
 <must> 必選 </must>
 <type> 研討 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
+<note></note>
+</PA>
+
+<PA id="005">
+<num>PA-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 展覽行銷 </name>
+<teacher> 卓彥廷  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5152 </place>
 <note></note>
 </PA>
 
@@ -81,7 +95,7 @@
 <class> 碩博二                         </class>
 <group></group>
 <name> 產業設計實習工作坊 </name>
-<teacher> 劉舜仁  </teacher>
+<teacher> 楊佳翰  </teacher>
 <score> 3 </score>
 <time> [2]9~B  </time>
 <must> 選修 </must>
@@ -156,7 +170,7 @@
 <num>PA-012</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 物質文化研究 </name>
+<name> 文化研究 </name>
 <teacher> 陳明惠  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>

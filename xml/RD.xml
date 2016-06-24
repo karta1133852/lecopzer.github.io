@@ -49,13 +49,11 @@
 <name> 企業經營專討 </name>
 <teacher> 林軒竹   ,  蔡東峻*  ,  張紹基  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      小哈佛教室 </place>
+<note> 限本所 </note>
 </RD>
 
 <RD id="105">
@@ -406,6 +404,34 @@
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
 <note> 方法學門 </note>
+</RD>
+
+<RD id="132">
+<num>RD-132</num>
+<class> 碩                             </class>
+<group></group>
+<name> 財務報告分析與研究 </name>
+<teacher> 林軒竹   ,  邱正仁* </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63404 </place>
+<note> 外所學生修課需經任課教師簽核 </note>
+</RD>
+
+<RD id="133">
+<num>RD-133</num>
+<class> 碩                             </class>
+<group></group>
+<name> 總體經濟學 </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63210 </place>
+<note></note>
 </RD>
 
 </content>

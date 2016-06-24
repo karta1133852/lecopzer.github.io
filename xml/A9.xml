@@ -416,7 +416,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307 </place>
+<place> 共同教室                      A1307(資源旁) </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -668,7 +668,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307 </place>
+<place> 共同教室                      A1307(資源旁) </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -906,7 +906,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1307 </place>
+<place> 共同教室                      A1307(資源旁) </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：社會科學、自然工程科學 </note>
 </A9>
 
@@ -1344,20 +1344,6 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
-<A9 id="238">
-<num>A9-238</num>
-<class></class>
-<group></group>
-<name> 歷史與文化 </name>
-<teacher> 李啟彰  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 雲平大樓                      27808 </place>
-<note> 日本歷史與人物,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不得重覆選課 </note>
-</A9>
-
 <A9 id="239">
 <num>A9-239</num>
 <class></class>
@@ -1396,7 +1382,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1307 </place>
+<place> 共同教室                      A1307(資源旁) </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
@@ -1550,7 +1536,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 台文系館                      88135 </place>
+<place> 修齊大樓                      26402 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1624,20 +1610,6 @@
 <note> 文本與歷史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(文本與歷史)課程者,不得重覆選課 </note>
 </A9>
 
-<A9 id="283">
-<num>A9-283</num>
-<class></class>
-<group></group>
-<name> 文本與歷史 </name>
-<teacher> 許守泯  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 共同教室                      A1307 </place>
-<note> 文本與歷史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(文本與歷史)課程者,不得重覆選課 </note>
-</A9>
-
 <A9 id="285">
 <num>A9-285</num>
 <class></class>
@@ -1708,20 +1680,6 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
-<A9 id="308">
-<num>A9-308</num>
-<class></class>
-<group></group>
-<name> 文本與歷史 </name>
-<teacher> 許守泯  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 統計系館                      62223 </place>
-<note> 文本與歷史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(文本與歷史)課程者,不得重覆選課 </note>
-</A9>
-
 <A9 id="309">
 <num>A9-309</num>
 <class></class>
@@ -1734,20 +1692,6 @@
 <type> 人文學 </type>
 <place> 航太系館                      繼昌講堂 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
-</A9>
-
-<A9 id="310">
-<num>A9-310</num>
-<class></class>
-<group></group>
-<name> 歷史與文化 </name>
-<teacher> 陳文松  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 都計系館                      50204 </place>
-<note> 臺灣歷史人物評析,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不得重覆選課 </note>
 </A9>
 
 <A9 id="311">
@@ -1778,20 +1722,6 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
-<A9 id="313">
-<num>A9-313</num>
-<class></class>
-<group></group>
-<name> 口述歷史 </name>
-<teacher> 林德政  </teacher>
-<score> 2 </score>
-<time> [4]1~2  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 理化大樓                      格致廳小講堂 </place>
-<note> 口述歷史採訪,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(口述歷史)課程者,不得重覆選課 </note>
-</A9>
-
 <A9 id="314">
 <num>A9-314</num>
 <class></class>
@@ -1820,20 +1750,6 @@
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、自然與工程科學；融入服務學習內涵之專業課程 </note>
 </A9>
 
-<A9 id="316">
-<num>A9-316</num>
-<class></class>
-<group></group>
-<name> 歷史通論 </name>
-<teacher> 蔡幸娟  </teacher>
-<score> 2 </score>
-<time> [4]1~2  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 共同教室                      A1307 </place>
-<note> 過去與現代的對話,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史通論)課程者,不得重覆選課 </note>
-</A9>
-
 <A9 id="318">
 <num>A9-318</num>
 <class></class>
@@ -1858,7 +1774,7 @@
 <time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307 </place>
+<place> 共同教室                      A1307(資源旁) </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -2054,7 +1970,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1307 </place>
+<place> 共同教室                      A1307(資源旁) </place>
 <note> 英語授課，104學年度(含)以前入學生為科際整合課程相關領域：人文、社會科學、生命科學與健康 </note>
 </A9>
 
@@ -2086,20 +2002,6 @@
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過哲學概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
-<A9 id="401">
-<num>A9-401</num>
-<class></class>
-<group></group>
-<name> 歷史與文化 </name>
-<teacher> 李啟彰  </teacher>
-<score> 2 </score>
-<time> [5]3~4  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 電機系館                      92171 </place>
-<note> 東亞茶文化交流史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不得重覆選課 </note>
-</A9>
-
 <A9 id="402">
 <num>A9-402</num>
 <class></class>
@@ -2112,20 +2014,6 @@
 <type> 人文學 </type>
 <place> 雲平大樓                      27808 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過法政哲學課程者,不得重覆修課,105學年度入學生為領域通識 </note>
-</A9>
-
-<A9 id="403">
-<num>A9-403</num>
-<class></class>
-<group></group>
-<name> 婦女史 </name>
-<teacher> 蔡幸娟  </teacher>
-<score> 2 </score>
-<time> [5]3~4  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 系統系館                      56111 </place>
-<note> 傳統中國婦女與政治,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(婦女史)課程者,不得重覆選課 </note>
 </A9>
 
 <A9 id="404">
