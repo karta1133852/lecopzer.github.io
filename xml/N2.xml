@@ -840,20 +840,6 @@
 <note></note>
 </N2>
 
-<N2 id="199">
-<num>N2-199</num>
-<class> 碩博                           </class>
-<group></group>
-<name> SystemC 與行為階層設計 </name>
-<teacher> 蘇培陞  </teacher>
-<score> 3 </score>
-<time> [2]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92271 </place>
-<note></note>
-</N2>
-
 <N2 id="200">
 <num>N2-200</num>
 <class> 碩博                           </class>
@@ -991,20 +977,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
-<note></note>
-</N2>
-
-<N2 id="320">
-<num>N2-320</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> SystemC 與行為階層設計 </name>
-<teacher> 蘇培陞  </teacher>
-<score> 3 </score>
-<time> [2]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92271 </place>
 <note></note>
 </N2>
 

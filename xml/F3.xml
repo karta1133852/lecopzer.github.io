@@ -227,7 +227,7 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 工設系館                      5204A </place>
-<note> 搭配業師劉美均老師授課 </note>
+<note></note>
 </F3>
 
 <F3 id="054">
@@ -284,20 +284,6 @@
 <type> 實習 </type>
 <place></place>
 <note></note>
-</F3>
-
-<F3 id="062">
-<num>F3-062</num>
-<class></class>
-<group></group>
-<name> 數位表現技法 </name>
-<teacher> 陳劭農  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 無                            53311 </place>
-<note> 需先修以下科目: </note>
 </F3>
 
 <F3 id="063">
