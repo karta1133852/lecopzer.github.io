@@ -267,7 +267,7 @@
 <class></class>
 <group></group>
 <name> 社區護理學 </name>
-<teacher> 王琪珍   ,  葉莉莉   ,  王靜枝*  ,  陳靜敏  </teacher>
+<teacher> 王琪珍*  ,  葉莉莉   ,  王靜枝   ,  陳靜敏  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -281,7 +281,7 @@
 <class></class>
 <group></group>
 <name> 社區護理學實習 </name>
-<teacher> 王琪珍   ,  王靜枝*  ,  陳靜敏  </teacher>
+<teacher> 王琪珍*  ,  王靜枝   ,  陳靜敏  </teacher>
 <score> 3 </score>
 <time> [3]1~8  ,  [4]1  </time>
 <must> 必修 </must>

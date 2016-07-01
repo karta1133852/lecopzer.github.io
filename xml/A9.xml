@@ -1001,7 +1001,7 @@
 <name> 婦女史 </name>
 <teacher> 蔡幸娟  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time> [5]1~2  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 化學系館                      3268 </place>
@@ -1970,7 +1970,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 化工系館                      柏林講堂 </place>
 <note> 英語授課，104學年度(含)以前入學生為科際整合課程相關領域：人文、社會科學、生命科學與健康 </note>
 </A9>
 
@@ -2341,7 +2341,7 @@
 <class></class>
 <group></group>
 <name> 通識教育生活實踐（丙） </name>
-<teacher> 未定   ,  徐珊惠*  ,  古承宗* </teacher>
+<teacher> 徐珊惠*  ,  古承宗*  ,  王秀雲* </teacher>
 <score> 1 </score>
 <time> 
   </time>

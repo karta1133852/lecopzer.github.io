@@ -91,7 +91,7 @@
 <name> 魏晉南北朝史（一） </name>
 <teacher> 蔡幸娟  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [4]5~6  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -210,6 +210,20 @@
 <note></note>
 </B3>
 
+<B3 id="083">
+<num>B3-083</num>
+<class></class>
+<group></group>
+<name> 清史 </name>
+<teacher> 謝美娥  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</B3>
+
 <B3 id="104">
 <num>B3-104</num>
 <class></class>
@@ -254,32 +268,18 @@
 <note> 世界史領域 </note>
 </B3>
 
-<B3 id="107">
-<num>B3-107</num>
-<class></class>
-<group></group>
-<name> 清史 </name>
-<teacher> 謝美娥  </teacher>
-<score> 3 </score>
-<time> [2]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 中 </note>
-</B3>
-
 <B3 id="108">
 <num>B3-108</num>
 <class></class>
 <group></group>
-<name> 臺灣考古學 </name>
+<name> 考古學概論 </name>
 <teacher> 劉益昌  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 台 </note>
+<place> 唯農大樓                      7307 </place>
+<note></note>
 </B3>
 
 <B3 id="109">

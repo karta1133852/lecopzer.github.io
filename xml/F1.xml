@@ -194,7 +194,7 @@
 <time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 系統系館                      56113 </place>
+<place> 系統系館                      56226 </place>
 <note></note>
 </F1>
 
@@ -370,20 +370,6 @@
 <note></note>
 </F1>
 
-<F1 id="145">
-<num>F1-145</num>
-<class></class>
-<group></group>
-<name> 電腦輔助船舶設計 </name>
-<teacher> 李子宜  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56222 </place>
-<note></note>
-</F1>
-
 <F1 id="174">
 <num>F1-174</num>
 <class></class>
@@ -408,7 +394,7 @@
 <time> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 系統系館                      56226 </place>
+<place> 系統系館                      56224 </place>
 <note></note>
 </F1>
 

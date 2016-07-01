@@ -133,7 +133,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 建築設計（三） </name>
-<teacher> 陳柏年   ,  林靜娟   ,  沈弘軒   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤* </teacher>
+<teacher> 陳柏年*  ,  沈弘軒   ,  黃恩宇   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤* </teacher>
 <score> 4 </score>
 <time> [1]5~8  ,  [2]1~8  </time>
 <must> 必修 </must>
@@ -217,7 +217,7 @@
 <class> 工程組設計組                   </class>
 <group></group>
 <name> 建築設計（五） </name>
-<teacher> 卓建光   ,  顏茂倉*  ,  姜樂靜   ,  林宛蓁   ,  方　瑋   ,  黃恩宇   ,  趙元鴻   ,  黃介二  </teacher>
+<teacher> 卓建光   ,  陳柏年   ,  顏茂倉*  ,  姜樂靜   ,  林宛蓁   ,  方　瑋   ,  趙元鴻   ,  黃介二  </teacher>
 <score> 4 </score>
 <time> [2]1~9  </time>
 <must> 必修 </must>
@@ -391,7 +391,7 @@
 <class> 工程組                         </class>
 <group></group>
 <name> 建築專題設計 </name>
-<teacher> 陳震宇*  ,  陳德仁   ,  簡志穎   ,  張鶴齡  </teacher>
+<teacher> 陳震宇*  ,  陳德仁   ,  張鶴齡   ,  鄭采和  </teacher>
 <score> 5 </score>
 <time> [1]9~D  ,  [2]N~D  </time>
 <must> 必修 </must>
