@@ -538,32 +538,4 @@
 <note></note>
 </F3>
 
-<F3 id="169">
-<num>F3-169</num>
-<class></class>
-<group></group>
-<name> 設計管理 </name>
-<teacher> 陳連福  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 無                            53313 </place>
-<note></note>
-</F3>
-
-<F3 id="171">
-<num>F3-171</num>
-<class></class>
-<group></group>
-<name> 使用者研究 </name>
-<teacher> 洪郁修  </teacher>
-<score> 3 </score>
-<time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 無                            53307 </place>
-<note></note>
-</F3>
-
 </content>
