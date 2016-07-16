@@ -28,6 +28,20 @@
 <note> 教育基礎課程(4選2) </note>
 </A4>
 
+<A4 id="103">
+<num>A4-103</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教育社會學 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A4>
+
 <A4 id="201">
 <num>A4-201</num>
 <class> 學程                           </class>
@@ -84,6 +98,20 @@
 <note> 教育方法課程(6選3) </note>
 </A4>
 
+<A4 id="205">
+<num>A4-205</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教學原理 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A4>
+
 <A4 id="301">
 <num>A4-301</num>
 <class> 學程                           </class>
@@ -133,7 +161,7 @@
 <name> 歷史／社會領域歷史教材教法 </name>
 <teacher> 許守泯*  ,  陳恒安   ,  謝美娥   ,  楊尹瑄  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 歷史系館                      25131 </place>
@@ -273,7 +301,7 @@
 <class></class>
 <group></group>
 <name> 綜合活動領域輔導活動實習輔導 </name>
-<teacher> 洪素蘋  </teacher>
+<teacher> 饒夢霞  </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -338,7 +366,7 @@
 <time> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80107 </place>
+<place> 社科院大樓                    80203 </place>
 <note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
 </A4>
 
@@ -382,6 +410,34 @@
 <type> 講義 </type>
 <place> 雲平大樓                      27808 </place>
 <note> 1.選修科目。 2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="407">
+<num>A4-407</num>
+<class> 學程                           </class>
+<group></group>
+<name> 綜合活動學習領域概論 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      e化創新教室 </place>
+<note></note>
+</A4>
+
+<A4 id="408">
+<num>A4-408</num>
+<class> 學程                           </class>
+<group></group>
+<name> 學校輔導工作 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
 </A4>
 
 </content>

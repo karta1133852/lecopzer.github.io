@@ -65,11 +65,27 @@
 <name> 航電系統 </name>
 <teacher> 林清一  </teacher>
 <score> 3 </score>
-<time> [5]8~9  ,  [1]7  </time>
+<time> [5]8~9  ,  [1]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5828 </place>
 <note> 英語授課 </note>
+</Q4>
+
+<Q4 id="009">
+<num>Q4-009</num>
+<class></class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 楊文彬  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
 </Q4>
 
 <Q4 id="020">

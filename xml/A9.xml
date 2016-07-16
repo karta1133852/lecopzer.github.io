@@ -378,6 +378,20 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
+<A9 id="080">
+<num>A9-080</num>
+<class></class>
+<group></group>
+<name> 事業與商品服務之識別 </name>
+<teacher> 林易典  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 醫技醫工館                    5776 </place>
+<note></note>
+</A9>
+
 <A9 id="081">
 <num>A9-081</num>
 <class></class>
@@ -460,6 +474,20 @@
 <type> 人文學 </type>
 <place> 雲平大樓                      27103 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
+</A9>
+
+<A9 id="106">
+<num>A9-106</num>
+<class></class>
+<group></group>
+<name> 劇場表演與創意 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 都計系館                      50204 </place>
+<note></note>
 </A9>
 
 <A9 id="111">
@@ -602,6 +630,34 @@
 <note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(法學緒論)課程者,不得重覆選課,105學年度入學生為領域 </note>
 </A9>
 
+<A9 id="124">
+<num>A9-124</num>
+<class></class>
+<group></group>
+<name> 政經時事的公民思辨 </name>
+<teacher> 蒙志成  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 社科院大樓                    80106 </place>
+<note></note>
+</A9>
+
+<A9 id="125">
+<num>A9-125</num>
+<class></class>
+<group></group>
+<name> 社會實踐與社會企業 </name>
+<teacher> 王毓正  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7106 </place>
+<note></note>
+</A9>
+
 <A9 id="126">
 <num>A9-126</num>
 <class></class>
@@ -628,6 +684,20 @@
 <type> 社會科學 </type>
 <place> 唯農大樓                      7302 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
+</A9>
+
+<A9 id="128">
+<num>A9-128</num>
+<class></class>
+<group></group>
+<name> 民事紛爭解決概論 </name>
+<teacher> 邵靖惠  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 工科系館                      41101 </place>
+<note></note>
 </A9>
 
 <A9 id="129">
@@ -938,6 +1008,20 @@
 <note> 英語授課，104學年度(含)以前入學生為科際整合課程相關領域：人文學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
+<A9 id="176">
+<num>A9-176</num>
+<class></class>
+<group></group>
+<name> 性別、運動與科技 </name>
+<teacher> 徐珊惠*  ,  蔡玫姿   ,  胡敏君  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 測量系館                      55160 </place>
+<note></note>
+</A9>
+
 <A9 id="200">
 <num>A9-200</num>
 <class></class>
@@ -977,7 +1061,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 企管系館                      62218 </place>
-<note> 英語授課,104學年度(含)以前入學生為核心通識哲學與藝術領域課程,105學年度入學生為領域通識,已修過表演藝術概論課程者,不得重覆 </note>
+<note> 英語授課,104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課 </note>
 </A9>
 
 <A9 id="203">
@@ -1033,7 +1117,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 空中大學                      53101 </place>
-<note> 英語授課,104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課,105學年度入學生為領域 </note>
+<note> 英語授課,104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課,105學年度入為領域通識 </note>
 </A9>
 
 <A9 id="207">
@@ -1215,7 +1299,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 空中大學                      53101 </place>
-<note> 近代世界的形成(16-20世紀),104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不得重 </note>
+<note> 近代世界的形成(16-20世紀)104學年度(含)以前入學生為核心通識公民與歷史領域課程修過公民與歷史(歷史與文化)課程者不得重覆修課 </note>
 </A9>
 
 <A9 id="220">
@@ -1229,7 +1313,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 建築研究大樓                  5172 </place>
-<note> 近代世界的形成(16-20世紀),英語授課,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化) ,不 </note>
+<note> 近代世界的形成(16-20世紀)英授104學年度(含)以前入學生為核心通識公民與歷史領域課程修過公民與歷史(歷史與文化)者不得重覆修課 </note>
 </A9>
 
 <A9 id="222">
@@ -1285,7 +1369,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 測量系館                      經緯廳 </place>
-<note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(憲政民主體制)課程者,不得重覆選課,105學年度入學生為 </note>
+<note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程修過公民與歷史(憲政民主體制)課程者不得重覆修課 </note>
 </A9>
 
 <A9 id="234">
@@ -1344,6 +1428,20 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
+<A9 id="238">
+<num>A9-238</num>
+<class></class>
+<group></group>
+<name> 戲劇賞析 </name>
+<teacher> 高美華*  ,  林幸慧   ,  林明澤   ,  楊哲銘   ,  顧　盼   ,  劉南芳   ,  朱芳慧   ,  陳佳彬  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 中文系館                      文學院演講廳 </place>
+<note></note>
+</A9>
+
 <A9 id="239">
 <num>A9-239</num>
 <class></class>
@@ -1377,7 +1475,7 @@
 <class></class>
 <group></group>
 <name> 智慧綠生活 </name>
-<teacher> 薛丞倫   ,  陳世明   ,  陳震宇   ,  葉玉祥*  ,  陳品蓁   ,  陳彥仲   ,  石豐宇   ,  黃偉茹   ,  周君瑞   ,  洪郁修   ,  曾元琦   ,  陳璽任   ,  劉世南   ,  仲曉玲   ,  林蕙玟   ,  楊佳翰  </teacher>
+<teacher> 薛丞倫   ,  陳世明   ,  陳震宇   ,  葉玉祥*  ,  陳品蓁   ,  陳彥仲   ,  石豐宇   ,  黃偉茹   ,  周君瑞   ,  洪郁修   ,  曾元琦   ,  陳璽任   ,  劉世南   ,  仲曉玲   ,  林蕙玟   ,  楊佳翰   ,  卓彥廷  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -1508,7 +1606,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 建築系館                      5103 </place>
+<place> 醫學院                        501 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1582,6 +1680,20 @@
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、生命科學與健康,融入服務學習內涵之專業課程 </note>
 </A9>
 
+<A9 id="280">
+<num>A9-280</num>
+<class></class>
+<group></group>
+<name> 學術倫理：理論、案例與應用 </name>
+<teacher> 陳弘學  </teacher>
+<score> 1 </score>
+<time> [3]6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 資訊系館                      4203 </place>
+<note></note>
+</A9>
+
 <A9 id="281">
 <num>A9-281</num>
 <class></class>
@@ -1620,7 +1732,7 @@
 <time> [3]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 物理二館                      49X06 </place>
+<place> 資訊系館                      4203 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1636,6 +1748,20 @@
 <type> 人文學 </type>
 <place> 唯農大樓                      7106 </place>
 <note> MOOCS,104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
+</A9>
+
+<A9 id="303">
+<num>A9-303</num>
+<class></class>
+<group></group>
+<name> 劇場表演與創意 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 交管系館                      62102 </place>
+<note></note>
 </A9>
 
 <A9 id="305">
@@ -1663,7 +1789,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 交管系館                      62105 </place>
-<note> 台灣社會經濟史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(社會經濟史)課程者,不得重覆 </note>
+<note> 台灣社會經濟史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(社會經濟史)課程者,不得重覆修課 </note>
 </A9>
 
 <A9 id="307">
@@ -1778,6 +1904,20 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
+<A9 id="321">
+<num>A9-321</num>
+<class></class>
+<group></group>
+<name> 專利法 </name>
+<teacher> 許忠信  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 護理系館                      85X09 </place>
+<note></note>
+</A9>
+
 <A9 id="325">
 <num>A9-325</num>
 <class></class>
@@ -1790,6 +1930,20 @@
 <type> 社會科學 </type>
 <place> 資訊大樓                      格致廳大講堂 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
+</A9>
+
+<A9 id="328">
+<num>A9-328</num>
+<class></class>
+<group></group>
+<name> 生涯發展 </name>
+<teacher> 鄭淑惠  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 都計系館                      50204 </place>
+<note></note>
 </A9>
 
 <A9 id="330">
@@ -2153,7 +2307,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 雲平大樓                      27103 </place>
-<note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(法學緒論)課程者,不得重覆選課,105學年度入學生為領域 </note>
+<note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程修過公民與歷史(法學緒論)課程者不得重覆選課105學年度入學生為領域通識 </note>
 </A9>
 
 <A9 id="431">
@@ -2224,6 +2378,20 @@
 <type> 科際整合 </type>
 <place> 醫學院                        303D </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="469">
+<num>A9-469</num>
+<class></class>
+<group></group>
+<name> 存在、愛戀，也瘋狂 </name>
+<teacher> 劉珈銘   ,  顏盟峯   ,  林靜蘭   ,  陸汝斌*  ,  朱俊憲  </teacher>
+<score> 2 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place></place>
+<note></note>
 </A9>
 
 <A9 id="531">
@@ -2380,6 +2548,20 @@
 <type> 融合通識 </type>
 <place> 資訊大樓                      格致廳大講堂 </place>
 <note> 詳見通識課程簡介,第一階段限四年級選修 </note>
+</A9>
+
+<A9 id="573">
+<num>A9-573</num>
+<class></class>
+<group></group>
+<name> 通識專題講座-大學導航 </name>
+<teacher> 徐珊惠   ,  陳恒安   ,  古承宗*  ,  馬哲儒   ,  高　強  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note></note>
 </A9>
 
 </content>

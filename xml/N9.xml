@@ -271,7 +271,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 奈米製程技術與實作 </name>
-<teacher> 鍾崇仁  </teacher>
+<teacher> 鍾崇仁* </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>
@@ -441,10 +441,10 @@
 <name> 氣體動力學 </name>
 <teacher> 劉中堅  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41101 </place>
+<place> 工科系館                      41111 </place>
 <note></note>
 </N9>
 
@@ -460,6 +460,20 @@
 <type> 講義 </type>
 <place> 工科系館                      41103 </place>
 <note></note>
+</N9>
+
+<N9 id="040">
+<num>N9-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 雲端資料處理與方法 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note> 限大三四及碩博 </note>
 </N9>
 
 <N9 id="309">
@@ -585,7 +599,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
-<note></note>
+<note> 限本系碩專班學生 </note>
 </N9>
 
 <N9 id="325">
@@ -628,6 +642,20 @@
 <type> 講義 </type>
 <place> 工科系館                      41220 </place>
 <note> 限本系專班學生選修 </note>
+</N9>
+
+<N9 id="328">
+<num>N9-328</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 光電構裝 </name>
+<teacher> 周榮華  </teacher>
+<score> 3 </score>
+<time> [5]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41220 </place>
+<note> 限本系碩專班學生 </note>
 </N9>
 
 <N9 id="330">

@@ -383,7 +383,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 幾何與拓樸專題討論 </name>
-<teacher> 劉珈銘  </teacher>
+<teacher> 鄺國權  </teacher>
 <score> 0 </score>
 <time> [2]5~6  </time>
 <must> 選修 </must>
@@ -403,6 +403,20 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 數學系館                      研討室二 </place>
+<note></note>
+</L1>
+
+<L1 id="037">
+<num>L1-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 代數幾何專題討論 </name>
+<teacher> 劉珈銘  </teacher>
+<score> 0 </score>
+<time> [1]5~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 數學系館                      3177 </place>
 <note></note>
 </L1>
 

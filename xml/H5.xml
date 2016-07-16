@@ -390,6 +390,20 @@
 <note></note>
 </H5>
 
+<H5 id="135">
+<num>H5-135</num>
+<class></class>
+<group></group>
+<name> 資通訊科技法 </name>
+<teacher> 黃郁雯  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62105 </place>
+<note></note>
+</H5>
+
 <H5 id="163">
 <num>H5-163</num>
 <class></class>
@@ -427,7 +441,7 @@
 <class></class>
 <group></group>
 <name> 交通政策 </name>
-<teacher> 黃郁雯  </teacher>
+<teacher> 張有恒  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
 <must> 必修 </must>

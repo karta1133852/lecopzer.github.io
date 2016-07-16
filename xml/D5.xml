@@ -14,7 +14,7 @@
 <note></note>
 </D5>
 
-<D5 id="008">
+<D5 id="009">
 <num>D5-008</num>
 <class></class>
 <group></group>
@@ -28,24 +28,10 @@
 <note></note>
 <class1></class1>
 <group1></group1>
-<name1> 經濟學原理（一） </name1>
-<time1> [3]9  </time1>
+<name1> 統計學（一） </name1>
+<time1> [4]2~4  </time1>
 <place1> 社科院大樓                    80103 </place1>
 <note1></note1>
-</D5>
-
-<D5 id="009">
-<num>D5-009</num>
-<class></class>
-<group></group>
-<name> 統計學（一） </name>
-<teacher> 馬瀰嘉  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80103 </place>
-<note></note>
 </D5>
 
 <D5 id="010">

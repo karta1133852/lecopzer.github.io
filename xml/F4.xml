@@ -474,6 +474,20 @@
  </note>
 </F4>
 
+<F4 id="113">
+<num>F4-113</num>
+<class></class>
+<group></group>
+<name> 燃燒工程概論 </name>
+<teacher> 趙怡欽  </teacher>
+<score> 3 </score>
+<time> [4]7~8  ,  [1]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5822 </place>
+<note></note>
+</F4>
+
 <F4 id="151">
 <num>F4-151</num>
 <class></class>
@@ -524,20 +538,6 @@
 <teacher> 陳世雄  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5822 </place>
-<note></note>
-</F4>
-
-<F4 id="155">
-<num>F4-155</num>
-<class></class>
-<group></group>
-<name> 燃燒工程概論 </name>
-<teacher> 趙怡欽  </teacher>
-<score> 3 </score>
-<time> [4]7~8  ,  [1]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5822 </place>

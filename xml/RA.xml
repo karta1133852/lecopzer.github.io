@@ -2,18 +2,16 @@
 <content>
 <RA id="001">
 <num>RA-001</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 陳正忠  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62201 </place>
+<note> 本課程為０學分，限修畢39學分者選修 </note>
 </RA>
 
 <RA id="002">
@@ -289,7 +287,7 @@
 <name> 研究方法（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> [5]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -301,7 +299,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 企業研究方法 </name>
-<teacher> 吳萬益  </teacher>
+<teacher> 陳正忠  </teacher>
 <score> 3 </score>
 <time> [6]6~8  </time>
 <must> 選修 </must>
@@ -331,13 +329,11 @@
 <name> 專題討論 </name>
 <teacher> 陳正忠  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62201 </place>
+<note> 本課程為０學分，限修畢39學分者選修 </note>
 </RA>
 
 <RA id="303">
@@ -571,7 +567,7 @@
 <name> 研究方法（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> [5]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -583,7 +579,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 企業研究方法 </name>
-<teacher> 吳萬益  </teacher>
+<teacher> 陳正忠  </teacher>
 <score> 3 </score>
 <time> [6]6~8  </time>
 <must> 選修 </must>

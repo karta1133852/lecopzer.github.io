@@ -210,6 +210,20 @@
 <note> 俄文組必修 </note>
 </B2>
 
+<B2 id="021">
+<num>B2-021</num>
+<class></class>
+<group></group>
+<name> 英語聽講訓練（一） </name>
+<teacher> 李惠琦  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26421 </place>
+<note></note>
+</B2>
+
 <B2 id="022">
 <num>B2-022</num>
 <class></class>
@@ -754,6 +768,20 @@
 <type> 講義 </type>
 <place> 修齊大樓                      26403 </place>
 <note> 日文組進階選修、搭配外語畢業公演，外語教師，第二學期由黃淑妙老師授課。 </note>
+</B2>
+
+<B2 id="162">
+<num>B2-162</num>
+<class></class>
+<group></group>
+<name> 應用第二外語暨戲劇表演（一） </name>
+<teacher> 林蜀媛  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26405 </place>
+<note> 法文組進階選修、搭配外語畢業公演。 </note>
 </B2>
 
 <B2 id="165">
