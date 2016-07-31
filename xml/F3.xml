@@ -43,7 +43,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 陳亞麟  </teacher>
+<teacher> 何俊亨  </teacher>
 <score> 0 </score>
 <time> [5]N  </time>
 <must> 必修 </must>
@@ -235,7 +235,7 @@
 <class></class>
 <group> C </group>
 <name> 產品設計（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 陸定邦  </teacher>
 <score> 3 </score>
 <time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
@@ -283,6 +283,20 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
+<note></note>
+</F3>
+
+<F3 id="062">
+<num>F3-062</num>
+<class></class>
+<group></group>
+<name> 數位表現技法 </name>
+<teacher> 陳劭農  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53311 </place>
 <note></note>
 </F3>
 

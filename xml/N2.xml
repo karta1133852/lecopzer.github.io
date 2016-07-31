@@ -425,7 +425,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 羅錦興  </teacher>
+<teacher> 張凌昇  </teacher>
 <score> 0 </score>
 <time> [3]9~A  </time>
 <must> 必修 </must>
@@ -670,6 +670,20 @@
 <type> 講義 </type>
 <place> 電機系館                      令洋廳 </place>
 <note> 大四碩士合班 </note>
+</N2>
+
+<N2 id="178">
+<num>N2-178</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 正規驗證之理論與應用 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note></note>
 </N2>
 
 <N2 id="179">

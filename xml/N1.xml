@@ -161,7 +161,7 @@
 <name> 高等熱力學 </name>
 <teacher> 楊玉姿  </teacher>
 <score> 3 </score>
-<time> [1]3~5  </time>
+<time> [1]5  ,  [1]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91308 </place>
@@ -180,20 +180,6 @@
 <type> 講義 </type>
 <place> 機械系館                      91202 </place>
 <note> 大碩合開 </note>
-</N1>
-
-<N1 id="028">
-<num>N1-028</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等燃燒學 </name>
-<teacher> 林大惠  </teacher>
-<score> 3 </score>
-<time> [2]1  ,  [4]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91103 </place>
-<note> 英語授課 </note>
 </N1>
 
 <N1 id="030">
@@ -242,20 +228,6 @@
 <time1> [3]6~7  </time1>
 <place1> 機械系館                      91601 </place1>
 <note1></note1>
-</N1>
-
-<N1 id="033">
-<num>N1-033</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 生物流體力學 </name>
-<teacher> 陳嘉元  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91301 </place>
-<note> 英語授課 </note>
 </N1>
 
 <N1 id="034">
@@ -325,7 +297,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 工程分析 </name>
-<teacher> 李森墉   ,  陳朝光  </teacher>
+<teacher> 李森墉   ,  陳朝光* </teacher>
 <score> 3 </score>
 <time> [1]4  ,  [4]3~4  </time>
 <must> 選修 </must>
@@ -339,7 +311,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 振動力學 </name>
-<teacher> 陳國聲   ,  李森墉  </teacher>
+<teacher> 陳國聲   ,  李森墉* </teacher>
 <score> 3 </score>
 <time> [4]7~8  ,  [1]3  </time>
 <must> 選修 </must>
@@ -376,24 +348,38 @@
 <note></note>
 </N1>
 
-<N1 id="051">
+<N1 id="045">
 <num>N1-045</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 準分子雷射加工專題與實作 </name>
 <teacher> 李永春  </teacher>
 <score> 3 </score>
-<time> [1]7~8  ,  [3]3~4  </time>
+<time> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91A04 </place>
 <note> 英語授課 </note>
-<class1> 碩                             </class1>
+<class1> 碩博                           </class1>
 <group1></group1>
-<name1> 物件導向程式設計及應用 </name1>
-<time1> [1]5~7  </time1>
-<place1> 機械系館                      91305 </place1>
-<note1> 大碩合開 </note1>
+<name1> 準分子雷射加工專題與實作 </name1>
+<time1> [3]3~4  </time1>
+<place1> 機械系館                      91A04 </place1>
+<note1></note1>
+</N1>
+
+<N1 id="051">
+<num>N1-051</num>
+<class> 碩                             </class>
+<group></group>
+<name> 物件導向程式設計及應用 </name>
+<teacher> 方晶晶* </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91305 </place>
+<note> 大碩合開 </note>
 </N1>
 
 <N1 id="052">
@@ -506,6 +492,20 @@
 <type> 講義 </type>
 <place> 機械系館                      91308 </place>
 <note></note>
+</N1>
+
+<N1 id="082">
+<num>N1-082</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 網路機器人概論 </name>
+<teacher> 劉彥辰  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note> 英語授課 </note>
 </N1>
 
 <N1 id="083">

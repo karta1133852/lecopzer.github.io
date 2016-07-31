@@ -411,7 +411,7 @@
 <time> [4]7~8  ,  [1]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92171 </place>
+<place> 電機系館                      92225 </place>
 <note> 電二三合班 </note>
 </E2>
 
@@ -548,7 +548,7 @@
 <name> 機率與統計 </name>
 <teacher> 賴癸江  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92225 </place>
@@ -579,7 +579,7 @@
 <time> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92225 </place>
+<place> 電機系館                      92171 </place>
 <note> 電二三四合班 </note>
 </E2>
 
@@ -1182,7 +1182,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92185 </place>
-<note> 電三四與醫工系合開 </note>
+<note> 電三四與醫工系合開，選修本課程應具備之基礎課程請參考課程大綱 </note>
 </E2>
 
 <E2 id="156">
@@ -1332,7 +1332,7 @@
 <class></class>
 <group></group>
 <name> 電路與系統學群畢業專題（二） </name>
-<teacher> 蔡宗祐  </teacher>
+<teacher> 謝明得  </teacher>
 <score> 2 </score>
 <time> 
   </time>
@@ -1348,7 +1348,7 @@
 <class></class>
 <group></group>
 <name> 電子與材料學群畢業專題（二） </name>
-<teacher> 謝明得  </teacher>
+<teacher> 蔡宗祐  </teacher>
 <score> 2 </score>
 <time> 
   </time>

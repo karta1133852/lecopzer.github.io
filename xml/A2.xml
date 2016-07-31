@@ -196,20 +196,6 @@
 <note> 球具自備 </note>
 </A2>
 
-<A2 id="220">
-<num>A2-220</num>
-<class> 二年級                        體育（女生組）　                                                       </class>
-<group></group>
-<name> 桌球（男女） </name>
-<teacher> 郭旭東  </teacher>
-<score> 0 </score>
-<time> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 中正堂                        中正堂桌球場 </place>
-<note> 男女合班 </note>
-</A2>
-
 <A2 id="221">
 <num>A2-221</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -490,6 +476,20 @@
 <note> 【男女合班 】 </note>
 </A2>
 
+<A2 id="286">
+<num>A2-286</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝八                          健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
 <A2 id="290">
 <num>A2-290</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -656,20 +656,6 @@
 <type> 講義 </type>
 <place> 學生活動中心                  活動中心騎樓 </place>
 <note> 【男女合班 】 </note>
-</A2>
-
-<A2 id="320">
-<num>A2-320</num>
-<class> 二年級                        體育（男生組）                                                         </class>
-<group></group>
-<name> 桌球（男女） </name>
-<teacher> 郭旭東  </teacher>
-<score> 0 </score>
-<time> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 中正堂                        中正堂桌球場 </place>
-<note> 男女合班 </note>
 </A2>
 
 <A2 id="321">
@@ -1264,14 +1250,14 @@
 <num>A2-386</num>
 <class> 二年級                        體育（男生組）                                                         </class>
 <group></group>
-<name> 軟網（男） </name>
-<teacher> 郭旭東  </teacher>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 無                            敬業網球場 </place>
-<note> 球具自備 </note>
+<place> 勝八                          健休韻律教室 </place>
+<note> 男女合班 </note>
 </A2>
 
 <A2 id="390">

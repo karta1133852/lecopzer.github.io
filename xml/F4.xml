@@ -212,6 +212,20 @@
 <note></note>
 </F4>
 
+<F4 id="053">
+<num>F4-053</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 楊世銘  </teacher>
+<score> 0 </score>
+<time> [2]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5898 </place>
+<note></note>
+</F4>
+
 <F4 id="054">
 <num>F4-054</num>
 <class></class>
@@ -299,6 +313,20 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5830 </place>
+<note></note>
+</F4>
+
+<F4 id="060">
+<num>F4-060</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 楊世銘  </teacher>
+<score> 0 </score>
+<time> [3]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5898 </place>
 <note></note>
 </F4>
 

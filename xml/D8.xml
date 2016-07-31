@@ -204,7 +204,7 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    階梯教室-心理 </place>
+<place> 社科院大樓                    80203 </place>
 <note></note>
 </D8>
 
@@ -300,6 +300,48 @@
 <teacher> 黃碧群  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</D8>
+
+<D8 id="107">
+<num>D8-107</num>
+<class></class>
+<group></group>
+<name> 魔術心理學 </name>
+<teacher> 林君昱  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</D8>
+
+<D8 id="108">
+<num>D8-108</num>
+<class></class>
+<group></group>
+<name> 應用心理學實習 </name>
+<teacher> 周麗芳   ,  胡中凡   ,  鄭中平*  ,  黃柏僩  </teacher>
+<score> 2 </score>
+<time> [1]9~A  ,  [3]9~A  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note> 欲修課同學請先與授課教師討論 </note>
+</D8>
+
+<D8 id="109">
+<num>D8-109</num>
+<class></class>
+<group></group>
+<name> 體驗劇場 </name>
+<teacher> 楊政達  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>

@@ -168,20 +168,6 @@
 <note> 需經授課老師同意後得以選修 </note>
 </U7>
 
-<U7 id="014">
-<num>U7-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 注意力、記憶與決策 </name>
-<teacher> 楊政達  </teacher>
-<score> 3 </score>
-<time> [3]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
-<note></note>
-</U7>
-
 <U7 id="015">
 <num>U7-015</num>
 <class> 碩博                           </class>
@@ -222,6 +208,20 @@
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>
 <note></note>
+</U7>
+
+<U7 id="018">
+<num>U7-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 腦波於認知與生活上的應用 </name>
+<teacher> 謝淑蘭  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note> 歡迎大三大四選修 </note>
 </U7>
 
 </content>

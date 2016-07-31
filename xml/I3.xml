@@ -271,7 +271,7 @@
 <class></class>
 <group></group>
 <name> 微生物學（含實驗） </name>
-<teacher> 王德華   ,  劉校生   ,  楊倍昌   ,  余俊強   ,  陳舜華   ,  蕭璦莉*  ,  王淑鶯   ,  黃一修  </teacher>
+<teacher> 林子凱   ,  劉校生   ,  楊倍昌   ,  余俊強   ,  陳舜華   ,  蕭璦莉*  ,  王淑鶯   ,  黃一修  </teacher>
 <score> 4 </score>
 <time> [1]5~6  ,  [3]1  </time>
 <must> 必修 </must>
@@ -459,7 +459,7 @@
 <class></class>
 <group> A </group>
 <name> 臨床生化學實習 </name>
-<teacher> 謝淑珠  </teacher>
+<teacher> 黃暉升* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -475,7 +475,7 @@
 <class></class>
 <group> B </group>
 <name> 臨床生化學實習 </name>
-<teacher> 謝淑珠  </teacher>
+<teacher> 黃暉升* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -491,7 +491,7 @@
 <class></class>
 <group> C </group>
 <name> 臨床生化學實習 </name>
-<teacher> 黃暉升  </teacher>
+<teacher> 陳百昇* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -507,7 +507,7 @@
 <class></class>
 <group> D </group>
 <name> 臨床生化學實習 </name>
-<teacher> 黃暉升  </teacher>
+<teacher> 謝淑珠* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -523,7 +523,7 @@
 <class></class>
 <group> E </group>
 <name> 臨床生化學實習 </name>
-<teacher> 陳百昇  </teacher>
+<teacher> 謝淑珠* </teacher>
 <score> 4 </score>
 <time> 
   </time>

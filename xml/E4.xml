@@ -161,7 +161,7 @@
 <class></class>
 <group></group>
 <name> 計算機應用 </name>
-<teacher> 王建力  </teacher>
+<teacher> 葉信富  </teacher>
 <score> 3 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
@@ -682,6 +682,20 @@
 <group></group>
 <name> 論文（二） </name>
 <teacher> 吳榮華  </teacher>
+<score> 1 </score>
+<time> [4]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</E4>
+
+<E4 id="186">
+<num>E4-186</num>
+<class></class>
+<group></group>
+<name> 論文（二） </name>
+<teacher> 葉信富  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>

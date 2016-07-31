@@ -85,7 +85,7 @@
 <class></class>
 <group></group>
 <name> 醫學工程導論 </name>
-<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍*  ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中   ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  李澤民   ,  吳佳慶  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍*  ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中   ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源   ,  李澤民   ,  吳佳慶  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 必修 </must>
@@ -127,7 +127,7 @@
 <class></class>
 <group></group>
 <name> 醫學工程實驗（一） </name>
-<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中   ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中   ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]7~9  </time>
 <must> 必修 </must>
@@ -183,7 +183,7 @@
 <class></class>
 <group></group>
 <name> 解剖學 </name>
-<teacher> 江謝雅芬   ,  吳慶明   ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
+<teacher> 楊岱樺   ,  吳慶明   ,  吳佳慶*  ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 必修 </must>
@@ -197,7 +197,7 @@
 <class></class>
 <group></group>
 <name> 解剖學實驗 </name>
-<teacher> 張志涵   ,  蘇芳慶   ,  郭余民   ,  黃步敏   ,  吳佳慶* </teacher>
+<teacher> 張志涵   ,  蘇芳慶   ,  楊岱樺   ,  郭余民   ,  黃步敏   ,  吳佳慶* </teacher>
 <score> 1 </score>
 <time> [3]5~6  </time>
 <must> 必修 </must>
@@ -211,7 +211,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（一） </name>
-<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中*  ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中*  ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [5]N  </time>
 <must> 必修 </must>
@@ -309,7 +309,7 @@
 <class></class>
 <group></group>
 <name> 生醫材料與力學實驗 </name>
-<teacher> 葉明龍   ,  胡晉嘉  </teacher>
+<teacher> 葉明龍*  ,  胡晉嘉  </teacher>
 <score> 1 </score>
 <time> [1]N~6  </time>
 <must> 選修 </must>
@@ -323,7 +323,7 @@
 <class></class>
 <group></group>
 <name> 熱力學 </name>
-<teacher> 未定  </teacher>
+<teacher> 涂庭源  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
@@ -337,7 +337,7 @@
 <class></class>
 <group></group>
 <name> 臨床醫療概論 </name>
-<teacher> 葉明龍   ,  邱南津   ,  趙曉秋   ,  林啟禎   ,  吳俊良   ,  李政翰   ,  王玠能   ,  鄭雅敏   ,  蘇維仁   ,  阮俊能   ,  戴世煌  </teacher>
+<teacher> 葉明龍*  ,  楊岱樺   ,  邱南津   ,  趙曉秋   ,  林啟禎   ,  吳俊良   ,  李政翰   ,  王玠能   ,  鄭雅敏   ,  蘇維仁   ,  阮俊能   ,  戴世煌  </teacher>
 <score> 2 </score>
 <time> [5]8~9  </time>
 <must> 必修 </must>
@@ -401,7 +401,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92185 </place>
-<note> 電三四與醫工系合開 </note>
+<note> 電三四與醫工系合開，選修本課程應具備之基礎課程請參考課程大綱 </note>
 </F9>
 
 <F9 id="152">
@@ -423,7 +423,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（三） </name>
-<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中*  ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中*  ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]N  </time>
 <must> 選修 </must>

@@ -133,7 +133,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 建築設計（三） </name>
-<teacher> 陳柏年*  ,  沈弘軒   ,  黃恩宇   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤* </teacher>
+<teacher> 沈弘軒   ,  黃恩宇   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤* </teacher>
 <score> 4 </score>
 <time> [1]5~8  ,  [2]1~8  </time>
 <must> 必修 </must>
@@ -217,7 +217,7 @@
 <class> 工程組設計組                   </class>
 <group></group>
 <name> 建築設計（五） </name>
-<teacher> 卓建光   ,  陳柏年   ,  顏茂倉*  ,  姜樂靜   ,  林宛蓁   ,  方　瑋   ,  趙元鴻   ,  黃介二  </teacher>
+<teacher> 卓建光   ,  陳柏年   ,  顏茂倉*  ,  姜樂靜   ,  林宛蓁   ,  趙元鴻   ,  黃介二  </teacher>
 <score> 4 </score>
 <time> [2]1~9  </time>
 <must> 必修 </must>
@@ -334,13 +334,13 @@
 <time> [1]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 建築系館                      5105 </place>
+<place> 都計系館                      50102 </place>
 <note> 需同時選修建築設計(五) </note>
 <class1></class1>
 <group1></group1>
 <name1> 建築類型研究 </name1>
 <time1> [1]3  </time1>
-<place1> 建築系館                      5105 </place1>
+<place1> 都計系館                      50102 </place1>
 <note1> 需同時選修建築設計(五) </note1>
 </E7>
 

@@ -147,7 +147,7 @@
 <class></class>
 <group></group>
 <name> 資料結構 </name>
-<teacher> 黃悅民* </teacher>
+<teacher> 黃悅民*  ,  賴槿峰  </teacher>
 <score> 3 </score>
 <time> [3]4  ,  [2]3~4  </time>
 <must> 必修 </must>
@@ -229,7 +229,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
-<note> 工科系與醫工系合班 </note>
+<note></note>
 </E9>
 
 <E9 id="065">
@@ -363,7 +363,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（一） </name>
-<teacher> 侯廷偉*  ,  黃悅民   ,  廖德祿   ,  林裕城   ,  黃吉川   ,  何明字   ,  陳顯禎   ,  鄧維光   ,  李輝煌   ,  陳曉華   ,  卿文龍   ,  周榮華   ,  陳蓉珊   ,  李哲明   ,  吳毓庭   ,  王宗一   ,  陳昭羽   ,  王榮泰   ,  王明習   ,  潘文峰   ,  趙隆山  </teacher>
+<teacher> 侯廷偉*  ,  黃悅民   ,  廖德祿   ,  林裕城   ,  黃吉川   ,  何明字   ,  鄧維光   ,  李輝煌   ,  陳曉華   ,  卿文龍   ,  周榮華   ,  陳蓉珊   ,  李哲明   ,  吳毓庭   ,  王宗一   ,  陳昭羽   ,  王榮泰   ,  王明習   ,  潘文峰   ,  趙隆山  </teacher>
 <score> 2 </score>
 <time> 
   </time>

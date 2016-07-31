@@ -47,7 +47,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 解剖學 </name>
-<teacher> 江謝雅芬   ,  吳慶明   ,  吳佳慶   ,  許鍾瑜  </teacher>
+<teacher> 楊岱樺   ,  吳慶明   ,  吳佳慶*  ,  許鍾瑜  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -117,7 +117,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  周有禮   ,  林宙晴   ,  郭榮富   ,  吳炳慶  </teacher>
+<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  周有禮   ,  林宙晴   ,  郭榮富   ,  吳炳慶   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -145,7 +145,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  周有禮   ,  林宙晴   ,  郭榮富   ,  吳炳慶  </teacher>
+<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  周有禮   ,  林宙晴   ,  郭榮富   ,  吳炳慶   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -173,7 +173,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  林宙晴   ,  郭榮富   ,  吳炳慶  </teacher>
+<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  林宙晴   ,  郭榮富   ,  吳炳慶   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -201,7 +201,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  林宙晴   ,  郭榮富   ,  吳炳慶  </teacher>
+<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰*  ,  林宙晴   ,  郭榮富   ,  吳炳慶   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -266,6 +266,20 @@
 <note></note>
 </P8>
 
+<P8 id="046">
+<num>P8-046</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 組織工程 </name>
+<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  謝清河   ,  李澤民   ,  吳佳慶  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5725 </place>
+<note> 生科所，醫工所，工科所合班 </note>
+</P8>
+
 <P8 id="051">
 <num>P8-051</num>
 <class> 碩博                           </class>
@@ -313,7 +327,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（一） </name>
-<teacher> 陳家進   ,  蘇芳慶   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  李澤民  </teacher>
+<teacher> 陳家進   ,  蘇芳慶   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  許育祥   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>

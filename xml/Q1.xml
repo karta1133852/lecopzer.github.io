@@ -140,6 +140,20 @@
 <note> 電機所與微電子所合班英語授課 </note>
 </Q1>
 
+<Q1 id="021">
+<num>Q1-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微波半導體元件與積體電路專論 </name>
+<teacher> 王永和  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92B28 </place>
+<note></note>
+</Q1>
+
 <Q1 id="022">
 <num>Q1-022</num>
 <class> 碩博                           </class>
@@ -231,10 +245,10 @@
 <name> 半導體製程 </name>
 <teacher> 彭洞清  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92225 </place>
+<place> 電機系館                      92C01 </place>
 <note></note>
 </Q1>
 

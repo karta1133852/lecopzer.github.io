@@ -165,7 +165,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 護理研究 </name>
-<teacher> 顏妙芬*  ,  周承珍  </teacher>
+<teacher> 顏妙芬*  ,  周承珍   ,  高綺吟  </teacher>
 <score> 3 </score>
 <time> [2]5~7  ,  [5]2~4  </time>
 <must> 必修 </must>
@@ -218,7 +218,7 @@
 
 <T2 id="108">
 <num>T2-108</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 進階護理學實習（二） </name>
 <teacher> 顏妙芬   ,  許玉雲   ,  陳靜敏   ,  林靜蘭   ,  方素瓔*  ,  陳幸眉   ,  周承珍  </teacher>

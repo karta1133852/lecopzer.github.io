@@ -389,7 +389,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 醫技醫工館                    5776 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="081">
@@ -487,7 +487,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 都計系館                      50204 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="111">
@@ -641,7 +641,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 社科院大樓                    80106 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="125">
@@ -655,7 +655,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 唯農大樓                      7106 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學 </note>
 </A9>
 
 <A9 id="126">
@@ -697,7 +697,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 工科系館                      41101 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="129">
@@ -1019,7 +1019,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 測量系館                      55160 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學 </note>
 </A9>
 
 <A9 id="200">
@@ -1032,7 +1032,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 軍訓館                        6021 </place>
+<place> 土木系館                      4501 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1326,7 +1326,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 空中大學                      53101 </place>
+<place> 醫學院                        204D </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1377,7 +1377,7 @@
 <class></class>
 <group></group>
 <name> 心理學 </name>
-<teacher> 楊政達*  ,  林君昱   ,  胡書榕   ,  黃碧群   ,  曾元琦  </teacher>
+<teacher> 楊政達*  ,  林君昱   ,  胡書榕   ,  黃碧群   ,  曾元琦   ,  莊佳蓉  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -1439,7 +1439,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 中文系館                      文學院演講廳 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="239">
@@ -1475,7 +1475,7 @@
 <class></class>
 <group></group>
 <name> 智慧綠生活 </name>
-<teacher> 薛丞倫   ,  陳世明   ,  陳震宇   ,  葉玉祥*  ,  陳品蓁   ,  陳彥仲   ,  石豐宇   ,  黃偉茹   ,  周君瑞   ,  洪郁修   ,  曾元琦   ,  陳璽任   ,  劉世南   ,  仲曉玲   ,  林蕙玟   ,  楊佳翰   ,  卓彥廷  </teacher>
+<teacher> 卓彥廷  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -1620,7 +1620,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 雲平大樓                      27808 </place>
+<place> 空中大學                      53101 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1691,7 +1691,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 資訊系館                      4203 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學 </note>
 </A9>
 
 <A9 id="281">
@@ -1761,7 +1761,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 交管系館                      62102 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="305">
@@ -1900,7 +1900,7 @@
 <time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 統計系館                      62223 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1915,7 +1915,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 護理系館                      85X09 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="325">
@@ -1943,7 +1943,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 都計系館                      50204 </place>
-<note></note>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="330">
@@ -2223,7 +2223,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 中文系館                      文學院演講廳 </place>
-<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學 </note>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文、社會、自然；融入服務學習內涵之專業課程 </note>
 </A9>
 
 <A9 id="408">
@@ -2389,9 +2389,9 @@
 <score> 2 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
-<type> 社會科學 </type>
-<place></place>
-<note></note>
+<type> 科際整合 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="531">
@@ -2561,7 +2561,7 @@
 <must> 必修 </must>
 <type> 融合通識 </type>
 <place> 理化大樓                      格致廳小講堂 </place>
-<note></note>
+<note> 限一年級修習 </note>
 </A9>
 
 </content>

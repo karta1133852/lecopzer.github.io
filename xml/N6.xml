@@ -290,7 +290,7 @@
 <time> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -343,10 +343,10 @@
 <name> 邊坡穩定 </name>
 <teacher> 李德河  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4506 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -486,7 +486,7 @@
 <time> [1]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4503 </place>
 <note> 碩博與碩專合班，丁組核心課程 </note>
 </N6>
 
@@ -500,7 +500,7 @@
 <time> [3]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4502 </place>
 <note> 碩博與碩專合班，戊組核心課程，英語授課 </note>
 </N6>
 
@@ -553,10 +553,10 @@
 <name> 作業研究 </name>
 <teacher> 李宇欣  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4504 </place>
+<place> 土木系館                      4509 </place>
 <note> 碩博與碩專合班，戊組核心課程 </note>
 </N6>
 
@@ -710,7 +710,7 @@
 <time> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -763,10 +763,10 @@
 <name> 邊坡穩定 </name>
 <teacher> 李德河  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4506 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -906,7 +906,7 @@
 <time> [1]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4503 </place>
 <note> 碩博與碩專合班，丁組核心課程 </note>
 </N6>
 
@@ -920,7 +920,7 @@
 <time> [3]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4502 </place>
 <note> 碩博與碩專合班，戊組核心課程，英語授課 </note>
 </N6>
 
@@ -973,10 +973,10 @@
 <name> 作業研究 </name>
 <teacher> 李宇欣  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4504 </place>
+<place> 土木系館                      4509 </place>
 <note> 碩博與碩專合班，戊組核心課程 </note>
 </N6>
 
