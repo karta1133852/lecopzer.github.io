@@ -5,7 +5,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 資料選讀 </name>
-<teacher> 趙金勇   ,  鍾國風   ,  劉益昌* </teacher>
+<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 必修 </must>
@@ -21,10 +21,10 @@
 <name> 人骨學 </name>
 <teacher> 劉益昌  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      709 </place>
+<place> 唯農大樓                      7307 </place>
 <note></note>
 </K7>
 
@@ -49,10 +49,10 @@
 <name> 博物館學理論與方法 </name>
 <teacher> 郭美芳  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      709 </place>
+<place> 唯農大樓                      7307 </place>
 <note></note>
 </K7>
 

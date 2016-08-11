@@ -98,6 +98,20 @@
 <note></note>
 </N8>
 
+<N8 id="008">
+<num>N8-008</num>
+<class> 碩博一                         </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note> 水利所與自災所合開，外籍生優先選課，本籍生以紙本加簽 </note>
+</N8>
+
 <N8 id="011">
 <num>N8-011</num>
 <class> 碩博二                         </class>
@@ -196,6 +210,20 @@
 <note></note>
 </N8>
 
+<N8 id="018">
+<num>N8-018</num>
+<class> 碩博二                         </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note> 水利所與自災所合開，外籍生優先選課，本籍生以紙本加簽 </note>
+</N8>
+
 <N8 id="019">
 <num>N8-019</num>
 <class> 碩                             </class>
@@ -234,7 +262,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 水利系館                      4644 </place>
+<place> 水利系館                      4645 </place>
 <note> 延畢生每學期至少需選修一門課程 </note>
 </N8>
 
@@ -537,7 +565,7 @@
 <class></class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 未定  </teacher>
+<teacher> 羅偉誠  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -595,7 +623,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 實用水力學 </name>
-<teacher> 周乃昉  </teacher>
+<teacher> 林宏奕   ,  周乃昉* </teacher>
 <score> 3 </score>
 <time> [6]2~4  </time>
 <must> 必修 </must>

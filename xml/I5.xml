@@ -130,20 +130,6 @@
 <note> 限醫學系學生選修，9月12日（星期一）課程簡介及公告成績評分方式 </note>
 </I5>
 
-<I5 id="014">
-<num>I5-014</num>
-<class></class>
-<group></group>
-<name> 審議民主的理論與實踐 </name>
-<teacher> 林祐聖* </teacher>
-<score> 2 </score>
-<time> [1]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        202D </place>
-<note></note>
-</I5>
-
 <I5 id="015">
 <num>I5-015</num>
 <class></class>
@@ -268,7 +254,7 @@
 <time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        304D </place>
+<place> 醫學院                        501 </place>
 <note> B模組選修課程 </note>
 </I5>
 
@@ -497,7 +483,7 @@
 <class></class>
 <group></group>
 <name> 臨床診斷學（一） </name>
-<teacher> 陳昌文   ,  盧豐華   ,  蔡良敏   ,  薛尊仁   ,  林瑞模   ,  張智仁   ,  趙文元   ,  劉明煇   ,  張漢煜   ,  邱元佑   ,  陳儒逸   ,  陳炯睿   ,  曾進忠   ,  莊喬雄   ,  黃涵薇   ,  李南瑤   ,  林建中   ,  王建國   ,  林子凱   ,  王明誠*  ,  林立人  </teacher>
+<teacher> 盧豐華   ,  蔡良敏   ,  薛尊仁   ,  林瑞模   ,  張智仁   ,  趙文元   ,  劉明煇   ,  張漢煜   ,  邱元佑   ,  陳儒逸   ,  陳炯睿   ,  曾進忠   ,  莊喬雄   ,  黃涵薇   ,  李南瑤   ,  林建中   ,  王建國   ,  林子凱   ,  王明誠*  ,  林立人  </teacher>
 <score> 2 </score>
 <time> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -525,7 +511,7 @@
 <class></class>
 <group></group>
 <name> 外科學（一） </name>
-<teacher> 賴吾為   ,  李經維   ,  陳琮琳   ,  林啟禎   ,  陳肇真   ,  李伯璋   ,  謝式洲   ,  曾堯麟   ,  洪裕昌   ,  歐建慧   ,  羅傳堯   ,  阮俊能   ,  黃士銘*  ,  徐慧萍   ,  賴昭翰   ,  林寶彥  </teacher>
+<teacher> 賴吾為   ,  李經維*  ,  陳琮琳   ,  林啟禎   ,  陳肇真   ,  李伯璋   ,  謝式洲   ,  曾堯麟   ,  洪裕昌   ,  歐建慧   ,  羅傳堯   ,  阮俊能   ,  黃士銘   ,  徐慧萍   ,  賴昭翰   ,  林寶彥  </teacher>
 <score> 1 </score>
 <time> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -717,7 +703,7 @@
 <class></class>
 <group> A </group>
 <name> 外科實習（一） </name>
-<teacher> 黃士銘* </teacher>
+<teacher> 李經維* </teacher>
 <score> 5 </score>
 <time> 
   </time>
@@ -797,7 +783,7 @@
 <class></class>
 <group> B </group>
 <name> 小兒科實習一 </name>
-<teacher> 吳俊明* </teacher>
+<teacher> 楊燿榮* </teacher>
 <score> 5 </score>
 <time> 
   </time>
@@ -953,7 +939,7 @@
 <class></class>
 <group> A </group>
 <name> 骨科學 </name>
-<teacher> 周一鳴* </teacher>
+<teacher> 蘇維仁* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -969,7 +955,7 @@
 <class></class>
 <group> A </group>
 <name> 骨科實習一 </name>
-<teacher> 周一鳴* </teacher>
+<teacher> 蘇維仁* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -1145,7 +1131,7 @@
 <class></class>
 <group> B </group>
 <name> 外科學（三） </name>
-<teacher> 黃士銘* </teacher>
+<teacher> 李經維* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -1161,7 +1147,7 @@
 <class></class>
 <group> B </group>
 <name> 外科實習（二） </name>
-<teacher> 黃士銘* </teacher>
+<teacher> 李經維* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -1223,7 +1209,7 @@
 <class></class>
 <group></group>
 <name> 外科學特論 </name>
-<teacher> 黃士銘* </teacher>
+<teacher> 李經維* </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
 <must> 選修 </must>
@@ -1269,7 +1255,7 @@
 <class></class>
 <group></group>
 <name> 外科實習 </name>
-<teacher> 黃士銘* </teacher>
+<teacher> 李經維* </teacher>
 <score> 12 </score>
 <time> 
   </time>
@@ -1301,7 +1287,7 @@
 <class></class>
 <group></group>
 <name> 小兒科實習 </name>
-<teacher> 吳俊明* </teacher>
+<teacher> 楊燿榮* </teacher>
 <score> 6 </score>
 <time> 
   </time>
@@ -1381,7 +1367,7 @@
 <class></class>
 <group></group>
 <name> 骨科實習 </name>
-<teacher> 周一鳴* </teacher>
+<teacher> 蘇維仁* </teacher>
 <score> 4 </score>
 <time> 
   </time>

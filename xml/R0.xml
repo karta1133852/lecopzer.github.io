@@ -14,6 +14,20 @@
 <note> 限修畢四十五學分以上選修。 </note>
 </R0>
 
+<R0 id="302">
+<num>R0-302</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 創業基礎與行動 </name>
+<teacher> 楊朝旭   ,  王泰裕   ,  林正章   ,  蔡東峻   ,  張紹基   ,  史習安   ,  曾瓊慧* </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note></note>
+</R0>
+
 <R0 id="303">
 <num>R0-303</num>
 <class> 碩專一                         </class>
@@ -33,15 +47,13 @@
 <class> 碩專一                         </class>
 <group></group>
 <name> 統計方法 </name>
-<teacher> 未定  </teacher>
+<teacher> 馬瀰嘉  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      61X02 </place>
+<note> 限本所 </note>
 </R0>
 
 <R0 id="305">
@@ -77,15 +89,13 @@
 <class> 碩專二                         </class>
 <group></group>
 <name> 企業個案與實務 </name>
-<teacher> 張紹基  </teacher>
+<teacher> 史習安  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      哈佛教室 </place>
+<note> 限本所 </note>
 </R0>
 
 <R0 id="308">
@@ -137,13 +147,11 @@
 <name> 資訊科技與創新及競爭優勢 </name>
 <teacher> 徐立群  </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [1]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
 </R0>
 
 <R0 id="312">

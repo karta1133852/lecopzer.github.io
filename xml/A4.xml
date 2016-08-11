@@ -33,7 +33,7 @@
 <class> 學程                           </class>
 <group></group>
 <name> 教育社會學 </name>
-<teacher> 未定  </teacher>
+<teacher> 郭旭展  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 選修 </must>
@@ -103,7 +103,7 @@
 <class> 學程                           </class>
 <group></group>
 <name> 教學原理 </name>
-<teacher> 未定  </teacher>
+<teacher> 郭旭展  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 選修 </must>
@@ -417,21 +417,7 @@
 <class> 學程                           </class>
 <group></group>
 <name> 綜合活動學習領域概論 </name>
-<teacher> 未定  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      e化創新教室 </place>
-<note></note>
-</A4>
-
-<A4 id="408">
-<num>A4-408</num>
-<class> 學程                           </class>
-<group></group>
-<name> 學校輔導工作 </name>
-<teacher> 未定  </teacher>
+<teacher> 郭旭展  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 選修 </must>

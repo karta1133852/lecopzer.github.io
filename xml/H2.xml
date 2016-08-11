@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 統計學（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 溫敏杰  </teacher>
 <score> 3 </score>
 <time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
@@ -47,7 +47,7 @@
 <class></class>
 <group></group>
 <name> 計算機概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 李政德  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -103,7 +103,7 @@
 <class></class>
 <group></group>
 <name> 管理學 </name>
-<teacher> 未定  </teacher>
+<teacher> 李憲達  </teacher>
 <score> 3 </score>
 <time> [5]5~7  </time>
 <must> 必修 </must>
@@ -217,7 +217,7 @@
 <name> 統計模擬 </name>
 <teacher> 陳瑞彬  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62119 </place>
@@ -257,7 +257,7 @@
 <class></class>
 <group></group>
 <name> 市場調查實務 </name>
-<teacher> 未定  </teacher>
+<teacher> 李俊毅  </teacher>
 <score> 1 </score>
 <time> [5]9~A  </time>
 <must> 必修 </must>

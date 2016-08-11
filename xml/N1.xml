@@ -61,7 +61,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳重德  </teacher>
 <score> 0 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -123,6 +123,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91308 </place>
+<note></note>
+</N1>
+
+<N1 id="022">
+<num>N1-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 熱傳導學 </name>
+<teacher> 陳寒濤  </teacher>
+<score> 3 </score>
+<time> [1]2  ,  [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91202 </place>
 <note></note>
 </N1>
 
@@ -290,6 +304,20 @@
 <time1> [5]2~4  </time1>
 <place1> 機械系館                      91301 </place1>
 <note1></note1>
+</N1>
+
+<N1 id="039">
+<num>N1-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 有限元素法 </name>
+<teacher> 陳重德  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [3]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91308 </place>
+<note></note>
 </N1>
 
 <N1 id="041">
@@ -513,7 +541,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 電動機動力與控制 </name>
-<teacher> 蔡明祺  </teacher>
+<teacher> 黃柏維   ,  蔡明祺* </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>

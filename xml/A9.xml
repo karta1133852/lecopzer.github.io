@@ -388,7 +388,7 @@
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 醫技醫工館                    5776 </place>
+<place> 社科院大樓                    80203 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -418,6 +418,34 @@
 <type> 科際整合 </type>
 <place> 交管系館                      62205 </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學；融入服務學習內涵之專業課程 </note>
+</A9>
+
+<A9 id="083">
+<num>A9-083</num>
+<class></class>
+<group></group>
+<name> 從創意發明到專利保護 </name>
+<teacher> 張桂豪  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 化學系館                      3275 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="084">
+<num>A9-084</num>
+<class></class>
+<group></group>
+<name> 網路犯罪與法律 </name>
+<teacher> 王士帆  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 工管系館                      61104 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：社會科學、自然與工程科學 </note>
 </A9>
 
 <A9 id="101">
@@ -474,6 +502,20 @@
 <type> 人文學 </type>
 <place> 雲平大樓                      27103 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
+</A9>
+
+<A9 id="105">
+<num>A9-105</num>
+<class></class>
+<group></group>
+<name> 講台語看語言佮社會 </name>
+<teacher> 蔡美慧  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="106">
@@ -1022,6 +1064,20 @@
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學 </note>
 </A9>
 
+<A9 id="177">
+<num>A9-177</num>
+<class></class>
+<group></group>
+<name> 服務創新科技應用 </name>
+<teacher> 陸定邦  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7113 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學 </note>
+</A9>
+
 <A9 id="200">
 <num>A9-200</num>
 <class></class>
@@ -1314,6 +1370,20 @@
 <type> 人文學 </type>
 <place> 建築研究大樓                  5172 </place>
 <note> 近代世界的形成(16-20世紀)英授104學年度(含)以前入學生為核心通識公民與歷史領域課程修過公民與歷史(歷史與文化)者不得重覆修課 </note>
+</A9>
+
+<A9 id="221">
+<num>A9-221</num>
+<class></class>
+<group></group>
+<name> 繪畫 </name>
+<teacher> 林煌迪  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 建築系館                      5133 </place>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
 <A9 id="222">
@@ -1652,20 +1722,6 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
-<A9 id="272">
-<num>A9-272</num>
-<class></class>
-<group></group>
-<name> 認識基因 </name>
-<teacher> 胥直利  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 必修 </must>
-<type> 生命科學與健康 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 104學年度(含)以前入學生為跨領域通識 </note>
-</A9>
-
 <A9 id="276">
 <num>A9-276</num>
 <class></class>
@@ -1678,6 +1734,20 @@
 <type> 科際整合 </type>
 <place> 唯農大樓                      7108 </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、生命科學與健康,融入服務學習內涵之專業課程 </note>
+</A9>
+
+<A9 id="277">
+<num>A9-277</num>
+<class></class>
+<group></group>
+<name> 創新設計 </name>
+<teacher> 張天豪   ,  劉浩志   ,  馬敏元*  ,  洪郁修  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 會計系館                      63102 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="280">
@@ -1704,7 +1774,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 軍訓館                        6021 </place>
+<place> 共同教室                      A1307(資源旁) </place>
 <note> 愛爾蘭文化史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不得重覆選課 </note>
 </A9>
 
@@ -1848,6 +1918,20 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
+<A9 id="313">
+<num>A9-313</num>
+<class></class>
+<group></group>
+<name> 生技研發成果商品化導論 </name>
+<teacher> 侯明欽  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 測量系館                      55250 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：社會科學、生命科學與健康 </note>
+</A9>
+
 <A9 id="314">
 <num>A9-314</num>
 <class></class>
@@ -1874,6 +1958,20 @@
 <type> 科際整合 </type>
 <place> 唯農大樓                      7110 </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、自然與工程科學；融入服務學習內涵之專業課程 </note>
+</A9>
+
+<A9 id="316">
+<num>A9-316</num>
+<class></class>
+<group></group>
+<name> 國際服務產業趨勢與發展 </name>
+<teacher> 楊佳翰  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7113 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學 </note>
 </A9>
 
 <A9 id="318">
@@ -2100,6 +2198,20 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
+<A9 id="372">
+<num>A9-372</num>
+<class></class>
+<group></group>
+<name> 科技產業分析與應用 </name>
+<teacher> 陳琬真  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 都計系館                      50202 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：社會科學、自然與工程科學 </note>
+</A9>
+
 <A9 id="373">
 <num>A9-373</num>
 <class></class>
@@ -2110,7 +2222,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 醫學院                        物治207 </place>
+<place> 物治系館                      B02 </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 

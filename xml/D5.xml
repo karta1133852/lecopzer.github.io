@@ -14,12 +14,12 @@
 <note></note>
 </D5>
 
-<D5 id="009">
+<D5 id="008">
 <num>D5-008</num>
 <class></class>
 <group></group>
 <name> 經濟學原理（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 區俊傑  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -28,10 +28,24 @@
 <note></note>
 <class1></class1>
 <group1></group1>
-<name1> 統計學（一） </name1>
-<time1> [4]2~4  </time1>
+<name1> 經濟學原理（一） </name1>
+<time1> [3]9  </time1>
 <place1> 社科院大樓                    80103 </place1>
 <note1></note1>
+</D5>
+
+<D5 id="009">
+<num>D5-009</num>
+<class></class>
+<group></group>
+<name> 統計學（一） </name>
+<teacher> 李政德  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80103 </place>
+<note></note>
 </D5>
 
 <D5 id="010">
@@ -149,7 +163,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 區俊傑  </teacher>
 <score> 0 </score>
 <time> [3]N  </time>
 <must> 必修 </must>
@@ -320,7 +334,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80107 </place>
+<place> 社科院大樓                    80203 </place>
 <note> 應用經濟領域 </note>
 </D5>
 

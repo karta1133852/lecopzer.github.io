@@ -583,6 +583,20 @@
 <note> 電二三四合班 </note>
 </E2>
 
+<E2 id="102">
+<num>E2-102</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 電子設計自動化概論 </name>
+<teacher> 林家民  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note></note>
+</E2>
+
 <E2 id="103">
 <num>E2-103</num>
 <class> 甲乙丙                         </class>

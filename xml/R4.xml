@@ -201,7 +201,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 企業研究方法 </name>
-<teacher> 未定  </teacher>
+<teacher> 李憲達  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
@@ -273,7 +273,7 @@
 <name> 營運管理 </name>
 <teacher> 葉桂珍  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -347,7 +347,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62455 </place>
-<note></note>
+<note> 限碩專選修 </note>
 </R4>
 
 <R4 id="330">

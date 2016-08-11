@@ -252,26 +252,12 @@
 <note></note>
 </N9>
 
-<N9 id="022">
-<num>N9-022</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 工程光學 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41103 </place>
-<note></note>
-</N9>
-
 <N9 id="023">
 <num>N9-023</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 奈米製程技術與實作 </name>
-<teacher> 鍾崇仁* </teacher>
+<teacher> 鍾崇仁*  ,  顏秀芳  </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>

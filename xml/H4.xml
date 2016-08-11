@@ -84,6 +84,20 @@
 <note></note>
 </H4>
 
+<H4 id="021">
+<num>H4-021</num>
+<class></class>
+<group></group>
+<name> 行為科學 </name>
+<teacher> 東惠瑛  </teacher>
+<score> 3 </score>
+<time> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62218 </place>
+<note></note>
+</H4>
+
 <H4 id="053">
 <num>H4-053</num>
 <class></class>
@@ -123,6 +137,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
+<note></note>
+</H4>
+
+<H4 id="058">
+<num>H4-058</num>
+<class></class>
+<group></group>
+<name> 人際關係與溝通 </name>
+<teacher> 劉清和  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62121 </place>
 <note></note>
 </H4>
 

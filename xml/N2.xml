@@ -677,7 +677,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 正規驗證之理論與應用 </name>
-<teacher> 未定  </teacher>
+<teacher> 陳盈如  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 選修 </must>
@@ -707,10 +707,10 @@
 <name> 奈米積體電路實體設計 </name>
 <teacher> 林家民  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92185 </place>
+<place> 電機系館                      92171 </place>
 <note></note>
 </N2>
 
@@ -859,7 +859,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 電動機動力與控制 </name>
-<teacher> 蔡明祺  </teacher>
+<teacher> 黃柏維   ,  蔡明祺* </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>
@@ -1013,7 +1013,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 電動機動力與控制 </name>
-<teacher> 蔡明祺  </teacher>
+<teacher> 黃柏維   ,  蔡明祺* </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>

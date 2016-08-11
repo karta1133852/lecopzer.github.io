@@ -714,6 +714,20 @@
 <note> 甲乙合班 </note>
 </E6>
 
+<E6 id="157">
+<num>E6-157</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 土木工程設計實務（四） </name>
+<teacher> 王雲哲*  ,  周泰隆  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note></note>
+</E6>
+
 <E6 id="160">
 <num>E6-160</num>
 <class> 甲乙                           </class>

@@ -509,13 +509,27 @@
 <class></class>
 <group></group>
 <name> 民事實務法律問題研究（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 胡峰賓  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80203 </place>
 <note> 專題及實例研討 </note>
+</D2>
+
+<D2 id="162">
+<num>D2-162</num>
+<class></class>
+<group></group>
+<name> 美國法學名著選讀（二） </name>
+<teacher> 陳俊仁  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 法學外文 </note>
 </D2>
 
 </content>

@@ -175,7 +175,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 全球運籌管理 </name>
-<teacher> 未定  </teacher>
+<teacher> 沈宗緯  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
@@ -287,7 +287,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 飛行概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 高星潢  </teacher>
 <score> 3 </score>
 <time> [6]8~A  </time>
 <must> 選修 </must>
@@ -329,7 +329,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 航空運輸專論 </name>
-<teacher> 未定  </teacher>
+<teacher> 林志明  </teacher>
 <score> 3 </score>
 <time> [6]5~7  </time>
 <must> 選修 </must>
@@ -359,7 +359,7 @@
 <name> 研究方法 </name>
 <teacher> 林珮珺  </teacher>
 <score> 3 </score>
-<time> [5]D  </time>
+<time> [5]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -413,7 +413,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 飛行概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 高星潢  </teacher>
 <score> 3 </score>
 <time> [6]8~A  </time>
 <must> 選修 </must>
@@ -459,7 +459,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 航空運輸專論 </name>
-<teacher> 未定  </teacher>
+<teacher> 林志明  </teacher>
 <score> 3 </score>
 <time> [6]5~7  </time>
 <must> 選修 </must>

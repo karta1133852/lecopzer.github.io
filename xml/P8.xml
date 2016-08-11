@@ -66,7 +66,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5723 </place>
+<place> 醫技醫工館                    5731 </place>
 <note> 生醫感測器課程之先修科目，醫工所與奈微所合班 </note>
 </P8>
 
@@ -80,7 +80,7 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5723 </place>
+<place> 物治系館                      B02 </place>
 <note> 醫工所與健照所合班 </note>
 </P8>
 
@@ -249,7 +249,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5756 </place>
-<note> 英語授課 </note>
+<note></note>
 </P8>
 
 <P8 id="040">
@@ -262,7 +262,7 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5723 </place>
+<place> 醫技醫工館                    5730 </place>
 <note></note>
 </P8>
 
