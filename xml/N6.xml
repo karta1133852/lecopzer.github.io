@@ -448,6 +448,20 @@
 <note> 碩博與碩專合班，丙組核心課程，英文授課 </note>
 </N6>
 
+<N6 id="062">
+<num>N6-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 離岸風機支撐結構設計 </name>
+<teacher> 朱聖浩  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note></note>
+</N6>
+
 <N6 id="063">
 <num>N6-063</num>
 <class> 碩博                           </class>
@@ -866,6 +880,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
 <note> 碩博與碩專合班，丙組核心課程，英文授課 </note>
+</N6>
+
+<N6 id="362">
+<num>N6-362</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 離岸風機支撐結構設計 </name>
+<teacher> 朱聖浩  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note></note>
 </N6>
 
 <N6 id="363">

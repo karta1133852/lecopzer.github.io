@@ -61,7 +61,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 中等水力學 </name>
-<teacher> 賴泉基  </teacher>
+<teacher> 陳佳琳*  ,  賴泉基  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 選修 </must>
@@ -75,7 +75,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 水文系統模擬與預測 </name>
-<teacher> 楊道昌   ,  郭振民   ,  游保杉* </teacher>
+<teacher> 楊道昌*  ,  郭振民  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
@@ -152,6 +152,20 @@
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
 <note> 水利所與自災所合開 </note>
+</NC>
+
+<NC id="012">
+<num>NC-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 地質災害評估及應變 </name>
+<teacher> 吳建宏  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note></note>
 </NC>
 
 <NC id="013">

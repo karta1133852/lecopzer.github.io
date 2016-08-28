@@ -490,6 +490,20 @@
 <note> 男女合班 </note>
 </A2>
 
+<A2 id="287">
+<num>A2-287</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝八                          健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
 <A2 id="290">
 <num>A2-290</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -1254,6 +1268,20 @@
 <teacher> 許又文  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝八                          健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="387">
+<num>A2-387</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 勝八                          健休韻律教室 </place>

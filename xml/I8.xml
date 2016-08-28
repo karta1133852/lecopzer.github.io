@@ -63,7 +63,7 @@
 <class></class>
 <group></group>
 <name> 微積分（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 王業凱  </teacher>
 <score> 2 </score>
 <time> [1]2~3  </time>
 <must> 必修 </must>
@@ -78,8 +78,8 @@
 <note1></note1>
 </I8>
 
-<I8 id="053">
-<num>I8-053</num>
+<I8 id="013">
+<num>I8-013</num>
 <class></class>
 <group></group>
 <name> 生理學 </name>
@@ -99,13 +99,11 @@
 <name> 有機化學（二） </name>
 <teacher> 林建功* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [3]2  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 藥學系與醫工系合開 </note>
 </I8>
 
 <I8 id="057">
@@ -115,13 +113,11 @@
 <name> 有機化學實驗 </name>
 <teacher> 林建功* </teacher>
 <score> 1 </score>
-<time> 
-  </time>
+<time> [1]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 化工系館                      93326 </place>
+<note></note>
 </I8>
 
 <I8 id="058">
@@ -145,11 +141,11 @@
 <name> 生藥暨中藥學（一） </name>
 <teacher> 吳天賞* </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        0301 </place>
-<note></note>
+<note> 上課時間改(四)5-7 </note>
 </I8>
 
 <I8 id="060">
@@ -159,13 +155,11 @@
 <name> 物理化學 </name>
 <teacher> 林弘萍   ,  陳毓宏* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        307 </place>
+<note></note>
 </I8>
 
 <I8 id="062">

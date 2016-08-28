@@ -85,7 +85,7 @@
 <class></class>
 <group></group>
 <name> 醫學工程導論 </name>
-<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍*  ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中   ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源   ,  李澤民   ,  吳佳慶  </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  林宙晴   ,  黃執中   ,  郭榮富   ,  方佑華   ,  吳炳慶*  ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源   ,  李澤民   ,  吳佳慶  </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 必修 </must>
@@ -225,7 +225,7 @@
 <class></class>
 <group></group>
 <name> 科技論文導讀（一） </name>
-<teacher> 胡晉嘉  </teacher>
+<teacher> 胡晉嘉*  ,  黃執中  </teacher>
 <score> 1 </score>
 <time> [5]1  </time>
 <must> 必修 </must>
@@ -367,13 +367,11 @@
 <name> 有機化學（二） </name>
 <teacher> 林建功* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [3]2  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 藥學系與醫工系合開 </note>
 </F9>
 
 <F9 id="120">

@@ -75,7 +75,7 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 首次上課時間9/23(五)中午1時10分，學生活動中心課指組會議室 </note>
+<note> 首次上課時間9/21(三)中午1時10分，學生活動中心課指組會議室 </note>
 </A6>
 
 <A6 id="006">
@@ -147,29 +147,11 @@
 <name> 服務學習（三）—關心不卡關 </name>
 <teacher> 陳高欽  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="011">
-<num>A6-011</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—尊重生命，關懷流浪動物 </name>
-<teacher> 詹錢登  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 唯農大樓                      7110 </place>
+<note> 首次上課時間：9/21(三)上午10-12時 地點：光復校區唯農大樓1樓7110教室 </note>
 </A6>
 
 <A6 id="012">
@@ -225,7 +207,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（三）─醫院服務與體驗 </name>
-<teacher> 許博翔  </teacher>
+<teacher> 張智仁  </teacher>
 <score> 0 </score>
 <time> 
   </time>
