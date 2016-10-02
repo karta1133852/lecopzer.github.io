@@ -126,20 +126,6 @@
 <note> 本課程聘請業界師資參與 </note>
 </TC>
 
-<TC id="011">
-<num>TC-011</num>
-<class> 碩                             </class>
-<group></group>
-<name> 高齡企劃案製作與評估 </name>
-<teacher> 陳柏宗   ,  翁慧卿* </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        201D </place>
-<note> 此課程為服務學習課程 </note>
-</TC>
-
 <TC id="012">
 <num>TC-012</num>
 <class> 碩博                           </class>
@@ -189,7 +175,7 @@
 <name> 統計套裝軟體介紹比較與應用 </name>
 <teacher> 王新台* </teacher>
 <score> 2 </score>
-<time> [1]3~4  </time>
+<time> [1]4~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>

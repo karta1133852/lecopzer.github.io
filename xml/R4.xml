@@ -210,6 +210,20 @@
 <note></note>
 </R4>
 
+<R4 id="017">
+<num>R4-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際企業購併與重組 </name>
+<teacher> 胡聯國  </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</R4>
+
 <R4 id="020">
 <num>R4-020</num>
 <class> 碩博                           </class>
@@ -217,7 +231,7 @@
 <name> 專題討論 </name>
 <teacher> 葉桂珍  </teacher>
 <score> 0 </score>
-<time> [6]A~C  </time>
+<time> [2]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -280,20 +294,6 @@
 <note></note>
 </R4>
 
-<R4 id="305">
-<num>R4-305</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 服務行銷管理 </name>
-<teacher> 劉宗其  </teacher>
-<score> 3 </score>
-<time> [5]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62422 </place>
-<note></note>
-</R4>
-
 <R4 id="306">
 <num>R4-306</num>
 <class> 碩專                           </class>
@@ -346,22 +346,22 @@
 <time> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62455 </place>
+<place> 企管系館                      62453 </place>
 <note> 限碩專選修 </note>
 </R4>
 
-<R4 id="330">
-<num>R4-330</num>
-<class> 碩專延三                       </class>
+<R4 id="310">
+<num>R4-310</num>
+<class> 碩專                           </class>
 <group></group>
-<name> 專題討論 </name>
-<teacher> 葉桂珍  </teacher>
-<score> 0 </score>
-<time> [6]A~C  </time>
+<name> 資料分析方法 </name>
+<teacher> 李憲達  </teacher>
+<score> 3 </score>
+<time> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62422 </place>
-<note></note>
+<place> 企管系館                      62212 </place>
+<note> 限碩專選修 </note>
 </R4>
 
 </content>

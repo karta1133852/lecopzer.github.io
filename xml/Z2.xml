@@ -173,7 +173,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
+<teacher> 宋皇模   ,  張清俊   ,  王涵青   ,  曾大千   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
@@ -187,12 +187,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 研究倫理與論文寫作 </name>
-<teacher> 王育民   ,  陳炳焜* </teacher>
+<teacher> 劉宗霖   ,  陳炳焜*  ,  羅玉枝  </teacher>
 <score> 1 </score>
 <time> [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
+<place> 照坤精密儀器大樓              95A09 </place>
 <note> 必選修，藥理、生訊所合班 </note>
 </Z2>
 
@@ -238,20 +238,6 @@
 <note></note>
 </Z2>
 
-<Z2 id="020">
-<num>Z2-020</num>
-<class> 博                             </class>
-<group></group>
-<name> 高等生物醫學特論（一） </name>
-<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
-<note></note>
-</Z2>
-
 <Z2 id="021">
 <num>Z2-021</num>
 <class> 博                             </class>
@@ -274,34 +260,6 @@
 <teacher> 羅玉枝  </teacher>
 <score> 2 </score>
 <time> [1]8~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
-<note></note>
-</Z2>
-
-<Z2 id="023">
-<num>Z2-023</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 訊息傳遞與醫藥應用 </name>
-<teacher> 王育民   ,  陳炳焜* </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
-<note></note>
-</Z2>
-
-<Z2 id="024">
-<num>Z2-024</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等分子生物學 </name>
-<teacher> 陳炳焜  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95A09 </place>

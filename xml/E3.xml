@@ -296,12 +296,6 @@
 <time3> [4]1  </time3>
 <place3> 化工系館                      93256 </place3>
 <note3></note3>
-<class4> 甲乙                           </class4>
-<group4> D </group4>
-<name4> 微積分（一） </name4>
-<time4> [4]1  </time4>
-<place4> 化工系館                      93316 </place4>
-<note4></note4>
 </E3>
 
 <E3 id="048">
@@ -334,12 +328,6 @@
 <time3> [4]1  </time3>
 <place3> 化工系館                      93356 </place3>
 <note3></note3>
-<class4> 丙                             </class4>
-<group4> D </group4>
-<name4> 微積分（一） </name4>
-<time4> [4]1  </time4>
-<place4> 化工系館                      93223 </place4>
-<note4></note4>
 </E3>
 
 <E3 id="049">
@@ -865,22 +853,6 @@
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</E3>
-
-<E3 id="151">
-<num>E3-151</num>
-<class></class>
-<group></group>
-<name> 校外實習（二） </name>
-<teacher> 林睿哲  </teacher>
-<score> 1 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
 <place></place>
 <note> 
  </note>

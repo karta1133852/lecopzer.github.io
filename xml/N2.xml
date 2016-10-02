@@ -458,7 +458,7 @@
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92820 </place>
+<place> 電機系館                      92177 </place>
 <note></note>
 </N2>
 
@@ -511,10 +511,10 @@
 <name> 分佈式發電系統專論 </name>
 <teacher> 王　醴  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92171 </place>
+<place> 電機系館                      俊銘講堂 </place>
 <note></note>
 </N2>
 
@@ -808,7 +808,7 @@
 <time> [5]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92377 </place>
+<place> 電機系館                      92371 </place>
 <note> 英語授課 </note>
 </N2>
 

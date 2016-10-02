@@ -71,12 +71,12 @@
 <class></class>
 <group></group>
 <name> 設計概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 何俊亨*  ,  陳璽任* </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 無                            53309 </place>
+<place> 工設系館                      5256A </place>
 <note></note>
 </F3>
 
@@ -110,7 +110,7 @@
 <time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 無                            53309 </place>
+<place> 無                            53302 </place>
 <note> *雙語授課 </note>
 </F3>
 
@@ -152,13 +152,13 @@
 <time> [3]3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 無                            53309 </place>
-<note></note>
+<place> 建築系館                      5102 </place>
+<note> 備註：上課教室為C-Hub一樓電腦教室5102 </note>
 <class1></class1>
 <group1></group1>
 <name1> 圖學 </name1>
 <time1> [3]4~N  </time1>
-<place1> 無                            53309 </place1>
+<place1> 建築系館                      5102 </place1>
 <note1></note1>
 </F3>
 
@@ -212,7 +212,7 @@
 <time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 無                            53302 </place>
+<place> 工設系館                      5206 </place>
 <note></note>
 </F3>
 
@@ -324,7 +324,7 @@
 <time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 無                            53302 </place>
+<place> 工設系館                      5256A </place>
 <note></note>
 </F3>
 
@@ -338,7 +338,7 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 無                            53304 </place>
+<place> 工設系館                      5204A </place>
 <note></note>
 </F3>
 
@@ -366,7 +366,7 @@
 <time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 無                            53304 </place>
+<place> 工設系館                      5256A </place>
 <note></note>
 </F3>
 
@@ -408,7 +408,7 @@
 <time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 無                            53304 </place>
+<place> 工設系館                      5256A </place>
 <note></note>
 </F3>
 
@@ -423,6 +423,20 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
+<note></note>
+</F3>
+
+<F3 id="120">
+<num>F3-120</num>
+<class></class>
+<group></group>
+<name> 考古與設計 </name>
+<teacher> 陳璽任  </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5205A </place>
 <note></note>
 </F3>
 
@@ -464,7 +478,7 @@
 <time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工設系館                      5205A </place>
+<place> 無                            53313 </place>
 <note></note>
 </F3>
 

@@ -248,7 +248,7 @@
 <time> [1]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4627 </place>
 <note> 「四科任選二科之必修課程」 </note>
 </N8>
 
@@ -404,20 +404,6 @@
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
 <note></note>
-</N8>
-
-<N8 id="042">
-<num>N8-042</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 水資源永續發展特論 </name>
-<teacher> 周乃昉  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note> 水利所與自災所合開 </note>
 </N8>
 
 <N8 id="043">

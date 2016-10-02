@@ -10,7 +10,7 @@
 <time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      成功共同微積分 </place>
+<place> 土木系館                      47X52 </place>
 <note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
 <class1> 甲乙                           </class1>
 <group1> A </group1>
@@ -174,7 +174,7 @@
 <time> [5]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4509 </place>
 <note></note>
 </E6>
 
@@ -300,7 +300,7 @@
 <time> [1]7~8  ,  [5]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
+<place> 水利系館                      4671 </place>
 <note> 甲乙合班 </note>
 </E6>
 
@@ -342,7 +342,7 @@
 <time> [5]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      4502 </place>
 <note> 甲乙混合編班 </note>
 </E6>
 

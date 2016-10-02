@@ -24,7 +24,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 無                            體育室前 </place>
+<place> 軍訓館                        6021 </place>
 <note></note>
 </I5>
 
@@ -49,7 +49,7 @@
 <class></class>
 <group></group>
 <name> 醫用物理學 </name>
-<teacher> 林宙晴   ,  黃執中   ,  陳海雯   ,  林啟禎   ,  姚維仁   ,  陳儒逸   ,  陳毓宏*  ,  郭立杰  </teacher>
+<teacher> 方晶晶   ,  林宙晴   ,  黃執中   ,  陳海雯   ,  姚維仁   ,  陳儒逸   ,  陳毓宏* </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>
@@ -123,11 +123,27 @@
 <name> 醫學科學研究（一） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time> [1]4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修，9月12日（星期一）課程簡介及公告成績評分方式 </note>
+<place></place>
+<note> 
+ </note>
+</I5>
+
+<I5 id="014">
+<num>I5-014</num>
+<class></class>
+<group></group>
+<name> 近代台灣的日常科技體驗 </name>
+<teacher> 王秀雲* </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
 </I5>
 
 <I5 id="015">
@@ -237,11 +253,13 @@
 <name> 醫學科學研究（三） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time> [1]4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修，9月12日（星期一）課程簡介及公告成績評分方式 </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="061">
@@ -350,7 +368,7 @@
 <time> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        601 </place>
+<place> 都計系館                      50204 </place>
 <note> B模組選修課程 </note>
 </I5>
 
@@ -361,11 +379,13 @@
 <name> 醫學科學研究（五） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time> [1]4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修，9月12日（星期一）課程簡介及公告成績評分方式 </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="151">
@@ -463,7 +483,7 @@
 <class></class>
 <group></group>
 <name> 實驗診斷學及實驗（一） </name>
-<teacher> 彭淑玲   ,  王貞仁   ,  顏經洲   ,  張孔昭   ,  呂政展*  ,  何中良   ,  周楠華   ,  陳炯睿   ,  蔡弘文   ,  李忠達   ,  林建中   ,  王世敏  </teacher>
+<teacher> 王貞仁   ,  顏經洲   ,  張孔昭   ,  呂政展*  ,  何中良   ,  周楠華   ,  陳炯睿   ,  蔡弘文   ,  李忠達   ,  林建中   ,  王世敏  </teacher>
 <score> 2 </score>
 <time> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -483,7 +503,7 @@
 <class></class>
 <group></group>
 <name> 臨床診斷學（一） </name>
-<teacher> 盧豐華   ,  蔡良敏   ,  薛尊仁   ,  林瑞模   ,  張智仁   ,  趙文元   ,  劉明煇   ,  張漢煜   ,  邱元佑   ,  陳儒逸   ,  陳炯睿   ,  曾進忠   ,  莊喬雄   ,  黃涵薇   ,  李南瑤   ,  林建中   ,  王建國   ,  林子凱   ,  王明誠*  ,  林立人  </teacher>
+<teacher> 盧豐華   ,  蔡良敏   ,  薛尊仁   ,  張智仁   ,  趙文元   ,  劉明煇   ,  張漢煜   ,  邱元佑   ,  陳儒逸   ,  陳炯睿   ,  曾進忠   ,  莊喬雄   ,  黃涵薇   ,  李南瑤   ,  林建中   ,  王建國   ,  林子凱   ,  王明誠*  ,  林立人  </teacher>
 <score> 2 </score>
 <time> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -497,7 +517,7 @@
 <class></class>
 <group></group>
 <name> 內科學（一） </name>
-<teacher> 宋俊明   ,  林志勝   ,  蔡惟全   ,  劉明煇*  ,  張漢煜   ,  李政翰   ,  陳炯睿   ,  林建中   ,  許志新   ,  趙庭興   ,  程盟夫   ,  王明誠   ,  劉秉彥  </teacher>
+<teacher> 宋俊明   ,  林志勝   ,  蔡惟全   ,  劉明煇*  ,  張漢煜   ,  李政翰   ,  陳炯睿   ,  林建中   ,  許志新   ,  趙庭興   ,  王明誠   ,  劉秉彥  </teacher>
 <score> 1 </score>
 <time> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -511,7 +531,7 @@
 <class></class>
 <group></group>
 <name> 外科學（一） </name>
-<teacher> 賴吾為   ,  李經維*  ,  陳琮琳   ,  林啟禎   ,  陳肇真   ,  李伯璋   ,  謝式洲   ,  曾堯麟   ,  洪裕昌   ,  歐建慧   ,  羅傳堯   ,  阮俊能   ,  黃士銘   ,  徐慧萍   ,  賴昭翰   ,  林寶彥  </teacher>
+<teacher> 賴吾為   ,  李經維*  ,  陳琮琳   ,  林啟禎   ,  陳肇真   ,  李伯璋   ,  謝式洲   ,  曾堯麟   ,  洪裕昌   ,  羅傳堯   ,  阮俊能   ,  黃士銘   ,  徐慧萍  </teacher>
 <score> 1 </score>
 <time> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -822,20 +842,6 @@
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
 <note> 開放5名給醫學院非醫學系學生選修，於第二階段網路選課結束後抽籤決定之 </note>
-</I5>
-
-<I5 id="213">
-<num>I5-213</num>
-<class></class>
-<group></group>
-<name> 臨床腫瘤學 </name>
-<teacher> 蘇五洲* </teacher>
-<score> 1 </score>
-<time> [4]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note> 臨床課程，限醫學系五年級以上學生選修 </note>
 </I5>
 
 <I5 id="251">
@@ -1195,7 +1201,7 @@
 <class></class>
 <group></group>
 <name> 臨床生化案例特論 </name>
-<teacher> 陳柏齡   ,  李健明   ,  何月仁* </teacher>
+<teacher> 陳柏齡   ,  何月仁* </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 選修 </must>

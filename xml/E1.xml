@@ -100,32 +100,26 @@
 <time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      成功共同微積分 </place>
+<place> 共同教室                      A1306(資源後) </place>
 <note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
 <class1> 甲乙                           </class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
 <time1> [4]1  </time1>
-<place1> 機械系館                      91206 </place1>
+<place1> 共同教室                      A1303 </place1>
 <note1></note1>
 <class2> 甲乙                           </class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
 <time2> [4]1  </time2>
-<place2> 機械系館                      91207 </place2>
+<place2> 共同教室                      A1304 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
 <time3> [4]1  </time3>
-<place3> 機械系館                      91303 </place3>
+<place3> 共同教室                      A1305 </place3>
 <note3></note3>
-<class4> 甲乙                           </class4>
-<group4> D </group4>
-<name4> 微積分（一） </name4>
-<time4> [4]1  </time4>
-<place4> 機械系館                      91102 </place4>
-<note4></note4>
 </E1>
 
 <E1 id="011">
@@ -290,12 +284,6 @@
 <time3> [4]1  </time3>
 <place3> 化工系館                      93356 </place3>
 <note3></note3>
-<class4> 丙                             </class4>
-<group4> D </group4>
-<name4> 微積分（一） </name4>
-<time4> [4]1  </time4>
-<place4> 化工系館                      93223 </place4>
-<note4></note4>
 </E1>
 
 <E1 id="031">
@@ -488,7 +476,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      三星講堂 </place>
+<place> 機械系館                      91302 </place>
 <note> 英語授課 </note>
 <class1> 甲                             </class1>
 <group1></group1>
@@ -626,7 +614,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      三星講堂 </place>
+<place> 機械系館                      91205 </place>
 <note></note>
 <class1> 乙                             </class1>
 <group1></group1>
@@ -764,7 +752,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      三星講堂 </place>
+<place> 機械系館                      91303 </place>
 <note></note>
 <class1> 丙                             </class1>
 <group1></group1>
@@ -916,7 +904,7 @@
 <time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91204 </place>
+<place> 機械系館                      91305 </place>
 <note></note>
 </E1>
 
@@ -1006,7 +994,7 @@
 <time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91206 </place>
+<place> 照坤精密儀器大樓              95703 </place>
 <note></note>
 </E1>
 
@@ -1356,7 +1344,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91205 </place>
+<place> 機械系館                      三星講堂 </place>
 <note> 大碩合開 </note>
 </E1>
 
@@ -1370,7 +1358,7 @@
 <time> [2]5~6  ,  [3]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91205 </place>
+<place> 機械系館                      91204 </place>
 <note> 大碩合開 </note>
 </E1>
 

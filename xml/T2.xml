@@ -38,7 +38,7 @@
 <time> [4]8~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85101 </place>
+<place> 護理系館                      85102 </place>
 <note> 本課程為隔週上課 </note>
 </T2>
 
@@ -77,12 +77,12 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 領導與品質管理 </name>
-<teacher> 顏妙芬* </teacher>
+<teacher> 張瑩如   ,  顏妙芬*  ,  古鯉榕  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85101 </place>
+<place> 護理系館                      85102 </place>
 <note></note>
 </T2>
 
@@ -91,7 +91,7 @@
 <class></class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 王瑤華   ,  王琪珍   ,  徐畢卿   ,  顏妙芬   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  方素瓔  </teacher>
+<teacher> 王琪珍*  ,  林梅鳳   ,  張瑩如   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  方素瓔   ,  陳幸眉   ,  賴維淑  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -121,7 +121,7 @@
 <class></class>
 <group></group>
 <name> 進階護理學實習（一） </name>
-<teacher> 林梅鳳   ,  顏妙芬   ,  黃美智   ,  馮瑞鶯   ,  王靜枝*  ,  陳靜敏   ,  賴維淑  </teacher>
+<teacher> 王琪珍   ,  張瑩如   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  陳靜敏   ,  林靜蘭   ,  方素瓔  </teacher>
 <score> 3 </score>
 <time> 
   </time>
@@ -151,7 +151,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 愛滋病與公共衛生 </name>
-<teacher> 柯乃熒  </teacher>
+<teacher> 柯乃熒*  ,  柯文謙   ,  施欣怡   ,  何宗憲  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 選修 </must>
@@ -179,7 +179,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 傳染病防治及照護 </name>
-<teacher> 柯乃熒* </teacher>
+<teacher> 柯乃熒*  ,  陳柏齡  </teacher>
 <score> 3 </score>
 <time> [4]7~9  </time>
 <must> 選修 </must>
@@ -207,7 +207,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 健康評估及實習 </name>
-<teacher> 馮瑞鶯   ,  方素瓔   ,  陳幸眉*  ,  高綺吟   ,  盧豐華   ,  歐弘毅   ,  陳志弘   ,  詹世鴻   ,  楊朝鈞  </teacher>
+<teacher> 馮瑞鶯   ,  方素瓔   ,  陳幸眉*  ,  高綺吟   ,  盧豐華   ,  薛尊仁   ,  歐弘毅   ,  陳志弘   ,  詹世鴻   ,  楊朝鈞   ,  蔡孟哲  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -221,7 +221,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 進階護理學實習（二） </name>
-<teacher> 顏妙芬   ,  許玉雲   ,  陳靜敏   ,  林靜蘭   ,  方素瓔*  ,  陳幸眉   ,  周承珍  </teacher>
+<teacher> 王琪珍   ,  林梅鳳   ,  顏妙芬   ,  黃美智   ,  許玉雲   ,  王靜枝   ,  方素瓔*  ,  陳幸眉   ,  周承珍   ,  高綺吟  </teacher>
 <score> 3 </score>
 <time> 
   </time>
@@ -237,12 +237,12 @@
 <class> 碩                             </class>
 <group></group>
 <name> 進階護理學實習（一） </name>
-<teacher> 林梅鳳   ,  黃美智*  ,  賴維淑  </teacher>
+<teacher> 林梅鳳   ,  黃美智*  ,  賴維淑   ,  胡芳文  </teacher>
 <score> 3 </score>
 <time> [1]5~8  ,  [3]1~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 護理系館                      85102 </place>
+<place> 護理系館                      85101 </place>
 <note> 國際班課程，限本系學生。 </note>
 </T2>
 

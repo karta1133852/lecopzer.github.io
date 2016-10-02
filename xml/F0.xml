@@ -101,7 +101,7 @@
 <class></class>
 <group></group>
 <name> 體育（一） </name>
-<teacher> 黃滄海   ,  鄭匡佑   ,  黃賢哲   ,  馬上鈞  </teacher>
+<teacher> 黃滄海   ,  鄭匡佑   ,  黃賢哲*  ,  馬上鈞  </teacher>
 <score> 0 </score>
 <time> [1]7~8  </time>
 <must> 必修 </must>
@@ -242,14 +242,16 @@
 <num>F0-106</num>
 <class></class>
 <group></group>
-<name> 太陽光電 </name>
-<teacher> 高　騏  </teacher>
-<score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<name> 校外實習（一） </name>
+<teacher> 夏育群*  ,  賴維祥  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5830 </place>
-<note></note>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
 </F0>
 
 <F0 id="151">

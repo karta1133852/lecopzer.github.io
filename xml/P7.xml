@@ -52,7 +52,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65104 </place>
+<place> 資訊系館                      4261 </place>
 <note> 資訊所醫資所製造所多媒體學位學程合班  英語授課 </note>
 </P7>
 
@@ -234,7 +234,7 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65504 </place>
+<place> 資訊系館                      4260 </place>
 <note> 資訊所醫資所多媒體學位學程合班 </note>
 </P7>
 
@@ -556,7 +556,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4261 </place>
+<place> 資訊新館                      65304 </place>
 <note></note>
 </P7>
 
@@ -654,8 +654,8 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4261 </place>
-<note> 多媒體學位學程/資工所合班 </note>
+<place> 資訊新館                      65104 </place>
+<note> 多媒體學位學程/繪圖與視訊技術學程/資工所合班 </note>
 </P7>
 
 <P7 id="114">

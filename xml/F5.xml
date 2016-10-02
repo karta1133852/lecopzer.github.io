@@ -43,7 +43,7 @@
 <class></class>
 <group></group>
 <name> 普通化學（一） </name>
-<teacher> 未定   ,  林榮良  </teacher>
+<teacher> 林榮良*  ,  鄭沐政  </teacher>
 <score> 3 </score>
 <time> [1]7~8  ,  [4]5~6  </time>
 <must> 必修 </must>
@@ -90,7 +90,7 @@
 <time> [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47110 </place>
+<place> 環工系館                      47111 </place>
 <note></note>
 </F5>
 
@@ -364,6 +364,26 @@
 <note1></note1>
 </F5>
 
+<F5 id="119">
+<num>F5-119</num>
+<class></class>
+<group></group>
+<name> 環境分析與實驗（二） </name>
+<teacher> 張祖恩*  ,  蔡俊鴻  </teacher>
+<score> 3 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47112 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 環境分析與實驗（二） </name1>
+<time1> [2]9~B  </time1>
+<place1> 環工系館                      47309 </place1>
+<note1></note1>
+</F5>
+
 <F5 id="121">
 <num>F5-121</num>
 <class></class>
@@ -413,7 +433,7 @@
 <name> 環境工程設計（一） </name>
 <teacher> 葉宣顯  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [4]2  ,  [3]8~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 環工系館                      47112 </place>
@@ -447,6 +467,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 環工系館                      47112 </place>
+<note></note>
+</F5>
+
+<F5 id="174">
+<num>F5-174</num>
+<class></class>
+<group></group>
+<name> 環境管理 </name>
+<teacher> 林素貞  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47111 </place>
 <note></note>
 </F5>
 

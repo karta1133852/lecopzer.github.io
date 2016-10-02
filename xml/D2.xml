@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 體育（一） </name>
-<teacher> 黃滄海   ,  鄭匡佑   ,  黃賢哲   ,  馬上鈞  </teacher>
+<teacher> 黃滄海   ,  鄭匡佑   ,  黃賢哲   ,  馬上鈞* </teacher>
 <score> 0 </score>
 <time> [1]7~8  </time>
 <must> 必修 </must>
@@ -94,7 +94,7 @@
 <time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    實習法庭 </place>
+<place> 社科院大樓                    80103 </place>
 <note> 基礎法學 </note>
 </D2>
 
@@ -206,7 +206,7 @@
 <time> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    實習法庭 </place>
+<place> 社科院大樓                    80109 </place>
 <note> 專題及實例研討 </note>
 </D2>
 
@@ -350,20 +350,6 @@
 <note> 專題及實例研討 </note>
 </D2>
 
-<D2 id="114">
-<num>D2-114</num>
-<class></class>
-<group></group>
-<name> BOT法制與實務（一） </name>
-<teacher> 許登科  </teacher>
-<score> 2 </score>
-<time> [2]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    實習法庭 </place>
-<note> 特別法 </note>
-</D2>
-
 <D2 id="115">
 <num>D2-115</num>
 <class></class>
@@ -472,7 +458,7 @@
 <time> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80205 </place>
+<place> 社科院大樓                    80201 </place>
 <note> 特別法 </note>
 </D2>
 
@@ -497,24 +483,10 @@
 <name> 刑事訴訟法爭議問題研究（一） </name>
 <teacher> 王士帆  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time> [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
-<note> 專題及實例研討 </note>
-</D2>
-
-<D2 id="161">
-<num>D2-161</num>
-<class></class>
-<group></group>
-<name> 民事實務法律問題研究（一） </name>
-<teacher> 胡峰賓  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80203 </place>
 <note> 專題及實例研討 </note>
 </D2>
 
@@ -528,7 +500,7 @@
 <time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80109 </place>
+<place> 社科院大樓                    實習法庭 </place>
 <note> 法學外文 </note>
 </D2>
 

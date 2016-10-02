@@ -66,8 +66,8 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中正堂                        中正堂視聽室 </place>
-<note></note>
+<place></place>
+<note> 上課地點:中正堂貴賓室 </note>
 </RB>
 
 <RB id="006">
@@ -109,7 +109,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂視聽室 </place>
-<note> 專業選修課程：運動科技產業領域、健康管理領域 </note>
+<note> 專業選修課程：運動科技產業領域、健康管理領域／上課地點:中正堂貴賓室 </note>
 </RB>
 
 <RB id="009">
@@ -122,8 +122,8 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 休閒管理領域專業選修課程；中正堂貴賓室 </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 休閒管理領域專業選修課程； </note>
 </RB>
 
 <RB id="010">
@@ -133,41 +133,11 @@
 <name> 運動產業實務專題討論 </name>
 <teacher> 林麗娟*  ,  馬上鈞  </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</RB>
-
-<RB id="011">
-<num>RB-011</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 體育健康與休閒管理實習 </name>
-<teacher> 林麗娟  </teacher>
-<score> 2 </score>
-<time> [1]5~8  </time>
-<must> 選修 </must>
-<type> 實習 </type>
 <place> 中正堂                        中正堂視聽室 </place>
-<note> 三大領域共同專業選修課程 </note>
-</RB>
-
-<RB id="012">
-<num>RB-012</num>
-<class> 碩三延                         </class>
-<group></group>
-<name> 碩士論文（二） </name>
-<teacher> 黃滄海  </teacher>
-<score> 0 </score>
-<time> [5]4  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 管理學院                      62X02 </place>
-<note> 限碩三以上修，並修滿規定30學分以上修習 </note>
+<note> 限有前往新加坡南洋理工交換之學生修習 </note>
 </RB>
 
 <RB id="013">
@@ -189,7 +159,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 周學雯  </teacher>
 <score> 1 </score>
 <time> [6]8~9  </time>
 <must> 必修 </must>
@@ -203,7 +173,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 休閒遊憩管理概論 </name>
-<teacher> 馬上鈞  </teacher>
+<teacher> 徐珊惠   ,  周學雯   ,  馬上鈞* </teacher>
 <score> 3 </score>
 <time> [6]5~7  </time>
 <must> 選修 </must>
@@ -224,6 +194,20 @@
 <type> 講義 </type>
 <place> 中正堂                        中正堂視聽室 </place>
 <note> 專業選修課程；限碩專選修　 </note>
+</RB>
+
+<RB id="017">
+<num>RB-017</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 碩士論文（一） </name>
+<teacher> 黃滄海  </teacher>
+<score> 0 </score>
+<time> [5]4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 管理學院                      62X02 </place>
+<note> 不限碩專生選修 </note>
 </RB>
 
 </content>

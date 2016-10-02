@@ -215,7 +215,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 詹寶珠  </teacher>
+<teacher> 戴顯權  </teacher>
 <score> 0 </score>
 <time> [3]9  ,  [4]A  </time>
 <must> 必修 </must>
@@ -301,7 +301,7 @@
 <name> 機器學習 </name>
 <teacher> 詹寶珠  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92523 </place>
@@ -404,20 +404,6 @@
 <type> 講義 </type>
 <place> 電機系館                      令洋廳 </place>
 <note> 碩博與電通所合班 </note>
-</Q3>
-
-<Q3 id="051">
-<num>Q3-051</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 科技教育與電子教具設計 </name>
-<teacher> 林偉棻  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92185 </place>
-<note> 大四碩士合班 </note>
 </Q3>
 
 <Q3 id="052">

@@ -61,12 +61,12 @@
 <class></class>
 <group></group>
 <name> 普通化學（一） </name>
-<teacher> 黃福永   ,  林弘萍* </teacher>
+<teacher> 黃福永   ,  林弘萍*  ,  吳欣倫  </teacher>
 <score> 3 </score>
 <time> [2]1~2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note></note>
 </C4>
 
@@ -112,7 +112,7 @@
 <group3> C </group3>
 <name3> 微積分（一） </name3>
 <time3> [3]5  </time3>
-<place3> 化學系館                      3274 </place3>
+<place3> 數學系館                      3175 </place3>
 <note3></note3>
 <class4></class4>
 <group4> D </group4>
@@ -258,7 +258,7 @@
 <time> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3031 </place>
+<place> 地科系館                      3017 </place>
 <note></note>
 </C4>
 
@@ -272,7 +272,7 @@
 <time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3031 </place>
+<place> 地科系館                      3035 </place>
 <note></note>
 </C4>
 
@@ -360,20 +360,6 @@
 <note></note>
 </C4>
 
-<C4 id="110">
-<num>C4-110</num>
-<class></class>
-<group></group>
-<name> 構造地質學實習（二） </name>
-<teacher> 林慶偉  </teacher>
-<score> 1 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place> 地科系館                      3017 </place>
-<note></note>
-</C4>
-
 <C4 id="111">
 <num>C4-111</num>
 <class></class>
@@ -399,20 +385,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3035 </place>
-<note></note>
-</C4>
-
-<C4 id="113">
-<num>C4-113</num>
-<class></class>
-<group></group>
-<name> 空間資訊系統導論 </name>
-<teacher> 劉正千  </teacher>
-<score> 3 </score>
-<time> [2]N~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75209 </place>
 <note></note>
 </C4>
 
@@ -467,10 +439,10 @@
 <name> 論文（一） </name>
 <teacher> 游鎮烽  </teacher>
 <score> 1 </score>
-<time> [1]1  </time>
+<time> [5]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3036 </place>
+<place> 地科系館                      3031 </place>
 <note></note>
 </C4>
 
@@ -479,7 +451,7 @@
 <class></class>
 <group></group>
 <name> 臺灣地質專論 </name>
-<teacher> 饒瑞鈞* </teacher>
+<teacher> 饒瑞鈞*  ,  楊耿明  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
 <must> 選修 </must>
@@ -495,7 +467,7 @@
 <name> 地質災害 </name>
 <teacher> 林慶偉  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time> [2]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3031 </place>
@@ -541,20 +513,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3031 </place>
-<note></note>
-</C4>
-
-<C4 id="166">
-<num>C4-166</num>
-<class></class>
-<group></group>
-<name> 書報討論 </name>
-<teacher> 吳銘志  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3036 </place>
 <note></note>
 </C4>
 

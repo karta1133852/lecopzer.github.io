@@ -271,7 +271,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 組織工程 </name>
-<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  謝清河   ,  李澤民   ,  吳佳慶  </teacher>
+<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  李澤民   ,  吳佳慶  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -327,7 +327,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（一） </name>
-<teacher> 陳家進   ,  蘇芳慶   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  許育祥   ,  李澤民  </teacher>
+<teacher> 陳家進   ,  葉明龍   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  許育祥   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
@@ -404,6 +404,22 @@
 <type> 講義 </type>
 <place> 國企所                        61401 </place>
 <note> 國企所與醫工所合開 </note>
+</P8>
+
+<P8 id="070">
+<num>P8-070</num>
+<class></class>
+<group></group>
+<name> 生醫工程專論及實驗 </name>
+<teacher> 胡晉嘉   ,  莊漢聲   ,  邱文泰   ,  黃執中   ,  方佑華   ,  吳炳慶   ,  林哲偉* </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </P8>
 
 </content>

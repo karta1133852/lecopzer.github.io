@@ -35,10 +35,10 @@
 <name> 教學實習（一） </name>
 <teacher> 龔俊嘉   ,  謝淑蘭*  ,  楊政達   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩  </teacher>
 <score> 0 </score>
-<time> [5]7  </time>
+<time> [5]9  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 社科院大樓                    階梯教室-心理 </place>
+<place> 社科院大樓                    80204 </place>
 <note> 碩一必選 </note>
 </U7>
 
@@ -94,20 +94,6 @@
 <time> [4]9~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    80204 </place>
-<note> 需經授課老師同意後得以選修 </note>
-</U7>
-
-<U7 id="008">
-<num>U7-008</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 知覺心理學專題研究 </name>
-<teacher> 黃碧群  </teacher>
-<score> 3 </score>
-<time> [3]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
 <note> 需經授課老師同意後得以選修 </note>
 </U7>

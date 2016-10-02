@@ -10,7 +10,7 @@
 <time> [3]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63101 </place>
+<place> 統計系館                      62115 </place>
 <note></note>
 </H1>
 
@@ -24,7 +24,7 @@
 <time> [4]6~8  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 會計系館                      63210 </place>
+<place> 會計系館                      63211 </place>
 <note> 大一必選 </note>
 </H1>
 
@@ -128,13 +128,13 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63404 </place>
+<place> 會計系館                      63102 </place>
 <note> 研究所先修 </note>
 <class1></class1>
 <group1></group1>
 <name1> 中級會計學（一） </name1>
-<time1> [2]A~B  </time1>
-<place1> 會計系館                      63404 </place1>
+<time1> [2]9~A  </time1>
+<place1> 會計系館                      63102 </place1>
 <note1> 研究所先修 </note1>
 </H1>
 
@@ -163,7 +163,7 @@
 <class></class>
 <group></group>
 <name> 成本會計（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 李政勳  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -173,7 +173,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 成本會計（一） </name1>
-<time1> [5]3~4  </time1>
+<time1> [2]1  ,  [5]N  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
@@ -188,7 +188,7 @@
 <time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63101 </place>
+<place> 會計系館                      63104 </place>
 <note></note>
 </H1>
 
@@ -211,7 +211,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（三） </name>
-<teacher></teacher>
+<teacher> 李政勳  </teacher>
 <score> 0 </score>
 <time> [2]9  </time>
 <must> 必修 </must>
@@ -250,7 +250,7 @@
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
+<place> 會計系館                      63102 </place>
 <note></note>
 </H1>
 
@@ -340,7 +340,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63404 </place>
+<place> 會計系館                      63210 </place>
 <note></note>
 </H1>
 
@@ -368,13 +368,13 @@
 <time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
+<place> 會計系館                      63101 </place>
 <note> 審計實務 </note>
 <class1></class1>
 <group1></group1>
 <name1> 審計學（二） </name1>
 <time1> [4]5  ,  [4]9  </time1>
-<place1> 會計系館                      63104 </place1>
+<place1> 會計系館                      63101 </place1>
 <note1></note1>
 </H1>
 

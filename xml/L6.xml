@@ -19,7 +19,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 生物技術學（一） </name>
-<teacher> 張清俊   ,  洪健睿   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴  </teacher>
+<teacher> 張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
 <must> 必修 </must>
@@ -33,7 +33,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 林翰佑*  ,  林士鳴  </teacher>
+<teacher> 陳宗嶽   ,  林士鳴* </teacher>
 <score> 1 </score>
 <time> [3]7~8  </time>
 <must> 必修 </must>
@@ -89,7 +89,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 林翰佑*  ,  陳逸民   ,  王涵青   ,  張純純  </teacher>
+<teacher> 陳逸民   ,  王涵青   ,  張純純   ,  林士鳴* </teacher>
 <score> 1 </score>
 <time> [3]5~6  </time>
 <must> 必修 </must>
@@ -103,7 +103,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 書報討論（一） </name>
-<teacher> 林翰佑*  ,  陳逸民   ,  王涵青   ,  張純純  </teacher>
+<teacher> 陳逸民   ,  王涵青   ,  張純純   ,  林士鳴* </teacher>
 <score> 1 </score>
 <time> [3]1~2  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 生物科技研究特論 </name>
-<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青*  ,  張純純   ,  盧福翊   ,  林士鳴   ,  陳俊榮  </teacher>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青*  ,  張純純   ,  盧福翊   ,  陳俊榮  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 選修 </must>
@@ -187,27 +187,13 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 組織工程 </name>
-<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  謝清河   ,  李澤民   ,  吳佳慶  </teacher>
+<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  李澤民   ,  吳佳慶  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5725 </place>
 <note> 生科所，醫工所，工科所合班 </note>
-</L6>
-
-<L6 id="064">
-<num>L6-064</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 實驗動物學 </name>
-<teacher> 林翰佑  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75614 </place>
-<note></note>
 </L6>
 
 <L6 id="067">
@@ -229,7 +215,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 宋皇模   ,  張清俊   ,  林翰佑   ,  王涵青   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
+<teacher> 宋皇模   ,  張清俊   ,  王涵青   ,  曾大千   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
@@ -257,7 +243,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 生物儀器分析 </name>
-<teacher> 陳宗嶽*  ,  張清俊   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊  </teacher>
+<teacher> 陳宗嶽*  ,  張清俊   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊   ,  林士鳴  </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>

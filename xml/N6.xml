@@ -24,7 +24,7 @@
 <time> [5]6~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4502 </place>
+<place> 土木系館                      47X52 </place>
 <note> 結構工程組（一）（三）合班 </note>
 </N6>
 
@@ -38,7 +38,7 @@
 <time> [5]6~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4502 </place>
+<place> 土木系館                      47X52 </place>
 <note> 結構工程組（一）（三）合班 </note>
 </N6>
 
@@ -192,7 +192,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4502 </place>
+<place> 土木系館                      4507 </place>
 <note> 大四，碩博與碩專合班 </note>
 </N6>
 
@@ -234,7 +234,7 @@
 <time> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4509 </place>
 <note> 碩博與碩專合班，甲組核心課程，英語授課 </note>
 </N6>
 
@@ -259,10 +259,10 @@
 <name> 結構隔減震技術 </name>
 <teacher> 盧煉元  </teacher>
 <score> 3 </score>
-<time> [2]5~7  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4506 </place>
+<place> 土木系館                      4503 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -273,7 +273,7 @@
 <name> 系統識別 </name>
 <teacher> 朱世禹  </teacher>
 <score> 3 </score>
-<time> [1]5  ,  [3]5~6  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -301,7 +301,7 @@
 <name> 結構可靠性分析 </name>
 <teacher> 洪李陵  </teacher>
 <score> 3 </score>
-<time> [1]5  ,  [3]5~6  </time>
+<time> [1]4  ,  [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
@@ -441,7 +441,7 @@
 <name> 舖面分析 </name>
 <teacher> 楊士賢  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [2]B~D  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
@@ -455,7 +455,7 @@
 <name> 離岸風機支撐結構設計 </name>
 <teacher> 朱聖浩  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [3]8~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
@@ -542,7 +542,7 @@
 <time> [3]A  ,  [4]C~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4502 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -556,7 +556,7 @@
 <time> [3]5  ,  [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      47160 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -626,7 +626,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4502 </place>
+<place> 土木系館                      4507 </place>
 <note> 大四，碩博與碩專合班 </note>
 </N6>
 
@@ -668,7 +668,7 @@
 <time> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4509 </place>
 <note> 碩博與碩專合班，甲組核心課程，英語授課 </note>
 </N6>
 
@@ -693,10 +693,10 @@
 <name> 結構隔減震技術 </name>
 <teacher> 盧煉元  </teacher>
 <score> 3 </score>
-<time> [2]5~7  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4506 </place>
+<place> 土木系館                      4503 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -707,7 +707,7 @@
 <name> 系統識別 </name>
 <teacher> 朱世禹  </teacher>
 <score> 3 </score>
-<time> [1]5  ,  [3]5~6  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -735,7 +735,7 @@
 <name> 結構可靠性分析 </name>
 <teacher> 洪李陵  </teacher>
 <score> 3 </score>
-<time> [1]5  ,  [3]5~6  </time>
+<time> [1]4  ,  [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
@@ -875,7 +875,7 @@
 <name> 舖面分析 </name>
 <teacher> 楊士賢  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [2]B~D  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
@@ -889,7 +889,7 @@
 <name> 離岸風機支撐結構設計 </name>
 <teacher> 朱聖浩  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [3]8~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
@@ -976,7 +976,7 @@
 <time> [3]A  ,  [4]C~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4502 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -990,7 +990,7 @@
 <time> [3]5  ,  [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      47160 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 

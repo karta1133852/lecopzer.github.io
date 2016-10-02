@@ -80,7 +80,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61204 </place>
+<place> 工管系館                      61208 </place>
 <note></note>
 </R3>
 
@@ -147,7 +147,7 @@
 <name> 動態規劃 </name>
 <teacher> 黃宇翔  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]3  </time>
+<time> [1]5~6  ,  [3]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61210 </place>
@@ -262,7 +262,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61208 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </R3>
 
@@ -306,6 +306,20 @@
 <type> 實習 </type>
 <place> 工管系館                      61200 </place>
 <note></note>
+</R3>
+
+<R3 id="028">
+<num>R3-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 資訊倫理 </name>
+<teacher> 謝佩璇  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61204 </place>
+<note> 英語授課 </note>
 </R3>
 
 <R3 id="301">

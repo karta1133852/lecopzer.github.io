@@ -38,7 +38,7 @@
 <time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        203D </place>
+<place> 醫學院                        307 </place>
 <note></note>
 </I7>
 
@@ -68,7 +68,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        205D </place>
+<place> 醫學院                        307 </place>
 <note></note>
 </I7>
 
@@ -93,10 +93,10 @@
 <name> 職能與活動 </name>
 <teacher> 張哲豪* </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time> [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        203D </place>
+<place> 職治系館                      專業教室 </place>
 <note></note>
 </I7>
 
@@ -189,7 +189,7 @@
 <class></class>
 <group></group>
 <name> 小兒科學概論 </name>
-<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  陳永榮   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  王玠能   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  周言穎   ,  紀美宏   ,  朱曉慧  </teacher>
+<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  王玠能   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  周言穎  </teacher>
 <score> 1 </score>
 <time> [4]8  </time>
 <must> 必修 </must>
@@ -203,7 +203,7 @@
 <class></class>
 <group></group>
 <name> 外科學概論 </name>
-<teacher> 張財旺   ,  李政昌   ,  陳琮琳   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  羅傳堯   ,  顏亦廷   ,  林毅志   ,  王亮超   ,  黃士銘*  ,  徐慧萍   ,  潘信誠   ,  戴世煌  </teacher>
+<teacher> 李政昌   ,  陳琮琳   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  羅傳堯   ,  顏亦廷   ,  林毅志   ,  王亮超   ,  黃士銘*  ,  徐慧萍   ,  潘信誠   ,  戴世煌  </teacher>
 <score> 2 </score>
 <time> [1]8~9  </time>
 <must> 必修 </must>
@@ -217,7 +217,7 @@
 <class></class>
 <group></group>
 <name> 神經科學概論 </name>
-<teacher> 林宙晴   ,  白明奇   ,  李宜堅   ,  黃文柱   ,  林志勝*  ,  蔡子同   ,  蔡景仁   ,  黃欽威   ,  陳志弘   ,  羅健寧   ,  黃涵薇   ,  孫苑庭   ,  賴明亮  </teacher>
+<teacher> 林宙晴   ,  白明奇   ,  李宜堅   ,  黃文柱   ,  林志勝*  ,  蔡子同   ,  蔡景仁   ,  黃欽威   ,  陳志弘   ,  羅健寧   ,  黃涵薇   ,  孫苑庭  </teacher>
 <score> 1 </score>
 <time> [5]9  </time>
 <must> 必修 </must>

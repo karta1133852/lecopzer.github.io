@@ -66,7 +66,7 @@
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4627 </place>
 <note> 自災所、水利所與海事所合開 </note>
 </NC>
 
@@ -168,18 +168,20 @@
 <note></note>
 </NC>
 
-<NC id="013">
-<num>NC-013</num>
-<class> 碩博                           </class>
+<NC id="015">
+<num>NC-015</num>
+<class></class>
 <group></group>
-<name> 水資源永續發展特論 </name>
-<teacher> 周乃昉  </teacher>
+<name> 低地洪災管理 </name>
+<teacher> 王筱雯  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
-<note> 水利所與自災所合開 </note>
+<place></place>
+<note> 
+ </note>
 </NC>
 
 </content>

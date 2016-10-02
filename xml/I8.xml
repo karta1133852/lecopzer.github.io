@@ -5,15 +5,13 @@
 <class></class>
 <group></group>
 <name> 普通化學 </name>
-<teacher> 林弘萍   ,  陳毓宏   ,  郭賓崇* </teacher>
+<teacher> 陳毓宏   ,  郭賓崇* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [5]6  ,  [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        501 </place>
+<note></note>
 </I8>
 
 <I8 id="007">
@@ -68,13 +66,13 @@
 <time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
 <time1> [3]2  </time1>
-<place1> 共同教室                      A1307(資源旁) </place1>
+<place1> 共同教室                      A1307(資源後) </place1>
 <note1></note1>
 </I8>
 
@@ -97,13 +95,13 @@
 <class></class>
 <group></group>
 <name> 有機化學（二） </name>
-<teacher> 林建功* </teacher>
+<teacher> 洪欣儀   ,  郭賓崇* </teacher>
 <score> 3 </score>
 <time> [3]2  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 藥學系與醫工系合開 </note>
+<note></note>
 </I8>
 
 <I8 id="057">
@@ -144,7 +142,7 @@
 <time> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        0301 </place>
+<place> 醫學院                        501 </place>
 <note> 上課時間改(四)5-7 </note>
 </I8>
 
@@ -178,6 +176,22 @@
  </note>
 </I8>
 
+<I8 id="063">
+<num>I8-063</num>
+<class></class>
+<group></group>
+<name> 醫學論文研究 </name>
+<teacher> 歐凰姿*  ,  張惠華  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</I8>
+
 <I8 id="103">
 <num>I8-103</num>
 <class></class>
@@ -185,13 +199,11 @@
 <name> 藥理學（一）（ 含實驗） </name>
 <teacher> 呂增宏   ,  許桂森   ,  張雋曦   ,  陳韻雯*  ,  姜學誠   ,  周辰熹   ,  張惠華*  ,  蕭雅心  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        501 </place>
+<note></note>
 </I8>
 
 <I8 id="104">
@@ -201,13 +213,11 @@
 <name> 藥物化學（一） </name>
 <teacher> 洪欣儀* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        302D </place>
+<note></note>
 </I8>
 
 <I8 id="105">
@@ -217,13 +227,11 @@
 <name> 藥劑學（一） </name>
 <teacher> 蔡瑞真* </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        304D </place>
+<note></note>
 </I8>
 
 <I8 id="106">
@@ -231,15 +239,13 @@
 <class></class>
 <group></group>
 <name> 藥劑學實驗（一） </name>
-<teacher> 蔡瑞真*  ,  張惠華  </teacher>
+<teacher> 蔡瑞真* </teacher>
 <score> 1 </score>
-<time> 
-  </time>
+<time> [2]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        0301 </place>
+<note></note>
 </I8>
 
 <I8 id="107">
@@ -249,13 +255,39 @@
 <name> 藥物分析（一） </name>
 <teacher> 郭賓崇* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [4]3~4  ,  [2]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        202D </place>
+<note></note>
+</I8>
+
+<I8 id="108">
+<num>I8-108</num>
+<class></class>
+<group></group>
+<name> 中藥方劑學 </name>
+<teacher> 陳俞沛* </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</I8>
+
+<I8 id="109">
+<num>I8-109</num>
+<class></class>
+<group></group>
+<name> 藥物資訊專題 </name>
+<teacher> 徐之昇   ,  賴嘉鎮   ,  鄭靜蘭   ,  歐凰姿* </teacher>
+<score> 1 </score>
+<time> [4]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
 </I8>
 
 </content>

@@ -61,7 +61,7 @@
 <class> 碩博一                         </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 黃吉川  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
@@ -131,7 +131,7 @@
 <class> 碩博二                         </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 未定  </teacher>
+<teacher> 黃吉川  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
@@ -257,12 +257,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 奈米製程技術與實作 </name>
-<teacher> 鍾崇仁*  ,  顏秀芳  </teacher>
+<teacher> 鍾崇仁* </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41122 </place>
+<place> 工科系館                      41102 </place>
 <note></note>
 </N9>
 
@@ -371,7 +371,7 @@
 <name> 凝固導論 </name>
 <teacher> 趙隆山  </teacher>
 <score> 3 </score>
-<time> [3]2  ,  [4]2~3  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41111 </place>
@@ -397,27 +397,13 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 組織工程 </name>
-<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  謝清河   ,  李澤民   ,  吳佳慶  </teacher>
+<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  李澤民   ,  吳佳慶  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5725 </place>
 <note> 生科所，醫工所，工科所合班 </note>
-</N9>
-
-<N9 id="036">
-<num>N9-036</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 凝固特論 </name>
-<teacher> 趙隆山  </teacher>
-<score> 3 </score>
-<time> [3]3~4  ,  [4]4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41111 </place>
-<note></note>
 </N9>
 
 <N9 id="037">
@@ -427,10 +413,10 @@
 <name> 氣體動力學 </name>
 <teacher> 劉中堅  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [4]4~5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41111 </place>
+<place> 工科系館                      41220 </place>
 <note></note>
 </N9>
 
@@ -638,6 +624,20 @@
 <teacher> 周榮華  </teacher>
 <score> 3 </score>
 <time> [5]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41220 </place>
+<note> 限本系碩專班學生 </note>
+</N9>
+
+<N9 id="329">
+<num>N9-329</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 機器人學 </name>
+<teacher> 王明習  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41220 </place>

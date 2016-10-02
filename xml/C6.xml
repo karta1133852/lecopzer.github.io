@@ -61,7 +61,7 @@
 <class></class>
 <group></group>
 <name> 生技產業概論 </name>
-<teacher> 陳宗嶽   ,  張清俊   ,  黃玲惠   ,  林翰佑*  ,  陳逸民   ,  王涵青   ,  洪建中   ,  陳炳焜   ,  羅竹芳   ,  林士鳴   ,  蔡少正  </teacher>
+<teacher> 陳宗嶽   ,  張清俊   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  洪建中   ,  陳炳焜   ,  羅竹芳   ,  林士鳴*  ,  蔡少正  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>
@@ -109,7 +109,7 @@
 <class></class>
 <group></group>
 <name> 普通化學實驗 </name>
-<teacher> 未定  </teacher>
+<teacher> 吳欣倫  </teacher>
 <score> 1 </score>
 <time> [5]5~7  </time>
 <must> 必修 </must>
@@ -151,7 +151,7 @@
 <class></class>
 <group></group>
 <name> 生物技術核心實驗（一） </name>
-<teacher> 林翰佑   ,  陳逸民*  ,  王涵青   ,  張純純   ,  洪良宜   ,  盧福翊   ,  林士鳴  </teacher>
+<teacher> 陳逸民*  ,  王涵青   ,  張純純   ,  洪良宜   ,  盧福翊   ,  林士鳴  </teacher>
 <score> 1 </score>
 <time> [5]2~4  </time>
 <must> 必修 </must>
@@ -193,7 +193,7 @@
 <class></class>
 <group></group>
 <name> 醫藥生技與產業概論 </name>
-<teacher> 曾大千   ,  陳炳焜* </teacher>
+<teacher> 曾大千   ,  陳炳焜*  ,  張雅雯  </teacher>
 <score> 2 </score>
 <time> [3]5~6  </time>
 <must> 選修 </must>
@@ -207,7 +207,7 @@
 <class></class>
 <group></group>
 <name> 水生生物組織及生理學 </name>
-<teacher> 林翰佑   ,  王涵青   ,  盧福翊* </teacher>
+<teacher> 陳逸民   ,  王涵青   ,  盧福翊* </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 選修 </must>

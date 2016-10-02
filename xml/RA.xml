@@ -613,7 +613,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 核心課程(上課地點待通知) </note>
+<note> 台北班課程 核心課程(上課地點：國立臺北科技大學224教室) </note>
 </RA>
 
 <RA id="332">
@@ -627,7 +627,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 核心課程(上課地點待通知) </note>
+<note> 台北班課程 核心課程(上課地點：國立臺北科技大學224教室) </note>
 </RA>
 
 <RA id="333">
@@ -641,21 +641,85 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 選修課程(上課地點待通知) </note>
+<note> 台北班課程 選修課程(上課地點：國立臺北科技大學224教室) </note>
 </RA>
 
-<RA id="334">
-<num>RA-334</num>
+<RA id="335">
+<num>RA-335</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 企業研究方法 </name>
+<name> 行銷策略 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
 <time> [7]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 方法學課程(上課地點待通知) </note>
+<note> 台北班課程上課地點：國立臺北科技大學224教室 </note>
+</RA>
+
+<RA id="336">
+<num>RA-336</num>
+<class></class>
+<group></group>
+<name> 管理會計 </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</RA>
+
+<RA id="337">
+<num>RA-337</num>
+<class></class>
+<group></group>
+<name> 統計方法 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</RA>
+
+<RA id="338">
+<num>RA-338</num>
+<class></class>
+<group></group>
+<name> 管理經濟 </name>
+<teacher> 謝文真  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</RA>
+
+<RA id="339">
+<num>RA-339</num>
+<class></class>
+<group></group>
+<name> 高等企業研究方法 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </RA>
 
 </content>

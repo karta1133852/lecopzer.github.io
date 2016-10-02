@@ -108,7 +108,7 @@
 <time> [5]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92377 </place>
+<place> 電機系館                      92371 </place>
 <note> 英語授課 </note>
 </Q7>
 
@@ -124,6 +124,20 @@
 <type> 講義 </type>
 <place> 電機系館                      令洋廳 </place>
 <note></note>
+</Q7>
+
+<Q7 id="016">
+<num>Q7-016</num>
+<class> 碩                             </class>
+<group></group>
+<name> 量子電子學 </name>
+<teacher> 莊文魁  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note> 英語授課 </note>
 </Q7>
 
 <Q7 id="017">

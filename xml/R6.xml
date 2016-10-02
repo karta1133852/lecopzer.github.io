@@ -56,6 +56,20 @@
 <note> 國企所與醫工所合開 </note>
 </R6>
 
+<R6 id="008">
+<num>R6-008</num>
+<class> 碩                             </class>
+<group></group>
+<name> 國際企業管理實務 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
 <R6 id="009">
 <num>R6-009</num>
 <class> 碩                             </class>

@@ -458,28 +458,14 @@
 <time> [1]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4627 </place>
+<place> 水利系館                      4646 </place>
 <note> 「四科任選二科之設計必修」 </note>
 <class1></class1>
 <group1></group1>
 <name1> 水工結構設計 </name1>
 <time1> [1]6~8  </time1>
-<place1> 水利系館                      4627 </place1>
+<place1> 水利系館                      4646 </place1>
 <note1></note1>
-</E8>
-
-<E8 id="157">
-<num>E8-157</num>
-<class></class>
-<group></group>
-<name> 河工學 </name>
-<teacher> 黃進坤  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4627 </place>
-<note></note>
 </E8>
 
 </content>

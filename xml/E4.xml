@@ -47,7 +47,7 @@
 <class></class>
 <group></group>
 <name> 普通化學（一） </name>
-<teacher> 未定   ,  林榮良  </teacher>
+<teacher> 林榮良*  ,  鄭沐政  </teacher>
 <score> 3 </score>
 <time> [1]7~8  ,  [4]5~6  </time>
 <must> 必修 </must>
@@ -66,7 +66,7 @@
 <time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 理化大樓                      35102 </place>
+<place> 理化大樓                      35122 </place>
 <note> 理化大樓一樓 </note>
 </E4>
 
@@ -480,54 +480,12 @@
 <note></note>
 </E4>
 
-<E4 id="170">
-<num>E4-170</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 陳家榮  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="171">
-<num>E4-171</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 黃紀嚴  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
 <E4 id="173">
 <num>E4-173</num>
 <class></class>
 <group></group>
 <name> 論文（二） </name>
 <teacher> 余騰鐸  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="174">
-<num>E4-174</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 郭明錦  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>
@@ -564,68 +522,12 @@
 <note></note>
 </E4>
 
-<E4 id="177">
-<num>E4-177</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 李振誥  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="178">
-<num>E4-178</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 陸喬克  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="179">
-<num>E4-179</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 施勵行  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
 <E4 id="180">
 <num>E4-180</num>
 <class></class>
 <group></group>
 <name> 論文（二） </name>
 <teacher> 向性一  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="181">
-<num>E4-181</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 王建力  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>
@@ -648,40 +550,12 @@
 <note></note>
 </E4>
 
-<E4 id="183">
-<num>E4-183</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 申永輝  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
 <E4 id="184">
 <num>E4-184</num>
 <class></class>
 <group></group>
 <name> 論文（二） </name>
 <teacher> 陳偉聖  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="185">
-<num>E4-185</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 吳榮華  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>

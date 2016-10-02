@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 教育研究法 </name>
-<teacher> 楊琬琳  </teacher>
+<teacher> 楊琬琳*  ,  郭旭展  </teacher>
 <score> 3 </score>
 <time> [3]5~7  </time>
 <must> 必修 </must>
@@ -58,7 +58,7 @@
 
 <U3 id="005">
 <num>U3-005</num>
-<class> 碩二                           </class>
+<class> 碩博                           </class>
 <group></group>
 <name> 服務學習專題研究 </name>
 <teacher> 董旭英  </teacher>
@@ -67,7 +67,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
-<note></note>
+<note> 融入服務學習內涵，碩二必修；博班選修 </note>
 </U3>
 
 <U3 id="006">
@@ -104,7 +104,7 @@
 <group></group>
 <name> 生涯輔導研究 </name>
 <teacher> 饒夢霞  </teacher>
-<score> 2 </score>
+<score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -159,7 +159,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 教育研究方法論專題研究 </name>
-<teacher> 楊琬琳   ,  洪素蘋   ,  陸偉明   ,  湯　堯   ,  董旭英   ,  趙梅如*  ,  許清芳  </teacher>
+<teacher> 楊琬琳   ,  洪素蘋   ,  郭旭展   ,  陸偉明   ,  湯　堯   ,  董旭英   ,  趙梅如*  ,  許清芳  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>

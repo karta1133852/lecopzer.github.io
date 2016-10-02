@@ -122,7 +122,7 @@
 <time> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63210 </place>
+<place> 會計系館                      63404 </place>
 <note></note>
 </R8>
 
@@ -136,7 +136,7 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63415 </place>
+<place> 會計系館                      63210 </place>
 <note></note>
 </R8>
 
@@ -150,7 +150,7 @@
 <time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63404 </place>
 <note></note>
 </R8>
 
@@ -207,7 +207,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63415 </place>
-<note> 外所學生修課需經任課教師簽核 </note>
+<note> 外所學生修課需經任課教師簽核,英文授課 </note>
 </R8>
 
 <R8 id="103">
@@ -318,7 +318,7 @@
 <time> [3]B~D  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63210 </place>
+<place> 會計系館                      63104 </place>
 <note></note>
 </R8>
 
@@ -374,7 +374,7 @@
 <time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63210 </place>
+<place> 會計系館                      63205 </place>
 <note></note>
 </R8>
 

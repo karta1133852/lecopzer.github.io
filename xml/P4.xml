@@ -94,7 +94,7 @@
 <time> [2]3~4  ,  [4]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5833 </place>
+<place> 航太系館                      5821 </place>
 <note></note>
 </P4>
 
@@ -105,10 +105,10 @@
 <name> 燃燒理論（一） </name>
 <teacher> 趙怡欽  </teacher>
 <score> 3 </score>
-<time> [4]3  ,  [5]3~4  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5828 </place>
+<place> 航太系館                      5825 </place>
 <note></note>
 </P4>
 
@@ -138,20 +138,6 @@
 <type> 講義 </type>
 <place> 航太系館                      5828 </place>
 <note> 英語授課 </note>
-</P4>
-
-<P4 id="037">
-<num>P4-037</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 太陽能電池特論 </name>
-<teacher> 高　騏  </teacher>
-<score> 3 </score>
-<time> [2]8  ,  [3]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5828 </place>
-<note></note>
 </P4>
 
 <P4 id="042">
@@ -285,7 +271,7 @@
 <class></class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 楊文彬  </teacher>
+<teacher> 詹劭勳  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -343,7 +329,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 景鴻鑫  </teacher>
+<teacher> 詹劭勳   ,  景鴻鑫* </teacher>
 <score> 1 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
@@ -357,7 +343,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 未定  </teacher>
+<teacher> 賴維祥  </teacher>
 <score> 0 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
@@ -413,7 +399,7 @@
 <class> 碩專一                         </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 夏育群  </teacher>
 <score> 1 </score>
 <time> [5]B~C  </time>
 <must> 必修 </must>
@@ -427,7 +413,7 @@
 <class> 碩專二                         </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 未定  </teacher>
+<teacher> 夏育群  </teacher>
 <score> 1 </score>
 <time> [5]B~C  </time>
 <must> 必修 </must>
@@ -441,7 +427,7 @@
 <class> 碩專延三                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 未定  </teacher>
+<teacher> 夏育群  </teacher>
 <score> 0 </score>
 <time> [5]B~C  </time>
 <must> 必修 </must>

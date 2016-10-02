@@ -5,7 +5,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 物理治療專題討論（三） </name>
-<teacher> 林桑伊*  ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
+<teacher> 卓瓊鈺   ,  林桑伊*  ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
@@ -33,7 +33,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 物理治療專題討論（一） </name>
-<teacher> 林桑伊*  ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
+<teacher> 卓瓊鈺   ,  林桑伊*  ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 林桑伊*  ,  洪菁霞   ,  林呈鳳   ,  蔡一如  </teacher>
+<teacher> 林桑伊*  ,  蔡一如  </teacher>
 <score> 0 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
@@ -82,26 +82,6 @@
 <type> 講義 </type>
 <place> 醫學院                        第三講堂 </place>
 <note></note>
-</T6>
-
-<T6 id="035">
-<num>T6-035</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 小兒物理治療臨床實習與研究（一） </name>
-<teacher> 徐碧真  </teacher>
-<score> 2 </score>
-<time> [1]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 物治系館                      B02 </place>
-<note></note>
-<class1> 碩博                           </class1>
-<group1></group1>
-<name1> 小兒物理治療臨床實習與研究（一） </name1>
-<time1> [1]6~8  </time1>
-<place1> 物治系館                      B02 </place1>
-<note1></note1>
 </T6>
 
 <T6 id="037">

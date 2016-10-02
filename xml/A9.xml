@@ -66,7 +66,7 @@
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -137,7 +137,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 測量系館                      55170 </place>
-<note> 104學年度(含)以前入學生為跨領域通識 </note>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、自然與工程科學 </note>
 </A9>
 
 <A9 id="051">
@@ -313,7 +313,7 @@
 <class></class>
 <group></group>
 <name> 生物技術概論 </name>
-<teacher> 蕭世裕   ,  廖泓鈞   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺  </teacher>
+<teacher> 蕭世裕   ,  廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 必修 </must>
@@ -332,7 +332,7 @@
 <time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 醫學院                        602 </place>
+<place> 醫學院                        303D </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -346,7 +346,7 @@
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -374,7 +374,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -402,7 +402,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 生科系館                      3404 </place>
+<place> 理化大樓                      格致廳小講堂 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -458,7 +458,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -500,7 +500,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -556,7 +556,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -570,7 +570,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4509 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過宗教哲學課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -584,7 +584,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過表演藝術概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -668,7 +668,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(法學緒論)課程者,不得重覆選課,105學年度入學生為領域 </note>
 </A9>
 
@@ -696,7 +696,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 唯農大樓                      7106 </place>
+<place> 唯農大樓                      7204 </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學 </note>
 </A9>
 
@@ -780,7 +780,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -808,7 +808,7 @@
 <time> [2]1~2  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -906,7 +906,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      4502 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1018,7 +1018,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：社會科學、自然工程科學 </note>
 </A9>
 
@@ -1158,7 +1158,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -1186,7 +1186,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -1200,7 +1200,7 @@
 <time> [3]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -1256,7 +1256,7 @@
 <time> [3]7~8  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學,學程報名請洽三創中心楊小姐 </note>
 </A9>
 
@@ -1284,7 +1284,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 遠距教學,104學年度(含)以前入學生為科際整合課程相關領域：社會科學、自然與工程科學 </note>
 </A9>
 
@@ -1396,7 +1396,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 醫學院                        204D </place>
+<place> 社科院大樓                    80201 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1452,7 +1452,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -1550,7 +1550,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
@@ -1722,12 +1722,26 @@
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
+<A9 id="275">
+<num>A9-275</num>
+<class></class>
+<group></group>
+<name> 資訊倫理議題省思 </name>
+<teacher> 謝佩璇  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 企管系館                      62231 </place>
+<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學 </note>
+</A9>
+
 <A9 id="276">
 <num>A9-276</num>
 <class></class>
 <group></group>
 <name> 生態、倫理與在地實踐 </name>
-<teacher> 戴　華*  ,  蕭惠中  </teacher>
+<teacher> 戴　華*  ,  蕭惠中   ,  鍾怡婷   ,  李亞夫  </teacher>
 <score> 2 </score>
 <time> [2]9~A  </time>
 <must> 必修 </must>
@@ -1774,7 +1788,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note> 愛爾蘭文化史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(歷史與文化)課程者,不得重覆選課 </note>
 </A9>
 
@@ -1788,7 +1802,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 企管系館                      62231 </place>
+<place> 中文系館                      21103 </place>
 <note> 文本與歷史,104學年度(含)以前入學生為核心通識公民與歷史領域課程,已修過公民與歷史(文本與歷史)課程者,不得重覆選課 </note>
 </A9>
 
@@ -1816,7 +1830,7 @@
 <time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 唯農大樓                      7106 </place>
+<place> 唯農大樓                      7206 </place>
 <note> MOOCS,104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -2026,7 +2040,21 @@
 <time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note> 104學年度(含)以前入學生為跨領域通識 </note>
+</A9>
+
+<A9 id="326">
+<num>A9-326</num>
+<class></class>
+<group></group>
+<name> 性別關係 </name>
+<teacher> 徐珊惠  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 台文系館                      88135 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -2068,7 +2096,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -2082,7 +2110,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -2152,7 +2180,7 @@
 <time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為跨領域通識 </note>
 </A9>
 
@@ -2278,7 +2306,7 @@
 <time> [5]1~2  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過法政哲學課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -2376,7 +2404,7 @@
 <time> [5]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,已修過音樂概論課程者,不得重覆修課,105學年度入學生為領域通識 </note>
 </A9>
 
@@ -2390,7 +2418,7 @@
 <time> [5]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程,105學年度入學生為領域通識,已修過表演藝術概論課程者,不得重覆修課 </note>
 </A9>
 
@@ -2408,6 +2436,20 @@
 <note> 104學年度(含)以前入學生為科際整合課程相關領域：自然與工程科學、生命科學與健康 </note>
 </A9>
 
+<A9 id="419">
+<num>A9-419</num>
+<class></class>
+<group></group>
+<name> 國際競合力培育 </name>
+<teacher> 王筱雯   ,  黃悅民*  ,  王維聰   ,  陳靜敏  </teacher>
+<score> 1 </score>
+<time> [5]7  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 資訊系館                      4201 </place>
+<note></note>
+</A9>
+
 <A9 id="430">
 <num>A9-430</num>
 <class></class>
@@ -2418,7 +2460,7 @@
 <time> [5]1~2  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 雲平大樓                      27103 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 104學年度(含)以前入學生為核心通識公民與歷史領域課程修過公民與歷史(法學緒論)課程者不得重覆選課105學年度入學生為領域通識 </note>
 </A9>
 
@@ -2516,7 +2558,7 @@
 <time> [2]7~8  </time>
 <must> 必修 </must>
 <type> 融合通識 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 詳見通識課程簡介,第一階段限四年級選修 </note>
 </A9>
 
@@ -2658,7 +2700,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 融合通識 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 詳見通識課程簡介,第一階段限四年級選修 </note>
 </A9>
 
@@ -2667,7 +2709,7 @@
 <class></class>
 <group></group>
 <name> 通識專題講座-大學導航 </name>
-<teacher> 徐珊惠   ,  陳恒安   ,  古承宗*  ,  馬哲儒   ,  高　強  </teacher>
+<teacher> 徐珊惠   ,  陳恒安   ,  古承宗*  ,  馬哲儒   ,  高　強   ,  湯銘哲  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>

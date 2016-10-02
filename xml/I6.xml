@@ -10,13 +10,13 @@
 <time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1307(資源旁) </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
 <time1> [3]2  </time1>
-<place1> 共同教室                      A1307(資源旁) </place1>
+<place1> 共同教室                      A1307(資源後) </place1>
 <note1></note1>
 </I6>
 
@@ -25,7 +25,7 @@
 <class></class>
 <group></group>
 <name> 普通化學 </name>
-<teacher> 未定   ,  許拱北   ,  周鶴軒  </teacher>
+<teacher> 許拱北*  ,  周鶴軒   ,  鄭沐政  </teacher>
 <score> 3 </score>
 <time> [2]7~8  ,  [5]5~6  </time>
 <must> 選修 </must>
@@ -289,7 +289,7 @@
 <class></class>
 <group></group>
 <name> 小兒科學概論 </name>
-<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  陳永榮   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  王玠能   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  周言穎   ,  紀美宏   ,  朱曉慧  </teacher>
+<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  王玠能   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  周言穎  </teacher>
 <score> 1 </score>
 <time> [4]8  </time>
 <must> 必修 </must>
@@ -303,7 +303,7 @@
 <class></class>
 <group></group>
 <name> 外科學概論 </name>
-<teacher> 張財旺   ,  李政昌   ,  陳琮琳   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  羅傳堯   ,  顏亦廷   ,  林毅志   ,  王亮超   ,  黃士銘*  ,  徐慧萍   ,  潘信誠   ,  戴世煌  </teacher>
+<teacher> 李政昌   ,  陳琮琳   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  羅傳堯   ,  顏亦廷   ,  林毅志   ,  王亮超   ,  黃士銘*  ,  徐慧萍   ,  潘信誠   ,  戴世煌  </teacher>
 <score> 2 </score>
 <time> [1]8~9  </time>
 <must> 必修 </must>
@@ -317,7 +317,7 @@
 <class></class>
 <group></group>
 <name> 神經科學概論 </name>
-<teacher> 林宙晴   ,  白明奇   ,  李宜堅   ,  黃文柱   ,  林志勝*  ,  蔡子同   ,  蔡景仁   ,  黃欽威   ,  陳志弘   ,  羅健寧   ,  黃涵薇   ,  孫苑庭   ,  賴明亮  </teacher>
+<teacher> 林宙晴   ,  白明奇   ,  李宜堅   ,  黃文柱   ,  林志勝*  ,  蔡子同   ,  蔡景仁   ,  黃欽威   ,  陳志弘   ,  羅健寧   ,  黃涵薇   ,  孫苑庭  </teacher>
 <score> 1 </score>
 <time> [5]9  </time>
 <must> 必修 </must>
@@ -485,7 +485,7 @@
 <class></class>
 <group></group>
 <name> 物理治療臨床實習（二） </name>
-<teacher> 楊政峰   ,  洪菁霞*  ,  林呈鳳  </teacher>
+<teacher> 成戎珠   ,  楊政峰   ,  洪菁霞*  ,  林呈鳳  </teacher>
 <score> 4 </score>
 <time> 
   </time>

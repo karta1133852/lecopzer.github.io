@@ -19,7 +19,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 臨床藥學專題討論（一） </name>
-<teacher> 徐之昇   ,  洪欣儀   ,  郭賓崇   ,  吳天賞   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
+<teacher> 徐之昇   ,  洪欣儀   ,  吳天賞   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
 <score> 1 </score>
 <time> [2]1  </time>
 <must> 必修 </must>
@@ -53,7 +53,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
-<note> 藥品動態組 </note>
+<note> 藥品動態組/醫學院6樓810605會議室上課。 </note>
 </S6>
 
 <S6 id="005">
@@ -305,10 +305,10 @@
 <name> 以問題為導向學習癌症轉移 </name>
 <teacher> 曾堯麟   ,  鄭宏祺*  ,  王憶卿   ,  吳梨華   ,  蔣輯武  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        0929 </place>
+<place> 醫學院                        201D </place>
 <note> 生化、基醫、藥生合班 </note>
 </S6>
 
@@ -387,13 +387,13 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 流行病學 </name>
-<teacher> 張志欽  </teacher>
+<teacher> 張志欽* </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
-<note></note>
+<place></place>
+<note> 醫學院6樓第二會議室810605上課。 </note>
 </S6>
 
 <S6 id="056">
@@ -428,6 +428,20 @@
 <time1> [4]8~9  </time1>
 <place1> 醫學院                        604 </place1>
 <note1></note1>
+</S6>
+
+<S6 id="058">
+<num>S6-058</num>
+<class> 博                             </class>
+<group></group>
+<name> 教學實習（一） </name>
+<teacher> 蔡瑞真* </teacher>
+<score> 1 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0301 </place>
+<note></note>
 </S6>
 
 </content>

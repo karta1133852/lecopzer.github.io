@@ -183,7 +183,7 @@
 <class></class>
 <group></group>
 <name> 產科護理學 </name>
-<teacher> 王瑤華   ,  張瑩如   ,  許玉雲   ,  張淑貞   ,  周承珍*  ,  郭保麟   ,  周振陽   ,  吳孟興   ,  鄭雅敏   ,  游振祥  </teacher>
+<teacher> 王瑤華   ,  許玉雲   ,  周承珍*  ,  鄭雅方   ,  張烱心   ,  郭保麟   ,  周振陽   ,  吳孟興   ,  鄭雅敏   ,  游振祥   ,  陳俞沛  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
@@ -211,7 +211,7 @@
 <class></class>
 <group></group>
 <name> 成人護理學（一） </name>
-<teacher> 張文芸*  ,  柯乃熒   ,  方素瓔   ,  陳幸眉   ,  賴維淑   ,  官大紳   ,  李貽恒   ,  曾進忠   ,  陳志弘   ,  詹世鴻   ,  李南瑤   ,  羅傳堯  </teacher>
+<teacher> 張文芸*  ,  柯乃熒   ,  方素瓔   ,  陳幸眉   ,  賴維淑   ,  官大紳   ,  李貽恒   ,  曾進忠   ,  陳志弘   ,  詹世鴻   ,  李南瑤   ,  羅傳堯   ,  王亮超   ,  徐慧萍  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -253,7 +253,7 @@
 <class></class>
 <group></group>
 <name> 精神衛生護理學 </name>
-<teacher> 林梅鳳*  ,  徐畢卿   ,  林靜蘭   ,  陳柏熹   ,  陳高欽  </teacher>
+<teacher> 林梅鳳*  ,  徐畢卿   ,  林靜蘭   ,  陳柏熹   ,  陳高欽   ,  王姿云   ,  張維紘  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
@@ -267,7 +267,7 @@
 <class></class>
 <group></group>
 <name> 社區護理學 </name>
-<teacher> 王琪珍*  ,  葉莉莉   ,  王靜枝   ,  陳靜敏  </teacher>
+<teacher> 王琪珍*  ,  王靜枝   ,  陳靜敏  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -295,7 +295,7 @@
 <class></class>
 <group></group>
 <name> 護理研究概論 </name>
-<teacher> 馮瑞鶯*  ,  陳靜敏  </teacher>
+<teacher> 馮瑞鶯*  ,  陳靜敏   ,  陳麗光  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>
@@ -309,7 +309,7 @@
 <class></class>
 <group></group>
 <name> 專案研究 </name>
-<teacher> 王琪珍*  ,  林梅鳳   ,  張文芸   ,  柯乃熒   ,  許玉雲   ,  林靜蘭   ,  周承珍  </teacher>
+<teacher> 張文芸   ,  方素瓔*  ,  周承珍  </teacher>
 <score> 2 </score>
 <time> 
   </time>

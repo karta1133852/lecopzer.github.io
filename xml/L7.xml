@@ -66,7 +66,7 @@
 <time> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 碩一 </note>
 </L7>
 
@@ -80,7 +80,7 @@
 <time> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 博一 </note>
 </L7>
 
@@ -94,7 +94,7 @@
 <time> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 博二 </note>
 </L7>
 
@@ -108,7 +108,7 @@
 <time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳大講堂 </place>
 <note> 限碩二及博三以上 </note>
 </L7>
 
@@ -432,6 +432,20 @@
 <type> 講義 </type>
 <place> 綜合大樓                      48312 </place>
 <note> 限光電系學生 </note>
+</L7>
+
+<L7 id="036">
+<num>L7-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 有機拉曼光譜學專題 </name>
+<teacher> 周維揚  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note></note>
 </L7>
 
 <L7 id="037">

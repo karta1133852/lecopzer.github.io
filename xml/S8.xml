@@ -19,7 +19,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 楊延光*  ,  陸汝斌   ,  游一龍   ,  郭乃文   ,  黃惠玲   ,  余睿羚   ,  蕭雅心  </teacher>
+<teacher> 楊延光   ,  陸汝斌   ,  游一龍   ,  郭乃文   ,  黃惠玲*  ,  余睿羚   ,  蕭雅心  </teacher>
 <score> 1 </score>
 <time> [5]5~6  </time>
 <must> 必修 </must>
@@ -33,7 +33,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 專題研究（一） </name>
-<teacher> 楊延光*  ,  游一龍   ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 林君昱   ,  楊延光   ,  游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
 <score> 1 </score>
 <time> [1]0  ,  [2]0  </time>
 <must> 必修 </must>
@@ -47,7 +47,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 楊延光*  ,  陸汝斌   ,  游一龍   ,  郭乃文   ,  黃惠玲   ,  余睿羚   ,  蕭雅心  </teacher>
+<teacher> 楊延光   ,  陸汝斌   ,  游一龍   ,  郭乃文   ,  黃惠玲*  ,  余睿羚   ,  蕭雅心  </teacher>
 <score> 1 </score>
 <time> [5]5~6  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 專題研究（三） </name>
-<teacher> 楊延光*  ,  游一龍   ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 林君昱   ,  楊延光   ,  游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
 <score> 1 </score>
 <time> [1]0  ,  [2]0  </time>
 <must> 必修 </must>
@@ -103,9 +103,9 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 楊延光*  ,  陸汝斌   ,  游一龍   ,  柯慧貞   ,  郭乃文   ,  黃惠玲   ,  余睿羚   ,  蕭雅心  </teacher>
+<teacher> 林君昱   ,  楊延光   ,  陸汝斌   ,  游一龍*  ,  柯慧貞   ,  郭乃文   ,  黃惠玲   ,  余睿羚   ,  蕭雅心  </teacher>
 <score> 0 </score>
-<time> [1]0  ,  [2]0  </time>
+<time> [3]0  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
@@ -135,7 +135,7 @@
 <name> 臨床神經心理學 </name>
 <teacher> 余睿羚  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        501 </place>
@@ -222,7 +222,7 @@
 <time> [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        501 </place>
+<place> 社科院大樓                    80201 </place>
 <note></note>
 </S8>
 

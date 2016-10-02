@@ -40,7 +40,7 @@
 <time> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    七樓會議室 </place>
+<place> 醫學院                        第四講堂 </place>
 <note> 限碩士班丁組、原科法所、學士班之大三以上選修（專題及實例研討）。 </note>
 </U2>
 
@@ -250,7 +250,7 @@
 <time> [3]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
+<place> 社科院大樓                    七樓研討室C </place>
 <note></note>
 </U2>
 
@@ -434,6 +434,34 @@
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
 <note></note>
+</U2>
+
+<U2 id="132">
+<num>U2-132</num>
+<class> 碩                             </class>
+<group></group>
+<name> 公共工程與法律（二） </name>
+<teacher> 許登科  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 限碩士班丁組、原科法所、學士班之大三以上選修（專題及實例研討） </note>
+</U2>
+
+<U2 id="133">
+<num>U2-133</num>
+<class> 碩                             </class>
+<group></group>
+<name> 民事實體法與程序法整合 </name>
+<teacher> 胡峰賓  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note> 限碩士班丁組、原科法所、學士班之大三以上選修（特別法） </note>
 </U2>
 
 </content>
