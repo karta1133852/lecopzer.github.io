@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<N4 id="001">
+<num>N4-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 謝秉志  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 僅供碩一甲組資源開發及地質工程選課 </note>
+</N4>
+
+<N4 id="002">
+<num>N4-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 申永輝  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4353 </place>
+<note> 僅供碩一乙組資源材料及再生選課 </note>
+</N4>
+
+<N4 id="003">
+<num>N4-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 施勵行  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4307 </place>
+<note> 僅供碩一丙組資源管理及經濟選課 </note>
+</N4>
+
+<N4 id="004">
+<num>N4-004</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 謝秉志  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 僅供碩二甲組資源開發及地質工程選課 </note>
+</N4>
+
+<N4 id="005">
+<num>N4-005</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 申永輝  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4353 </place>
+<note> 僅供碩二乙組資源材料及再生選課 </note>
+</N4>
+
+<N4 id="006">
+<num>N4-006</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 施勵行  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4307 </place>
+<note> 僅供碩二丙組資源管理及經濟選課 </note>
+</N4>
+
+<N4 id="007">
+<num>N4-007</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 謝秉志  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 僅供博一甲組資源開發及地質工程選課 </note>
+</N4>
+
+<N4 id="008">
+<num>N4-008</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 申永輝  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4353 </place>
+<note> 僅供博一乙組資源材料及再生選課 </note>
+</N4>
+
+<N4 id="009">
+<num>N4-009</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 施勵行  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4307 </place>
+<note> 僅供博一丙組資源管理及經濟選課 </note>
+</N4>
+
+<N4 id="010">
+<num>N4-010</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 謝秉志  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 僅供博二甲組資源開發及地質工程選課 </note>
+</N4>
+
+<N4 id="011">
+<num>N4-011</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 申永輝  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4353 </place>
+<note> 僅供博二乙組資源材料及再生選課 </note>
+</N4>
+
+<N4 id="012">
+<num>N4-012</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 施勵行  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 資源系館                      4307 </place>
+<note></note>
+</N4>
+
+<N4 id="013">
+<num>N4-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 謝秉志  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 僅供碩三博三以上甲組資源開發及地質工程選課 </note>
+</N4>
+
+<N4 id="014">
+<num>N4-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 申永輝  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4353 </place>
+<note> 僅供碩三博三以上乙組資源材料及再生選課 </note>
+</N4>
+
+<N4 id="015">
+<num>N4-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 施勵行  </teacher>
+<score> 0 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4307 </place>
+<note> 僅供碩三博三以上丙組資源管理及經濟選課 </note>
+</N4>
+
+<N4 id="016">
+<num>N4-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 資源工程 </name>
+<teacher> 陳昭旭  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4351 </place>
+<note></note>
+</N4>
+
+<N4 id="017">
+<num>N4-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 岩石斜坡工程 </name>
+<teacher> 葉信富  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4302 </place>
+<note></note>
+</N4>
+
+<N4 id="020">
+<num>N4-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等資源管理 </name>
+<teacher> 施勵行  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4350 </place>
+<note></note>
+</N4>
+
+<N4 id="021">
+<num>N4-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 決策分析方法 </name>
+<teacher> 陳家榮  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4350 </place>
+<note></note>
+</N4>
+
+<N4 id="026">
+<num>N4-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 資源科學地理資訊系統 </name>
+<teacher> 余騰鐸  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4353 </place>
+<note></note>
+</N4>
+
+<N4 id="031">
+<num>N4-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 粉體系統 </name>
+<teacher> 顏富士  </teacher>
+<score> 3 </score>
+<time> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4302 </place>
+<note></note>
+</N4>
+
+<N4 id="033">
+<num>N4-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工程材料 </name>
+<teacher> 黃紀嚴  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4302 </place>
+<note></note>
+</N4>
+
+<N4 id="041">
+<num>N4-041</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 能源經濟學 </name>
+<teacher> 吳榮華  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4350 </place>
+<note></note>
+</N4>
+
+<N4 id="043">
+<num>N4-043</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 石油工程特論 </name>
+<teacher> 郭明錦  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4302 </place>
+<note></note>
+</N4>
+
+<N4 id="045">
+<num>N4-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 溼法冶金 </name>
+<teacher> 申永輝  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4350 </place>
+<note></note>
+</N4>
+
+<N4 id="099">
+<num>N4-099</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 表面化學 </name>
+<teacher> 雷大同  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4350 </place>
+<note></note>
+</N4>
+
+<N4 id="100">
+<num>N4-100</num>
+<class> 碩                             </class>
+<group></group>
+<name> 陶瓷製程 </name>
+<teacher> 向性一  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4352 </place>
+<note></note>
+</N4>
+
+</content>

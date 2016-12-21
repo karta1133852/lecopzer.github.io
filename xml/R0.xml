@@ -5,37 +5,39 @@
 <class> 碩專延三                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 蔡東峻  </teacher>
+<teacher> 未定  </teacher>
 <score> 0 </score>
-<time> [6]A  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62X01 </place>
-<note> 限修畢四十五學分以上選修。 </note>
+<place></place>
+<note> 
+ </note>
 </R0>
 
 <R0 id="302">
 <num>R0-302</num>
-<class> 碩專二                         </class>
+<class> 碩專一                         </class>
 <group></group>
-<name> 創業基礎與行動 </name>
-<teacher> 楊朝旭   ,  王泰裕   ,  林正章   ,  蔡東峻   ,  張紹基   ,  史習安   ,  曾瓊慧* </teacher>
+<name> 人力資源管理 </name>
+<teacher> 史習安  </teacher>
 <score> 3 </score>
-<time> [4]A~C  </time>
+<time> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      哈佛教室 </place>
-<note></note>
+<note> 限本所 </note>
 </R0>
 
 <R0 id="303">
 <num>R0-303</num>
 <class> 碩專一                         </class>
 <group></group>
-<name> 營運管理 </name>
-<teacher> 王泰裕  </teacher>
+<name> 行銷管理 </name>
+<teacher> 蔡東峻  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      哈佛教室 </place>
@@ -44,82 +46,86 @@
 
 <R0 id="304">
 <num>R0-304</num>
-<class> 碩專一                         </class>
+<class> 碩專一二                       </class>
 <group></group>
-<name> 統計方法 </name>
-<teacher> 馬瀰嘉  </teacher>
-<score> 3 </score>
-<time> [2]A~C  </time>
+<name> 質性研究方法 </name>
+<teacher> 周信輝  </teacher>
+<score> 2 </score>
+<time> [4]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      61X02 </place>
+<place> 管理學院                      62X01 </place>
 <note> 限本所 </note>
 </R0>
 
 <R0 id="305">
 <num>R0-305</num>
-<class> 碩專一                         </class>
+<class> 碩專一二                       </class>
 <group></group>
-<name> 策略管理 </name>
-<teacher> 方世杰*  ,  周信輝  </teacher>
-<score> 3 </score>
-<time> [5]A~C  </time>
+<name> 經營品質個案研討 </name>
+<teacher> 呂執中  </teacher>
+<score> 2 </score>
+<time> [7]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      哈佛教室 </place>
+<place> 管理學院                      62X01 </place>
 <note> 限本所 </note>
 </R0>
 
 <R0 id="306">
 <num>R0-306</num>
-<class> 碩專一                         </class>
+<class> 碩專一二                       </class>
 <group></group>
-<name> 財務管理 </name>
-<teacher> 王明隆  </teacher>
-<score> 3 </score>
-<time> [6]2~4  </time>
+<name> 運動減壓與健康體適能管理 </name>
+<teacher> 林麗娟  </teacher>
+<score> 2 </score>
+<time> [6]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      61X02 </place>
+<place> 管理學院                      62X01 </place>
 <note> 限本所 </note>
 </R0>
 
 <R0 id="307">
 <num>R0-307</num>
-<class> 碩專二                         </class>
+<class> 碩專一二                       </class>
 <group></group>
-<name> 企業個案與實務 </name>
-<teacher> 周學雯   ,  楊朝旭   ,  顏盟峯   ,  林軒竹   ,  王泰裕   ,  周信輝   ,  鄭永祥   ,  蔡東峻   ,  張紹基   ,  史習安*  ,  張巍勳  </teacher>
+<name> 企業經營與診斷 </name>
+<teacher> 周信輝  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      哈佛教室 </place>
-<note> 限本所 </note>
+<place></place>
+<note> 
+ </note>
 </R0>
 
 <R0 id="308">
 <num>R0-308</num>
-<class> 碩專一                         </class>
+<class> 碩專一二                       </class>
 <group></group>
-<name> CEO高階實務管理（二） </name>
-<teacher> 蔡東峻  </teacher>
-<score> 1 </score>
-<time> [6]B  </time>
+<name> 中小企業經營與管理 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      61X02 </place>
-<note></note>
+<place></place>
+<note> 
+ </note>
 </R0>
 
 <R0 id="309">
 <num>R0-309</num>
 <class> 碩專一二                       </class>
 <group></group>
-<name> 公司財務策略個案研討 </name>
-<teacher> 張紹基  </teacher>
-<score> 3 </score>
-<time> [5]A~C  </time>
+<name> 企業研究方法 </name>
+<teacher> 吳萬益  </teacher>
+<score> 2 </score>
+<time> [6]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
@@ -128,94 +134,30 @@
 
 <R0 id="310">
 <num>R0-310</num>
-<class> 碩專一                         </class>
-<group></group>
-<name> 管理經濟 </name>
-<teacher> 康信鴻  </teacher>
-<score> 3 </score>
-<time> [7]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      61X02 </place>
-<note> 限本所 </note>
-</R0>
-
-<R0 id="311">
-<num>R0-311</num>
 <class> 碩專一二                       </class>
 <group></group>
-<name> 資訊科技與創新及競爭優勢 </name>
-<teacher> 徐立群  </teacher>
-<score> 2 </score>
-<time> [1]A~B  </time>
+<name> 行銷策略規劃 </name>
+<teacher> 蔡惠婷  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
 <note> 限本所 </note>
 </R0>
 
-<R0 id="312">
-<num>R0-312</num>
-<class> 碩專二                         </class>
+<R0 id="314">
+<num>R0-314</num>
+<class> 碩專一二                       </class>
 <group></group>
-<name> 日本實務管理專題 </name>
-<teacher> 蔡東峻  </teacher>
-<score> 2 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</R0>
-
-<R0 id="315">
-<num>R0-315</num>
-<class></class>
-<group></group>
-<name> 資訊管理 </name>
-<teacher> 李昇暾  </teacher>
+<name> 財務與會計專題 </name>
+<teacher> 李宏志   ,  劉裕宏   ,  周庭楷   ,  楊朝旭   ,  顏盟峯   ,  林軒竹   ,  黃華瑋* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</R0>
-
-<R0 id="316">
-<num>R0-316</num>
-<class></class>
-<group></group>
-<name> 全球企業經營實務 </name>
-<teacher> 周信輝*  ,  蔡東峻  </teacher>
-<score> 2 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</R0>
-
-<R0 id="317">
-<num>R0-317</num>
-<class></class>
-<group></group>
-<name> 管理會計 </name>
-<teacher> 楊朝旭   ,  黃華瑋* </teacher>
-<score> 3 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
 </R0>
 
 </content>

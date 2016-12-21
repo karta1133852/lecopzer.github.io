@@ -1,27 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<A6 id="001">
-<num>A6-001</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—成功登大人 </name>
-<teacher> 蔡慧珍  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
 <A6 id="002">
 <num>A6-002</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）—愛，從我開始 </name>
-<teacher> 陳鈞宜  </teacher>
+<name> 服務學習（三）－榕鳳形象大使服務 </name>
+<teacher> 鄭匡佑  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -52,8 +36,8 @@
 <num>A6-004</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）─分享愛‧愛分享 </name>
-<teacher> 徐碧真  </teacher>
+<name> 服務學習（三）－畢典服務與反思 </name>
+<teacher> 周士琦  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -68,94 +52,36 @@
 <num>A6-005</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）-性福/服務學習 </name>
-<teacher> 徐珊惠  </teacher>
+<name> 服務學習（三）—愛，從我開始 </name>
+<teacher> 陳鈞宜  </teacher>
 <score> 0 </score>
-<time> [3]N~5  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 首次上課時間9/21(三)中午12時，學生活動中心課指組會議室。本課程非勞動性質，歡迎有興趣的同學來為校園性別友善行動！ </note>
+<note> 
+ </note>
 </A6>
 
 <A6 id="006">
 <num>A6-006</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）—校園生活學習 </name>
-<teacher> 朱朝煌  </teacher>
+<name> 服務學習（三）—國際禮賓大使 </name>
+<teacher> 王筱雯  </teacher>
 <score> 0 </score>
-<time> [4]9  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 上課地點為：光復校區學生活動中心 課指組會議室 </note>
+<note> 
+ </note>
 </A6>
 
 <A6 id="007">
 <num>A6-007</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—校園淨塑活動 </name>
-<teacher> 邵揮洲  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="008">
-<num>A6-008</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—赴外招生大使—馬來西亞 </name>
-<teacher> 陳靜敏  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="009">
-<num>A6-009</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）府城平安居─賃居服務學習 </name>
-<teacher> 陳國彬  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="010">
-<num>A6-010</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—關心不卡關 </name>
-<teacher> 陳高欽  </teacher>
-<score> 0 </score>
-<time> [3]3~4  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 唯農大樓                      7110 </place>
-<note> 首次上課時間：9/21(三)上午10-12時 地點：光復校區唯農大樓1樓7110教室 </note>
-</A6>
-
-<A6 id="012">
-<num>A6-012</num>
 <class></class>
 <group></group>
 <name> 服務學習（三）─圖書館館藏維護管理 </name>
@@ -170,8 +96,24 @@
  </note>
 </A6>
 
-<A6 id="014">
-<num>A6-014</num>
+<A6 id="008">
+<num>A6-008</num>
+<class></class>
+<group></group>
+<name> 服務學習（三）府城平安居─賃居服務學習 </name>
+<teacher> 陳國彬  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</A6>
+
+<A6 id="009">
+<num>A6-009</num>
 <class></class>
 <group></group>
 <name> 服務學習（三）─藝術中心 </name>
@@ -186,8 +128,8 @@
  </note>
 </A6>
 
-<A6 id="015">
-<num>A6-015</num>
+<A6 id="010">
+<num>A6-010</num>
 <class></class>
 <group></group>
 <name> 服務學習（三） ─圖書閱覽服務 </name>
@@ -202,8 +144,8 @@
  </note>
 </A6>
 
-<A6 id="016">
-<num>A6-016</num>
+<A6 id="011">
+<num>A6-011</num>
 <class></class>
 <group></group>
 <name> 服務學習（三）─醫院服務與體驗 </name>
@@ -218,84 +160,46 @@
  </note>
 </A6>
 
-<A6 id="017">
-<num>A6-017</num>
+<A6 id="012">
+<num>A6-012</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）-國際服務學習 </name>
-<teacher> 董旭英  </teacher>
+<name> 服務學習（三） ─校園無障礙 </name>
+<teacher> 鄭淑惠  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 唯農大樓                      7309 </place>
+<note> 授課時間：每週四 第三＆四節(有固定上課時間) </note>
 </A6>
 
-<A6 id="018">
-<num>A6-018</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—交通安全服務 </name>
-<teacher> 蔡慧珍  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="019">
-<num>A6-019</num>
+<A6 id="013">
+<num>A6-013</num>
 <class></class>
 <group></group>
 <name> 服務學習（三）—國際義工 </name>
 <teacher> 陳靜敏  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 唯農大樓                      7117 </place>
+<note></note>
 </A6>
 
-<A6 id="020">
-<num>A6-020</num>
+<A6 id="016">
+<num>A6-016</num>
 <class></class>
 <group></group>
-<name> 服務學習（三）—關懷與美善 </name>
-<teacher> 林呈鳳  </teacher>
+<name> 服務學習（三）─分享愛‧愛分享 </name>
+<teacher> 徐碧真  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</A6>
-
-<A6 id="021">
-<num>A6-021</num>
-<class></class>
-<group></group>
-<name> 服務學習課程教學實習 </name>
-<teacher> 賴明德  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 物治系館                      B02 </place>
+<note></note>
 </A6>
 
 </content>

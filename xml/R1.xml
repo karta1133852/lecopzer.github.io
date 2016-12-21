@@ -4,8 +4,8 @@
 <num>R1-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 高級審計學 </name>
-<teacher> 林囿成  </teacher>
+<name> 高級財務會計學 </name>
+<teacher> 許育綝  </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 必修 </must>
@@ -16,43 +16,43 @@
 
 <R1 id="002">
 <num>R1-002</num>
-<class> 碩                             </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 會計與財務資訊系統 </name>
-<teacher> 顏盟峯  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63205 </place>
-<note></note>
-</R1>
-
-<R1 id="003">
-<num>R1-003</num>
-<class> 碩                             </class>
-<group></group>
-<name> 資料庫管理系統 </name>
-<teacher> 徐立群  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63205 </place>
-<note></note>
-</R1>
-
-<R1 id="004">
-<num>R1-004</num>
-<class> 碩                             </class>
-<group></group>
-<name> 資料探勘與大數據 </name>
+<name> 電腦審計與安全 </name>
 <teacher> 徐立群  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63205 </place>
+<note> 非使用電腦教室時將改至63102上課 </note>
+</R1>
+
+<R1 id="003">
+<num>R1-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高級會計資訊系統 </name>
+<teacher> 賴秀卿  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63404 </place>
+<note></note>
+</R1>
+
+<R1 id="004">
+<num>R1-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高級管理會計學 </name>
+<teacher> 楊朝旭  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63210 </place>
 <note></note>
 </R1>
 
@@ -60,18 +60,18 @@
 <num>R1-005</num>
 <class> 碩                             </class>
 <group></group>
-<name> 財務報告分析與研究 </name>
-<teacher> 林軒竹   ,  邱正仁* </teacher>
+<name> 金融投資與創新商品交易策略實務 </name>
+<teacher> 王明隆*  ,  林志隆* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
-<must> 必修 </must>
+<time> [4]6~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63404 </place>
-<note> 外所學生修課需經任課教師簽核 </note>
+<place> 會計系館                      63211 </place>
+<note></note>
 </R1>
 
-<R1 id="006">
-<num>R1-006</num>
+<R1 id="008">
+<num>R1-008</num>
 <class> 碩                             </class>
 <group></group>
 <name> 大陸稅法研究 </name>
@@ -80,166 +80,40 @@
 <time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63404 </place>
-<note></note>
-</R1>
-
-<R1 id="007">
-<num>R1-007</num>
-<class> 碩                             </class>
-<group></group>
-<name> 期貨與權證 </name>
-<teacher> 李宏志  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 會計系館                      63102 </place>
 <note></note>
 </R1>
 
-<R1 id="008">
-<num>R1-008</num>
-<class> 碩                             </class>
-<group></group>
-<name> 固定收益型證券 </name>
-<teacher> 王澤世  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63102 </place>
-<note></note>
-</R1>
-
-<R1 id="009">
-<num>R1-009</num>
-<class> 碩                             </class>
-<group></group>
-<name> 策略性投資與價值創造 </name>
-<teacher> 王明隆  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note></note>
-</R1>
-
-<R1 id="010">
-<num>R1-010</num>
-<class> 碩                             </class>
-<group></group>
-<name> 總體經濟學 </name>
-<teacher> 林軒竹  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note></note>
-</R1>
-
-<R1 id="011">
-<num>R1-011</num>
-<class> 碩                             </class>
-<group></group>
-<name> 整合報導 </name>
-<teacher> 黃華瑋  </teacher>
-<score> 3 </score>
-<time> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63404 </place>
-<note></note>
-</R1>
-
-<R1 id="012">
-<num>R1-012</num>
-<class> 碩                             </class>
-<group></group>
-<name> 會計及財務專題討論 </name>
-<teacher> 許育綝  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note></note>
-</R1>
-
-<R1 id="013">
-<num>R1-013</num>
-<class> 碩                             </class>
-<group></group>
-<name> 投資學理論 </name>
-<teacher> 黃炳勳  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63404 </place>
-<note></note>
-</R1>
-
-<R1 id="014">
-<num>R1-014</num>
-<class> 碩                             </class>
-<group></group>
-<name> 公司理財 </name>
-<teacher> 梁少懷  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note> 外所學生修課需經任課教師簽核 </note>
-</R1>
-
-<R1 id="016">
-<num>R1-016</num>
-<class> 碩                             </class>
-<group></group>
-<name> 行為投資學 </name>
-<teacher> 簡金成  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note></note>
-</R1>
-
-<R1 id="019">
-<num>R1-019</num>
+<R1 id="022">
+<num>R1-022</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 專題討論（二） </name>
 <teacher> 謝喻婷  </teacher>
 <score> 0 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63102 </place>
+<type> 講義 </type>
+<place> 會計系館                      63101 </place>
 <note></note>
 </R1>
 
-<R1 id="020">
-<num>R1-020</num>
+<R1 id="026">
+<num>R1-026</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 專題討論（三） </name>
+<name> 專題討論（四） </name>
 <teacher> 周庭楷  </teacher>
 <score> 0 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63404 </place>
+<type> 講義 </type>
+<place> 會計系館                      63406 </place>
 <note></note>
 </R1>
 
-<R1 id="030">
-<num>R1-030</num>
+<R1 id="027">
+<num>R1-027</num>
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
@@ -248,16 +122,30 @@
 <time> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 會計系館                      63404 </place>
+<place> 會計系館                      63406 </place>
 <note></note>
 </R1>
 
 <R1 id="101">
 <num>R1-101</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計量經濟學 </name>
+<teacher> 王澤世  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63205 </place>
+<note></note>
+</R1>
+
+<R1 id="102">
+<num>R1-102</num>
 <class> 博                             </class>
 <group></group>
-<name> 投資理論 </name>
-<teacher> 黃炳勳  </teacher>
+<name> 審計理論研討（一） </name>
+<teacher> 黃華瑋  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 必修 </must>
@@ -266,129 +154,59 @@
 <note></note>
 </R1>
 
-<R1 id="102">
-<num>R1-102</num>
-<class> 博                             </class>
-<group></group>
-<name> 管理會計理論研討（一） </name>
-<teacher> 楊朝旭  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63415 </place>
-<note></note>
-</R1>
-
-<R1 id="103">
-<num>R1-103</num>
-<class> 博                             </class>
-<group></group>
-<name> 公司治理研究 </name>
-<teacher> 黃華瑋  </teacher>
-<score> 3 </score>
-<time> [4]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63415 </place>
-<note></note>
-</R1>
-
 <R1 id="104">
 <num>R1-104</num>
-<class> 博                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 財務會計理論研討（一） </name>
-<teacher> 陳政芳  </teacher>
+<name> 會計及財務研究方法 </name>
+<teacher> 周庭楷  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
-<must> 必修 </must>
+<time> [4]6~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63415 </place>
-<note></note>
-</R1>
-
-<R1 id="105">
-<num>R1-105</num>
-<class> 博                             </class>
-<group></group>
-<name> 總體經濟學 </name>
-<teacher> 林軒竹  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
+<place> 會計系館                      63205 </place>
 <note></note>
 </R1>
 
 <R1 id="106">
 <num>R1-106</num>
-<class> 博                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 公司理財（一） </name>
-<teacher> 梁少懷  </teacher>
+<name> 財務個案研究 </name>
+<teacher> 薛明賢  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
-<must> 必修 </must>
+<time> [5]2~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63415 </place>
-<note> 外所學生修課需經任課教師簽核,英文授課 </note>
+<note></note>
 </R1>
 
 <R1 id="107">
 <num>R1-107</num>
-<class> 博                             </class>
+<class> 博一二                         </class>
 <group></group>
-<name> 期貨與權證 </name>
-<teacher> 李宏志  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
+<name> 專題討論（二） </name>
+<teacher> 許育綝  </teacher>
+<score> 0 </score>
+<time> [5]6~7  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63405 </place>
 <note></note>
 </R1>
 
-<R1 id="109">
-<num>R1-109</num>
-<class> 博一                           </class>
+<R1 id="108">
+<num>R1-108</num>
+<class> 博三延                         </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 林軒竹  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 許育綝  </teacher>
 <score> 0 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63406 </place>
-<note></note>
-</R1>
-
-<R1 id="110">
-<num>R1-110</num>
-<class> 博二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 林軒竹  </teacher>
-<score> 0 </score>
-<time> [5]6~7  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63406 </place>
-<note></note>
-</R1>
-
-<R1 id="111">
-<num>R1-111</num>
-<class> 博                             </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 林軒竹  </teacher>
-<score> 0 </score>
-<time> [5]6~7  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63406 </place>
+<type> 講義 </type>
+<place> 會計系館                      63211 </place>
 <note></note>
 </R1>
 

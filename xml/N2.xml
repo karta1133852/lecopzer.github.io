@@ -4,7 +4,7 @@
 <num>N2-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 專題討論（二） </name>
 <teacher> 施權峰*  ,  黃正亮  </teacher>
 <score> 0 </score>
 <time> [3]N~5  </time>
@@ -18,22 +18,22 @@
 <num>N2-004</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 雷曉方   ,  黃尊禧  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 郭泰豪*  ,  黃尊禧  </teacher>
 <score> 0 </score>
-<time> [4]5~6  </time>
+<time> [4]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 電機系館                      92271 </place>
-<note> VLSI / CAD組 </note>
+<place> 電機系館                      92277 </place>
+<note> VLSI/CAD組 </note>
 </N2>
 
 <N2 id="005">
 <num>N2-005</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 鄭銘揚  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 吳謂勝  </teacher>
 <score> 0 </score>
 <time> [4]N~5  </time>
 <must> 必修 </must>
@@ -46,8 +46,8 @@
 <num>N2-006</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 王　醴* </teacher>
+<name> 專題討論（二） </name>
+<teacher> 林瑞禮*  ,  張簡樂仁  </teacher>
 <score> 0 </score>
 <time> [3]N~5  </time>
 <must> 必修 </must>
@@ -60,78 +60,8 @@
 <num>N2-007</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 林志隆*  ,  楊慶隆  </teacher>
-<score> 0 </score>
-<time> [4]5~6  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92383 </place>
-<note> 儀器系統組 </note>
-</N2>
-
-<N2 id="009">
-<num>N2-009</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 李炳鈞  </teacher>
-<score> 0 </score>
-<time> [4]N~5  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92B28 </place>
-<note> 電子材料組 </note>
-</N2>
-
-<N2 id="010">
-<num>N2-010</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 郭致宏  </teacher>
-<score> 0 </score>
-<time> [4]5~6  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      迅慧講堂 </place>
-<note> VLSI/CAD組 </note>
-</N2>
-
-<N2 id="011">
-<num>N2-011</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 王振興  </teacher>
-<score> 0 </score>
-<time> [4]7~8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92820 </place>
-<note> 控制組 </note>
-</N2>
-
-<N2 id="012">
-<num>N2-012</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 林瑞禮   ,  張簡樂仁* </teacher>
-<score> 0 </score>
-<time> [1]N~5  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92720 </place>
-<note> 電力組 </note>
-</N2>
-
-<N2 id="013">
-<num>N2-013</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 張天豪  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 張天豪*  ,  楊慶隆  </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -140,53 +70,585 @@
 <note> 儀器系統組 </note>
 </N2>
 
-<N2 id="031">
-<num>N2-031</num>
+<N2 id="009">
+<num>N2-009</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 黃正亮   ,  李炳鈞* </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92B28 </place>
+<note> 電子材料組 </note>
+</N2>
+
+<N2 id="012">
+<num>N2-012</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 郭致宏  </teacher>
+<score> 0 </score>
+<time> [2]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92271 </place>
+<note> VLSI/CAD組 </note>
+</N2>
+
+<N2 id="013">
+<num>N2-013</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 莊智清  </teacher>
+<score> 0 </score>
+<time> [3]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note> 控制組 </note>
+</N2>
+
+<N2 id="014">
+<num>N2-014</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 楊宏澤*  ,  陳建富  </teacher>
+<score> 0 </score>
+<time> [2]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92720 </place>
+<note> 電力組 </note>
+</N2>
+
+<N2 id="015">
+<num>N2-015</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 林志隆  </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92271 </place>
+<note> 儀器系統組 </note>
+</N2>
+
+<N2 id="019">
+<num>N2-019</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 配電系統自動化 </name>
+<name> 電子導航 </name>
+<teacher> 莊智清  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92820 </place>
+<note> 英文授課 </note>
+</N2>
+
+<N2 id="036">
+<num>N2-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數位影像處理 </name>
+<teacher> 毛齊武  </teacher>
+<score> 3 </score>
+<time> [2]1~2  ,  [4]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note></note>
+</N2>
+
+<N2 id="045">
+<num>N2-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電能運轉與控制專論 </name>
+<teacher> 黃世杰  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</N2>
+
+<N2 id="048">
+<num>N2-048</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 科技教育系統設計 </name>
+<teacher> 林偉棻  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note></note>
+</N2>
+
+<N2 id="049">
+<num>N2-049</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子陶瓷專論 </name>
+<teacher> 黃正亮  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92B28 </place>
+<note></note>
+</N2>
+
+<N2 id="054">
+<num>N2-054</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物電子系統 </name>
+<teacher> 戴政祺  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 碩專碩博合班 </note>
+</N2>
+
+<N2 id="055">
+<num>N2-055</num>
+<class> 碩博                           </class>
+<group></group>
+<name> PLL/DLL設計與應用 </name>
+<teacher> 鄭光偉  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92277 </place>
+<note></note>
+</N2>
+
+<N2 id="070">
+<num>N2-070</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高電壓工程特論 </name>
 <teacher> 黃慶連  </teacher>
 <score> 3 </score>
 <time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
+<note> 電資學院學生選修 </note>
 </N2>
 
-<N2 id="032">
-<num>N2-032</num>
-<class> 碩博                           </class>
+<N2 id="101">
+<num>N2-101</num>
+<class> 博一                           </class>
 <group></group>
-<name> 高等模糊控制 </name>
-<teacher> 李祖聖  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92383 </place>
+<name> 專題討論（二） </name>
+<teacher> 黃正亮   ,  朱聖緣* </teacher>
+<score> 0 </score>
+<time> [4]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92B28 </place>
 <note></note>
 </N2>
 
-<N2 id="033">
-<num>N2-033</num>
+<N2 id="104">
+<num>N2-104</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 李昆忠*  ,  邱瀝毅  </teacher>
+<score> 0 </score>
+<time> [5]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92271 </place>
+<note></note>
+</N2>
+
+<N2 id="105">
+<num>N2-105</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 李祖聖  </teacher>
+<score> 0 </score>
+<time> [2]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note></note>
+</N2>
+
+<N2 id="106">
+<num>N2-106</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 黃世杰  </teacher>
+<score> 0 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92383 </place>
+<note> 電力組 </note>
+</N2>
+
+<N2 id="107">
+<num>N2-107</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 張凌昇  </teacher>
+<score> 0 </score>
+<time> [4]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92377 </place>
+<note> 儀器系統 </note>
+</N2>
+
+<N2 id="109">
+<num>N2-109</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 黃正亮   ,  李文熙* </teacher>
+<score> 0 </score>
+<time> [2]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92B28 </place>
+<note> 電子材料組 </note>
+</N2>
+
+<N2 id="112">
+<num>N2-112</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 李國君*  ,  劉濱達  </teacher>
+<score> 0 </score>
+<time> [4]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92377 </place>
+<note> VLSI/CAD組 </note>
+</N2>
+
+<N2 id="113">
+<num>N2-113</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 李嘉猷  </teacher>
+<score> 0 </score>
+<time> [4]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note> 控制組 </note>
+</N2>
+
+<N2 id="114">
+<num>N2-114</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 梁從主  </teacher>
+<score> 0 </score>
+<time> [2]5  ,  [4]N  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92371 </place>
+<note> 電力組 </note>
+</N2>
+
+<N2 id="115">
+<num>N2-115</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 戴政祺  </teacher>
+<score> 0 </score>
+<time> [3]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92171 </place>
+<note> 儀器系統組 </note>
+</N2>
+
+<N2 id="137">
+<num>N2-137</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 非接觸式饋電監控系統專論 </name>
+<name> 數位訊號處理積體電路 </name>
+<teacher> 雷曉方  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92277 </place>
+<note></note>
+</N2>
+
+<N2 id="139">
+<num>N2-139</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電磁相容學 </name>
 <teacher> 李嘉猷  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92820 </place>
 <note></note>
 </N2>
 
-<N2 id="035">
-<num>N2-035</num>
+<N2 id="142">
+<num>N2-142</num>
 <class> 碩博                           </class>
 <group></group>
-<name> ＶＬＳＩＳｏＣ軟硬體共同設計 </name>
+<name> 電源轉換系統分析 </name>
+<teacher> 林瑞禮  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 英語授課 </note>
+</N2>
+
+<N2 id="145">
+<num>N2-145</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物微機電專論 </name>
+<teacher> 張凌昇  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92383 </place>
+<note></note>
+</N2>
+
+<N2 id="154">
+<num>N2-154</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 智慧型控制專論 </name>
+<teacher> 李祖聖  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92820 </place>
+<note></note>
+</N2>
+
+<N2 id="155">
+<num>N2-155</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 顯示器線路設計專論 </name>
+<teacher> 林志隆  </teacher>
+<score> 3 </score>
+<time> [2]7~8  ,  [1]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92271 </place>
+<note></note>
+</N2>
+
+<N2 id="159">
+<num>N2-159</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數位訊號電路設計專論 </name>
+<teacher> 郭致宏  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</N2>
+
+<N2 id="166">
+<num>N2-166</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米世代半導體製程概論 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 建議材料/化工/化學/物理/光電(聯電主管授課)限126人。 </note>
+</N2>
+
+<N2 id="171">
+<num>N2-171</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生醫積體電路設計 </name>
+<teacher> 魏嘉玲  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</N2>
+
+<N2 id="172">
+<num>N2-172</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電子電路系統設計 </name>
+<teacher> 楊慶隆  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92171 </place>
+<note> 大四碩班合班 </note>
+</N2>
+
+<N2 id="177">
+<num>N2-177</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料物理特論 </name>
+<teacher> 施權峰  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92B28 </place>
+<note></note>
+</N2>
+
+<N2 id="179">
+<num>N2-179</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 圖形理論 </name>
+<teacher> 陳盈如  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</N2>
+
+<N2 id="183">
+<num>N2-183</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 固態熱力學 </name>
+<teacher> 李炳鈞  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92B28 </place>
+<note></note>
+</N2>
+
+<N2 id="184">
+<num>N2-184</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 配電系統自動化 </name>
+<teacher> 黃慶連  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 電資學院學生選修 </note>
+</N2>
+
+<N2 id="185">
+<num>N2-185</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 共振式電能轉換器設計 </name>
+<teacher> 林瑞禮  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      俊銘講堂 </place>
+<note> 碩專、碩博合英語授課 </note>
+</N2>
+
+<N2 id="190">
+<num>N2-190</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電腦語音處理專論 </name>
+<teacher> 王駿發  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92453 </place>
+<note> 電機資訊合班電機系四樓會議室 </note>
+</N2>
+
+<N2 id="193">
+<num>N2-193</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 混合訊號式矽智財設計 </name>
+<teacher> 蔡建泓  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92383 </place>
+<note></note>
+</N2>
+
+<N2 id="194">
+<num>N2-194</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計算系統生物學研究 </name>
+<teacher> 吳謂勝  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92271 </place>
+<note></note>
+</N2>
+
+<N2 id="195">
+<num>N2-195</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 網路ＩＣ分析與設計專論 </name>
 <teacher> 周哲民  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
@@ -196,647 +658,17 @@
 <note></note>
 </N2>
 
-<N2 id="046">
-<num>N2-046</num>
+<N2 id="196">
+<num>N2-196</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 超大型積體電路測試 </name>
-<teacher> 李昆忠  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92185 </place>
-<note></note>
-</N2>
-
-<N2 id="060">
-<num>N2-060</num>
-<class> 碩博                           </class>
-<group></group>
-<name> ＶＬＳＩ系統設計 </name>
-<teacher> 邱瀝毅  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92377 </place>
-<note></note>
-</N2>
-
-<N2 id="061">
-<num>N2-061</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 非破壞性檢測 </name>
-<teacher> 戴政祺  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92283 </place>
-<note></note>
-</N2>
-
-<N2 id="062">
-<num>N2-062</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 能量轉換 </name>
-<teacher> 黃世杰  </teacher>
-<score> 3 </score>
-<time> [2]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 碩博碩專合班 </note>
-</N2>
-
-<N2 id="065">
-<num>N2-065</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 類比積體電路設計 </name>
-<teacher> 郭泰豪  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      靄雲廳 </place>
-<note></note>
-</N2>
-
-<N2 id="070">
-<num>N2-070</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 低功率超大型積體電路設計 </name>
-<teacher> 邱瀝毅  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92377 </place>
-<note> 英文授課 </note>
-</N2>
-
-<N2 id="071">
-<num>N2-071</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 音頻信號處理專論 </name>
-<teacher> 雷曉方  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92271 </place>
-<note></note>
-</N2>
-
-<N2 id="101">
-<num>N2-101</num>
-<class> 博一                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 朱聖緣  </teacher>
-<score> 0 </score>
-<time> [4]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92B28 </place>
-<note> 電子材料組 </note>
-</N2>
-
-<N2 id="104">
-<num>N2-104</num>
-<class> 博一                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 李昆忠   ,  李國君* </teacher>
-<score> 0 </score>
-<time> [4]N~5  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92377 </place>
-<note> VLSI / CAD組 </note>
-</N2>
-
-<N2 id="105">
-<num>N2-105</num>
-<class> 博一                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 莊智清  </teacher>
-<score> 0 </score>
-<time> [4]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92820 </place>
-<note> 控制組 </note>
-</N2>
-
-<N2 id="106">
-<num>N2-106</num>
-<class> 博一                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 黃世杰  </teacher>
-<score> 0 </score>
-<time> [1]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92720 </place>
-<note> 電力組 </note>
-</N2>
-
-<N2 id="107">
-<num>N2-107</num>
-<class> 博一                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 戴政祺  </teacher>
-<score> 0 </score>
-<time> [5]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92277 </place>
-<note> 儀器系統組 </note>
-</N2>
-
-<N2 id="109">
-<num>N2-109</num>
-<class> 博                             </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 黃正亮*  ,  李文熙  </teacher>
-<score> 0 </score>
-<time> [3]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92B28 </place>
-<note> 電子材料組 </note>
-</N2>
-
-<N2 id="112">
-<num>N2-112</num>
-<class> 博                             </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 劉濱達  </teacher>
-<score> 0 </score>
-<time> [5]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92225 </place>
-<note> VLSI / CAD組 </note>
-</N2>
-
-<N2 id="113">
-<num>N2-113</num>
-<class> 博                             </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 李嘉猷  </teacher>
-<score> 0 </score>
-<time> [1]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92820 </place>
-<note> 控制組 </note>
-</N2>
-
-<N2 id="114">
-<num>N2-114</num>
-<class> 博                             </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 梁從主   ,  陳建富  </teacher>
-<score> 0 </score>
-<time> [2]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92720 </place>
-<note> 電力組 </note>
-</N2>
-
-<N2 id="115">
-<num>N2-115</num>
-<class> 博                             </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 張凌昇  </teacher>
-<score> 0 </score>
-<time> [3]9~A  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 電機系館                      92185 </place>
-<note> 儀器系統組 </note>
-</N2>
-
-<N2 id="117">
-<num>N2-117</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 聲電光元件專論 </name>
-<teacher> 朱聖緣  </teacher>
-<score> 3 </score>
-<time> [2]3~N  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92B28 </place>
-<note> 奈微所與電機所合班 </note>
-</N2>
-
-<N2 id="121">
-<num>N2-121</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 視覺伺服系統 </name>
-<teacher> 鄭銘揚  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note></note>
-</N2>
-
-<N2 id="144">
-<num>N2-144</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電力電子特論 </name>
-<teacher> 林瑞禮  </teacher>
-<score> 3 </score>
-<time> [2]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      靄雲廳 </place>
-<note> 碩博專班合班　英語授課 </note>
-</N2>
-
-<N2 id="145">
-<num>N2-145</num>
-<class> 碩                             </class>
-<group></group>
-<name> 電力系統分析 </name>
-<teacher> 張簡樂仁  </teacher>
-<score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 大四碩士合班 </note>
-</N2>
-
-<N2 id="151">
-<num>N2-151</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 類神經網路簡介 </name>
-<teacher> 王振興  </teacher>
-<score> 3 </score>
-<time> [1]5~6  ,  [3]3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92225 </place>
-<note></note>
-</N2>
-
-<N2 id="154">
-<num>N2-154</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 分佈式發電系統專論 </name>
+<name> 電力系統控制與穩定度 </name>
 <teacher> 王　醴  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      俊銘講堂 </place>
-<note></note>
-</N2>
-
-<N2 id="156">
-<num>N2-156</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 感測元件專論 </name>
-<teacher> 李炳鈞  </teacher>
-<score> 3 </score>
-<time> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92B28 </place>
-<note></note>
-</N2>
-
-<N2 id="163">
-<num>N2-163</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 數位通訊之積體電路設計專論 </name>
-<teacher> 謝明得  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92491 </place>
-<note></note>
-</N2>
-
-<N2 id="164">
-<num>N2-164</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 科技英文 </name>
-<teacher> 毛齊武  </teacher>
-<score> 3 </score>
-<time> [3]1~2  ,  [2]1  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92383 </place>
-<note></note>
-</N2>
-
-<N2 id="165">
-<num>N2-165</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 風力發電系統專論 </name>
-<teacher> 王　醴  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note></note>
-</N2>
-
-<N2 id="166">
-<num>N2-166</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 圖訊識別專論 </name>
-<teacher> 王駿發  </teacher>
-<score> 3 </score>
-<time> [3]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92453 </place>
-<note> 電機所資工所合班 </note>
-</N2>
-
-<N2 id="170">
-<num>N2-170</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 馬達驅動專論 </name>
-<teacher> 陳建富  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 碩博碩專合班 </note>
-</N2>
-
-<N2 id="171">
-<num>N2-171</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電子電路IC設計 </name>
-<teacher> 魏嘉玲  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92277 </place>
-<note></note>
-</N2>
-
-<N2 id="172">
-<num>N2-172</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 單石射頻積體電路設計 </name>
-<teacher> 鄭光偉  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      令洋廳 </place>
-<note> 碩博與電通所合班 </note>
-</N2>
-
-<N2 id="173">
-<num>N2-173</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高電壓工程特論 </name>
-<teacher> 黃慶連  </teacher>
-<score> 3 </score>
-<time> [1]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
-</N2>
-
-<N2 id="174">
-<num>N2-174</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電子陶瓷 </name>
-<teacher> 李文熙  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92B28 </place>
-<note></note>
-</N2>
-
-<N2 id="175">
-<num>N2-175</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 工程經濟專論 </name>
-<teacher> 楊宏澤  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 電力組 </note>
-</N2>
-
-<N2 id="176">
-<num>N2-176</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電子電路系統設計 </name>
-<teacher> 楊慶隆  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      令洋廳 </place>
-<note> 大四碩士合班 </note>
-</N2>
-
-<N2 id="178">
-<num>N2-178</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 正規驗證之理論與應用 </name>
-<teacher> 陳盈如  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note></note>
-</N2>
-
-<N2 id="179">
-<num>N2-179</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 機器學習與生物資訊學 </name>
-<teacher> 張天豪  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92453 </place>
-<note> 大四碩士合班 </note>
-</N2>
-
-<N2 id="180">
-<num>N2-180</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 奈米積體電路實體設計 </name>
-<teacher> 林家民  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92171 </place>
-<note></note>
-</N2>
-
-<N2 id="181">
-<num>N2-181</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 數位視訊單晶片系統設計 </name>
-<teacher> 李國君  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92185 </place>
-<note> 英語授課 </note>
-</N2>
-
-<N2 id="183">
-<num>N2-183</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 陶瓷材料專論 </name>
-<teacher> 黃正亮  </teacher>
-<score> 3 </score>
-<time> [2]2  ,  [4]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92B28 </place>
-<note></note>
-</N2>
-
-<N2 id="185">
-<num>N2-185</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高效率電源轉換設計專論 </name>
-<teacher> 梁從主  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 英語授課 </note>
-</N2>
-
-<N2 id="186">
-<num>N2-186</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 強健控制 </name>
-<teacher> 莊智清  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92820 </place>
-<note></note>
-</N2>
-
-<N2 id="188">
-<num>N2-188</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 晶體結構與材料分析 </name>
-<teacher> 施權峰  </teacher>
-<score> 3 </score>
-<time> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92B28 </place>
-<note></note>
-</N2>
-
-<N2 id="192">
-<num>N2-192</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電子與奈米材料分析 </name>
-<teacher> 李文熙  </teacher>
-<score> 3 </score>
-<time> [5]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92371 </place>
-<note> 英語授課 </note>
-</N2>
-
-<N2 id="193">
-<num>N2-193</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 半導體元件模擬分析 </name>
-<teacher> 盧達生  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      令洋廳 </place>
-<note> 電機所與微電子所合班英語授課 </note>
-</N2>
-
-<N2 id="194">
-<num>N2-194</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 數位電源控制電路與系統實作專題 </name>
-<teacher> 蔡建泓  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92453 </place>
 <note></note>
 </N2>
 
@@ -844,237 +676,153 @@
 <num>N2-197</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 保護電驛 </name>
-<teacher> 蕭純育  </teacher>
+<name> 獵能電子設計導論 </name>
+<teacher> 黃尊禧  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 選修限10人 </note>
+<place> 電機系館                      令洋廳 </place>
+<note></note>
 </N2>
 
 <N2 id="198">
 <num>N2-198</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 太陽能發電系統與工程 </name>
-<teacher> 楊宏澤  </teacher>
+<name> 電動機設計 </name>
+<teacher> 謝旻甫  </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note></note>
+<place> 系統系館                      56224 </place>
+<note> 英語授課 </note>
+</N2>
+
+<N2 id="199">
+<num>N2-199</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體及先進奈米化製程技術概論（二） </name>
+<teacher> 王英郎  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 電資學院學生選修 </note>
 </N2>
 
 <N2 id="200">
 <num>N2-200</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 電動機動力與控制 </name>
-<teacher> 黃柏維   ,  蔡明祺* </teacher>
+<name> 生物資料整合與分析 </name>
+<teacher> 吳謂勝  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91308 </place>
-<note> 第8節在電腦教室91601上課 </note>
+<place> 電機系館                      92820 </place>
+<note> 歡迎大學部選修 </note>
 </N2>
 
-<N2 id="301">
-<num>N2-301</num>
+<N2 id="306">
+<num>N2-306</num>
 <class> 碩專一                         </class>
 <group></group>
-<name> 專題研討（一） </name>
+<name> 專題研討（二） </name>
 <teacher> 謝明得  </teacher>
 <score> 0 </score>
 <time> [6]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 電機系館                      92277 </place>
-<note></note>
+<place> 電機系館                      92377 </place>
+<note> 碩一 </note>
 </N2>
 
-<N2 id="303">
-<num>N2-303</num>
+<N2 id="307">
+<num>N2-307</num>
 <class> 碩專二                         </class>
 <group></group>
-<name> 專題研討（三） </name>
+<name> 專題研討（四） </name>
 <teacher> 謝明得  </teacher>
 <score> 0 </score>
 <time> [6]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 電機系館                      92277 </place>
-<note></note>
+<place> 電機系館                      92377 </place>
+<note> 碩二 </note>
 </N2>
 
-<N2 id="304">
-<num>N2-304</num>
+<N2 id="317">
+<num>N2-317</num>
 <class> 碩專一二                       </class>
 <group></group>
-<name> 計算機圖像系統 </name>
-<teacher> 陳立祥  </teacher>
-<score> 3 </score>
-<time> [3]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note> 碩專、碩博合班 </note>
-</N2>
-
-<N2 id="312">
-<num>N2-312</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 電力電子特論 </name>
-<teacher> 林瑞禮  </teacher>
-<score> 3 </score>
-<time> [2]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      靄雲廳 </place>
-<note> 碩博專班合班　英語授課 </note>
-</N2>
-
-<N2 id="313">
-<num>N2-313</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 高電壓工程特論 </name>
+<name> 配電系統自動化 </name>
 <teacher> 黃慶連  </teacher>
 <score> 3 </score>
 <time> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
-</N2>
-
-<N2 id="314">
-<num>N2-314</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 馬達驅動專論 </name>
-<teacher> 陳建富  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 碩博碩專合班 </note>
-</N2>
-
-<N2 id="315">
-<num>N2-315</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 配電系統自動化 </name>
-<teacher> 黃慶連  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
+<note> 電資學院學生選修 </note>
 </N2>
 
 <N2 id="318">
 <num>N2-318</num>
 <class> 碩專一二                       </class>
 <group></group>
-<name> 能量轉換 </name>
-<teacher> 黃世杰  </teacher>
+<name> 高電壓工程特論 </name>
+<teacher> 黃慶連  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
-<note> 碩博碩專合班 </note>
+<note> 電資學院學生選修 </note>
 </N2>
 
-<N2 id="319">
-<num>N2-319</num>
+<N2 id="323">
+<num>N2-323</num>
 <class> 碩專一二                       </class>
 <group></group>
-<name> 光電元件設計與模擬 </name>
-<teacher> 張守進  </teacher>
-<score> 3 </score>
-<time> [4]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92C01 </place>
-<note></note>
-</N2>
-
-<N2 id="321">
-<num>N2-321</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 圖訊識別專論 </name>
-<teacher> 王駿發  </teacher>
+<name> 生物電子系統 </name>
+<teacher> 戴政祺  </teacher>
 <score> 3 </score>
 <time> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92453 </place>
-<note> 電機所資工所合班 </note>
-</N2>
-
-<N2 id="322">
-<num>N2-322</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電動機動力與控制 </name>
-<teacher> 黃柏維   ,  蔡明祺* </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91308 </place>
-<note> 第8節在電腦教室91601上課 </note>
+<place> 電機系館                      92177 </place>
+<note> 碩專碩博合班 </note>
 </N2>
 
 <N2 id="324">
 <num>N2-324</num>
 <class> 碩專一二                       </class>
 <group></group>
-<name> 保護電驛 </name>
-<teacher> 蕭純育  </teacher>
+<name> 電腦語音處理專論 </name>
+<teacher> 王駿發  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 選修限10人 </note>
+<place> 電機系館                      92453 </place>
+<note> 電機資訊合班電機系四樓會議室 </note>
 </N2>
 
 <N2 id="325">
 <num>N2-325</num>
-<class> 碩專一二                       </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 近代通訊專論 </name>
-<teacher> 張志文  </teacher>
+<name> 多媒體網際網路應用專論 </name>
+<teacher> 陳立祥  </teacher>
 <score> 3 </score>
-<time> [1]A~C  </time>
+<time> [4]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note></note>
-</N2>
-
-<N2 id="327">
-<num>N2-327</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 網路管理 </name>
-<teacher> 楊竹星  </teacher>
-<score> 3 </score>
-<time> [3]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92271 </place>
+<place> 電機系館                      92523 </place>
 <note></note>
 </N2>
 

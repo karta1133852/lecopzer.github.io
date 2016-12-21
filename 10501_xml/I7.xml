@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<I7 id="004">
+<num>I7-004</num>
+<class></class>
+<group></group>
+<name> 普通生物學 </name>
+<teacher> 曾淑芬   ,  宋皇模*  ,  王浩文   ,  何盧勳   ,  張松彬   ,  仲澤剛史   ,  彭怡禎   ,  吳文鑾   ,  李瑞花  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note></note>
+</I7>
+
+<I7 id="005">
+<num>I7-005</num>
+<class></class>
+<group></group>
+<name> 普通生物學實驗 </name>
+<teacher> 李亞夫   ,  王浩文*  ,  李純純   ,  彭怡禎  </teacher>
+<score> 1 </score>
+<time> [1]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3435 </place>
+<note> 生科系館實驗室 </note>
+</I7>
+
+<I7 id="006">
+<num>I7-006</num>
+<class></class>
+<group></group>
+<name> 人類發展 </name>
+<teacher> 汪翠瀅   ,  陳官琳* </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        307 </place>
+<note></note>
+</I7>
+
+<I7 id="015">
+<num>I7-015</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 蔡佩倫   ,  汪翠瀅* </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="018">
+<num>I7-018</num>
+<class></class>
+<group></group>
+<name> 職能治療導論 </name>
+<teacher> 張哲豪   ,  林玲伊   ,  黃百川*  ,  張雁晴  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        307 </place>
+<note></note>
+</I7>
+
+<I7 id="020">
+<num>I7-020</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 林欣仕  </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            體育室前 </place>
+<note></note>
+</I7>
+
+<I7 id="021">
+<num>I7-021</num>
+<class></class>
+<group></group>
+<name> 職能與活動 </name>
+<teacher> 張哲豪* </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+</I7>
+
+<I7 id="057">
+<num>I7-057</num>
+<class></class>
+<group></group>
+<name> 解剖學（含實驗） </name>
+<teacher> 郭余民*  ,  黃步敏   ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
+<score> 6 </score>
+<time> [1]5~8  ,  [2]1~4  ,  [4]1~4  ,  [5]1~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 周五第一至四節，多位教師合上 </note>
+</I7>
+
+<I7 id="071">
+<num>I7-071</num>
+<class></class>
+<group></group>
+<name> 生理學 </name>
+<teacher> 莊季瑛   ,  蔡美玲*  ,  吳勝男   ,  楊尚訓   ,  顏賢章   ,  陳珮君  </teacher>
+<score> 3 </score>
+<time> [1]1  ,  [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 非本系生修課須經授課教師同意 </note>
+</I7>
+
+<I7 id="072">
+<num>I7-072</num>
+<class></class>
+<group></group>
+<name> 生理學實驗 </name>
+<teacher> 莊季瑛   ,  蔡美玲   ,  吳勝男   ,  楊尚訓   ,  顏賢章* </teacher>
+<score> 1 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</I7>
+
+<I7 id="073">
+<num>I7-073</num>
+<class></class>
+<group></group>
+<name> 公共衛生概論 </name>
+<teacher> 呂宗學* </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 護理，物治，醫技合班上課 </note>
+</I7>
+
+<I7 id="103">
+<num>I7-103</num>
+<class></class>
+<group></group>
+<name> 病理學概論 </name>
+<teacher> 顏經洲*  ,  張孔昭   ,  呂政展   ,  何中良   ,  周楠華   ,  蔡弘文   ,  李忠達   ,  陳文宗  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 多位老師合上，醫技，物治，職治合班 </note>
+</I7>
+
+<I7 id="104">
+<num>I7-104</num>
+<class></class>
+<group></group>
+<name> 骨科學概論 </name>
+<teacher> 周一鳴*  ,  林啟禎   ,  楊俊佑   ,  賴國安   ,  蘇維仁   ,  張志偉   ,  黃國淵   ,  戴大為   ,  吳柏廷  </teacher>
+<score> 1 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 醫學院，物治，職治合班 </note>
+</I7>
+
+<I7 id="105">
+<num>I7-105</num>
+<class></class>
+<group></group>
+<name> 小兒科學概論 </name>
+<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  王玠能   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  周言穎  </teacher>
+<score> 1 </score>
+<time> [4]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 醫學院，物治，職治合班 </note>
+</I7>
+
+<I7 id="106">
+<num>I7-106</num>
+<class></class>
+<group></group>
+<name> 外科學概論 </name>
+<teacher> 李政昌   ,  陳琮琳   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  羅傳堯   ,  顏亦廷   ,  林毅志   ,  王亮超   ,  黃士銘*  ,  徐慧萍   ,  潘信誠   ,  戴世煌  </teacher>
+<score> 2 </score>
+<time> [1]8~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 醫學院，物治，職治合班 </note>
+</I7>
+
+<I7 id="107">
+<num>I7-107</num>
+<class></class>
+<group></group>
+<name> 神經科學概論 </name>
+<teacher> 林宙晴   ,  白明奇   ,  李宜堅   ,  黃文柱   ,  林志勝*  ,  蔡子同   ,  蔡景仁   ,  黃欽威   ,  陳志弘   ,  羅健寧   ,  黃涵薇   ,  孫苑庭  </teacher>
+<score> 1 </score>
+<time> [5]9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 醫學院，物治，職治合班 </note>
+</I7>
+
+<I7 id="112">
+<num>I7-112</num>
+<class></class>
+<group></group>
+<name> 義肢裝具學 </name>
+<teacher> 張哲豪*  ,  徐秀雲   ,  郭立杰  </teacher>
+<score> 1 </score>
+<time> [5]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        技術學教室 </place>
+<note></note>
+</I7>
+
+<I7 id="113">
+<num>I7-113</num>
+<class></class>
+<group></group>
+<name> 義肢裝具學實習 </name>
+<teacher> 張哲豪*  ,  徐秀雲   ,  郭立杰  </teacher>
+<score> 1 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        技術學教室 </place>
+<note></note>
+</I7>
+
+<I7 id="126">
+<num>I7-126</num>
+<class></class>
+<group></group>
+<name> 兒童評估學（含實作） </name>
+<teacher> 黃雅淑* </teacher>
+<score> 2 </score>
+<time> [3]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 兒童評估學（含實作） </name1>
+<time1> [3]6~7  </time1>
+<place1> 職治系館                      專業教室 </place1>
+<note1></note1>
+</I7>
+
+<I7 id="127">
+<num>I7-127</num>
+<class></class>
+<group></group>
+<name> 職能治療團體動力 </name>
+<teacher> 劉怡佳   ,  汪翠瀅* </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+</I7>
+
+<I7 id="128">
+<num>I7-128</num>
+<class></class>
+<group></group>
+<name> 心理疾病職能治療學 </name>
+<teacher> 劉怡佳   ,  汪翠瀅*  ,  陳官琳   ,  張雁晴  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+</I7>
+
+<I7 id="129">
+<num>I7-129</num>
+<class></class>
+<group></group>
+<name> 心理疾病職能治療學實習 </name>
+<teacher> 劉怡佳   ,  汪翠瀅*  ,  陳官琳   ,  張雁晴  </teacher>
+<score> 1 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+</I7>
+
+<I7 id="130">
+<num>I7-130</num>
+<class></class>
+<group></group>
+<name> 老人職能治療學 </name>
+<teacher> 張玲慧* </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+</I7>
+
+<I7 id="131">
+<num>I7-131</num>
+<class></class>
+<group></group>
+<name> 兒童職能治療學 </name>
+<teacher> 黃雅淑   ,  林玲伊*  ,  黃璨珣   ,  楊琇晴  </teacher>
+<score> 1 </score>
+<time> [3]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+</I7>
+
+<I7 id="132">
+<num>I7-132</num>
+<class></class>
+<group></group>
+<name> 兒童職能治療學實習 </name>
+<teacher> 黃雅淑   ,  林玲伊*  ,  黃璨珣   ,  楊琇晴  </teacher>
+<score> 1 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 職治系館                      專業教室 </place>
+<note></note>
+</I7>
+
+<I7 id="151">
+<num>I7-151</num>
+<class></class>
+<group></group>
+<name> 職能治療專題討論（一） </name>
+<teacher> 蔡佩倫   ,  張哲豪*  ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="152">
+<num>I7-152</num>
+<class></class>
+<group></group>
+<name> 心理疾病職能治療臨床實習（一） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅*  ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
+<score> 5 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="153">
+<num>I7-153</num>
+<class></class>
+<group></group>
+<name> 心理疾病職能治療臨床實習（二） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅*  ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
+<score> 5 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="154">
+<num>I7-154</num>
+<class></class>
+<group></group>
+<name> 生理疾病職能治療臨床實習（一） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英*  ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
+<score> 5 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="155">
+<num>I7-155</num>
+<class></class>
+<group></group>
+<name> 生理疾病職能治療臨床實習（二） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英*  ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
+<score> 5 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="156">
+<num>I7-156</num>
+<class></class>
+<group></group>
+<name> 兒童職能治療臨床實習（一） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳*  ,  黃百川   ,  張雁晴  </teacher>
+<score> 5 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="157">
+<num>I7-157</num>
+<class></class>
+<group></group>
+<name> 兒童職能治療臨床實習（二） </name>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳*  ,  黃百川   ,  張雁晴  </teacher>
+<score> 5 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+</content>

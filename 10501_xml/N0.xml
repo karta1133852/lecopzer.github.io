@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<N0 id="305">
+<num>N0-305</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 工程管理專題研討（一） </name>
+<teacher> 李偉賢  </teacher>
+<score> 1 </score>
+<time> [5]B~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note></note>
+</N0>
+
+<N0 id="306">
+<num>N0-306</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 工程管理專題研討（三） </name>
+<teacher> 李偉賢  </teacher>
+<score> 1 </score>
+<time> [5]B~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note> 系統系１樓視聽教室 </note>
+</N0>
+
+<N0 id="307">
+<num>N0-307</num>
+<class> 碩專延三                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 李偉賢  </teacher>
+<score> 0 </score>
+<time> [5]B~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note> 系統系１樓視聽教室 </note>
+</N0>
+
+<N0 id="309">
+<num>N0-309</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 組織理論與管理 </name>
+<teacher> 張行道  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="310">
+<num>N0-310</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 工程經營管理 </name>
+<teacher> 張益三  </teacher>
+<score> 3 </score>
+<time> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="316">
+<num>N0-316</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 管理資訊系統 </name>
+<teacher> 陳澤生  </teacher>
+<score> 3 </score>
+<time> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41102 </place>
+<note></note>
+</N0>
+
+<N0 id="317">
+<num>N0-317</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 作業研究 </name>
+<teacher> 陳家榮  </teacher>
+<score> 3 </score>
+<time> [4]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4352 </place>
+<note></note>
+</N0>
+
+<N0 id="318">
+<num>N0-318</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 企業資料通訊 </name>
+<teacher> 鄧維光  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41104 </place>
+<note> 限本系碩專班學生 </note>
+</N0>
+
+<N0 id="319">
+<num>N0-319</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 產品生命週期管理 </name>
+<teacher> 邵揮洲  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56111 </place>
+<note></note>
+</N0>
+
+<N0 id="320">
+<num>N0-320</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 科技行銷管理 </name>
+<teacher> 蔡明田  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="321">
+<num>N0-321</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 統計方法 </name>
+<teacher> 李家岩  </teacher>
+<score> 3 </score>
+<time> [4]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="322">
+<num>N0-322</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 企業環境管理 </name>
+<teacher> 施勵行  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="331">
+<num>N0-331</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 工程法律 </name>
+<teacher> 陳耀光  </teacher>
+<score> 3 </score>
+<time> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築研究大樓                  5172 </place>
+<note> 與碩專班、工學院合開 </note>
+</N0>
+
+</content>

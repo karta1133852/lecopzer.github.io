@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K5 id="001">
+<num>K5-001</num>
+<class> 博二                           </class>
+<group></group>
+<name> 研究方法 </name>
+<teacher> 蔣為文  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88121 </place>
+<note></note>
+</K5>
+
+<K5 id="002">
+<num>K5-002</num>
+<class> 博一                           </class>
+<group></group>
+<name> 學術英文（一） </name>
+<teacher> 吳玫瑛  </teacher>
+<score> 0 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="003">
+<num>K5-003</num>
+<class> 碩                             </class>
+<group></group>
+<name> 學術英文（一） </name>
+<teacher> 吳玫瑛  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="004">
+<num>K5-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 鍾秀梅  </teacher>
+<score> 0 </score>
+<time> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</K5>
+
+<K5 id="005">
+<num>K5-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 台灣的生態旅遊與解說教育 </name>
+<teacher> 陳玉峯  </teacher>
+<score> 3 </score>
+<time> [3]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note> 原則上第一週未來試聽者，不予加簽。 </note>
+</K5>
+
+<K5 id="006">
+<num>K5-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 當代戲劇文本與批評 </name>
+<teacher> 劉南芳  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88121 </place>
+<note></note>
+</K5>
+
+<K5 id="007">
+<num>K5-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 「歷史與自然災害的集體記憶與敘事策略」研 </name>
+<teacher> 鍾秀梅  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="008">
+<num>K5-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 戰後台灣現代主義文學專題 </name>
+<teacher> 廖淑芳  </teacher>
+<score> 3 </score>
+<time> [4]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="009">
+<num>K5-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 後殖民理論與台灣文學專題 </name>
+<teacher> 游勝冠  </teacher>
+<score> 3 </score>
+<time> [2]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="010">
+<num>K5-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 現代詩專題研究 </name>
+<teacher> 蔡明諺  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="011">
+<num>K5-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 日治時期台灣翻譯文學與思潮 </name>
+<teacher> 吳毓琪  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="012">
+<num>K5-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 台語文學專題：五、六○年代台語歌詩研究 </name>
+<teacher> 呂興昌  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="301">
+<num>K5-301</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 後殖民理論與台灣文學專題 </name>
+<teacher> 游勝冠  </teacher>
+<score> 3 </score>
+<time> [2]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="302">
+<num>K5-302</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 戰後台灣現代主義文學專題 </name>
+<teacher> 廖淑芳  </teacher>
+<score> 3 </score>
+<time> [4]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="303">
+<num>K5-303</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 台灣的生態旅遊與解說教育 </name>
+<teacher> 陳玉峯  </teacher>
+<score> 3 </score>
+<time> [3]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note> 原則上第一週未來試聽者，不予加簽。 </note>
+</K5>
+
+</content>

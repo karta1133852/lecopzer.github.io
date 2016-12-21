@@ -4,7 +4,7 @@
 <num>S7-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 專題討論（二） </name>
 <teacher> 郭浩然  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
@@ -18,7 +18,7 @@
 <num>S7-002</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 專題討論（三） </name>
+<name> 專題討論（四） </name>
 <teacher> 郭浩然  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
@@ -36,7 +36,7 @@
 <teacher> 郭浩然  </teacher>
 <score> 0 </score>
 <time> [4]5  </time>
-<must> 選修 </must>
+<must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        602 </place>
 <note> 限碩三以上選修 </note>
@@ -46,13 +46,13 @@
 <num>S7-004</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 工業與環境衛生 </name>
-<teacher> 蘇慧貞   ,  李俊璋   ,  蔡朋枝   ,  林明彥* </teacher>
+<name> 高等作業環境測定（二） </name>
+<teacher> 蔡朋枝   ,  林明彥* </teacher>
 <score> 2 </score>
-<time> [4]1~2  </time>
-<must> 必修 </must>
+<time> [1]5~6  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        602 </place>
+<place> 醫學院                        302D </place>
 <note></note>
 </S7>
 
@@ -60,13 +60,13 @@
 <num>S7-005</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 環境毒物學 </name>
-<teacher> 廖寶琦*  ,  王應然   ,  張志欽   ,  劉明毅  </teacher>
+<name> 暴露模式推估特論 </name>
+<teacher> 蔡朋枝*  ,  林明彥  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
-<must> 必修 </must>
+<time> [1]3~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        208 </place>
+<place> 醫學院                        302D </place>
 <note></note>
 </S7>
 
@@ -74,13 +74,13 @@
 <num>S7-006</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 生物統計 </name>
-<teacher> 吳致杰  </teacher>
+<name> 空氣污染物特性分析 </name>
+<teacher> 蘇慧貞   ,  李俊璋   ,  蔡朋枝   ,  林明彥* </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
-<must> 必修 </must>
+<time> [2]1~2  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        304D </place>
+<place> 醫學院                        302D </place>
 <note></note>
 </S7>
 
@@ -88,91 +88,83 @@
 <num>S7-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 流行病學 </name>
-<teacher> 張志欽  </teacher>
-<score> 2 </score>
-<time> [1]3~4  </time>
-<must> 必修 </must>
+<name> 空氣污染物採樣分析（含實驗） </name>
+<teacher> 李俊璋  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note></note>
+<place></place>
+<note> 環醫所8063研討室 </note>
+<class1></class1>
+<group1></group1>
+<name1> 空氣污染物採樣分析（含實驗） </name1>
+<time1> [1]7~9  </time1>
+<place1></place1>
+<note1> 環醫所8063研討室.環醫所實驗室 </note1>
 </S7>
 
 <S7 id="008">
 <num>S7-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 環境與職業醫學概論 </name>
-<teacher> 郭耀昌   ,  吳政龍   ,  郭浩然*  ,  簡玉雯  </teacher>
+<name> 環境保護法規 </name>
+<teacher> 顏秀慧  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
-<must> 必修 </must>
+<time> [2]3~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        302D </place>
-<note></note>
+<note> 環醫所與環工所合班 </note>
+</S7>
+
+<S7 id="009">
+<num>S7-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 儀器分析 </name>
+<teacher> 廖寶琦*  ,  王應然   ,  張志欽   ,  劉明毅  </teacher>
+<score> 2 </score>
+<time> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 環醫所8063研討室 </note>
 </S7>
 
 <S7 id="010">
 <num>S7-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 環境毒物健康風險評估 </name>
-<teacher> 李俊璋  </teacher>
-<score> 2 </score>
-<time> [3]9~A  </time>
+<name> 質譜技術在生物醫學上的應用 </name>
+<teacher> 廖寶琦  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 環醫所與MPH合班; 環醫所8063研討室 </note>
+<note> 環醫所8063研討室 </note>
 </S7>
 
 <S7 id="011">
 <num>S7-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高等作業環境測定（一） </name>
-<teacher> 蔡朋枝*  ,  林明彥  </teacher>
+<name> 進階毒理學（一） </name>
+<teacher> 吳政龍   ,  郭浩然   ,  廖寶琦   ,  王應然*  ,  李俊璋   ,  劉明毅   ,  林明彥  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note></note>
+<place></place>
+<note> 環醫所8063研討室 </note>
 </S7>
 
 <S7 id="012">
 <num>S7-012</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 職業安全衛生法規 </name>
-<teacher> 蔡朋枝  </teacher>
-<score> 2 </score>
-<time> [1]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note></note>
-</S7>
-
-<S7 id="013">
-<num>S7-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 工業通風 </name>
-<teacher> 蔡朋枝*  ,  林明彥  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        602 </place>
-<note></note>
-</S7>
-
-<S7 id="016">
-<num>S7-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 實驗毒理學（一） </name>
+<name> 實驗毒理學（二） </name>
 <teacher> 王應然  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
@@ -182,109 +174,137 @@
 <note> 環醫所8052研討室 </note>
 </S7>
 
-<S7 id="017">
-<num>S7-017</num>
+<S7 id="013">
+<num>S7-013</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 質譜學 </name>
-<teacher> 廖寶琦  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
+<name> 實用流行病學 </name>
+<teacher> 郭浩然*  ,  張志欽   ,  簡玉雯  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        304D </place>
-<note> 環醫所化學所合班 </note>
+<place> 醫學院                        301D </place>
+<note></note>
 </S7>
 
-<S7 id="019">
-<num>S7-019</num>
+<S7 id="014">
+<num>S7-014</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 遺傳流行病學 </name>
+<name> 分子流行病學 </name>
+<teacher> 張志欽  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        205D </place>
+<note></note>
+</S7>
+
+<S7 id="015">
+<num>S7-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 研究結果的整理及報告 </name>
+<teacher> 郭浩然   ,  劉明毅  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note></note>
+</S7>
+
+<S7 id="016">
+<num>S7-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等生物統計 </name>
 <teacher> 吳致杰  </teacher>
 <score> 3 </score>
-<time> [2]5~7  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
 <note> 環醫所8063研討室 </note>
 </S7>
 
-<S7 id="021">
-<num>S7-021</num>
-<class> 碩一二                         </class>
+<S7 id="017">
+<num>S7-017</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 職業病個案診斷研究（一） </name>
-<teacher> 郭浩然  </teacher>
+<name> 環境與職業流行病學 </name>
+<teacher> 郭浩然*  ,  張志欽  </teacher>
 <score> 1 </score>
-<time> [1]1  </time>
+<time> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 職業病個案診斷研究(一)(三)環境與職業醫學實例討論(一)(三)合班,職醫科8019研討室 </note>
-</S7>
-
-<S7 id="022">
-<num>S7-022</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 職業病個案診斷研究（三） </name>
-<teacher> 郭浩然  </teacher>
-<score> 1 </score>
-<time> [1]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
+<place> 醫學院                        301D </place>
 <note></note>
 </S7>
 
-<S7 id="023">
-<num>S7-023</num>
+<S7 id="018">
+<num>S7-018</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 職業病個案診斷研究（二） </name>
+<teacher> 郭浩然  </teacher>
+<score> 1 </score>
+<time> [1]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note> 職業病個案診斷研究(二)(四)和環境與職業醫學實例討論(二)(四)合班 </note>
+</S7>
+
+<S7 id="019">
+<num>S7-019</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 職業病個案診斷研究（四） </name>
+<teacher> 郭浩然  </teacher>
+<score> 1 </score>
+<time> [1]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note> 職業病個案診斷研究(二)(四)和環境與職業醫學實例討論(二)(四)合班 </note>
+</S7>
+
+<S7 id="020">
+<num>S7-020</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 環境與職業醫學實習（一） </name>
+<name> 環境與職業醫學實習（二） </name>
 <teacher> 郭浩然  </teacher>
 <score> 1 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 職業醫學門診 </note>
+<note> 醫院門診 </note>
 </S7>
 
-<S7 id="025">
-<num>S7-025</num>
+<S7 id="021">
+<num>S7-021</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 職業醫學臨廠服務實務 </name>
+<name> 環境與職業醫學實習（四） </name>
 <teacher> 郭浩然  </teacher>
 <score> 1 </score>
-<time> [5]2~4  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 工廠訪視 </note>
-</S7>
-
-<S7 id="026">
-<num>S7-026</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 勞動能力減損評估 </name>
-<teacher> 郭耀昌   ,  吳政龍* </teacher>
-<score> 1 </score>
-<time> [3]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 職醫科8019研討室 </note>
+<note> 醫院門診 </note>
 </S7>
 
 <S7 id="101">
 <num>S7-101</num>
-<class> 博一二                         </class>
+<class> 博一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 專題討論（二） </name>
 <teacher> 郭浩然  </teacher>
 <score> 1 </score>
 <time> [4]9~A  </time>
@@ -298,7 +318,7 @@
 <num>S7-102</num>
 <class></class>
 <group></group>
-<name> 教學實習（一） </name>
+<name> 教學實習（二） </name>
 <teacher> 王應然  </teacher>
 <score> 0 </score>
 <time> 
@@ -312,9 +332,9 @@
 
 <S7 id="103">
 <num>S7-103</num>
-<class> 博一二                         </class>
+<class> 博二                           </class>
 <group></group>
-<name> 專題討論（三） </name>
+<name> 專題討論（四） </name>
 <teacher> 郭浩然  </teacher>
 <score> 1 </score>
 <time> [4]9~A  </time>
@@ -328,7 +348,7 @@
 <num>S7-104</num>
 <class></class>
 <group></group>
-<name> 教學實習（三） </name>
+<name> 教學實習（四） </name>
 <teacher> 王應然  </teacher>
 <score> 0 </score>
 <time> 
@@ -354,32 +374,32 @@
 <note> 限博三以上選修 </note>
 </S7>
 
-<S7 id="106">
-<num>S7-106</num>
-<class> 博一二                         </class>
-<group></group>
-<name> 環境與職業醫學實例討論（一） </name>
-<teacher> 郭浩然  </teacher>
-<score> 1 </score>
-<time> [1]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 職業病個案診斷研究(一)(三)和環境與職業醫學實例討論(一)(三)合班,職醫科8019研討室 </note>
-</S7>
-
 <S7 id="107">
 <num>S7-107</num>
-<class> 博一二                         </class>
+<class> 博                             </class>
 <group></group>
-<name> 環境與職業醫學實例討論（三） </name>
+<name> 環境與職業醫學實例討論（二） </name>
 <teacher> 郭浩然  </teacher>
 <score> 1 </score>
 <time> [1]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note></note>
+<place> 醫學院                        302D </place>
+<note> 職業病個案診斷研究(二)(四)和環境與職業醫學實例討論(二)(四)合班 </note>
+</S7>
+
+<S7 id="108">
+<num>S7-108</num>
+<class> 博                             </class>
+<group></group>
+<name> 環境與職業醫學實例討論（四） </name>
+<teacher> 郭浩然  </teacher>
+<score> 1 </score>
+<time> [1]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note> 職業病個案診斷研究(二)(四)和環境與職業醫學實例討論(二)(四)合班 </note>
 </S7>
 
 </content>

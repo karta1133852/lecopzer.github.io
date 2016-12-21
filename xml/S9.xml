@@ -2,38 +2,38 @@
 <content>
 <S9 id="001">
 <num>S9-001</num>
-<class> 碩博                           </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 轉譯醫學（一） </name>
-<teacher> 呂佩融*  ,  沈延盛  </teacher>
-<score> 2 </score>
-<time> [1]9~A  </time>
-<must> 選修 </must>
+<name> 專題討論（二） </name>
+<teacher> 蔡曜聲*  ,  沈延盛   ,  許育祥   ,  修臥龍  </teacher>
+<score> 1 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 再生醫學科技學分學程；碩專必選；全英文。5:30上課 </note>
+<note></note>
 </S9>
 
 <S9 id="002">
 <num>S9-002</num>
-<class> 博一                           </class>
+<class> 碩二                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 張孔昭   ,  蘇文彬*  ,  顏家瑞   ,  蔡坤哲  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 蔡曜聲*  ,  沈延盛   ,  許育祥   ,  修臥龍  </teacher>
 <score> 1 </score>
-<time> [5]9~A  </time>
+<time> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 全英文 </note>
+<note></note>
 </S9>
 
 <S9 id="003">
 <num>S9-003</num>
-<class> 博二                           </class>
+<class> 博一                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 張孔昭   ,  蘇文彬*  ,  顏家瑞   ,  蔡坤哲  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 張孔昭   ,  顏家瑞   ,  蔡坤哲   ,  蘇文彬* </teacher>
 <score> 1 </score>
 <time> [5]9~A  </time>
 <must> 必修 </must>
@@ -44,11 +44,11 @@
 
 <S9 id="004">
 <num>S9-004</num>
-<class> 博三延                         </class>
+<class> 博二                           </class>
 <group></group>
-<name> 專題討論 </name>
-<teacher> 張孔昭   ,  蘇文彬*  ,  顏家瑞   ,  蔡坤哲  </teacher>
-<score> 0 </score>
+<name> 專題討論（四） </name>
+<teacher> 張孔昭   ,  顏家瑞   ,  蔡坤哲   ,  蘇文彬* </teacher>
+<score> 1 </score>
 <time> [5]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
@@ -58,48 +58,20 @@
 
 <S9 id="005">
 <num>S9-005</num>
-<class> 博                             </class>
+<class> 博三延                         </class>
 <group></group>
-<name> 臨床醫學研究專題討論 </name>
-<teacher> 謝奇璋* </teacher>
-<score> 2 </score>
-<time> [3]9~A  </time>
-<must> 選修 </must>
+<name> 專題討論 </name>
+<teacher> 張孔昭   ,  顏家瑞   ,  蔡坤哲   ,  蘇文彬* </teacher>
+<score> 0 </score>
+<time> [5]9~A  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 博二必選;與學術原創研究經驗談合班。5:30上課 </note>
+<note> 全英文 </note>
 </S9>
 
 <S9 id="006">
 <num>S9-006</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 蔡曜聲*  ,  沈延盛   ,  許育祥   ,  修臥龍  </teacher>
-<score> 1 </score>
-<time> [5]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note></note>
-</S9>
-
-<S9 id="007">
-<num>S9-007</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 蔡曜聲*  ,  沈延盛   ,  許育祥   ,  修臥龍  </teacher>
-<score> 1 </score>
-<time> [5]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note></note>
-</S9>
-
-<S9 id="008">
-<num>S9-008</num>
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
@@ -112,12 +84,138 @@
 <note></note>
 </S9>
 
+<S9 id="007">
+<num>S9-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 轉譯醫學與臨床試驗特論 </name>
+<teacher> 呂佩融*  ,  陳明晟  </teacher>
+<score> 2 </score>
+<time> [1]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 5:30p.m上課/全英文/碩班與碩專班必選/再生醫學科技學分學程 </note>
+</S9>
+
+<S9 id="008">
+<num>S9-008</num>
+<class> 碩                             </class>
+<group></group>
+<name> 分子細胞學（二） </name>
+<teacher> 蔡曜聲   ,  蔡坤哲* </teacher>
+<score> 2 </score>
+<time> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 再生醫學科技學分學程 </note>
+</S9>
+
 <S9 id="009">
 <num>S9-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 臨床研究方法(一)：臨床生物統計 </name>
-<teacher> 林聖翔* </teacher>
+<name> 再生醫學技術 </name>
+<teacher> 黃玲惠   ,  蔡坤哲* </teacher>
+<score> 2 </score>
+<time> [6]1~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 與高等儀器分析(二)合開，再生醫學科技學分學程 </note>
+</S9>
+
+<S9 id="010">
+<num>S9-010</num>
+<class> 博                             </class>
+<group></group>
+<name> 實用流行病學 </name>
+<teacher> 郭浩然*  ,  張志欽   ,  簡玉雯  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note></note>
+</S9>
+
+<S9 id="011">
+<num>S9-011</num>
+<class> 博                             </class>
+<group></group>
+<name> 細胞生物學特論（二） </name>
+<teacher> 鄭宏祺   ,  姜學誠   ,  顏賢章   ,  凌　斌   ,  張志鵬   ,  郭余民* </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note> 限博士生選課；再生醫學科技學分學程 </note>
+</S9>
+
+<S9 id="012">
+<num>S9-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 細胞訊息傳遞與新藥開發 </name>
+<teacher> 呂佩融*  ,  陳明晟   ,  修臥龍  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7023 </place>
+<note> 全英文/再生醫學科技學分學程 </note>
+</S9>
+
+<S9 id="013">
+<num>S9-013</num>
+<class> 碩                             </class>
+<group></group>
+<name> 生物技術特論（四） </name>
+<teacher> 江伯敏   ,  陳芃潔* </teacher>
+<score> 2 </score>
+<time> [3]3~N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 全英文 </note>
+</S9>
+
+<S9 id="014">
+<num>S9-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 細胞免疫 </name>
+<teacher> 謝奇璋*  ,  許育祥  </teacher>
+<score> 2 </score>
+<time> [3]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7050 </place>
+<note></note>
+</S9>
+
+<S9 id="015">
+<num>S9-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 心血管疾病機轉及治療趨勢概論 </name>
+<teacher> 劉秉彥* </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7023 </place>
+<note></note>
+</S9>
+
+<S9 id="016">
+<num>S9-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 臨床研究方法(二)：研究設計與臨床應用 </name>
+<teacher> 張志欽   ,  林聖翔* </teacher>
 <score> 2 </score>
 <time> [4]9~A  </time>
 <must> 選修 </must>
@@ -126,112 +224,42 @@
 <note> 碩專必選 </note>
 </S9>
 
-<S9 id="011">
-<num>S9-011</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 分子細胞學（一） </name>
-<teacher> 蔡曜聲*  ,  蔡坤哲  </teacher>
-<score> 2 </score>
-<time> [2]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 再生醫學科技學分學程;碩專必修,碩班必選 </note>
-</S9>
-
-<S9 id="012">
-<num>S9-012</num>
-<class> 博                             </class>
-<group></group>
-<name> 細胞生物學特論（一） </name>
-<teacher> 王憶卿   ,  張雋曦   ,  凌　斌   ,  郭余民*  ,  江美治   ,  王仰高  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        304D </place>
-<note> 限博士班學生選修。再生醫學科技學分學程。與基醫所合開。 </note>
-</S9>
-
-<S9 id="013">
-<num>S9-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 流行病學 </name>
-<teacher> 王榮德  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 與公衛所合開。 </note>
-</S9>
-
-<S9 id="014">
-<num>S9-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等儀器分析(一) </name>
-<teacher> 洪澤民*  ,  蔡坤哲  </teacher>
-<score> 2 </score>
-<time> [6]~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 與幹細胞技術合班上課;碩專必修;碩博選修;再生醫學科技學分學程。 </note>
-</S9>
-
-<S9 id="015">
-<num>S9-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 生物統計學 </name>
-<teacher> 王亮懿   ,  李中一* </teacher>
-<score> 2 </score>
-<time> [1]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 與公衛所合開。 </note>
-</S9>
-
-<S9 id="016">
-<num>S9-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等分子生物學 </name>
-<teacher> 呂佩融* </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7050 </place>
-<note> 前10堂在四講，後五堂在7050，全英文。再生醫學科技學分學程。 </note>
-</S9>
-
 <S9 id="017">
 <num>S9-017</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 生物資訊 </name>
-<teacher> 陳淑慧   ,  劉宗霖   ,  王育民   ,  曾大千   ,  蔡少正   ,  孫孝芳* </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
+<name> 腫瘤生物學特論 </name>
+<teacher> 洪澤民* </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        醫圖電腦教室 </place>
-<note> 與分醫所合開。 </note>
+<place> 門診大樓                      7023 </place>
+<note></note>
 </S9>
 
 <S9 id="018">
 <num>S9-018</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 分子技術學 </name>
-<teacher> 洪澤民* </teacher>
+<name> 神經退化致病機轉 </name>
+<teacher> 蔡坤哲* </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time> [3]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7023 </place>
+<note></note>
+</S9>
+
+<S9 id="019">
+<num>S9-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 臨床研究資料分析與軟體實務 </name>
+<teacher> 林聖翔* </teacher>
+<score> 2 </score>
+<time> [3]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
@@ -242,219 +270,91 @@
 <num>S9-020</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 腫瘤生物學 </name>
-<teacher> 洪澤民* </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
+<name> 分子腫瘤學書報討論（一） </name>
+<teacher> 洪澤民   ,  陳玉玲* </teacher>
+<score> 1 </score>
+<time> [4]5  </time>
 <must> 選修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place> 門診大樓                      7023 </place>
-<note></note>
+<note> 與口醫所合開 </note>
 </S9>
 
 <S9 id="021">
 <num>S9-021</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 人類疾病動物模式 </name>
-<teacher> 蔡坤哲* </teacher>
+<name> 科學論文寫作與報告 </name>
+<teacher> 呂佩融*  ,  陳明晟  </teacher>
 <score> 2 </score>
-<time> [4]9~A  </time>
+<time> [2]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7023 </place>
-<note> 再生醫學科技學分學程 </note>
+<place> 門診大樓                      7050 </place>
+<note> 全英文 </note>
 </S9>
 
 <S9 id="022">
 <num>S9-022</num>
-<class> 碩                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 學術原創研究經驗談 </name>
-<teacher> 謝奇璋* </teacher>
+<name> 高等儀器分析（二） </name>
+<teacher> 洪澤民   ,  蔡坤哲* </teacher>
 <score> 2 </score>
-<time> [3]9~A  </time>
+<time> [6]1~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 與博二臨床醫學研究專題討論合班;碩專必修。5:30上課 </note>
+<note> 再生醫學科技學分學程與再生醫學技術合開 </note>
 </S9>
 
-<S9 id="024">
-<num>S9-024</num>
+<S9 id="023">
+<num>S9-023</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 幹細胞技術 </name>
-<teacher> 黃玲惠*  ,  蔡坤哲  </teacher>
-<score> 2 </score>
-<time> [6]1~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 與高等儀器分析（一）合班上課 。再生醫學科技學分學程 </note>
-</S9>
-
-<S9 id="025">
-<num>S9-025</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 幹細胞生物學 </name>
-<teacher> 江伯敏* </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 全英文授課。 </note>
-</S9>
-
-<S9 id="026">
-<num>S9-026</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 細胞死亡與疾病 </name>
-<teacher> 呂佩融*  ,  謝奇璋   ,  陳明晟   ,  修臥龍  </teacher>
-<score> 2 </score>
-<time> [2]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7023 </place>
-<note> 每週上課，全英文 </note>
-</S9>
-
-<S9 id="028">
-<num>S9-028</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 免疫學 </name>
-<teacher> 林以行*  ,  凌　斌   ,  張志鵬   ,  謝奇璋  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        604 </place>
-<note> 與微免所合班 </note>
-</S9>
-
-<S9 id="029">
-<num>S9-029</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 實驗動物學 </name>
-<teacher> 蔡曜聲* </teacher>
-<score> 2 </score>
-<time> [1]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        602 </place>
-<note></note>
-</S9>
-
-<S9 id="030">
-<num>S9-030</num>
-<class> 碩                             </class>
-<group></group>
-<name> 生物技術特論（三） </name>
-<teacher> 江伯敏   ,  陳芃潔* </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7023 </place>
-<note> 全英文授課。 </note>
-</S9>
-
-<S9 id="031">
-<num>S9-031</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 人類遺傳流行病學與基因體資料分析（二） </name>
-<teacher> 蘇美慈   ,  張惠華   ,  林聖翔*  ,  陳芃潔  </teacher>
-<score> 1 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 與臨藥所合開 </note>
-</S9>
-
-<S9 id="033">
-<num>S9-033</num>
-<class></class>
-<group></group>
-<name> 實驗室實習 </name>
-<teacher> 蔡坤哲*  ,  謝奇璋  </teacher>
-<score> 1 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</S9>
-
-<S9 id="034">
-<num>S9-034</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 免疫新知及其在癌症及免疫疾病的應用 </name>
-<teacher> 蘇文彬*  ,  許育祥  </teacher>
+<name> 單株抗體的臨床運用－在癌症及免疫等疾病 </name>
+<teacher> 謝奇璋   ,  許育祥*  ,  蘇文彬  </teacher>
 <score> 1 </score>
 <time> [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7023 </place>
+<place> 門診大樓                      7050 </place>
 <note></note>
-</S9>
-
-<S9 id="035">
-<num>S9-035</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 醫療器材創新設計（一） </name>
-<teacher> 陳家進   ,  葉明龍   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  許育祥   ,  李澤民  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5734 </place>
-<note> 醫工所、口醫所合開 </note>
 </S9>
 
 <S9 id="301">
 <num>S9-301</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 轉譯醫學（一） </name>
-<teacher> 呂佩融*  ,  沈延盛  </teacher>
+<name> 分子細胞學（二） </name>
+<teacher> 蔡曜聲   ,  蔡坤哲* </teacher>
 <score> 2 </score>
-<time> [1]9~A  </time>
-<must> 選修 </must>
+<time> [2]9~A  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 再生醫學科技學分學程；碩專必選；全英文。5:30上課 </note>
+<note> 再生醫學科技學分學程 </note>
 </S9>
 
 <S9 id="302">
 <num>S9-302</num>
-<class> 碩專一                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 許耿福   ,  呂佩融*  ,  林聖翔   ,  江伯敏  </teacher>
-<score> 1 </score>
-<time> [5]9~A  </time>
-<must> 必修 </must>
+<name> 高等儀器分析（二） </name>
+<teacher> 洪澤民   ,  蔡坤哲* </teacher>
+<score> 2 </score>
+<time> [6]1~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7023 </place>
-<note></note>
+<place> 門診大樓                      7027 </place>
+<note> 再生醫學科技學分學程與再生醫學技術合開 </note>
 </S9>
 
 <S9 id="303">
 <num>S9-303</num>
-<class> 碩專二                         </class>
+<class> 碩專一                         </class>
 <group></group>
-<name> 專題討論（三） </name>
+<name> 專題討論（二） </name>
 <teacher> 許耿福   ,  呂佩融*  ,  林聖翔   ,  江伯敏  </teacher>
 <score> 1 </score>
 <time> [5]9~A  </time>
@@ -466,6 +366,90 @@
 
 <S9 id="304">
 <num>S9-304</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 許耿福   ,  呂佩融*  ,  林聖翔   ,  江伯敏  </teacher>
+<score> 1 </score>
+<time> [5]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7023 </place>
+<note></note>
+</S9>
+
+<S9 id="305">
+<num>S9-305</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 轉譯醫學與臨床試驗特論 </name>
+<teacher> 呂佩融*  ,  陳明晟  </teacher>
+<score> 2 </score>
+<time> [1]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 5:30p.m上課/全英文/碩班與碩專班必選/再生醫學科技學分學程 </note>
+</S9>
+
+<S9 id="306">
+<num>S9-306</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 細胞免疫 </name>
+<teacher> 謝奇璋*  ,  許育祥  </teacher>
+<score> 2 </score>
+<time> [3]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7050 </place>
+<note></note>
+</S9>
+
+<S9 id="307">
+<num>S9-307</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 再生醫學技術 </name>
+<teacher> 黃玲惠   ,  蔡坤哲* </teacher>
+<score> 2 </score>
+<time> [6]1~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 與高等儀器分析(二)合開，再生醫學科技學分學程 </note>
+</S9>
+
+<S9 id="308">
+<num>S9-308</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 臨床研究方法(二)：研究設計與臨床應用 </name>
+<teacher> 張志欽   ,  林聖翔* </teacher>
+<score> 2 </score>
+<time> [4]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 碩專必選 </note>
+</S9>
+
+<S9 id="309">
+<num>S9-309</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 細胞訊息傳遞與新藥開發 </name>
+<teacher> 呂佩融*  ,  陳明晟   ,  修臥龍  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7023 </place>
+<note> 全英文/再生醫學科技學分學程 </note>
+</S9>
+
+<S9 id="310">
+<num>S9-310</num>
 <class> 碩專延三                       </class>
 <group></group>
 <name> 專題討論 </name>
@@ -478,228 +462,102 @@
 <note></note>
 </S9>
 
-<S9 id="305">
-<num>S9-305</num>
+<S9 id="311">
+<num>S9-311</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 學術原創研究經驗談 </name>
-<teacher> 謝奇璋* </teacher>
-<score> 2 </score>
-<time> [3]9~A  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 博二臨床醫學研究專題討論合班;碩專必修 </note>
-</S9>
-
-<S9 id="306">
-<num>S9-306</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 臨床研究方法(一)：臨床生物統計 </name>
-<teacher> 林聖翔* </teacher>
-<score> 2 </score>
-<time> [4]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 碩專必選 </note>
-</S9>
-
-<S9 id="307">
-<num>S9-307</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 分子細胞學（一） </name>
-<teacher> 蔡曜聲*  ,  蔡坤哲  </teacher>
-<score> 2 </score>
-<time> [2]9~A  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 再生醫學科技學分學程;碩專必修,碩班必選 </note>
-</S9>
-
-<S9 id="308">
-<num>S9-308</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 高等儀器分析（一） </name>
-<teacher> 洪澤民*  ,  蔡坤哲  </teacher>
-<score> 2 </score>
-<time> [6]1~9  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 與幹細胞技術合班上課;碩專必修;碩博選修;再生醫學科技學分學程。 </note>
-</S9>
-
-<S9 id="309">
-<num>S9-309</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 分子技術學 </name>
+<name> 腫瘤生物學特論 </name>
 <teacher> 洪澤民* </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7027 </place>
+<place> 門診大樓                      7023 </place>
 <note></note>
-</S9>
-
-<S9 id="310">
-<num>S9-310</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 生物資訊 </name>
-<teacher> 陳淑慧   ,  劉宗霖   ,  王育民   ,  曾大千   ,  蔡少正   ,  孫孝芳* </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        醫圖電腦教室 </place>
-<note> 與分醫所合開。 </note>
 </S9>
 
 <S9 id="312">
 <num>S9-312</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 高等分子生物學 </name>
-<teacher> 呂佩融* </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
+<name> 神經退化致病機轉 </name>
+<teacher> 蔡坤哲* </teacher>
+<score> 2 </score>
+<time> [3]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7050 </place>
-<note> 前10堂在四講，後五堂在7050，全英文。再生醫學科技學分學程。 </note>
+<place> 門診大樓                      7023 </place>
+<note></note>
 </S9>
 
 <S9 id="313">
 <num>S9-313</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 腫瘤生物學 </name>
-<teacher> 洪澤民* </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
+<name> 分子腫瘤學書報討論（一） </name>
+<teacher> 洪澤民   ,  陳玉玲* </teacher>
+<score> 1 </score>
+<time> [4]5  </time>
 <must> 選修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place> 門診大樓                      7023 </place>
-<note></note>
-</S9>
-
-<S9 id="314">
-<num>S9-314</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 人類疾病動物模式 </name>
-<teacher> 蔡坤哲* </teacher>
-<score> 2 </score>
-<time> [4]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7023 </place>
-<note> 再生醫學科技學分學程 </note>
+<note> 與口醫所合開 </note>
 </S9>
 
 <S9 id="315">
 <num>S9-315</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 流行病學 </name>
-<teacher> 王榮德  </teacher>
+<name> 臨床研究資料分析與軟體實務 </name>
+<teacher> 林聖翔* </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time> [3]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 與公衛所合開。 </note>
+<place> 門診大樓                      7027 </place>
+<note></note>
 </S9>
 
 <S9 id="316">
 <num>S9-316</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 生物統計學 </name>
-<teacher> 王亮懿   ,  李中一* </teacher>
+<name> 心血管疾病機轉及治療趨勢概論 </name>
+<teacher> 劉秉彥* </teacher>
 <score> 2 </score>
-<time> [1]3~4  </time>
+<time> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 與公衛所合開。 </note>
+<place> 門診大樓                      7023 </place>
+<note></note>
 </S9>
 
 <S9 id="317">
 <num>S9-317</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 細胞死亡與疾病 </name>
-<teacher> 呂佩融*  ,  謝奇璋   ,  陳明晟   ,  修臥龍  </teacher>
+<name> 科學論文寫作與報告 </name>
+<teacher> 呂佩融*  ,  陳明晟  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time> [2]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7023 </place>
-<note> 全英文。每周上課。 </note>
+<place> 門診大樓                      7050 </place>
+<note> 全英文 </note>
 </S9>
 
 <S9 id="318">
 <num>S9-318</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 實驗動物學 </name>
-<teacher> 蔡曜聲* </teacher>
-<score> 2 </score>
-<time> [1]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        602 </place>
-<note></note>
-</S9>
-
-<S9 id="319">
-<num>S9-319</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 人類遺傳流行病學與基因體資料分析（二） </name>
-<teacher> 蘇美慈   ,  張惠華   ,  林聖翔*  ,  陳芃潔  </teacher>
-<score> 1 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7027 </place>
-<note> 與臨藥所合開 </note>
-</S9>
-
-<S9 id="320">
-<num>S9-320</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 免疫新知及其在癌症及免疫疾病的應用 </name>
-<teacher> 蘇文彬*  ,  許育祥  </teacher>
+<name> 單株抗體的臨床運用－在癌症及免疫等疾病 </name>
+<teacher> 謝奇璋   ,  許育祥*  ,  蘇文彬  </teacher>
 <score> 1 </score>
 <time> [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7023 </place>
+<place> 門診大樓                      7050 </place>
 <note></note>
-</S9>
-
-<S9 id="321">
-<num>S9-321</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 醫療器材創新設計（一） </name>
-<teacher> 陳家進   ,  葉明龍   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  許育祥   ,  李澤民  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5734 </place>
-<note> 醫工所、口醫所合開 </note>
 </S9>
 
 </content>

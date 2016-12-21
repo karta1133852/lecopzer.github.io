@@ -2,142 +2,142 @@
 <content>
 <N9 id="001">
 <num>N9-001</num>
-<class> 碩博一                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 廖德祿  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 陳昭羽  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41102 </place>
-<note> 限控制與通訊研一學生選修 </note>
+<note> 限控制與通訊研一 </note>
 </N9>
 
 <N9 id="002">
 <num>N9-002</num>
-<class> 碩博一                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 黃悅民  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 賴槿峰  </teacher>
+<score> 0 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 工科系館                      41104 </place>
+<note> 限資訊與應用研一 </note>
+</N9>
+
+<N9 id="003">
+<num>N9-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 潘文峰  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41103 </place>
-<note> 限資訊與應用研一學生選修 </note>
-</N9>
-
-<N9 id="003">
-<num>N9-003</num>
-<class> 碩博一                         </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 李輝煌  </teacher>
-<score> 0 </score>
-<time> [4]6~7  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 工科系館                      41111 </place>
-<note> 限應用力學固力研一學生選修 </note>
+<note> 限應用力學固力研一 </note>
 </N9>
 
 <N9 id="004">
 <num>N9-004</num>
-<class> 碩博一                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 趙隆山  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 楊瑞珍  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41122 </place>
-<note> 限應用力學熱流研一學生選修 </note>
+<place> 工科系館                      41101 </place>
+<note> 限應用力學熱流研一 </note>
 </N9>
 
 <N9 id="005">
 <num>N9-005</num>
-<class> 碩博一                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 專題討論（二） </name>
 <teacher> 黃吉川  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41220 </place>
-<note> 限量子電腦、系統整合、生醫光電等研一學生選修 </note>
+<place> 工科系館                      41122 </place>
+<note> 限量子電腦、系統整合及生醫光電研一 </note>
 </N9>
 
 <N9 id="006">
 <num>N9-006</num>
-<class> 碩博二                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 廖德祿  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 陳昭羽  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41102 </place>
-<note> 限控制與通訊研二學生選修 </note>
+<note> 限控制與通訊組研二 </note>
 </N9>
 
 <N9 id="007">
 <num>N9-007</num>
-<class> 碩博二                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 黃悅民  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 賴槿峰  </teacher>
+<score> 0 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 工科系館                      41104 </place>
+<note> 限資訊與應用研二 </note>
+</N9>
+
+<N9 id="008">
+<num>N9-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 潘文峰  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41103 </place>
-<note> 限資訊與應用研二學生選修 </note>
-</N9>
-
-<N9 id="008">
-<num>N9-008</num>
-<class> 碩博二                         </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 李輝煌  </teacher>
-<score> 0 </score>
-<time> [4]6~7  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 工科系館                      41111 </place>
-<note> 限應用力學固力組研二學生選修 </note>
+<note> 限應用力學固力研二 </note>
 </N9>
 
 <N9 id="009">
 <num>N9-009</num>
-<class> 碩博二                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 趙隆山  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 楊瑞珍  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41122 </place>
-<note> 限應用力學熱流研二學生選修 </note>
+<place> 工科系館                      41101 </place>
+<note> 限應用力學熱流研二 </note>
 </N9>
 
 <N9 id="010">
 <num>N9-010</num>
-<class> 碩博二                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（三） </name>
+<name> 專題討論（四） </name>
 <teacher> 黃吉川  </teacher>
 <score> 0 </score>
 <time> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41220 </place>
-<note> 限量子電腦系統整合生醫光電研二學生選修 </note>
+<place> 工科系館                      41122 </place>
+<note> 限量子電腦、系統整合及生醫光電研二 </note>
 </N9>
 
 <N9 id="011">
@@ -151,42 +151,42 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41X01 </place>
-<note> 限研三以上學生選修 </note>
+<note> 限碩博班研二以上 </note>
 </N9>
 
-<N9 id="014">
-<num>N9-014</num>
+<N9 id="034">
+<num>N9-034</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 微機電製程技術 </name>
-<teacher> 林裕城  </teacher>
+<name> 奈米材料分析與實作 </name>
+<teacher> 林光儀  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41122 </place>
+<place> 工科系館                      41104 </place>
 <note></note>
 </N9>
 
-<N9 id="015">
-<num>N9-015</num>
+<N9 id="040">
+<num>N9-040</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 半導體製程技術 </name>
-<teacher> 王英郎   ,  侯廷偉* </teacher>
+<name> 複合材料力學 </name>
+<teacher> 王榮泰  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41X01 </place>
+<place> 工科系館                      41101 </place>
 <note></note>
 </N9>
 
-<N9 id="016">
-<num>N9-016</num>
+<N9 id="041">
+<num>N9-041</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 固體力學（一） </name>
+<name> 有限元素法（一） </name>
 <teacher> 陳蓉珊  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
@@ -196,193 +196,25 @@
 <note></note>
 </N9>
 
-<N9 id="017">
-<num>N9-017</num>
+<N9 id="047">
+<num>N9-047</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高等數值分析 </name>
-<teacher> 王榮泰  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41101 </place>
-<note></note>
-</N9>
-
-<N9 id="018">
-<num>N9-018</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 物理流體力學 </name>
-<teacher> 吳毓庭  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41107 </place>
-<note></note>
-</N9>
-
-<N9 id="020">
-<num>N9-020</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等工程數學 </name>
-<teacher> 吳毓庭  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41103 </place>
-<note></note>
-</N9>
-
-<N9 id="021">
-<num>N9-021</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 通訊系統與模擬 </name>
-<teacher> 卿文龍  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41103 </place>
-<note></note>
-</N9>
-
-<N9 id="023">
-<num>N9-023</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 奈米製程技術與實作 </name>
-<teacher> 鍾崇仁* </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41102 </place>
-<note></note>
-</N9>
-
-<N9 id="024">
-<num>N9-024</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 智慧型機器人 </name>
-<teacher> 周榮華  </teacher>
-<score> 3 </score>
-<time> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41122 </place>
-<note></note>
-</N9>
-
-<N9 id="025">
-<num>N9-025</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 人工智慧 </name>
-<teacher> 王宗一  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41111 </place>
-<note></note>
-</N9>
-
-<N9 id="026">
-<num>N9-026</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 數位信號處理 </name>
-<teacher> 何明字  </teacher>
-<score> 3 </score>
-<time> [1]8  ,  [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41103 </place>
-<note></note>
-</N9>
-
-<N9 id="027">
-<num>N9-027</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 塑性變形理論 </name>
-<teacher> 潘文峰  </teacher>
-<score> 3 </score>
-<time> [4]3~N  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41122 </place>
-<note></note>
-</N9>
-
-<N9 id="028">
-<num>N9-028</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 機器學習專論 </name>
-<teacher> 黃悅民  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41102 </place>
-<note></note>
-</N9>
-
-<N9 id="030">
-<num>N9-030</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 神經元晶片系統特論 </name>
-<teacher> 黃吉川  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41103 </place>
-<note></note>
-</N9>
-
-<N9 id="031">
-<num>N9-031</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 數位影像處理 </name>
+<name> 圖訊識別 </name>
 <teacher> 王明習  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41101 </place>
+<place> 工科系館                      41122 </place>
 <note></note>
 </N9>
 
-<N9 id="032">
-<num>N9-032</num>
+<N9 id="051">
+<num>N9-051</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 凝固導論 </name>
-<teacher> 趙隆山  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41111 </place>
-<note></note>
-</N9>
-
-<N9 id="034">
-<num>N9-034</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 工程量子物理導論 </name>
+<name> 量子資訊處理 </name>
 <teacher> 李哲明  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
@@ -392,116 +224,228 @@
 <note></note>
 </N9>
 
-<N9 id="035">
-<num>N9-035</num>
+<N9 id="053">
+<num>N9-053</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 組織工程 </name>
-<teacher> 曾淑芬   ,  黃玲惠   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  林聖哲   ,  周一鳴   ,  李澤民   ,  吳佳慶  </teacher>
+<name> 計算熱流學 </name>
+<teacher> 趙隆山  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41111 </place>
+<note></note>
+</N9>
+
+<N9 id="055">
+<num>N9-055</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微奈米尺度輸送現象 </name>
+<teacher> 楊瑞珍  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note></note>
+</N9>
+
+<N9 id="056">
+<num>N9-056</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 資料探勘 </name>
+<teacher> 鄧維光  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note></note>
+</N9>
+
+<N9 id="058">
+<num>N9-058</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 應用熱力學 </name>
+<teacher> 劉中堅  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5725 </place>
-<note> 生科所，醫工所，工科所合班 </note>
-</N9>
-
-<N9 id="037">
-<num>N9-037</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 氣體動力學 </name>
-<teacher> 劉中堅  </teacher>
-<score> 3 </score>
-<time> [4]4~5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41220 </place>
+<place> 工科系館                      41111 </place>
 <note></note>
 </N9>
 
-<N9 id="038">
-<num>N9-038</num>
+<N9 id="060">
+<num>N9-060</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 平行計算在偏微分方程式之應用 </name>
-<teacher> 吳毓庭  </teacher>
+<name> 異質系統架構程式設計與實作 </name>
+<teacher> 賴槿峰  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note></note>
+</N9>
+
+<N9 id="062">
+<num>N9-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數位學習專論 </name>
+<teacher> 黃悅民  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note></note>
+</N9>
+
+<N9 id="065">
+<num>N9-065</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 流場控制學 </name>
+<teacher> 周榮華  </teacher>
+<score> 3 </score>
+<time> [2]N~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note></note>
+</N9>
+
+<N9 id="066">
+<num>N9-066</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創意物聯網應用設計 </name>
+<teacher> 賴槿峰  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note></note>
+</N9>
+
+<N9 id="070">
+<num>N9-070</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 田口式品質設計方法 </name>
+<teacher> 李輝煌  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41102 </place>
+<note></note>
+</N9>
+
+<N9 id="072">
+<num>N9-072</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 深度學習 </name>
+<teacher> 黃吉川  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41103 </place>
 <note></note>
 </N9>
 
-<N9 id="040">
-<num>N9-040</num>
+<N9 id="092">
+<num>N9-092</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 雲端資料處理與方法 </name>
-<teacher> 賴槿峰  </teacher>
+<name> 醫學工程概論 </name>
+<teacher> 陳家進*  ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  周有禮   ,  黃執中   ,  郭榮富   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41122 </place>
-<note> 限大三四及碩博 </note>
+<place> 醫技醫工館                    5734 </place>
+<note> 工科所醫工所合班 </note>
+</N9>
+
+<N9 id="096">
+<num>N9-096</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 振動力學 </name>
+<teacher> 王榮泰  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41101 </place>
+<note></note>
 </N9>
 
 <N9 id="309">
 <num>N9-309</num>
-<class> 碩專一                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 專題討論（二） </name>
 <teacher> 王明習  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41122 </place>
-<note> 限本系碩專班甲組研一學生選修 </note>
+<note> 限工科系碩專班甲組研一 </note>
 </N9>
 
 <N9 id="311">
 <num>N9-311</num>
-<class> 碩專一                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 林裕城  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 趙隆山  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41220 </place>
-<note> 限本系碩專班乙組研一學生選修 </note>
+<note> 限工科系碩專班乙組研一 </note>
 </N9>
 
 <N9 id="313">
 <num>N9-313</num>
-<class> 碩專二                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 專題討論（三） </name>
+<name> 專題討論（四） </name>
 <teacher> 王明習  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41122 </place>
-<note> 限本系碩專班甲組研二學生選修 </note>
+<note> 限工科系碩專班甲組研二 </note>
 </N9>
 
 <N9 id="315">
 <num>N9-315</num>
-<class> 碩專二                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 林裕城  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 趙隆山  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41220 </place>
-<note> 限本系碩專班乙組研二學生選修 </note>
+<note> 限工科系碩專班乙組研二 </note>
 </N9>
 
 <N9 id="316">
@@ -509,181 +453,167 @@
 <class> 碩專延三                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 侯廷偉*  ,  趙隆山  </teacher>
+<teacher> 侯廷偉*  ,  王宗一  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41104 </place>
-<note> 限本系碩專班研三以上學生選修 </note>
+<note> 限工科系碩專班研二以上 </note>
 </N9>
 
-<N9 id="321">
-<num>N9-321</num>
+<N9 id="317">
+<num>N9-317</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 電子構裝導論 </name>
-<teacher> 周榮華  </teacher>
-<score> 3 </score>
-<time> [2]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41122 </place>
-<note> 限本系專班學生選修 </note>
-</N9>
-
-<N9 id="322">
-<num>N9-322</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 振動力學 </name>
-<teacher> 王榮泰  </teacher>
-<score> 3 </score>
-<time> [3]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41122 </place>
-<note> 限本系專班學生選修 </note>
-</N9>
-
-<N9 id="323">
-<num>N9-323</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 電腦輔助工程分析與設計 </name>
+<name> 田口式品質設計方法 </name>
 <teacher> 李輝煌  </teacher>
 <score> 3 </score>
 <time> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41102 </place>
-<note> 限本系專班學生選修 </note>
+<note> 限碩專班學生選修 </note>
 </N9>
 
-<N9 id="324">
-<num>N9-324</num>
+<N9 id="318">
+<num>N9-318</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 企業資料通訊 </name>
-<teacher> 鄧維光  </teacher>
+<name> 微機電製程技術 </name>
+<teacher> 林裕城  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41220 </place>
+<note> 限工科系碩專班學生選修 </note>
+</N9>
+
+<N9 id="319">
+<num>N9-319</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 封裝固力導論 </name>
+<teacher> 潘文峰  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
-<note> 限本系碩專班學生 </note>
+<note> 限工科系碩專班學生選修 </note>
 </N9>
 
-<N9 id="325">
-<num>N9-325</num>
+<N9 id="320">
+<num>N9-320</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 物件導向程式設計 </name>
+<name> 網路程式設計 </name>
 <teacher> 王宗一  </teacher>
 <score> 3 </score>
 <time> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
-<note> 限本系專班學生選修 </note>
+<note> 限工科系碩專班學生選修 </note>
+</N9>
+
+<N9 id="321">
+<num>N9-321</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 知識管理 </name>
+<teacher> 陳澤生  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41111 </place>
+<note> 限工科系碩專班學生選修 </note>
+</N9>
+
+<N9 id="323">
+<num>N9-323</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 創新與產業趨勢 </name>
+<teacher> 周榮華  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41122 </place>
+<note> 限工科系碩專班學生選修 </note>
+</N9>
+
+<N9 id="325">
+<num>N9-325</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 數位家庭：技術與應用 </name>
+<teacher> 侯廷偉  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41104 </place>
+<note> 限工科系碩專班學生選修 </note>
 </N9>
 
 <N9 id="326">
 <num>N9-326</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 電腦視覺 </name>
-<teacher> 王明習  </teacher>
+<name> 資料庫系統 </name>
+<teacher> 鄧維光  </teacher>
 <score> 3 </score>
 <time> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41220 </place>
-<note> 限本系專班學生選修 </note>
-</N9>
-
-<N9 id="327">
-<num>N9-327</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 軟體工程 </name>
-<teacher> 侯廷偉  </teacher>
-<score> 3 </score>
-<time> [1]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41220 </place>
-<note> 限本系專班學生選修 </note>
-</N9>
-
-<N9 id="328">
-<num>N9-328</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 光電構裝 </name>
-<teacher> 周榮華  </teacher>
-<score> 3 </score>
-<time> [5]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41220 </place>
-<note> 限本系碩專班學生 </note>
+<place> 工科系館                      41104 </place>
+<note> 限工科系碩專班學生選修 </note>
 </N9>
 
 <N9 id="329">
 <num>N9-329</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 機器人學 </name>
-<teacher> 王明習  </teacher>
-<score> 3 </score>
-<time> [2]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41220 </place>
-<note> 限本系碩專班學生 </note>
-</N9>
-
-<N9 id="330">
-<num>N9-330</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 半導體材料科學 </name>
+<name> 電子構裝熱傳分析 </name>
 <teacher> 趙隆山  </teacher>
 <score> 3 </score>
 <time> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41111 </place>
-<note> 限本系專班學生選修 </note>
+<note> 限工科系碩專班學生選修 </note>
 </N9>
 
-<N9 id="332">
-<num>N9-332</num>
+<N9 id="330">
+<num>N9-330</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 網路嵌入式系統應用 </name>
+<name> 資料隱藏技術 </name>
+<teacher> 王明習  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41220 </place>
+<note> 限工科系碩專班學生選修 </note>
+</N9>
+
+<N9 id="331">
+<num>N9-331</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 嵌入式異質多核心系統 </name>
 <teacher> 黃悅民  </teacher>
 <score> 3 </score>
 <time> [5]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
-<note> 限本系專班學生選修 </note>
-</N9>
-
-<N9 id="340">
-<num>N9-340</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 管理資訊系統 </name>
-<teacher> 陳澤生  </teacher>
-<score> 3 </score>
-<time> [2]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41102 </place>
-<note> 限本系專班學生選修 </note>
+<note> 限工科系碩專班學生選修 </note>
 </N9>
 
 </content>

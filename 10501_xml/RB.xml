@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<RB id="001">
+<num>RB-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 體育健康與休閒研究法 </name>
+<teacher> 林麗娟   ,  周學雯*  ,  王駿濠  </teacher>
+<score> 3 </score>
+<time> [5]1~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 基礎專業：共同必修 </note>
+</RB>
+
+<RB id="002">
+<num>RB-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 黃滄海  </teacher>
+<score> 1 </score>
+<time> [5]4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 基礎專業：共同必修（ 碩一、碩二合班） </note>
+</RB>
+
+<RB id="003">
+<num>RB-003</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 黃滄海  </teacher>
+<score> 1 </score>
+<time> [5]4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 基礎專業：共同必修（ 碩一、碩二合班） </note>
+</RB>
+
+<RB id="004">
+<num>RB-004</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 運動生物力學 </name>
+<teacher> 鄭匡佑*  ,  邱宏達  </teacher>
+<score> 3 </score>
+<time> [4]4  ,  [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 運動科技產業領域核心專業課程；上課地點：中正堂貴賓室；星期三2學分採英文上課 </note>
+</RB>
+
+<RB id="005">
+<num>RB-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 應用數學與程式設計概論 </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點:中正堂貴賓室 </note>
+</RB>
+
+<RB id="006">
+<num>RB-006</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 運動生理學(含實驗) </name>
+<teacher> 黃滄海   ,  蔡佳良*  ,  王駿濠  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 核心專業課程：運動科技產業、健康管理領域 </note>
+</RB>
+
+<RB id="007">
+<num>RB-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 休閒遊憩管理概論 </name>
+<teacher> 徐珊惠   ,  周學雯* </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 休閒管理領域核心專業課程 </note>
+</RB>
+
+<RB id="008">
+<num>RB-008</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 健身運動器材功能設計 </name>
+<teacher> 邱宏達  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 專業選修課程：運動科技產業領域、健康管理領域／上課地點:中正堂貴賓室 </note>
+</RB>
+
+<RB id="009">
+<num>RB-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 運動場地與休閒設施規劃與管理 </name>
+<teacher> 黃賢哲   ,  葉公鼎   ,  馬上鈞* </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 休閒管理領域專業選修課程； </note>
+</RB>
+
+<RB id="010">
+<num>RB-010</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 運動產業實務專題討論 </name>
+<teacher> 林麗娟*  ,  馬上鈞  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 限有前往新加坡南洋理工交換之學生修習 </note>
+</RB>
+
+<RB id="013">
+<num>RB-013</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 運動科學與休閒管理研究法 </name>
+<teacher> 林麗娟   ,  周學雯*  ,  王駿濠  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 必修課程；限碩專選修 </note>
+</RB>
+
+<RB id="014">
+<num>RB-014</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 周學雯  </teacher>
+<score> 1 </score>
+<time> [6]8~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 必修課程；限碩專選修 </note>
+</RB>
+
+<RB id="015">
+<num>RB-015</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 休閒遊憩管理概論 </name>
+<teacher> 徐珊惠   ,  周學雯   ,  馬上鈞* </teacher>
+<score> 3 </score>
+<time> [6]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 核心專業課程；限碩專選修 </note>
+</RB>
+
+<RB id="016">
+<num>RB-016</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 健身運動器材功能設計 </name>
+<teacher> 邱宏達  </teacher>
+<score> 2 </score>
+<time> [3]A~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 專業選修課程；限碩專選修　 </note>
+</RB>
+
+<RB id="017">
+<num>RB-017</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 碩士論文（一） </name>
+<teacher> 黃滄海  </teacher>
+<score> 0 </score>
+<time> [5]4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 管理學院                      62X02 </place>
+<note> 不限碩專生選修 </note>
+</RB>
+
+</content>

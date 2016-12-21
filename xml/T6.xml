@@ -1,63 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<T6 id="007">
-<num>T6-007</num>
-<class> 碩二                           </class>
+<T6 id="001">
+<num>T6-001</num>
+<class> 碩一                           </class>
 <group></group>
-<name> 物理治療專題討論（三） </name>
+<name> 物理治療專題討論（二） </name>
 <teacher> 卓瓊鈺   ,  林桑伊*  ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 物治系館                      B02 </place>
-<note> 全體教師合上 </note>
+<note></note>
 </T6>
 
-<T6 id="009">
-<num>T6-009</num>
-<class> 碩博                           </class>
+<T6 id="005">
+<num>T6-005</num>
+<class> 碩二                           </class>
 <group></group>
-<name> 教學實習 </name>
-<teacher> 林桑伊*  ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
-<score> 0 </score>
-<time> [2]N  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place> 物治系館                      B02 </place>
-<note> 限本系學生 </note>
-</T6>
-
-<T6 id="011">
-<num>T6-011</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 物理治療專題討論（一） </name>
-<teacher> 卓瓊鈺   ,  林桑伊*  ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
+<name> 物理治療專題討論（四） </name>
+<teacher> 林桑伊*  ,  林呈鳳  </teacher>
 <score> 1 </score>
 <time> [4]7~8  </time>
-<must> 必修 </must>
+<must> 選修 </must>
 <type> 研討 </type>
-<place> 物治系館                      B02 </place>
-<note> 全體教師合上 </note>
-</T6>
-
-<T6 id="013">
-<num>T6-013</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 物理治療研究方法學 </name>
-<teacher> 徐碧真  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
 <place> 物治系館                      B02 </place>
 <note></note>
 </T6>
 
-<T6 id="019">
-<num>T6-019</num>
+<T6 id="009">
+<num>T6-009</num>
+<class> 碩                             </class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 陳文玲   ,  卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        物治207 </place>
+<note></note>
+</T6>
+
+<T6 id="010">
+<num>T6-010</num>
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
@@ -67,49 +53,69 @@
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 物治系館                      B02 </place>
-<note> 全體教師合上 </note>
-</T6>
-
-<T6 id="020">
-<num>T6-020</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 生物統計 </name>
-<teacher> 王亮懿   ,  李中一* </teacher>
-<score> 2 </score>
-<time> [1]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
 <note></note>
 </T6>
 
-<T6 id="037">
-<num>T6-037</num>
+<T6 id="021">
+<num>T6-021</num>
 <class> 碩                             </class>
 <group></group>
-<name> 資料程式分析 </name>
-<teacher> 楊政峰  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
+<name> 神經物理治療專題研究 </name>
+<teacher> 卓瓊鈺  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 物治系館                      B02 </place>
+<place> 醫學院                        物治207 </place>
 <note></note>
 </T6>
 
-<T6 id="038">
-<num>T6-038</num>
-<class> 碩博                           </class>
+<T6 id="026">
+<num>T6-026</num>
+<class></class>
 <group></group>
-<name> 長期照護之運動與健康促進 </name>
-<teacher> 洪菁霞* </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
+<name> 小兒物理治療專題 </name>
+<teacher> 成戎珠  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 物治系館                      B02 </place>
-<note> 本所與物治所合開。 </note>
+<place> 物治系館                      206 </place>
+<note></note>
+</T6>
+
+<T6 id="027">
+<num>T6-027</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 骨科物理治療臨床實習與研究（二） </name>
+<teacher> 蔡一如  </teacher>
+<score> 2 </score>
+<time> [3]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治207 </place>
+<note></note>
+<class1> 碩一二                         </class1>
+<group1></group1>
+<name1> 骨科物理治療臨床實習與研究（二） </name1>
+<time1> [3]6~8  </time1>
+<place1> 醫學院                        物治207 </place1>
+<note1></note1>
+</T6>
+
+<T6 id="030">
+<num>T6-030</num>
+<class></class>
+<group></group>
+<name> 老人物理治療評估學 </name>
+<teacher> 卓瓊鈺  </teacher>
+<score> 3 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治207 </place>
+<note></note>
 </T6>
 
 </content>

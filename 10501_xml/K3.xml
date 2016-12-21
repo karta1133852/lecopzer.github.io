@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K3 id="008">
+<num>K3-008</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高級史學英文（一） </name>
+<teacher> 張勝柏  </teacher>
+<score> 0 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7110 </place>
+<note></note>
+</K3>
+
+<K3 id="009">
+<num>K3-009</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專業史學日文（一） </name>
+<teacher> 李啟彰  </teacher>
+<score> 0 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7108 </place>
+<note> 碩士班高級史學英文、專業史學日文擇一必修 </note>
+</K3>
+
+<K3 id="011">
+<num>K3-011</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 論文寫作與實習（一） </name>
+<teacher> 謝美娥  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7108 </place>
+<note> 基礎課程，碩士班學生生必修 </note>
+</K3>
+
+<K3 id="024">
+<num>K3-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 台灣美術史專題研究（一） </name>
+<teacher> 蕭瓊瑞  </teacher>
+<score> 2 </score>
+<time> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7108 </place>
+<note></note>
+</K3>
+
+<K3 id="101">
+<num>K3-101</num>
+<class> 博一                           </class>
+<group></group>
+<name> 史學與史學研究（一） </name>
+<teacher> 陳玉女  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7113 </place>
+<note> 博士生必修 </note>
+</K3>
+
+<K3 id="102">
+<num>K3-102</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 現代台海兩岸關係史專題研究（一） </name>
+<teacher> 鄭　梓  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7110 </place>
+<note></note>
+</K3>
+
+<K3 id="103">
+<num>K3-103</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 社區總體營造與地區史之撰寫 </name>
+<teacher> 陳梅卿  </teacher>
+<score> 3 </score>
+<time> [2]N~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7112 </place>
+<note></note>
+</K3>
+
+<K3 id="104">
+<num>K3-104</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 他者之筆：「書寫韃靼」文本選讀 </name>
+<teacher> 謝美娥  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7110 </place>
+<note></note>
+</K3>
+
+<K3 id="105">
+<num>K3-105</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生育禮俗專題研究 </name>
+<teacher> 江達智  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7108 </place>
+<note></note>
+</K3>
+
+<K3 id="106">
+<num>K3-106</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 宋史史料學專題研究 </name>
+<teacher> 劉靜貞  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7113 </place>
+<note></note>
+</K3>
+
+<K3 id="107">
+<num>K3-107</num>
+<class></class>
+<group></group>
+<name> 獨立研究 </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</K3>
+
+<K3 id="111">
+<num>K3-111</num>
+<class> 博                             </class>
+<group></group>
+<name> 日治台灣日常生活史研究專題 </name>
+<teacher> 陳文松  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7202 </place>
+<note></note>
+</K3>
+
+<K3 id="112">
+<num>K3-112</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 英國史史料選讀 </name>
+<teacher> 王文霞  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7110 </place>
+<note></note>
+</K3>
+
+<K3 id="113">
+<num>K3-113</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 伊斯蘭傳播史專題 </name>
+<teacher> 林長寬  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7211 </place>
+<note></note>
+</K3>
+
+</content>

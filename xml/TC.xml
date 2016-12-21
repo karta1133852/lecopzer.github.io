@@ -2,30 +2,30 @@
 <content>
 <TC id="001">
 <num>TC-001</num>
-<class> 碩                             </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 盧豐華*  ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿* </teacher>
+<name> 專題討論（二） </name>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        601 </place>
-<note> 本所全體教師合上 </note>
+<note> 此課程全所教師共同上課 </note>
 </TC>
 
 <TC id="002">
 <num>TC-002</num>
-<class> 碩                             </class>
+<class> 碩二                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 盧豐華*  ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿* </teacher>
+<name> 專題討論（四） </name>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        601 </place>
-<note> 本所全體教師合上 </note>
+<note> 此課程全所教師共同上課 </note>
 </TC>
 
 <TC id="003">
@@ -33,40 +33,40 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 盧豐華*  ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿* </teacher>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        601 </place>
-<note> 本所全體教師合上 </note>
+<note> 此課程全所教師共同上課 </note>
 </TC>
 
 <TC id="004">
 <num>TC-004</num>
 <class> 碩                             </class>
 <group></group>
-<name> 生物統計學入門 </name>
-<teacher> 王新台* </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
+<name> 老年學個案整合研究 </name>
+<teacher> 翁慧卿  </teacher>
+<score> 1 </score>
+<time> [3]4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        208 </place>
-<note></note>
+<place> 醫學院                        202D </place>
+<note> 此課程需校外參訪 </note>
 </TC>
 
 <TC id="005">
 <num>TC-005</num>
 <class> 碩                             </class>
 <group></group>
-<name> 流行病學及研究設計導論 </name>
-<teacher> 邱靜如* </teacher>
+<name> 老年心理學 </name>
+<teacher> 范聖育  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        205D </place>
+<place> 醫學院                        204D </place>
 <note></note>
 </TC>
 
@@ -74,13 +74,13 @@
 <num>TC-006</num>
 <class> 碩                             </class>
 <group></group>
-<name> 社會老年學 </name>
-<teacher> 陳麗光* </teacher>
+<name> 高齡政策與服務傳遞 </name>
+<teacher> 劉立凡  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time> [3]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        301D </place>
+<place> 醫學院                        203D </place>
 <note></note>
 </TC>
 
@@ -88,78 +88,22 @@
 <num>TC-007</num>
 <class> 碩                             </class>
 <group></group>
-<name> 老年醫學概論 </name>
-<teacher> 盧豐華*  ,  張家銘* </teacher>
+<name> 老年學實習（二） </name>
+<teacher> 張家銘   ,  范聖育  </teacher>
 <score> 2 </score>
-<time> [3]8~9  </time>
+<time> [5]7~8  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        301D </place>
-<note></note>
+<type> 實習 </type>
+<place> 醫學院                        302D </place>
+<note> 需修滿15學分才能選修此課程，部分時段寒暑假校外實習 。 </note>
 </TC>
 
 <TC id="008">
 <num>TC-008</num>
 <class> 碩                             </class>
 <group></group>
-<name> 老年學實習（一） </name>
-<teacher> 張家銘   ,  范聖育* </teacher>
-<score> 2 </score>
-<time> [5]9~A  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 醫學院                        201D </place>
-<note> 需修滿15學分才能選修此課程，部分時段暑假校外實習 。 </note>
-</TC>
-
-<TC id="010">
-<num>TC-010</num>
-<class> 碩                             </class>
-<group></group>
-<name> 長期照護政策與管理 </name>
-<teacher> 劉立凡* </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        205D </place>
-<note> 本課程聘請業界師資參與 </note>
-</TC>
-
-<TC id="012">
-<num>TC-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 質性研究實作：訪談資料收集與分析 </name>
-<teacher> 陳麗光* </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        205D </place>
-<note></note>
-</TC>
-
-<TC id="013">
-<num>TC-013</num>
-<class> 碩                             </class>
-<group></group>
-<name> 高齡溝通與諮商 </name>
-<teacher> 范聖育*  ,  翁慧卿  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        201D </place>
-<note></note>
-</TC>
-
-<TC id="015">
-<num>TC-015</num>
-<class> 碩                             </class>
-<group></group>
-<name> 成功老化的生活空間 </name>
-<teacher> 陳柏宗* </teacher>
+<name> 老人居住環境規劃與實務 </name>
+<teacher> 陳柏宗  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 選修 </must>
@@ -168,31 +112,87 @@
 <note></note>
 </TC>
 
-<TC id="016">
-<num>TC-016</num>
+<TC id="009">
+<num>TC-009</num>
 <class> 碩                             </class>
 <group></group>
-<name> 統計套裝軟體介紹比較與應用 </name>
-<teacher> 王新台* </teacher>
+<name> 老年營養概論 </name>
+<teacher> 郭素娥  </teacher>
 <score> 2 </score>
-<time> [1]4~N  </time>
+<time> [2]8~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> (英文授課)  10樓電腦教室 </note>
+<place> 醫學院                        202D </place>
+<note></note>
 </TC>
 
-<TC id="017">
-<num>TC-017</num>
+<TC id="010">
+<num>TC-010</num>
 <class> 碩                             </class>
 <group></group>
-<name> 健康促進理論與實踐 </name>
-<teacher> 胡淑貞*  ,  莊佳蓉  </teacher>
+<name> 跨領域統計實務 </name>
+<teacher> 王新台  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
+<note></note>
+</TC>
+
+<TC id="011">
+<num>TC-011</num>
+<class> 碩                             </class>
+<group></group>
+<name> 老年學研究特論 </name>
+<teacher> 李世代  </teacher>
+<score> 2 </score>
+<time> [3]6~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note> 隔週上4小時 </note>
+</TC>
+
+<TC id="012">
+<num>TC-012</num>
+<class> 碩                             </class>
+<group></group>
+<name> 基礎學術論文寫作 </name>
+<teacher> 范聖育  </teacher>
+<score> 1 </score>
+<time> [4]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note> 醫學院10樓電腦教室 </note>
+</TC>
+
+<TC id="013">
+<num>TC-013</num>
+<class> 碩                             </class>
+<group></group>
+<name> 個案管理與社區照護 </name>
+<teacher> 劉立凡  </teacher>
 <score> 3 </score>
 <time> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        204D </place>
+<place> 醫學院                        201D </place>
+<note> 此課程為服務學習課程 </note>
+</TC>
+
+<TC id="016">
+<num>TC-016</num>
+<class> 碩                             </class>
+<group></group>
+<name> 晚境文學與老化研究意涵 </name>
+<teacher> 翁慧卿  </teacher>
+<score> 1 </score>
+<time> [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
 <note></note>
 </TC>
 
@@ -200,55 +200,83 @@
 <num>TC-018</num>
 <class> 碩                             </class>
 <group></group>
-<name> 老化與生活綜論 </name>
-<teacher> 陳清惠   ,  劉立凡   ,  陳麗光*  ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
+<name> 進階生物統計學 </name>
+<teacher> 林聖翔   ,  王亮懿* </teacher>
+<score> 2 </score>
+<time> [2]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        301D </place>
-<note> 老化與生活跨學分學門課程（大學部課程） </note>
+<note> 公衛所碩博班必選課程 </note>
 </TC>
 
 <TC id="019">
 <num>TC-019</num>
 <class> 碩                             </class>
 <group></group>
-<name> 高齡者的樂活與休閒 </name>
-<teacher> 陳清惠   ,  簡巧珍   ,  范聖育* </teacher>
-<score> 3 </score>
-<time> [2]5~7  </time>
+<name> 醫藥衛生中的生活品質與成本效果評估 </name>
+<teacher> 王榮德  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note> 老化與生活跨學分學門課程（大學部課程） </note>
+<place> 醫學院                        202D </place>
+<note></note>
+</TC>
+
+<TC id="020">
+<num>TC-020</num>
+<class> 碩                             </class>
+<group></group>
+<name> 高齡者的行動與交通 </name>
+<teacher> 林麗娟   ,  魏健宏   ,  蔡一如   ,  李佩紜   ,  張雅雯   ,  陳柏宗   ,  翁慧卿  </teacher>
+<score> 3 </score>
+<time> [3]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note> 老化與生活學分學程 </note>
 </TC>
 
 <TC id="021">
 <num>TC-021</num>
 <class> 碩                             </class>
 <group></group>
-<name> 高齡者的衣物與穿著 </name>
-<teacher> 王新台* </teacher>
+<name> 高齡者的食物與營養 </name>
+<teacher> 郭素娥   ,  邱靜如  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note> 老化與生活跨學分學門課程 （大學部課程） </note>
+<place> 醫學院                        202D </place>
+<note> 老化與生活學分學程。本課程為融入服務學習內含之專業課程，修習通過可免修服務學習。 </note>
+</TC>
+
+<TC id="022">
+<num>TC-022</num>
+<class> 碩                             </class>
+<group></group>
+<name> 高齡者的教育與學習 </name>
+<teacher> 陳麗光  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note> 老化與生活學分學程。本課程為融入服務學習內含之專業課程，修習通過可免修服務學習。 </note>
 </TC>
 
 <TC id="023">
 <num>TC-023</num>
 <class> 碩                             </class>
 <group></group>
-<name> 老年創意論壇 </name>
-<teacher> 劉立凡* </teacher>
+<name> 高齡教育 </name>
+<teacher> 陳麗光* </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
+<place> 醫學院                        203D </place>
 <note></note>
 </TC>
 
@@ -256,28 +284,14 @@
 <num>TC-024</num>
 <class> 碩                             </class>
 <group></group>
-<name> 成功老化 </name>
-<teacher> 陳麗光* </teacher>
-<score> 3 </score>
-<time> [2]5~7  </time>
+<name> 失智症特論 </name>
+<teacher> 白明奇* </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        202D </place>
-<note> 大四可選修 </note>
-</TC>
-
-<TC id="025">
-<num>TC-025</num>
-<class> 碩                             </class>
-<group></group>
-<name> 高齡者的居住與環境 </name>
-<teacher> 劉立凡* </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note> 老化與生活跨學分學門課程 （大學部課程） </note>
+<place> 醫學院                        307 </place>
+<note></note>
 </TC>
 
 </content>

@@ -4,7 +4,7 @@
 <num>H4-005</num>
 <class></class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 微積分（二） </name>
 <teacher> 李俊毅  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
@@ -18,21 +18,7 @@
 <num>H4-006</num>
 <class></class>
 <group></group>
-<name> 經濟學（一） </name>
-<teacher> 方世杰  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62422 </place>
-<note></note>
-</H4>
-
-<H4 id="008">
-<num>H4-008</num>
-<class></class>
-<group></group>
-<name> 會計學（一） </name>
+<name> 會計學（二） </name>
 <teacher> 孫文琦  </teacher>
 <score> 3 </score>
 <time> [4]7~9  </time>
@@ -42,25 +28,25 @@
 <note></note>
 </H4>
 
-<H4 id="009">
-<num>H4-009</num>
+<H4 id="007">
+<num>H4-007</num>
 <class></class>
 <group></group>
-<name> 管理學 </name>
-<teacher> 陳淑惠  </teacher>
+<name> 經濟學（二） </name>
+<teacher> 方世杰  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62335 </place>
 <note></note>
 </H4>
 
-<H4 id="016">
-<num>H4-016</num>
+<H4 id="013">
+<num>H4-013</num>
 <class></class>
 <group></group>
-<name> 服務學習（一） </name>
+<name> 服務學習（二） </name>
 <teacher> 葉桂珍  </teacher>
 <score> 0 </score>
 <time> [1]N  </time>
@@ -70,39 +56,25 @@
 <note></note>
 </H4>
 
-<H4 id="020">
-<num>H4-020</num>
+<H4 id="015">
+<num>H4-015</num>
 <class></class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 邱宏達  </teacher>
-<score> 0 </score>
-<time> [2]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 無                            體育室前 </place>
-<note></note>
-</H4>
-
-<H4 id="021">
-<num>H4-021</num>
-<class></class>
-<group></group>
-<name> 行為科學 </name>
+<name> 企業聯繫 </name>
 <teacher> 東惠瑛  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62218 </place>
 <note></note>
 </H4>
 
-<H4 id="053">
-<num>H4-053</num>
+<H4 id="061">
+<num>H4-061</num>
 <class></class>
 <group></group>
-<name> 統計學（一） </name>
+<name> 統計學（二） </name>
 <teacher> 葉桂珍  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
@@ -112,59 +84,73 @@
 <note></note>
 </H4>
 
-<H4 id="056">
-<num>H4-056</num>
+<H4 id="062">
+<num>H4-062</num>
 <class></class>
 <group></group>
-<name> 財務管理 </name>
+<name> 行銷管理 </name>
+<teacher> 蔡惠婷  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="063">
+<num>H4-063</num>
+<class></class>
+<group></group>
+<name> 組織行為 </name>
 <teacher> 莊雙喜  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62121 </place>
+<place> 企管系館                      62335 </place>
 <note></note>
 </H4>
 
-<H4 id="057">
-<num>H4-057</num>
+<H4 id="064">
+<num>H4-064</num>
 <class></class>
 <group></group>
-<name> 品質管制 </name>
-<teacher> 黃瀞瑩  </teacher>
+<name> 國際企業管理 </name>
+<teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62121 </place>
+<place> 企管系館                      62210 </place>
 <note></note>
 </H4>
 
-<H4 id="058">
-<num>H4-058</num>
+<H4 id="065">
+<num>H4-065</num>
 <class></class>
 <group></group>
-<name> 人際關係與溝通 </name>
+<name> 組織溝通 </name>
 <teacher> 劉清和  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62121 </place>
 <note></note>
 </H4>
 
-<H4 id="103">
-<num>H4-103</num>
+<H4 id="066">
+<num>H4-066</num>
 <class></class>
 <group></group>
-<name> 管理資訊系統 </name>
-<teacher> 張心馨  </teacher>
+<name> 經濟問題探究 </name>
+<teacher> 王耀斌  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
-<must> 必修 </must>
+<time> [5]6~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62335 </place>
+<place> 企管系館                      62210 </place>
 <note></note>
 </H4>
 
@@ -172,13 +158,13 @@
 <num>H4-104</num>
 <class></class>
 <group></group>
-<name> 國際貿易與投資 </name>
-<teacher> 康信鴻  </teacher>
+<name> 人力資源管理 </name>
+<teacher> 王瑜琳  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
+<time> [5]6~8  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62210 </place>
+<place> 企管系館                      62335 </place>
 <note></note>
 </H4>
 
@@ -186,83 +172,125 @@
 <num>H4-105</num>
 <class></class>
 <group></group>
-<name> 商業心理學 </name>
+<name> 作業管理 </name>
+<teacher> 黃瀞瑩  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="110">
+<num>H4-110</num>
+<class></class>
+<group></group>
+<name> 國際金融 </name>
+<teacher> 康信鴻  </teacher>
+<score> 3 </score>
+<time> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62210 </place>
+<note> 統計系與企管系合開 </note>
+</H4>
+
+<H4 id="111">
+<num>H4-111</num>
+<class></class>
+<group></group>
+<name> 消費者行為 </name>
 <teacher> 賴孟寬  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
 <note></note>
 </H4>
 
-<H4 id="107">
-<num>H4-107</num>
+<H4 id="112">
+<num>H4-112</num>
 <class></class>
 <group></group>
-<name> 行銷管理研討 </name>
-<teacher> 蔡惠婷  </teacher>
+<name> 創新管理 </name>
+<teacher> 周信輝  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note> 建議三年級以上選課 </note>
+</H4>
+
+<H4 id="115">
+<num>H4-115</num>
+<class></class>
+<group></group>
+<name> 投資分析 </name>
+<teacher> 吳宗正  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
+<place> 統計系館                      62115 </place>
+<note> 已開放至教室容量最大人數, 請線上選課, 不再接受紙本加選, 依上課座位表入座 </note>
 </H4>
 
-<H4 id="151">
-<num>H4-151</num>
+<H4 id="162">
+<num>H4-162</num>
 <class></class>
 <group></group>
-<name> 企業政策 </name>
-<teacher> 周信輝  </teacher>
+<name> 領導學 </name>
+<teacher> 李憲達  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
-<must> 必修 </must>
+<time> [4]6~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62210 </place>
 <note></note>
 </H4>
 
-<H4 id="152">
-<num>H4-152</num>
+<H4 id="163">
+<num>H4-163</num>
 <class></class>
 <group></group>
-<name> 策略行銷 </name>
+<name> 金融市場技術分析 </name>
 <teacher> 蔡燿全  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
 <note></note>
 </H4>
 
-<H4 id="153">
-<num>H4-153</num>
+<H4 id="164">
+<num>H4-164</num>
 <class></class>
 <group></group>
-<name> 流通管理 </name>
-<teacher> 劉宗其  </teacher>
+<name> 國際財務管理 </name>
+<teacher> 李宏志  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62231 </place>
+<place> 會計系館                      63210 </place>
 <note></note>
 </H4>
 
-<H4 id="179">
-<num>H4-179</num>
+<H4 id="165">
+<num>H4-165</num>
 <class></class>
 <group></group>
-<name> 科技管理 </name>
-<teacher> 陳淑惠  </teacher>
+<name> 公司治理 </name>
+<teacher> 胡聯國  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62212 </place>
+<place> 企管系館                      62335 </place>
 <note></note>
 </H4>
 

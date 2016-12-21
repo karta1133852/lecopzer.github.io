@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<I6 id="005">
-<num>I6-005</num>
+<I6 id="007">
+<num>I6-007</num>
 <class></class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 微積分（二） </name>
 <teacher> 王業凱  </teacher>
 <score> 2 </score>
 <time> [1]2~3  </time>
@@ -13,33 +13,33 @@
 <place> 共同教室                      A1307(資源後) </place>
 <note></note>
 <class1></class1>
-<group1> A </group1>
-<name1> 微積分（一） </name1>
+<group1></group1>
+<name1> 微積分（二） </name1>
 <time1> [3]2  </time1>
 <place1> 共同教室                      A1307(資源後) </place1>
 <note1></note1>
 </I6>
 
-<I6 id="010">
-<num>I6-010</num>
+<I6 id="008">
+<num>I6-008</num>
 <class></class>
 <group></group>
-<name> 普通化學 </name>
-<teacher> 許拱北*  ,  周鶴軒   ,  鄭沐政  </teacher>
+<name> 普通心理學 </name>
+<teacher> 游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
 <score> 3 </score>
-<time> [2]7~8  ,  [5]5~6  </time>
-<must> 選修 </must>
+<time> [4]4  ,  [4]7~8  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 化工系館                      華立廳 </place>
+<place> 醫學院                        第四講堂 </place>
 <note></note>
 </I6>
 
-<I6 id="011">
-<num>I6-011</num>
+<I6 id="009">
+<num>I6-009</num>
 <class></class>
 <group></group>
-<name> 普通生物學（一） </name>
-<teacher> 宋皇模*  ,  張松彬   ,  廖泓鈞   ,  吳文鑾  </teacher>
+<name> 普通生物學（二） </name>
+<teacher> 王浩文   ,  何盧勳   ,  邱慈暉*  ,  李純純   ,  彭怡禎  </teacher>
 <score> 2 </score>
 <time> [3]5~6  </time>
 <must> 必修 </must>
@@ -48,30 +48,58 @@
 <note></note>
 </I6>
 
-<I6 id="012">
-<num>I6-012</num>
+<I6 id="010">
+<num>I6-010</num>
 <class></class>
 <group></group>
-<name> 普通生物學實驗（一） </name>
-<teacher> 黃浩仁   ,  宋皇模*  ,  吳文鑾   ,  李瑞花  </teacher>
+<name> 普通生物學實驗（二） </name>
+<teacher> 李亞夫   ,  王浩文   ,  何盧勳   ,  邱慈暉*  ,  陳一菁   ,  李純純   ,  彭怡禎  </teacher>
 <score> 1 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 生科系館                      3435 </place>
+<place> 生科系館                      3437 </place>
 <note></note>
+</I6>
+
+<I6 id="011">
+<num>I6-011</num>
+<class></class>
+<group></group>
+<name> 普通物理學 </name>
+<teacher> 游輝樟  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治207 </place>
+<note></note>
+</I6>
+
+<I6 id="012">
+<num>I6-012</num>
+<class></class>
+<group></group>
+<name> 普通物理學實驗 </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time> [4]1~3  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 理化大樓二樓 </note>
 </I6>
 
 <I6 id="013">
 <num>I6-013</num>
 <class></class>
 <group></group>
-<name> 物理治療導論 </name>
-<teacher> 林桑伊*  ,  楊政峰   ,  洪菁霞   ,  徐碧真   ,  蔡一如  </teacher>
-<score> 1 </score>
-<time> [2]9  </time>
+<name> 服務學習（二） </name>
+<teacher> 林呈鳳   ,  徐碧真   ,  郭怡良* </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
 <must> 必修 </must>
-<type> 講義 </type>
+<type> 實習 </type>
 <place> 物治系館                      B02 </place>
 <note></note>
 </I6>
@@ -80,30 +108,14 @@
 <num>I6-014</num>
 <class></class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 林欣仕  </teacher>
+<name> 服務學習（二）－無障礙之家 </name>
+<teacher> 洪菁霞  </teacher>
 <score> 0 </score>
-<time> [5]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 無                            體育室前 </place>
-<note></note>
-</I6>
-
-<I6 id="018">
-<num>I6-018</num>
-<class></class>
-<group></group>
-<name> 服務學習（一） </name>
-<teacher> 林呈鳳   ,  徐碧真*  ,  郭怡良  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
+<time> [5]3~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 物治系館                      B02 </place>
+<note></note>
 </I6>
 
 <I6 id="019">
@@ -113,26 +125,24 @@
 <name> 服務學習（二）─ 物理治療中心 </name>
 <teacher> 徐碧真  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [5]3~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        0301 </place>
+<note></note>
 </I6>
 
 <I6 id="020">
 <num>I6-020</num>
 <class></class>
 <group></group>
-<name> 服務學習（二）－無障礙之家 </name>
-<teacher> 洪菁霞  </teacher>
-<score> 0 </score>
-<time> [3]3~4  </time>
+<name> 社會學 </name>
+<teacher> 黃于玲  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 醫學院                        物治207 </place>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
 <note></note>
 </I6>
 
@@ -140,119 +150,195 @@
 <num>I6-021</num>
 <class></class>
 <group></group>
-<name> 神經科物理治療概論與醫學中心見習 </name>
-<teacher> 林桑伊*  ,  陳怡如  </teacher>
+<name> 表體解剖學 </name>
+<teacher> 郭怡良  </teacher>
 <score> 2 </score>
-<time> [4]2  </time>
+<time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        物治104 </place>
 <note></note>
-<class1></class1>
-<group1></group1>
-<name1> 神經科物理治療概論與醫學中心見習 </name1>
-<time1> [4]3~4  </time1>
-<place1> 醫學院                        物治104 </place1>
-<note1></note1>
 </I6>
 
-<I6 id="022">
-<num>I6-022</num>
+<I6 id="055">
+<num>I6-055</num>
 <class></class>
 <group></group>
-<name> 基礎運動貼紮 </name>
-<teacher> 蔡一如  </teacher>
-<score> 1 </score>
-<time> [5]1~2  </time>
-<must> 選修 </must>
+<name> 肌動學 </name>
+<teacher> 成戎珠   ,  蔡一如   ,  李佩紜   ,  蔡昆霖*  ,  郭怡良  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        物治104 </place>
-<note> 授課2小時，需自付材料費用1000元 </note>
+<note></note>
 </I6>
 
-<I6 id="051">
-<num>I6-051</num>
+<I6 id="056">
+<num>I6-056</num>
 <class></class>
 <group></group>
-<name> 服務學習（三） </name>
-<teacher> 成戎珠  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I6>
-
-<I6 id="057">
-<num>I6-057</num>
-<class></class>
-<group></group>
-<name> 解剖學（含實驗） </name>
-<teacher> 郭余民*  ,  黃步敏   ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
-<score> 6 </score>
-<time> [1]5~8  ,  [2]1~4  ,  [4]1~4  ,  [5]1~4  </time>
+<name> 神經解剖學 </name>
+<teacher> 楊政峰  </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 周五第一至四節，多位教師合上 </note>
+<place> 醫學院                        208 </place>
+<note></note>
 </I6>
 
 <I6 id="058">
 <num>I6-058</num>
 <class></class>
 <group></group>
-<name> 老人長期照護概論 </name>
-<teacher> 李佩紜  </teacher>
+<name> 基礎物理治療學 </name>
+<teacher> 卓瓊鈺*  ,  林桑伊   ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
-<must> 選修 </must>
+<time> [1]1  ,  [5]1  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        物治207 </place>
+<place> 醫學院                        物治104 </place>
 <note></note>
 </I6>
 
-<I6 id="060">
-<num>I6-060</num>
+<I6 id="059">
+<num>I6-059</num>
 <class></class>
 <group></group>
-<name> 公共衛生概論 </name>
-<teacher> 呂宗學  </teacher>
+<name> 基礎物理治療學實習 </name>
+<teacher> 卓瓊鈺*  ,  林桑伊   ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time> [1]2~4  ,  [5]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        物治104 </place>
+<note></note>
+</I6>
+
+<I6 id="067">
+<num>I6-067</num>
+<class></class>
+<group></group>
+<name> 生物統計學 </name>
+<teacher> 王亮懿  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note></note>
+</I6>
+
+<I6 id="069">
+<num>I6-069</num>
+<class></class>
+<group></group>
+<name> 物理因子學 </name>
+<teacher> 卓瓊鈺   ,  黃英修*  ,  洪菁霞   ,  李佩紜   ,  蔡昆霖  </teacher>
+<score> 2 </score>
+<time> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 醫技，物治，職治合班 </note>
+<place> 醫學院                        物治104 </place>
+<note></note>
+</I6>
+
+<I6 id="070">
+<num>I6-070</num>
+<class></class>
+<group></group>
+<name> 物理因子學實習 </name>
+<teacher> 卓瓊鈺   ,  黃英修*  ,  洪菁霞   ,  李佩紜   ,  蔡昆霖  </teacher>
+<score> 1 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        物治104 </place>
+<note></note>
 </I6>
 
 <I6 id="071">
 <num>I6-071</num>
 <class></class>
 <group></group>
-<name> 生理學 </name>
-<teacher> 莊季瑛   ,  蔡美玲*  ,  吳勝男   ,  楊尚訓   ,  顏賢章   ,  陳珮君  </teacher>
-<score> 3 </score>
-<time> [1]1  ,  [3]3~4  </time>
-<must> 必修 </must>
+<name> 人體動作控制概論與基本運用 </name>
+<teacher> 林桑伊  </teacher>
+<score> 1 </score>
+<time> [3]5  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 非本系生修課須經授課教師同意 </note>
+<place> 物治系館                      B02 </place>
+<note></note>
 </I6>
 
-<I6 id="072">
-<num>I6-072</num>
+<I6 id="074">
+<num>I6-074</num>
 <class></class>
 <group></group>
-<name> 生理學實驗 </name>
-<teacher> 莊季瑛   ,  蔡美玲   ,  吳勝男   ,  楊尚訓   ,  顏賢章* </teacher>
+<name> 運動處方 </name>
+<teacher> 蔡昆霖  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note></note>
+</I6>
+
+<I6 id="076">
+<num>I6-076</num>
+<class></class>
+<group></group>
+<name> 特殊發展幼童的遊戲介入 </name>
+<teacher> 徐碧真  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</I6>
+
+<I6 id="077">
+<num>I6-077</num>
+<class></class>
+<group></group>
+<name> 運動生理學 </name>
+<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
 <score> 1 </score>
-<time> [5]7~8  </time>
+<time> [2]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</I6>
+
+<I6 id="078">
+<num>I6-078</num>
+<class></class>
+<group></group>
+<name> 操作治療學 </name>
+<teacher> 成戎珠   ,  林呈鳳   ,  蔡一如   ,  李佩紜* </teacher>
+<score> 1 </score>
+<time> [4]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治104 </place>
+<note></note>
+</I6>
+
+<I6 id="079">
+<num>I6-079</num>
+<class></class>
+<group></group>
+<name> 操作治療學實習 </name>
+<teacher> 陳文玲   ,  成戎珠   ,  林呈鳳   ,  蔡一如   ,  李佩紜* </teacher>
+<score> 1 </score>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
+<place> 醫學院                        物治104 </place>
 <note></note>
 </I6>
 
@@ -260,160 +346,36 @@
 <num>I6-103</num>
 <class></class>
 <group></group>
-<name> 病理學概論 </name>
-<teacher> 顏經洲*  ,  張孔昭   ,  呂政展   ,  何中良   ,  周楠華   ,  蔡弘文   ,  李忠達   ,  陳文宗  </teacher>
-<score> 2 </score>
-<time> [4]1~2  </time>
+<name> 復健醫學 </name>
+<teacher> 官大紳*  ,  程琡敏   ,  陳若佟   ,  林裕晴  </teacher>
+<score> 1 </score>
+<time> [4]8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第一講堂 </place>
-<note> 多位老師合上，醫技，物治，職治合班 </note>
+<note></note>
 </I6>
 
 <I6 id="104">
 <num>I6-104</num>
 <class></class>
 <group></group>
-<name> 骨科學概論 </name>
-<teacher> 周一鳴*  ,  林啟禎   ,  楊俊佑   ,  賴國安   ,  蘇維仁   ,  張志偉   ,  黃國淵   ,  戴大為   ,  吳柏廷  </teacher>
-<score> 1 </score>
-<time> [5]7~8  </time>
+<name> 內科學概論 </name>
+<teacher> 宋俊明   ,  柯文謙   ,  陳炯瑜   ,  蔡惟全   ,  張漢煜   ,  鄭斌男   ,  王崇任   ,  李政翰   ,  劉秉彥   ,  陳儒逸   ,  歐弘毅   ,  莊喬雄   ,  詹世鴻   ,  林建中   ,  林立人   ,  蘇文彬  </teacher>
+<score> 2 </score>
+<time> [5]8~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 醫學院，物治，職治合班 </note>
+<place> 醫學院                        第一講堂 </place>
+<note></note>
 </I6>
 
 <I6 id="105">
 <num>I6-105</num>
 <class></class>
 <group></group>
-<name> 小兒科學概論 </name>
-<teacher> 陳建旭   ,  王志堯   ,  林其和   ,  劉清泉   ,  吳俊明*  ,  邱元佑   ,  王玠能   ,  楊燿榮   ,  林毓志   ,  杜伊芳   ,  周言穎  </teacher>
-<score> 1 </score>
-<time> [4]8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note> 醫學院，物治，職治合班 </note>
-</I6>
-
-<I6 id="106">
-<num>I6-106</num>
-<class></class>
-<group></group>
-<name> 外科學概論 </name>
-<teacher> 李政昌   ,  陳琮琳   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  羅傳堯   ,  顏亦廷   ,  林毅志   ,  王亮超   ,  黃士銘*  ,  徐慧萍   ,  潘信誠   ,  戴世煌  </teacher>
-<score> 2 </score>
-<time> [1]8~9  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note> 醫學院，物治，職治合班 </note>
-</I6>
-
-<I6 id="107">
-<num>I6-107</num>
-<class></class>
-<group></group>
-<name> 神經科學概論 </name>
-<teacher> 林宙晴   ,  白明奇   ,  李宜堅   ,  黃文柱   ,  林志勝*  ,  蔡子同   ,  蔡景仁   ,  黃欽威   ,  陳志弘   ,  羅健寧   ,  黃涵薇   ,  孫苑庭  </teacher>
-<score> 1 </score>
-<time> [5]9  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 醫學院，物治，職治合班 </note>
-</I6>
-
-<I6 id="108">
-<num>I6-108</num>
-<class></class>
-<group></group>
-<name> 小兒物理治療學及實習（一） </name>
-<teacher> 成戎珠   ,  徐碧真* </teacher>
-<score> 1 </score>
-<time> [2]5  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治104 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 小兒物理治療學及實習（一） </name1>
-<time1> [2]6  </time1>
-<place1> 醫學院                        物治104 </place1>
-<note1></note1>
-</I6>
-
-<I6 id="109">
-<num>I6-109</num>
-<class></class>
-<group></group>
-<name> 心肺物理治療學及實習（一） </name>
-<teacher> 洪菁霞   ,  蔡昆霖* </teacher>
-<score> 1 </score>
-<time> [2]7  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治104 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 心肺物理治療學及實習（一） </name1>
-<time1> [2]8  </time1>
-<place1> 醫學院                        物治104 </place1>
-<note1></note1>
-</I6>
-
-<I6 id="110">
-<num>I6-110</num>
-<class></class>
-<group></group>
-<name> 神經科物理治療學（一） </name>
-<teacher> 林桑伊  </teacher>
-<score> 1 </score>
-<time> [3]5  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治104 </place>
-<note></note>
-</I6>
-
-<I6 id="111">
-<num>I6-111</num>
-<class></class>
-<group></group>
-<name> 神經科物理治療學實習（一） </name>
-<teacher> 林桑伊  </teacher>
-<score> 1 </score>
-<time> [3]6~8  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 醫學院                        物治104 </place>
-<note></note>
-</I6>
-
-<I6 id="115">
-<num>I6-115</num>
-<class></class>
-<group></group>
-<name> 生物力學導論 </name>
-<teacher> 林呈鳳   ,  徐碧真   ,  蔡一如*  ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
-<score> 2 </score>
-<time> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治104 </place>
-<note></note>
-</I6>
-
-<I6 id="121">
-<num>I6-121</num>
-<class></class>
-<group></group>
-<name> 骨科物理治療學（一） </name>
-<teacher> 林呈鳳*  ,  蔡一如   ,  郭怡良  </teacher>
+<name> 骨科物理治療學（二） </name>
+<teacher> 蔡一如*  ,  郭怡良  </teacher>
 <score> 1 </score>
 <time> [2]1  </time>
 <must> 必修 </must>
@@ -422,12 +384,12 @@
 <note></note>
 </I6>
 
-<I6 id="122">
-<num>I6-122</num>
+<I6 id="106">
+<num>I6-106</num>
 <class></class>
 <group></group>
-<name> 骨科物理治療學實習（一） </name>
-<teacher> 林呈鳳*  ,  蔡一如   ,  郭怡良  </teacher>
+<name> 骨科物理治療學實習（二） </name>
+<teacher> 蔡一如*  ,  郭怡良  </teacher>
 <score> 1 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -436,17 +398,147 @@
 <note></note>
 </I6>
 
-<I6 id="123">
-<num>I6-123</num>
+<I6 id="107">
+<num>I6-107</num>
 <class></class>
 <group></group>
-<name> 義肢與輔助科技 </name>
-<teacher> 洪菁霞   ,  林呈鳳* </teacher>
+<name> 物理治療管理學 </name>
+<teacher> 楊政峰  </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</I6>
+
+<I6 id="110">
+<num>I6-110</num>
+<class></class>
+<group></group>
+<name> 小兒物理治療學及實習（二） </name>
+<teacher> 成戎珠*  ,  徐碧真  </teacher>
 <score> 1 </score>
-<time> [1]5  </time>
-<must> 選修 </must>
+<time> [3]5~6  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        物治104 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 小兒物理治療學及實習（二） </name1>
+<time1> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
+</I6>
+
+<I6 id="111">
+<num>I6-111</num>
+<class></class>
+<group></group>
+<name> 心肺物理治療學及實習（二） </name>
+<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
+<score> 1 </score>
+<time> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治104 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 心肺物理治療學及實習（二） </name1>
+<time1> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
+</I6>
+
+<I6 id="116">
+<num>I6-116</num>
+<class></class>
+<group></group>
+<name> 神經科物理治療學（二） </name>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  黃英修*  ,  李佩紜  </teacher>
+<score> 1 </score>
+<time> [3]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治104 </place>
+<note></note>
+</I6>
+
+<I6 id="117">
+<num>I6-117</num>
+<class></class>
+<group></group>
+<name> 神經科物理治療學實習（二） </name>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  黃英修*  ,  李佩紜  </teacher>
+<score> 1 </score>
+<time> [3]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        物治104 </place>
+<note></note>
+</I6>
+
+<I6 id="118">
+<num>I6-118</num>
+<class></class>
+<group></group>
+<name> 物理治療倫理學 </name>
+<teacher> 楊政峰  </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</I6>
+
+<I6 id="119">
+<num>I6-119</num>
+<class></class>
+<group></group>
+<name> 論文 </name>
+<teacher> 洪菁霞*  ,  蔡一如* </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</I6>
+
+<I6 id="121">
+<num>I6-121</num>
+<class></class>
+<group></group>
+<name> 物理治療臨床見習 </name>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<score> 1 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</I6>
+
+<I6 id="122">
+<num>I6-122</num>
+<class></class>
+<group></group>
+<name> 物理治療文獻搜尋與評讀 </name>
+<teacher> 林桑伊  </teacher>
+<score> 1 </score>
+<time> [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
 <note></note>
 </I6>
 
@@ -454,13 +546,27 @@
 <num>I6-124</num>
 <class></class>
 <group></group>
-<name> 義肢與輔助科技實習 </name>
-<teacher> 洪菁霞   ,  林呈鳳* </teacher>
-<score> 1 </score>
-<time> [1]6~7  </time>
+<name> 運動傷害防護處理 </name>
+<teacher> 蔡一如  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
 <must> 選修 </must>
-<type> 實習 </type>
-<place> 醫學院                        物治104 </place>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</I6>
+
+<I6 id="125">
+<num>I6-125</num>
+<class></class>
+<group></group>
+<name> 問題為導向的幼兒及成人神經物理治療探討 </name>
+<teacher> 徐碧真  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
 <note></note>
 </I6>
 
@@ -468,8 +574,8 @@
 <num>I6-152</num>
 <class></class>
 <group></group>
-<name> 物理治療臨床實習（一） </name>
-<teacher> 林桑伊   ,  蔡一如*  ,  蔡昆霖  </teacher>
+<name> 物理治療臨床實習（四） </name>
+<teacher> 成戎珠   ,  楊政峰   ,  黃英修   ,  蔡昆霖* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -484,8 +590,8 @@
 <num>I6-153</num>
 <class></class>
 <group></group>
-<name> 物理治療臨床實習（二） </name>
-<teacher> 成戎珠   ,  楊政峰   ,  洪菁霞*  ,  林呈鳳  </teacher>
+<name> 物理治療臨床實習（五） </name>
+<teacher> 洪菁霞   ,  林呈鳳*  ,  徐碧真   ,  蔡一如  </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -500,8 +606,8 @@
 <num>I6-154</num>
 <class></class>
 <group></group>
-<name> 物理治療臨床實習（三） </name>
-<teacher> 黃英修   ,  徐碧真*  ,  李佩紜   ,  郭怡良  </teacher>
+<name> 物理治療臨床實習（六） </name>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  李佩紜   ,  郭怡良* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -510,6 +616,36 @@
 <place></place>
 <note> 
  </note>
+</I6>
+
+<I6 id="156">
+<num>I6-156</num>
+<class></class>
+<group></group>
+<name> 物理治療海外實習 </name>
+<teacher> 卓瓊鈺  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I6>
+
+<I6 id="157">
+<num>I6-157</num>
+<class></class>
+<group></group>
+<name> 物理治療專題討論 </name>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜*  ,  蔡昆霖   ,  郭怡良  </teacher>
+<score> 1 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治207 </place>
+<note></note>
 </I6>
 
 </content>

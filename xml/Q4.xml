@@ -1,79 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<Q4 id="002">
-<num>Q4-002</num>
-<class></class>
-<group></group>
-<name> 民航實務 </name>
-<teacher> 王　宏  </teacher>
-<score> 3 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</Q4>
-
-<Q4 id="003">
-<num>Q4-003</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 航空氣象學 </name>
-<teacher> 陳介中  </teacher>
-<score> 3 </score>
-<time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5825 </place>
-<note> 英語授課 </note>
-</Q4>
-
-<Q4 id="004">
-<num>Q4-004</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 現代衛星導航 </name>
-<teacher> 詹劭勳  </teacher>
-<score> 3 </score>
-<time> [2]2  ,  [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5821 </place>
-<note></note>
-</Q4>
-
-<Q4 id="005">
-<num>Q4-005</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 航空業經營與管理 </name>
-<teacher> 李振明  </teacher>
-<score> 3 </score>
-<time> [6]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5833 </place>
-<note></note>
-</Q4>
-
-<Q4 id="008">
-<num>Q4-008</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 航電系統 </name>
-<teacher> 林清一  </teacher>
-<score> 3 </score>
-<time> [5]8~9  ,  [1]8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5897 </place>
-<note> 英語授課 </note>
-</Q4>
-
-<Q4 id="009">
-<num>Q4-009</num>
+<Q4 id="001">
+<num>Q4-001</num>
 <class></class>
 <group></group>
 <name> 教學實習 </name>
@@ -88,11 +16,11 @@
  </note>
 </Q4>
 
-<Q4 id="020">
-<num>Q4-020</num>
+<Q4 id="006">
+<num>Q4-006</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 專題討論（二） </name>
 <teacher> 王大中  </teacher>
 <score> 1 </score>
 <time> [5]6~7  </time>
@@ -102,11 +30,11 @@
 <note> 民航所碩一必修 </note>
 </Q4>
 
-<Q4 id="021">
-<num>Q4-021</num>
+<Q4 id="007">
+<num>Q4-007</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 專題討論（三） </name>
+<name> 專題討論（四） </name>
 <teacher> 王大中  </teacher>
 <score> 1 </score>
 <time> [5]6~7  </time>
@@ -116,8 +44,8 @@
 <note> 民航所碩二必修 </note>
 </Q4>
 
-<Q4 id="022">
-<num>Q4-022</num>
+<Q4 id="008">
+<num>Q4-008</num>
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
@@ -128,6 +56,62 @@
 <type> 研討 </type>
 <place> 航太系館                      5833 </place>
 <note> 僅供民航所碩三以上必修 </note>
+</Q4>
+
+<Q4 id="031">
+<num>Q4-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 民航維修專題 </name>
+<teacher> 王　宏  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5834 </place>
+<note></note>
+</Q4>
+
+<Q4 id="032">
+<num>Q4-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 航空器適航標準 </name>
+<teacher> 李萬里  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      繼昌講堂 </place>
+<note></note>
+</Q4>
+
+<Q4 id="033">
+<num>Q4-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 飛航安全管理 </name>
+<teacher> 何慶生  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      繼昌講堂 </place>
+<note></note>
+</Q4>
+
+<Q4 id="034">
+<num>Q4-034</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 多變量分析理論與應用 </name>
+<teacher> 王大中  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5828 </place>
+<note></note>
 </Q4>
 
 </content>

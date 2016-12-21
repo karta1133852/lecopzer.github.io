@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<AH id="001">
+<num>AH-001</num>
+<class></class>
+<group></group>
+<name> 語法學 </name>
+<teacher> 陳怡靜  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+<AH id="002">
+<num>AH-002</num>
+<class></class>
+<group></group>
+<name> 語法學 </name>
+<teacher> 陳怡靜  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+<AH id="003">
+<num>AH-003</num>
+<class></class>
+<group></group>
+<name> 華語文測驗與評量 </name>
+<teacher> 陳怡靜  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+<AH id="004">
+<num>AH-004</num>
+<class></class>
+<group></group>
+<name> 華語文教學導論 </name>
+<teacher> 吳珮文  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+<AH id="005">
+<num>AH-005</num>
+<class></class>
+<group></group>
+<name> 語言與文化 </name>
+<teacher> 吳珮文  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+<AH id="006">
+<num>AH-006</num>
+<class></class>
+<group></group>
+<name> 語言與文化 </name>
+<teacher> 吳珮文  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+<AH id="007">
+<num>AH-007</num>
+<class></class>
+<group></group>
+<name> 華語教材教法 </name>
+<teacher> 陳怡靜  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+<AH id="008">
+<num>AH-008</num>
+<class></class>
+<group></group>
+<name> 第二語言習得 </name>
+<teacher> 吳珮文  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26707 </place>
+<note> 華語學程(106年2月1日起暫停招生) </note>
+</AH>
+
+</content>
