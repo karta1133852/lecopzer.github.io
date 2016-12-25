@@ -81,7 +81,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 雲平大樓                      712 </place>
-<note> 生命、生科、熱植所合開 </note>
+<note> 生命、生科、熱植所合開全英語授課 </note>
 </Z3>
 
 <Z3 id="010">
@@ -89,7 +89,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 植物分子與細胞生物學 </name>
-<teacher> 張文綺   ,  邱啟洲  </teacher>
+<teacher> 張文綺*  ,  蔡文杰   ,  邱啟洲  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
@@ -103,7 +103,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 實驗資料分析與統計專論 </name>
-<teacher> 張文綺   ,  邱啟洲  </teacher>
+<teacher> 張文綺*  ,  蔡文杰   ,  邱啟洲  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 選修 </must>

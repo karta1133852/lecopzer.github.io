@@ -262,20 +262,6 @@
 <note> 碩二必選，丁組 </note>
 </P3>
 
-<P3 id="037">
-<num>P3-037</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 人體工學實驗方法 </name>
-<teacher> 賴新喜  </teacher>
-<score> 3 </score>
-<time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 唯農大樓                      7108 </place>
-<note></note>
-</P3>
-
 <P3 id="038">
 <num>P3-038</num>
 <class> 碩博                           </class>
@@ -297,10 +283,10 @@
 <name> 魅力工學 </name>
 <teacher> 馬敏元  </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 無                            53306 </place>
+<place> 無                            53311 </place>
 <note></note>
 </P3>
 
@@ -325,7 +311,7 @@
 <name> 品質機能展開 </name>
 <teacher> 劉說芳  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time> [5]7~9  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 無                            53308 </place>
@@ -390,10 +376,10 @@
 
 <P3 id="301">
 <num>P3-301</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 網路科技與應用 </name>
-<teacher> 未定  </teacher>
+<teacher> 謝孟達  </teacher>
 <score> 3 </score>
 <time> [1]A~C  </time>
 <must> 選修 </must>

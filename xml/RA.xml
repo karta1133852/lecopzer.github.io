@@ -268,6 +268,20 @@
 <note> 選修課程 </note>
 </RA>
 
+<RA id="020">
+<num>RA-020</num>
+<class> 碩                             </class>
+<group></group>
+<name> 研究方法（一） </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 限修滿18學分以上並修完一門方法論課程學生選修 </note>
+</RA>
+
 <RA id="301">
 <num>RA-301</num>
 <class> 碩專                           </class>
@@ -398,7 +412,7 @@
 
 <RA id="310">
 <num>RA-310</num>
-<class> 碩博                           </class>
+<class> 碩專                           </class>
 <group></group>
 <name> 不動產財務 </name>
 <teacher> 謝惠璟  </teacher>
@@ -412,7 +426,7 @@
 
 <RA id="311">
 <num>RA-311</num>
-<class> 碩博                           </class>
+<class> 碩專                           </class>
 <group></group>
 <name> 電子商務 </name>
 <teacher> 陳正忠  </teacher>
@@ -494,18 +508,34 @@
 <note> 選修課程 </note>
 </RA>
 
+<RA id="317">
+<num>RA-317</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 研究方法（一） </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 限修滿18學分以上並修完一門方法論課程學生選修 </note>
+</RA>
+
 <RA id="331">
 <num>RA-331</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 生產與作業管理 </name>
-<teacher> 陳正忠  </teacher>
+<name> 電子商務 </name>
+<teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 台北班課程 </note>
+<note> 
+ </note>
 </RA>
 
 <RA id="332">
@@ -530,6 +560,20 @@
 <teacher> 張巍勳  </teacher>
 <score> 3 </score>
 <time> [7]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 台北班課程 </note>
+</RA>
+
+<RA id="334">
+<num>RA-334</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 企業研究方法 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>

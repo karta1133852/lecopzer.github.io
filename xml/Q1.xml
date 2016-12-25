@@ -224,4 +224,18 @@
 <note> 電資學院學生選修 </note>
 </Q1>
 
+<Q1 id="034">
+<num>Q1-034</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 半導體元件數值模擬 </name>
+<teacher> 盧達生  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 大四碩班合班 </note>
+</Q1>
+
 </content>

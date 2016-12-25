@@ -268,7 +268,7 @@
 <time> [2]7~8  ,  [5]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92185 </place>
+<place> 電機系館                      繁城講堂 </place>
 <note> 電腦教室實習限制最多60人 </note>
 </E2>
 
@@ -701,7 +701,7 @@
 <name> 資料結構緒論 </name>
 <teacher> 林家民  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [2]7~8  ,  [5]5  </time>
 <must> 必選 </must>
 <type> 講義 </type>
 <place> 電機系館                      92283 </place>
@@ -1248,7 +1248,7 @@
 <time> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92177 </place>
+<place> 電機系館                      92720 </place>
 <note> 大三四合班英語授課 </note>
 </E2>
 
@@ -1307,10 +1307,10 @@
 <name> 半導體元件數值模擬 </name>
 <teacher> 盧達生  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92171 </place>
+<place> 電機系館                      92177 </place>
 <note> 大四碩班合班 </note>
 </E2>
 

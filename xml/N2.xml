@@ -616,6 +616,20 @@
 <note> 電機資訊合班電機系四樓會議室 </note>
 </N2>
 
+<N2 id="191">
+<num>N2-191</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電力系統規劃 </name>
+<teacher> 蕭純育  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 碩博碩專合班 </note>
+</N2>
+
 <N2 id="193">
 <num>N2-193</num>
 <class> 碩博                           </class>
@@ -754,6 +768,20 @@
 <type> 研討 </type>
 <place> 電機系館                      92377 </place>
 <note> 碩二 </note>
+</N2>
+
+<N2 id="308">
+<num>N2-308</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電力系統規劃 </name>
+<teacher> 蕭純育  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 碩博碩專合班 </note>
 </N2>
 
 <N2 id="317">

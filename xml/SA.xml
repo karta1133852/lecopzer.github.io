@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 跨領域神經科學講座（二） </name>
-<teacher> 簡伯武* </teacher>
+<teacher> 呂佩融* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -85,6 +85,22 @@
   </time>
 <must> 選修 </must>
 <type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</SA>
+
+<SA id="007">
+<num>SA-007</num>
+<class></class>
+<group></group>
+<name> 遺傳性與退化性神經疾病-從醫生角度出發 </name>
+<teacher> 呂佩融  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
 <place></place>
 <note> 
  </note>

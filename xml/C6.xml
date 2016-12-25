@@ -33,9 +33,9 @@
 <class></class>
 <group></group>
 <name> 服務學習（二） </name>
-<teacher> 王涵青   ,  劉宗霖*  ,  羅玉枝  </teacher>
+<teacher> 王涵青   ,  劉宗霖*  ,  曾大千   ,  林士鳴  </teacher>
 <score> 0 </score>
-<time> [4]1~2  </time>
+<time> [4]1  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 照坤精密儀器大樓              95A021 </place>
@@ -111,13 +111,11 @@
 <name> 生物化學（二） </name>
 <teacher> 張清俊*  ,  陳逸民   ,  羅玉枝   ,  林士鳴  </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 照坤精密儀器大樓              95A021 </place>
+<note></note>
 </C6>
 
 <C6 id="053">
@@ -127,13 +125,11 @@
 <name> 生物技術核心實驗（二） </name>
 <teacher> 陳逸民*  ,  王涵青   ,  洪良宜  </teacher>
 <score> 1 </score>
-<time> 
-  </time>
+<time> [5]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 生科系館                      3458 </place>
+<note></note>
 </C6>
 
 <C6 id="054">
@@ -143,13 +139,11 @@
 <name> 細胞生物學 </name>
 <teacher> 張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜* </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [4]7~8  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 照坤精密儀器大樓              95A021 </place>
+<note></note>
 </C6>
 
 <C6 id="055">

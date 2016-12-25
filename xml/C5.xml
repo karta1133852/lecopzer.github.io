@@ -426,32 +426,4 @@
 <note></note>
 </C5>
 
-<C5 id="156">
-<num>C5-156</num>
-<class></class>
-<group></group>
-<name> 神經心理藥物學 </name>
-<teacher> 蕭富仁   ,  胡書榕   ,  陳德祐  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80201 </place>
-<note> 心理系與生命科學系合班上課 </note>
-</C5>
-
-<C5 id="157">
-<num>C5-157</num>
-<class></class>
-<group></group>
-<name> 睡眠生理學 </name>
-<teacher> 蕭富仁  </teacher>
-<score> 3 </score>
-<time> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    階梯教室-心理 </place>
-<note></note>
-</C5>
-
 </content>
