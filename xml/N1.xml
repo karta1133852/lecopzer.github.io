@@ -98,20 +98,6 @@
 <note> 碩博三（含）以上 </note>
 </N1>
 
-<N1 id="020">
-<num>N1-020</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 冷凍工程與設計 </name>
-<teacher> 張錦裕  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91204 </place>
-<note></note>
-</N1>
-
 <N1 id="021">
 <num>N1-021</num>
 <class> 碩博                           </class>
@@ -165,20 +151,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91102 </place>
-<note> 英語授課 </note>
-</N1>
-
-<N1 id="025">
-<num>N1-025</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 工程兩相流 </name>
-<teacher> 王逸君  </teacher>
-<score> 3 </score>
-<time> [2]6  ,  [4]6~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91103 </place>
 <note> 英語授課 </note>
 </N1>
 
@@ -322,20 +294,6 @@
 <note></note>
 </N1>
 
-<N1 id="043">
-<num>N1-043</num>
-<class> 碩                             </class>
-<group></group>
-<name> 最佳設計 </name>
-<teacher> 林啟倫  </teacher>
-<score> 3 </score>
-<time> [2]5  ,  [3]6~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91202 </place>
-<note></note>
-</N1>
-
 <N1 id="045">
 <num>N1-045</num>
 <class> 碩                             </class>
@@ -375,20 +333,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91303 </place>
-<note></note>
-</N1>
-
-<N1 id="048">
-<num>N1-048</num>
-<class> 碩                             </class>
-<group></group>
-<name> 撓性機電系統 </name>
-<teacher> 藍兆杰  </teacher>
-<score> 3 </score>
-<time> [3]8  ,  [1]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91308 </place>
 <note></note>
 </N1>
 

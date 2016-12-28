@@ -75,13 +75,15 @@
 <class></class>
 <group></group>
 <name> 英語口語訓練（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 高郁婷  </teacher>
 <score> 3 </score>
-<time> [5]3~4  ,  [2]2  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26423 </place>
-<note> Ｃ組，限本系，須依上學期組別選課 </note>
+<place></place>
+<note> 
+ </note>
 </B2>
 
 <B2 id="011">
@@ -819,7 +821,7 @@
 <name> 應用第二外語暨戲劇表演（二） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time> [1]N  ,  [2]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26405 </place>

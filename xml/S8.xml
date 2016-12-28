@@ -39,7 +39,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題研究（二） </name>
-<teacher> 游一龍   ,  郭乃文*  ,  黃惠玲   ,  余睿羚   ,  蕭雅心  </teacher>
+<teacher> 林君昱   ,  游一龍   ,  郭乃文*  ,  黃惠玲   ,  余睿羚   ,  蕭雅心  </teacher>
 <score> 1 </score>
 <time> [1]0  ,  [2]0  </time>
 <must> 必修 </must>
@@ -53,7 +53,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題研究（四） </name>
-<teacher> 楊延光   ,  郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 林君昱   ,  楊延光   ,  郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
 <score> 1 </score>
 <time> [1]0  ,  [2]0  </time>
 <must> 必修 </must>
@@ -67,7 +67,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 楊延光   ,  柯慧貞   ,  郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 林君昱   ,  楊延光   ,  游一龍   ,  柯慧貞   ,  郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
 <score> 0 </score>
 <time> [3]0  ,  [4]0  </time>
 <must> 必修 </must>
@@ -202,23 +202,9 @@
 <note> 限本所甲組，先修臨床心理病理學、臨床神經心理學 </note>
 </S8>
 
-<S8 id="016">
-<num>S8-016</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 神經認知疾患 </name>
-<teacher> 余睿羚  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 限本所甲組，先修臨床心理病理學、臨床神經心理學 </note>
-</S8>
-
 <S8 id="017">
 <num>S8-017</num>
-<class> 碩二                           </class>
+<class></class>
 <group></group>
 <name> 臨床心理實務 </name>
 <teacher> 郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>

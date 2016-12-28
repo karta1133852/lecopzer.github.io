@@ -81,7 +81,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課教室:坤照精密儀設大樓4樓95416(工學院會議室) </note>
+<note> 選課人數未超過10人，將停開。上課教室:坤照精密儀設大樓4樓95416(工學院會議室) </note>
 </N0>
 
 <N0 id="315">
@@ -138,6 +138,20 @@
 <type> 講義 </type>
 <place></place>
 <note> 上課教室:坤照精密儀設大樓4樓95416(工學院會議室) </note>
+</N0>
+
+<N0 id="319">
+<num>N0-319</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 產業個案與實務 </name>
+<teacher> 邵揮洲  </teacher>
+<score> 3 </score>
+<time> [6]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56111 </place>
+<note> 限本專班學生選課 </note>
 </N0>
 
 <N0 id="331">

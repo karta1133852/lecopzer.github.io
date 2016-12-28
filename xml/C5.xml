@@ -249,7 +249,7 @@
 <class></class>
 <group></group>
 <name> 植物形態與解剖學 </name>
-<teacher> 張松彬* </teacher>
+<teacher> 張松彬*  ,  邱啟洲  </teacher>
 <score> 2 </score>
 <time> [1]5~6  </time>
 <must> 選修 </must>
@@ -410,6 +410,20 @@
 <type> 講義 </type>
 <place> 生科系館                      3425 </place>
 <note> 歡迎修過普通生物學相關課程且學期成績60分以上之大二至大四同學選修 </note>
+</C5>
+
+<C5 id="133">
+<num>C5-133</num>
+<class></class>
+<group></group>
+<name> 免疫學 </name>
+<teacher> 曾淑芬*  ,  何盧勳   ,  李純純  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [3]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3425 </place>
+<note></note>
 </C5>
 
 <C5 id="155">

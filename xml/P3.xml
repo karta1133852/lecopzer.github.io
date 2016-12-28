@@ -322,12 +322,12 @@
 <num>P3-042</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 感性商品學 </name>
+<name> 仁品設計研究 </name>
 <teacher> 周君瑞  </teacher>
 <score> 3 </score>
-<time> [1]8~A  </time>
+<time> [2]8~A  </time>
 <must> 選修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place> 無                            53313 </place>
 <note></note>
 </P3>
@@ -343,20 +343,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5204A </place>
-<note></note>
-</P3>
-
-<P3 id="046">
-<num>P3-046</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 醫療產品開發特論 </name>
-<teacher> 謝孟達  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 無                            53313 </place>
 <note></note>
 </P3>
 
@@ -381,7 +367,7 @@
 <name> 網路科技與應用 </name>
 <teacher> 謝孟達  </teacher>
 <score> 3 </score>
-<time> [1]A~C  </time>
+<time> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5204A </place>
@@ -393,9 +379,9 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 設計倫理與哲理 </name>
-<teacher> 吳豐光  </teacher>
+<teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53306 </place>

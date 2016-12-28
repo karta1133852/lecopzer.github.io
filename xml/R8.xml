@@ -28,6 +28,20 @@
 <note> 非財金所同學欲修此課者，大學需修過國際財務管理。 </note>
 </R8>
 
+<R8 id="003">
+<num>R8-003</num>
+<class> 碩                             </class>
+<group></group>
+<name> 企業社會責任與社會責任投資 </name>
+<teacher> 顏盟峯  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63210 </place>
+<note></note>
+</R8>
+
 <R8 id="006">
 <num>R8-006</num>
 <class> 碩                             </class>
@@ -89,7 +103,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 計量經濟學 </name>
-<teacher> 顏盟峯  </teacher>
+<teacher> 許育綝  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 必修 </must>
@@ -228,11 +242,11 @@
 <num>R8-305</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 金融機構管理 </name>
+<name> 計量經濟學 </name>
 <teacher> 王澤世  </teacher>
 <score> 3 </score>
 <time> [1]A~C  </time>
-<must> 選修 </must>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
 <note></note>

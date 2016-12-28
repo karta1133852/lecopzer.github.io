@@ -63,7 +63,7 @@
 <name> 國際企業理論 </name>
 <teacher> 曾瓊慧  </teacher>
 <score> 3 </score>
-<time> [2]5~7  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61413 </place>
@@ -82,6 +82,20 @@
 <type> 講義 </type>
 <place> 醫技醫工館                    5734 </place>
 <note> 醫工所與國企所合班 </note>
+</R6>
+
+<R6 id="007">
+<num>R6-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 策略聯盟 </name>
+<teacher> 曾瓊慧  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
 </R6>
 
 </content>

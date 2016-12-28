@@ -99,7 +99,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 計算機概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 施士塵  </teacher>
 <score> 3 </score>
 <time> [1]2~3  </time>
 <must> 必修 </must>
@@ -323,7 +323,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 計算機概論 </name>
-<teacher> 施士塵  </teacher>
+<teacher> 林啟倫  </teacher>
 <score> 3 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>
@@ -357,7 +357,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 工程數學（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 王逸君  </teacher>
 <score> 3 </score>
 <time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -399,13 +399,13 @@
 <class> 甲                             </class>
 <group></group>
 <name> 熱力學（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 張錦裕  </teacher>
 <score> 3 </score>
 <time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91203 </place>
-<note> 英語授課 </note>
+<note></note>
 </E1>
 
 <E1 id="058">
@@ -545,7 +545,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 機動學（二） </name>
-<teacher> 黃文敏  </teacher>
+<teacher> 藍兆杰  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 必修 </must>
@@ -891,7 +891,7 @@
 <class> 乙                             </class>
 <group> B </group>
 <name> 機械工程實驗（三） </name>
-<teacher> 張錦裕  </teacher>
+<teacher> 吳明勳  </teacher>
 <score> 1 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -939,7 +939,7 @@
 <class> 丙                             </class>
 <group> A </group>
 <name> 機械工程實驗（三） </name>
-<teacher> 吳明勳  </teacher>
+<teacher> 張錦裕  </teacher>
 <score> 1 </score>
 <time> [1]7~9  </time>
 <must> 必修 </must>
@@ -1236,20 +1236,6 @@
 <note> 英語授課 </note>
 </E1>
 
-<E1 id="168">
-<num>E1-168</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 撓性機電系統 </name>
-<teacher> 藍兆杰  </teacher>
-<score> 3 </score>
-<time> [3]8  ,  [1]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91308 </place>
-<note></note>
-</E1>
-
 <E1 id="169">
 <num>E1-169</num>
 <class> 甲乙丙                         </class>
@@ -1261,20 +1247,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91303 </place>
-<note></note>
-</E1>
-
-<E1 id="170">
-<num>E1-170</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 最佳設計 </name>
-<teacher> 林啟倫  </teacher>
-<score> 3 </score>
-<time> [2]5  ,  [3]6~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91202 </place>
 <note></note>
 </E1>
 

@@ -242,20 +242,6 @@
 <note> 碩博及碩專班合班 </note>
 </N6>
 
-<N6 id="019">
-<num>N6-019</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 微電腦橋樑結構分析 </name>
-<teacher> 朱聖浩  </teacher>
-<score> 3 </score>
-<time> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note> 碩博與碩專班合班 </note>
-</N6>
-
 <N6 id="020">
 <num>N6-020</num>
 <class> 碩博                           </class>
@@ -624,20 +610,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
 <note> 碩博及碩專班合班 </note>
-</N6>
-
-<N6 id="319">
-<num>N6-319</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 微電腦橋樑結構分析 </name>
-<teacher> 朱聖浩  </teacher>
-<score> 3 </score>
-<time> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4507 </place>
-<note> 碩博與碩專班合班 </note>
 </N6>
 
 <N6 id="320">
