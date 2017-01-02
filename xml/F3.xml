@@ -7,7 +7,7 @@
 <name> 服務學習（二） </name>
 <teacher> 何俊亨  </teacher>
 <score> 0 </score>
-<time> [5]N  </time>
+<time> [3]8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -21,7 +21,7 @@
 <name> 表現技法 </name>
 <teacher> 陳劭農  </teacher>
 <score> 2 </score>
-<time> [4]3  </time>
+<time> [3]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53302 </place>
@@ -29,7 +29,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 表現技法 </name1>
-<time1> [4]4~N  </time1>
+<time1> [3]6~7  </time1>
 <place1> 無                            53302 </place1>
 <note1></note1>
 </F3>
@@ -41,7 +41,7 @@
 <name> 表現技法 </name>
 <teacher> 何俊亨  </teacher>
 <score> 2 </score>
-<time> [3]3  </time>
+<time> [3]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
@@ -49,7 +49,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 表現技法 </name1>
-<time1> [3]4~N  </time1>
+<time1> [3]6~7  </time1>
 <place1> 工設系館                      5206 </place1>
 <note1></note1>
 </F3>
@@ -103,7 +103,7 @@
 <name> 計算機概論 </name>
 <teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time> [5]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5102 </place>

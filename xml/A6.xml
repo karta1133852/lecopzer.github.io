@@ -185,6 +185,20 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 唯農大樓                      7117 </place>
+<note> 首次上課時間為2月20日 </note>
+</A6>
+
+<A6 id="014">
+<num>A6-014</num>
+<class></class>
+<group></group>
+<name> 服務學習（三）—校園淨塑活動 </name>
+<teacher> 邵揮洲  </teacher>
+<score> 0 </score>
+<time> [3]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 系統系館                      56113 </place>
 <note></note>
 </A6>
 

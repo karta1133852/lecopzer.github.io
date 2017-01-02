@@ -343,7 +343,7 @@
 <name> 計算水力學 </name>
 <teacher> 唐啟釗  </teacher>
 <score> 3 </score>
-<time> [5]3~4  ,  [3]5  </time>
+<time> [5]6~7  ,  [3]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
@@ -445,6 +445,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
+<N8 id="047">
+<num>N8-047</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 非線性波動力學 </name>
+<teacher> 黃煌煇  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
 <note></note>
 </N8>
 

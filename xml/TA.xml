@@ -40,8 +40,8 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note></note>
+<place></place>
+<note> 上課地點：健照所會議室 </note>
 </TA>
 
 <TA id="005">
@@ -69,7 +69,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 上課地點：健照所會議室 </note>
 </TA>
 
 <TA id="007">
@@ -127,7 +127,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 上課地點：健照所會議室 </note>
 </TA>
 
 <TA id="011">
@@ -158,6 +158,20 @@
 <type> 講義 </type>
 <place></place>
 <note> 教室於心理系5樓玻璃會議室 </note>
+</TA>
+
+<TA id="013">
+<num>TA-013</num>
+<class> 博一                           </class>
+<group></group>
+<name> 高等臨床心理治療--以神經心理學走向之治療 </name>
+<teacher> 郭乃文  </teacher>
+<score> 3 </score>
+<time> [3]3~N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：健照所二樓會議室與四樓團體治療室 </note>
 </TA>
 
 </content>
