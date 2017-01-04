@@ -233,7 +233,7 @@
 <name> 英語口語訓練（四） </name>
 <teacher> 王穎  </teacher>
 <score> 3 </score>
-<time> [3]7  ,  [1]5~6  </time>
+<time> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26421 </place>
@@ -247,7 +247,7 @@
 <name> 英語口語訓練（四） </name>
 <teacher> 石苓  </teacher>
 <score> 3 </score>
-<time> [3]7  ,  [1]5~6  </time>
+<time> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26423 </place>
@@ -261,7 +261,7 @@
 <name> 英語口語訓練（四） </name>
 <teacher> 游素玲  </teacher>
 <score> 3 </score>
-<time> [3]7  ,  [1]5~6  </time>
+<time> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26401 </place>
@@ -275,7 +275,7 @@
 <name> 英文作文（四） </name>
 <teacher> 閔慧慈  </teacher>
 <score> 3 </score>
-<time> [4]2  ,  [2]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26404 </place>
@@ -289,7 +289,7 @@
 <name> 英文作文（四） </name>
 <teacher> 陳昭芳  </teacher>
 <score> 3 </score>
-<time> [4]2  ,  [2]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26406 </place>
@@ -303,7 +303,7 @@
 <name> 英文作文（四） </name>
 <teacher> 鄒文莉  </teacher>
 <score> 3 </score>
-<time> [4]2  ,  [2]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26408 </place>
@@ -317,7 +317,7 @@
 <name> 英文作文（四） </name>
 <teacher> 游素玲  </teacher>
 <score> 3 </score>
-<time> [4]2  ,  [2]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26405 </place>
@@ -331,7 +331,7 @@
 <name> 日文（四） </name>
 <teacher> 黃淑妙  </teacher>
 <score> 3 </score>
-<time> [3]2  ,  [1]2~3  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26408 </place>
@@ -345,7 +345,7 @@
 <name> 法文（四） </name>
 <teacher> 陳健宏  </teacher>
 <score> 3 </score>
-<time> [3]2  ,  [1]2~3  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26404 </place>
@@ -359,7 +359,7 @@
 <name> 西班牙文（四） </name>
 <teacher> 盧慧娟  </teacher>
 <score> 3 </score>
-<time> [3]2  ,  [1]2~3  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26406 </place>
@@ -373,7 +373,7 @@
 <name> 德文（四） </name>
 <teacher> 謝菁玉  </teacher>
 <score> 3 </score>
-<time> [3]2  ,  [1]2~3  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26405 </place>

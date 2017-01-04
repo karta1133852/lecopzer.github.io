@@ -75,7 +75,7 @@
 <name> 基本設計（二） </name>
 <teacher> 陳劭農  </teacher>
 <score> 3 </score>
-<time> [1]5~8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 無                            53306 </place>
@@ -89,7 +89,7 @@
 <name> 基本設計（二） </name>
 <teacher> 陳璽任  </teacher>
 <score> 3 </score>
-<time> [1]5~8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 無                            53313 </place>
@@ -173,7 +173,7 @@
 <name> 產品設計（二） </name>
 <teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [1]5~8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 工設系館                      5206 </place>
@@ -187,7 +187,7 @@
 <name> 產品設計（二） </name>
 <teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [1]5~8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 工設系館                      5204A </place>
@@ -285,7 +285,7 @@
 <name> 工業設計（二） </name>
 <teacher> 曾劍峰  </teacher>
 <score> 3 </score>
-<time> [1]5~8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 工設系館                      5256A </place>
@@ -299,7 +299,7 @@
 <name> 工業設計（二） </name>
 <teacher> 蕭世文  </teacher>
 <score> 3 </score>
-<time> [1]5~8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 工設系館                      5205A </place>
@@ -313,7 +313,7 @@
 <name> 工業設計（二） </name>
 <teacher> 劉說芳  </teacher>
 <score> 3 </score>
-<time> [1]5~8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 工設系館                      5205B </place>
@@ -374,6 +374,20 @@
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
 <note></note>
+</F3>
+
+<F3 id="111">
+<num>F3-111</num>
+<class></class>
+<group></group>
+<name> 經營管理與國際行銷 </name>
+<teacher> 陸定邦  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5204A </place>
+<note> 服務科學與體驗學程 </note>
 </F3>
 
 <F3 id="112">

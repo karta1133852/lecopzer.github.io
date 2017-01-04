@@ -261,7 +261,7 @@
 <name> 數值製圖 </name>
 <teacher> 饒見有  </teacher>
 <score> 3 </score>
-<time> [2]6  ,  [3]3~4  </time>
+<time> [3]3~4  ,  [2]6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 測量系館                      55170 </place>
@@ -352,6 +352,22 @@
 <note></note>
 </F6>
 
+<F6 id="111">
+<num>F6-111</num>
+<class></class>
+<group></group>
+<name> 專題研究（一） </name>
+<teacher> 洪榮宏   ,  尤瑞哲   ,  江凱偉   ,  林昭宏   ,  郭重言   ,  曾義星   ,  饒見有   ,  朱宏杰   ,  呂學展* </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</F6>
+
 <F6 id="152">
 <num>F6-152</num>
 <class></class>
@@ -426,22 +442,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
 <note></note>
-</F6>
-
-<F6 id="157">
-<num>F6-157</num>
-<class></class>
-<group></group>
-<name> 專題研究（一） </name>
-<teacher> 洪榮宏   ,  尤瑞哲   ,  江凱偉   ,  林昭宏   ,  郭重言   ,  曾義星   ,  饒見有   ,  朱宏杰   ,  呂學展* </teacher>
-<score> 2 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
 </F6>
 
 <F6 id="158">

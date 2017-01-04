@@ -1363,7 +1363,7 @@
 <class></class>
 <group></group>
 <name> 生活園藝 </name>
-<teacher> 郭瑋君  </teacher>
+<teacher></teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 必修 </must>
@@ -1661,7 +1661,7 @@
 <score> 1 </score>
 <time> [4]6  </time>
 <must> 必修 </must>
-<type> 科際整合 </type>
+<type> 社會科學 </type>
 <place> 系統系館                      56226 </place>
 <note> 領域通識 </note>
 </A9>

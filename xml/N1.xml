@@ -268,15 +268,15 @@
 
 <N1 id="041">
 <num>N1-041</num>
-<class> 碩博                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 機構設計 </name>
-<teacher> 黃文敏  </teacher>
+<name> 高等動力學 </name>
+<teacher> 藍兆杰  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [1]3~4  ,  [2]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91204 </place>
+<place> 機械系館                      91205 </place>
 <note></note>
 </N1>
 

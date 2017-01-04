@@ -346,6 +346,20 @@
 <note></note>
 </P3>
 
+<P3 id="045">
+<num>P3-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 人本資訊系統與互動經驗設計 </name>
+<teacher> 曾元琦  </teacher>
+<score> 3 </score>
+<time> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5256A </place>
+<note></note>
+</P3>
+
 <P3 id="048">
 <num>P3-048</num>
 <class> 碩博                           </class>
@@ -381,10 +395,10 @@
 <name> 設計倫理與哲理 </name>
 <teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 無                            53306 </place>
+<place> 工設系館                      5204A </place>
 <note></note>
 </P3>
 
