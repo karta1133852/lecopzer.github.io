@@ -448,20 +448,6 @@
 <note></note>
 </N2>
 
-<N2 id="155">
-<num>N2-155</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 顯示器線路設計專論 </name>
-<teacher> 林志隆  </teacher>
-<score> 3 </score>
-<time> [2]7~8  ,  [1]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92271 </place>
-<note></note>
-</N2>
-
 <N2 id="159">
 <num>N2-159</num>
 <class> 碩博                           </class>
@@ -502,20 +488,6 @@
 <type> 講義 </type>
 <place> 電機系館                      92371 </place>
 <note></note>
-</N2>
-
-<N2 id="172">
-<num>N2-172</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電子電路系統設計 </name>
-<teacher> 楊慶隆  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92171 </place>
-<note> 大四碩班合班 </note>
 </N2>
 
 <N2 id="177">
@@ -588,6 +560,20 @@
 <note> 碩專、碩博合英語授課 </note>
 </N2>
 
+<N2 id="187">
+<num>N2-187</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 微波工程及其生醫應用 </name>
+<teacher> 楊慶隆  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92171 </place>
+<note></note>
+</N2>
+
 <N2 id="190">
 <num>N2-190</num>
 <class> 碩博                           </class>
@@ -600,20 +586,6 @@
 <type> 講義 </type>
 <place> 電機系館                      92453 </place>
 <note> 電機資訊合班電機系四樓會議室 </note>
-</N2>
-
-<N2 id="191">
-<num>N2-191</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電力系統規劃 </name>
-<teacher> 蕭純育  </teacher>
-<score> 3 </score>
-<time> [6]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 碩博碩專合班 </note>
 </N2>
 
 <N2 id="193">
@@ -754,20 +726,6 @@
 <type> 研討 </type>
 <place> 電機系館                      92377 </place>
 <note> 碩二 </note>
-</N2>
-
-<N2 id="308">
-<num>N2-308</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電力系統規劃 </name>
-<teacher> 蕭純育  </teacher>
-<score> 3 </score>
-<time> [6]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 碩博碩專合班 </note>
 </N2>
 
 <N2 id="317">

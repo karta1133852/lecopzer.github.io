@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
+<A6 id="001">
+<num>A6-001</num>
+<class></class>
+<group></group>
+<name> 服務學習（三）—關心不卡關 </name>
+<teacher> 陳高欽  </teacher>
+<score> 0 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 唯農大樓                      7110 </place>
+<note> 首次上課時間2/22(三)上午10:10-12:00，地點：唯農大樓7110教室 </note>
+</A6>
+
 <A6 id="002">
 <num>A6-002</num>
 <class></class>
@@ -229,7 +243,7 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 物治系館                      B02 </place>
-<note></note>
+<note> 首次上課時間為3/1(星期三)中午12:10 </note>
 </A6>
 
 </content>

@@ -98,20 +98,6 @@
 <note> 英語授課 </note>
 </VK>
 
-<VK id="008">
-<num>VK-008</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電子電路系統設計 </name>
-<teacher> 楊慶隆  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92171 </place>
-<note> 大四碩班合班 </note>
-</VK>
-
 <VK id="009">
 <num>VK-009</num>
 <class> 碩一二                         </class>

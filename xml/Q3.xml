@@ -434,18 +434,4 @@
 <note> 電資學院學生選修 </note>
 </Q3>
 
-<Q3 id="054">
-<num>Q3-054</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 資料壓縮 </name>
-<teacher> 郭致宏  </teacher>
-<score> 3 </score>
-<time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92271 </place>
-<note></note>
-</Q3>
-
 </content>

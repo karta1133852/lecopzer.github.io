@@ -300,6 +300,20 @@
 <note> 醫院門診 </note>
 </S7>
 
+<S7 id="022">
+<num>S7-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 食品安全風險評估 </name>
+<teacher> 廖寶琦  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：環醫所8063研討室 </note>
+</S7>
+
 <S7 id="101">
 <num>S7-101</num>
 <class> 博一                           </class>

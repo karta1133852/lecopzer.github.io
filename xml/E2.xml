@@ -904,20 +904,6 @@
 <note></note>
 </E2>
 
-<E2 id="111">
-<num>E2-111</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 無線系統之技術與應用 </name>
-<teacher> 楊慶隆  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92271 </place>
-<note> 大三大四合班 </note>
-</E2>
-
 <E2 id="112">
 <num>E2-112</num>
 <class> 甲                             </class>
@@ -1284,20 +1270,6 @@
 <type> 講義 </type>
 <place> 電機系館                      92523 </place>
 <note> 大四與碩士班合班 </note>
-</E2>
-
-<E2 id="155">
-<num>E2-155</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 電子電路系統設計 </name>
-<teacher> 楊慶隆  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92171 </place>
-<note> 大四碩班合班 </note>
 </E2>
 
 <E2 id="156">

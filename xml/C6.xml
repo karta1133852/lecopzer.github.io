@@ -5,12 +5,12 @@
 <class></class>
 <group></group>
 <name> 普通生物學（二） </name>
-<teacher> 王涵青   ,  張純純   ,  林鼎晏   ,  洪良宜* </teacher>
+<teacher> 王涵青   ,  張純純   ,  林鼎晏   ,  洪良宜*  ,  郭瑋君  </teacher>
 <score> 4 </score>
-<time> </time>
+<time> [1]5~6  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 照坤精密儀器大樓              95A021 </place>
 <note></note>
 </C6>
 
@@ -19,12 +19,12 @@
 <class></class>
 <group></group>
 <name> 普通生物學實驗（二） </name>
-<teacher> 張純純   ,  林鼎晏   ,  洪良宜* </teacher>
+<teacher> 張純純   ,  林鼎晏   ,  洪良宜*  ,  郭瑋君  </teacher>
 <score> 1 </score>
-<time> </time>
+<time> [5]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
+<place> 生科系館                      3435 </place>
 <note></note>
 </C6>
 
