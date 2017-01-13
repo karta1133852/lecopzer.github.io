@@ -291,21 +291,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
-<note> 學號倒數第2碼為單數之單數班，全體學生第一階段選課不可自行換班並限依學號規定分班選課，違者必須退選。 </note>
-</D2>
-
-<D2 id="107">
-<num>D2-107</num>
-<class></class>
-<group></group>
-<name> 民事訴訟法（二） </name>
-<teacher> 邵靖惠  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    實習法庭 </place>
-<note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段選課不可自行換班並限依學號規定分班選課，違者必須退選。 </note>
+<note> 合班上課 </note>
 </D2>
 
 <D2 id="108">

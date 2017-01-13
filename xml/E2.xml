@@ -163,7 +163,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 普通物理學實驗（二） </name>
-<teacher> 陳泳帆  </teacher>
+<teacher> 張書銓  </teacher>
 <score> 1 </score>
 <time> [1]1~3  </time>
 <must> 必修 </must>
@@ -883,10 +883,10 @@
 <name> 數位通訊 </name>
 <teacher> 張志文  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time> [2]1  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92283 </place>
+<place> 電機系館                      92271 </place>
 <note></note>
 </E2>
 
