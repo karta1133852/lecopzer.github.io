@@ -721,11 +721,11 @@
 <name> 社會語言學導讀：宏觀篇 </name>
 <teacher> 蔡美慧  </teacher>
 <score> 3 </score>
-<time> [4]5~6  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26406 </place>
-<note> 語言學選修Linguistics,週四中午上課 </note>
+<place> 修齊大樓                      26402 </place>
+<note> 語言學選修Linguistics </note>
 </B2>
 
 <B2 id="152">
@@ -777,11 +777,11 @@
 <name> 英文醫療選讀：醫療系統與溝通 </name>
 <teacher> 蔡美慧  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26402 </place>
-<note> 語言學選修Linguistics </note>
+<place> 修齊大樓                      26406 </place>
+<note> 週四中午上課 </note>
 </B2>
 
 <B2 id="156">

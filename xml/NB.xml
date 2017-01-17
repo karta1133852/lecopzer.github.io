@@ -98,20 +98,6 @@
 <note> 英語授課 </note>
 </NB>
 
-<NB id="013">
-<num>NB-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 材料科技英文寫作 </name>
-<teacher> 謝馬利歐  </teacher>
-<score> 3 </score>
-<time> [3]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44124 </place>
-<note> 英語授課，材料所與尖端所合開 </note>
-</NB>
-
 <NB id="014">
 <num>NB-014</num>
 <class> 碩博                           </class>
@@ -124,20 +110,6 @@
 <type> 講義 </type>
 <place> 材料新館                      44202 </place>
 <note> 1. 英語授課 2. 限40人選課 3. 外籍生優先 4. 第一階段不受理選課 </note>
-</NB>
-
-<NB id="015">
-<num>NB-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等固態物理（二） </name>
-<teacher> 謝馬利歐  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44124 </place>
-<note> 英語授課，材料所與尖端所合開 </note>
 </NB>
 
 <NB id="016">
