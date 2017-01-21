@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<RA id="001">
-<num>RA-001</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 陳正忠  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</RA>
-
 <RA id="002">
 <num>RA-002</num>
 <class> 碩博                           </class>
@@ -282,20 +266,18 @@
 <note> 限修滿18學分以上並修完一門方法論課程學生選修 </note>
 </RA>
 
-<RA id="301">
-<num>RA-301</num>
-<class> 碩專                           </class>
+<RA id="021">
+<num>RA-021</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論 </name>
+<name> 策略資訊系統 </name>
 <teacher> 陳正忠  </teacher>
-<score> 0 </score>
-<time> 
-  </time>
+<score> 3 </score>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
 </RA>
 
 <RA id="302">
@@ -522,20 +504,32 @@
 <note> 限修滿18學分以上並修完一門方法論課程學生選修 </note>
 </RA>
 
+<RA id="318">
+<num>RA-318</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 策略資訊系統 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
 <RA id="331">
 <num>RA-331</num>
 <class> 碩專                           </class>
 <group></group>
 <name> 電子商務 </name>
-<teacher> 未定  </teacher>
+<teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 台北班課程 </note>
 </RA>
 
 <RA id="332">
