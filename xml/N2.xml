@@ -406,6 +406,20 @@
 <note></note>
 </N2>
 
+<N2 id="140">
+<num>N2-140</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 負載潮流分析 </name>
+<teacher> 蕭純育  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note></note>
+</N2>
+
 <N2 id="142">
 <num>N2-142</num>
 <class> 碩博                           </class>
@@ -754,6 +768,20 @@
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
 <note> 電資學院學生選修 </note>
+</N2>
+
+<N2 id="319">
+<num>N2-319</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 負載潮流分析 </name>
+<teacher> 蕭純育  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note></note>
 </N2>
 
 <N2 id="323">

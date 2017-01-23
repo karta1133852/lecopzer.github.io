@@ -112,6 +112,20 @@
 <note> 資訊所醫資所製造所體健所合班(運動科技產業領域專業選修課程) </note>
 </RB>
 
+<RB id="009">
+<num>RB-009</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 休閒行為專題研究 </name>
+<teacher> 周學雯  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂視聽室 </place>
+<note></note>
+</RB>
+
 <RB id="010">
 <num>RB-010</num>
 <class> 碩一                           </class>

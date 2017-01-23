@@ -25,7 +25,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 工管系館                      61104 </place>
-<note> 西洋藝術史,104學年度(含)以前入學生為核心通識公民與歷史領域課程 </note>
+<note> 西洋藝術史,104學年度(含)以前入學生為核心通識公民與歷史領域課程。屬美學與藝術跨域學分學程。 </note>
 </A9>
 
 <A9 id="013">
@@ -124,6 +124,20 @@
 <type> 自然與工程科學 </type>
 <place> 化工系館                      93322 </place>
 <note> 領域通識,限文學院，社科院及管理學院選修 </note>
+</A9>
+
+<A9 id="047">
+<num>A9-047</num>
+<class></class>
+<group></group>
+<name> 創意設計 </name>
+<teacher> 張天豪   ,  周君瑞*  ,  陳璽任  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 會計系館                      63102 </place>
+<note> 科際整合課程相關領域：人文學、社會科學 </note>
 </A9>
 
 <A9 id="051">
@@ -403,7 +417,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 數學系館                      3172 </place>
-<note> 台灣美術史,104學年度(含)以前入學生為核心通識公民與歷史領域課程 </note>
+<note> 台灣美術史,104學年度(含)以前入學生為核心通識公民與歷史領域課程。屬美學與藝術跨域學分學程。 </note>
 </A9>
 
 <A9 id="104">
@@ -669,7 +683,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 水利系館                      4622 </place>
-<note> 西洋藝術史,104學年度(含)以前入學生為核心通識公民與歷史領域課程 </note>
+<note> 西洋藝術史,104學年度(含)以前入學生為核心通識公民與歷史領域課程。屬美學與藝術跨域學分學程。 </note>
 </A9>
 
 <A9 id="138">
@@ -826,6 +840,20 @@
 <note> 領域通識，限大學部學生，不接受特殊因素人工加簽 </note>
 </A9>
 
+<A9 id="175">
+<num>A9-175</num>
+<class></class>
+<group></group>
+<name> 西拉雅語文數位復育及線上教育 </name>
+<teacher> 方雅慧   ,  陳麗君   ,  楊中平*  ,  盧文祥  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 系統系館                      56224 </place>
+<note></note>
+</A9>
+
 <A9 id="176">
 <num>A9-176</num>
 <class></class>
@@ -866,6 +894,20 @@
 <type> 科際整合 </type>
 <place> 空中大學                      53101 </place>
 <note> 科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="179">
+<num>A9-179</num>
+<class></class>
+<group></group>
+<name> 如何培養３創？ </name>
+<teacher> 劉世南  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note> 科際整合課程相關領域：人文學、社會科學、自然與工程 </note>
 </A9>
 
 <A9 id="200">
@@ -1582,6 +1624,20 @@
 <note> 科際整合課程相關領域：社會科學、生命科學與健康 </note>
 </A9>
 
+<A9 id="314">
+<num>A9-314</num>
+<class></class>
+<group></group>
+<name> 社會設計的引導與協同領導 </name>
+<teacher> 方雅慧  </teacher>
+<score> 2 </score>
+<time> [4]9~A  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 人社中心會議室；科際整合課程相關領域：人文學、社會科學 </note>
+</A9>
+
 <A9 id="317">
 <num>A9-317</num>
 <class></class>
@@ -2156,12 +2212,60 @@
 <note> 領域通識 </note>
 </A9>
 
+<A9 id="500">
+<num>A9-500</num>
+<class></class>
+<group></group>
+<name> 視覺藝術綜論實作實習：藝術與社區 </name>
+<teacher> 吳奕芳  </teacher>
+<score> 4 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="501">
+<num>A9-501</num>
+<class></class>
+<group></group>
+<name> 設計藝術綜論實作實習：D立方工作坊 </name>
+<teacher> 簡聖芬   ,  馬敏元*  ,  楊佳翰  </teacher>
+<score> 4 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="502">
+<num>A9-502</num>
+<class></class>
+<group></group>
+<name> 表演藝術綜論實作實習：肢體、聲音與扮妝 </name>
+<teacher> 高美華  </teacher>
+<score> 4 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
 <A9 id="531">
 <num>A9-531</num>
 <class></class>
 <group></group>
 <name> 通識領袖論壇 </name>
-<teacher> 楊永年   ,  利德江* </teacher>
+<teacher> 楊永年*  ,  利德江  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
