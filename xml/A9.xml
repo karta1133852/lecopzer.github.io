@@ -94,7 +94,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note> 104學年度(含)入學生為核心通識哲學與藝術領域 </note>
 </A9>
 
@@ -570,7 +570,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -1578,7 +1578,7 @@
 <time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1306(資源後) </place>
+<place> 空中大學                      53101 </place>
 <note> 104學年度(含)以前入學生為核心通識哲學與藝術領域課程 </note>
 </A9>
 
@@ -1806,20 +1806,6 @@
 <note> 領域通識 </note>
 </A9>
 
-<A9 id="353">
-<num>A9-353</num>
-<class></class>
-<group></group>
-<name> 運動與科學 </name>
-<teacher> 邱宏達  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
-<must> 必修 </must>
-<type> 自然與工程科學 </type>
-<place> 企管系館                      62229 </place>
-<note> 領域通識 </note>
-</A9>
-
 <A9 id="363">
 <num>A9-363</num>
 <class></class>
@@ -1923,7 +1909,7 @@
 <class></class>
 <group></group>
 <name> 諾貝爾生醫獎得主所改變的世界 </name>
-<teacher> 王涵青   ,  劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝  </teacher>
+<teacher> 王涵青   ,  劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  陳炳焜   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝   ,  郭瑋君  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>

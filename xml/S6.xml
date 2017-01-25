@@ -33,7 +33,7 @@
 <class></class>
 <group></group>
 <name> 臨床實習（一） </name>
-<teacher> 高淑敏   ,  許美英   ,  林嘉音  </teacher>
+<teacher> 賴嘉鎮   ,  高淑敏   ,  許美英   ,  林嘉音   ,  鄭靜蘭*  ,  歐凰姿  </teacher>
 <score> 3 </score>
 <time> 
   </time>
@@ -293,7 +293,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習（二） </name>
-<teacher> 蔡瑞真  </teacher>
+<teacher> 蔡瑞真*  ,  周辰熹   ,  張惠華  </teacher>
 <score> 1 </score>
 <time> [2]5~7  </time>
 <must> 選修 </must>
@@ -314,6 +314,20 @@
 <type> 講義 </type>
 <place></place>
 <note> 在醫學院6樓810605會議室上課。 </note>
+</S6>
+
+<S6 id="058">
+<num>S6-058</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物流行病學與次級資料分析 </name>
+<teacher> 賴嘉鎮*  ,  高雅慧   ,  鄭靜蘭  </teacher>
+<score> 1 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 醫學院                        202D </place>
+<note></note>
 </S6>
 
 </content>

@@ -72,7 +72,7 @@
 
 <P7 id="018">
 <num>P7-018</num>
-<class> 碩專                           </class>
+<class> 碩博                           </class>
 <group></group>
 <name> 高等密碼學專論 </name>
 <teacher> 黃宗立  </teacher>
@@ -82,6 +82,20 @@
 <type> 講義 </type>
 <place> 資訊系館                      4260 </place>
 <note> 英語授課 </note>
+</P7>
+
+<P7 id="020">
+<num>P7-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 軟體品質管理 </name>
+<teacher> 朱治平  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4261 </place>
+<note></note>
 </P7>
 
 <P7 id="026">

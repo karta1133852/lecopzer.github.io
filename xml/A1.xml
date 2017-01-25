@@ -669,7 +669,7 @@
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 唯農大樓                      7217 </place>
-<note> 僅供身心障礙學生選修 </note>
+<note> 模組一，僅供身心障礙學生選修 </note>
 </A1>
 
 <A1 id="149">
@@ -1873,6 +1873,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7115 </place>
+<note></note>
+</A1>
+
+<A1 id="560">
+<num>A1-560</num>
+<class></class>
+<group></group>
+<name> 日文（六） </name>
+<teacher> 張巧螓  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
 <note></note>
 </A1>
 

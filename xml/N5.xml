@@ -10,7 +10,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note> 碩博三以上選修 </note>
 </N5>
 
@@ -122,7 +122,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note></note>
 </N5>
 
@@ -136,7 +136,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note></note>
 </N5>
 
@@ -150,7 +150,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note></note>
 </N5>
 
@@ -164,7 +164,7 @@
 <time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note></note>
 </N5>
 
@@ -193,6 +193,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 材料新館                      44609 </place>
+<note></note>
+</N5>
+
+<N5 id="081">
+<num>N5-081</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體工程 </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
 <note></note>
 </N5>
 

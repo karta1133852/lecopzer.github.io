@@ -348,7 +348,7 @@
 <time> [1]1~2  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
+<place> 社科院大樓                    七樓研討室B </place>
 <note> 限碩甲乙丙組選修 </note>
 </U2>
 
@@ -429,10 +429,10 @@
 <name> 法律經濟分析專題研究（一） </name>
 <teacher> 邵靖惠  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓研討室A </place>
+<place> 社科院大樓                    七樓研討室C </place>
 <note></note>
 </U2>
 
@@ -483,7 +483,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 稅法專題研究 </name>
-<teacher> 未定  </teacher>
+<teacher></teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 選修 </must>

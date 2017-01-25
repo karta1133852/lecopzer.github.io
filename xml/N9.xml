@@ -168,6 +168,34 @@
 <note></note>
 </N9>
 
+<N9 id="036">
+<num>N9-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 隨機程序 </name>
+<teacher> 陳昭羽  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41103 </place>
+<note> 大三、四、碩、博可選 </note>
+</N9>
+
+<N9 id="038">
+<num>N9-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等計算機數學 </name>
+<teacher> 黃悅民  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41111 </place>
+<note></note>
+</N9>
+
 <N9 id="040">
 <num>N9-040</num>
 <class> 碩博                           </class>
@@ -543,6 +571,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
+<note> 限工科系碩專班學生選修 </note>
+</N9>
+
+<N9 id="324">
+<num>N9-324</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 仿生系統 </name>
+<teacher> 周榮華  </teacher>
+<score> 3 </score>
+<time> [5]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41220 </place>
 <note> 限工科系碩專班學生選修 </note>
 </N9>
 

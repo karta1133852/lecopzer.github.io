@@ -1400,6 +1400,20 @@
 <note> 男女合班 </note>
 </A2>
 
+<A2 id="296">
+<num>A2-296</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 游泳自救與救生（男女） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            勝利游泳池 </place>
+<note></note>
+</A2>
+
 <A2 id="297">
 <num>A2-297</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -2042,6 +2056,20 @@
 <type> 講義 </type>
 <place> 勝八                          健休體適能 </place>
 <note> 男女合班 </note>
+</A2>
+
+<A2 id="396">
+<num>A2-396</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 游泳自救與救生（男女） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            勝利游泳池 </place>
+<note></note>
 </A2>
 
 <A2 id="401">

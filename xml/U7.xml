@@ -98,6 +98,20 @@
 <note></note>
 </U7>
 
+<U7 id="008">
+<num>U7-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 心理計量專題研究 </name>
+<teacher> 鄭中平  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
 <U7 id="009">
 <num>U7-009</num>
 <class> 碩博                           </class>
@@ -161,7 +175,7 @@
 <name> 神經科學綜論(二) </name>
 <teacher> 胡書榕  </teacher>
 <score> 3 </score>
-<time> [4]9~B  </time>
+<time> [3]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>

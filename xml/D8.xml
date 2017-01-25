@@ -56,7 +56,7 @@
 <time> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
@@ -150,6 +150,20 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80201 </place>
 <note> 本課程限40人修課，若選課人數超過上限將依選課時間進行強制退選 。 </note>
+</D8>
+
+<D8 id="054">
+<num>D8-054</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 周麗芳   ,  胡中凡* </teacher>
+<score> 0 </score>
+<time> [2]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    80201 </place>
+<note></note>
 </D8>
 
 <D8 id="058">
@@ -325,15 +339,13 @@
 <class></class>
 <group></group>
 <name> 助人技巧理論與實務 </name>
-<teacher> 未定  </teacher>
+<teacher> 徐欣萍  </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 社科院大樓                    80209 </place>
+<note> 本課程須進行分組演練，且有嚴格作業與實作要求，選修同學請務必先考量自身是否具備擔任專業助人者的興趣。 </note>
 </D8>
 
 <D8 id="154">
@@ -362,6 +374,36 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
 <note> 大碩合開課程 </note>
+</D8>
+
+<D8 id="156">
+<num>D8-156</num>
+<class></class>
+<group></group>
+<name> 文化與社會認知 </name>
+<teacher> 謝淑蘭*  ,  胡中凡   ,  黃碧群  </teacher>
+<score> 3 </score>
+<time> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80201 </place>
+<note></note>
+</D8>
+
+<D8 id="157">
+<num>D8-157</num>
+<class></class>
+<group></group>
+<name> 社會和情緒發展 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </D8>
 
 </content>

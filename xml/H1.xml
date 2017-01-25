@@ -93,7 +93,7 @@
 <name1> 成本會計（二） </name1>
 <time1> [5]3~4  </time1>
 <place1> 會計系館                      63104 </place1>
-<note1> 實習課將調至[1]N、5 </note1>
+<note1></note1>
 </H1>
 
 <H1 id="057">
@@ -197,7 +197,7 @@
 <class></class>
 <group></group>
 <name> 高級會計學（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 廖麗凱  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 必修 </must>

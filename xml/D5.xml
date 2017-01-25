@@ -70,7 +70,7 @@
 <time> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 測量系經緯廳                  經緯廳 </place>
+<place> 經緯廳                        經緯廳 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
@@ -282,20 +282,6 @@
 <note></note>
 </D5>
 
-<D5 id="118">
-<num>D5-118</num>
-<class></class>
-<group></group>
-<name> 兩岸經濟研究 </name>
-<teacher> 范錦明  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80103 </place>
-<note></note>
-</D5>
-
 <D5 id="120">
 <num>D5-120</num>
 <class></class>
@@ -391,7 +377,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80107 </place>
-<note></note>
+<note> 上機教室：社科院80305電腦教室 </note>
 </D5>
 
 <D5 id="163">
