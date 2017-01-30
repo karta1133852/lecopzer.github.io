@@ -116,10 +116,11 @@ h1 {
 }
 
 header{
-	width: 100%;
-	margin: 0;
-	padding: 0;
+	width: 60%;
+	margin-left: 0;
+	padding-left: 0%;
 	max-width: 2200px;
+  float:right;
 }
 
 header > ul{
@@ -137,22 +138,31 @@ header li{
 header a{
 	font-weight: bold;
 	color: #FFFFFF;
+  /*
 	background-color: #0053CF;
-	text-align: center;
 	padding: 12px;
+  */
+	padding: 10px;
+	background-color: #262626;
+	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
 	display: block;
-	font-size: 23px;
+	font-size: 18px;
 
 }
 header a:hover{
+  /*
 	background-color: #002255;
-
+  */
+	background-color: #808080;
 }
 
 footer{
+  /*
 	background-color: #75A2E5;
+  */
+	background-color: #262626;
 	margin:0;
 	padding: 2px 0 10px 0;
 	display: block;
@@ -283,10 +293,9 @@ section{
 }
 
 .home{
-
 	text-decoration: none;
-	color: #000000;
-
+	padding-left: 35px;
+	color: #FFFFFF;
 }
 
 #updateNote{
