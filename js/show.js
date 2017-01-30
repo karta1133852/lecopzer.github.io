@@ -370,7 +370,8 @@ function findAndPrintClass(maj,num) {
 		alert("系號 not found.");
 		return -1;
 	}
-	var x = loadXml("/xml/" + maj + ".xml");
+  var sem = document.getElementById("semesterSelect").value;
+	var x = loadXml(sem + "/" + maj + ".xml");
 	path = "/content/" + maj + "[@id='"+ num + "']";
 	var xml = x.responseXML;
 	/*	For IE	*/
