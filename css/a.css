@@ -164,7 +164,7 @@ footer{
   */
 	background-color: #262626;
 	margin:0;
-	padding: 2px 0 10px 0;
+	padding: 2px 0 15px 0;
 	display: block;
 	min-height: 40px;
 
@@ -201,7 +201,7 @@ section{
 }
 #navClassList{
 	background-color: #FAFAFA;
-	border: 0;
+	border: 0 0px 0 0;
 	width: 65%;
 	height: 210px;
 	overflow-y: scroll;
@@ -392,7 +392,7 @@ section{
 
 .ui-tabs .ui-tabs-panel{
 	background-color:#FAFAFA;
-
+  padding: 1em 0.2em;
 }
 
 .ui-tabs .ui-corner-all {
