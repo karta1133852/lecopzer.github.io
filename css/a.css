@@ -180,8 +180,7 @@ section{
 
 #delBtn{
 	position: relative;
-	margin: 0px 100px 0 0; 
-	float: right;
+  margin-left: 115px;
 }
 
 .addBtn{
@@ -208,7 +207,7 @@ section{
 	overflow-x: hidden;
 	resize: vertical;
 	overflow: auto;
-	border: 4px inset #e6e6e6;	
+	border: 2px inset #e6e6e6;	
 	float: left;
 }
 
@@ -217,16 +216,16 @@ section{
 }
 
 #navMiddle > button {
-	margin-left: 8px;
+  margin-top: 8px;
 }
 
 #classListDetail{
 	width: 30%;
 	margin-left: 10px;
 	height: 210px;
-	border: 4px ridge #e6e6e6;	
+	border: 3px ridge #e6e6e6;	
 	float: left;
-	overflow: scroll;
+	overflow: auto;
 }
 
 #classList{
