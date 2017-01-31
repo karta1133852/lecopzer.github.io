@@ -15,7 +15,7 @@ $(function() {
 });
 
 $(function() {
-	$("#classList").sortable();
+//	$("#classList").sortable();
 	$("#navAddFloat").draggable();
 	$("#tabs").tabs();
 });

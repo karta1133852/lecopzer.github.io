@@ -141,9 +141,11 @@ function addClass() {
 	var num = result.getElementsByTagName("num")[0].childNodes[0].nodeValue.trim();
 	var name = result.getElementsByTagName("name")[0].childNodes[0].nodeValue.trim()
 	var _time = result.getElementsByTagName("time")[0].childNodes[0].nodeValue.trim();
-	document.getElementById("classList").innerHTML += "<p id='p" + num + "' onclick='listClick(this)'" +
+	document.getElementById("classList").innerHTML += "<div id='p" + num + "' onclick='listClick(this)'" +
 	" onmouseenter='listMouseEnter(this)'>"+
-	num + "  " + name + "<span style='float:right;'>" + _time + "</span></p>";
+	num + "  " + name + "<span style='float:right;'>" + _time + "</span></div>"
+  + "<a id='a" + num + "' style='float:right;margin:13px 13px 0 0;color:red;'"+
+  " onclick='iconDelClick(this)' class='material-icons'>clear</a>";
 	
 	/*	num = 編號, count = 該課的總節數, credit = 該課的學分, 
 	 *	id = class的名稱(HTML的tag,不是課程名稱)	
@@ -584,8 +586,19 @@ function findOnfocusInList(x) {
 		return k;
 }
 
+
+function iconDel() {
+	document.getElementById("a" + cellOnfocus).remove();		
+}
+
+function iconDelClick(p) {
+	cellOnfocus = p.attributes["id"].value.slice(1);
+  delClick();
+}
+
 function delClick() {
 	if(cellOnfocus != "0") {
+    iconDel();
 		document.getElementById("p" + cellOnfocus).remove();		
 		var k = findOnfocusInList(cellOnfocus);
 

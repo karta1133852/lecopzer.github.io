@@ -234,24 +234,30 @@ section{
 	text-align: justify|center;
 }
 
-#classList p{
+#classList div{
 	border: 2px solid #47D1FF;
 	border-radius: 8px;
 	padding: 5px;
-	margin: 10px;
+	margin: 8px;
+  float: left;
 	transition: box-shadow 0.4s, background-color 0.4s;
 	-webkit-transition: box-shadow 0.4s, background-color 0.4s;
 	animation-name: shake;
 	-webkit-animation-name: shake;
 	animation-duration: 0.2s;
 	-webkit-animation-duration: 0.2s;
-
+  width: 90%;
 }
 
-#classList p:hover{
+#classList div:hover{
 	background-color: #85D6FF;
 	cursor: pointer;
 	box-shadow: 3px 5px 5px grey;
+}
+
+#classList a:hover{
+	cursor: pointer;
+	text-shadow: 3px 5px 5px grey;
 }
 
 .classListClick{
