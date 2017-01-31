@@ -358,11 +358,12 @@ function loadXml(dname) {
 		xhttp = new ActiveXObject("Microsoft.XMLHttp");
 	}
 	xhttp.open("GET", dname, false);
+  /*
 	try  {
 		xhttp.responseType = "msxml-document"
 	}catch(err){}
-
-	xhttp.send("");
+  */
+	xhttp.send();
 	return xhttp;
 }
 
