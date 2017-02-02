@@ -295,7 +295,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
-<note></note>
+<note> 碩博與碩專合班，英語授課 </note>
 </N6>
 
 <N6 id="032">
@@ -309,7 +309,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note> 碩博與碩專班合班，乙組核心。 </note>
+<note> 碩博與碩專班合班，乙組核心，英語授課。 </note>
 </N6>
 
 <N6 id="033">
@@ -665,7 +665,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
-<note></note>
+<note> 碩博與碩專合班，英語授課 </note>
 </N6>
 
 <N6 id="332">
@@ -679,7 +679,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note> 碩博與碩專班合班，乙組核心。 </note>
+<note> 碩博與碩專班合班，乙組核心，英語授課。 </note>
 </N6>
 
 <N6 id="333">

@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 人類發展學（含實習） </name>
-<teacher> 馮瑞鶯*  ,  高綺吟   ,  賴維淑  </teacher>
+<teacher> 馮瑞鶯*  ,  高綺吟   ,  賴維淑   ,  張烱心  </teacher>
 <score> 3 </score>
 <time> [3]1~2  </time>
 <must> 必修 </must>
@@ -81,7 +81,7 @@
 <class></class>
 <group></group>
 <name> 基本護理學 </name>
-<teacher> 王瑤華*  ,  林梅鳳   ,  許玉雲   ,  林靜蘭   ,  謝曉燕  </teacher>
+<teacher> 王瑤華*  ,  林梅鳳   ,  許玉雲   ,  林靜蘭   ,  賴維淑   ,  鄭雅方   ,  謝曉燕  </teacher>
 <score> 2 </score>
 <time> [3]1~2  </time>
 <must> 必修 </must>
@@ -167,7 +167,7 @@
 <class></class>
 <group></group>
 <name> 兒科護理學 </name>
-<teacher> 黃美智   ,  馮瑞鶯   ,  高綺吟*  ,  陳建旭   ,  林啟禎   ,  林其和   ,  劉清泉   ,  吳俊明   ,  邱元佑   ,  楊燿榮   ,  杜伊芳   ,  周言穎   ,  徐碧真  </teacher>
+<teacher> 黃美智   ,  許玉雲   ,  馮瑞鶯   ,  高綺吟*  ,  陳宜   ,  陳建旭   ,  林啟禎   ,  林其和   ,  劉清泉   ,  吳俊明   ,  邱元佑   ,  楊燿榮   ,  杜伊芳   ,  蔡孟哲   ,  謝奇璋  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -195,7 +195,7 @@
 <class></class>
 <group></group>
 <name> 成人護理學（二） </name>
-<teacher> 張文芸*  ,  柯乃熒   ,  方素瓔   ,  陳幸眉   ,  賴維淑   ,  陳炯瑜   ,  劉明煇   ,  吳俊良   ,  黃福進   ,  曾堯麟   ,  林毅志   ,  邱威鑫   ,  謝棟漢  </teacher>
+<teacher> 張文芸*  ,  柯乃熒   ,  方素瓔   ,  陳幸眉   ,  賴維淑   ,  陳炯瑜   ,  吳俊良   ,  黃福進   ,  曾堯麟   ,  林毅志   ,  邱威鑫   ,  翁嘉澤  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
@@ -253,7 +253,7 @@
 <class></class>
 <group></group>
 <name> 老人護理 </name>
-<teacher> 張文芸*  ,  盧豐華  </teacher>
+<teacher> 張文芸* </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 選修 </must>
@@ -281,7 +281,7 @@
 <class></class>
 <group></group>
 <name> 專業問題研討 </name>
-<teacher> 王瑤華   ,  張瑩如* </teacher>
+<teacher> 王瑤華   ,  張瑩如*  ,  王靜枝   ,  林靜蘭*  ,  方素瓔   ,  黃維珍   ,  謝曉燕   ,  郭雪敏  </teacher>
 <score> 2 </score>
 <time> [1]2~3  </time>
 <must> 選修 </must>
@@ -295,7 +295,7 @@
 <class></class>
 <group></group>
 <name> 護理行政概論 </name>
-<teacher> 馬先芝   ,  張瑩如   ,  顏妙芬*  ,  黃維珍  </teacher>
+<teacher> 馬先芝   ,  張瑩如   ,  顏妙芬*  ,  王維芳   ,  許惠珠   ,  黃維珍   ,  郭雪敏  </teacher>
 <score> 2 </score>
 <time> [1]5~6  </time>
 <must> 必修 </must>
@@ -309,7 +309,7 @@
 <class></class>
 <group></group>
 <name> 護理行政實習 </name>
-<teacher> 張瑩如   ,  顏妙芬   ,  王維芳  </teacher>
+<teacher> 張瑩如   ,  顏妙芬   ,  王維芳   ,  郭雪敏  </teacher>
 <score> 2 </score>
 <time> [1]7~8  ,  [2]1~4  </time>
 <must> 必修 </must>
@@ -355,7 +355,7 @@
 <class></class>
 <group></group>
 <name> 綜合臨床護理學實習（二） </name>
-<teacher> 張文芸*  ,  高綺吟  </teacher>
+<teacher> 林梅鳳   ,  張文芸*  ,  高綺吟  </teacher>
 <score> 3 </score>
 <time> [2]5~8  ,  [3]1~8  </time>
 <must> 必修 </must>

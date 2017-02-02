@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 護理研究 </name>
-<teacher> 柯乃熒*  ,  方素瓔   ,  賴維淑  </teacher>
+<teacher> 張瑩如   ,  柯乃熒*  ,  馮瑞鶯   ,  方素瓔   ,  戴大為  </teacher>
 <score> 3 </score>
 <time> [4]5~7  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 進階成人護理學 </name>
-<teacher> 柯乃熒   ,  方素瓔*  ,  陳幸眉  </teacher>
+<teacher> 柯乃熒   ,  方素瓔*  ,  陳幸眉   ,  賴維淑  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 必修 </must>
@@ -47,7 +47,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 進階精神衛生護理學 </name>
-<teacher> 林梅鳳   ,  徐畢卿*  ,  林靜蘭  </teacher>
+<teacher> 林梅鳳   ,  徐畢卿*  ,  林靜蘭   ,  陳柏熹   ,  黃阿敏  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 必修 </must>
@@ -133,7 +133,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 具文化適切性之健康照護 </name>
-<teacher> 王瑤華   ,  黃美智* </teacher>
+<teacher> 王瑤華   ,  黃美智*  ,  柯乃熒  </teacher>
 <score> 2 </score>
 <time> [5]5~6  </time>
 <must> 選修 </must>
@@ -163,7 +163,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 實證健康照護 </name>
-<teacher> 張瑩如*  ,  胡芳文  </teacher>
+<teacher> 張瑩如*  ,  柯乃熒   ,  許玉雲  </teacher>
 <score> 2 </score>
 <time> [1]2~4  ,  [1]9~B  </time>
 <must> 必修 </must>
@@ -235,7 +235,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 婦幼衛生照護議題研討 </name>
-<teacher> 許玉雲  </teacher>
+<teacher> 王瑤華   ,  張瑩如   ,  黃美智   ,  許玉雲   ,  馮瑞鶯   ,  高綺吟   ,  吳孟興   ,  鄭雅敏  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>

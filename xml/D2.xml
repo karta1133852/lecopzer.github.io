@@ -145,7 +145,7 @@
 <class></class>
 <group></group>
 <name> 民法物權編 </name>
-<teacher></teacher>
+<teacher> 陳汶津  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -243,7 +243,7 @@
 <class></class>
 <group></group>
 <name> 稅法總論 </name>
-<teacher></teacher>
+<teacher> 陳汶津  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 選修 </must>
@@ -453,13 +453,13 @@
 <class></class>
 <group></group>
 <name> 醫療與保險專題研究 </name>
-<teacher> 陳俞沛* </teacher>
+<teacher> 陳俞沛*  ,  李伯璋  </teacher>
 <score> 2 </score>
-<time> </time>
+<time> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note></note>
+<place> 社科院大樓                    80205 </place>
+<note> 專題及實例研討 </note>
 </D2>
 
 </content>

@@ -182,20 +182,6 @@
 <note> 選修課程 </note>
 </RA>
 
-<RA id="015">
-<num>RA-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 行銷模式 </name>
-<teacher> 高如妃  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62203 </place>
-<note> 選修課程 </note>
-</RA>
-
 <RA id="016">
 <num>RA-016</num>
 <class> 碩博                           </class>
@@ -417,20 +403,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 選修課程 </note>
-</RA>
-
-<RA id="312">
-<num>RA-312</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 行銷模式 </name>
-<teacher> 高如妃  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62203 </place>
 <note> 選修課程 </note>
 </RA>
 
