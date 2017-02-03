@@ -281,7 +281,7 @@
 <class></class>
 <group></group>
 <name> 專業問題研討 </name>
-<teacher> 王瑤華   ,  張瑩如*  ,  王靜枝   ,  林靜蘭*  ,  方素瓔   ,  黃維珍   ,  謝曉燕   ,  郭雪敏  </teacher>
+<teacher> 王瑤華   ,  張瑩如   ,  王靜枝   ,  林靜蘭*  ,  方素瓔   ,  黃維珍   ,  謝曉燕   ,  郭雪敏  </teacher>
 <score> 2 </score>
 <time> [1]2~3  </time>
 <must> 選修 </must>
@@ -309,7 +309,7 @@
 <class></class>
 <group></group>
 <name> 護理行政實習 </name>
-<teacher> 張瑩如   ,  顏妙芬   ,  王維芳   ,  郭雪敏  </teacher>
+<teacher> 張瑩如   ,  顏妙芬*  ,  王維芳   ,  郭雪敏  </teacher>
 <score> 2 </score>
 <time> [1]7~8  ,  [2]1~4  </time>
 <must> 必修 </must>
@@ -355,7 +355,7 @@
 <class></class>
 <group></group>
 <name> 綜合臨床護理學實習（二） </name>
-<teacher> 林梅鳳   ,  張文芸*  ,  高綺吟  </teacher>
+<teacher> 林梅鳳   ,  張文芸*  ,  高綺吟   ,  李歡芳  </teacher>
 <score> 3 </score>
 <time> [2]5~8  ,  [3]1~8  </time>
 <must> 必修 </must>
