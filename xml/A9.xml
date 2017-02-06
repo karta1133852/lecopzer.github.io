@@ -1461,7 +1461,7 @@
 <class></class>
 <group></group>
 <name> 學術倫理：理論、案例與應用 </name>
-<teacher> 陳弘學  </teacher>
+<teacher> 甘偵蓉*  ,  陳弘學  </teacher>
 <score> 1 </score>
 <time> [3]5~6  </time>
 <must> 必修 </must>
@@ -2182,6 +2182,20 @@
 <type> 生命科學與健康 </type>
 <place> 生科系館                      3404 </place>
 <note> 領域通識 </note>
+</A9>
+
+<A9 id="468">
+<num>A9-468</num>
+<class></class>
+<group></group>
+<name> 近代生物科學思維的變遷-史學與哲學考察 </name>
+<teacher> 楊倍昌  </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 醫學院                        303D </place>
+<note> 相關領域：人文學、生命科學與健康 </note>
 </A9>
 
 <A9 id="500">
