@@ -25,7 +25,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63205 </place>
-<note> 非使用電腦教室時將改至63102上課 </note>
+<note> 非使用電腦教室時將改至63209上課 </note>
 </R1>
 
 <R1 id="003">
@@ -38,7 +38,7 @@
 <time> [2]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63404 </place>
+<place> 會計系館                      63205 </place>
 <note></note>
 </R1>
 
@@ -94,7 +94,7 @@
 <time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63404 </place>
 <note></note>
 </R1>
 

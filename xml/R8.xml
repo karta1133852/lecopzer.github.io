@@ -52,7 +52,7 @@
 <time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63404 </place>
 <note></note>
 </R8>
 
@@ -277,7 +277,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63205 </place>
-<note> 非使用電腦教室時將改至63101上課 </note>
+<note> 非使用電腦教室時將改至63404上課 </note>
 </R8>
 
 <R8 id="308">

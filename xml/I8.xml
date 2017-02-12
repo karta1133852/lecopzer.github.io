@@ -153,13 +153,13 @@
 <class></class>
 <group></group>
 <name> 免疫學（含實驗） </name>
-<teacher> 徐麗君   ,  何宗憲   ,  王世敏   ,  凌　斌   ,  張志鵬* </teacher>
+<teacher> 張志鵬* </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
-<note> 3F實驗室 </note>
+<place></place>
+<note> 醫學院第三講堂 </note>
 <class1></class1>
 <group1></group1>
 <name1> 免疫學（含實驗） </name1>
@@ -207,8 +207,22 @@
 <name> 分析化學 </name>
 <teacher> 郭賓崇  </teacher>
 <score> 2 </score>
-<time> [5]7~8  </time>
+<time> [5]5~6  </time>
 <must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</I8>
+
+<I8 id="066">
+<num>I8-066</num>
+<class></class>
+<group></group>
+<name> 藥用植物學 </name>
+<teacher> 陳益昇  </teacher>
+<score> 2 </score>
+<time> [5]7~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        304D </place>
 <note></note>

@@ -25,7 +25,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
-<note> 選修課程 </note>
+<note> 選修課程(台北班課程) </note>
 </RA>
 
 <RA id="004">
@@ -109,7 +109,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 選修課程 </note>
+<note> 選修課程(台北班課程) </note>
 </RA>
 
 <RA id="010">
@@ -277,7 +277,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
-<note> 選修課程 </note>
+<note> 選修課程(台北班課程) </note>
 </RA>
 
 <RA id="303">
@@ -361,7 +361,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 選修課程 </note>
+<note> 選修課程(台北班課程) </note>
 </RA>
 
 <RA id="309">
@@ -511,7 +511,7 @@
 <name> 投資學 </name>
 <teacher> 陳俊男  </teacher>
 <score> 3 </score>
-<time> [7]2~4  </time>
+<time> [7]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -525,7 +525,7 @@
 <name> 供應鏈風險管理 </name>
 <teacher> 張巍勳  </teacher>
 <score> 3 </score>
-<time> [7]6~8  </time>
+<time> [7]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>

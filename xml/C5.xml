@@ -235,13 +235,13 @@
 <class></class>
 <group></group>
 <name> 代謝生化學 </name>
-<teacher> 曾淑芬   ,  何盧勳*  ,  廖泓鈞   ,  彭怡禎  </teacher>
+<teacher> 曾淑芬   ,  何盧勳   ,  廖泓鈞   ,  彭怡禎* </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3417 </place>
-<note> 需先修:《生物化學（一）》《普通生物學（二） /必修/4.0學分/60分以上 </note>
+<note></note>
 </C5>
 
 <C5 id="066">
@@ -268,7 +268,7 @@
 <time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科系館                      3404 </place>
 <note> 歡迎生技產業系、生科系大二以上同學選修 </note>
 </C5>
 
@@ -417,7 +417,7 @@
 <class></class>
 <group></group>
 <name> 免疫學 </name>
-<teacher> 曾淑芬*  ,  何盧勳   ,  李純純  </teacher>
+<teacher> 曾淑芬   ,  何盧勳*  ,  李純純  </teacher>
 <score> 3 </score>
 <time> [2]5~6  ,  [3]4  </time>
 <must> 選修 </must>

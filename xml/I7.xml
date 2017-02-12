@@ -19,7 +19,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（二） </name>
-<teacher> 馬慧英   ,  張玲慧   ,  張雁晴  </teacher>
+<teacher> 汪翠瀅*  ,  陳官琳  </teacher>
 <score> 0 </score>
 <time> [1]N  </time>
 <must> 必修 </must>
@@ -173,7 +173,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（三） </name>
-<teacher> 林玲伊   ,  黃百川  </teacher>
+<teacher> 馬慧英*  ,  張玲慧   ,  張雁晴  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -641,6 +641,22 @@
 <name> 社區職能治療實習 </name>
 <teacher> 張哲豪   ,  黃雅淑   ,  林玲伊   ,  張玲慧*  ,  陳官琳   ,  黃百川  </teacher>
 <score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I7>
+
+<I7 id="159">
+<num>I7-159</num>
+<class></class>
+<group></group>
+<name> 海外見習 </name>
+<teacher> 林玲伊   ,  黃百川* </teacher>
+<score> 2 </score>
 <time> 
   </time>
 <must> 選修 </must>

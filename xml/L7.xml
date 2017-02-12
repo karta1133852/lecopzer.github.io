@@ -94,7 +94,7 @@
 <time> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 理化大樓                      格致廳大講堂 </place>
+<place> 綜合大樓                      48424 </place>
 <note> 博二生 </note>
 </L7>
 
@@ -249,20 +249,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 物理二館                      49323 </place>
-<note></note>
-</L7>
-
-<L7 id="029">
-<num>L7-029</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 顯示器色彩學 </name>
-<teacher> 李汪洋  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48422 </place>
 <note></note>
 </L7>
 
