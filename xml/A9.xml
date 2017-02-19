@@ -94,7 +94,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 經緯廳                        經緯廳 </place>
+<place> 成功校區經緯廳                經緯廳 </place>
 <note> 104學年度(含)入學生為核心通識哲學與藝術領域 </note>
 </A9>
 
@@ -271,7 +271,7 @@
 <class></class>
 <group></group>
 <name> 生物技術概論 </name>
-<teacher> 蕭世裕   ,  廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺  </teacher>
+<teacher> 廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 必修 </must>
@@ -570,7 +570,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 經緯廳                        經緯廳 </place>
+<place> 成功校區經緯廳                經緯廳 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -851,7 +851,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 系統系館                      56224 </place>
-<note></note>
+<note> 科際整合課程相關領域：人文學、自然與工程科學 </note>
 </A9>
 
 <A9 id="176">
@@ -892,7 +892,7 @@
 <time> [2]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 空中大學                      53101 </place>
+<place> 物治系館                      B02 </place>
 <note> 科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
@@ -1428,6 +1428,20 @@
 <note> 領域通識 </note>
 </A9>
 
+<A9 id="277">
+<num>A9-277</num>
+<class></class>
+<group></group>
+<name> 創業實務 </name>
+<teacher> 馬敏元  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
+<note> 科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
 <A9 id="278">
 <num>A9-278</num>
 <class></class>
@@ -1523,6 +1537,34 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 交管系館                      62102 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="304">
+<num>A9-304</num>
+<class></class>
+<group></group>
+<name> 近代歐洲文學與文化 </name>
+<teacher> 夏祖焯  </teacher>
+<score> 3 </score>
+<time> [4]3~N  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 水利系館                      4671 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="305">
+<num>A9-305</num>
+<class></class>
+<group></group>
+<name> 當代美國及日本文學與文化 </name>
+<teacher> 夏祖焯  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 水利系館                      4627 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -1984,7 +2026,7 @@
 <time> [5]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 測量系館                      55150 </place>
+<place> 測量系副館                    55150 </place>
 <note> 過去與現代的對話,104學年度(含)以前入學生為核心通識公民與歷史領域課程 </note>
 </A9>
 
@@ -2040,7 +2082,7 @@
 <time> [5]1~2  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 測量系館                      55160 </place>
+<place> 測量系副館                    55160 </place>
 <note> 科際整合課程相關領域：社會科學、自然與工程科學 </note>
 </A9>
 
@@ -2409,7 +2451,7 @@
 <class></class>
 <group></group>
 <name> 通識專題講座-大學導航 </name>
-<teacher> 古承宗*  ,  馬哲儒   ,  湯銘哲  </teacher>
+<teacher> 徐珊惠   ,  陳玉女   ,  陳淑慧   ,  古承宗*  ,  馬哲儒   ,  吳豐光   ,  湯銘哲  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>

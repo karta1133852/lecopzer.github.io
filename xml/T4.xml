@@ -187,26 +187,12 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 生醫金屬書報討論 </name>
-<teacher></teacher>
+<teacher> 李澤民  </teacher>
 <score> 1 </score>
 <time> [2]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        301D </place>
-<note></note>
-</T4>
-
-<T4 id="029">
-<num>T4-029</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 牙科生物力學 </name>
-<teacher> 陳永崇  </teacher>
-<score> 2 </score>
-<time> [1]2~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 門診大樓                      7023 </place>
 <note></note>
 </T4>
 
@@ -257,7 +243,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 醫療器材創新設計（二） </name>
-<teacher> 陳家進   ,  葉明龍   ,  蘇芳慶   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  李澤民  </teacher>
+<teacher> 陳家進   ,  葉明龍   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>

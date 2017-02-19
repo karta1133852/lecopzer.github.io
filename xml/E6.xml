@@ -329,7 +329,7 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 結材室 </note>
+<note> 卓群大樓B1 47X39 </note>
 </E6>
 
 <E6 id="072">
@@ -413,7 +413,7 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 結材室 </note>
+<note> 卓群大樓B1 47X39 </note>
 </E6>
 
 <E6 id="083">
@@ -794,20 +794,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
 <note> 英語授課，大四、碩士及碩專班合班，博士班不能修本課程 </note>
-</E6>
-
-<E6 id="159">
-<num>E6-159</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 結構系統 </name>
-<teacher> 黃錦旗  </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75209 </place>
-<note></note>
 </E6>
 
 <E6 id="162">

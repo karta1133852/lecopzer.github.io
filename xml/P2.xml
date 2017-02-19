@@ -33,7 +33,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 孔憲法  </teacher>
+<teacher> 張學聖  </teacher>
 <score> 0 </score>
 <time> [5]N~5  </time>
 <must> 必修 </must>
@@ -221,7 +221,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 都市研究名著選讀（二） </name>
-<teacher> 孔憲法  </teacher>
+<teacher> 張學聖  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 選修 </must>
@@ -235,7 +235,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 規劃專題研討（二） </name>
-<teacher> 張學聖   ,  張秀慈* </teacher>
+<teacher> 張秀慈*  ,  孔憲法  </teacher>
 <score> 1 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
@@ -249,7 +249,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 規劃專題研討（四） </name>
-<teacher> 張學聖   ,  張秀慈* </teacher>
+<teacher> 張秀慈*  ,  孔憲法  </teacher>
 <score> 1 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>

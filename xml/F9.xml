@@ -10,13 +10,13 @@
 <time> [2]5~6  ,  [5]3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 經緯廳                        經緯廳 </place>
+<place> 成功校區經緯廳                經緯廳 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（二） </name1>
 <time1> [5]4  </time1>
-<place1> 測量系館                      55180 </place1>
+<place1> 測量系副館                    55180 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
@@ -287,7 +287,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（二） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  黃執中*  ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源  </teacher>
+<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  張志涵   ,  葉明龍   ,  胡晉嘉*  ,  鄭國順   ,  莊漢聲   ,  邱文泰   ,  黃執中*  ,  郭榮富   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [5]N  </time>
 <must> 必修 </must>

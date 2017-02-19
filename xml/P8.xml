@@ -47,7 +47,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫學工程概論 </name>
-<teacher> 陳家進*  ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  蘇芳慶   ,  莊漢聲   ,  邱文泰   ,  周有禮   ,  黃執中   ,  郭榮富   ,  楊岱樺   ,  涂庭源  </teacher>
+<teacher> 陳家進*  ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  莊漢聲   ,  邱文泰   ,  周有禮   ,  黃執中   ,  郭榮富   ,  陳芃婷   ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 選修 </must>
@@ -89,13 +89,13 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰   ,  林宙晴   ,  郭榮富   ,  吳炳慶   ,  楊岱樺   ,  涂庭源  </teacher>
+<teacher> 陳家進   ,  葉明龍* </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫技醫工館                    5734 </place>
-<note> 生物力學組 </note>
+<place> 醫技醫工館                    5730 </place>
+<note> 生物力學組／全英語授課 </note>
 </P8>
 
 <P8 id="022">
@@ -103,13 +103,13 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  鄭國順   ,  黃執中   ,  方佑華*  ,  陳芃婷   ,  林哲偉  </teacher>
+<teacher> 陳家進   ,  葉明龍* </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫技醫工館                    5725 </place>
-<note> 醫電組 </note>
+<place> 醫技醫工館                    5731 </place>
+<note> 醫電組／全英語授課 </note>
 </P8>
 
 <P8 id="023">
@@ -117,13 +117,13 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰   ,  林宙晴   ,  郭榮富   ,  吳炳慶   ,  楊岱樺   ,  涂庭源  </teacher>
+<teacher> 陳家進   ,  葉明龍* </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫技醫工館                    5734 </place>
-<note> 生物力學組 </note>
+<place> 醫技醫工館                    5730 </place>
+<note> 生物力學組／全英語授課 </note>
 </P8>
 
 <P8 id="024">
@@ -131,13 +131,13 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  鄭國順   ,  黃執中   ,  方佑華*  ,  陳芃婷   ,  林哲偉  </teacher>
+<teacher> 陳家進   ,  葉明龍* </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫技醫工館                    5725 </place>
-<note> 醫電組 </note>
+<place> 醫技醫工館                    5731 </place>
+<note> 醫電組／全英語授課 </note>
 </P8>
 
 <P8 id="025">
@@ -145,7 +145,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰   ,  林宙晴   ,  郭榮富   ,  吳炳慶   ,  楊岱樺   ,  涂庭源  </teacher>
+<teacher> 方佑華*  ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  鄭國順   ,  黃執中   ,  方佑華*  ,  陳芃婷   ,  林哲偉  </teacher>
+<teacher> 方佑華*  ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -187,12 +187,12 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉   ,  蘇芳慶   ,  莊漢聲*  ,  邱文泰   ,  林宙晴   ,  吳炳慶   ,  陳芃婷   ,  楊岱樺   ,  涂庭源  </teacher>
+<teacher> 方佑華*  ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫技醫工館                    5734 </place>
+<place> 醫技醫工館                    5725 </place>
 <note> 生物力學組 </note>
 </P8>
 
@@ -201,12 +201,12 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 陳家進   ,  陳天送   ,  張憲彰   ,  鄭國順   ,  黃執中   ,  郭榮富   ,  方佑華*  ,  林哲偉  </teacher>
+<teacher> 方佑華*  ,  涂庭源  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫技醫工館                    5734 </place>
+<place> 醫技醫工館                    5725 </place>
 <note> 醫電組 </note>
 </P8>
 
@@ -217,10 +217,10 @@
 <name> 人體動態分析 </name>
 <teacher> 蘇芳慶  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5731 </place>
+<place> 醫技醫工館                    5725 </place>
 <note> 英語授課 </note>
 </P8>
 
@@ -278,6 +278,62 @@
 <type> 講義 </type>
 <place> 醫技醫工館                    5725 </place>
 <note></note>
+</P8>
+
+<P8 id="035">
+<num>P8-035</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳家進   ,  葉明龍* </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5730 </place>
+<note> 全英語授課。供生物力學組外籍碩一生修課 </note>
+</P8>
+
+<P8 id="036">
+<num>P8-036</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳家進   ,  葉明龍* </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5731 </place>
+<note> 全英語授課。供醫電組外籍碩一生修課 </note>
+</P8>
+
+<P8 id="037">
+<num>P8-037</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳家進   ,  葉明龍* </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5730 </place>
+<note> 全英語授課。供生物力學組外籍碩二生修課 </note>
+</P8>
+
+<P8 id="038">
+<num>P8-038</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳家進   ,  葉明龍* </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5731 </place>
+<note> 全英語授課。供醫電組外籍碩二生修課 </note>
 </P8>
 
 <P8 id="044">
@@ -341,7 +397,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（二） </name>
-<teacher> 陳家進   ,  葉明龍   ,  蘇芳慶   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  李澤民  </teacher>
+<teacher> 陳家進   ,  葉明龍   ,  吳炳慶   ,  陳芃婷*  ,  林哲偉   ,  楊岱樺   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>

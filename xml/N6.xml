@@ -242,6 +242,20 @@
 <note> 碩博及碩專班合班 </note>
 </N6>
 
+<N6 id="018">
+<num>N6-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 隨機振動 </name>
+<teacher> 洪李陵  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note></note>
+</N6>
+
 <N6 id="020">
 <num>N6-020</num>
 <class> 碩博                           </class>
@@ -610,6 +624,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
 <note> 碩博及碩專班合班 </note>
+</N6>
+
+<N6 id="318">
+<num>N6-318</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 隨機振動 </name>
+<teacher> 洪李陵  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note></note>
 </N6>
 
 <N6 id="320">

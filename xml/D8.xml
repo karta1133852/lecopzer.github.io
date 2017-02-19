@@ -56,7 +56,7 @@
 <time> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 經緯廳                        經緯廳 </place>
+<place> 成功校區經緯廳                經緯廳 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
@@ -115,7 +115,7 @@
 <class></class>
 <group></group>
 <name> 心理學概論（二） </name>
-<teacher> 謝淑蘭*  ,  周麗芳   ,  胡中凡   ,  陳德祐   ,  黃柏僩  </teacher>
+<teacher> 謝淑蘭*  ,  周麗芳   ,  胡中凡   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 必修 </must>
@@ -269,7 +269,7 @@
 <class></class>
 <group></group>
 <name> 變態心理學 </name>
-<teacher> 郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 余睿羚   ,  郭乃文   ,  黃惠玲  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 選修 </must>

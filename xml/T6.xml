@@ -14,20 +14,6 @@
 <note></note>
 </T6>
 
-<T6 id="005">
-<num>T6-005</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 物理治療專題討論（四） </name>
-<teacher> 林桑伊*  ,  林呈鳳  </teacher>
-<score> 1 </score>
-<time> [4]7~8  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 物治系館                      B02 </place>
-<note></note>
-</T6>
-
 <T6 id="009">
 <num>T6-009</num>
 <class> 碩                             </class>
@@ -39,20 +25,6 @@
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 醫學院                        物治207 </place>
-<note></note>
-</T6>
-
-<T6 id="010">
-<num>T6-010</num>
-<class> 碩三延                         </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 林桑伊*  ,  蔡一如  </teacher>
-<score> 0 </score>
-<time> [4]7~8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 物治系館                      B02 </place>
 <note></note>
 </T6>
 
@@ -80,7 +52,7 @@
 <time> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        208 </place>
+<place> 醫學院                        205D </place>
 <note> 英文授課 </note>
 </T6>
 
@@ -91,31 +63,11 @@
 <name> 利用各類紙材於肢體障礙者輔具設計之應用 </name>
 <teacher> 林呈鳳  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治104 </place>
-<note> 英文授課 </note>
-</T6>
-
-<T6 id="027">
-<num>T6-027</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 骨科物理治療臨床實習與研究（二） </name>
-<teacher> 蔡一如  </teacher>
-<score> 2 </score>
-<time> [3]5  </time>
+<time> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        物治207 </place>
-<note></note>
-<class1> 碩一二                         </class1>
-<group1></group1>
-<name1> 骨科物理治療臨床實習與研究（二） </name1>
-<time1> [3]6~8  </time1>
-<place1> 醫學院                        物治207 </place1>
-<note1></note1>
+<note> 英文授課 </note>
 </T6>
 
 <T6 id="030">

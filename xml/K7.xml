@@ -67,8 +67,8 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 歷史考古學 </name>
-<teacher> 鍾國風*  ,  劉益昌   ,  趙金勇  </teacher>
-<score> 3 </score>
+<teacher> 鍾國風   ,  劉益昌   ,  趙金勇* </teacher>
+<score> 2 </score>
 <time> [2]4~5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -83,7 +83,7 @@
 <name> 東南亞考古學 </name>
 <teacher> 熊仲卿  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
@@ -96,8 +96,8 @@
 <group></group>
 <name> 環境考古學 </name>
 <teacher> 熊仲卿  </teacher>
-<score> 2 </score>
-<time> [5]6~7  </time>
+<score> 3 </score>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>

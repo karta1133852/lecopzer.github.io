@@ -584,7 +584,7 @@
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      俊銘講堂 </place>
+<place> 電機系館                      92720 </place>
 <note> 碩專、碩博合英語授課 </note>
 </N2>
 
@@ -726,6 +726,20 @@
 <type> 講義 </type>
 <place> 電機系館                      92820 </place>
 <note> 歡迎大學部選修 </note>
+</N2>
+
+<N2 id="201">
+<num>N2-201</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數位多媒體晶片系統設計專論 </name>
+<teacher> 李國君  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note></note>
 </N2>
 
 <N2 id="306">

@@ -159,7 +159,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 創新管理專題 </name>
-<teacher> 未定  </teacher>
+<teacher> 許經明  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
@@ -319,6 +319,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
+<note></note>
+</R4>
+
+<R4 id="309">
+<num>R4-309</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 創新管理專題 </name>
+<teacher> 許經明  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62212 </place>
 <note></note>
 </R4>
 

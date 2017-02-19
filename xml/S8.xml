@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 余睿羚   ,  郭乃文*  ,  黃惠玲  </teacher>
 <score> 1 </score>
 <time> [5]5~6  </time>
 <must> 必修 </must>
@@ -25,7 +25,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 余睿羚   ,  郭乃文*  ,  黃惠玲  </teacher>
 <score> 1 </score>
 <time> [5]5~6  </time>
 <must> 必修 </must>
@@ -39,7 +39,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題研究（二） </name>
-<teacher> 林君昱   ,  游一龍   ,  郭乃文*  ,  黃惠玲   ,  余睿羚   ,  蕭雅心  </teacher>
+<teacher> 林君昱   ,  蕭雅心   ,  游一龍   ,  余睿羚   ,  郭乃文*  ,  黃惠玲  </teacher>
 <score> 1 </score>
 <time> [1]0  ,  [2]0  </time>
 <must> 必修 </must>
@@ -53,7 +53,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題研究（四） </name>
-<teacher> 林君昱   ,  楊延光   ,  郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 林君昱   ,  楊延光   ,  余睿羚   ,  郭乃文*  ,  黃惠玲  </teacher>
 <score> 1 </score>
 <time> [1]0  ,  [2]0  </time>
 <must> 必修 </must>
@@ -67,7 +67,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 林君昱   ,  楊延光   ,  游一龍   ,  柯慧貞   ,  郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 林君昱   ,  楊延光   ,  游一龍   ,  柯慧貞   ,  余睿羚   ,  郭乃文*  ,  黃惠玲  </teacher>
 <score> 0 </score>
 <time> [4]0  ,  [3]0  </time>
 <must> 必修 </must>
@@ -109,7 +109,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 臨床心理衡鑑 </name>
-<teacher> 郭乃文   ,  黃惠玲   ,  余睿羚* </teacher>
+<teacher> 余睿羚*  ,  郭乃文   ,  黃惠玲  </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>
@@ -207,7 +207,7 @@
 <class></class>
 <group></group>
 <name> 臨床心理實務 </name>
-<teacher> 郭乃文*  ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 余睿羚   ,  郭乃文*  ,  黃惠玲  </teacher>
 <score> 2 </score>
 <time> 
   </time>
@@ -223,7 +223,7 @@
 <class></class>
 <group></group>
 <name> 臨床心理實習（二） </name>
-<teacher> 郭乃文   ,  黃惠玲   ,  余睿羚* </teacher>
+<teacher> 余睿羚*  ,  郭乃文   ,  黃惠玲  </teacher>
 <score> 8 </score>
 <time> 
   </time>
@@ -239,7 +239,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 行為神經藥物學 </name>
-<teacher> 游一龍*  ,  蕭雅心  </teacher>
+<teacher> 蕭雅心   ,  游一龍* </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
@@ -253,7 +253,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 物質濫用專題（二） </name>
-<teacher> 游一龍*  ,  蕭雅心  </teacher>
+<teacher> 蕭雅心   ,  游一龍* </teacher>
 <score> 1 </score>
 <time> [5]1~2  </time>
 <must> 選修 </must>
@@ -267,7 +267,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 行為神經科學及研究法 </name>
-<teacher> 游一龍*  ,  蕭雅心  </teacher>
+<teacher> 蕭雅心   ,  游一龍* </teacher>
 <score> 3 </score>
 <time> [3]5~7  </time>
 <must> 選修 </must>

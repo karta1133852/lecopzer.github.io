@@ -5,15 +5,13 @@
 <class> 碩專延三                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 未定  </teacher>
+<teacher> 王泰裕  </teacher>
 <score> 0 </score>
-<time> 
-  </time>
+<time> [4]A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      61X02 </place>
+<note> 限修畢45學分以上選修 </note>
 </R0>
 
 <R0 id="302">
@@ -166,7 +164,7 @@
 <time> [7]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62X01 </place>
+<place> 管理學院                      61X02 </place>
 <note></note>
 </R0>
 

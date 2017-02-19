@@ -25,7 +25,7 @@
 <class></class>
 <group></group>
 <name> 普通心理學 </name>
-<teacher> 游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 游一龍*  ,  余睿羚   ,  郭乃文   ,  黃惠玲  </teacher>
 <score> 3 </score>
 <time> [4]4  ,  [4]7~8  </time>
 <must> 必修 </must>
@@ -114,7 +114,7 @@
 <time> [5]3~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 物治系館                      B02 </place>
+<place> 醫學院                        物治207 </place>
 <note></note>
 </I6>
 
@@ -451,7 +451,7 @@
 <class></class>
 <group></group>
 <name> 心肺物理治療學及實習（二） </name>
-<teacher> 洪菁霞   ,  蔡昆霖* </teacher>
+<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time> [1]5  </time>
 <must> 必修 </must>
@@ -529,7 +529,7 @@
 <class></class>
 <group></group>
 <name> 物理治療臨床見習 </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖*  ,  郭怡良  </teacher>
 <score> 1 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>

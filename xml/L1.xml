@@ -94,7 +94,7 @@
 <time> [1]7~8  ,  [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 數學系館                      3175 </place>
+<place> 數學系館                      3177 </place>
 <note></note>
 </L1>
 
@@ -277,20 +277,6 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 數學系館                      研討室二 </place>
-<note></note>
-</L1>
-
-<L1 id="033">
-<num>L1-033</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 代數專題討論 </name>
-<teacher> 柯文峰  </teacher>
-<score> 0 </score>
-<time> [2]9~A  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 數學系館                      研討室一 </place>
 <note></note>
 </L1>
 

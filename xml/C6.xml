@@ -94,13 +94,13 @@
 <time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3404 </place>
+<place> 化工系館                      柏林講堂 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（二） </name1>
 <time1> [3]2  </time1>
-<place1> 生科系館                      3404 </place1>
+<place1> 化工系館                      柏林講堂 </place1>
 <note1></note1>
 </C6>
 
@@ -123,7 +123,7 @@
 <class></class>
 <group></group>
 <name> 生物技術核心實驗（二） </name>
-<teacher> 陳逸民*  ,  王涵青  </teacher>
+<teacher> 陳逸民*  ,  王涵青   ,  林士鳴  </teacher>
 <score> 1 </score>
 <time> [5]2~4  </time>
 <must> 必修 </must>
@@ -179,7 +179,7 @@
 <class></class>
 <group></group>
 <name> 遺傳工程技術 </name>
-<teacher> 洪建中* </teacher>
+<teacher> 張純純   ,  劉宗霖   ,  洪建中*  ,  盧福翊   ,  郭瑋君   ,  鄭文義  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 選修 </must>
@@ -193,7 +193,7 @@
 <class></class>
 <group></group>
 <name> 發育遺傳學 </name>
-<teacher> 張純純* </teacher>
+<teacher> 張純純*  ,  洪建中   ,  盧福翊   ,  孫以瀚   ,  陳昌熙   ,  姜學誠   ,  顏賢章  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 選修 </must>
@@ -207,7 +207,7 @@
 <class></class>
 <group></group>
 <name> 植物生理學 </name>
-<teacher> 張清俊* </teacher>
+<teacher> 張清俊*  ,  郭瑋君   ,  李瑞花   ,  邱啟洲  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
 <must> 選修 </must>
