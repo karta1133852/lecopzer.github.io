@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（二） </name>
-<teacher> 何俊亨  </teacher>
+<teacher> 林雅惠  </teacher>
 <score> 0 </score>
 <time> [3]8  </time>
 <must> 必修 </must>
@@ -101,7 +101,7 @@
 <class></class>
 <group></group>
 <name> 計算機概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 林雅惠  </teacher>
 <score> 3 </score>
 <time> [5]7~9  </time>
 <must> 必修 </must>
@@ -218,7 +218,7 @@
 <time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 工設系館                      5256A </place>
 <note></note>
 </F3>
 
@@ -274,7 +274,7 @@
 <time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工設系館                      5205A </place>
+<place> 唯農大樓                      7117 </place>
 <note></note>
 </F3>
 

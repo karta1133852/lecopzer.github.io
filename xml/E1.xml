@@ -84,7 +84,7 @@
 <time> [5]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91602 </place>
+<place> 機械系館                      91203 </place>
 <note> 英語授課 </note>
 <class1> 甲                             </class1>
 <group1></group1>
@@ -1112,7 +1112,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91205 </place>
+<place> 機械系館                      91A04 </place>
 <note></note>
 </E1>
 
@@ -1128,26 +1128,6 @@
 <type> 講義 </type>
 <place> 機械系館                      三星講堂 </place>
 <note> 第8節用91601電腦教室 </note>
-</E1>
-
-<E1 id="150">
-<num>E1-150</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 機電創新實作（一） </name>
-<teacher> 陳嘉元*  ,  王明習   ,  陳永裕   ,  賴維祥   ,  郭榮富  </teacher>
-<score> 2 </score>
-<time> [5]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91X08 </place>
-<note> 第一階段不開放選課 </note>
-<class1> 甲乙丙                         </class1>
-<group1></group1>
-<name1> 機電創新實作（一） </name1>
-<time1> [5]6~7  </time1>
-<place1> 機械系館                      91X08 </place1>
-<note1></note1>
 </E1>
 
 <E1 id="161">

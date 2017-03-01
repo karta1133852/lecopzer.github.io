@@ -148,7 +148,7 @@
 <time> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80201 </place>
+<place> 共同教室                      成功共同300 </place>
 <note> 本課程限40人修課，若選課人數超過上限將依選課時間進行強制退選 。 </note>
 </D8>
 
@@ -289,7 +289,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80201 </place>
-<note></note>
+<note> 之後將於文學院演講廳21122教室上課 </note>
 </D8>
 
 <D8 id="106">
@@ -395,7 +395,7 @@
 <class></class>
 <group></group>
 <name> 社會和情緒發展 </name>
-<teacher> 未定  </teacher>
+<teacher> 李思慧  </teacher>
 <score> 2 </score>
 <time> 
   </time>

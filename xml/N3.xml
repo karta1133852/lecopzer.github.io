@@ -66,22 +66,8 @@
 <time> [2]3~4  ,  [5]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 化工系館                      93406 </place>
+<place> 化工系館                      93806 </place>
 <note> 碩一甲組生必選中文授課 </note>
-</N3>
-
-<N3 id="016">
-<num>N3-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高分子構造、性質與應用 </name>
-<teacher> 郭人鳳  </teacher>
-<score> 3 </score>
-<time> [1]7~8  ,  [2]8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 化工系館                      93422 </place>
-<note></note>
 </N3>
 
 <N3 id="024">
@@ -196,20 +182,6 @@
 <note> 限104學年度(含)以後入學之碩士班乙組生或博士生符合畢業資格規定第6條者選修 </note>
 </N3>
 
-<N3 id="156">
-<num>N3-156</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 程序模擬應用 </name>
-<teacher> 吳　煒  </teacher>
-<score> 3 </score>
-<time> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 化工系館                      93806 </place>
-<note></note>
-</N3>
-
 <N3 id="157">
 <num>N3-157</num>
 <class> 碩博                           </class>
@@ -234,7 +206,7 @@
 <time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 化工系館                      93706 </place>
+<place> 化工系館                      93322 </place>
 <note></note>
 </N3>
 
@@ -245,7 +217,7 @@
 <name> 製程最適化 </name>
 <teacher> 張珏庭  </teacher>
 <score> 3 </score>
-<time> [2]8  ,  [3]7~8  </time>
+<time> [2]8  ,  [3]8~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 化工系館                      93806 </place>

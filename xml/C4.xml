@@ -129,7 +129,7 @@
 <name> 服務學習（二） </name>
 <teacher> 楊耿明  </teacher>
 <score> 0 </score>
-<time> [4]8  </time>
+<time> [4]0  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 地科系館                      研討室一 </place>
@@ -369,10 +369,10 @@
 <name> 沉積地層學 </name>
 <teacher> 袁彼得  </teacher>
 <score> 3 </score>
-<time> [4]5~6  ,  [1]8  </time>
+<time> [4]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3031 </place>
+<place> 地科系館                      3035 </place>
 <note></note>
 </C4>
 
@@ -400,7 +400,7 @@
 <time> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3031 </place>
+<place> 地科系館                      3035 </place>
 <note></note>
 </C4>
 

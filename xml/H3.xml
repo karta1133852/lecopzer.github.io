@@ -38,7 +38,7 @@
 <time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61104 </place>
+<place> 工管系館                      61101 </place>
 <note> 週四第９堂實習課不得衝堂61201 </note>
 </H3>
 
@@ -222,6 +222,20 @@
 <note></note>
 </H3>
 
+<H3 id="066">
+<num>H3-066</num>
+<class></class>
+<group></group>
+<name> 作業研究 </name>
+<teacher> 張秀雲  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61204 </place>
+<note></note>
+</H3>
+
 <H3 id="101">
 <num>H3-101</num>
 <class></class>
@@ -246,7 +260,7 @@
 <time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61104 </place>
+<place> 工管系館                      61101 </place>
 <note></note>
 </H3>
 
@@ -283,7 +297,7 @@
 <class></class>
 <group></group>
 <name> 工業與資訊管理專題（一） </name>
-<teacher> 王泰裕   ,  謝中奇   ,  黃宇翔   ,  王惠嘉   ,  李昇暾*  ,  王逸琳   ,  張秀雲   ,  謝佩璇   ,  林明毅   ,  張裕清   ,  劉任修   ,  高　強  </teacher>
+<teacher> 王泰裕   ,  謝中奇   ,  黃宇翔   ,  王惠嘉   ,  李昇暾*  ,  張秀雲   ,  謝佩璇   ,  林明毅   ,  張裕清   ,  劉任修   ,  高　強  </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -329,7 +343,7 @@
 <name> 雲端行動應用 </name>
 <teacher> 劉任修  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61201 </place>

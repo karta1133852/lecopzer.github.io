@@ -437,10 +437,10 @@
 <name> 工程數學（四） </name>
 <teacher> 宋見春  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [3]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      4504 </place>
 <note> 三四年級可選修，土木甲乙合班 </note>
 </E6>
 
@@ -580,20 +580,6 @@
 <time1> [5]7~9  </time1>
 <place1></place1>
 <note1> 結構材料試驗室 </note1>
-</E6>
-
-<E6 id="112">
-<num>E6-112</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 預力混凝土學 </name>
-<teacher> 方一匡  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4505 </place>
-<note> 三四年級可選修，土木甲乙合班 </note>
 </E6>
 
 <E6 id="115">

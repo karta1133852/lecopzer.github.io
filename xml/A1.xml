@@ -28,20 +28,6 @@
 <note> 模組一 </note>
 </A1>
 
-<A1 id="103">
-<num>A1-103</num>
-<class></class>
-<group></group>
-<name> 基礎工程英文 </name>
-<teacher> 辛佳玲  </teacher>
-<score> 2 </score>
-<time> [1]2~3  </time>
-<must> 必修 </must>
-<type> 外國語言 </type>
-<place> 唯農大樓                      7115 </place>
-<note> 模組二 </note>
-</A1>
-
 <A1 id="104">
 <num>A1-104</num>
 <class></class>
@@ -136,7 +122,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 唯農大樓                      7202 </place>
+<place> 唯農大樓                      7405 </place>
 <note> 模組二 </note>
 </A1>
 
@@ -164,7 +150,7 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 唯農大樓                      7115 </place>
+<place> 唯農大樓                      7211 </place>
 <note> 模組二 </note>
 </A1>
 
@@ -383,7 +369,7 @@
 <class></class>
 <group></group>
 <name> 基礎學術溝通 </name>
-<teacher> 杜佩璇  </teacher>
+<teacher> 鍾淑玫  </teacher>
 <score> 2 </score>
 <time> [2]7~8  </time>
 <must> 必修 </must>
@@ -523,7 +509,7 @@
 <class></class>
 <group></group>
 <name> 基礎學術溝通 </name>
-<teacher> 杜佩璇  </teacher>
+<teacher> 鍾淑玫  </teacher>
 <score> 2 </score>
 <time> [3]5~6  </time>
 <must> 必修 </must>
@@ -658,20 +644,6 @@
 <note> 模組一 </note>
 </A1>
 
-<A1 id="148">
-<num>A1-148</num>
-<class></class>
-<group></group>
-<name> 基礎學術溝通 </name>
-<teacher> 葉靜怡  </teacher>
-<score> 2 </score>
-<time> [4]3~4  </time>
-<must> 必修 </must>
-<type> 外國語言 </type>
-<place> 唯農大樓                      7217 </place>
-<note> 模組一，僅供身心障礙學生選修 </note>
-</A1>
-
 <A1 id="149">
 <num>A1-149</num>
 <class></class>
@@ -780,7 +752,7 @@
 <time> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 唯農大樓                      7202 </place>
+<place> 唯農大樓                      7309 </place>
 <note> 模組二 </note>
 </A1>
 
@@ -887,7 +859,7 @@
 <class></class>
 <group></group>
 <name> 跨文化溝通 </name>
-<teacher> 杜佩璇  </teacher>
+<teacher> 陳安純  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 必修 </must>
@@ -999,7 +971,7 @@
 <class></class>
 <group></group>
 <name> 跨文化溝通 </name>
-<teacher> 杜佩璇  </teacher>
+<teacher> 陳安純  </teacher>
 <score> 2 </score>
 <time> [5]5~6  </time>
 <must> 必修 </must>
@@ -1048,6 +1020,34 @@
 <type> 外國語言 </type>
 <place> 唯農大樓                      7401 </place>
 <note> 模組二 </note>
+</A1>
+
+<A1 id="176">
+<num>A1-176</num>
+<class></class>
+<group></group>
+<name> 基礎學術英文 </name>
+<teacher> 辛佳玲  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 必修 </must>
+<type> 外國語言 </type>
+<place> 唯農大樓                      7112 </place>
+<note> 模組一 </note>
+</A1>
+
+<A1 id="177">
+<num>A1-177</num>
+<class></class>
+<group></group>
+<name> 跨文化溝通 </name>
+<teacher> 葉靜怡  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 外國語言 </type>
+<place> 唯農大樓                      7217 </place>
+<note> 模組一，僅供身心障礙學生選修 </note>
 </A1>
 
 <A1 id="501">
@@ -1214,7 +1214,7 @@
 <time> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7307 </place>
+<place> 唯農大樓                      7208 </place>
 <note> 限非日語母語人士修課 </note>
 </A1>
 
@@ -1886,7 +1886,21 @@
 <time> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7407 </place>
+<note></note>
+</A1>
+
+<A1 id="561">
+<num>A1-561</num>
+<class></class>
+<group></group>
+<name> 日文（二） </name>
+<teacher> 朱戎梅  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7403 </place>
 <note></note>
 </A1>
 

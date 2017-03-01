@@ -210,20 +210,6 @@
 <note> 基醫所、微免所合班 </note>
 </S5>
 
-<S5 id="116">
-<num>S5-116</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 中樞神經電生理學 </name>
-<teacher> 許桂森* </teacher>
-<score> 2 </score>
-<time> [5]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        0811 </place>
-<note></note>
-</S5>
-
 <S5 id="117">
 <num>S5-117</num>
 <class></class>
@@ -259,7 +245,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 葉才明   ,  楊孔嘉   ,  謝淑珠   ,  張權發   ,  王貞仁   ,  黃溫雅   ,  黃暉升   ,  傅子芳   ,  蔡佩珍   ,  徐麗君   ,  張雅雯*  ,  張志鵬*  ,  郭余民   ,  黃步敏   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一  </teacher>
+<teacher> 葉才明   ,  楊孔嘉   ,  張權發   ,  王貞仁   ,  黃溫雅   ,  黃暉升   ,  傅子芳   ,  蔡佩珍   ,  徐麗君   ,  張雅雯*  ,  張志鵬*  ,  郭余民   ,  黃步敏   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一  </teacher>
 <score> 1 </score>
 <time> [2]7  </time>
 <must> 必修 </must>
@@ -336,20 +322,6 @@
 <type> 研討 </type>
 <place> 醫學院                        602 </place>
 <note> 供博三以上研究生選修 </note>
-</S5>
-
-<S5 id="126">
-<num>S5-126</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 腫瘤免疫學 </name>
-<teacher> 楊倍昌*  ,  凌　斌* </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        1124 </place>
-<note></note>
 </S5>
 
 <S5 id="129">

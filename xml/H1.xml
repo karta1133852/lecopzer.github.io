@@ -103,7 +103,7 @@
 <name> 中級會計學（二） </name>
 <teacher> 周庭楷  </teacher>
 <score> 4 </score>
-<time> [3]6~8  </time>
+<time> [3]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -111,7 +111,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 中級會計學（二） </name1>
-<time1> [3]9  ,  [3]5  </time1>
+<time1> [3]8~9  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
@@ -140,7 +140,7 @@
 <time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63104 </place>
 <note></note>
 </H1>
 
@@ -189,7 +189,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63205 </place>
-<note> 非使用電腦教室時將改至63101上課 </note>
+<note> 非使用電腦教室時將改至63104上課 </note>
 </H1>
 
 <H1 id="102">
@@ -379,7 +379,7 @@
 <name> 雲端行動應用 </name>
 <teacher> 劉任修  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61201 </place>

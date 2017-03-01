@@ -161,7 +161,7 @@
 <name> 實驗設計 </name>
 <teacher> 李賢得  </teacher>
 <score> 3 </score>
-<time> [2]6  ,  [4]3~4  </time>
+<time> [2]6~7  ,  [4]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61202 </place>
@@ -178,7 +178,7 @@
 <time> [1]1  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61206 </place>
+<place> 工管系館                      61103 </place>
 <note></note>
 </R7>
 
@@ -245,7 +245,7 @@
 <name> 排程理論 </name>
 <teacher> 張秀雲  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61208 </place>
@@ -290,7 +290,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61202 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </R7>
 

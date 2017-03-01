@@ -298,7 +298,7 @@
 <time> [1]1  ,  [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 化工系館                      93456 </place>
+<place> 化工系館                      93406 </place>
 <note> 碩士班限乙組生選修 </note>
 </E3>
 
@@ -1029,20 +1029,6 @@
 <type> 講義 </type>
 <place> 化工系館                      93422 </place>
 <note> 化工三、四年級合開 </note>
-</E3>
-
-<E3 id="192">
-<num>E3-192</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 超臨界流體技術 </name>
-<teacher> 連培榮  </teacher>
-<score> 3 </score>
-<time> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 化工系館                      93356 </place>
-<note> 先修課程：化工熱力學 </note>
 </E3>
 
 </content>

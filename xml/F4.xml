@@ -146,7 +146,7 @@
 <time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5830 </place>
+<place> 航太系館                      繼昌講堂 </place>
 <note></note>
 </F4>
 
@@ -390,7 +390,7 @@
 <time> [5]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5834 </place>
+<place> 航太系館                      5829 </place>
 <note></note>
 </F4>
 
@@ -436,26 +436,6 @@
 <type> 講義 </type>
 <place> 航太系館                      5897 </place>
 <note> 能源學程、航太系、工科系合開 </note>
-</F4>
-
-<F4 id="140">
-<num>F4-140</num>
-<class></class>
-<group></group>
-<name> 機電創新實作（一） </name>
-<teacher> 陳嘉元*  ,  王明習   ,  陳永裕   ,  賴維祥   ,  郭榮富  </teacher>
-<score> 2 </score>
-<time> [5]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91X08 </place>
-<note> 第一階段不開放選課 </note>
-<class1></class1>
-<group1></group1>
-<name1> 機電創新實作（一） </name1>
-<time1> [5]6~7  </time1>
-<place1> 機械系館                      91X08 </place1>
-<note1></note1>
 </F4>
 
 <F4 id="151">

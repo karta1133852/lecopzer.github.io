@@ -1,23 +1,3 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<E0 id="101">
-<num>E0-101</num>
-<class></class>
-<group></group>
-<name> 機電創新實作（一） </name>
-<teacher> 陳嘉元*  ,  王明習   ,  陳永裕   ,  賴維祥   ,  郭榮富  </teacher>
-<score> 2 </score>
-<time> [5]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91X08 </place>
-<note> 第一階段不開放選課 </note>
-<class1></class1>
-<group1></group1>
-<name1> 機電創新實作（一） </name1>
-<time1> [5]6~7  </time1>
-<place1> 機械系館                      91X08 </place1>
-<note1></note1>
-</E0>
-
 </content>

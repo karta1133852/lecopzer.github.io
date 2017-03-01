@@ -70,20 +70,6 @@
 <note> 系使用樓層館暨排定之公共區域 </note>
 </D4>
 
-<D4 id="055">
-<num>D4-055</num>
-<class></class>
-<group></group>
-<name> 服務學習（三） </name>
-<teacher> 鍾兆真  </teacher>
-<score> 0 </score>
-<time> [2]N  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 社科院大樓                    80106 </place>
-<note> 分上、下學期開授 </note>
-</D4>
-
 <D4 id="056">
 <num>D4-056</num>
 <class></class>
@@ -136,22 +122,8 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80205 </place>
+<place> 社科院大樓                    六樓研討室A </place>
 <note> 1. 梁文韜老師與李國維老師各授課2小時及1小時。 2.「政治理論與方法」（原「政治理論」）領域課程，限二年級以上同學選修。 </note>
-</D4>
-
-<D4 id="060">
-<num>D4-060</num>
-<class></class>
-<group></group>
-<name> 社會運動 </name>
-<teacher> 王金壽  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80106 </place>
-<note> 「政治理論與方法」（原「政治理論」）領域課程，限二年級以上同學選修。 </note>
 </D4>
 
 <D4 id="102">
@@ -206,7 +178,7 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80106 </place>
+<place> 社科院大樓                    階梯教室-政治 </place>
 <note> 「國家行政與治理」（原「比較政治」）領域課程，限二年級以上同學選修。 </note>
 </D4>
 
@@ -235,20 +207,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-政治 </place>
-<note> 「全球與區域政治」（原「國際關係」）領域課程，限二年級以上同學選修。 </note>
-</D4>
-
-<D4 id="108">
-<num>D4-108</num>
-<class></class>
-<group></group>
-<name> 中共外交政策 </name>
-<teacher> 王宏仁  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80106 </place>
 <note> 「全球與區域政治」（原「國際關係」）領域課程，限二年級以上同學選修。 </note>
 </D4>
 
@@ -290,7 +248,7 @@
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80205 </place>
+<place> 社科院大樓                    六樓研討室B </place>
 <note> 「國家行政與治理」（原「公共行政」）領域課程，限二年級以上同學選修。 </note>
 </D4>
 

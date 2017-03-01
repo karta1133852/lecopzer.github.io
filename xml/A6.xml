@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<A6 id="001">
-<num>A6-001</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—關心不卡關 </name>
-<teacher> 陳高欽  </teacher>
-<score> 0 </score>
-<time> [3]3~4  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 唯農大樓                      7110 </place>
-<note> 首次上課時間2/22(三)上午10:10-12:00，地點：唯農大樓7110教室 </note>
-</A6>
-
 <A6 id="002">
 <num>A6-002</num>
 <class></class>
@@ -198,8 +184,8 @@
 <time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 唯農大樓                      7117 </place>
-<note> 首次上課時間為2月20日 </note>
+<place></place>
+<note> Classroom： 1F Conference Room ,International Student Affairs Division, Office of International Affairs,Kuang-Fu Campus </note>
 </A6>
 
 <A6 id="014">
