@@ -14,20 +14,6 @@
 <note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
 </N8>
 
-<N8 id="002">
-<num>N8-002</num>
-<class> 碩博一                         </class>
-<group></group>
-<name> 專題討論（二） </name>
-<teacher> 楊道昌*  ,  郭振民  </teacher>
-<score> 1 </score>
-<time> [2]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4646 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
-</N8>
-
 <N8 id="003">
 <num>N8-003</num>
 <class> 碩博一                         </class>
@@ -220,7 +206,7 @@
 <time> [1]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
+<place> 水利系館                      4620 </place>
 <note> 104學年度起入學碩士生四選二必修課程 </note>
 </N8>
 
@@ -249,20 +235,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note></note>
-</N8>
-
-<N8 id="032">
-<num>N8-032</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 逕流模式解析 </name>
-<teacher> 徐義人  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4678 </place>
 <note></note>
 </N8>
 
@@ -357,10 +329,10 @@
 <name> 水資源工程專題討論 </name>
 <teacher> 王筱雯  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time> [4]N~5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
+<place> 水利系館                      4678 </place>
 <note></note>
 </N8>
 
@@ -530,20 +502,6 @@
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>
 <note> 與外籍老師共同授課 </note>
-</N8>
-
-<N8 id="054">
-<num>N8-054</num>
-<class> 碩                             </class>
-<group></group>
-<name> 地下水 </name>
-<teacher> 顏沛華  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4627 </place>
-<note></note>
 </N8>
 
 <N8 id="055">

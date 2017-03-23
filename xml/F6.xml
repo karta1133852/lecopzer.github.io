@@ -368,6 +368,20 @@
  </note>
 </F6>
 
+<F6 id="112">
+<num>F6-112</num>
+<class></class>
+<group></group>
+<name> 攝影測量實習 </name>
+<teacher> 蔡展榮  </teacher>
+<score> 1 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 測量系館                      55206 </place>
+<note></note>
+</F6>
+
 <F6 id="152">
 <num>F6-152</num>
 <class></class>
@@ -383,7 +397,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 遙感探測資料處理與實作 </name1>
-<time1> [2]1~2  </time1>
+<time1> [2]3~4  </time1>
 <place1> 測量系館                      55208 </place1>
 <note1></note1>
 </F6>
@@ -440,24 +454,8 @@
 <time> [1]5~6  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4509 </place>
 <note></note>
-</F6>
-
-<F6 id="158">
-<num>F6-158</num>
-<class></class>
-<group></group>
-<name> 學士論文 </name>
-<teacher> 江凱偉  </teacher>
-<score> 2 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
 </F6>
 
 </content>

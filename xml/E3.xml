@@ -592,7 +592,7 @@
 <time> [1]2~3  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 化工系館                      93422 </place>
+<place> 化工系館                      93406 </place>
 <note> 碩士班限乙組生選修 </note>
 </E3>
 
@@ -811,9 +811,10 @@
 <class></class>
 <group></group>
 <name> 論文（二） </name>
-<teacher></teacher>
+<teacher> 許梅娟   ,  張鑑祥   ,  林睿哲*  ,  陳東煌   ,  吳季珍   ,  黃耀輝   ,  陳炳宏   ,  侯聖澍   ,  莊怡哲   ,  陳　雲   ,  羅介聰   ,  陳美瑾   ,  吳意珣   ,  張珏庭  </teacher>
 <score> 1 </score>
-<time> </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -958,20 +959,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 化工系館                      93456 </place>
-<note> 化工三、四年級合開 </note>
-</E3>
-
-<E3 id="186">
-<num>E3-186</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 基礎固態化學 </name>
-<teacher> 鄧熙聖  </teacher>
-<score> 3 </score>
-<time> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 化工系館                      93706 </place>
 <note> 化工三、四年級合開 </note>
 </E3>
 

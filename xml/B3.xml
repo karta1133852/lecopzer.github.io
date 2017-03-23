@@ -220,7 +220,7 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7112 </place>
+<place> 唯農大樓                      7117 </place>
 <note> 世 </note>
 </B3>
 
@@ -234,7 +234,7 @@
 <time> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      許文龍講堂 </place>
 <note> 台 </note>
 </B3>
 
@@ -280,6 +280,22 @@
 <note> 台 </note>
 </B3>
 
+<B3 id="120">
+<num>B3-120</num>
+<class></class>
+<group></group>
+<name> 論文（二） </name>
+<teacher> 鄭永常  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</B3>
+
 <B3 id="157">
 <num>B3-157</num>
 <class></class>
@@ -304,7 +320,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7215 </place>
+<place> 修齊大樓                      26304 </place>
 <note> 中 </note>
 </B3>
 

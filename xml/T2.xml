@@ -61,7 +61,7 @@
 <class></class>
 <group></group>
 <name> 進階護理學實習（二） </name>
-<teacher> 林梅鳳   ,  張瑩如   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯   ,  王靜枝   ,  方素瓔   ,  陳幸眉  </teacher>
+<teacher> 陳世明   ,  王琪珍   ,  張瑩如   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  林靜蘭   ,  方素瓔   ,  陳幸眉   ,  高綺吟   ,  賴維淑  </teacher>
 <score> 3 </score>
 <time> 
   </time>
@@ -147,7 +147,7 @@
 <class></class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 王瑤華   ,  張文芸   ,  徐畢卿   ,  顏妙芬   ,  柯乃熒   ,  陳靜敏   ,  林靜蘭   ,  方素瓔   ,  陳幸眉   ,  陳彰惠  </teacher>
+<teacher> 王瑤華   ,  王琪珍   ,  林梅鳳   ,  張瑩如   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  林靜蘭   ,  方素瓔   ,  陳幸眉   ,  高綺吟   ,  陳彰惠  </teacher>
 <score> 0 </score>
 <time> 
   </time>
@@ -235,7 +235,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 婦幼衛生照護議題研討 </name>
-<teacher> 王瑤華   ,  張瑩如   ,  黃美智   ,  許玉雲*  ,  馮瑞鶯   ,  高綺吟   ,  吳孟興   ,  鄭雅敏  </teacher>
+<teacher> 王瑤華   ,  張瑩如   ,  黃美智   ,  許玉雲*  ,  馮瑞鶯   ,  高綺吟   ,  吳孟興   ,  鄭雅敏   ,  陳彰惠  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>

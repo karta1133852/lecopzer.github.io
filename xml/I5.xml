@@ -91,11 +91,13 @@
 <name> 醫學科學研究（二） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time> [1]4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 2月20日課程及評分說明；6月19日期末問卷(點名) </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="014">
@@ -233,9 +235,11 @@
 <class1></class1>
 <group1></group1>
 <name1> 醫學科學研究（四） </name1>
-<time1> [1]4  </time1>
-<place1> 醫學院                        第三講堂 </place1>
-<note1> 2月20日課程及評分說明；6月19日期末問卷(點名) </note1>
+<time1> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
 </I5>
 
 <I5 id="060">
@@ -381,11 +385,13 @@
 <name> 醫學科學研究（六） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time> [1]4  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 2月20日課程及評分說明；6月19日期末問卷(點名) </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="151">
@@ -981,7 +987,7 @@
 <class></class>
 <group></group>
 <name> 骨外科特論 </name>
-<teacher> 蘇芳慶   ,  林啟禎   ,  楊俊佑   ,  賴國安   ,  謝式洲   ,  蘇維仁*  ,  張志偉   ,  黃國淵   ,  戴大為   ,  吳柏廷  </teacher>
+<teacher> 林啟禎   ,  楊俊佑   ,  賴國安   ,  謝式洲   ,  蘇維仁*  ,  張志偉   ,  黃國淵   ,  戴大為   ,  吳柏廷  </teacher>
 <score> 1 </score>
 <time> [4]5~6  </time>
 <must> 選修 </must>
@@ -1464,22 +1470,6 @@
  </note>
 </I5>
 
-<I5 id="306">
-<num>I5-306</num>
-<class></class>
-<group></group>
-<name> 復健科實習 </name>
-<teacher> 官大紳* </teacher>
-<score> 4 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
 <I5 id="307">
 <num>I5-307</num>
 <class></class>
@@ -1624,22 +1614,6 @@
  </note>
 </I5>
 
-<I5 id="316">
-<num>I5-316</num>
-<class></class>
-<group></group>
-<name> 職業環境醫學科實習 </name>
-<teacher> 吳政龍* </teacher>
-<score> 4 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
 <I5 id="317">
 <num>I5-317</num>
 <class></class>
@@ -1677,38 +1651,6 @@
 <class></class>
 <group></group>
 <name> 院外實習（二） </name>
-<teacher> 姚維仁* </teacher>
-<score> 4 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
-<I5 id="320">
-<num>I5-320</num>
-<class></class>
-<group></group>
-<name> 國外實習（一） </name>
-<teacher> 姚維仁* </teacher>
-<score> 4 </score>
-<time> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
-<I5 id="321">
-<num>I5-321</num>
-<class></class>
-<group></group>
-<name> 國外實習（二） </name>
 <teacher> 姚維仁* </teacher>
 <score> 4 </score>
 <time> 

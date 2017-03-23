@@ -266,6 +266,20 @@
 <note> 選修課程 </note>
 </RA>
 
+<RA id="029">
+<num>RA-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康產業人力資源管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選課請洽系所辦公室 </note>
+</RA>
+
 <RA id="302">
 <num>RA-302</num>
 <class> 碩專                           </class>
@@ -488,6 +502,20 @@
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
 <note> 選修課程 </note>
+</RA>
+
+<RA id="319">
+<num>RA-319</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 健康產業人力資源管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選課請洽系所辦公室 </note>
 </RA>
 
 <RA id="331">

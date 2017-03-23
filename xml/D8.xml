@@ -53,7 +53,7 @@
 <name> 微積分（二） </name>
 <teacher> 林敏雄  </teacher>
 <score> 3 </score>
-<time> [3]7~8  ,  [5]6  </time>
+<time> [3]7~8  ,  [5]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 成功校區經緯廳                經緯廳 </place>
@@ -61,20 +61,20 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（二） </name1>
-<time1> [5]5  </time1>
-<place1> 唯農大樓                      7311 </place1>
+<time1> [5]6  </time1>
+<place1> 唯農大樓                      7307 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
 <name2> 微積分（二） </name2>
-<time2> [5]5  </time2>
-<place2> 唯農大樓                      7313 </place2>
+<time2> [5]6  </time2>
+<place2> 唯農大樓                      7311 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
 <name3> 微積分（二） </name3>
-<time3> [5]5  </time3>
-<place3> 交管系館                      62205 </place3>
+<time3> [5]6  </time3>
+<place3> 唯農大樓                      7313 </place3>
 <note3></note3>
 </D8>
 
@@ -269,7 +269,7 @@
 <class></class>
 <group></group>
 <name> 變態心理學 </name>
-<teacher> 余睿羚   ,  郭乃文   ,  黃惠玲  </teacher>
+<teacher> 胡書榕   ,  余睿羚*  ,  郭乃文   ,  黃惠玲  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
 <must> 選修 </must>
@@ -316,7 +316,7 @@
 <time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80203 </place>
+<place> 社科院大樓                    階梯教室-經濟 </place>
 <note></note>
 </D8>
 
@@ -372,7 +372,7 @@
 <time> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
+<place> 社科院大樓                    階梯教室-心理 </place>
 <note> 大碩合開課程 </note>
 </D8>
 

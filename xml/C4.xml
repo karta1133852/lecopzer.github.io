@@ -248,20 +248,6 @@
 <note></note>
 </C4>
 
-<C4 id="065">
-<num>C4-065</num>
-<class></class>
-<group></group>
-<name> 工程數學（二） </name>
-<teacher> 林建宏  </teacher>
-<score> 3 </score>
-<time> [4]3~4  ,  [2]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3017 </place>
-<note></note>
-</C4>
-
 <C4 id="101">
 <num>C4-101</num>
 <class></class>
@@ -397,24 +383,10 @@
 <name> 分析地球化學 </name>
 <teacher> 羅尚德  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time> [3]3~4  ,  [5]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3035 </place>
-<note></note>
-</C4>
-
-<C4 id="163">
-<num>C4-163</num>
-<class></class>
-<group></group>
-<name> 書報討論 </name>
-<teacher> 吳銘志  </teacher>
-<score> 2 </score>
-<time> [1]2~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3036 </place>
 <note></note>
 </C4>
 

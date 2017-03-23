@@ -349,7 +349,7 @@
 <name1> 飛機設計 </name1>
 <time1> [4]N~6  </time1>
 <place1> 航太系館                      5898 </place1>
-<note1></note1>
+<note1> 教室新增5896B </note1>
 </F4>
 
 <F4 id="108">
@@ -452,20 +452,6 @@
 <note></note>
 </F4>
 
-<F4 id="152">
-<num>F4-152</num>
-<class></class>
-<group></group>
-<name> 自主式無人載具系統概論 </name>
-<teacher> 譚俊豪  </teacher>
-<score> 3 </score>
-<time> [4]3~4  ,  [2]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5824 </place>
-<note></note>
-</F4>
-
 <F4 id="153">
 <num>F4-153</num>
 <class></class>
@@ -489,16 +475,16 @@
 <name> 航太工程實作（二） </name>
 <teacher> 賴維祥  </teacher>
 <score> 2 </score>
-<time> [3]2  </time>
+<time> [1]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5821 </place>
+<place> 航太系館                      5849 </place>
 <note></note>
 <class1></class1>
 <group1></group1>
 <name1> 航太工程實作（二） </name1>
-<time1> [5]5~7  </time1>
-<place1> 航太系館                      5821 </place1>
+<time1> [1]5~7  </time1>
+<place1> 航太系館                      5849 </place1>
 <note1></note1>
 </F4>
 

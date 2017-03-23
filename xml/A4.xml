@@ -147,10 +147,10 @@
 <name> 化學／自然與生活科技化學教學實習 </name>
 <teacher> 黃守仁  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 化學系館                      3268 </place>
+<place> 化學系館                      3274 </place>
 <note> 先修課程：化學/自然與生活科技化學教材教法 </note>
 </A4>
 
@@ -161,7 +161,7 @@
 <name> 地球科學／自然與生活科技地球科學教學實習 </name>
 <teacher> 楊懷仁  </teacher>
 <score> 2 </score>
-<time> [2]9~A  </time>
+<time> [3]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3031 </place>

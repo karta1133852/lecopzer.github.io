@@ -81,7 +81,7 @@
 <class></class>
 <group></group>
 <name> 基本護理學 </name>
-<teacher> 王瑤華*  ,  林梅鳳   ,  許玉雲   ,  林靜蘭   ,  賴維淑   ,  鄭雅方   ,  謝曉燕  </teacher>
+<teacher> 王瑤華*  ,  林梅鳳   ,  許玉雲   ,  林靜蘭   ,  鄭雅方  </teacher>
 <score> 2 </score>
 <time> [3]1~2  </time>
 <must> 必修 </must>
@@ -95,7 +95,7 @@
 <class></class>
 <group></group>
 <name> 基本護理學實習 </name>
-<teacher> 王瑤華*  ,  林梅鳳   ,  許玉雲   ,  林靜蘭   ,  鄭雅方   ,  謝曉燕  </teacher>
+<teacher> 王瑤華*  ,  林梅鳳   ,  許玉雲   ,  林靜蘭   ,  賴維淑   ,  鄭雅方   ,  謝曉燕  </teacher>
 <score> 3 </score>
 <time> [3]3~4  ,  [3]5~8  ,  [4]1~4  </time>
 <must> 必修 </must>
@@ -295,7 +295,7 @@
 <class></class>
 <group></group>
 <name> 護理行政概論 </name>
-<teacher> 馬先芝   ,  張瑩如   ,  顏妙芬*  ,  王維芳   ,  許惠珠   ,  黃維珍   ,  郭雪敏  </teacher>
+<teacher> 馬先芝   ,  張瑩如   ,  顏妙芬*  ,  王維芳   ,  許惠珠   ,  黃維珍   ,  郭雪敏   ,  李歡芳  </teacher>
 <score> 2 </score>
 <time> [1]5~6  </time>
 <must> 必修 </must>

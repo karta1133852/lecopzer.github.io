@@ -136,7 +136,7 @@
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 會計系館                      63102 </place>
+<place> 社科院大樓                    80101 </place>
 <note> 科際整合課程相關領域：人文學、社會科學 </note>
 </A9>
 
@@ -416,7 +416,7 @@
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 數學系館                      3172 </place>
+<place> 資源系館                      4354 </place>
 <note> 台灣美術史,104學年度(含)以前入學生為核心通識公民與歷史領域課程。屬美學與藝術跨域學分學程。 </note>
 </A9>
 
@@ -1293,7 +1293,7 @@
 <class></class>
 <group></group>
 <name> 戲劇賞析 </name>
-<teacher> 高美華*  ,  林幸慧   ,  秦嘉嫄   ,  林明澤   ,  顧　盼   ,  劉南芳   ,  朱芳慧   ,  陳佳彬   ,  李欣怡  </teacher>
+<teacher> 高美華*  ,  林幸慧   ,  秦嘉嫄   ,  顧　盼   ,  劉南芳   ,  朱芳慧   ,  陳佳彬   ,  李欣怡  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -1440,20 +1440,6 @@
 <type> 生命科學與健康 </type>
 <place> 空中大學                      53101 </place>
 <note> 領域通識 </note>
-</A9>
-
-<A9 id="277">
-<num>A9-277</num>
-<class></class>
-<group></group>
-<name> 創業實務 </name>
-<teacher> 馬敏元  </teacher>
-<score> 2 </score>
-<time> [3]3~4  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place> 耐震大樓(建築研究大樓旁)      5108 </place>
-<note> 科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="278">

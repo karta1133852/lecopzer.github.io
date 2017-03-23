@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿* </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿* </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -33,7 +33,7 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿* </teacher>
 <score> 0 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
@@ -89,7 +89,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 老年學實習（二） </name>
-<teacher> 張家銘   ,  范聖育  </teacher>
+<teacher> 張家銘   ,  范聖育* </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -243,7 +243,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 高齡者的食物與營養 </name>
-<teacher> 郭素娥   ,  邱靜如  </teacher>
+<teacher> 郭素娥   ,  邱靜如* </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>

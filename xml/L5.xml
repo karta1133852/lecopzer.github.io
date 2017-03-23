@@ -154,20 +154,6 @@
 <note></note>
 </L5>
 
-<L5 id="043">
-<num>L5-043</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 細胞新陳代謝調控 </name>
-<teacher> 麥愛堂  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3414 </place>
-<note></note>
-</L5>
-
 <L5 id="044">
 <num>L5-044</num>
 <class> 碩博                           </class>
@@ -180,20 +166,6 @@
 <type> 講義 </type>
 <place> 生科系館                      3415 </place>
 <note> 生科院核心課程 </note>
-</L5>
-
-<L5 id="046">
-<num>L5-046</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 植物生物科技 </name>
-<teacher> 李瑞花  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 雲平大樓                      712 </place>
-<note> 生命、生科、熱植所合開全英語授課 </note>
 </L5>
 
 <L5 id="047">
@@ -249,20 +221,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3413 </place>
-<note></note>
-</L5>
-
-<L5 id="058">
-<num>L5-058</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 理論生態學 </name>
-<teacher> 仲澤剛史  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3414 </place>
 <note></note>
 </L5>
 

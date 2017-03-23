@@ -33,7 +33,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 基礎研究方法學 </name>
-<teacher> 馬慧英*  ,  張玲慧   ,  陳官琳   ,  黃百川  </teacher>
+<teacher> 馬慧英*  ,  張玲慧   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 獨立研究（二） </name>
-<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  林玲伊   ,  張玲慧   ,  陳官琳* </teacher>
+<teacher> 黃雅淑   ,  林玲伊   ,  張玲慧   ,  陳官琳*  ,  黃百川   ,  張雁晴  </teacher>
 <score> 1 </score>
 <time> [2]9  </time>
 <must> 選修 </must>
@@ -70,26 +70,12 @@
 <note> 請洽指導教授 </note>
 </T7>
 
-<T7 id="009">
-<num>T7-009</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 健康照護實證特論 </name>
-<teacher> 黃雅淑   ,  陳官琳   ,  黃百川* </teacher>
-<score> 2 </score>
-<time> [2]5~6  </time>
-<must> 選修 </must>
-<type> 生命科學與健康 </type>
-<place> 醫學院                        203D </place>
-<note></note>
-</T7>
-
 <T7 id="012">
 <num>T7-012</num>
 <class> 碩一二                         </class>
 <group></group>
 <name> 教學實習（二） </name>
-<teacher> 張雁晴* </teacher>
+<teacher> 張哲豪   ,  黃雅淑   ,  林玲伊   ,  張玲慧   ,  陳官琳   ,  黃百川   ,  張雁晴* </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 選修 </must>
@@ -103,7 +89,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 長照與生活功能促進特論 </name>
-<teacher> 張玲慧* </teacher>
+<teacher> 張哲豪   ,  張玲慧*  ,  黃百川  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
 <must> 選修 </must>

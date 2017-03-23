@@ -38,7 +38,7 @@
 <time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 唯農大樓                      7117 </place>
+<place> 唯農大樓                      7404 </place>
 <note> 模組二 </note>
 </A1>
 
@@ -416,7 +416,7 @@
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 唯農大樓                      7117 </place>
+<place> 唯農大樓                      7404 </place>
 <note> 模組一 </note>
 </A1>
 
@@ -892,7 +892,7 @@
 <time> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 唯農大樓                      7117 </place>
+<place> 唯農大樓                      7404 </place>
 <note> 模組二 </note>
 </A1>
 
@@ -1020,20 +1020,6 @@
 <type> 外國語言 </type>
 <place> 唯農大樓                      7401 </place>
 <note> 模組二 </note>
-</A1>
-
-<A1 id="176">
-<num>A1-176</num>
-<class></class>
-<group></group>
-<name> 基礎學術英文 </name>
-<teacher> 辛佳玲  </teacher>
-<score> 2 </score>
-<time> [3]5~6  </time>
-<must> 必修 </must>
-<type> 外國語言 </type>
-<place> 唯農大樓                      7112 </place>
-<note> 模組一 </note>
 </A1>
 
 <A1 id="177">
@@ -1788,7 +1774,7 @@
 <time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7302 </place>
+<place> 唯農大樓                      7211 </place>
 <note> 限非西語母語人士修課 </note>
 </A1>
 
@@ -1816,7 +1802,7 @@
 <time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7302 </place>
+<place> 唯農大樓                      7313 </place>
 <note> 限非西語母語人士修課 </note>
 </A1>
 
@@ -1844,7 +1830,7 @@
 <time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7302 </place>
+<place> 唯農大樓                      7313 </place>
 <note> 限非西語母語人士修課 </note>
 </A1>
 

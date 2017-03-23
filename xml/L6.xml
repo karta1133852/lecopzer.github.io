@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 陳宗嶽   ,  陳逸民   ,  王涵青   ,  盧福翊   ,  林士鳴* </teacher>
+<teacher> 陳逸民   ,  王涵青   ,  盧福翊   ,  林士鳴*  ,  郭瑋君  </teacher>
 <score> 1 </score>
 <time> [3]6~7  </time>
 <must> 必修 </must>
@@ -47,7 +47,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 生物技術學（二） </name>
-<teacher> 廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青   ,  張純純*  ,  劉宗霖   ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺   ,  李瑞花  </teacher>
+<teacher> 廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純*  ,  劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  羅玉枝   ,  盧福翊   ,  林士鳴   ,  郭瑋君   ,  陳俊榮   ,  張文綺  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
 <must> 必修 </must>
@@ -168,26 +168,12 @@
 <note> 生科所、熱植所合開 </note>
 </L6>
 
-<L6 id="032">
-<num>L6-032</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 蛋白體學技術實驗 </name>
-<teacher> 陳宗嶽  </teacher>
-<score> 1 </score>
-<time> [5]7~8  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place> 資訊大樓                      75614 </place>
-<note></note>
-</L6>
-
 <L6 id="035">
 <num>L6-035</num>
 <class> 博二                           </class>
 <group></group>
 <name> 書報討論（四） </name>
-<teacher> 陳宗嶽   ,  盧福翊* </teacher>
+<teacher> 盧福翊*  ,  郭瑋君  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -263,20 +249,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75710 </place>
-<note></note>
-</L6>
-
-<L6 id="052">
-<num>L6-052</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 轉譯生物學 </name>
-<teacher> 王涵青   ,  林士鳴  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75802 </place>
 <note></note>
 </L6>
 

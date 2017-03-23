@@ -293,7 +293,7 @@
 <name> 資源工程整合實作 </name>
 <teacher> 謝秉志   ,  陳昭旭*  ,  陳偉聖  </teacher>
 <score> 3 </score>
-<time> [2]4  </time>
+<time> [2]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4351 </place>
@@ -301,7 +301,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 資源工程整合實作 </name1>
-<time1> [1]1~3  ,  [2]5  </time1>
+<time1> [1]1~3  ,  [2]4  </time1>
 <place1> 資源系館                      4351 </place1>
 <note1></note1>
 </E4>
@@ -396,20 +396,6 @@
 <note></note>
 </E4>
 
-<E4 id="126">
-<num>E4-126</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 施勵行  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
 <E4 id="127">
 <num>E4-127</num>
 <class></class>
@@ -486,76 +472,6 @@
 <group></group>
 <name> 論文（一） </name>
 <teacher> 陳偉聖  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="133">
-<num>E4-133</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 郭明錦  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="134">
-<num>E4-134</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 吳榮華  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="135">
-<num>E4-135</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 李振誥  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="136">
-<num>E4-136</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 申永輝  </teacher>
-<score> 1 </score>
-<time> [4]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note></note>
-</E4>
-
-<E4 id="137">
-<num>E4-137</num>
-<class></class>
-<group></group>
-<name> 論文（一） </name>
-<teacher> 王建力  </teacher>
 <score> 1 </score>
 <time> [4]9  </time>
 <must> 選修 </must>

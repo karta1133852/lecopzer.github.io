@@ -281,27 +281,13 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 失智與老化研究 </name>
-<teacher> 簡伯武   ,  蕭雅心* </teacher>
+<teacher> 簡伯武   ,  蕭雅心*  ,  張雅雯   ,  朱俊憲  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        0824 </place>
 <note></note>
-</S8>
-
-<S8 id="023">
-<num>S8-023</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 精神藥物學（一） </name>
-<teacher> 陸汝斌* </teacher>
-<score> 2 </score>
-<time> [1]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 12B病房會議室 </note>
 </S8>
 
 </content>

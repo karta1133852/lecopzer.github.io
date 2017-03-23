@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 獨立研究（二） </name>
-<teacher> 林梅鳳   ,  徐畢卿   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯   ,  黃英修   ,  郭乃文  </teacher>
+<teacher> 顏妙芬   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  洪菁霞   ,  陳彰惠  </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -21,7 +21,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 健康照護專題討論（二） </name>
-<teacher> 林梅鳳   ,  徐畢卿   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯*  ,  黃英修   ,  郭乃文  </teacher>
+<teacher> 顏妙芬   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯*  ,  王靜枝   ,  黃英修   ,  洪菁霞   ,  陳彰惠  </teacher>
 <score> 1 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -35,7 +35,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 臨床研究設計（二） </name>
-<teacher> 楊政達   ,  馮瑞鶯   ,  王靜枝   ,  黃英修   ,  高雅慧   ,  陳彰惠*  ,  陳麗光  </teacher>
+<teacher> 馮瑞鶯   ,  黃英修   ,  賴嘉鎮   ,  蔡美玲   ,  陳彰惠* </teacher>
 <score> 2 </score>
 <time> [2]3~4  </time>
 <must> 必修 </must>
@@ -49,7 +49,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 健康照護的倫理探討與實踐 </name>
-<teacher> 甘偵蓉   ,  黃美智*  ,  簡偉明  </teacher>
+<teacher> 甘偵蓉   ,  黃美智*  ,  王靜枝  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -63,7 +63,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 健康照護的倫理探討與實踐 </name>
-<teacher> 甘偵蓉   ,  黃美智*  ,  簡偉明  </teacher>
+<teacher> 甘偵蓉   ,  黃美智*  ,  王靜枝   ,  簡偉明  </teacher>
 <score> 3 </score>
 <time> [4]6~8  </time>
 <must> 選修 </must>
@@ -77,7 +77,7 @@
 <class></class>
 <group></group>
 <name> 獨立研究（四） </name>
-<teacher> 徐畢卿   ,  柯乃熒   ,  王靜枝   ,  張哲豪   ,  馬慧英   ,  陳彰惠  </teacher>
+<teacher> 林梅鳳   ,  徐畢卿   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯   ,  黃英修   ,  郭乃文  </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -93,7 +93,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 健康照護專題討論（四） </name>
-<teacher> 徐畢卿   ,  柯乃熒   ,  馮瑞鶯*  ,  王靜枝   ,  黃英修   ,  張哲豪   ,  馬慧英  </teacher>
+<teacher> 林梅鳳   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯*  ,  黃英修   ,  郭乃文  </teacher>
 <score> 1 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -107,7 +107,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 教學理論與方法特論 </name>
-<teacher> 陳彰惠* </teacher>
+<teacher> 陳彰惠*  ,  陳麗光  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
 <must> 選修 </must>
@@ -121,7 +121,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 高齡健康與照護 </name>
-<teacher> 馬慧英* </teacher>
+<teacher> 林麗娟   ,  王靜枝   ,  林桑伊   ,  馬慧英*  ,  張玲慧   ,  郭乃文   ,  劉立凡   ,  陳柏宗   ,  范聖育  </teacher>
 <score> 3 </score>
 <time> [3]5~7  </time>
 <must> 選修 </must>
@@ -135,7 +135,7 @@
 <class></class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 黃美智   ,  張哲豪   ,  馬慧英   ,  郭乃文   ,  陳彰惠  </teacher>
+<teacher> 謝淑蘭   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯   ,  黃英修   ,  洪菁霞   ,  張哲豪   ,  馬慧英   ,  郭乃文   ,  陳彰惠  </teacher>
 <score> 0 </score>
 <time> 
   </time>

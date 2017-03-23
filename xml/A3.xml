@@ -10,7 +10,7 @@
 <time> [3]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 唯農大樓                      7311 </place>
 <note></note>
 </A3>
 
@@ -24,7 +24,7 @@
 <time> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 唯農大樓                      7311 </place>
 <note></note>
 </A3>
 
@@ -38,7 +38,7 @@
 <time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 唯農大樓                      7311 </place>
 <note></note>
 </A3>
 
@@ -52,7 +52,7 @@
 <time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 工管系館                      61101 </place>
 <note></note>
 </A3>
 
@@ -66,7 +66,7 @@
 <time> [2]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 唯農大樓                      7311 </place>
 <note></note>
 </A3>
 
@@ -164,7 +164,7 @@
 <time> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 唯農大樓                      7113 </place>
 <note></note>
 </A3>
 
@@ -178,7 +178,7 @@
 <time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 唯農大樓                      7211 </place>
 <note></note>
 </A3>
 
@@ -192,7 +192,7 @@
 <time> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 軍訓館                        6022 </place>
+<place> 軍訓館                        6021 </place>
 <note></note>
 </A3>
 
@@ -201,7 +201,7 @@
 <class></class>
 <group></group>
 <name> 全民國防教育軍事訓練－全民國防 </name>
-<teacher> 林承諭  </teacher>
+<teacher> 陳國彬   ,  林承諭* </teacher>
 <score> 0 </score>
 <time> [3]5~6  </time>
 <must> 選修 </must>

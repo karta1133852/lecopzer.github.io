@@ -66,7 +66,7 @@
 <time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62422 </place>
+<place> 企管系館                      62457 </place>
 <note></note>
 </R4>
 
@@ -302,20 +302,6 @@
 <teacher> 周信輝  </teacher>
 <score> 3 </score>
 <time> [3]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="308">
-<num>R4-308</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 跨領域創新與管理 </name>
-<teacher> 陳淑惠  </teacher>
-<score> 3 </score>
-<time> [5]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
