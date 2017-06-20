@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<S2 id="001">
+<num>S2-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥理學專題討論（二） </name>
+<teacher> 洪建中   ,  王育民   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯*  ,  姜學誠  </teacher>
+<score> 1 </score>
+<time> [1]7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note> 多位老師合上 </note>
+</S2>
+
+<S2 id="002">
+<num>S2-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 實驗藥理學 </name>
+<teacher> 呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒*  ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  黃金鼎  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0824 </place>
+<note> 多位老師合上 </note>
+</S2>
+
+<S2 id="003">
+<num>S2-003</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 行為神經藥理學 </name>
+<teacher> 簡伯武*  ,  蕭雅心  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0824 </place>
+<note></note>
+</S2>
+
+<S2 id="004">
+<num>S2-004</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 分子癌生物獨立研究 </name>
+<teacher> 王憶卿* </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0824 </place>
+<note></note>
+</S2>
+
+<S2 id="005">
+<num>S2-005</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 失智與老化研究 </name>
+<teacher> 簡伯武   ,  蕭雅心*  ,  張雅雯   ,  朱俊憲  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0824 </place>
+<note></note>
+</S2>
+
+<S2 id="007">
+<num>S2-007</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 藥理學專題討論（四） </name>
+<teacher> 洪建中   ,  王育民   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯*  ,  姜學誠  </teacher>
+<score> 1 </score>
+<time> [1]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note> 多位老師合上 </note>
+</S2>
+
+<S2 id="008">
+<num>S2-008</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥理學特論 </name>
+<teacher> 呂增宏   ,  簡偉明*  ,  許桂森   ,  沈孟儒   ,  張雋曦   ,  陳韻雯  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        307 </place>
+<note> 藥理所，護理系合班 ；多位老師合上 </note>
+</S2>
+
+<S2 id="011">
+<num>S2-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 生物醫學研究技術與科學報告技巧 </name>
+<teacher> 張雋曦*  ,  陳韻雯  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0824 </place>
+<note> 英語授課 </note>
+</S2>
+
+<S2 id="013">
+<num>S2-013</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 生命科學書報討論（二） </name>
+<teacher> 陳炳焜   ,  張俊彥   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒*  ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠  </teacher>
+<score> 1 </score>
+<time> [2]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0824 </place>
+<note> 碩一必選修，PBL教學 </note>
+</S2>
+
+<S2 id="014">
+<num>S2-014</num>
+<class> 碩三                           </class>
+<group></group>
+<name> 藥物發展實習（二） </name>
+<teacher> 黃金鼎* </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        304D </place>
+<note> 臨藥所與基醫所合開 </note>
+</S2>
+
+</content>

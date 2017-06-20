@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<H5 id="005">
+<num>H5-005</num>
+<class></class>
+<group></group>
+<name> 經濟學（二） </name>
+<teacher> 孫雅彥  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note></note>
+</H5>
+
+<H5 id="006">
+<num>H5-006</num>
+<class></class>
+<group></group>
+<name> 運輸學（二） </name>
+<teacher> 黃光渠  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62107 </place>
+<note></note>
+</H5>
+
+<H5 id="007">
+<num>H5-007</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 劉育佑  </teacher>
+<score> 3 </score>
+<time> [3]7~8  ,  [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61200 </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1> [5]5  </time1>
+<place1> 唯農大樓                      7211 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2> [5]5  </time2>
+<place2> 唯農大樓                      7213 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3> [5]5  </time3>
+<place3> 唯農大樓                      7215 </place3>
+<note3></note3>
+</H5>
+
+<H5 id="008">
+<num>H5-008</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 林敏雄  </teacher>
+<score> 3 </score>
+<time> [3]7~8  ,  [5]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1> [5]6  </time1>
+<place1> 唯農大樓                      7307 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2> [5]6  </time2>
+<place2> 唯農大樓                      7311 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3> [5]6  </time3>
+<place3> 唯農大樓                      7313 </place3>
+<note3></note3>
+</H5>
+
+<H5 id="009">
+<num>H5-009</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 侯世章  </teacher>
+<score> 3 </score>
+<time> [3]7~8  ,  [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1306(資源後) </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1> [5]5  </time1>
+<place1> 共同教室                      A1303 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2> [5]5  </time2>
+<place2> 共同教室                      A1304 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3> [5]5  </time3>
+<place3> 共同教室                      A1305 </place3>
+<note3></note3>
+</H5>
+
+<H5 id="012">
+<num>H5-012</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 沈宗緯  </teacher>
+<score> 0 </score>
+<time> [3]1  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 交管系館                      62109 </place>
+<note></note>
+</H5>
+
+<H5 id="015">
+<num>H5-015</num>
+<class></class>
+<group></group>
+<name> 會計學（二） </name>
+<teacher> 謝喻婷  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62107 </place>
+<note></note>
+</H5>
+
+<H5 id="016">
+<num>H5-016</num>
+<class></class>
+<group></group>
+<name> 計算機程式 </name>
+<teacher> 林東盈  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62307 </place>
+<note> 電腦室 </note>
+</H5>
+
+<H5 id="053">
+<num>H5-053</num>
+<class></class>
+<group></group>
+<name> 統計學（二） </name>
+<teacher> 林佐鼎  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note></note>
+</H5>
+
+<H5 id="055">
+<num>H5-055</num>
+<class></class>
+<group></group>
+<name> 運輸工程 </name>
+<teacher> 林佐鼎  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note> 運輸科技領域必修;鐵道運輸學分學程(選課須經本系登記審核通過) </note>
+</H5>
+
+<H5 id="059">
+<num>H5-059</num>
+<class></class>
+<group></group>
+<name> 商事法 </name>
+<teacher> 黃郁雯  </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note> 交管系與會計系合開 </note>
+</H5>
+
+<H5 id="065">
+<num>H5-065</num>
+<class></class>
+<group></group>
+<name> 航空運輸 </name>
+<teacher> 戴佐敏  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62105 </place>
+<note> 旅客運輸領域必修,民航學分學程(選課須經本系登記審核通過) </note>
+</H5>
+
+<H5 id="066">
+<num>H5-066</num>
+<class></class>
+<group></group>
+<name> 作業研究（二） </name>
+<teacher> 林正章  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note></note>
+</H5>
+
+<H5 id="067">
+<num>H5-067</num>
+<class></class>
+<group></group>
+<name> 運輸安全 </name>
+<teacher> 林佐鼎  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62107 </place>
+<note></note>
+</H5>
+
+<H5 id="069">
+<num>H5-069</num>
+<class></class>
+<group></group>
+<name> 公共運輸 </name>
+<teacher> 鄭永祥  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 旅客運輸領域必修 </note>
+</H5>
+
+<H5 id="080">
+<num>H5-080</num>
+<class></class>
+<group></group>
+<name> 國際貿易 </name>
+<teacher> 張瀞之  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note> 物流管理領域必修  交管與會計系合開 </note>
+</H5>
+
+<H5 id="081">
+<num>H5-081</num>
+<class></class>
+<group></group>
+<name> 通訊導論 </name>
+<teacher> 李威勳  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note> 電信領域必修 </note>
+</H5>
+
+<H5 id="104">
+<num>H5-104</num>
+<class></class>
+<group></group>
+<name> 運輸管理 </name>
+<teacher> 張有恒  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62205 </place>
+<note> 民航及鐵道運輸學分學程(選課須經本系登記審核通過) </note>
+</H5>
+
+<H5 id="106">
+<num>H5-106</num>
+<class></class>
+<group></group>
+<name> 國際物流 </name>
+<teacher> 沈宗緯  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62102 </place>
+<note> 先修:國際貿易 ;物流管理領域必修. </note>
+</H5>
+
+<H5 id="108">
+<num>H5-108</num>
+<class></class>
+<group></group>
+<name> 運轉理論 </name>
+<teacher> 林景山  </teacher>
+<score> 3 </score>
+<time> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62102 </place>
+<note> 鐵道運輸學分學程(選課須經本系登記審核通過) </note>
+</H5>
+
+<H5 id="122">
+<num>H5-122</num>
+<class></class>
+<group></group>
+<name> 專題研究（一） </name>
+<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  林正章   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  黃光渠   ,  林東盈   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</H5>
+
+<H5 id="131">
+<num>H5-131</num>
+<class></class>
+<group></group>
+<name> 服務業行銷 </name>
+<teacher> 蔡東峻  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62205 </place>
+<note> 電信管理領域必修 </note>
+</H5>
+
+<H5 id="133">
+<num>H5-133</num>
+<class></class>
+<group></group>
+<name> 管理資訊系統 </name>
+<teacher> 黃國平  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62102 </place>
+<note> 運輸科技領域必修 </note>
+</H5>
+
+<H5 id="135">
+<num>H5-135</num>
+<class></class>
+<group></group>
+<name> 運輸規劃 </name>
+<teacher> 林佐鼎  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62109 </place>
+<note></note>
+</H5>
+
+<H5 id="136">
+<num>H5-136</num>
+<class></class>
+<group></group>
+<name> 交通管理與控制 </name>
+<teacher> 黃國平  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [5]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62205 </place>
+<note> 運輸科技領域必修 </note>
+</H5>
+
+<H5 id="137">
+<num>H5-137</num>
+<class></class>
+<group></group>
+<name> 資料庫 </name>
+<teacher> 李威勳  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62102 </place>
+<note></note>
+</H5>
+
+</content>

@@ -1,24 +1,58 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<T9 id="001">
-<num>T9-001</num>
-<class> 碩                             </class>
+<T9 id="007">
+<num>T9-007</num>
+<class> 碩一                           </class>
 <group></group>
-<name> 細胞生物學 </name>
-<teacher> 郭余民   ,  黃步敏   ,  江美治   ,  莫凡毅   ,  吳佳慶*  ,  王家義   ,  王仰高  </teacher>
-<score> 2 </score>
-<time> [5]1~2  </time>
+<name> 胚胎學 </name>
+<teacher> 郭余民*  ,  黃步敏   ,  莫凡毅   ,  司君一   ,  許鍾瑜  </teacher>
+<score> 1 </score>
+<time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
+<place> 醫學院                        820523 </place>
 <note></note>
 </T9>
 
-<T9 id="002">
-<num>T9-002</num>
+<T9 id="101">
+<num>T9-101</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
+<name> 人體解剖學（含實驗） </name>
+<teacher> 郭余民*  ,  黃步敏   ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高   ,  陳應輝  </teacher>
+<score> 8 </score>
+<time> [1]5~8  ,  [2]1~4  ,  [4]1~4  ,  [5]1~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        820523 </place>
+<note></note>
+</T9>
+
+<T9 id="102">
+<num>T9-102</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 組織學特論 </name>
+<teacher> 江美治   ,  莫凡毅*  ,  司君一   ,  許鍾瑜   ,  王仰高  </teacher>
+<score> 4 </score>
+<time> [2]5~6  ,  [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        820523 </place>
+<note></note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 組織學特論 </name1>
+<time1> [2]7~8  ,  [5]7~8  </time1>
+<place1> 醫學院                        820523 </place1>
+<note1></note1>
+</T9>
+
+<T9 id="103">
+<num>T9-103</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
 <teacher> 郭余民   ,  黃步敏   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一   ,  許鍾瑜   ,  王家義   ,  王仰高* </teacher>
 <score> 1 </score>
 <time> [3]7  </time>
@@ -28,11 +62,11 @@
 <note></note>
 </T9>
 
-<T9 id="003">
-<num>T9-003</num>
+<T9 id="104">
+<num>T9-104</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 專題討論（四） </name>
+<name> 專題討論（三） </name>
 <teacher> 郭余民   ,  黃步敏   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一   ,  許鍾瑜   ,  王家義   ,  王仰高* </teacher>
 <score> 1 </score>
 <time> [3]8  </time>
@@ -42,22 +76,8 @@
 <note></note>
 </T9>
 
-<T9 id="004">
-<num>T9-004</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 神經解剖學特論 </name>
-<teacher> 郭余民   ,  黃步敏*  ,  吳佳慶   ,  司君一   ,  許鍾瑜  </teacher>
-<score> 3 </score>
-<time> [1]1~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        820523 </place>
-<note></note>
-</T9>
-
-<T9 id="006">
-<num>T9-006</num>
+<T9 id="107">
+<num>T9-107</num>
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
@@ -67,7 +87,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        501 </place>
-<note> 上課地點:81-0501 </note>
+<note></note>
 </T9>
 
 </content>

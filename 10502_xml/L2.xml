@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<L2 id="001">
+<num>L2-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 量子力學（二） </name>
+<teacher> 陳岳男  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [3]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note> 英語授課；物理所4選2必修，物理所主開。 </note>
+</L2>
+
+<L2 id="002">
+<num>L2-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 統計力學 </name>
+<teacher> 張為民  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49324 </place>
+<note> 英語授課；物理所4選2必修，物理所主開。 </note>
+</L2>
+
+<L2 id="003">
+<num>L2-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電動力學（二） </name>
+<teacher> 林明發  </teacher>
+<score> 3 </score>
+<time> [3]7  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49323 </place>
+<note> 英語授課；物理所4選2必修，物理所主開。 </note>
+</L2>
+
+<L2 id="005">
+<num>L2-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 張烈錚  </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note> 碩一必修。碩一，二及碩三以上合班。 </note>
+</L2>
+
+<L2 id="006">
+<num>L2-006</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 張烈錚  </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note> 碩二必修。碩一，二及碩三以上合班。 </note>
+</L2>
+
+<L2 id="007">
+<num>L2-007</num>
+<class> 碩                             </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 張烈錚  </teacher>
+<score> 0 </score>
+<time> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note></note>
+</L2>
+
+<L2 id="101">
+<num>L2-101</num>
+<class> 博一                           </class>
+<group> A </group>
+<name> 專題討論（二） </name>
+<teacher> 張烈錚  </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note> 博一必修。物博一二及博三以上合班。 </note>
+</L2>
+
+<L2 id="105">
+<num>L2-105</num>
+<class> 博二                           </class>
+<group> A </group>
+<name> 專題討論（四） </name>
+<teacher> 張烈錚  </teacher>
+<score> 1 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note> 博二必修。物博一二及博三以上合班。 </note>
+</L2>
+
+<L2 id="111">
+<num>L2-111</num>
+<class> 博                             </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 張烈錚  </teacher>
+<score> 0 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note></note>
+</L2>
+
+<L2 id="150">
+<num>L2-150</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 量子資訊專題討論（二） </name>
+<teacher> 陳岳男*  ,  周忠憲  </teacher>
+<score> 2 </score>
+<time> [1]N~5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49223 </place>
+<note></note>
+</L2>
+
+<L2 id="151">
+<num>L2-151</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 粒子物理（二） </name>
+<teacher> 楊毅  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49223 </place>
+<note> 大學部學生歡迎選修。 </note>
+</L2>
+
+<L2 id="152">
+<num>L2-152</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 相變理論 </name>
+<teacher> 黃文宏  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49323 </place>
+<note> 大學部學生歡迎選修。 </note>
+</L2>
+
+<L2 id="153">
+<num>L2-153</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 廣義相對論（一） </name>
+<teacher> 許祖斌  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49323 </place>
+<note> 大學部高年級學生可選修。英語授課。 </note>
+</L2>
+
+<L2 id="154">
+<num>L2-154</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 量子場論（二） </name>
+<teacher> 陳泉宏  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49116 </place>
+<note> 大學部學生歡迎選修。 </note>
+</L2>
+
+<L2 id="155">
+<num>L2-155</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電漿與模擬專題討論（二） </name>
+<teacher> 陳寬任  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室49310 </note>
+</L2>
+
+<L2 id="156">
+<num>L2-156</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等量子力學 </name>
+<teacher> 陳家駒  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49323 </place>
+<note> 英語授課 </note>
+</L2>
+
+<L2 id="180">
+<num>L2-180</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 物理教學專題討論 </name>
+<teacher> 唐富欽   ,  黃榮俊   ,  陳家駒   ,  田興龍   ,  林明發   ,  陳寬任   ,  蔡錦俊*  ,  張為民   ,  呂欽山   ,  張書銓   ,  陳宜君   ,  游輝樟   ,  朱淑君   ,  陳岳男   ,  盧炎田   ,  周忠憲   ,  陳泳帆   ,  吳忠霖   ,  陳則銘   ,  張烈錚   ,  羅光耀   ,  苗舜培   ,  楊毅   ,  梁永成   ,  黃文宏   ,  許瑞榮   ,  蔡永東  </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49X04 </place>
+<note></note>
+</L2>
+
+<L2 id="201">
+<num>L2-201</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 液晶材料及顯示技術 </name>
+<teacher> 傅永貴  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49323 </place>
+<note></note>
+</L2>
+
+</content>

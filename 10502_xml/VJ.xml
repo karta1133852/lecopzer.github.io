@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<VJ id="003">
+<num>VJ-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> PLL/DLL設計與應用 </name>
+<teacher> 鄭光偉  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92277 </place>
+<note></note>
+</VJ>
+
+<VJ id="004">
+<num>VJ-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 固態熱力學 </name>
+<teacher> 李炳鈞  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92B28 </place>
+<note></note>
+</VJ>
+
+<VJ id="005">
+<num>VJ-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米世代半導體製程概論 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 建議材料/化工/化學/物理/光電(聯電主管授課)限126人。 </note>
+</VJ>
+
+<VJ id="006">
+<num>VJ-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 排隊理論 </name>
+<teacher> 李忠憲  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</VJ>
+
+<VJ id="007">
+<num>VJ-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 適應性信號處理 </name>
+<teacher> 張名先  </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      靄雲廳 </place>
+<note></note>
+</VJ>
+
+<VJ id="008">
+<num>VJ-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> PLL/DLL設計與應用 </name>
+<teacher> 鄭光偉  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92277 </place>
+<note></note>
+</VJ>
+
+<VJ id="009">
+<num>VJ-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 無線網路與應用 </name>
+<teacher> 郭文光  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92453 </place>
+<note></note>
+</VJ>
+
+<VJ id="010">
+<num>VJ-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 網路安全 </name>
+<teacher> 楊竹星  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92425 </place>
+<note></note>
+</VJ>
+
+<VJ id="012">
+<num>VJ-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 矩陣理論與計算 </name>
+<teacher> 陳進興  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92926 </place>
+<note></note>
+</VJ>
+
+<VJ id="013">
+<num>VJ-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米世代半導體製程概論 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 建議材料/化工/化學/物理/光電(聯電主管授課)限126人。 </note>
+</VJ>
+
+<VJ id="014">
+<num>VJ-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體及先進奈米化製程技術概論（二） </name>
+<teacher> 王英郎  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 電資學院學生選修 </note>
+</VJ>
+
+<VJ id="016">
+<num>VJ-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 功率半導體元件概論 </name>
+<teacher> 王水進  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</VJ>
+
+<VJ id="017">
+<num>VJ-017</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 施權峰*  ,  黃正亮  </teacher>
+<score> 0 </score>
+<time> [3]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92B28 </place>
+<note> 電子材料組 </note>
+</VJ>
+
+</content>

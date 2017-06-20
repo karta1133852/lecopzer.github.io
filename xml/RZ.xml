@@ -2,30 +2,34 @@
 <content>
 <RZ id="201">
 <num>RZ-201</num>
-<class> 碩                             </class>
+<class></class>
 <group></group>
-<name> 精實創業 </name>
+<name> 精實創業進階 </name>
 <teacher> 楊朝旭  </teacher>
 <score> 3 </score>
-<time> [6]  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課教室技轉育成中心大會議室，上課時間詳如課程大綱 </note>
+<note> 
+ </note>
 </RZ>
 
 <RZ id="203">
 <num>RZ-203</num>
-<class> 碩                             </class>
+<class></class>
 <group></group>
-<name> 跨國管理實務融合(二) </name>
+<name> 跨國管理實務融合(一) </name>
 <teacher> 林軒竹  </teacher>
 <score> 3 </score>
-<time> [2]A~C  ,  [3]A~C  </time>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 62X17 </place>
-<note> 開放網路選課(全英文授課)／密集授課詳如課程大綱 </note>
+<place></place>
+<note> 
+ </note>
 </RZ>
 
 </content>

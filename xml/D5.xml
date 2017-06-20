@@ -1,11 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
+<D5 id="003">
+<num>D5-003</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</D5>
+
 <D5 id="008">
 <num>D5-008</num>
 <class></class>
 <group></group>
-<name> 統計學（二） </name>
-<teacher> 溫敏杰  </teacher>
+<name> 經濟學原理（一） </name>
+<teacher> 區俊傑  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80103 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 經濟學原理（一） </name1>
+<time1> [3]9  </time1>
+<place1> 社科院大樓                    80103 </place1>
+<note1></note1>
+</D5>
+
+<D5 id="009">
+<num>D5-009</num>
+<class></class>
+<group></group>
+<name> 統計學（一） </name>
+<teacher> 李國榮  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -14,11 +48,11 @@
 <note></note>
 </D5>
 
-<D5 id="009">
-<num>D5-009</num>
+<D5 id="010">
+<num>D5-010</num>
 <class></class>
 <group></group>
-<name> 會計學（二） </name>
+<name> 會計學（一） </name>
 <teacher> 施坤宏  </teacher>
 <score> 3 </score>
 <time> [2]6~8  </time>
@@ -32,31 +66,31 @@
 <num>D5-011</num>
 <class></class>
 <group></group>
-<name> 微積分（二） </name>
-<teacher> 劉育佑  </teacher>
+<name> 微積分（一） </name>
+<teacher> 王辰樹  </teacher>
 <score> 3 </score>
 <time> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61200 </place>
-<note></note>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（二） </name1>
+<name1> 微積分（一） </name1>
 <time1> [5]5  </time1>
-<place1> 唯農大樓                      7211 </place1>
+<place1> 唯農大樓                      7302 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（二） </name2>
+<name2> 微積分（一） </name2>
 <time2> [5]5  </time2>
-<place2> 唯農大樓                      7213 </place2>
+<place2> 唯農大樓                      7307 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（二） </name3>
+<name3> 微積分（一） </name3>
 <time3> [5]5  </time3>
-<place3> 唯農大樓                      7215 </place3>
+<place3> 唯農大樓                      7309 </place3>
 <note3></note3>
 </D5>
 
@@ -64,31 +98,31 @@
 <num>D5-012</num>
 <class></class>
 <group></group>
-<name> 微積分（二） </name>
+<name> 微積分（一） </name>
 <teacher> 林敏雄  </teacher>
 <score> 3 </score>
-<time> [3]7~8  ,  [5]5  </time>
+<time> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 成功校區經緯廳                經緯廳 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（二） </name1>
-<time1> [5]6  </time1>
-<place1> 唯農大樓                      7307 </place1>
+<name1> 微積分（一） </name1>
+<time1> [5]5  </time1>
+<place1> 唯農大樓                      7311 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（二） </name2>
-<time2> [5]6  </time2>
-<place2> 唯農大樓                      7311 </place2>
+<name2> 微積分（一） </name2>
+<time2> [5]5  </time2>
+<place2> 唯農大樓                      7313 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（二） </name3>
-<time3> [5]6  </time3>
-<place3> 唯農大樓                      7313 </place3>
+<name3> 微積分（一） </name3>
+<time3> [5]5  </time3>
+<place3> 交管系館                      62205 </place3>
 <note3></note3>
 </D5>
 
@@ -96,8 +130,8 @@
 <num>D5-013</num>
 <class></class>
 <group></group>
-<name> 微積分（二） </name>
-<teacher> 侯世章  </teacher>
+<name> 微積分（一） </name>
+<teacher> 蕭仁傑  </teacher>
 <score> 3 </score>
 <time> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
@@ -106,50 +140,62 @@
 <note></note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（二） </name1>
+<name1> 微積分（一） </name1>
 <time1> [5]5  </time1>
 <place1> 共同教室                      A1303 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（二） </name2>
+<name2> 微積分（一） </name2>
 <time2> [5]5  </time2>
-<place2> 共同教室                      A1304 </place2>
+<place2></place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（二） </name3>
+<name3> 微積分（一） </name3>
 <time3> [5]5  </time3>
 <place3> 共同教室                      A1305 </place3>
 <note3></note3>
 </D5>
 
-<D5 id="015">
-<num>D5-015</num>
+<D5 id="014">
+<num>D5-014</num>
 <class></class>
 <group></group>
-<name> 經濟學原理（二） </name>
-<teacher> 區俊傑  </teacher>
+<name> 微積分（一） </name>
+<teacher> 黃柏嶧  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [5]6  ,  [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80103 </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note></note>
 <class1></class1>
-<group1></group1>
-<name1> 經濟學原理（二） </name1>
-<time1> [3]9  </time1>
-<place1> 社科院大樓                    80103 </place1>
+<group1> A </group1>
+<name1> 微積分（一） </name1>
+<time1> [5]5  </time1>
+<place1> 企管系館                      62218 </place1>
 <note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（一） </name2>
+<time2> [5]5  </time2>
+<place2> 企管系館                      62229 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（一） </name3>
+<time3> [5]5  </time3>
+<place3> 企管系館                      62231 </place3>
+<note3></note3>
 </D5>
 
 <D5 id="016">
 <num>D5-016</num>
 <class></class>
 <group></group>
-<name> 服務學習（二） </name>
-<teacher> 區俊傑  </teacher>
+<name> 服務學習（一） </name>
+<teacher> 未定  </teacher>
 <score> 0 </score>
 <time> [3]N  </time>
 <must> 必修 </must>
@@ -158,11 +204,11 @@
 <note></note>
 </D5>
 
-<D5 id="057">
-<num>D5-057</num>
+<D5 id="059">
+<num>D5-059</num>
 <class></class>
 <group></group>
-<name> 總體經濟學（二） </name>
+<name> 總體經濟學（一） </name>
 <teacher> 許永河  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
@@ -172,17 +218,17 @@
 <note></note>
 <class1></class1>
 <group1></group1>
-<name1> 總體經濟學（二） </name1>
+<name1> 總體經濟學（一） </name1>
 <time1> [4]9  </time1>
 <place1> 社科院大樓                    80103 </place1>
 <note1></note1>
 </D5>
 
-<D5 id="058">
-<num>D5-058</num>
+<D5 id="060">
+<num>D5-060</num>
 <class></class>
 <group></group>
-<name> 個體經濟學（二） </name>
+<name> 個體經濟學（一） </name>
 <teacher> 翁明宏  </teacher>
 <score> 3 </score>
 <time> [1]7~9  </time>
@@ -192,234 +238,234 @@
 <note></note>
 <class1></class1>
 <group1></group1>
-<name1> 個體經濟學（二） </name1>
+<name1> 個體經濟學（一） </name1>
 <time1> [2]9  </time1>
 <place1> 社科院大樓                    80103 </place1>
 <note1></note1>
-</D5>
-
-<D5 id="061">
-<num>D5-061</num>
-<class></class>
-<group></group>
-<name> 社會科學方法論 </name>
-<teacher> 劉亞明  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80205 </place>
-<note> 上機教室: 社科院80305電腦教室 </note>
 </D5>
 
 <D5 id="063">
 <num>D5-063</num>
 <class></class>
 <group></group>
-<name> 計量經濟學（一） </name>
-<teacher> 陳奕奇  </teacher>
+<name> 經濟數學 </name>
+<teacher> 蔡群立  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80205 </place>
-<note> 上機地點：計網中心75301電腦教室 </note>
+<place> 社科院大樓                    80103 </place>
+<note> 分析工具領域 </note>
 </D5>
 
 <D5 id="064">
 <num>D5-064</num>
 <class></class>
 <group></group>
-<name> 台灣經濟發展史論 </name>
+<name> 數理統計學 </name>
+<teacher> 任眉眉  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62119 </place>
+<note> 分析工具領域 </note>
+</D5>
+
+<D5 id="066">
+<num>D5-066</num>
+<class></class>
+<group></group>
+<name> 西洋經濟史 </name>
 <teacher> 蔡仰虔  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80103 </place>
-<note> 新課程，隸屬於應用經濟領域。 </note>
+<note> 應用經濟領域 </note>
 </D5>
 
 <D5 id="102">
 <num>D5-102</num>
 <class></class>
 <group></group>
-<name> 貨幣銀行學 </name>
+<name> 公共財政學 </name>
 <teacher> 王富美  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-經濟 </place>
-<note> 限大三以上 </note>
-</D5>
-
-<D5 id="114">
-<num>D5-114</num>
-<class></class>
-<group></group>
-<name> 國際金融 </name>
-<teacher> 蔡群立  </teacher>
-<score> 3 </score>
-<time> [1]1~3  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80103 </place>
 <note></note>
 </D5>
 
-<D5 id="116">
-<num>D5-116</num>
+<D5 id="104">
+<num>D5-104</num>
 <class></class>
 <group></group>
-<name> 資源與環境經濟學 </name>
-<teacher> 郭彥廉  </teacher>
+<name> 計量經濟學（二） </name>
+<teacher> 林常青  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80103 </place>
-<note></note>
+<place> 社科院大樓                    80203 </place>
+<note> 分析工具領域-----星期三，4社科院電腦教室80303上課 </note>
 </D5>
 
-<D5 id="120">
-<num>D5-120</num>
+<D5 id="106">
+<num>D5-106</num>
 <class></class>
 <group></group>
-<name> 經濟思想史 </name>
-<teacher> 蔡仰虔  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    階梯教室-經濟 </place>
-<note></note>
-</D5>
-
-<D5 id="121">
-<num>D5-121</num>
-<class></class>
-<group></group>
-<name> 經濟成長 </name>
-<teacher> 伍弘歷  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    八樓研討室A </place>
-<note> 新課程，隸屬於經濟分析領域。 </note>
-</D5>
-
-<D5 id="152">
-<num>D5-152</num>
-<class></class>
-<group></group>
-<name> 數理經濟學 </name>
-<teacher> 胡政成  </teacher>
+<name> 都市經濟學 </name>
+<teacher> 石豐宇  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-經濟 </place>
-<note></note>
+<note> 應用經濟領域 </note>
 </D5>
 
-<D5 id="153">
-<num>D5-153</num>
+<D5 id="107">
+<num>D5-107</num>
 <class></class>
 <group></group>
-<name> 社會學概論 </name>
-<teacher> 王金壽  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80101 </place>
-<note> 與政治學系合開，80101教室 </note>
-</D5>
-
-<D5 id="154">
-<num>D5-154</num>
-<class></class>
-<group></group>
-<name> 神經經濟學 </name>
-<teacher> 翁明宏  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    八樓研討室A </place>
-<note></note>
-</D5>
-
-<D5 id="158">
-<num>D5-158</num>
-<class></class>
-<group></group>
-<name> 產業經濟學 </name>
-<teacher> 區俊傑  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    階梯教室-經濟 </place>
-<note></note>
-</D5>
-
-<D5 id="162">
-<num>D5-162</num>
-<class></class>
-<group></group>
-<name> 健康經濟學 </name>
-<teacher> 劉亞明  </teacher>
-<score> 3 </score>
-<time> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    八樓研討室A </place>
-<note> 上機教室：社科院80305電腦教室 </note>
-</D5>
-
-<D5 id="163">
-<num>D5-163</num>
-<class></class>
-<group></group>
-<name> 工程經濟 </name>
-<teacher> 張秀雲  </teacher>
-<score> 3 </score>
-<time> [4]3~4  ,  [2]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61102 </place>
-<note></note>
-</D5>
-
-<D5 id="164">
-<num>D5-164</num>
-<class></class>
-<group></group>
-<name> 風險管理 </name>
-<teacher> 李宗穎  </teacher>
-<score> 3 </score>
-<time> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80203 </place>
-<note></note>
-</D5>
-
-<D5 id="165">
-<num>D5-165</num>
-<class></class>
-<group></group>
-<name> 經濟發展與幸福經濟 </name>
+<name> 經濟發展 </name>
 <teacher> 謝文真  </teacher>
 <score> 3 </score>
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-經濟 </place>
-<note> 英語授課---建議英語程度須具備全民英檢中高級複試以上。新課程隸屬於經濟分析領域 </note>
+<note> 分析工具領域。都計系與經濟系合班。限選條件：經濟學70分以上 </note>
+</D5>
+
+<D5 id="112">
+<num>D5-112</num>
+<class></class>
+<group></group>
+<name> 政治學概論 </name>
+<teacher> 王奕婷  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80101 </place>
+<note> 自由選修 </note>
+</D5>
+
+<D5 id="113">
+<num>D5-113</num>
+<class></class>
+<group></group>
+<name> 資訊經濟學 </name>
+<teacher> 李宗穎  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80203 </place>
+<note> 經濟分析領域------星期四第8節社科院電腦教室80305上課 </note>
+</D5>
+
+<D5 id="117">
+<num>D5-117</num>
+<class></class>
+<group></group>
+<name> 國際貿易 </name>
+<teacher> 陳奕奇  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80103 </place>
+<note> 限選條件為個體經濟學(一)60分或個體經濟學(二)60分。若無法選課者，請洽系辦 </note>
+</D5>
+
+<D5 id="118">
+<num>D5-118</num>
+<class></class>
+<group></group>
+<name> 東南亞文化特質與產業人才訓練 </name>
+<teacher> 許育典   ,  林常青   ,  周麗芳   ,  胡中凡* </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    實習法庭 </place>
+<note> 法律系:法律系相鄰學科/經濟系:一般自由選修/心理系:自由選修 </note>
+</D5>
+
+<D5 id="157">
+<num>D5-157</num>
+<class></class>
+<group></group>
+<name> 勞動經濟學 </name>
+<teacher> 田維華  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-經濟 </place>
+<note> 應用經濟領域 </note>
+</D5>
+
+<D5 id="158">
+<num>D5-158</num>
+<class></class>
+<group></group>
+<name> 賽局與經濟 </name>
+<teacher> 翁明宏  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80203 </place>
+<note> 分析工具領域 </note>
+</D5>
+
+<D5 id="165">
+<num>D5-165</num>
+<class></class>
+<group></group>
+<name> 金融市場 </name>
+<teacher> 李宗穎  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80205 </place>
+<note> 應用經濟領域 </note>
+</D5>
+
+<D5 id="166">
+<num>D5-166</num>
+<class></class>
+<group></group>
+<name> 天然災害經濟分析 </name>
+<teacher> 郭彥廉  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-經濟 </place>
+<note> 分析工具領域--大學部三年級以上才能修習  (英語授課) </note>
+</D5>
+
+<D5 id="167">
+<num>D5-167</num>
+<class></class>
+<group></group>
+<name> 翻轉臺灣與東南亞區域研究 </name>
+<teacher> 許育典   ,  洪敬富*  ,  蔡群立   ,  林常青  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80101 </place>
+<note> 法律系:法律系相鄰學科/經濟系:一般自由選修/政治系:自由選修 </note>
 </D5>
 
 </content>

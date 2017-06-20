@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<VK id="001">
+<num>VK-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 林瑞禮*  ,  張簡樂仁  </teacher>
+<score> 0 </score>
+<time> [3]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92720 </place>
+<note> 電力組 </note>
+</VK>
+
+<VK id="002">
+<num>VK-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 莊智清  </teacher>
+<score> 0 </score>
+<time> [3]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note> 控制組 </note>
+</VK>
+
+<VK id="003">
+<num>VK-003</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 楊宏澤*  ,  陳建富  </teacher>
+<score> 0 </score>
+<time> [2]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92720 </place>
+<note> 電力組 </note>
+</VK>
+
+<VK id="004">
+<num>VK-004</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 莊智清  </teacher>
+<score> 0 </score>
+<time> [3]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note> 控制組 </note>
+</VK>
+
+<VK id="005">
+<num>VK-005</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 論文研討（二） </name>
+<teacher> 李嘉猷  </teacher>
+<score> 1 </score>
+<time> [1]A~B  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 電機系館                      靄雲廳 </place>
+<note></note>
+</VK>
+
+<VK id="006">
+<num>VK-006</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電磁相容學 </name>
+<teacher> 李嘉猷  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92820 </place>
+<note></note>
+</VK>
+
+<VK id="007">
+<num>VK-007</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電源轉換系統分析 </name>
+<teacher> 林瑞禮  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 英語授課 </note>
+</VK>
+
+<VK id="009">
+<num>VK-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 配電系統自動化 </name>
+<teacher> 黃慶連  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 電資學院學生選修 </note>
+</VK>
+
+<VK id="010">
+<num>VK-010</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 共振式電能轉換器設計 </name>
+<teacher> 林瑞禮  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 碩專、碩博合英語授課 </note>
+</VK>
+
+<VK id="011">
+<num>VK-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電力系統控制與穩定度 </name>
+<teacher> 王　醴  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note></note>
+</VK>
+
+<VK id="012">
+<num>VK-012</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電動機設計 </name>
+<teacher> 謝旻甫  </teacher>
+<score> 3 </score>
+<time> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56224 </place>
+<note> 英語授課 </note>
+</VK>
+
+</content>

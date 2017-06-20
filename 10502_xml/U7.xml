@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<U7 id="001">
+<num>U7-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 認知科學議題研討（二） </name>
+<teacher> 周麗芳  </teacher>
+<score> 1 </score>
+<time> [5]5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</U7>
+
+<U7 id="002">
+<num>U7-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 認知科學議題研討（四） </name>
+<teacher> 周麗芳  </teacher>
+<score> 1 </score>
+<time> [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</U7>
+
+<U7 id="003">
+<num>U7-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 教學實習（二） </name>
+<teacher> 龔俊嘉   ,  謝淑蘭*  ,  楊政達   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩  </teacher>
+<score> 0 </score>
+<time> [2]1  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</U7>
+
+<U7 id="004">
+<num>U7-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 龔俊嘉   ,  謝淑蘭*  ,  楊政達   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩  </teacher>
+<score> 0 </score>
+<time> [5]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</U7>
+
+<U7 id="005">
+<num>U7-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 行為科學研究法 </name>
+<teacher> 周麗芳  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
+<U7 id="006">
+<num>U7-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 華人組織行為 </name>
+<teacher> 周麗芳  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
+<U7 id="007">
+<num>U7-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 情緒與記憶專題研究（二） </name>
+<teacher> 陳德祐  </teacher>
+<score> 3 </score>
+<time> [2]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
+<U7 id="008">
+<num>U7-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 心理計量專題研究 </name>
+<teacher> 鄭中平  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
+<U7 id="009">
+<num>U7-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 心理學工具程式集在認知科學上的應用 </name>
+<teacher> 龔俊嘉  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
+<U7 id="010">
+<num>U7-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 老化認知神經科學 </name>
+<teacher> 謝淑蘭  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note></note>
+</U7>
+
+<U7 id="011">
+<num>U7-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 發展科學進階研究 </name>
+<teacher> 胡中凡  </teacher>
+<score> 3 </score>
+<time> [5]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
+<U7 id="012">
+<num>U7-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 記憶研究特論(一) </name>
+<teacher> 林君昱  </teacher>
+<score> 3 </score>
+<time> [3]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note> 須先經授課老師同意才可選修 </note>
+</U7>
+
+<U7 id="013">
+<num>U7-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 神經科學綜論(二) </name>
+<teacher> 胡書榕  </teacher>
+<score> 3 </score>
+<time> [3]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 須先經授課老師同意才可選修 </note>
+</U7>
+
+<U7 id="014">
+<num>U7-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 物質濫用導論 </name>
+<teacher> 胡書榕  </teacher>
+<score> 3 </score>
+<time> [5]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 須先經授課老師同意才可選修 </note>
+</U7>
+
+<U7 id="015">
+<num>U7-015</num>
+<class> 碩                             </class>
+<group></group>
+<name> 學習記憶神經生物學 </name>
+<teacher> 陳德祐  </teacher>
+<score> 3 </score>
+<time> [4]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note> 大碩合開課程 </note>
+</U7>
+
+<U7 id="016">
+<num>U7-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健身運動與認知神經科學專題研究 </name>
+<teacher> 楊政達* </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 教室於心理系5樓玻璃會議室 </note>
+</U7>
+
+<U7 id="026">
+<num>U7-026</num>
+<class> 碩                             </class>
+<group></group>
+<name> 統計機器學習與應用 </name>
+<teacher> 黃柏僩  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note> 大碩合開課程。建議具備微積分與R程式之基礎 </note>
+</U7>
+
+<U7 id="030">
+<num>U7-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 決策與判斷 </name>
+<teacher> 許清芳  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    A424 </place>
+<note> 外所學生須經授課教師確認統計基本知識，同意後才可選修本課程 </note>
+</U7>
+
+<U7 id="031">
+<num>U7-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 資料管理 </name>
+<teacher> 許清芳  </teacher>
+<score> 3 </score>
+<time> [2]N~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75309 </place>
+<note></note>
+</U7>
+
+</content>

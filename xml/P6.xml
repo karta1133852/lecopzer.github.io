@@ -1,109 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<P6 id="010">
-<num>P6-010</num>
+<P6 id="001">
+<num>P6-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 測量專題討論（二） </name>
-<teacher> 呂學展  </teacher>
+<name> 測量專題討論（一） </name>
+<teacher> 郭重言  </teacher>
 <score> 0 </score>
-<time> [1]6~8  </time>
+<time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 測量系館                      55250 </place>
 <note></note>
 </P6>
 
-<P6 id="011">
-<num>P6-011</num>
+<P6 id="002">
+<num>P6-002</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 測量專題討論（四） </name>
-<teacher> 尤瑞哲  </teacher>
+<name> 測量專題討論（三） </name>
+<teacher> 曾義星  </teacher>
 <score> 0 </score>
-<time> [1]6~8  </time>
+<time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 測量系副館                    55150 </place>
+<place> 測量系館                      55250 </place>
 <note></note>
 </P6>
 
-<P6 id="012">
-<num>P6-012</num>
+<P6 id="010">
+<num>P6-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 慣性測量與導航 </name>
-<teacher> 江凱偉  </teacher>
-<score> 3 </score>
-<time> [4]2~4  </time>
+<name> 專題討論 </name>
+<teacher> 林昭宏  </teacher>
+<score> 0 </score>
+<time> [4]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 測量系副館                    55150 </place>
-<note></note>
-</P6>
-
-<P6 id="013">
-<num>P6-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 空間環境資料分析與模式 </name>
-<teacher> 朱宏杰  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 測量系副館                    55150 </place>
-<note> 測量所與自災所合開課程 </note>
-</P6>
-
-<P6 id="014">
-<num>P6-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 資料探勘 </name>
-<teacher> 呂學展  </teacher>
-<score> 3 </score>
-<time> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 測量系副館                    55150 </place>
-<note></note>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note> 博碩三(含)以上學生選修 </note>
 </P6>
 
 <P6 id="015">
 <num>P6-015</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 雷射遙感探測 </name>
-<teacher> 王驥魁  </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 測量系副館                    55150 </place>
-<note> 測量所與自災所合開課程 </note>
-</P6>
-
-<P6 id="016">
-<num>P6-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 大地測量技術在地殼變形研究之應用 </name>
-<teacher> 景國恩  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 測量系副館                    55150 </place>
-<note> 測量所與自災所合開課程 </note>
-</P6>
-
-<P6 id="017">
-<num>P6-017</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 導航估計理論 </name>
-<teacher> 張秀雯  </teacher>
+<name> 空間資訊系統 </name>
+<teacher> 洪榮宏  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -112,66 +56,102 @@
 <note></note>
 </P6>
 
-<P6 id="018">
-<num>P6-018</num>
-<class> 碩                             </class>
-<group></group>
-<name> 遙感探測資料處理與實作 </name>
-<teacher> 王驥魁  </teacher>
-<score> 3 </score>
-<time> [5]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 測量系館                      55250 </place>
-<note></note>
-<class1> 碩                             </class1>
-<group1></group1>
-<name1> 遙感探測資料處理與實作 </name1>
-<time1> [2]3~4  </time1>
-<place1> 測量系館                      55208 </place1>
-<note1></note1>
-</P6>
-
-<P6 id="019">
-<num>P6-019</num>
-<class> 博一                           </class>
-<group></group>
-<name> 專題討論（二） </name>
-<teacher> 洪榮宏   ,  林昭宏*  ,  王驥魁  </teacher>
-<score> 0 </score>
-<time> [1]9  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 測量系副館                    55150 </place>
-<note></note>
-</P6>
-
 <P6 id="020">
 <num>P6-020</num>
-<class> 博二                           </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 尤瑞哲   ,  景國恩* </teacher>
-<score> 1 </score>
-<time> [1]N  </time>
-<must> 必修 </must>
+<name> 衛星大地測量 </name>
+<teacher> 楊　名  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55150 </place>
+<note></note>
+</P6>
+
+<P6 id="025">
+<num>P6-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數值攝影測量 </name>
+<teacher> 饒見有  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55150 </place>
+<note></note>
+</P6>
+
+<P6 id="030">
+<num>P6-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 類神經網路理論及空間資訊處理之應用 </name>
+<teacher> 張秀雯  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55150 </place>
+<note></note>
+</P6>
+
+<P6 id="035">
+<num>P6-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 解析航遙測 </name>
+<teacher> 曾義星  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55150 </place>
+<note></note>
+</P6>
+
+<P6 id="040">
+<num>P6-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數位影像處理 </name>
+<teacher> 林昭宏  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 測量系館                      55250 </place>
 <note></note>
 </P6>
 
-<P6 id="100">
-<num>P6-100</num>
-<class> 碩博                           </class>
+<P6 id="101">
+<num>P6-101</num>
+<class> 博一                           </class>
 <group></group>
-<name> 專題討論 </name>
-<teacher> 江凱偉  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 江凱偉*  ,  曾義星  </teacher>
 <score> 0 </score>
-<time> [1]3  </time>
-<must> 選修 </must>
+<time> [5]7  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 測量系副館                    55150 </place>
-<note> 博碩三（含）以上學生選修　 </note>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note></note>
+</P6>
+
+<P6 id="103">
+<num>P6-103</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 洪榮宏   ,  江凱偉   ,  林昭宏* </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note></note>
 </P6>
 
 </content>

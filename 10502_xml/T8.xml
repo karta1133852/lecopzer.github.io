@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T8 id="001">
+<num>T8-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 呂宗學   ,  胡淑貞   ,  王亮懿   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯* </teacher>
+<score> 0 </score>
+<time> [1]7~9  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 全體教師 </note>
+</T8>
+
+<T8 id="002">
+<num>T8-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 呂宗學   ,  胡淑貞   ,  王亮懿   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯* </teacher>
+<score> 0 </score>
+<time> [1]7~9  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 與碩班專題討論(二)合班上課 </note>
+</T8>
+
+<T8 id="003">
+<num>T8-003</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 呂宗學   ,  胡淑貞   ,  王亮懿   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯* </teacher>
+<score> 0 </score>
+<time> [1]7~9  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 全體教師參與 </note>
+</T8>
+
+<T8 id="004">
+<num>T8-004</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 呂宗學   ,  胡淑貞   ,  王亮懿   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯* </teacher>
+<score> 0 </score>
+<time> [1]7~9  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 與博班專題討論(二)合班上課 </note>
+</T8>
+
+<T8 id="005">
+<num>T8-005</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 呂宗學   ,  胡淑貞   ,  王亮懿   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯* </teacher>
+<score> 0 </score>
+<time> [1]7~9  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        303D </place>
+<note> 與博班專題討論(二)(四)合班上課 </note>
+</T8>
+
+<T8 id="006">
+<num>T8-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 進階生物統計學 </name>
+<teacher> 林聖翔   ,  王亮懿* </teacher>
+<score> 2 </score>
+<time> [2]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note> 公衛所碩博班必選課程 </note>
+</T8>
+
+<T8 id="007">
+<num>T8-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康與醫療的政治經濟學 </name>
+<teacher> 陳美霞* </teacher>
+<score> 3 </score>
+<time> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</T8>
+
+<T8 id="008">
+<num>T8-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 人群健康觀察研究文獻評論 </name>
+<teacher> 王榮德  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</T8>
+
+<T8 id="009">
+<num>T8-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫藥衛生中的生活品質與成本效果評估 </name>
+<teacher> 王榮德  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</T8>
+
+<T8 id="010">
+<num>T8-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 青少年健康問題概論 </name>
+<teacher> 莊佳蓉  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：公衛所08086研討室 </note>
+</T8>
+
+<T8 id="011">
+<num>T8-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康城市與社區營造 </name>
+<teacher> 趙子元   ,  胡淑貞* </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note> 公衛所與都計所合班 </note>
+</T8>
+
+<T8 id="012">
+<num>T8-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 衛生政策分析與評估 </name>
+<teacher> 古鯉榕  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 公衛所08077會議室 </note>
+</T8>
+
+<T8 id="013">
+<num>T8-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康資料加值分析 </name>
+<teacher> 呂宗學  </teacher>
+<score> 1 </score>
+<time> [3]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:門診大樓8樓公衛所08086研討室 </note>
+</T8>
+
+</content>

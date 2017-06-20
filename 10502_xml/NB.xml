@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<NB id="003">
+<num>NB-003</num>
+<class> 碩                             </class>
+<group></group>
+<name> 應用材料科學（二） </name>
+<teacher> 呂國彰  </teacher>
+<score> 3 </score>
+<time> [3]8~9  ,  [4]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 尖端所與材料所合班 </note>
+</NB>
+
+<NB id="004">
+<num>NB-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 環工化學原理 </name>
+<teacher> 侯文哲  </teacher>
+<score> 3 </score>
+<time> [1]6  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47111 </place>
+<note></note>
+</NB>
+
+<NB id="006">
+<num>NB-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微量化學分析 </name>
+<teacher> 林達昌  </teacher>
+<score> 3 </score>
+<time> [2]6  ,  [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47110 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="009">
+<num>NB-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 太陽能光電化學 </name>
+<teacher> 陳昭宇  </teacher>
+<score> 3 </score>
+<time> [1]9  ,  [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48312 </place>
+<note> 英語授課 尖端所與光電所合開 </note>
+</NB>
+
+<NB id="010">
+<num>NB-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米材料與合成科技 </name>
+<teacher> 鍾賢龍  </teacher>
+<score> 3 </score>
+<time> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="011">
+<num>NB-011</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 1 </score>
+<time> [4]7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="012">
+<num>NB-012</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 1 </score>
+<time> [4]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="014">
+<num>NB-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 固態熱力學 </name>
+<teacher> 林士剛  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44202 </place>
+<note> 1. 英語授課 2. 限40人選課 3. 外籍生優先 4. 第一階段不受理選課 </note>
+</NB>
+
+<NB id="017">
+<num>NB-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微/奈米元件之半導體材料製程及分析 </name>
+<teacher> 張高碩  </teacher>
+<score> 3 </score>
+<time> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44201 </place>
+<note></note>
+</NB>
+
+</content>

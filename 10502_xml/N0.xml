@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<N0 id="309">
+<num>N0-309</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 知識管理 </name>
+<teacher> 陳澤生  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41102 </place>
+<note></note>
+</N0>
+
+<N0 id="310">
+<num>N0-310</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 生產管理 </name>
+<teacher> 施勵行  </teacher>
+<score> 3 </score>
+<time> [4]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="311">
+<num>N0-311</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 資料探勘 </name>
+<teacher> 李家岩  </teacher>
+<score> 3 </score>
+<time> [2]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="312">
+<num>N0-312</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 社會企業 </name>
+<teacher> 邵揮洲  </teacher>
+<score> 3 </score>
+<time> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56111 </place>
+<note></note>
+</N0>
+
+<N0 id="313">
+<num>N0-313</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 技術策略分析 </name>
+<teacher> 蔡明田  </teacher>
+<score> 3 </score>
+<time> [1]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="314">
+<num>N0-314</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 工程經濟 </name>
+<teacher> 陳家榮  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4352 </place>
+<note> 選課人數未超過10人，將停開。 </note>
+</N0>
+
+<N0 id="315">
+<num>N0-315</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 專案管理 </name>
+<teacher> 馮重偉  </teacher>
+<score> 3 </score>
+<time> [4]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:坤照精密儀設大樓4樓95416(工學院會議室) </note>
+</N0>
+
+<N0 id="316">
+<num>N0-316</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 系統工程與管理 </name>
+<teacher> 鄭泗滄  </teacher>
+<score> 3 </score>
+<time> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="317">
+<num>N0-317</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 設計思考與創新管理 </name>
+<teacher> 劉世南  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
+</N0>
+
+<N0 id="318">
+<num>N0-318</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 科技寫作 </name>
+<teacher> 陸喬克  </teacher>
+<score> 3 </score>
+<time> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:坤照精密儀設大樓4樓95416(工學院會議室) </note>
+</N0>
+
+<N0 id="319">
+<num>N0-319</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 產業個案與實務 </name>
+<teacher> 邵揮洲  </teacher>
+<score> 3 </score>
+<time> [6]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56111 </place>
+<note> 限本專班學生選課 </note>
+</N0>
+
+<N0 id="331">
+<num>N0-331</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 工程管理專題研討（二） </name>
+<teacher> 李偉賢  </teacher>
+<score> 1 </score>
+<time> [5]B~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note></note>
+</N0>
+
+<N0 id="332">
+<num>N0-332</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 工程管理專題研討（四） </name>
+<teacher> 李偉賢  </teacher>
+<score> 1 </score>
+<time> [5]B~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note></note>
+</N0>
+
+<N0 id="333">
+<num>N0-333</num>
+<class> 碩專延三                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 李偉賢  </teacher>
+<score> 0 </score>
+<time> [5]B~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note></note>
+</N0>
+
+</content>

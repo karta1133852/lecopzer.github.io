@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<B3 id="005">
+<num>B3-005</num>
+<class></class>
+<group></group>
+<name> 世界文化史（二） </name>
+<teacher> 林長寬  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 基礎課，文學院演講廳上課 </note>
+</B3>
+
+<B3 id="007">
+<num>B3-007</num>
+<class></class>
+<group></group>
+<name> 中國通史（二） </name>
+<teacher> 王健文  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26425 </place>
+<note> 基礎課 </note>
+</B3>
+
+<B3 id="013">
+<num>B3-013</num>
+<class></class>
+<group></group>
+<name> 台灣史（二） </name>
+<teacher> 高淑媛  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26425 </place>
+<note> 基礎課,開放承認外系歷史 </note>
+</B3>
+
+<B3 id="016">
+<num>B3-016</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 0 </score>
+<time> [1]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</B3>
+
+<B3 id="080">
+<num>B3-080</num>
+<class></class>
+<group></group>
+<name> 中國上古史（二） </name>
+<teacher> 江達智  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note> 中 </note>
+</B3>
+
+<B3 id="084">
+<num>B3-084</num>
+<class></class>
+<group></group>
+<name> 史學理論與方法（二） </name>
+<teacher> 陳計堯  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26425 </place>
+<note> 基礎課，98新生開始必修 </note>
+</B3>
+
+<B3 id="086">
+<num>B3-086</num>
+<class></class>
+<group></group>
+<name> 台灣美術史（二） </name>
+<teacher> 蕭瓊瑞  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note> 進階，開放承認外系歷史(外系修一學期可承認)，台 </note>
+</B3>
+
+<B3 id="087">
+<num>B3-087</num>
+<class></class>
+<group></group>
+<name> 歷史文物的管理與研究（二） </name>
+<teacher> 何培夫  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 進階，視聽室上課。台，中 </note>
+</B3>
+
+<B3 id="089">
+<num>B3-089</num>
+<class></class>
+<group></group>
+<name> 初級阿拉伯文（二） </name>
+<teacher> 林長寬  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7208 </place>
+<note> 本課程承認為跨領域通是人文學學分，請自通識中心網頁下載申請表。 </note>
+</B3>
+
+<B3 id="090">
+<num>B3-090</num>
+<class></class>
+<group></group>
+<name> 魏晉南北朝史（二） </name>
+<teacher> 蔡幸娟  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 中 </note>
+</B3>
+
+<B3 id="091">
+<num>B3-091</num>
+<class></class>
+<group></group>
+<name> 十八世紀新清帝國的圖像表述 </name>
+<teacher> 謝美娥  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 中 </note>
+</B3>
+
+<B3 id="092">
+<num>B3-092</num>
+<class></class>
+<group></group>
+<name> 日治時期臺灣史（二） </name>
+<teacher> 高淑媛  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7113 </place>
+<note> 台 </note>
+</B3>
+
+<B3 id="111">
+<num>B3-111</num>
+<class></class>
+<group></group>
+<name> 生態史 </name>
+<teacher> 張勝柏  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88154 </place>
+<note> 世 </note>
+</B3>
+
+<B3 id="112">
+<num>B3-112</num>
+<class></class>
+<group></group>
+<name> 日本視覺藝術史 </name>
+<teacher> 顧　盼  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 世 </note>
+</B3>
+
+<B3 id="114">
+<num>B3-114</num>
+<class></class>
+<group></group>
+<name> 英國近代史 </name>
+<teacher> 王文霞  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7311 </place>
+<note> 世 </note>
+</B3>
+
+<B3 id="115">
+<num>B3-115</num>
+<class></class>
+<group></group>
+<name> 東南亞華人史 </name>
+<teacher> 鄭永常  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7117 </place>
+<note> 世 </note>
+</B3>
+
+<B3 id="116">
+<num>B3-116</num>
+<class></class>
+<group></group>
+<name> 台灣現代史 </name>
+<teacher> 陳文松  </teacher>
+<score> 3 </score>
+<time> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note> 台 </note>
+</B3>
+
+<B3 id="117">
+<num>B3-117</num>
+<class></class>
+<group></group>
+<name> 史學名著導讀 </name>
+<teacher> 許守泯  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7211 </place>
+<note></note>
+</B3>
+
+<B3 id="118">
+<num>B3-118</num>
+<class></class>
+<group></group>
+<name> 法國文化與藝術史（二） </name>
+<teacher> 楊尹瑄  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7115 </place>
+<note> 世 </note>
+</B3>
+
+<B3 id="119">
+<num>B3-119</num>
+<class></class>
+<group></group>
+<name> 臺灣考古學 </name>
+<teacher> 劉益昌  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 空中大學                      53101 </place>
+<note> 台 </note>
+</B3>
+
+<B3 id="120">
+<num>B3-120</num>
+<class></class>
+<group></group>
+<name> 論文（二） </name>
+<teacher> 鄭永常  </teacher>
+<score> 3 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</B3>
+
+<B3 id="157">
+<num>B3-157</num>
+<class></class>
+<group></group>
+<name> 考古發現所見的中國中古史 </name>
+<teacher> 涂宗呈  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7213 </place>
+<note> 中 </note>
+</B3>
+
+<B3 id="159">
+<num>B3-159</num>
+<class></class>
+<group></group>
+<name> 遼金的社會經濟與文化 </name>
+<teacher> 許守泯  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26304 </place>
+<note> 中 </note>
+</B3>
+
+<B3 id="160">
+<num>B3-160</num>
+<class></class>
+<group></group>
+<name> 中國喪葬史 </name>
+<teacher> 江達智  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      文學院演講廳 </place>
+<note> 中 </note>
+</B3>
+
+<B3 id="161">
+<num>B3-161</num>
+<class></class>
+<group></group>
+<name> 古代希臘史776 BCE-323 BCE </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note> 世 </note>
+</B3>
+
+<B3 id="162">
+<num>B3-162</num>
+<class></class>
+<group></group>
+<name> 影視史學與圖像傳播（二） </name>
+<teacher> 鄭　梓  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 台 </note>
+</B3>
+
+<B3 id="163">
+<num>B3-163</num>
+<class></class>
+<group></group>
+<name> 「世紀末」英國社會與文化 </name>
+<teacher> 李鑑慧  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7113 </place>
+<note> 世 </note>
+</B3>
+
+<B3 id="166">
+<num>B3-166</num>
+<class></class>
+<group></group>
+<name> 新聞評論 </name>
+<teacher> 鄭　梓  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26404 </place>
+<note> 台 </note>
+</B3>
+
+<B3 id="175">
+<num>B3-175</num>
+<class></class>
+<group></group>
+<name> 社會學習領域概論 </name>
+<teacher> 李鑑慧  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7115 </place>
+<note> 供教育學程同學選課 </note>
+</B3>
+
+<B3 id="196">
+<num>B3-196</num>
+<class></class>
+<group></group>
+<name> 史學專題講座 </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</B3>
+
+</content>

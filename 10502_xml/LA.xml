@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<LA id="001">
+<num>LA-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 向克強   ,  張博宇* </teacher>
+<score> 1 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48218 </place>
+<note></note>
+</LA>
+
+<LA id="002">
+<num>LA-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 向克強   ,  張博宇* </teacher>
+<score> 0 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48218 </place>
+<note></note>
+</LA>
+
+<LA id="003">
+<num>LA-003</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 向克強   ,  張博宇* </teacher>
+<score> 1 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48218 </place>
+<note></note>
+</LA>
+
+<LA id="004">
+<num>LA-004</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 向克強   ,  張博宇* </teacher>
+<score> 1 </score>
+<time> [4]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48218 </place>
+<note></note>
+</LA>
+
+<LA id="005">
+<num>LA-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 向克強   ,  張博宇* </teacher>
+<score> 0 </score>
+<time> [4]6~7  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48218 </place>
+<note></note>
+</LA>
+
+<LA id="006">
+<num>LA-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電漿物理專題 </name>
+<teacher> 河森榮一郎* </teacher>
+<score> 3 </score>
+<time> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48111B </place>
+<note></note>
+</LA>
+
+<LA id="007">
+<num>LA-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數據處理與資料分析 </name>
+<teacher> 陳炳志  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48111B </place>
+<note></note>
+</LA>
+
+<LA id="008">
+<num>LA-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電動力學與電漿物理之數值模擬 </name>
+<teacher> 西村泰太郎  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48111B </place>
+<note> 電漿所與機械所合開 </note>
+</LA>
+
+<LA id="009">
+<num>LA-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等電漿物理 </name>
+<teacher> 向克強* </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48216 </place>
+<note></note>
+</LA>
+
+<LA id="010">
+<num>LA-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電漿現象之應用 </name>
+<teacher> 張博宇* </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48216 </place>
+<note></note>
+</LA>
+
+<LA id="012">
+<num>LA-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 混沌與非平衡統計力學 </name>
+<teacher> 西村泰太郎* </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48111B </place>
+<note> 電漿所與機械所合開 </note>
+</LA>
+
+</content>

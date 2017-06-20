@@ -4,10 +4,10 @@
 <num>U5-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 個體經濟學（二） </name>
-<teacher> 胡政成  </teacher>
+<name> 個體經濟學（一） </name>
+<teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    八樓研討室A </place>
@@ -18,7 +18,7 @@
 <num>U5-002</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 總體經濟學（二） </name>
+<name> 總體經濟學（一） </name>
 <teacher> 王富美  </teacher>
 <score> 3 </score>
 <time> [1]1~3  </time>
@@ -32,22 +32,22 @@
 <num>U5-003</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 計量經濟學（二） </name>
-<teacher> 林常青  </teacher>
+<name> 計量經濟學（一） </name>
+<teacher> 陳奕奇  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    八樓研討室A </place>
-<note> 二,2：80303電腦教室 </note>
+<note> 二,4：80303電腦教室 </note>
 </U5>
 
 <U5 id="004">
 <num>U5-004</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 蔡群立  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 區俊傑  </teacher>
 <score> 0 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -60,24 +60,10 @@
 <num>U5-005</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 勞動經濟學 </name>
-<teacher> 田維華  </teacher>
+<name> 國際貿易理論與政策 </name>
+<teacher> 謝文真  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    八樓研討室A </place>
-<note></note>
-</U5>
-
-<U5 id="006">
-<num>U5-006</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 神經經濟學 </name>
-<teacher> 翁明宏  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
+<time> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    八樓研討室A </place>
@@ -88,8 +74,8 @@
 <num>U5-007</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 林常青  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 郭彥廉  </teacher>
 <score> 0 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
@@ -98,18 +84,18 @@
 <note></note>
 </U5>
 
-<U5 id="011">
-<num>U5-011</num>
-<class> 碩                             </class>
+<U5 id="010">
+<num>U5-010</num>
+<class> 碩二                           </class>
 <group></group>
-<name> 經濟發展與幸福經濟 </name>
-<teacher> 謝文真  </teacher>
+<name> 應用計量方法 </name>
+<teacher> 許永河  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    階梯教室-經濟 </place>
-<note> 英語授課---建議英語程度須具備全民英檢中高級複試以上。新課程隸屬於經濟分析領域 </note>
+<place> 社科院大樓                    八樓研討室C </place>
+<note></note>
 </U5>
 
 <U5 id="012">
@@ -117,13 +103,41 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題研究 </name>
-<teacher> 翁明宏  </teacher>
+<teacher> 蔡群立  </teacher>
 <score> 0 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    八樓研討室C </place>
 <note></note>
+</U5>
+
+<U5 id="013">
+<num>U5-013</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 健康經濟學 </name>
+<teacher> 劉亞明  </teacher>
+<score> 3 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    八樓研討室A </place>
+<note></note>
+</U5>
+
+<U5 id="015">
+<num>U5-015</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 天然災害經濟分析 </name>
+<teacher> 郭彥廉  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-經濟 </place>
+<note> 分析工具領域--大學部三年級以上才能修習  (英語授課) </note>
 </U5>
 
 </content>

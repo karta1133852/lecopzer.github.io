@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<A5 id="001">
+<num>A5-001</num>
+<class></class>
+<group></group>
+<name> JAVA 程式設計（一） </name>
+<teacher> 陳明輝  </teacher>
+<score> 3 </score>
+<time> [1]N~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75301 </place>
+<note></note>
+</A5>
+
+<A5 id="002">
+<num>A5-002</num>
+<class></class>
+<group></group>
+<name> JAVA 程式設計（一） </name>
+<teacher> 陳明輝  </teacher>
+<score> 3 </score>
+<time> [4]N~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75301 </place>
+<note></note>
+</A5>
+
+</content>

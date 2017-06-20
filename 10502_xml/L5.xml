@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<L5 id="001">
+<num>L5-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 李純純*  ,  彭怡禎  </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</L5>
+
+<L5 id="002">
+<num>L5-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 廖泓鈞*  ,  劉雅心  </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科系館                      3418 </place>
+<note></note>
+</L5>
+
+<L5 id="003">
+<num>L5-003</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 廖泓鈞*  ,  劉雅心  </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3418 </place>
+<note> 供碩三及碩三以上學生選課 </note>
+</L5>
+
+<L5 id="004">
+<num>L5-004</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 邱慈暉   ,  陳一菁* </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科系館                      3425 </place>
+<note> 博一二合班 </note>
+</L5>
+
+<L5 id="005">
+<num>L5-005</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 仲澤剛史   ,  小島健司* </teacher>
+<score> 1 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科系館                      3414 </place>
+<note></note>
+</L5>
+
+<L5 id="006">
+<num>L5-006</num>
+<class> 博三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 仲澤剛史   ,  小島健司* </teacher>
+<score> 0 </score>
+<time> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3414 </place>
+<note> 供博三及博三以上學生選課 </note>
+</L5>
+
+<L5 id="010">
+<num>L5-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 作物育種與生物技術 </name>
+<teacher> 陳文輝   ,  張松彬  </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3414 </place>
+<note> 生命所、與熱植所合班上課 </note>
+</L5>
+
+<L5 id="011">
+<num>L5-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 族群遺傳學 </name>
+<teacher> 蔣鎮宇* </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3413 </place>
+<note></note>
+</L5>
+
+<L5 id="012">
+<num>L5-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋及河口生物生理生態 </name>
+<teacher> 邱慈暉  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3413 </place>
+<note></note>
+</L5>
+
+<L5 id="013">
+<num>L5-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 比較基因體學 </name>
+<teacher> 宋皇模  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3413 </place>
+<note></note>
+</L5>
+
+<L5 id="023">
+<num>L5-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 普通生物學實驗教學（二） </name>
+<teacher> 李亞夫   ,  王浩文   ,  何盧勳   ,  邱慈暉*  ,  陳一菁   ,  李純純   ,  彭怡禎  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3435 </place>
+<note></note>
+</L5>
+
+<L5 id="044">
+<num>L5-044</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等細胞生物學 </name>
+<teacher> 何盧勳   ,  張松彬   ,  洪健睿   ,  黃玲惠   ,  張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜*  ,  李瑞花  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3415 </place>
+<note> 生科院核心課程 </note>
+</L5>
+
+<L5 id="047">
+<num>L5-047</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 果蠅胚胎發育學獨立研究 </name>
+<teacher> 劉雅心  </teacher>
+<score> 1 </score>
+<time> [2]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3413 </place>
+<note></note>
+</L5>
+
+<L5 id="052">
+<num>L5-052</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生態系統特論 </name>
+<teacher> 陳一菁   ,  仲澤剛史* </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3413 </place>
+<note></note>
+</L5>
+
+<L5 id="053">
+<num>L5-053</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分子遺傳學特論 </name>
+<teacher> 吳文鑾  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3414 </place>
+<note></note>
+</L5>
+
+<L5 id="057">
+<num>L5-057</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 視覺科學 </name>
+<teacher> 劉雅心   ,  邱慈暉* </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3413 </place>
+<note></note>
+</L5>
+
+<L5 id="060">
+<num>L5-060</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微生物基因體學與實作 </name>
+<teacher> 廖泓鈞  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3414 </place>
+<note></note>
+</L5>
+
+<L5 id="061">
+<num>L5-061</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 基因組演化 </name>
+<teacher> 小島健司  </teacher>
+<score> 2 </score>
+<time> [2]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3413 </place>
+<note></note>
+</L5>
+
+<L5 id="062">
+<num>L5-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等細胞生物學 </name>
+<teacher> 何盧勳   ,  張松彬   ,  洪健睿   ,  黃玲惠   ,  張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜*  ,  李瑞花  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95A09 </place>
+<note> 與中文班分班上課、全英語授課。生命科學系、生科所、生訊所與熱植所合開 </note>
+</L5>
+
+<L5 id="063">
+<num>L5-063</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 棲地生態學獨立研究 </name>
+<teacher> 李亞夫  </teacher>
+<score> 1 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3425 </place>
+<note></note>
+</L5>
+
+</content>

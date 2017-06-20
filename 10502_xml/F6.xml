@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<F6 id="003">
+<num>F6-003</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 蕭仁傑  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [5]3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1> [5]4  </time1>
+<place1> 測量系副館                    55180 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2> [5]4  </time2>
+<place2> 醫技醫工館                    5730 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3> [5]4  </time3>
+<place3> 數學系館                      3175 </place3>
+<note3></note3>
+<class4></class4>
+<group4> D </group4>
+<name4> 微積分（二） </name4>
+<time4> [5]4  </time4>
+<place4> 醫技醫工館                    5756 </place4>
+<note4></note4>
+</F6>
+
+<F6 id="004">
+<num>F6-004</num>
+<class></class>
+<group></group>
+<name> 普通物理學（二） </name>
+<teacher> 朱淑君  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55250 </place>
+<note></note>
+</F6>
+
+<F6 id="005">
+<num>F6-005</num>
+<class></class>
+<group></group>
+<name> 普通物理學實驗（二） </name>
+<teacher> 朱淑君  </teacher>
+<score> 1 </score>
+<time> [3]1~3  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 理化大樓                      普物實驗室 </place>
+<note></note>
+</F6>
+
+<F6 id="006">
+<num>F6-006</num>
+<class></class>
+<group></group>
+<name> 基礎測量學（二） </name>
+<teacher> 楊　名  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55250 </place>
+<note></note>
+</F6>
+
+<F6 id="007">
+<num>F6-007</num>
+<class></class>
+<group></group>
+<name> 基礎測量學實習（二） </name>
+<teacher> 楊　名  </teacher>
+<score> 1 </score>
+<time> [3]6~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 測量系館                      55250 </place>
+<note> A班與B班，二選一 </note>
+</F6>
+
+<F6 id="008">
+<num>F6-008</num>
+<class></class>
+<group></group>
+<name> 基礎測量學實習（二） </name>
+<teacher> 楊　名  </teacher>
+<score> 1 </score>
+<time> [4]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 測量系館                      55250 </place>
+<note> A班與B班，二選一 </note>
+</F6>
+
+<F6 id="009">
+<num>F6-009</num>
+<class></class>
+<group></group>
+<name> 計算機程式設計 </name>
+<teacher> 呂學展  </teacher>
+<score> 3 </score>
+<time> [1]1~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55208 </place>
+<note></note>
+</F6>
+
+<F6 id="010">
+<num>F6-010</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 江凱偉  </teacher>
+<score> 0 </score>
+<time> [2]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</F6>
+
+<F6 id="052">
+<num>F6-052</num>
+<class></class>
+<group></group>
+<name> 工程數學（二） </name>
+<teacher> 蔡展榮  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55160 </place>
+<note></note>
+</F6>
+
+<F6 id="053">
+<num>F6-053</num>
+<class></class>
+<group></group>
+<name> 測量平差 </name>
+<teacher> 曾宏正  </teacher>
+<score> 3 </score>
+<time> [3]7~8  ,  [4]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55160 </place>
+<note></note>
+</F6>
+
+<F6 id="054">
+<num>F6-054</num>
+<class></class>
+<group></group>
+<name> 地理資訊基本原理 </name>
+<teacher> 洪榮宏  </teacher>
+<score> 3 </score>
+<time> [1]5  ,  [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55160 </place>
+<note></note>
+</F6>
+
+<F6 id="055">
+<num>F6-055</num>
+<class></class>
+<group></group>
+<name> 航測及遙測基礎 </name>
+<teacher> 饒見有  </teacher>
+<score> 3 </score>
+<time> [3]2  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55160 </place>
+<note></note>
+</F6>
+
+<F6 id="056">
+<num>F6-056</num>
+<class></class>
+<group></group>
+<name> 土地登記 </name>
+<teacher> 陳鴻益  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55160 </place>
+<note></note>
+</F6>
+
+<F6 id="057">
+<num>F6-057</num>
+<class></class>
+<group></group>
+<name> 數值地形測量及實習 </name>
+<teacher> 曾宏正  </teacher>
+<score> 3 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55160 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 數值地形測量及實習 </name1>
+<time1> [5]3~4  </time1>
+<place1> 測量系副館                    55160 </place1>
+<note1></note1>
+</F6>
+
+<F6 id="101">
+<num>F6-101</num>
+<class></class>
+<group></group>
+<name> 衛星定位 </name>
+<teacher> 楊　名  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55170 </place>
+<note></note>
+</F6>
+
+<F6 id="102">
+<num>F6-102</num>
+<class></class>
+<group></group>
+<name> 大地測量（二） </name>
+<teacher> 郭重言  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55170 </place>
+<note></note>
+</F6>
+
+<F6 id="103">
+<num>F6-103</num>
+<class></class>
+<group></group>
+<name> 數值製圖 </name>
+<teacher> 饒見有  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [2]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55170 </place>
+<note></note>
+</F6>
+
+<F6 id="105">
+<num>F6-105</num>
+<class></class>
+<group></group>
+<name> 誤差理論 </name>
+<teacher> 尤瑞哲  </teacher>
+<score> 3 </score>
+<time> [4]3~4  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55170 </place>
+<note></note>
+</F6>
+
+<F6 id="106">
+<num>F6-106</num>
+<class></class>
+<group></group>
+<name> 網際網路地理資訊系統程式設計 </name>
+<teacher> 林昭宏  </teacher>
+<score> 3 </score>
+<time> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55170 </place>
+<note></note>
+</F6>
+
+<F6 id="107">
+<num>F6-107</num>
+<class></class>
+<group></group>
+<name> 工程測量 </name>
+<teacher> 蔡展榮  </teacher>
+<score> 2 </score>
+<time> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55250 </place>
+<note></note>
+</F6>
+
+<F6 id="108">
+<num>F6-108</num>
+<class></class>
+<group></group>
+<name> 應用線性代數 </name>
+<teacher> 王辰樹  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note></note>
+</F6>
+
+<F6 id="109">
+<num>F6-109</num>
+<class></class>
+<group></group>
+<name> 大地與衛星測量實習 </name>
+<teacher> 郭重言  </teacher>
+<score> 1 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 測量系副館                    55170 </place>
+<note></note>
+</F6>
+
+<F6 id="110">
+<num>F6-110</num>
+<class></class>
+<group></group>
+<name> 攝影測量實習 </name>
+<teacher> 蔡展榮  </teacher>
+<score> 1 </score>
+<time> [3]7~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 測量系館                      55206 </place>
+<note></note>
+</F6>
+
+<F6 id="111">
+<num>F6-111</num>
+<class></class>
+<group></group>
+<name> 專題研究（一） </name>
+<teacher> 洪榮宏   ,  尤瑞哲   ,  江凱偉   ,  林昭宏   ,  郭重言   ,  曾義星   ,  饒見有   ,  朱宏杰   ,  呂學展* </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</F6>
+
+<F6 id="112">
+<num>F6-112</num>
+<class></class>
+<group></group>
+<name> 攝影測量實習 </name>
+<teacher> 蔡展榮  </teacher>
+<score> 1 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 測量系館                      55206 </place>
+<note></note>
+</F6>
+
+<F6 id="152">
+<num>F6-152</num>
+<class></class>
+<group></group>
+<name> 遙感探測資料處理與實作 </name>
+<teacher> 王驥魁  </teacher>
+<score> 3 </score>
+<time> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系館                      55250 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 遙感探測資料處理與實作 </name1>
+<time1> [2]3~4  </time1>
+<place1> 測量系館                      55208 </place1>
+<note1></note1>
+</F6>
+
+<F6 id="153">
+<num>F6-153</num>
+<class></class>
+<group></group>
+<name> 地質災害及其測量技術應用 </name>
+<teacher> 景國恩  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55180 </place>
+<note></note>
+</F6>
+
+<F6 id="154">
+<num>F6-154</num>
+<class></class>
+<group></group>
+<name> 地籍測量 </name>
+<teacher> 吳相忠  </teacher>
+<score> 2 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55180 </place>
+<note></note>
+</F6>
+
+<F6 id="155">
+<num>F6-155</num>
+<class></class>
+<group></group>
+<name> 民法物權 </name>
+<teacher> 葉張基  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55180 </place>
+<note></note>
+</F6>
+
+<F6 id="156">
+<num>F6-156</num>
+<class></class>
+<group></group>
+<name> 工程品質與安全 </name>
+<teacher> 潘南飛  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4509 </place>
+<note></note>
+</F6>
+
+</content>

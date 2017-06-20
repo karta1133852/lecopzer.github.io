@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<C5 id="007">
+<num>C5-007</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 關汝琳  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      柏林講堂 </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1> [3]2  </time1>
+<place1> 化工系館                      柏林講堂 </place1>
+<note1></note1>
+</C5>
+
+<C5 id="010">
+<num>C5-010</num>
+<class></class>
+<group></group>
+<name> 普通物理學 </name>
+<teacher> 呂欽山  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3415 </place>
+<note></note>
+</C5>
+
+<C5 id="011">
+<num>C5-011</num>
+<class></class>
+<group></group>
+<name> 普通物理學實驗 </name>
+<teacher> 張泰榕  </teacher>
+<score> 1 </score>
+<time> [4]1~3  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</C5>
+
+<C5 id="012">
+<num>C5-012</num>
+<class></class>
+<group></group>
+<name> 普通生物學（二） </name>
+<teacher> 曾淑芬   ,  李亞夫   ,  張素瓊   ,  王浩文   ,  何盧勳   ,  邱慈暉   ,  陳一菁*  ,  李純純   ,  仲澤剛史  </teacher>
+<score> 4 </score>
+<time> [1]5~6  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3415 </place>
+<note></note>
+</C5>
+
+<C5 id="013">
+<num>C5-013</num>
+<class></class>
+<group></group>
+<name> 普通生物學實驗（二） </name>
+<teacher> 李亞夫   ,  王浩文   ,  何盧勳   ,  邱慈暉   ,  陳一菁   ,  李純純   ,  彭怡禎* </teacher>
+<score> 1 </score>
+<time> [4]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3437 </place>
+<note></note>
+</C5>
+
+<C5 id="014">
+<num>C5-014</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 蔣鎮宇   ,  黃浩仁   ,  宋皇模*  ,  吳文鑾  </teacher>
+<score> 0 </score>
+<time> [1]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3415 </place>
+<note></note>
+</C5>
+
+<C5 id="015">
+<num>C5-015</num>
+<class></class>
+<group></group>
+<name> 生命科學討論（二） </name>
+<teacher> 陳一菁*  ,  小島健司  </teacher>
+<score> 1 </score>
+<time> [1]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3415 </place>
+<note></note>
+</C5>
+
+<C5 id="052">
+<num>C5-052</num>
+<class></class>
+<group></group>
+<name> 遺傳學 </name>
+<teacher> 蔣鎮宇   ,  宋皇模   ,  劉雅心   ,  吳文鑾* </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="053">
+<num>C5-053</num>
+<class></class>
+<group></group>
+<name> 遺傳學實驗 </name>
+<teacher> 劉雅心   ,  吳文鑾* </teacher>
+<score> 1 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3437 </place>
+<note></note>
+</C5>
+
+<C5 id="054">
+<num>C5-054</num>
+<class></class>
+<group></group>
+<name> 實驗室實習（二） </name>
+<teacher> 張松彬   ,  廖泓鈞   ,  劉雅心*  ,  仲澤剛史  </teacher>
+<score> 1 </score>
+<time> [1]N  ,  [2]N  ,  [3]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="055">
+<num>C5-055</num>
+<class></class>
+<group></group>
+<name> 服務學習（四） </name>
+<teacher> 張松彬   ,  廖泓鈞   ,  劉雅心   ,  仲澤剛史* </teacher>
+<score> 0 </score>
+<time> [3]9~A  </time>
+<must> 必選 </must>
+<type> 實習 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="057">
+<num>C5-057</num>
+<class></class>
+<group></group>
+<name> 演化生物學 </name>
+<teacher> 蔣鎮宇   ,  李亞夫* </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="059">
+<num>C5-059</num>
+<class></class>
+<group></group>
+<name> 動物組織學 </name>
+<teacher> 王建平  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="060">
+<num>C5-060</num>
+<class></class>
+<group></group>
+<name> 植物細胞與組織培養 </name>
+<teacher> 李瑞花  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="062">
+<num>C5-062</num>
+<class></class>
+<group></group>
+<name> 應用線性代數 </name>
+<teacher> 王辰樹  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note></note>
+</C5>
+
+<C5 id="063">
+<num>C5-063</num>
+<class></class>
+<group></group>
+<name> 生物資訊學導論 </name>
+<teacher> 宋皇模*  ,  小島健司  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="064">
+<num>C5-064</num>
+<class></class>
+<group></group>
+<name> 代謝生化學 </name>
+<teacher> 曾淑芬   ,  何盧勳   ,  廖泓鈞   ,  彭怡禎* </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="066">
+<num>C5-066</num>
+<class></class>
+<group></group>
+<name> 植物形態與解剖學 </name>
+<teacher> 張松彬*  ,  許再文   ,  邱啟洲  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="067">
+<num>C5-067</num>
+<class></class>
+<group></group>
+<name> 蘭花生物科技學 </name>
+<teacher> 陳文輝   ,  陳虹樺*  ,  吳文鑾   ,  張清俊   ,  蔡文杰  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3404 </place>
+<note> 歡迎生技產業系、生科系大二以上同學選修 </note>
+</C5>
+
+<C5 id="068">
+<num>C5-068</num>
+<class></class>
+<group></group>
+<name> 生物有機化學 </name>
+<teacher> 邱顯泰   ,  林玉麒* </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3417 </place>
+<note></note>
+</C5>
+
+<C5 id="105">
+<num>C5-105</num>
+<class></class>
+<group></group>
+<name> 生態學 </name>
+<teacher> 李亞夫*  ,  邱慈暉   ,  陳一菁   ,  仲澤剛史  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3418 </place>
+<note> 限3年級(含)以上選課 </note>
+</C5>
+
+<C5 id="106">
+<num>C5-106</num>
+<class></class>
+<group></group>
+<name> 生態學實驗 </name>
+<teacher> 李亞夫*  ,  邱慈暉  </teacher>
+<score> 1 </score>
+<time> [3]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3437 </place>
+<note></note>
+</C5>
+
+<C5 id="110">
+<num>C5-110</num>
+<class></class>
+<group></group>
+<name> 營養學 </name>
+<teacher> 張素瓊*  ,  彭怡禎  </teacher>
+<score> 3 </score>
+<time> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3418 </place>
+<note></note>
+</C5>
+
+<C5 id="111">
+<num>C5-111</num>
+<class></class>
+<group></group>
+<name> 細胞生物學 </name>
+<teacher> 陳虹樺*  ,  李純純   ,  彭怡禎   ,  黃玲惠  </teacher>
+<score> 3 </score>
+<time> [2]7~8  ,  [4]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3418 </place>
+<note></note>
+</C5>
+
+<C5 id="113">
+<num>C5-113</num>
+<class></class>
+<group></group>
+<name> 生物資料庫簡介與實作 </name>
+<teacher> 張文綺  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75309 </place>
+<note></note>
+</C5>
+
+<C5 id="114">
+<num>C5-114</num>
+<class></class>
+<group></group>
+<name> 基因體與生物技術理論與實作 </name>
+<teacher> 蔣鎮宇   ,  宋皇模*  ,  廖泓鈞   ,  劉雅心   ,  王涵青   ,  張文綺   ,  李瑞花  </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3418 </place>
+<note></note>
+</C5>
+
+<C5 id="126">
+<num>C5-126</num>
+<class></class>
+<group></group>
+<name> 分子生物學 </name>
+<teacher> 黃浩仁   ,  宋皇模*  ,  洪建中   ,  李瑞花  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3418 </place>
+<note></note>
+</C5>
+
+<C5 id="131">
+<num>C5-131</num>
+<class></class>
+<group></group>
+<name> 生命科學專題研究（二） </name>
+<teacher> 李亞夫   ,  何盧勳   ,  陳一菁   ,  彭怡禎* </teacher>
+<score> 1 </score>
+<time> [5]9~B  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3418 </place>
+<note></note>
+</C5>
+
+<C5 id="132">
+<num>C5-132</num>
+<class></class>
+<group></group>
+<name> 生命科學與諾貝爾獎 </name>
+<teacher> 陳虹樺*  ,  王浩文  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3425 </place>
+<note> 歡迎修過普通生物學相關課程且學期成績60分以上之大二至大四同學選修 </note>
+</C5>
+
+<C5 id="154">
+<num>C5-154</num>
+<class></class>
+<group></group>
+<name> 免疫學 </name>
+<teacher> 曾淑芬   ,  何盧勳*  ,  李純純  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [3]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3425 </place>
+<note></note>
+</C5>
+
+<C5 id="155">
+<num>C5-155</num>
+<class></class>
+<group></group>
+<name> 論文（二） </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time> [1]1  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 生科系館                      3425 </place>
+<note></note>
+</C5>
+
+</content>

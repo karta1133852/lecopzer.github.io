@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T6 id="001">
+<num>T6-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 物理治療專題討論（二） </name>
+<teacher> 林桑伊*  ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  李佩紜   ,  蔡昆霖  </teacher>
+<score> 1 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</T6>
+
+<T6 id="009">
+<num>T6-009</num>
+<class> 碩                             </class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 卓瓊鈺   ,  林桑伊*  ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        物治207 </place>
+<note></note>
+</T6>
+
+<T6 id="021">
+<num>T6-021</num>
+<class> 碩                             </class>
+<group></group>
+<name> 神經物理治療專題研究 </name>
+<teacher> 卓瓊鈺  </teacher>
+<score> 2 </score>
+<time> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      206 </place>
+<note></note>
+</T6>
+
+<T6 id="023">
+<num>T6-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 運動技巧的生物力學探討 </name>
+<teacher> 林呈鳳  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        205D </place>
+<note> 英文授課 </note>
+</T6>
+
+<T6 id="025">
+<num>T6-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 利用各類紙材於肢體障礙者輔具設計之應用 </name>
+<teacher> 林呈鳳  </teacher>
+<score> 2 </score>
+<time> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治207 </place>
+<note> 英文授課 </note>
+</T6>
+
+<T6 id="030">
+<num>T6-030</num>
+<class></class>
+<group></group>
+<name> 老人物理治療評估學 </name>
+<teacher> 卓瓊鈺  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      206 </place>
+<note></note>
+</T6>
+
+</content>

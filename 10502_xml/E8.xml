@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<E8 id="005">
+<num>E8-005</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 粘珠鳳  </teacher>
+<score> 3 </score>
+<time> [2]5~6  ,  [5]3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4671 </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1> [5]4  </time1>
+<place1> 水利系館                      4627 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2> [5]4  </time2>
+<place2> 航太系館                      5825 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3> [5]4  </time3>
+<place3> 航太系館                      5827 </place3>
+<note3></note3>
+<class4></class4>
+<group4> D </group4>
+<name4> 微積分（二） </name4>
+<time4> [5]4  </time4>
+<place4> 水利系館                      4620 </place4>
+<note4></note4>
+</E8>
+
+<E8 id="006">
+<num>E8-006</num>
+<class></class>
+<group></group>
+<name> 普通物理學（二） </name>
+<teacher> 周晁光  </teacher>
+<score> 3 </score>
+<time> [1]8  ,  [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4620 </place>
+<note></note>
+</E8>
+
+<E8 id="007">
+<num>E8-007</num>
+<class></class>
+<group></group>
+<name> 普通物理學實驗（二） </name>
+<teacher> 楊展其  </teacher>
+<score> 1 </score>
+<time> [3]1~3  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 理化大樓二樓 </note>
+</E8>
+
+<E8 id="008">
+<num>E8-008</num>
+<class></class>
+<group></group>
+<name> 水文學 </name>
+<teacher> 孫建平  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4620 </place>
+<note></note>
+</E8>
+
+<E8 id="009">
+<num>E8-009</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 羅偉誠  </teacher>
+<score> 0 </score>
+<time> [1]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 水利系館                      4620 </place>
+<note></note>
+</E8>
+
+<E8 id="053">
+<num>E8-053</num>
+<class></class>
+<group></group>
+<name> 材料力學 </name>
+<teacher> 羅偉誠  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4622 </place>
+<note></note>
+</E8>
+
+<E8 id="054">
+<num>E8-054</num>
+<class></class>
+<group></group>
+<name> 工程數學（二） </name>
+<teacher> 蕭士俊  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4622 </place>
+<note></note>
+</E8>
+
+<E8 id="055">
+<num>E8-055</num>
+<class></class>
+<group></group>
+<name> 測量學 </name>
+<teacher> 曾宏正  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [4]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4622 </place>
+<note></note>
+</E8>
+
+<E8 id="056">
+<num>E8-056</num>
+<class></class>
+<group></group>
+<name> 測量學實習 </name>
+<teacher> 曾宏正  </teacher>
+<score> 1 </score>
+<time> [4]6~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 水利系館                      4622 </place>
+<note></note>
+</E8>
+
+<E8 id="057">
+<num>E8-057</num>
+<class></class>
+<group></group>
+<name> 流體力學（二） </name>
+<teacher> 戴義欽  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4622 </place>
+<note></note>
+</E8>
+
+<E8 id="058">
+<num>E8-058</num>
+<class></class>
+<group></group>
+<name> 遙測與地理資訊系統應用 </name>
+<teacher> 張　懿  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 水利系2樓電腦教室 </note>
+</E8>
+
+<E8 id="059">
+<num>E8-059</num>
+<class></class>
+<group></group>
+<name> 海洋科技事務概論 </name>
+<teacher> 陳璋玲  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4622 </place>
+<note></note>
+</E8>
+
+<E8 id="061">
+<num>E8-061</num>
+<class></class>
+<group></group>
+<name> 水資訊概論 </name>
+<teacher> 吳嘉文*  ,  蔡惠峰  </teacher>
+<score> 3 </score>
+<time> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4622 </place>
+<note></note>
+</E8>
+
+<E8 id="102">
+<num>E8-102</num>
+<class></class>
+<group></group>
+<name> 鋼筋混凝土學 </name>
+<teacher> 劉光晏  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4625 </place>
+<note></note>
+</E8>
+
+<E8 id="103">
+<num>E8-103</num>
+<class></class>
+<group></group>
+<name> 明渠水力學 </name>
+<teacher> 詹錢登  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4625 </place>
+<note></note>
+</E8>
+
+<E8 id="104">
+<num>E8-104</num>
+<class></class>
+<group></group>
+<name> 工程統計學 </name>
+<teacher> 蕭政宗  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4625 </place>
+<note></note>
+</E8>
+
+<E8 id="105">
+<num>E8-105</num>
+<class></class>
+<group></group>
+<name> 專題研究（一） </name>
+<teacher> 董東璟  </teacher>
+<score> 1 </score>
+<time> [1]N  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4625 </place>
+<note></note>
+</E8>
+
+<E8 id="108">
+<num>E8-108</num>
+<class></class>
+<group></group>
+<name> 數值分析 </name>
+<teacher> 戴義欽  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 水利系電腦教室上課 </note>
+</E8>
+
+<E8 id="109">
+<num>E8-109</num>
+<class></class>
+<group></group>
+<name> 工程經濟 </name>
+<teacher> 蕭政宗  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4625 </place>
+<note></note>
+</E8>
+
+<E8 id="110">
+<num>E8-110</num>
+<class></class>
+<group></group>
+<name> 工程數學（四） </name>
+<teacher> 蕭士俊  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4625 </place>
+<note></note>
+</E8>
+
+<E8 id="152">
+<num>E8-152</num>
+<class></class>
+<group></group>
+<name> 海港工程設計 </name>
+<teacher> 吳啟東  </teacher>
+<score> 1 </score>
+<time> [1]6~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 水利系館                      4627 </place>
+<note> 四科任選二科之設計必修 </note>
+</E8>
+
+<E8 id="153">
+<num>E8-153</num>
+<class></class>
+<group></group>
+<name> 營建及管理 </name>
+<teacher> 蔡雅雯  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4627 </place>
+<note></note>
+</E8>
+
+<E8 id="154">
+<num>E8-154</num>
+<class></class>
+<group></group>
+<name> 水土保持工程 </name>
+<teacher> 賴文基  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4627 </place>
+<note></note>
+</E8>
+
+<E8 id="155">
+<num>E8-155</num>
+<class></class>
+<group></group>
+<name> 管路水力學 </name>
+<teacher> 唐啟釗  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 水利系電腦教室上課 </note>
+</E8>
+
+<E8 id="157">
+<num>E8-157</num>
+<class></class>
+<group></group>
+<name> 防洪工程 </name>
+<teacher> 巫孟璇*  ,  蔡長泰  </teacher>
+<score> 3 </score>
+<time> [5]5~6  ,  [3]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4627 </place>
+<note> 與外籍老師共同授課 </note>
+</E8>
+
+<E8 id="158">
+<num>E8-158</num>
+<class></class>
+<group></group>
+<name> 海洋觀測與資料分析 </name>
+<teacher> 董東璟  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4627 </place>
+<note></note>
+</E8>
+
+</content>
