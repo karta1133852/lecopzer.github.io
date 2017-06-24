@@ -220,20 +220,6 @@
 <note></note>
 </C4>
 
-<C4 id="062">
-<num>C4-062</num>
-<class></class>
-<group></group>
-<name> 地球科學應用程式設計 </name>
-<teacher> 李恩瑞  </teacher>
-<score> 3 </score>
-<time> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3036 </place>
-<note></note>
-</C4>
-
 <C4 id="063">
 <num>C4-063</num>
 <class></class>
@@ -524,6 +510,20 @@
 <teacher> 龔慧貞*  ,  林建宏  </teacher>
 <score> 3 </score>
 <time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</C4>
+
+<C4 id="168">
+<num>C4-168</num>
+<class></class>
+<group></group>
+<name> 地球科學應用程式設計 </name>
+<teacher> 李恩瑞  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3036 </place>
