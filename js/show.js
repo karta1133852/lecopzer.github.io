@@ -465,9 +465,11 @@ function showWeekend() {
 }
 
 function setClassTimeCss() {
-	for(i = 0; i < elementNum; i++){
+	for(i = 0; i < elementNum; i++) {
 		if(i % 8 == 0){
 			document.getElementById("td" + i).style.width = "4%";
+			document.getElementById("td" + i).style.fontWeight = "bold";
+			document.getElementById("td" + i).style.fontFamily = "Times New Roman";
 //			document.getElementById("td" + i).style.backgroundColor = NAV_BACKGROUND_COLOR;
 		}
 		else{
@@ -476,7 +478,10 @@ function setClassTimeCss() {
 	}
 	document.getElementById("main").style.tableLayout = "fixed";
 
-	for(i = 48; i <= 55; i++){
+	for(i = 0; i < 8; i++) {
+		document.getElementById("td" + i).style.fontWeight = "bold";
+  }
+	for(i = 48; i <= 55; i++) {
 			document.getElementById("td" + i).style.backgroundColor = "rgb(255,235,238)";
 	
 	}
