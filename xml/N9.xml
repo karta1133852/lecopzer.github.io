@@ -212,10 +212,10 @@
 
 <N9 id="019">
 <num>N9-019</num>
-<class> 碩專                           </class>
+<class> 碩博                           </class>
 <group></group>
 <name> 電腦輔助工程分析與設計 </name>
-<teacher> 未定  </teacher>
+<teacher> 李輝煌  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
@@ -392,20 +392,6 @@
 <note></note>
 </N9>
 
-<N9 id="034">
-<num>N9-034</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 工程量子物理導論 </name>
-<teacher> 李哲明  </teacher>
-<score> 3 </score>
-<time> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41220 </place>
-<note></note>
-</N9>
-
 <N9 id="035">
 <num>N9-035</num>
 <class> 碩博                           </class>
@@ -467,7 +453,7 @@
 <class> 碩專一                         </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 周榮華  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>
@@ -495,7 +481,7 @@
 <class> 碩專二                         </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher></teacher>
+<teacher> 周榮華  </teacher>
 <score> 0 </score>
 <time> [4]B~C  </time>
 <must> 必修 </must>

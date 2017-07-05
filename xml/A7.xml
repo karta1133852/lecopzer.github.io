@@ -38,7 +38,7 @@
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place></place>
+<place> 工管系館                      61101 </place>
 <note></note>
 </A7>
 
@@ -88,7 +88,7 @@
 <num>A7-007</num>
 <class></class>
 <group></group>
-<name> 基礎國文(現代詩)（一） </name>
+<name> 基礎國文(綜合文類)（一） </name>
 <teacher> 仇小屏  </teacher>
 <score> 2 </score>
 <time> [1]7~8  </time>
@@ -178,7 +178,7 @@
 <time> [3]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 軍訓館                        6021 </place>
+<place> 共同教室                      成功共同300 </place>
 <note></note>
 </A7>
 

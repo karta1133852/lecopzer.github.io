@@ -141,7 +141,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3172 </place>
-<note></note>
+<note> 額外加強時間暫定星期五第N節 </note>
 <class1></class1>
 <group1></group1>
 <name1> 高等微積分（一） </name1>
@@ -359,7 +359,7 @@
 <name> 應用數學(一) </name>
 <teacher> 劉育佑  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time> [3]3~4  ,  [5]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3173 </place>

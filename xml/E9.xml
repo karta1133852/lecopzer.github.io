@@ -109,7 +109,7 @@
 <name> 工程圖學與模擬 </name>
 <teacher> 李輝煌  </teacher>
 <score> 2 </score>
-<time> [5]3  </time>
+<time> [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41102 </place>
@@ -117,7 +117,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 工程圖學與模擬 </name1>
-<time1> [5]4~N  </time1>
+<time1> [4]3~4  </time1>
 <place1> 工科系館                      41102 </place1>
 <note1></note1>
 </E9>
@@ -143,7 +143,7 @@
 <name> 資料結構 </name>
 <teacher> 黃悅民*  ,  賴槿峰  </teacher>
 <score> 3 </score>
-<time> [3]4  ,  [2]3~4  </time>
+<time> [4]3  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41107 </place>
@@ -171,13 +171,11 @@
 <name> 材料科學 </name>
 <teacher> 趙隆山  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [4]4  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 工科系館                      41107 </place>
+<note></note>
 </E9>
 
 <E9 id="057">
@@ -201,7 +199,7 @@
 <name> 材料力學（二） </name>
 <teacher> 陳蓉珊  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time> [1]6  ,  [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -219,20 +217,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41103 </place>
-<note></note>
-</E9>
-
-<E9 id="061">
-<num>E9-061</num>
-<class></class>
-<group></group>
-<name> 機率與統計 </name>
-<teacher> 陳昭羽  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41107 </place>
 <note></note>
 </E9>
 
@@ -285,7 +269,7 @@
 <name> 數位積體電路設計導論 </name>
 <teacher> 卿文龍  </teacher>
 <score> 3 </score>
-<time> [4]3~4  </time>
+<time> [4]3~4  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41103 </place>
@@ -303,6 +287,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41103 </place>
+<note></note>
+</E9>
+
+<E9 id="110">
+<num>E9-110</num>
+<class></class>
+<group></group>
+<name> 機率與統計 </name>
+<teacher> 陳昭羽  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41102 </place>
 <note></note>
 </E9>
 
@@ -348,20 +346,6 @@
 <note></note>
 </E9>
 
-<E9 id="115">
-<num>E9-115</num>
-<class></class>
-<group></group>
-<name> 工程電磁學 </name>
-<teacher> 李哲明  </teacher>
-<score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41102 </place>
-<note></note>
-</E9>
-
 <E9 id="117">
 <num>E9-117</num>
 <class></class>
@@ -383,7 +367,7 @@
 <name> 電子電路 </name>
 <teacher> 卿文龍  </teacher>
 <score> 3 </score>
-<time> [1]2~3  </time>
+<time> [1]2~3  ,  [2]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41103 </place>
