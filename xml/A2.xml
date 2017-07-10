@@ -224,20 +224,6 @@
 <note> 【男女合班】 球具自備 </note>
 </A2>
 
-<A2 id="223">
-<num>A2-223</num>
-<class> 二年級                        體育（女生組）　                                                       </class>
-<group></group>
-<name> 有氧舞蹈（男女） </name>
-<teacher> 夏綠荷  </teacher>
-<score> 0 </score>
-<time> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 自強韻律室                    自強韻律室 </place>
-<note> 【男女合班 】 </note>
-</A2>
-
 <A2 id="224">
 <num>A2-224</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -250,6 +236,20 @@
 <type> 講義 </type>
 <place> 健休韻律教室                  健休韻律教室 </place>
 <note> 男女合班 </note>
+</A2>
+
+<A2 id="225">
+<num>A2-225</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 國術（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note></note>
 </A2>
 
 <A2 id="226">
@@ -728,20 +728,6 @@
 <note> 【男女合班】 球具自備 </note>
 </A2>
 
-<A2 id="323">
-<num>A2-323</num>
-<class> 二年級                        體育（男生組）                                                         </class>
-<group></group>
-<name> 有氧舞蹈（男女） </name>
-<teacher> 夏綠荷  </teacher>
-<score> 0 </score>
-<time> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 自強韻律室                    自強韻律室 </place>
-<note> 男女合班 </note>
-</A2>
-
 <A2 id="324">
 <num>A2-324</num>
 <class> 二年級                        體育（男生組）                                                         </class>
@@ -754,6 +740,20 @@
 <type> 講義 </type>
 <place> 健休韻律教室                  健休韻律教室 </place>
 <note> 男女合班 </note>
+</A2>
+
+<A2 id="325">
+<num>A2-325</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 國術（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note></note>
 </A2>
 
 <A2 id="326">
