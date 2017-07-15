@@ -224,20 +224,6 @@
 <note> 學號倒數第2碼為雙數之雙數班，全體學生第一階段不可自行換班，限依學號分班選課，違者必須退選。 </note>
 </D2>
 
-<D2 id="062">
-<num>D2-062</num>
-<class></class>
-<group></group>
-<name> 犯罪學 </name>
-<teacher> 李佳玟  </teacher>
-<score> 2 </score>
-<time> [2]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80109 </place>
-<note> 法律系相鄰學科 </note>
-</D2>
-
 <D2 id="063">
 <num>D2-063</num>
 <class></class>
@@ -511,10 +497,10 @@
 <name> 專利法 </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80109 </place>
+<place> 社科院大樓                    80105 </place>
 <note> 特別法 </note>
 </D2>
 

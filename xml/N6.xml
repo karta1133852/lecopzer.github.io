@@ -221,7 +221,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
-<note> 碩博與碩專合班，甲組核心課程 </note>
+<note> 碩博與碩專合班，甲組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="024">
@@ -361,7 +361,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note> 碩博與碩專合班，丙組核心課程 </note>
+<note> 碩博與碩專合班，丙組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="052">
@@ -375,7 +375,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note> 碩博與碩專合班，丙組核心課程 </note>
+<note> 碩博與碩專合班，丙組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="054">
@@ -385,10 +385,10 @@
 <name> 鋪面評估與維修 </name>
 <teacher> 楊士賢  </teacher>
 <score> 3 </score>
-<time> [2]B~D  </time>
+<time> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4503 </place>
+<place> 土木系館                      4504 </place>
 <note> 碩博與碩專合班，丙組核心課程，英語授課 </note>
 </N6>
 
@@ -403,7 +403,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
-<note> 碩博與碩專合班，丁組核心課程 </note>
+<note> 碩博與碩專合班，丁組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="064">
@@ -417,7 +417,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note> 碩博與碩專合班，丁組核心課程，英語授課 </note>
+<note> 碩博與碩專合班，丁組核心課程，英語授課，碩專為選修。 </note>
 </N6>
 
 <N6 id="065">
@@ -431,7 +431,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note> 碩博與碩專合班，丁組核心課程，土木所與自災所合開，英語授課 </note>
+<note> 碩博與碩專合班，土木所與自災所合開，英語授課 </note>
 </N6>
 
 <N6 id="070">
@@ -473,7 +473,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
-<note> 碩博與碩專合班，戊組核心課程，英語授課 </note>
+<note> 碩博與碩專合班，戊組核心課程，英語授課，碩專為選修。 </note>
 </N6>
 
 <N6 id="073">
@@ -501,7 +501,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4509 </place>
-<note> 碩博與碩專合班，戊組核心課程 </note>
+<note> 碩博與碩專合班，戊組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="301">
@@ -585,7 +585,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
-<note> 碩博與碩專合班，甲組核心課程 </note>
+<note> 碩博與碩專合班，甲組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="324">
@@ -725,7 +725,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note> 碩博與碩專合班，丙組核心課程 </note>
+<note> 碩博與碩專合班，丙組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="352">
@@ -739,7 +739,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note> 碩博與碩專合班，丙組核心課程 </note>
+<note> 碩博與碩專合班，丙組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="354">
@@ -749,10 +749,10 @@
 <name> 鋪面評估與維修 </name>
 <teacher> 楊士賢  </teacher>
 <score> 3 </score>
-<time> [2]B~D  </time>
+<time> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4503 </place>
+<place> 土木系館                      4504 </place>
 <note> 碩博與碩專合班，丙組核心課程，英語授課 </note>
 </N6>
 
@@ -767,7 +767,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
-<note> 碩博與碩專合班，丁組核心課程 </note>
+<note> 碩博與碩專合班，丁組核心課程，碩專為選修。 </note>
 </N6>
 
 <N6 id="364">
@@ -781,7 +781,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note> 碩博與碩專合班，丁組核心課程，英語授課 </note>
+<note> 碩博與碩專合班，丁組核心課程，英語授課，碩專為選修。 </note>
 </N6>
 
 <N6 id="365">
@@ -795,7 +795,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note> 碩博與碩專合班，丁組核心課程，土木所與自災所合開，英語授課 </note>
+<note> 碩博與碩專合班，土木所與自災所合開，英語授課 </note>
 </N6>
 
 <N6 id="370">
@@ -837,7 +837,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
-<note> 碩博與碩專合班，戊組核心課程，英語授課 </note>
+<note> 碩博與碩專合班，戊組核心課程，英語授課，碩專為選修。 </note>
 </N6>
 
 <N6 id="374">
@@ -865,7 +865,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4509 </place>
-<note> 碩博與碩專合班，戊組核心課程 </note>
+<note> 碩博與碩專合班，戊組核心課程，碩專為選修。 </note>
 </N6>
 
 </content>

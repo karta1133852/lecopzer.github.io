@@ -7,11 +7,13 @@
 <name> 服務學習（一） </name>
 <teacher> 羅偉誠  </teacher>
 <score> 0 </score>
-<time> [1]N  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 水利系館                      4620 </place>
-<note></note>
+<place></place>
+<note> 
+ </note>
 </E8>
 
 <E8 id="005">
@@ -217,7 +219,7 @@
 <class></class>
 <group></group>
 <name> 地球物理學概論 </name>
-<teacher> 樂鍇．祿璞  </teacher>
+<teacher> 樂鍇．祿璞崚岸  </teacher>
 <score> 2 </score>
 <time> [3]7~8  </time>
 <must> 選修 </must>

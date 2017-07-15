@@ -245,7 +245,7 @@
 <name> 專題討論（三） </name>
 <teacher> 蔡聖鴻  </teacher>
 <score> 0 </score>
-<time> [1]9~A  </time>
+<time> [5]9~A  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92820 </place>
@@ -418,20 +418,6 @@
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
 <note> 碩博碩專合班，英語授課 </note>
-</N2>
-
-<N2 id="049">
-<num>N2-049</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等ＶＬＳＩ電路設計 </name>
-<teacher> 張順志  </teacher>
-<score> 3 </score>
-<time> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92185 </place>
-<note></note>
 </N2>
 
 <N2 id="050">
@@ -728,6 +714,20 @@
 <note> 英語授課 </note>
 </N2>
 
+<N2 id="082">
+<num>N2-082</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體記憶體元件與設計實務 </name>
+<teacher> 盧達生  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note></note>
+</N2>
+
 <N2 id="101">
 <num>N2-101</num>
 <class> 碩博                           </class>
@@ -865,7 +865,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92283 </place>
-<note></note>
+<note> 碩博碩專合班 </note>
 </N2>
 
 <N2 id="112">
@@ -1010,7 +1010,7 @@
 
 <N2 id="317">
 <num>N2-317</num>
-<class> 碩博                           </class>
+<class> 碩專一二                       </class>
 <group></group>
 <name> 非破壞性檢測 </name>
 <teacher> 戴政祺  </teacher>
@@ -1024,7 +1024,7 @@
 
 <N2 id="318">
 <num>N2-318</num>
-<class> 碩博                           </class>
+<class> 碩專一二                       </class>
 <group></group>
 <name> 計算電磁學專論 </name>
 <teacher> 戴政祺  </teacher>
@@ -1033,7 +1033,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92283 </place>
-<note></note>
+<note> 碩博碩專合班 </note>
 </N2>
 
 <N2 id="321">

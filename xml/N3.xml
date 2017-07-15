@@ -154,6 +154,20 @@
 <note></note>
 </N3>
 
+<N3 id="107">
+<num>N3-107</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 統計與實驗設計 </name>
+<teacher> 溫添進  </teacher>
+<score> 3 </score>
+<time> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93356 </place>
+<note></note>
+</N3>
+
 <N3 id="109">
 <num>N3-109</num>
 <class> 碩博                           </class>
@@ -215,7 +229,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 工業觸媒特論（一） </name>
-<teacher> 林弘萍   ,  許梅娟*  ,  陳炳宏   ,  侯聖澍   ,  羅介聰   ,  陳志勇  </teacher>
+<teacher> 林弘萍   ,  許梅娟   ,  陳炳宏*  ,  侯聖澍   ,  羅介聰   ,  陳志勇  </teacher>
 <score> 3 </score>
 <time> [1]7~9  </time>
 <must> 選修 </must>

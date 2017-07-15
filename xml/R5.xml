@@ -289,7 +289,7 @@
 <name> 飛行概論 </name>
 <teacher> 高星潢  </teacher>
 <score> 3 </score>
-<time> [6]5~7  </time>
+<time> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -322,6 +322,20 @@
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
 <note> 交管所電管所合班 </note>
+</R5>
+
+<R5 id="184">
+<num>R5-184</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 風險管理 </name>
+<teacher> 黃國平  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note></note>
 </R5>
 
 <R5 id="301">
@@ -387,7 +401,7 @@
 <name> 飛行概論 </name>
 <teacher> 高星潢  </teacher>
 <score> 3 </score>
-<time> [6]5~7  </time>
+<time> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>

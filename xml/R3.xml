@@ -81,7 +81,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61202 </place>
-<note></note>
+<note> 如無外籍生選課，將改為中文授課 </note>
 </R3>
 
 <R3 id="007">
@@ -355,7 +355,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 統計方法 </name>
-<teacher> 王泰裕  </teacher>
+<teacher> 王泰裕*  ,  謝中奇   ,  黃宇翔  </teacher>
 <score> 3 </score>
 <time> [1]B~D  </time>
 <must> 選修 </must>

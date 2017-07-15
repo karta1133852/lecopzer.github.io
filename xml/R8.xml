@@ -392,46 +392,4 @@
 <note></note>
 </R8>
 
-<R8 id="310">
-<num>R8-310</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 專題討論（一） </name>
-<teacher> 林軒竹  </teacher>
-<score> 0 </score>
-<time> [7]3~4  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63102 </place>
-<note></note>
-</R8>
-
-<R8 id="311">
-<num>R8-311</num>
-<class> 碩專二                         </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 林軒竹  </teacher>
-<score> 0 </score>
-<time> [7]3~4  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63102 </place>
-<note></note>
-</R8>
-
-<R8 id="312">
-<num>R8-312</num>
-<class> 碩專延三                       </class>
-<group></group>
-<name> 專題討論（五） </name>
-<teacher> 林軒竹  </teacher>
-<score> 0 </score>
-<time> [7]3~4  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 會計系館                      63102 </place>
-<note></note>
-</R8>
-
 </content>

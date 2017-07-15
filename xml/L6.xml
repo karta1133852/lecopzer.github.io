@@ -212,18 +212,16 @@
 
 <L6 id="016">
 <num>L6-016</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 生物科技研究特論 </name>
 <teacher> 羅玉枝  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 資訊大樓                      75710 </place>
+<note> 英文授課，與轉譯農業學程合開 </note>
 </L6>
 
 <L6 id="017">
