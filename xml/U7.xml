@@ -91,7 +91,7 @@
 <name> 社會心理學理論 </name>
 <teacher> 周麗芳  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
@@ -236,6 +236,36 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80201 </place>
 <note> 建議先修過心理學概論、認知心理學。此為磨課師翻轉教室課程。 </note>
+</U7>
+
+<U7 id="018">
+<num>U7-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 實驗設計 </name>
+<teacher> 吳瑞屯  </teacher>
+<score> 3 </score>
+<time> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</U7>
+
+<U7 id="019">
+<num>U7-019</num>
+<class></class>
+<group></group>
+<name> 功能性核磁共振造影實作 </name>
+<teacher> 龔俊嘉  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </U7>
 
 </content>

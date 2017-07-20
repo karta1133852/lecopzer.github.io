@@ -70,6 +70,20 @@
 <note> 社科大樓6樓、以及1樓公共空間 </note>
 </D4>
 
+<D4 id="012">
+<num>D4-012</num>
+<class></class>
+<group></group>
+<name> 學術論文寫作方法 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-經濟 </place>
+<note></note>
+</D4>
+
 <D4 id="054">
 <num>D4-054</num>
 <class></class>
@@ -208,6 +222,20 @@
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-政治 </place>
 <note> 一、「國家行政與治理」領域課程。二、限二年級以上同學選修。 </note>
+</D4>
+
+<D4 id="106">
+<num>D4-106</num>
+<class></class>
+<group></group>
+<name> 公共財政 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80205 </place>
+<note></note>
 </D4>
 
 <D4 id="107">

@@ -24,7 +24,7 @@
 <time> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7108 </place>
+<place> 唯農大樓                      7112 </place>
 <note> 碩士班高級史學英文、專業史學日文擇一必修 </note>
 </K3>
 
@@ -38,7 +38,7 @@
 <time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7108 </place>
+<place> 唯農大樓                      7112 </place>
 <note> 基礎課程，碩士班必修 </note>
 </K3>
 
@@ -52,7 +52,7 @@
 <time> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7117 </place>
 <note></note>
 </K3>
 
@@ -66,7 +66,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7204 </place>
 <note> 開放碩士班選修 </note>
 </K3>
 
@@ -80,7 +80,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7113 </place>
 <note></note>
 </K3>
 
@@ -94,7 +94,7 @@
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7217 </place>
 <note> 開放碩士班選修 </note>
 </K3>
 
@@ -108,7 +108,7 @@
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7202 </place>
 <note></note>
 </K3>
 
@@ -119,10 +119,10 @@
 <name> 近代科學醫學與華人社會 </name>
 <teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time> [5]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7213 </place>
 <note></note>
 </K3>
 
@@ -136,7 +136,7 @@
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7115 </place>
 <note></note>
 </K3>
 
@@ -150,7 +150,7 @@
 <time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7115 </place>
 <note></note>
 </K3>
 
@@ -164,7 +164,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7117 </place>
 <note></note>
 </K3>
 
@@ -178,7 +178,7 @@
 <time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7217 </place>
 <note> 基礎課程。博士班必修 </note>
 </K3>
 
@@ -192,7 +192,7 @@
 <time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7117 </place>
 <note> 開放碩士班選修 </note>
 </K3>
 
@@ -206,7 +206,7 @@
 <time> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </K3>
 
@@ -236,7 +236,7 @@
 <time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7117 </place>
 <note> 開放碩士班選修 </note>
 </K3>
 

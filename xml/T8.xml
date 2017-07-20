@@ -196,4 +196,32 @@
 <note> 上課地點門診大樓8樓公衛所會議室08077 </note>
 </T8>
 
+<T8 id="016">
+<num>T8-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 進階健康行為理論和應用 </name>
+<teacher> 莊佳蓉  </teacher>
+<score> 2 </score>
+<time> [6]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室 </note>
+</T8>
+
+<T8 id="017">
+<num>T8-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康照護的經濟評估 </name>
+<teacher> 王榮德   ,  古鯉榕* </teacher>
+<score> 2 </score>
+<time> [6]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:門診大樓8樓公衛所會議室08077(與公衛所健康照護的經濟評估合開) </note>
+</T8>
+
 </content>

@@ -30,7 +30,7 @@
 
 <K7 id="003">
 <num>K7-003</num>
-<class> 碩一                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 動物考古學 </name>
 <teacher> 未定  </teacher>
@@ -44,10 +44,10 @@
 
 <K7 id="004">
 <num>K7-004</num>
-<class> 碩一                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 臺灣南島民族誌 </name>
-<teacher> 未定  </teacher>
+<teacher> 鍾國風  </teacher>
 <score> 3 </score>
 <time> [2]5~7  </time>
 <must> 選修 </must>
@@ -58,7 +58,7 @@
 
 <K7 id="005">
 <num>K7-005</num>
-<class> 碩二                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 原住民考古學 </name>
 <teacher> 鍾國風  </teacher>
@@ -72,7 +72,7 @@
 
 <K7 id="006">
 <num>K7-006</num>
-<class> 碩一                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 太平洋考古學 </name>
 <teacher> 未定  </teacher>
@@ -86,7 +86,7 @@
 
 <K7 id="007">
 <num>K7-007</num>
-<class> 碩二                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 石器分析 </name>
 <teacher> 趙金勇  </teacher>
@@ -100,7 +100,7 @@
 
 <K7 id="008">
 <num>K7-008</num>
-<class> 碩一                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 古代文明專題 </name>
 <teacher> 熊仲卿  </teacher>
@@ -114,7 +114,7 @@
 
 <K7 id="010">
 <num>K7-010</num>
-<class> 碩二                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 博物館學理論與方法 </name>
 <teacher> 郭美芳  </teacher>
@@ -126,23 +126,9 @@
 <note></note>
 </K7>
 
-<K7 id="011">
-<num>K7-011</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 民族考古學 </name>
-<teacher> 鍾國風  </teacher>
-<score> 3 </score>
-<time> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27613 </place>
-<note></note>
-</K7>
-
 <K7 id="012">
 <num>K7-012</num>
-<class> 碩一                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 遺址保存理論與實踐 </name>
 <teacher> 未定   ,  劉益昌* </teacher>
@@ -156,7 +142,7 @@
 
 <K7 id="013">
 <num>K7-013</num>
-<class> 碩二                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 空間分析與考古GIS應用 </name>
 <teacher> 熊仲卿  </teacher>
@@ -170,7 +156,7 @@
 
 <K7 id="014">
 <num>K7-014</num>
-<class> 碩二                           </class>
+<class> 碩                             </class>
 <group></group>
 <name> 科技考古學 </name>
 <teacher> 未定  </teacher>
