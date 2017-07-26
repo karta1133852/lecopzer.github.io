@@ -106,20 +106,6 @@
 <note> 電力組 </note>
 </VE>
 
-<VE id="008">
-<num>VE-008</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 配電系統自動化 </name>
-<teacher> 黃慶連  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
-</VE>
-
 <VE id="011">
 <num>VE-011</num>
 <class> 碩一二                         </class>
@@ -202,20 +188,6 @@
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
 <note></note>
-</VE>
-
-<VE id="022">
-<num>VE-022</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 高電壓工程特論 </name>
-<teacher> 黃慶連  </teacher>
-<score> 3 </score>
-<time> [1]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
 </VE>
 
 <VE id="056">

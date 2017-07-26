@@ -7,7 +7,7 @@
 <name> 普通化學 </name>
 <teacher> 林弘萍   ,  郭賓崇   ,  林少紅* </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time> [2]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
@@ -97,10 +97,10 @@
 <name> 有機化學（二） </name>
 <teacher> 洪欣儀*  ,  郭賓崇  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [3]2  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        602 </place>
+<place> 醫學院                        604 </place>
 <note> 藥學系與醫工系合開 </note>
 </I8>
 
@@ -269,7 +269,7 @@
 <name> 藥物分析（一） </name>
 <teacher> 郭賓崇* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        202D </place>
@@ -283,11 +283,13 @@
 <name> 藥物資訊專題 </name>
 <teacher> 徐之昇   ,  賴嘉鎮   ,  鄭靜蘭   ,  歐凰姿* </teacher>
 <score> 1 </score>
-<time> [4]8~9  </time>
+<time> 
+  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
-<note></note>
+<place></place>
+<note> 
+ </note>
 </I8>
 
 <I8 id="114">

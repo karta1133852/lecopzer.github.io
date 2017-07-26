@@ -132,6 +132,70 @@
 <note></note>
 </T2>
 
+<T2 id="050">
+<num>T2-050</num>
+<class></class>
+<group></group>
+<name> 舒適護理 </name>
+<teacher> 黃美智*  ,  賴維淑   ,  洪菁霞   ,  蔡昆霖  </teacher>
+<score> 0.5 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="051">
+<num>T2-051</num>
+<class></class>
+<group></group>
+<name> 癌症照護 </name>
+<teacher> 方素瓔*  ,  高綺吟   ,  蘇五洲  </teacher>
+<score> 0.5 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="052">
+<num>T2-052</num>
+<class></class>
+<group></group>
+<name> 生命倫理 </name>
+<teacher> 方素瓔   ,  高綺吟* </teacher>
+<score> 0.5 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="053">
+<num>T2-053</num>
+<class></class>
+<group></group>
+<name> 安寧療護 </name>
+<teacher> 黃美智*  ,  賴維淑   ,  林鵬展  </teacher>
+<score> 0.5 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
 <T2 id="101">
 <num>T2-101</num>
 <class> 碩                             </class>

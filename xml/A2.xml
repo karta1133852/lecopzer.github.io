@@ -1640,7 +1640,7 @@
 <num>A2-522</num>
 <class></class>
 <group></group>
-<name> 男子田徑校隊 </name>
+<name> 男子田徑校隊（一） </name>
 <teacher> 林麗娟  </teacher>
 <score> 1 </score>
 <time> 
@@ -1656,7 +1656,7 @@
 <num>A2-523</num>
 <class></class>
 <group></group>
-<name> 女子田徑校隊 </name>
+<name> 女子田徑校隊（一） </name>
 <teacher> 黃滄海  </teacher>
 <score> 1 </score>
 <time> 
@@ -1672,7 +1672,7 @@
 <num>A2-524</num>
 <class></class>
 <group></group>
-<name> 男子游泳校隊 </name>
+<name> 男子游泳校隊（一） </name>
 <teacher> 洪甄憶  </teacher>
 <score> 1 </score>
 <time> 
@@ -1688,7 +1688,7 @@
 <num>A2-525</num>
 <class></class>
 <group></group>
-<name> 女子游泳校隊 </name>
+<name> 女子游泳校隊（一） </name>
 <teacher> 周學雯  </teacher>
 <score> 1 </score>
 <time> 
@@ -1704,7 +1704,7 @@
 <num>A2-526</num>
 <class></class>
 <group></group>
-<name> 男子籃球校隊 </name>
+<name> 男子籃球校隊（一） </name>
 <teacher> 潘慧雯  </teacher>
 <score> 1 </score>
 <time> 
@@ -1720,7 +1720,7 @@
 <num>A2-527</num>
 <class></class>
 <group></group>
-<name> 女子籃球校隊 </name>
+<name> 女子籃球校隊（一） </name>
 <teacher> 高華君  </teacher>
 <score> 1 </score>
 <time> 
@@ -1736,7 +1736,7 @@
 <num>A2-528</num>
 <class></class>
 <group></group>
-<name> 男子排球校隊 </name>
+<name> 男子排球校隊（一） </name>
 <teacher> 黃鴻鈞  </teacher>
 <score> 1 </score>
 <time> 
@@ -1752,7 +1752,7 @@
 <num>A2-529</num>
 <class></class>
 <group></group>
-<name> 女子排球校隊 </name>
+<name> 女子排球校隊（一） </name>
 <teacher> 黃賢哲  </teacher>
 <score> 1 </score>
 <time> 
@@ -1768,7 +1768,7 @@
 <num>A2-530</num>
 <class></class>
 <group></group>
-<name> 足球校隊 </name>
+<name> 足球校隊（一） </name>
 <teacher> 王駿濠  </teacher>
 <score> 1 </score>
 <time> 
@@ -1784,7 +1784,7 @@
 <num>A2-531</num>
 <class></class>
 <group></group>
-<name> 橄欖球校隊 </name>
+<name> 橄欖球校隊（一） </name>
 <teacher> 鄭匡佑  </teacher>
 <score> 1 </score>
 <time> 
@@ -1800,7 +1800,7 @@
 <num>A2-532</num>
 <class></class>
 <group></group>
-<name> 棒球校隊 </name>
+<name> 棒球校隊（一） </name>
 <teacher> 黃彥慈  </teacher>
 <score> 1 </score>
 <time> 
@@ -1816,7 +1816,7 @@
 <num>A2-533</num>
 <class></class>
 <group></group>
-<name> 男子桌球校隊 </name>
+<name> 男子桌球校隊（一） </name>
 <teacher> 邱宏達  </teacher>
 <score> 1 </score>
 <time> 
@@ -1832,7 +1832,7 @@
 <num>A2-534</num>
 <class></class>
 <group></group>
-<name> 女子桌球校隊 </name>
+<name> 女子桌球校隊（一） </name>
 <teacher> 徐珊惠  </teacher>
 <score> 1 </score>
 <time> 
@@ -1848,7 +1848,7 @@
 <num>A2-535</num>
 <class></class>
 <group></group>
-<name> 男子羽球校隊 </name>
+<name> 男子羽球校隊（一） </name>
 <teacher> 涂國誠  </teacher>
 <score> 1 </score>
 <time> 
@@ -1864,7 +1864,7 @@
 <num>A2-536</num>
 <class></class>
 <group></group>
-<name> 女子羽球校隊 </name>
+<name> 女子羽球校隊（一） </name>
 <teacher> 蔡佳良  </teacher>
 <score> 1 </score>
 <time> 
@@ -1880,7 +1880,7 @@
 <num>A2-537</num>
 <class></class>
 <group></group>
-<name> 男子硬網校隊 </name>
+<name> 男子硬網校隊（一） </name>
 <teacher> 李劍如  </teacher>
 <score> 1 </score>
 <time> 
@@ -1896,7 +1896,7 @@
 <num>A2-538</num>
 <class></class>
 <group></group>
-<name> 女子硬網校隊 </name>
+<name> 女子硬網校隊（一） </name>
 <teacher> 馬上鈞  </teacher>
 <score> 1 </score>
 <time> 
@@ -1912,7 +1912,7 @@
 <num>A2-539</num>
 <class></class>
 <group></group>
-<name> 男子軟網校隊 </name>
+<name> 男子軟網校隊（一） </name>
 <teacher> 王苓華  </teacher>
 <score> 1 </score>
 <time> 
@@ -1928,7 +1928,7 @@
 <num>A2-540</num>
 <class></class>
 <group></group>
-<name> 女子軟網校隊 </name>
+<name> 女子軟網校隊（一） </name>
 <teacher> 王苓華  </teacher>
 <score> 1 </score>
 <time> 
@@ -1944,7 +1944,7 @@
 <num>A2-541</num>
 <class></class>
 <group></group>
-<name> 男子壘球校隊 </name>
+<name> 男子壘球校隊（一） </name>
 <teacher> 謝孟志  </teacher>
 <score> 1 </score>
 <time> 

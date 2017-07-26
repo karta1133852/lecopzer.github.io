@@ -378,34 +378,6 @@
 <note></note>
 </Q3>
 
-<Q3 id="051">
-<num>Q3-051</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 配電系統自動化 </name>
-<teacher> 黃慶連  </teacher>
-<score> 3 </score>
-<time> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
-</Q3>
-
-<Q3 id="052">
-<num>Q3-052</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高電壓工程特論 </name>
-<teacher> 黃慶連  </teacher>
-<score> 3 </score>
-<time> [1]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
-<note> 限電資學院學生選修 </note>
-</Q3>
-
 <Q3 id="053">
 <num>Q3-053</num>
 <class> 碩博                           </class>
