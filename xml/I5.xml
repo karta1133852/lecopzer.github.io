@@ -525,7 +525,7 @@
 <class></class>
 <group></group>
 <name> 內科學（一） </name>
-<teacher> 宋俊明   ,  林志勝   ,  蔡惟全   ,  薛尊仁   ,  劉明煇*  ,  張漢煜   ,  李政翰   ,  許志新   ,  趙庭興   ,  張育誌   ,  王明誠   ,  劉秉彥  </teacher>
+<teacher> 宋俊明   ,  林志勝   ,  蔡惟全   ,  薛尊仁   ,  蘇五洲*  ,  張漢煜   ,  李政翰   ,  許志新   ,  趙庭興   ,  張育誌   ,  王明誠   ,  劉秉彥  </teacher>
 <score> 1 </score>
 <time> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -697,7 +697,7 @@
 <class></class>
 <group></group>
 <name> 內科學（三）及實習 </name>
-<teacher> 劉明煇* </teacher>
+<teacher> 蘇五洲* </teacher>
 <score> 6 </score>
 <time> 
   </time>
@@ -869,7 +869,7 @@
 <class></class>
 <group> A </group>
 <name> 內科學（四） </name>
-<teacher> 劉明煇* </teacher>
+<teacher> 蘇五洲* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -885,7 +885,7 @@
 <class></class>
 <group> A </group>
 <name> 內科實習（二） </name>
-<teacher> 劉明煇* </teacher>
+<teacher> 蘇五洲* </teacher>
 <score> 5 </score>
 <time> 
   </time>
@@ -1125,7 +1125,7 @@
 <class></class>
 <group> B </group>
 <name> 眼科學 </name>
-<teacher> 許聖民  </teacher>
+<teacher> 蕭振仁* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -1141,7 +1141,7 @@
 <class></class>
 <group> B </group>
 <name> 眼科實習一 </name>
-<teacher> 許聖民* </teacher>
+<teacher> 蕭振仁* </teacher>
 <score> 2 </score>
 <time> 
   </time>
@@ -1265,7 +1265,7 @@
 <class></class>
 <group></group>
 <name> 內科實習 </name>
-<teacher> 劉明煇* </teacher>
+<teacher> 蘇五洲* </teacher>
 <score> 12 </score>
 <time> 
   </time>
@@ -1409,7 +1409,7 @@
 <class></class>
 <group></group>
 <name> 眼科實習 </name>
-<teacher> 許聖民* </teacher>
+<teacher> 蕭振仁* </teacher>
 <score> 4 </score>
 <time> 
   </time>

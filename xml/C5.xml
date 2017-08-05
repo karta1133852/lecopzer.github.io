@@ -207,7 +207,7 @@
 <class></class>
 <group></group>
 <name> 植物生理學 </name>
-<teacher> 張松彬*  ,  郭瑋君   ,  李瑞花   ,  邱啟洲  </teacher>
+<teacher> 張松彬*  ,  黃俊霖   ,  郭瑋君   ,  李瑞花   ,  黃兆立  </teacher>
 <score> 3 </score>
 <time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -483,20 +483,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3413 </place>
-<note></note>
-</C5>
-
-<C5 id="168">
-<num>C5-168</num>
-<class></class>
-<group></group>
-<name> 環境政策 </name>
-<teacher> 楊永年  </teacher>
-<score> 2 </score>
-<time> [1]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3417 </place>
 <note></note>
 </C5>
 

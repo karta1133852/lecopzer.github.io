@@ -58,14 +58,14 @@
 <num>PA-005</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 創意產業研究行動方案 </name>
-<teacher> 林蕙玟  </teacher>
+<name> 量化研究 </name>
+<teacher> 高如妃  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
-<type> 研討 </type>
+<type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
-<note> 需已修過〈產業設計實習工作坊〉課程學生方得選修。 </note>
+<note></note>
 </PA>
 
 <PA id="006">
@@ -220,6 +220,20 @@
 <place></place>
 <note> 
  </note>
+</PA>
+
+<PA id="016">
+<num>PA-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 物質文化研究 </name>
+<teacher> 高如妃  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5152 </place>
+<note></note>
 </PA>
 
 </content>

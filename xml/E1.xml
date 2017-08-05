@@ -5,7 +5,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 體育（一） </name>
-<teacher> 蔡佳良  </teacher>
+<teacher> 王駿濠  </teacher>
 <score> 0 </score>
 <time> [3]7~8  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 楊天祥  </teacher>
 <score> 0 </score>
 <time> [1]N  </time>
 <must> 必修 </must>
@@ -169,7 +169,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 楊天祥  </teacher>
 <score> 0 </score>
 <time> [3]N  </time>
 <must> 必修 </must>
@@ -217,7 +217,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 應用力學（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 林建宏  </teacher>
 <score> 3 </score>
 <time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -291,7 +291,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 體育（一） </name>
-<teacher> 徐珊惠  </teacher>
+<teacher> 馬上鈞  </teacher>
 <score> 0 </score>
 <time> [3]7~8  </time>
 <must> 必修 </must>
@@ -305,7 +305,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 楊天祥  </teacher>
 <score> 0 </score>
 <time> [5]N  </time>
 <must> 必修 </must>
@@ -353,7 +353,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 應用力學（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 林建宏  </teacher>
 <score> 3 </score>
 <time> [2]5  ,  [3]3~4  </time>
 <must> 必修 </must>
@@ -533,7 +533,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 服務學習（三） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳國聲  </teacher>
 <score> 0 </score>
 <time> [3]N  </time>
 <must> 必修 </must>
@@ -643,7 +643,7 @@
 <class> 乙                             </class>
 <group> A </group>
 <name> 工場實習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳國聲  </teacher>
 <score> 1 </score>
 <time> [2]6~8  </time>
 <must> 必修 </must>
@@ -657,7 +657,7 @@
 <class> 乙                             </class>
 <group> B </group>
 <name> 工場實習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳國聲  </teacher>
 <score> 1 </score>
 <time> [2]6~8  </time>
 <must> 必修 </must>
@@ -671,7 +671,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 服務學習（三） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳國聲  </teacher>
 <score> 0 </score>
 <time> [5]N  </time>
 <must> 必修 </must>
@@ -795,7 +795,7 @@
 <class> 丙                             </class>
 <group> B </group>
 <name> 工場實習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 楊天祥  </teacher>
 <score> 1 </score>
 <time> [1]6~8  </time>
 <must> 必修 </must>
@@ -1135,7 +1135,7 @@
 <class> 甲乙丙                         </class>
 <group></group>
 <name> 內燃機 </name>
-<teacher> 未定  </teacher>
+<teacher> 林知伸  </teacher>
 <score> 3 </score>
 <time> [3]5~6  ,  [5]1  </time>
 <must> 選修 </must>

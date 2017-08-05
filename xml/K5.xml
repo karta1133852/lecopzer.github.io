@@ -60,14 +60,14 @@
 <num>K5-005</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 台灣的生態旅遊與解說教育 </name>
+<name> 台灣自然史 </name>
 <teacher> 陳玉峯  </teacher>
 <score> 3 </score>
-<time> [3]9~B  </time>
+<time> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
-<note> 第一、二次未來上課者，一率退選。 </note>
+<note> 第一、二次未來上課者，一律退選。 </note>
 </K5>
 
 <K5 id="006">
@@ -200,14 +200,14 @@
 <num>K5-301</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 台灣的生態旅遊與解說教育 </name>
+<name> 台灣自然史 </name>
 <teacher> 陳玉峯  </teacher>
 <score> 3 </score>
-<time> [3]9~B  </time>
+<time> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
-<note> 第一、二次未來上課者，一率退選。 </note>
+<note> 第一、二次未來上課者，一律退選。 </note>
 </K5>
 
 <K5 id="302">

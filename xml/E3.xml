@@ -335,7 +335,7 @@
 <class> 甲乙丙                         </class>
 <group></group>
 <name> 化工概論 </name>
-<teacher> 林裕川  </teacher>
+<teacher> 林裕川*  ,  柯碧蓮  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -833,7 +833,7 @@
 <class> 甲乙丙                         </class>
 <group></group>
 <name> 石油煉製技術 </name>
-<teacher> 未定  </teacher>
+<teacher> 洪正宗  </teacher>
 <score> 3 </score>
 <time> [5]7~9  </time>
 <must> 選修 </must>

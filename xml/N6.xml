@@ -19,7 +19,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 結構工程專題討論（一） </name>
-<teacher> 王彬  </teacher>
+<teacher> 劉光晏  </teacher>
 <score> 0 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
@@ -33,7 +33,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 結構工程專題討論（三） </name>
-<teacher> 王彬  </teacher>
+<teacher> 劉光晏  </teacher>
 <score> 0 </score>
 <time> [5]6~7  </time>
 <must> 必修 </must>
@@ -236,6 +236,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
 <note> 碩博與碩專合班 </note>
+</N6>
+
+<N6 id="025">
+<num>N6-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 彈性力學 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time> [4]3~N  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 碩博與碩專合班，甲組核心，碩專為選修，英語授課 </note>
 </N6>
 
 <N6 id="026">
@@ -600,6 +614,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
 <note> 碩博與碩專合班 </note>
+</N6>
+
+<N6 id="325">
+<num>N6-325</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 彈性力學 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time> [4]3~N  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4502 </place>
+<note> 碩博與碩專合班，甲組核心，碩專為選修，英語授課 </note>
 </N6>
 
 <N6 id="326">
