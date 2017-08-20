@@ -221,7 +221,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
-<note> 碩博與碩專合班，甲組核心課程，碩專為選修。 </note>
+<note> 碩博與碩專合班，甲組核心課程，碩專為選修，英語授課。 </note>
 </N6>
 
 <N6 id="024">
@@ -371,7 +371,7 @@
 <name> 工程統計 </name>
 <teacher> 陳建旭  </teacher>
 <score> 3 </score>
-<time> [3]B~D  </time>
+<time> [6]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -599,7 +599,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
-<note> 碩博與碩專合班，甲組核心課程，碩專為選修。 </note>
+<note> 碩博與碩專合班，甲組核心課程，碩專為選修，英語授課。 </note>
 </N6>
 
 <N6 id="324">
@@ -749,7 +749,7 @@
 <name> 工程統計 </name>
 <teacher> 陳建旭  </teacher>
 <score> 3 </score>
-<time> [3]B~D  </time>
+<time> [6]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>

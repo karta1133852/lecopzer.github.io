@@ -240,6 +240,20 @@
 <note></note>
 </C3>
 
+<C3 id="064">
+<num>C3-064</num>
+<class></class>
+<group></group>
+<name> 應用電化學 </name>
+<teacher> 孫亦文  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3274 </place>
+<note></note>
+</C3>
+
 <C3 id="101">
 <num>C3-101</num>
 <class></class>
@@ -463,20 +477,6 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 化學系館                      3268 </place>
-<note></note>
-</C3>
-
-<C3 id="158">
-<num>C3-158</num>
-<class></class>
-<group></group>
-<name> 應用電化學 </name>
-<teacher> 孫亦文  </teacher>
-<score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 化學系館                      3274 </place>
 <note></note>
 </C3>
 

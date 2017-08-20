@@ -103,7 +103,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 分類、測量與標準化專題 </name>
-<teacher> 未定  </teacher>
+<teacher> 許宏彬  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -123,7 +123,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
-<note></note>
+<note> 密集課程 </note>
 </K3>
 
 <K3 id="030">
@@ -161,11 +161,11 @@
 <name> 海洋亞洲史研究 </name>
 <teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7117 </place>
-<note></note>
+<place> 唯農大樓                      7213 </place>
+<note> 密集課程 </note>
 </K3>
 
 <K3 id="101">

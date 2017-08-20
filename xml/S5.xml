@@ -19,7 +19,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 陳呈堯   ,  張文粲   ,  鄭宏祺   ,  陳昌熙*  ,  凌　斌   ,  王淑鶯   ,  余佳益   ,  鄧景浩   ,  張南山   ,  陳玉玲   ,  吳佳慶   ,  王仰高  </teacher>
+<teacher> 陳呈堯   ,  張文粲   ,  鄭宏祺   ,  陳昌熙*  ,  王淑鶯   ,  余佳益   ,  鄧景浩   ,  張南山   ,  陳玉玲   ,  吳佳慶   ,  王仰高  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
@@ -33,7 +33,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 分子生物學特論 </name>
-<teacher> 張權發   ,  張文粲   ,  陳昌熙*  ,  黃柏憲   ,  楊尚訓   ,  顏賢章   ,  凌　斌   ,  王淑鶯   ,  吳佳慶   ,  王仰高  </teacher>
+<teacher> 張權發   ,  張文粲   ,  陳昌熙*  ,  黃柏憲   ,  余建泓   ,  楊尚訓   ,  顏賢章   ,  王淑鶯   ,  吳佳慶   ,  王仰高  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
@@ -75,7 +75,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 免疫學 </name>
-<teacher> 林以行*  ,  凌　斌   ,  張志鵬*  ,  謝奇璋  </teacher>
+<teacher> 林以行*  ,  張志鵬*  ,  謝奇璋  </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>
@@ -103,7 +103,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 免疫學特論 </name>
-<teacher> 王育民   ,  楊孔嘉   ,  蔡佩珍   ,  徐麗君   ,  王志堯   ,  王崇任   ,  王世敏   ,  楊倍昌   ,  林以行   ,  凌　斌   ,  張　堯   ,  張志鵬*  ,  余佳益  </teacher>
+<teacher> 王育民   ,  楊孔嘉   ,  蔡佩珍   ,  徐麗君   ,  王志堯   ,  王崇任   ,  王世敏   ,  楊倍昌   ,  林以行   ,  張　堯   ,  張志鵬*  ,  余佳益  </teacher>
 <score> 3 </score>
 <time> [2]2~4  </time>
 <must> 選修 </must>
@@ -117,7 +117,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 細胞生物學特論（一） </name>
-<teacher> 王憶卿   ,  凌　斌   ,  郭余民*  ,  江美治   ,  王仰高  </teacher>
+<teacher> 王憶卿   ,  郭余民*  ,  江美治   ,  王仰高  </teacher>
 <score> 2 </score>
 <time> [3]5~6  </time>
 <must> 選修 </must>
@@ -231,7 +231,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等生物技術 </name>
-<teacher> 劉宗霖   ,  曾大千   ,  張權發   ,  張文粲*  ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲   ,  楊尚訓   ,  凌　斌   ,  王淑鶯   ,  廖寶琦   ,  王憲威   ,  吳佳慶   ,  王家義  </teacher>
+<teacher> 劉宗霖   ,  曾大千   ,  張權發   ,  張文粲*  ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲   ,  楊尚訓   ,  王淑鶯   ,  王憲威   ,  吳佳慶   ,  王家義  </teacher>
 <score> 2 </score>
 <time> [5]3~4  </time>
 <must> 選修 </must>
@@ -245,7 +245,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 感染症學 </name>
-<teacher> 黃溫雅   ,  蔡佩珍   ,  顏經洲   ,  王世敏   ,  林以行   ,  凌　斌*  ,  張　堯   ,  陳振暐   ,  鄧景浩  </teacher>
+<teacher> 黃溫雅*  ,  蔡佩珍   ,  顏經洲   ,  王世敏   ,  林以行   ,  張　堯   ,  陳振暐   ,  鄧景浩  </teacher>
 <score> 3 </score>
 <time> [3]2~4  </time>
 <must> 選修 </must>
@@ -371,7 +371,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 英文論文閱讀及寫作 </name>
-<teacher> 凌　斌   ,  王淑鶯*  ,  黃一修  </teacher>
+<teacher> 王淑鶯*  ,  黃一修  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
 <must> 選修 </must>
@@ -385,7 +385,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 生長基因及致癌基因 </name>
-<teacher> 洪建中   ,  陳炳焜   ,  洪良宜   ,  徐麗君   ,  呂增宏*  ,  王憶卿   ,  劉校生   ,  凌　斌   ,  呂佩融   ,  蔣輯武  </teacher>
+<teacher> 洪建中   ,  陳炳焜   ,  洪良宜   ,  徐麗君   ,  呂增宏*  ,  王憶卿   ,  劉校生   ,  呂佩融   ,  蔣輯武  </teacher>
 <score> 2 </score>
 <time> [4]3~4  </time>
 <must> 選修 </must>

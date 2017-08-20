@@ -133,7 +133,7 @@
 <class></class>
 <group> C </group>
 <name> 基本設計（一） </name>
-<teacher> 王藝蓁  </teacher>
+<teacher> 何俊亨  </teacher>
 <score> 3 </score>
 <time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
@@ -235,7 +235,7 @@
 <class></class>
 <group> C </group>
 <name> 產品設計（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 劉美均  </teacher>
 <score> 3 </score>
 <time> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
@@ -389,9 +389,9 @@
 <class></class>
 <group></group>
 <name> 考古與設計 </name>
-<teacher> 陳璽任*  ,  鍾國風* </teacher>
-<score> 2 </score>
-<time> [3]7~8  </time>
+<teacher> 陳璽任  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5205A </place>

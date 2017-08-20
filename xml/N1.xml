@@ -182,20 +182,6 @@
 <note> 大碩合開 </note>
 </N1>
 
-<N1 id="029">
-<num>N1-029</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 波動力學 </name>
-<teacher> 楊天祥  </teacher>
-<score> 3 </score>
-<time> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91206 </place>
-<note></note>
-</N1>
-
 <N1 id="030">
 <num>N1-030</num>
 <class> 碩博                           </class>
@@ -580,6 +566,20 @@
 <note></note>
 </N1>
 
+<N1 id="082">
+<num>N1-082</num>
+<class> 碩                             </class>
+<group></group>
+<name> 智慧移動機器人 </name>
+<teacher> 劉彥辰  </teacher>
+<score> 3 </score>
+<time> [2]5  ,  [4]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91202 </place>
+<note> 建議修過自動控制課程 </note>
+</N1>
+
 <N1 id="083">
 <num>N1-083</num>
 <class> 碩                             </class>
@@ -708,8 +708,22 @@
 <time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 綜合大樓                      48111B </place>
+<place> 綜合大樓                      48216 </place>
 <note> 與機械系合開, 電漿所主開 </note>
+</N1>
+
+<N1 id="093">
+<num>N1-093</num>
+<class> 碩                             </class>
+<group></group>
+<name> 金屬材料製程及運輸產業應用實務 </name>
+<teacher> 林秋豐  </teacher>
+<score> 3 </score>
+<time> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56113 </place>
+<note></note>
 </N1>
 
 </content>

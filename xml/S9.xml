@@ -75,7 +75,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 蔡曜聲*  ,  沈延盛   ,  許育祥   ,  修臥龍  </teacher>
+<teacher> 蔡曜聲   ,  沈延盛   ,  許育祥*  ,  修臥龍  </teacher>
 <score> 1 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -89,7 +89,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 蔡曜聲*  ,  沈延盛   ,  許育祥   ,  修臥龍  </teacher>
+<teacher> 蔡曜聲   ,  沈延盛   ,  許育祥*  ,  修臥龍  </teacher>
 <score> 1 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -103,7 +103,7 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 蔡曜聲*  ,  沈延盛   ,  許育祥   ,  修臥龍  </teacher>
+<teacher> 蔡曜聲   ,  沈延盛   ,  許育祥*  ,  修臥龍  </teacher>
 <score> 0 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 細胞生物學特論（一） </name>
-<teacher> 王憶卿   ,  凌　斌   ,  郭余民*  ,  江美治   ,  王仰高  </teacher>
+<teacher> 王憶卿   ,  郭余民*  ,  江美治   ,  王仰高  </teacher>
 <score> 2 </score>
 <time> [3]5~6  </time>
 <must> 選修 </must>
@@ -418,7 +418,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5756 </place>
+<place> 醫技醫工館                    5734 </place>
 <note> 與醫工所、口醫所合開 </note>
 </S9>
 
@@ -712,7 +712,7 @@
 <time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5756 </place>
+<place> 醫技醫工館                    5734 </place>
 <note> 與醫工所、口醫所合開 </note>
 </S9>
 

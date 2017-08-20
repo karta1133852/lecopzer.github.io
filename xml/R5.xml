@@ -128,14 +128,14 @@
 <note></note>
 </R5>
 
-<R5 id="104">
-<num>R5-104</num>
+<R5 id="103">
+<num>R5-103</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習 </name>
 <teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
-<score> 0 </score>
-<time> [5]1  </time>
+<score> 1 </score>
+<time> [5]1  ,  [5]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 交管系館                      62107 </place>
@@ -147,7 +147,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 物流業經營與管理 </name>
-<teacher> 未定   ,  林正章* </teacher>
+<teacher> 林正章*  ,  盧峯海  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>

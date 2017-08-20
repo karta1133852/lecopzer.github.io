@@ -1834,20 +1834,6 @@
 <note> 領域通識 </note>
 </A9>
 
-<A9 id="319">
-<num>A9-319</num>
-<class></class>
-<group></group>
-<name> 歷史與文化 </name>
-<teacher> 陳計堯  </teacher>
-<score> 2 </score>
-<time> [4]5~6  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 醫技醫工館                    5761 </place>
-<note> 近代世界的形成(16-20世紀),104學年度(含)以前入學生為「公民與歷史」 </note>
-</A9>
-
 <A9 id="320">
 <num>A9-320</num>
 <class></class>
@@ -2577,7 +2563,7 @@
 <class></class>
 <group></group>
 <name> 臺灣綜合大學通識巡迴講座-環境生態保育 </name>
-<teacher> 王秀雲  </teacher>
+<teacher> 張怡玲  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 必修 </must>
@@ -2598,6 +2584,38 @@
 <type> 融合通識 </type>
 <place> 理化大樓                      格致廳小講堂 </place>
 <note> 限一年級修習 </note>
+</A9>
+
+<A9 id="574">
+<num>A9-574</num>
+<class></class>
+<group></group>
+<name> 踏溯台南 </name>
+<teacher> 郭美芳   ,  陳家煌   ,  邱詩雯   ,  陳玉女*  ,  陳文松   ,  陳計堯   ,  李啟彰   ,  游勝冠   ,  黃崇明   ,  陳佳彬   ,  鍾國風   ,  劉益昌   ,  熊仲卿  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="575">
+<num>A9-575</num>
+<class></class>
+<group></group>
+<name> 踏溯台南 </name>
+<teacher> 高實玫*  ,  吳少方   ,  柯瓊琪   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  辛佳玲  </teacher>
+<score> 0 </score>
+<time> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </A9>
 
 </content>

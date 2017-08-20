@@ -5,7 +5,7 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 碩士論文寫作 </name>
-<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿  </teacher>
+<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿   ,  左星樺   ,  莊家銘  </teacher>
 <score> 3 </score>
 <time> [1]2~4  </time>
 <must> 選修 </must>
@@ -19,26 +19,12 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 資料選讀 </name>
-<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿  </teacher>
+<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿   ,  左星樺   ,  莊家銘  </teacher>
 <score> 2 </score>
-<time> [1]6~7  </time>
+<time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
-<note></note>
-</K7>
-
-<K7 id="003">
-<num>K7-003</num>
-<class> 碩                             </class>
-<group></group>
-<name> 動物考古學 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27612 </place>
 <note></note>
 </K7>
 
@@ -63,7 +49,7 @@
 <name> 原住民考古學 </name>
 <teacher> 鍾國風  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
@@ -75,9 +61,9 @@
 <class> 碩                             </class>
 <group></group>
 <name> 太平洋考古學 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time> [3]5~7  </time>
+<teacher> 邱斯嘉  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
@@ -103,13 +89,13 @@
 <class> 碩                             </class>
 <group></group>
 <name> 古代文明專題 </name>
-<teacher> 熊仲卿  </teacher>
+<teacher> 左星樺  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27612 </place>
-<note></note>
+<note> 英語授課 </note>
 </K7>
 
 <K7 id="010">
@@ -131,13 +117,13 @@
 <class> 碩                             </class>
 <group></group>
 <name> 遺址保存理論與實踐 </name>
-<teacher> 未定   ,  劉益昌* </teacher>
+<teacher> 左星樺  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
-<note></note>
+<note> 英語授課 </note>
 </K7>
 
 <K7 id="013">
@@ -147,10 +133,10 @@
 <name> 空間分析與考古GIS應用 </name>
 <teacher> 熊仲卿  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      27612 </place>
+<place> 雲平大樓                      27613 </place>
 <note></note>
 </K7>
 
@@ -159,9 +145,9 @@
 <class> 碩                             </class>
 <group></group>
 <name> 科技考古學 </name>
-<teacher> 未定  </teacher>
+<teacher> 莊家銘  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
@@ -173,9 +159,9 @@
 <class> 碩                             </class>
 <group></group>
 <name> 考古學專業英文 </name>
-<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿  </teacher>
+<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿   ,  左星樺   ,  莊家銘  </teacher>
 <score> 1 </score>
-<time> [1]8  </time>
+<time> [1]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>

@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<TA id="001">
-<num>TA-001</num>
-<class> 博一                           </class>
-<group></group>
-<name> 臨床研究設計（一） </name>
-<teacher> 鄭中平   ,  張瑩如   ,  柯乃熒   ,  王秀雲   ,  馬慧英   ,  李中一   ,  王榮德   ,  陳彰惠*  ,  陳麗光  </teacher>
-<score> 2 </score>
-<time> [2]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 健照所會議室上課。 </note>
-</TA>
-
 <TA id="002">
 <num>TA-002</num>
 <class> 博一                           </class>
@@ -95,10 +81,10 @@
 <name> 護理哲理與知識建構 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 護理系館                      85102 </place>
 <note> 上課教室:健照所會議室(與護理系國際博士班合開) </note>
 </TA>
 
@@ -109,25 +95,11 @@
 <name> 婦女健康專論 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 教室在健照所會議室(婦女健康研究群必選) </note>
-</TA>
-
-<TA id="009">
-<num>TA-009</num>
-<class> 博二                           </class>
-<group></group>
-<name> 跨領域高齡研究新趨勢 </name>
-<teacher> 林桑伊* </teacher>
-<score> 3 </score>
-<time> [3]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 教室在健照所會議室(高齡健康與照護研究群選修) </note>
+<note> 上課地點:健照所會議室(婦女健康研究群必選) </note>
 </TA>
 
 <TA id="010">
@@ -200,20 +172,6 @@
 <note> 與心理系碩士班合開 </note>
 </TA>
 
-<TA id="015">
-<num>TA-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 腦與認知 </name>
-<teacher> 謝淑蘭* </teacher>
-<score> 3 </score>
-<time> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課教室於階梯教室；與心理系碩士班合開 </note>
-</TA>
-
 <TA id="017">
 <num>TA-017</num>
 <class></class>
@@ -228,6 +186,34 @@
 <place></place>
 <note> 
  </note>
+</TA>
+
+<TA id="018">
+<num>TA-018</num>
+<class> 博                             </class>
+<group></group>
+<name> 護理專業探究 </name>
+<teacher> 王靜枝* </teacher>
+<score> 2 </score>
+<time> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85X09 </place>
+<note> 與建照所合開 </note>
+</TA>
+
+<TA id="019">
+<num>TA-019</num>
+<class> 博                             </class>
+<group></group>
+<name> 健康照護領導與政策 </name>
+<teacher> 柯乃熒   ,  陳靜敏* </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 與建照所合開(上課教室:醫圖PBL210) </note>
 </TA>
 
 </content>

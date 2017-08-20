@@ -161,13 +161,11 @@
 <name> 管理經濟專題 </name>
 <teacher> 林正章  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [7]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      61X02 </place>
+<note></note>
 </R0>
 
 <R0 id="313">
@@ -177,13 +175,11 @@
 <name> 企業倫理與法律專題 </name>
 <teacher> 陳俊仁  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [7]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      哈佛教室 </place>
+<note></note>
 </R0>
 
 <R0 id="314">
@@ -193,13 +189,11 @@
 <name> 企業與科技管理專題 </name>
 <teacher> 王泰裕  </teacher>
 <score> 2 </score>
-<time> 
-  </time>
+<time> [7]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62X01 </place>
+<note> 需自費前往海外研習交流 </note>
 </R0>
 
 </content>

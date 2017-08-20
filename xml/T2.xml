@@ -331,10 +331,10 @@
 <name> 護理哲理與知識建構 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 護理系館                      85102 </place>
 <note> 上課教室:健照所會議室(與護理系國際博士班合開) </note>
 </T2>
 
@@ -349,7 +349,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 護理系館                      85X09 </place>
-<note> 國際博士班課程 </note>
+<note> 與建照所合開 </note>
 </T2>
 
 <T2 id="202">
@@ -359,11 +359,11 @@
 <name> 健康照護領導與政策 </name>
 <teacher> 柯乃熒   ,  陳靜敏* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85102 </place>
-<note> 國際博士班課程 </note>
+<place></place>
+<note> 與建照所合開(上課教室:醫圖PBL210) </note>
 </T2>
 
 </content>

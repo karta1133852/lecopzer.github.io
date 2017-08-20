@@ -442,6 +442,20 @@
 <note></note>
 </E5>
 
+<E5 id="108">
+<num>E5-108</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 固態物理導論（一） </name>
+<teacher> 徐邦昱  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44203 </place>
+<note></note>
+</E5>
+
 <E5 id="113">
 <num>E5-113</num>
 <class> 甲                             </class>
@@ -665,7 +679,7 @@
 <class></class>
 <group></group>
 <name> 前瞻材料之能源運用 </name>
-<teacher> 柯碧蓮   ,  吳毓純   ,  丁志明   ,  陳嘉勻* </teacher>
+<teacher> 柯碧蓮   ,  吳毓純   ,  丁志明   ,  陳嘉勻*  ,  李劍  </teacher>
 <score> 3 </score>
 <time> [5]6~8  </time>
 <must> 選修 </must>
