@@ -406,6 +406,20 @@
 <note> 碩博碩專合班，英語授課 </note>
 </N2>
 
+<N2 id="049">
+<num>N2-049</num>
+<class> 碩博                           </class>
+<group></group>
+<name> SystemC 與行為階層設計 </name>
+<teacher> 蘇培陞  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92277 </place>
+<note> 碩博碩專合班 </note>
+</N2>
+
 <N2 id="050">
 <num>N2-050</num>
 <class> 碩博                           </class>
@@ -644,20 +658,6 @@
 <note> 碩博碩專合班 </note>
 </N2>
 
-<N2 id="067">
-<num>N2-067</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 太陽能發電系統與工程 </name>
-<teacher> 楊宏澤  </teacher>
-<score> 3 </score>
-<time> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note></note>
-</N2>
-
 <N2 id="069">
 <num>N2-069</num>
 <class> 碩博                           </class>
@@ -784,20 +784,6 @@
 <note> 碩博碩專合班 </note>
 </N2>
 
-<N2 id="108">
-<num>N2-108</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 工程經濟專論 </name>
-<teacher> 楊宏澤  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 電力組 </note>
-</N2>
-
 <N2 id="109">
 <num>N2-109</num>
 <class> 碩博                           </class>
@@ -922,6 +908,20 @@
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
 <note> 碩博碩專合班，英語授課 </note>
+</N2>
+
+<N2 id="313">
+<num>N2-313</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> SystemC 與行為階層設計 </name>
+<teacher> 蘇培陞  </teacher>
+<score> 3 </score>
+<time> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92277 </place>
+<note> 碩博碩專合班 </note>
 </N2>
 
 <N2 id="314">

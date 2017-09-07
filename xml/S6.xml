@@ -38,8 +38,8 @@
 <time> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
-<note></note>
+<place></place>
+<note> 上課教室:醫學院605 </note>
 </S6>
 
 <S6 id="004">
@@ -75,7 +75,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 臨床藥學專題討論（三） </name>
-<teacher> 徐之昇   ,  洪欣儀   ,  郭賓崇   ,  吳天賞   ,  賴嘉鎮*  ,  林少紅   ,  高雅慧   ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
+<teacher> 徐之昇   ,  洪欣儀   ,  郭賓崇   ,  吳天賞   ,  賴嘉鎮   ,  林少紅   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
 <score> 1 </score>
 <time> [3]1  </time>
 <must> 必修 </must>
@@ -364,8 +364,8 @@
 <time> [1]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
-<note></note>
+<place></place>
+<note> 上課教室:醫學院605 </note>
 </S6>
 
 <S6 id="055">

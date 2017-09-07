@@ -161,7 +161,7 @@
 <name> 物質濫用深論 </name>
 <teacher> 胡書榕  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time> [5]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
@@ -266,6 +266,20 @@
 <place></place>
 <note> 
  </note>
+</U7>
+
+<U7 id="020">
+<num>U7-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 文化與行為專題（一） </name>
+<teacher> 徐欣萍  </teacher>
+<score> 3 </score>
+<time> [4]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 選課前須先email授課老師取得同意。開放大學部高年級選修，過過人數後不再加簽 </note>
 </U7>
 
 </content>

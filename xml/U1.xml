@@ -61,7 +61,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 高等政治經濟學理論 </name>
-<teacher> 鍾兆真  </teacher>
+<teacher> 未定  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 必修 </must>
@@ -275,13 +275,13 @@
 <class> 碩專一                         </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 洪敬富*  ,  鍾兆真   ,  王宏仁  </teacher>
+<teacher> 洪敬富*  ,  王宏仁  </teacher>
 <score> 0 </score>
 <time> [6]3~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    六樓研討室A </place>
-<note> 洪敬富老師*1學分, 鍾兆真及王宏仁老師各*0.5學分 </note>
+<note></note>
 </U1>
 
 <U1 id="304">

@@ -114,7 +114,7 @@
 <time> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
+<place> 醫學院                        成杏廳 </place>
 <note></note>
 </I3>
 
@@ -747,7 +747,7 @@
 <class></class>
 <group> D </group>
 <name> 臨床微生物學實習 </name>
-<teacher> 未定  </teacher>
+<teacher> 阮振維* </teacher>
 <score> 4 </score>
 <time> 
   </time>
@@ -763,7 +763,7 @@
 <class></class>
 <group> A </group>
 <name> 臨床病毒學實習 </name>
-<teacher> 王貞仁  </teacher>
+<teacher> 蔡慧頻* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -779,7 +779,7 @@
 <class></class>
 <group> B </group>
 <name> 臨床病毒學實習 </name>
-<teacher> 王貞仁  </teacher>
+<teacher> 蔡慧頻* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -795,7 +795,7 @@
 <class></class>
 <group> C </group>
 <name> 臨床病毒學實習 </name>
-<teacher> 王貞仁  </teacher>
+<teacher> 蔡慧頻* </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -811,7 +811,7 @@
 <class></class>
 <group> D </group>
 <name> 臨床病毒學實習 </name>
-<teacher> 王貞仁  </teacher>
+<teacher> 蔡慧頻* </teacher>
 <score> 1 </score>
 <time> 
   </time>

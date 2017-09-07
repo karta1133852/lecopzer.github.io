@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 林忠宏   ,  沈聖智* </teacher>
+<teacher> 黃正弘  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 林忠宏   ,  沈聖智* </teacher>
+<teacher> 黃正弘  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -103,7 +103,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 林忠宏   ,  沈聖智* </teacher>
+<teacher> 黃正弘  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -117,7 +117,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 林忠宏   ,  沈聖智* </teacher>
+<teacher> 黃正弘  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 林忠宏   ,  沈聖智* </teacher>
+<teacher> 黃正弘  </teacher>
 <score> 0 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -208,20 +208,6 @@
 <type> 講義 </type>
 <place> 系統系館                      56441 </place>
 <note></note>
-</P1>
-
-<P1 id="123">
-<num>P1-123</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 計算流體力學 </name>
-<teacher> 黃正弘  </teacher>
-<score> 3 </score>
-<time> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56441 </place>
-<note> 英文授課 </note>
 </P1>
 
 <P1 id="129">

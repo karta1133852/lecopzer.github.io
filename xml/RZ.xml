@@ -18,18 +18,30 @@
 
 <RZ id="203">
 <num>RZ-203</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 跨國管理實務融合(一) </name>
 <teacher> 林軒竹  </teacher>
 <score> 3 </score>
-<time> 
-  </time>
+<time> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      小哈佛教室 </place>
+<note> 開放網路選課(全英文授課)／密集授課詳如課程大綱 </note>
+</RZ>
+
+<RZ id="204">
+<num>RZ-204</num>
+<class> 碩                             </class>
+<group></group>
+<name> 產業動態與職涯發展 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note> 不開放網路選課 </note>
 </RZ>
 
 </content>

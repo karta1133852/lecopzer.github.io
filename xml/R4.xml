@@ -294,4 +294,32 @@
 <note></note>
 </R4>
 
+<R4 id="311">
+<num>R4-311</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 組織行為專題研討 </name>
+<teacher> 李憲達  </teacher>
+<score> 3 </score>
+<time> [6]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R4>
+
+<R4 id="312">
+<num>R4-312</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 國際行銷管理 </name>
+<teacher> 蔡惠婷  </teacher>
+<score> 3 </score>
+<time> [7]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R4>
+
 </content>

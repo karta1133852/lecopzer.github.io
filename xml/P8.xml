@@ -10,7 +10,7 @@
 <time> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5725 </place>
+<place> 醫技醫工館                    5756 </place>
 <note></note>
 </P8>
 
@@ -271,7 +271,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 組織工程 </name>
-<teacher> 曾淑芬   ,  林睿哲   ,  陳美瑾   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  楊岱樺   ,  李澤民   ,  謝達斌   ,  吳佳慶  </teacher>
+<teacher> 曾淑芬   ,  林睿哲   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  楊岱樺   ,  涂庭源   ,  李澤民   ,  謝達斌   ,  吳佳慶  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 選修 </must>
@@ -327,7 +327,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（一） </name>
-<teacher> 葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
+<teacher> 許曉芬   ,  林建宏   ,  林彥呈   ,  葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
@@ -404,6 +404,20 @@
 <type> 講義 </type>
 <place> 醫技醫工館                    5734 </place>
 <note> MDI選修/英語授課 </note>
+</P8>
+
+<P8 id="066">
+<num>P8-066</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫療器材生醫統計與臨床實驗 </name>
+<teacher> 楊岱樺  </teacher>
+<score> 3 </score>
+<time> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5725 </place>
+<note> 全英語授課；密集上課 </note>
 </P8>
 
 <P8 id="070">

@@ -243,7 +243,7 @@
 <class></class>
 <group></group>
 <name> 實驗室實習 </name>
-<teacher> 蔡坤哲*  ,  謝奇璋  </teacher>
+<teacher> 蔡坤哲*  ,  沈延盛  </teacher>
 <score> 1 </score>
 <time> 
   </time>
@@ -413,7 +413,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（一） </name>
-<teacher> 葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
+<teacher> 許曉芬   ,  林建宏   ,  林彥呈   ,  葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>
@@ -434,6 +434,20 @@
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
 <note> 上課教室在門診大樓7樓臨醫所7027教室(與公衛所合開) </note>
+</S9>
+
+<S9 id="032">
+<num>S9-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 論文選讀 </name>
+<teacher> 修臥龍* </teacher>
+<score> 1 </score>
+<time> [2]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note></note>
 </S9>
 
 <S9 id="301">
@@ -707,7 +721,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 醫療器材創新設計（一） </name>
-<teacher> 葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
+<teacher> 許曉芬   ,  林建宏   ,  林彥呈   ,  葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
 <score> 3 </score>
 <time> [3]6~8  </time>
 <must> 選修 </must>

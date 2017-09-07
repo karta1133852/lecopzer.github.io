@@ -90,7 +90,7 @@
 <time> [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 環工系館                      47111 </place>
+<place> 環工系館                      47110 </place>
 <note></note>
 </F5>
 
@@ -133,7 +133,7 @@
 <class></class>
 <group></group>
 <name> 生物學 </name>
-<teacher> 李純純*  ,  陳炳焜   ,  林鼎晏  </teacher>
+<teacher> 李純純*  ,  林鼎晏   ,  洪良宜  </teacher>
 <score> 3 </score>
 <time> [5]2~4  </time>
 <must> 必選 </must>
@@ -216,6 +216,20 @@
 <type> 講義 </type>
 <place> 環工系館                      47114 </place>
 <note></note>
+</F5>
+
+<F5 id="070">
+<num>F5-070</num>
+<class></class>
+<group></group>
+<name> 水文地質學 </name>
+<teacher> 簡錦樹  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3035 </place>
+<note> 環工系與地科系合開 </note>
 </F5>
 
 <F5 id="071">

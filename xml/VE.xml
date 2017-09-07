@@ -148,20 +148,6 @@
 <note> 碩博碩專合班，英語授課 </note>
 </VE>
 
-<VE id="016">
-<num>VE-016</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 工程經濟專論 </name>
-<teacher> 楊宏澤  </teacher>
-<score> 3 </score>
-<time> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92720 </place>
-<note> 電力組 </note>
-</VE>
-
 <VE id="018">
 <num>VE-018</num>
 <class> 碩一二                         </class>
@@ -278,13 +264,13 @@
 <num>VE-071</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 太陽能發電系統與工程 </name>
-<teacher> 楊宏澤  </teacher>
+<name> 科技英文 </name>
+<teacher> 毛齊武  </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time> [3]1~2  ,  [2]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92177 </place>
+<place> 電機系館                      92383 </place>
 <note></note>
 </VE>
 

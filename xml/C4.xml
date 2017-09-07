@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 地球科學概論（一） </name>
-<teacher> 林建宏* </teacher>
+<teacher> 林建宏*  ,  林冠瑋  </teacher>
 <score> 3 </score>
 <time> [4]3~4  ,  [5]2  </time>
 <must> 必修 </must>
@@ -457,7 +457,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3035 </place>
-<note></note>
+<note> 環工系與地科系合開 </note>
 </C4>
 
 <C4 id="164">

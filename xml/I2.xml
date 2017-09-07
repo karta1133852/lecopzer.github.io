@@ -139,7 +139,7 @@
 <class></class>
 <group></group>
 <name> 健康檢查與評估（含實習） </name>
-<teacher> 陳幸眉   ,  高綺吟*  ,  賴維淑   ,  陳宜   ,  李佳桂  </teacher>
+<teacher> 方素瓔   ,  陳幸眉   ,  高綺吟*  ,  賴維淑   ,  陳宜   ,  李佳桂  </teacher>
 <score> 3 </score>
 <time> [3]1~4  </time>
 <must> 必修 </must>
@@ -153,7 +153,7 @@
 <class></class>
 <group></group>
 <name> 病態生理學 </name>
-<teacher> 方素瓔*  ,  陳彩雲   ,  白明奇   ,  宋俊明   ,  柯文謙   ,  蔡良敏   ,  郭保麟   ,  謝式洲   ,  王崇任   ,  歐弘毅   ,  莊喬雄   ,  蘇維仁   ,  林立人   ,  王明誠  </teacher>
+<teacher> 方素瓔*  ,  陳彩雲   ,  白明奇   ,  宋俊明   ,  柯文謙   ,  蔡良敏   ,  郭保麟   ,  謝式洲   ,  王崇任   ,  歐弘毅   ,  莊喬雄   ,  蘇維仁   ,  林偉傑   ,  林立人   ,  王明誠  </teacher>
 <score> 2 </score>
 <time> [5]7~8  </time>
 <must> 必修 </must>
@@ -183,7 +183,7 @@
 <class></class>
 <group></group>
 <name> 產科護理學 </name>
-<teacher> 張瑩如   ,  許玉雲*  ,  鄭雅方   ,  張烱心   ,  郭保麟   ,  周振陽   ,  吳孟興   ,  鄭雅敏   ,  游振祥   ,  陳俞沛  </teacher>
+<teacher> 張瑩如   ,  許玉雲*  ,  鄭雅方   ,  張烱心   ,  郭保麟   ,  周振陽   ,  吳孟興   ,  鄭雅敏   ,  游振祥  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
@@ -211,7 +211,7 @@
 <class></class>
 <group></group>
 <name> 成人護理學（一） </name>
-<teacher> 張文芸*  ,  柯乃熒   ,  方素瓔   ,  陳幸眉   ,  高綺吟   ,  黃維珍   ,  賴維淑   ,  李歡芳   ,  官大紳   ,  李貽恒   ,  曾進忠   ,  陳志弘   ,  詹世鴻   ,  李南瑤   ,  羅傳堯   ,  王亮超   ,  徐慧萍  </teacher>
+<teacher> 張文芸*  ,  柯乃熒   ,  方素瓔   ,  陳幸眉   ,  高綺吟   ,  賴維淑   ,  官大紳   ,  李貽恒   ,  陳志弘   ,  李南瑤   ,  羅傳堯   ,  王亮超   ,  邱威鑫   ,  徐慧萍  </teacher>
 <score> 3 </score>
 <time> [4]2~4  </time>
 <must> 必修 </must>
@@ -239,12 +239,12 @@
 <class></class>
 <group></group>
 <name> 公共衛生概論 </name>
-<teacher> 胡淑貞* </teacher>
+<teacher> 吳政龍   ,  李俊璋   ,  胡淑貞*  ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯   ,  邱靜如  </teacher>
 <score> 2 </score>
 <time> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
+<place> 醫學院                        成杏廳 </place>
 <note></note>
 </I2>
 
@@ -253,7 +253,7 @@
 <class></class>
 <group></group>
 <name> 精神衛生護理學 </name>
-<teacher> 林梅鳳   ,  徐畢卿   ,  林靜蘭*  ,  許惠珠   ,  陳柏熹   ,  陳高欽   ,  王姿云   ,  張維紘  </teacher>
+<teacher> 林梅鳳   ,  徐畢卿   ,  林靜蘭*  ,  許惠珠   ,  陳柏熹   ,  王姿云   ,  張維紘   ,  曾懷萱  </teacher>
 <score> 3 </score>
 <time> [1]5~7  </time>
 <must> 必修 </must>
@@ -325,27 +325,13 @@
 <class></class>
 <group></group>
 <name> 精神衛生護理學實習 </name>
-<teacher> 林梅鳳   ,  徐畢卿   ,  林靜蘭* </teacher>
+<teacher> 林梅鳳   ,  徐畢卿   ,  林靜蘭*  ,  許惠珠  </teacher>
 <score> 3 </score>
 <time> [2]1~8  ,  [1]8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 護理系館                      85X09 </place>
 <note> 醫院實習，地點：週一85101，週二全天85101和85X09 </note>
-</I2>
-
-<I2 id="171">
-<num>I2-171</num>
-<class></class>
-<group></group>
-<name> 遺傳護理 </name>
-<teacher> 黃美智* </teacher>
-<score> 2 </score>
-<time> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 護理系館                      85309 </place>
-<note></note>
 </I2>
 
 </content>

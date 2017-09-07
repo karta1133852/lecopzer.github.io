@@ -222,7 +222,7 @@
 <time> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 交管系館                      62102 </place>
+<place> 交管系館                      62105 </place>
 <note> 交管所與電管所合開，電信所必修 </note>
 </R5>
 
@@ -451,6 +451,52 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
+<note> 限碩專選修 </note>
+</R5>
+
+<R5 id="309">
+<num>R5-309</num>
+<class></class>
+<group></group>
+<name> 獨立研究（二） </name>
+<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  孫雅彥   ,  林佐鼎   ,  蔡東峻  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R5>
+
+<R5 id="310">
+<num>R5-310</num>
+<class></class>
+<group></group>
+<name> 獨立研究（三） </name>
+<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  孫雅彥   ,  林佐鼎   ,  蔡東峻  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R5>
+
+<R5 id="311">
+<num>R5-311</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 多變量分析 </name>
+<teacher> 陳勁甫  </teacher>
+<score> 3 </score>
+<time> [6]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62307 </place>
 <note> 限碩專選修 </note>
 </R5>
 

@@ -178,7 +178,7 @@
 <teacher> 葉思沂  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
-<must> 必修 </must>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5897 </place>
 <note> 能源學程與航太系合開，能源學程為必修、航太系為選修 </note>
@@ -535,7 +535,7 @@
 <class></class>
 <group></group>
 <name> 航太工程實作（一） </name>
-<teacher> 李約亨  </teacher>
+<teacher> 葉思沂   ,  賴維祥* </teacher>
 <score> 2 </score>
 <time> [1]6  </time>
 <must> 選修 </must>

@@ -789,12 +789,12 @@
 <class></class>
 <group></group>
 <name> 環境污染與防治 </name>
-<teacher> 周佩欣  </teacher>
+<teacher> 王鴻博  </teacher>
 <score> 2 </score>
 <time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
-<place> 環工系館                      47118 </place>
+<place> 環工系館                      47114 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -1050,20 +1050,6 @@
 <note> 英語授課，科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
 </A9>
 
-<A9 id="180">
-<num>A9-180</num>
-<class></class>
-<group></group>
-<name> 科技醫療與社會—行動與實作 </name>
-<teacher> 陳恒安   ,  陳政宏   ,  翁裕峯   ,  王秀雲   ,  黃于玲   ,  楊倍昌* </teacher>
-<score> 1 </score>
-<time> [2]7~8  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place> 醫學院                        201D </place>
-<note> 104學年度(含)以前入學生為科際整合課程相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
-</A9>
-
 <A9 id="181">
 <num>A9-181</num>
 <class></class>
@@ -1237,7 +1223,7 @@
 <class></class>
 <group></group>
 <name> 三創與設計思維 </name>
-<teacher> 陳璽任  </teacher>
+<teacher> 周君瑞   ,  陳璽任* </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
@@ -1461,12 +1447,12 @@
 <class></class>
 <group></group>
 <name> 環境污染與防治 </name>
-<teacher> 王鴻博  </teacher>
+<teacher> 周佩欣  </teacher>
 <score> 2 </score>
 <time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
-<place> 環工系館                      47112 </place>
+<place> 環工系館                      47118 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -1664,6 +1650,20 @@
 <type> 人文學 </type>
 <place> 企管系館                      62210 </place>
 <note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="282">
+<num>A9-282</num>
+<class></class>
+<group></group>
+<name> 性別與社會 </name>
+<teacher> 陸偉明  </teacher>
+<score> 2 </score>
+<time> [3]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 科際整合領域  相關領域：人文學、社會科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="302">
@@ -2035,7 +2035,7 @@
 <class></class>
 <group></group>
 <name> 日常科技在臺灣 </name>
-<teacher> 未定  </teacher>
+<teacher> 許宏彬  </teacher>
 <score> 2 </score>
 <time> [4]5~6  </time>
 <must> 必修 </must>
