@@ -7,7 +7,7 @@
 <name> 應用電路學 </name>
 <teacher> 林瑞禮  </teacher>
 <score> 3 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -23,7 +23,7 @@
 <name> 應用電路學分析與模擬 </name>
 <teacher> 林瑞禮  </teacher>
 <score> 1 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 實習 </type>
@@ -39,7 +39,7 @@
 <name> 電力電子與電源轉換器設計 </name>
 <teacher> 梁從主  </teacher>
 <score> 3 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -55,7 +55,7 @@
 <name> 電力電子與電源轉換器實習 </name>
 <teacher> 梁從主  </teacher>
 <score> 1 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 實習 </type>
@@ -71,7 +71,7 @@
 <name> 論文研討（一） </name>
 <teacher> 蔡明祺   ,  梁從主   ,  林瑞禮  </teacher>
 <score> 1 </score>
-<time> [1]A~B  </time>
+<time day="1" s="A" e="B"> [1]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 電機系館                      靄雲廳 </place>
@@ -85,7 +85,7 @@
 <name> 專題討論（一） </name>
 <teacher> 鄭銘揚  </teacher>
 <score> 0 </score>
-<time> [4]N~5  </time>
+<time day="4" s="N" e="5"> [4]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92820 </place>
@@ -99,7 +99,7 @@
 <name> 專題討論（一） </name>
 <teacher> 王　醴  </teacher>
 <score> 0 </score>
-<time> [3]N~5  </time>
+<time day="3" s="N" e="5"> [3]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92720 </place>
@@ -113,7 +113,7 @@
 <name> 能量轉換 </name>
 <teacher> 黃世杰  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time day="2" s="A" e="C"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
@@ -127,7 +127,7 @@
 <name> 論文研討（三） </name>
 <teacher> 蔡明祺   ,  梁從主   ,  林瑞禮  </teacher>
 <score> 1 </score>
-<time> [1]A~B  </time>
+<time day="1" s="A" e="B"> [1]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 電機系館                      靄雲廳 </place>
@@ -141,7 +141,7 @@
 <name> 電力電子特論 </name>
 <teacher> 林瑞禮  </teacher>
 <score> 3 </score>
-<time> [2]B~D  </time>
+<time day="2" s="B" e="D"> [2]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
@@ -155,7 +155,7 @@
 <name> 分佈式發電系統專論 </name>
 <teacher> 王　醴  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
@@ -169,7 +169,7 @@
 <name> 風力發電系統專論 </name>
 <teacher> 王　醴  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
@@ -183,7 +183,7 @@
 <name> 馬達驅動專論 </name>
 <teacher> 陳建富  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
@@ -197,7 +197,7 @@
 <name> 保護電驛 </name>
 <teacher> 蕭純育  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time day="6" s="2" e="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
@@ -211,7 +211,7 @@
 <name> 電子電路IC設計 </name>
 <teacher> 魏嘉玲  </teacher>
 <score> 3 </score>
-<time> [2]8  ,  [3]7~8  </time>
+<time day="2" s="8" e="8"> [2]8  ,  [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92171 </place>
@@ -225,7 +225,7 @@
 <name> 數位電源控制電路與系統實作專題 </name>
 <teacher> 蔡建泓  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92283 </place>
@@ -239,7 +239,7 @@
 <name> 高等模糊控制 </name>
 <teacher> 李祖聖  </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time day="1" s="7" e="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92383 </place>
@@ -253,7 +253,7 @@
 <name> 高效率電源轉換設計專論 </name>
 <teacher> 梁從主  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time day="3" s="7" e="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
@@ -267,7 +267,7 @@
 <name> 科技英文 </name>
 <teacher> 毛齊武  </teacher>
 <score> 3 </score>
-<time> [3]1~2  ,  [2]1  </time>
+<time day="3" s="1" e="2"> [3]1~2  ,  [2]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92383 </place>
@@ -281,7 +281,7 @@
 <name> 專題討論（三） </name>
 <teacher> 莊智清  </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92820 </place>
@@ -295,7 +295,7 @@
 <name> 專題討論（三） </name>
 <teacher> 林瑞禮   ,  張簡樂仁* </teacher>
 <score> 0 </score>
-<time> [1]N~5  </time>
+<time day="1" s="N" e="5"> [1]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92720 </place>
@@ -309,7 +309,7 @@
 <name> 電力系統分析 </name>
 <teacher> 張簡樂仁  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day="1" s="2" e="3"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
@@ -323,7 +323,7 @@
 <name> 運動控制系統導論 </name>
 <teacher> 鄭銘揚  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92820 </place>
@@ -337,7 +337,7 @@
 <name> 強健控制 </name>
 <teacher> 莊智清  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92820 </place>
@@ -351,7 +351,7 @@
 <name> 多變數控制 </name>
 <teacher> 蔡聖鴻  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92820 </place>
@@ -365,7 +365,7 @@
 <name> 電機機械設計 </name>
 <teacher> 謝旻甫  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time day="4" s="7" e="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92177 </place>

@@ -7,7 +7,7 @@
 <name> 前瞻建築設計 </name>
 <teacher> 劉舜仁  </teacher>
 <score> 6 </score>
-<time> [2]1~8  ,  [5]5~8  </time>
+<time day="2" s="1" e="8"> [2]1~8  ,  [5]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -21,7 +21,7 @@
 <name> 設計專題研討 </name>
 <teacher> 鄭泰昇*  ,  蔡耀賢*  ,  劉舜仁*  ,  吳光庭* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5105 </place>
@@ -35,7 +35,7 @@
 <name> 設計作品研討 </name>
 <teacher> 劉舜仁  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
@@ -49,7 +49,7 @@
 <name> 建築與環境設計（一） </name>
 <teacher> 柳川肯  </teacher>
 <score> 4 </score>
-<time> [1]5~8  ,  [2]1~8  </time>
+<time day="1" s="5" e="8"> [1]5~8  ,  [2]1~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5102 </place>
@@ -63,7 +63,7 @@
 <name> 建築與環境設計（一） </name>
 <teacher> 張瑪龍*  ,  陳世明* </teacher>
 <score> 4 </score>
-<time> [1]5~8  ,  [2]1~8  </time>
+<time day="1" s="5" e="8"> [1]5~8  ,  [2]1~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5104 </place>
@@ -77,7 +77,7 @@
 <name> 電腦輔助設計概論 </name>
 <teacher> 簡聖芬  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5102 </place>
@@ -91,7 +91,7 @@
 <name> 智慧城市 </name>
 <teacher> 鄭泰昇  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5118 </place>
@@ -105,7 +105,7 @@
 <name> 建築資訊模型 </name>
 <teacher> 鄭泰昇  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5118 </place>
@@ -119,7 +119,7 @@
 <name> 衍生設計與方法 </name>
 <teacher> 柳川肯  </teacher>
 <score> 2 </score>
-<time> [1]3~4  </time>
+<time day="1" s="3" e="4"> [1]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5102 </place>
@@ -133,7 +133,7 @@
 <name> 文教建築 </name>
 <teacher> 陳穎澤  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5171 </place>
@@ -147,7 +147,7 @@
 <name> 未來城市 </name>
 <teacher> 解巽評   ,  賴啟銘   ,  鄭泰昇*  ,  林子平   ,  黃偉茹   ,  陳培殷   ,  藍崑展   ,  魏健宏   ,  林軒丞  </teacher>
 <score> 1 </score>
-<time> [6]2~8  </time>
+<time day="6" s="2" e="8"> [6]2~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -161,7 +161,7 @@
 <name> 專題研究（一） </name>
 <teacher> 薛丞倫*  ,  鄭泰昇*  ,  顏茂倉*  ,  柳川肯   ,  吳光庭* </teacher>
 <score> 2 </score>
-<time> [4]9~A  </time>
+<time day="4" s="9" e="A"> [4]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -175,7 +175,7 @@
 <name> 環境規劃研究方法與論文寫作 </name>
 <teacher> 陳世明*  ,  吳玉成* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5104 </place>
@@ -189,7 +189,7 @@
 <name> 歐洲都市設計原理 </name>
 <teacher> 洪傳祥  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5105 </place>
@@ -203,7 +203,7 @@
 <name> 參與式環境規劃 </name>
 <teacher> 陳世明  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5104 </place>
@@ -217,7 +217,7 @@
 <name> 都市設計理論與方法 </name>
 <teacher> 吳玉成  </teacher>
 <score> 3 </score>
-<time> [5]2~3  </time>
+<time day="5" s="2" e="3"> [5]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5126 </place>
@@ -225,7 +225,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 都市設計理論與方法 </name1>
-<time1> [5]4  </time1>
+<time1 day="5" s="4" e="4"> [5]4  </time1>
 <place1> 建築系館                      5126 </place1>
 <note1></note1>
 </N7>
@@ -237,7 +237,7 @@
 <name> 建築史之研究方法 </name>
 <teacher> 吳秉聲  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5105 </place>
@@ -251,7 +251,7 @@
 <name> 歷史建築保存調查與實務 </name>
 <teacher> 林宜君*  ,  徐明福* </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -265,7 +265,7 @@
 <name> 建築理論建構與實踐 </name>
 <teacher> 宋立文  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5117 </place>
@@ -279,7 +279,7 @@
 <name> 建築理論與批評 </name>
 <teacher> 恩宇  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5126 </place>
@@ -293,7 +293,7 @@
 <name> 結構動力學 </name>
 <teacher> 姚昭智  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5139 </place>
@@ -307,7 +307,7 @@
 <name> 結構矩陣分析 </name>
 <teacher> 鍾育霖  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5139 </place>
@@ -321,7 +321,7 @@
 <name> 鋼筋混凝土行為學 </name>
 <teacher> 杜怡萱  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5139 </place>
@@ -335,7 +335,7 @@
 <name> 建築結構專題討論 </name>
 <teacher> 杜怡萱*  ,  姚昭智*  ,  鍾育霖* </teacher>
 <score> 1 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -349,7 +349,7 @@
 <name> 鋼結構設計 </name>
 <teacher> 鍾育霖  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day="5" s="6" e="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5139 </place>
@@ -363,7 +363,7 @@
 <name> 高等工程數學 </name>
 <teacher> 陳純森  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -377,7 +377,7 @@
 <name> 建築構造研究特論 </name>
 <teacher> 葉玉祥  </teacher>
 <score> 1 </score>
-<time> [3]9  </time>
+<time day="3" s="9" e="9"> [3]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -391,7 +391,7 @@
 <name> 不動產投資開發企劃 </name>
 <teacher> 陳耀光  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5127 </place>
@@ -405,7 +405,7 @@
 <name> 當代木構造設計特論 </name>
 <teacher> 葉玉祥  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5139 </place>
@@ -419,7 +419,7 @@
 <name> 構法計畫特論 </name>
 <teacher> 陳震宇  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -433,7 +433,7 @@
 <name> 工程法律 </name>
 <teacher> 陳耀光  </teacher>
 <score> 3 </score>
-<time> [4]A~C  </time>
+<time day="4" s="A" e="C"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5172 </place>
@@ -447,7 +447,7 @@
 <name> 環境行為研究方法(一) </name>
 <teacher> 張　珩  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -461,7 +461,7 @@
 <name> 環境行為特論 </name>
 <teacher> 張　珩  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time day="4" s="7" e="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5105 </place>
@@ -475,7 +475,7 @@
 <name> 室內環境品質模擬與解析（一） </name>
 <teacher> 蔡耀賢  </teacher>
 <score> 3 </score>
-<time> [1]2  </time>
+<time day="1" s="2" e="2"> [1]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5171 </place>
@@ -483,7 +483,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 室內環境品質模擬與解析（一） </name1>
-<time1> [1]3~4  </time1>
+<time1 day="1" s="3" e="4"> [1]3~4  </time1>
 <place1> 建築研究大樓                  5171 </place1>
 <note1></note1>
 </N7>
@@ -495,7 +495,7 @@
 <name> 建築碳足跡評估 </name>
 <teacher> 林憲德  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -509,7 +509,7 @@
 <name> 永續建築環境效率評估機制(一) </name>
 <teacher> 林子平  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5171 </place>
@@ -523,7 +523,7 @@
 <name> 服務學習專題討論（一） </name>
 <teacher> 吳光庭  </teacher>
 <score> 0 </score>
-<time> [4]N  </time>
+<time day="4" s="N" e="N"> [4]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5101 </place>
@@ -537,7 +537,7 @@
 <name> 專題討論 </name>
 <teacher> 吳光庭  </teacher>
 <score> 0 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 必修 </must>
 <type> 研討 </type>
@@ -553,7 +553,7 @@
 <name> 建築研究專題討論（一） </name>
 <teacher> 顏茂倉  </teacher>
 <score> 1 </score>
-<time> [6]6  </time>
+<time day="6" s="6" e="6"> [6]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -567,7 +567,7 @@
 <name> 不動產投資開發企劃 </name>
 <teacher> 陳耀光  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5127 </place>
@@ -581,7 +581,7 @@
 <name> 工程法律 </name>
 <teacher> 陳耀光  </teacher>
 <score> 3 </score>
-<time> [4]A~C  </time>
+<time day="4" s="A" e="C"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5172 </place>
@@ -595,7 +595,7 @@
 <name> 構法計畫特論 </name>
 <teacher> 陳震宇  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  ２Ｆ會議室 </place>
@@ -609,7 +609,7 @@
 <name> 專題討論 </name>
 <teacher> 吳光庭  </teacher>
 <score> 0 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 必修 </must>
 <type> 研討 </type>

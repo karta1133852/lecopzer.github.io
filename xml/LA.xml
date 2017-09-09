@@ -7,7 +7,7 @@
 <name> 太空物理 </name>
 <teacher> 談永頤* </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -21,7 +21,7 @@
 <name> 電漿物理 </name>
 <teacher> 張博宇* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -35,7 +35,7 @@
 <name> 專題討論（一） </name>
 <teacher> 向克強* </teacher>
 <score> 1 </score>
-<time> [4]6~7  </time>
+<time day="4" s="6" e="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 綜合大樓                      48218 </place>
@@ -49,7 +49,7 @@
 <name> 專題討論（三） </name>
 <teacher> 向克強* </teacher>
 <score> 0 </score>
-<time> [4]6~7  </time>
+<time day="4" s="6" e="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 綜合大樓                      48218 </place>
@@ -63,7 +63,7 @@
 <name> 專題討論（一） </name>
 <teacher> 向克強* </teacher>
 <score> 1 </score>
-<time> [4]6~7  </time>
+<time day="4" s="6" e="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 綜合大樓                      48218 </place>
@@ -77,7 +77,7 @@
 <name> 專題討論（三） </name>
 <teacher> 向克強* </teacher>
 <score> 1 </score>
-<time> [4]6~7  </time>
+<time day="4" s="6" e="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 綜合大樓                      48218 </place>
@@ -91,7 +91,7 @@
 <name> 電動力學實習 </name>
 <teacher> 西村泰太郎* </teacher>
 <score> 3 </score>
-<time> [1]6~7  </time>
+<time day="1" s="6" e="7"> [1]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -99,7 +99,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 電動力學實習 </name1>
-<time1> [1]8~9  </time1>
+<time1 day="1" s="8" e="9"> [1]8~9  </time1>
 <place1> 綜合大樓                      48111B </place1>
 <note1></note1>
 </LA>
@@ -111,7 +111,7 @@
 <name> 脈衝功率系統 </name>
 <teacher> 張博宇* </teacher>
 <score> 3 </score>
-<time> [2]5  ,  [3]5~6  </time>
+<time day="2" s="5" e="5"> [2]5  ,  [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -125,7 +125,7 @@
 <name> 高等太空物理 </name>
 <teacher> 談永頤* </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time day="3" s="7" e="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -139,7 +139,7 @@
 <name> 太空與天文儀器發展 </name>
 <teacher> 陳炳志* </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -153,7 +153,7 @@
 <name> 近古典電漿物理 </name>
 <teacher> 向克強* </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time day="1" s="7" e="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48216 </place>
@@ -167,7 +167,7 @@
 <name> 連續體與流體力學 </name>
 <teacher> 西村泰太郎* </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48216 </place>
@@ -181,7 +181,7 @@
 <name> 電漿物理實驗設計方法 </name>
 <teacher> 河森榮一郎* </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -195,7 +195,7 @@
 <name> 介電質中的電磁與靜電波 </name>
 <teacher> 河森榮一郎* </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48216 </place>

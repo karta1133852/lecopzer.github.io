@@ -23,7 +23,8 @@
 	<header>
 		<ul>
       <li id="classQuery" title="">
-        <a class="material-icons" style="color:white;margin-left:60px;">search</a>
+        <a class="material-icons" style="color:white;margin-left:60px;cursor:pointer;"
+          onclick="showSearchPanel()">search</a>
       </li>
 			<li>
 				<a href="http://course-query.acad.ncku.edu.tw/qry/" target="_blank">課程查詢</a>
@@ -130,6 +131,12 @@
 			<button onclick="addClass(document.getElementById('formFloat'))">加入</button>
 			<a id="addA" href="javascript:void(0);" onclick="floatAddReset()" style="float:right;padding-right:30px;">關閉</a>
 	</nav>
+
+  <nav class="searchPanel" id="navSearchPanel" style="display:none;">
+    <a style="float:right; color:red; cursor:pointer;" 
+      onclick='closeSearchPanel()' class='material-icons'>clear</a><br>
+    <p style="text-align:center;">搜尋測試</p>
+  </nav>
 
 	<a href="#navAdd" id="jump">置中</a>
 </div>

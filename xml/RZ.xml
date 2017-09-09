@@ -7,7 +7,7 @@
 <name> 精實創業進階 </name>
 <teacher> 楊朝旭  </teacher>
 <score> 3 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -23,7 +23,7 @@
 <name> 跨國管理實務融合(一) </name>
 <teacher> 林軒竹  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time day="3" s="A" e="C"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      小哈佛教室 </place>
@@ -37,7 +37,7 @@
 <name> 產業動態與職涯發展 </name>
 <teacher> 張紹基  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      哈佛教室 </place>

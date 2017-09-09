@@ -635,8 +635,17 @@ function delClick() {
 function floatAdd() {
 	document.getElementById("navAddFloat").style.display = "";	
 }
+
 function floatAddReset() {
 	document.getElementById("navAddFloat").style.display = "none";	
+}
+
+function showSearchPanel() {
+	document.getElementById("navSearchPanel").style.display = "";	
+}
+
+function closeSearchPanel() {
+	document.getElementById("navSearchPanel").style.display = "none";	
 }
 
 function saveTextAsFile()

@@ -7,7 +7,7 @@
 <name> 統計學（一） </name>
 <teacher> 馬瀰嘉  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day="1" s="2" e="3"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62223 </place>
@@ -21,7 +21,7 @@
 <name> 微積分（一） </name>
 <teacher> 任眉眉  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]5  </time>
+<time day="1" s="5" e="6"> [1]5~6  ,  [3]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62223 </place>
@@ -35,7 +35,7 @@
 <name> 線性代數（一） </name>
 <teacher> 張升懋  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62223 </place>
@@ -49,7 +49,7 @@
 <name> 計算機概論 </name>
 <teacher> 李政德  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62225 </place>
@@ -63,7 +63,7 @@
 <name> 經濟學（一） </name>
 <teacher> 林常青  </teacher>
 <score> 3 </score>
-<time> [4]5~7  </time>
+<time day="4" s="5" e="7"> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62223 </place>
@@ -77,7 +77,7 @@
 <name> 服務學習（一） </name>
 <teacher> 鄭順林  </teacher>
 <score> 0 </score>
-<time> [5]4  </time>
+<time day="5" s="4" e="4"> [5]4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 統計系館                      62223 </place>
@@ -91,7 +91,7 @@
 <name> 體育（一） </name>
 <teacher> 王駿濠  </teacher>
 <score> 0 </score>
-<time> [5]7~8  </time>
+<time day="5" s="7" e="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -105,7 +105,7 @@
 <name> 管理學 </name>
 <teacher> 李憲達  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time day="5" s="5" e="7"> [5]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62117 </place>
@@ -119,7 +119,7 @@
 <name> 程式設計 </name>
 <teacher> 張欣民  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time day="2" s="7" e="9"> [2]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
 <place> 統計系館                      62225 </place>
@@ -133,7 +133,7 @@
 <name> 數理統計（一） </name>
 <teacher> 陳瑞彬  </teacher>
 <score> 4 </score>
-<time> [2]3~4  ,  [4]1~2  </time>
+<time day="2" s="3" e="4"> [2]3~4  ,  [4]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62117 </place>
@@ -147,7 +147,7 @@
 <name> 會計學（一） </name>
 <teacher> 施坤宏  </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time day="1" s="7" e="9"> [1]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62117 </place>
@@ -161,7 +161,7 @@
 <name> 個體經濟學 </name>
 <teacher> 郭彥廉  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62119 </place>
@@ -175,7 +175,7 @@
 <name> 實驗設計 </name>
 <teacher> 鄭順林  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62223 </place>
@@ -189,7 +189,7 @@
 <name> 無母數統計 </name>
 <teacher> 張欣民  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time day="3" s="3" e="4"> [3]3~4  ,  [5]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62117 </place>
@@ -203,7 +203,7 @@
 <name> 時間數列分析 </name>
 <teacher> 林良靖  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62119 </place>
@@ -217,7 +217,7 @@
 <name> 貝氏分析 </name>
 <teacher> 李國榮  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day="1" s="2" e="3"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62113 </place>
@@ -231,7 +231,7 @@
 <name> 公司理財 </name>
 <teacher> 梁少懷  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
@@ -245,7 +245,7 @@
 <name> 期貨與選擇權 </name>
 <teacher> 顏盟峯  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63211 </place>
@@ -259,7 +259,7 @@
 <name> 公司治理與財務報導—國際會計與稅務專題研 </name>
 <teacher> 王金來  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63415 </place>
@@ -273,7 +273,7 @@
 <name> 國際貿易與投資 </name>
 <teacher> 康信鴻  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day="5" s="6" e="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -287,7 +287,7 @@
 <name> 統計模擬 </name>
 <teacher> 李宜真  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time day="2" s="3" e="4"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62223 </place>
@@ -301,7 +301,7 @@
 <name> 統計諮詢 </name>
 <teacher> 嵇允嬋  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62227 </place>
@@ -315,7 +315,7 @@
 <name> 巨量資料分析 </name>
 <teacher> 鄭順林  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time day="3" s="3" e="4"> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62225 </place>
@@ -329,7 +329,7 @@
 <name> 市場調查實務 </name>
 <teacher> 李俊毅  </teacher>
 <score> 1 </score>
-<time> [5]9~A  </time>
+<time day="5" s="9" e="A"> [5]9~A  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 統計系館                      62113 </place>
@@ -343,7 +343,7 @@
 <name> 統計問題 </name>
 <teacher> 楊明宗  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62113 </place>
@@ -357,7 +357,7 @@
 <name> 品管實務 </name>
 <teacher> 潘浙楠  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62113 </place>

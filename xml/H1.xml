@@ -7,7 +7,7 @@
 <name> 微積分（一） </name>
 <teacher> 李俊毅  </teacher>
 <score> 3 </score>
-<time> [3]7~9  </time>
+<time day="3" s="7" e="9"> [3]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
@@ -21,7 +21,7 @@
 <name> 民法概要 </name>
 <teacher> 張國彬  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 必選 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -35,7 +35,7 @@
 <name> 體育（一） </name>
 <teacher> 林欣仕  </teacher>
 <score> 0 </score>
-<time> [5]7~8  </time>
+<time day="5" s="7" e="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -49,7 +49,7 @@
 <name> 初級會計學（一） </name>
 <teacher> 林囿成  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
@@ -57,7 +57,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 初級會計學（一） </name1>
-<time1> [5]1~2  </time1>
+<time1 day="5" s="1" e="2"> [5]1~2  </time1>
 <place1> 會計系館                      63101 </place1>
 <note1></note1>
 </H1>
@@ -69,7 +69,7 @@
 <name> 服務學習（一） </name>
 <teacher> 廖麗凱  </teacher>
 <score> 0 </score>
-<time> [1]9  </time>
+<time day="1" s="9" e="9"> [1]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 會計系館                      63101 </place>
@@ -83,7 +83,7 @@
 <name> 經濟學（一） </name>
 <teacher> 劉亞明  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time day="1" s="1" e="3"> [1]1~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -97,7 +97,7 @@
 <name> 統計學（一） </name>
 <teacher> 詹世煌  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
@@ -111,7 +111,7 @@
 <name> 中級會計學（一） </name>
 <teacher> 謝喻婷  </teacher>
 <score> 4 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63102 </place>
@@ -119,7 +119,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 中級會計學（一） </name1>
-<time1> [5]9~A  </time1>
+<time1 day="5" s="9" e="A"> [5]9~A  </time1>
 <place1> 會計系館                      63102 </place1>
 <note1> 研究所先修 </note1>
 </H1>
@@ -131,7 +131,7 @@
 <name> 中級會計學（一） </name>
 <teacher> 周庭楷  </teacher>
 <score> 4 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -139,7 +139,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 中級會計學（一） </name1>
-<time1> [3]9  ,  [3]5  </time1>
+<time1 day="3" s="9" e="9"> [3]9  ,  [3]5  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
@@ -151,7 +151,7 @@
 <name> 成本會計（一） </name>
 <teacher> 李政勳  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -159,7 +159,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 成本會計（一） </name1>
-<time1> [2]1  ,  [5]N  </time1>
+<time1 day="2" s="1" e="1"> [2]1  ,  [5]N  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
@@ -171,7 +171,7 @@
 <name> 服務學習（三） </name>
 <teacher> 李宏志  </teacher>
 <score> 0 </score>
-<time> [2]9  </time>
+<time day="2" s="9" e="9"> [2]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 會計系館                      63104 </place>
@@ -185,7 +185,7 @@
 <name> 高級會計學（一） </name>
 <teacher> 廖麗凱  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -193,7 +193,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 高級會計學（一） </name1>
-<time1> [2]N  ,  [4]N  </time1>
+<time1 day="2" s="N" e="N"> [2]N  ,  [4]N  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
@@ -205,7 +205,7 @@
 <name> 營業稅法及稅捐稽徵法 </name>
 <teacher> 楊博任  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day="5" s="6" e="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
@@ -219,7 +219,7 @@
 <name> 公司理財 </name>
 <teacher> 梁少懷  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
@@ -233,7 +233,7 @@
 <name> 公司法及商業會計法 </name>
 <teacher> 蘇義洲  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63211 </place>
@@ -247,7 +247,7 @@
 <name> 中級會計學（三） </name>
 <teacher> 周庭楷  </teacher>
 <score> 4 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -255,7 +255,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 中級會計學（三） </name1>
-<time1> [1]N  ,  [3]1  </time1>
+<time1 day="1" s="N" e="N"> [1]N  ,  [3]1  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
@@ -267,7 +267,7 @@
 <name> 企業經營與會計實務 </name>
 <teacher> 劉子猛  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day="5" s="6" e="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
@@ -281,7 +281,7 @@
 <name> 期貨與選擇權 </name>
 <teacher> 顏盟峯  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63211 </place>
@@ -295,7 +295,7 @@
 <name> 會計師業務及管理顧問專題 </name>
 <teacher> 龔俊吉  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63415 </place>
@@ -309,7 +309,7 @@
 <name> 所得稅法 </name>
 <teacher> 林志隆  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63211 </place>
@@ -323,7 +323,7 @@
 <name> 財務管理 </name>
 <teacher> 李宏志  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63210 </place>
@@ -337,7 +337,7 @@
 <name> 管理決策會計 </name>
 <teacher> 李政勳  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63102 </place>
@@ -351,7 +351,7 @@
 <name> 審計學（二） </name>
 <teacher> 李明憲  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63101 </place>
@@ -359,7 +359,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 審計學（二） </name1>
-<time1> [4]5  ,  [4]9  </time1>
+<time1 day="4" s="5" e="5"> [4]5  ,  [4]9  </time1>
 <place1> 會計系館                      63101 </place1>
 <note1></note1>
 </H1>
@@ -371,7 +371,7 @@
 <name> 公司治理與財務報導—國際會計與稅務專題研 </name>
 <teacher> 王金來  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63415 </place>

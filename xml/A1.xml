@@ -7,7 +7,7 @@
 <name> 跨文化溝通 </name>
 <teacher> 鍾淑玫  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -21,7 +21,7 @@
 <name> 基礎學術溝通 </name>
 <teacher> 賴諭萱  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -35,7 +35,7 @@
 <name> 職場英文 </name>
 <teacher> 曾惠鈴  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -49,7 +49,7 @@
 <name> 基礎學術溝通 </name>
 <teacher> 柯瓊琪  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26206 </place>
@@ -63,7 +63,7 @@
 <name> 跨文化溝通 </name>
 <teacher> 鍾淑玫  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -77,7 +77,7 @@
 <name> 生物科技英文 </name>
 <teacher> 吳少方  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -91,7 +91,7 @@
 <name> 職場英文 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -105,7 +105,7 @@
 <name> 創意產業英文 </name>
 <teacher> 許富貴  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26202 </place>
@@ -119,7 +119,7 @@
 <name> 基礎工程英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -133,7 +133,7 @@
 <name> 國際禮儀與溝通 </name>
 <teacher> 賴諭萱  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -147,7 +147,7 @@
 <name> 基礎學術英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -161,7 +161,7 @@
 <name> 聽力與摘記練習 </name>
 <teacher> 吳少方  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -175,7 +175,7 @@
 <name> 生物科技英文 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -189,7 +189,7 @@
 <name> 創意產業英文 </name>
 <teacher> 許富貴  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -203,7 +203,7 @@
 <name> 商業溝通英文 </name>
 <teacher> 賴諭萱  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -217,7 +217,7 @@
 <name> 英語解說與發表 </name>
 <teacher> 柯瓊琪  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26202 </place>
@@ -231,7 +231,7 @@
 <name> 基礎學術溝通 </name>
 <teacher> 鍾淑玫  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -245,7 +245,7 @@
 <name> 聽力與摘記練習 </name>
 <teacher> 陳安純  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26206 </place>
@@ -259,7 +259,7 @@
 <name> 基礎工程英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -273,7 +273,7 @@
 <name> 餐旅英文 </name>
 <teacher> 曾惠鈴  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -287,7 +287,7 @@
 <name> 職場英文 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -301,7 +301,7 @@
 <name> 閱讀文學與文化 </name>
 <teacher> 林明澤  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26302 </place>
@@ -315,7 +315,7 @@
 <name> 學術英文寫作 </name>
 <teacher> 吳少方  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -329,7 +329,7 @@
 <name> 跨文化溝通 </name>
 <teacher> 許富貴  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -343,7 +343,7 @@
 <name> 商管英文 </name>
 <teacher> 陳慧琴  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -357,7 +357,7 @@
 <name> 餐旅英文 </name>
 <teacher> 曾惠鈴  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -371,7 +371,7 @@
 <name> 基礎學術英文 </name>
 <teacher> 陳慧琴  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26206 </place>
@@ -385,7 +385,7 @@
 <name> 聽力與摘記練習 </name>
 <teacher> 唐遜宜  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -399,7 +399,7 @@
 <name> 餐旅英文 </name>
 <teacher> 賴諭萱  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -413,7 +413,7 @@
 <name> 人文醫學英文 </name>
 <teacher> 柯瓊琪  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -427,7 +427,7 @@
 <name> 創意產業英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -441,7 +441,7 @@
 <name> 學術英文寫作 </name>
 <teacher> 阮素菁  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -455,7 +455,7 @@
 <name> 閱讀文學與文化 </name>
 <teacher> 張淑麗  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26202 </place>
@@ -469,7 +469,7 @@
 <name> 跨文化溝通 </name>
 <teacher> 阮素菁  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -483,7 +483,7 @@
 <name> 基礎學術溝通 </name>
 <teacher> 陳俐文  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -497,7 +497,7 @@
 <name> 高科技產業英文 </name>
 <teacher> 吳少方  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -511,7 +511,7 @@
 <name> 商業溝通英文 </name>
 <teacher> 許富貴  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -525,7 +525,7 @@
 <name> 生物科技英文 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -539,7 +539,7 @@
 <name> 英語解說與發表 </name>
 <teacher> 陳慧琴  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26202 </place>
@@ -553,7 +553,7 @@
 <name> 基礎學術英文 </name>
 <teacher> 曾惠鈴  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -567,7 +567,7 @@
 <name> 基礎英文寫作 </name>
 <teacher> 陳俐文  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -581,7 +581,7 @@
 <name> 餐旅英文 </name>
 <teacher> 賴諭萱  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -595,7 +595,7 @@
 <name> 資訊英文 </name>
 <teacher> 柯瓊琪  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -609,7 +609,7 @@
 <name> 基礎英文寫作 </name>
 <teacher> 阮素菁  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -623,7 +623,7 @@
 <name> 基礎學術英文 </name>
 <teacher> 曾惠鈴  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -637,7 +637,7 @@
 <name> 創意產業英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -651,7 +651,7 @@
 <name> 高科技產業英文 </name>
 <teacher> 吳少方  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -665,7 +665,7 @@
 <name> 商管英文 </name>
 <teacher> 陳慧琴  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -679,7 +679,7 @@
 <name> 國際禮儀與溝通 </name>
 <teacher> 陳安純  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26202 </place>
@@ -693,7 +693,7 @@
 <name> 基礎學術英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -707,7 +707,7 @@
 <name> 聽力與摘記練習 </name>
 <teacher> 吳少方  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -721,7 +721,7 @@
 <name> 生物科技英文 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -735,7 +735,7 @@
 <name> 商業溝通英文 </name>
 <teacher> 許富貴  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26202 </place>
@@ -749,7 +749,7 @@
 <name> 人文醫學英文 </name>
 <teacher> 柯瓊琪  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26206 </place>
@@ -763,7 +763,7 @@
 <name> 職場英文 </name>
 <teacher> 曾惠鈴  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -777,7 +777,7 @@
 <name> 餐旅英文 </name>
 <teacher> 賴諭萱  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -791,7 +791,7 @@
 <name> 國際禮儀與溝通 </name>
 <teacher> 陳安純  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26302 </place>
@@ -805,7 +805,7 @@
 <name> 基礎學術溝通 </name>
 <teacher> 賴諭萱  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -819,7 +819,7 @@
 <name> 聽力與摘記練習 </name>
 <teacher> 唐遜宜  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -833,7 +833,7 @@
 <name> 餐旅英文 </name>
 <teacher> 曾惠鈴  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -847,7 +847,7 @@
 <name> 資訊英文 </name>
 <teacher> 柯瓊琪  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -861,7 +861,7 @@
 <name> 職場英文 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -875,7 +875,7 @@
 <name> 閱讀文學與文化 </name>
 <teacher> 林明澤  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26302 </place>
@@ -889,7 +889,7 @@
 <name> 英語解說與發表 </name>
 <teacher> 許富貴  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26206 </place>
@@ -903,7 +903,7 @@
 <name> 跨文化溝通 </name>
 <teacher> 許富貴  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
@@ -917,7 +917,7 @@
 <name> 聽力與摘記練習 </name>
 <teacher> 吳少方  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
@@ -931,7 +931,7 @@
 <name> 人文醫學英文 </name>
 <teacher> 柯瓊琪  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
@@ -945,7 +945,7 @@
 <name> 創意產業英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26105 </place>
@@ -959,7 +959,7 @@
 <name> 閱讀文學與文化 </name>
 <teacher> 林明澤  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26103 </place>
@@ -973,7 +973,7 @@
 <name> 基礎學術溝通 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
-<time> [4]9~A  </time>
+<time day="4" s="9" e="A"> [4]9~A  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26707 </place>
@@ -987,7 +987,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 共同教室                      A1307(資源後) </place>
@@ -1001,7 +1001,7 @@
 <name> 日文（一） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day="1" s="7" e="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1015,7 +1015,7 @@
 <name> 日文（一） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day="1" s="7" e="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1029,7 +1029,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7401 </place>
@@ -1043,7 +1043,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7401 </place>
@@ -1057,7 +1057,7 @@
 <name> 日文（一） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1071,7 +1071,7 @@
 <name> 日文（一） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1085,7 +1085,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7401 </place>
@@ -1099,7 +1099,7 @@
 <name> 日文（一） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1113,7 +1113,7 @@
 <name> 日文（一） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1127,7 +1127,7 @@
 <name> 日文（一） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1141,7 +1141,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
@@ -1155,7 +1155,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7117 </place>
@@ -1169,7 +1169,7 @@
 <name> 日文（一） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1183,7 +1183,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [5]1~2  </time>
+<time day="5" s="1" e="2"> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 空中大學                      53101 </place>
@@ -1197,7 +1197,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
@@ -1211,7 +1211,7 @@
 <name> 日文（一） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
@@ -1225,7 +1225,7 @@
 <name> 日文（一） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1239,7 +1239,7 @@
 <name> 日文（三） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day="1" s="7" e="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 共同教室                      A1303 </place>
@@ -1253,7 +1253,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1267,7 +1267,7 @@
 <name> 日文（三） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1281,7 +1281,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1295,7 +1295,7 @@
 <name> 日文（三） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
@@ -1309,7 +1309,7 @@
 <name> 日文（三） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1323,7 +1323,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1337,7 +1337,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1351,7 +1351,7 @@
 <name> 日文（三） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1365,7 +1365,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1379,7 +1379,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [5]7~8  </time>
+<time day="5" s="7" e="8"> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1393,7 +1393,7 @@
 <name> 日文（五） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7403 </place>
@@ -1407,7 +1407,7 @@
 <name> 日文（五） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1421,7 +1421,7 @@
 <name> 日文（五） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1435,7 +1435,7 @@
 <name> 日文（五） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7208 </place>
@@ -1449,7 +1449,7 @@
 <name> 日文（五） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1463,7 +1463,7 @@
 <name> 日文（七） </name>
 <teacher> 井上智鶴  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7401 </place>
@@ -1477,7 +1477,7 @@
 <name> 日文（七） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7407 </place>
@@ -1491,7 +1491,7 @@
 <name> 法文（一） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1505,7 +1505,7 @@
 <name> 法文（一） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day="1" s="7" e="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1519,7 +1519,7 @@
 <name> 法文（一） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
+<time day="2" s="1" e="2"> [2]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1533,7 +1533,7 @@
 <name> 法文（一） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1547,7 +1547,7 @@
 <name> 法文（一） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1561,7 +1561,7 @@
 <name> 法文（一） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [4]1~2  </time>
+<time day="4" s="1" e="2"> [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1575,7 +1575,7 @@
 <name> 法文（一） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1589,7 +1589,7 @@
 <name> 法文（三） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1603,7 +1603,7 @@
 <name> 法文（三） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1617,7 +1617,7 @@
 <name> 法文（五） </name>
 <teacher> 林蜀媛  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7204 </place>
@@ -1631,7 +1631,7 @@
 <name> 德文（一） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1645,7 +1645,7 @@
 <name> 德文（一） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1659,7 +1659,7 @@
 <name> 德文（一） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day="1" s="7" e="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1673,7 +1673,7 @@
 <name> 德文（一） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1687,7 +1687,7 @@
 <name> 德文（一） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1701,7 +1701,7 @@
 <name> 德文（三） </name>
 <teacher> 劉綺君  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1715,7 +1715,7 @@
 <name> 德文（三） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1729,7 +1729,7 @@
 <name> 德文（五） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>
@@ -1743,7 +1743,7 @@
 <name> 西班牙文（一） </name>
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7211 </place>
@@ -1757,7 +1757,7 @@
 <name> 西班牙文（一） </name>
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7211 </place>
@@ -1771,7 +1771,7 @@
 <name> 西班牙文（一） </name>
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7211 </place>
@@ -1785,7 +1785,7 @@
 <name> 西班牙文（一） </name>
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7313 </place>
@@ -1799,7 +1799,7 @@
 <name> 西班牙文（一） </name>
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7211 </place>
@@ -1813,7 +1813,7 @@
 <name> 西班牙文（三） </name>
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7211 </place>
@@ -1827,7 +1827,7 @@
 <name> 越南語（一） </name>
 <teacher> 蔣為文  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7115 </place>
@@ -1841,7 +1841,7 @@
 <name> 西班牙文（五） </name>
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7211 </place>

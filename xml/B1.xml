@@ -7,7 +7,7 @@
 <name> 各體文選及習作（一） </name>
 <teacher> 陳益源  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -21,7 +21,7 @@
 <name> 國學導讀（一） </name>
 <teacher> 邱詩雯  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21201 </place>
@@ -35,7 +35,7 @@
 <name> 文學概論（一） </name>
 <teacher> 陳昌明  </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
+<time day="2" s="1" e="2"> [2]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -49,7 +49,7 @@
 <name> 文學概論（一） </name>
 <teacher> 翁文嫻  </teacher>
 <score> 2 </score>
-<time> [3]1~2  </time>
+<time day="3" s="1" e="2"> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -63,7 +63,7 @@
 <name> 現代戲劇欣賞及習作（一） </name>
 <teacher> 秦嘉嫄  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -77,7 +77,7 @@
 <name> 現代戲劇欣賞及習作（一） </name>
 <teacher> 秦嘉嫄  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -91,7 +91,7 @@
 <name> 服務學習（一） </name>
 <teacher> 林朝成*  ,  邱詩雯  </teacher>
 <score> 0 </score>
-<time> [3]N  </time>
+<time day="3" s="N" e="N"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -105,7 +105,7 @@
 <name> 四書（一） </name>
 <teacher> 吳文璋  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -119,7 +119,7 @@
 <name> 語言學概論 </name>
 <teacher> 陳梅香  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -133,7 +133,7 @@
 <name> 日文（一） </name>
 <teacher> 王翠玲  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -147,7 +147,7 @@
 <name> 古典戲曲製演 </name>
 <teacher> 高美華  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      文學院演講廳 </place>
@@ -161,7 +161,7 @@
 <name> 書法 </name>
 <teacher> 黃宗義  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21202 </place>
@@ -175,7 +175,7 @@
 <name> 體育（一） </name>
 <teacher> 林欣仕  </teacher>
 <score> 0 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -189,7 +189,7 @@
 <name> 歷代文選及習作（一） </name>
 <teacher> 林耀潾  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
@@ -203,7 +203,7 @@
 <name> 詩選及習作（一） </name>
 <teacher> 陳家煌  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]1~2  </time>
+<time day="2" s="1" e="1"> [2]1  ,  [4]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
@@ -217,7 +217,7 @@
 <name> 文字學（一） </name>
 <teacher> 高佑仁  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [4]3~4  </time>
+<time day="2" s="2" e="2"> [2]2  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21201 </place>
@@ -231,7 +231,7 @@
 <name> 中國文學史（一） </name>
 <teacher> 陳昌明  </teacher>
 <score> 3 </score>
-<time> [3]1~3  </time>
+<time day="3" s="1" e="3"> [3]1~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21201 </place>
@@ -245,7 +245,7 @@
 <name> 詩經（一） </name>
 <teacher> 林耀潾  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -259,7 +259,7 @@
 <name> 世說新語 </name>
 <teacher> 江建俊  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -273,7 +273,7 @@
 <name> 現代詩欣賞及習作（一） </name>
 <teacher> 翁文嫻  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
@@ -287,7 +287,7 @@
 <name> 漢語語法 </name>
 <teacher> 仇小屏  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21208 </place>
@@ -301,7 +301,7 @@
 <name> 戲劇制演 </name>
 <teacher> 秦嘉嫄*  ,  鍾國風  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21X06 </place>
@@ -315,7 +315,7 @@
 <name> 里山里海的方案規劃與實踐 </name>
 <teacher> 林朝成  </teacher>
 <score> 2 </score>
-<time> [5]7~8  </time>
+<time day="5" s="7" e="8"> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      文學院演講廳 </place>
@@ -329,7 +329,7 @@
 <name> 美學經濟學與文創產業 </name>
 <teacher> 萬胥亭  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
@@ -343,7 +343,7 @@
 <name> 古典文學與時尚 </name>
 <teacher> 高美華  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21201 </place>
@@ -357,7 +357,7 @@
 <name> 日文（三） </name>
 <teacher> 王翠玲  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
@@ -371,7 +371,7 @@
 <name> 詞選及習作（一） </name>
 <teacher> 王偉勇  </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
+<time day="2" s="1" e="2"> [2]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -385,7 +385,7 @@
 <name> 聲韻學（一） </name>
 <teacher> 陳梅香  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [3]4  </time>
+<time day="2" s="3" e="4"> [2]3~4  ,  [3]4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21201 </place>
@@ -399,7 +399,7 @@
 <name> 現代小說欣賞及習作（一） </name>
 <teacher> 蔡玫姿  </teacher>
 <score> 2 </score>
-<time> [3]1~2  </time>
+<time day="3" s="1" e="2"> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -413,7 +413,7 @@
 <name> 現代小說欣賞及習作（一） </name>
 <teacher> 蘇偉貞  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -427,7 +427,7 @@
 <name> 中國思想史（一） </name>
 <teacher> 林朝成  </teacher>
 <score> 3 </score>
-<time> [1]2  ,  [4]3~4  </time>
+<time day="1" s="2" e="2"> [1]2  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -441,7 +441,7 @@
 <name> 左傳（一） </name>
 <teacher> 黃聖松  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21208 </place>
@@ -455,7 +455,7 @@
 <name> 老子 </name>
 <teacher> 江建俊  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day="2" s="7" e="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
@@ -469,7 +469,7 @@
 <name> 荀子 </name>
 <teacher> 吳文璋  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -483,7 +483,7 @@
 <name> 李杜詩（一） </name>
 <teacher> 陳美朱  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
@@ -497,7 +497,7 @@
 <name> 臺灣文學史（一） </name>
 <teacher> 賴麗娟  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -511,7 +511,7 @@
 <name> 民間文學及其田野調查（一） </name>
 <teacher> 陳益源  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
@@ -525,7 +525,7 @@
 <name> 學術報告寫作（一） </name>
 <teacher> 陳弘學  </teacher>
 <score> 2 </score>
-<time> [3]5~6  </time>
+<time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21208 </place>
@@ -539,7 +539,7 @@
 <name> 楚辭（一） </name>
 <teacher> 陳怡良  </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
+<time day="2" s="1" e="2"> [2]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21208 </place>
@@ -553,7 +553,7 @@
 <name> 神話與傳說（一） </name>
 <teacher> 林素娟  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21208 </place>
@@ -567,7 +567,7 @@
 <name> 應用文（一） </name>
 <teacher> 王偉勇  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day="3" s="7" e="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
@@ -581,7 +581,7 @@
 <name> 訓詁學 </name>
 <teacher> 陳梅香  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>

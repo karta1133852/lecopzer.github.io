@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 黃正弘  </teacher>
 <score> 0 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      視廳教室1F </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（三） </name>
 <teacher> 黃正弘  </teacher>
 <score> 0 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      視廳教室1F </place>
@@ -35,7 +35,7 @@
 <name> 結構動力學 </name>
 <teacher> 吳重雄  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56661 </place>
@@ -49,7 +49,7 @@
 <name> 船舶結構分析 </name>
 <teacher> 楊澤民  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56441 </place>
@@ -63,7 +63,7 @@
 <name> 漫散及非線性振動 </name>
 <teacher> 陳長鈕  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time day="4" s="7" e="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56441 </place>
@@ -77,7 +77,7 @@
 <name> 金屬材料製程及運輸產業應用實務 </name>
 <teacher> 林秋豐  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day="5" s="6" e="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
@@ -91,7 +91,7 @@
 <name> 非線性系統分析 </name>
 <teacher> 陳永裕  </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time day="3" s="5" e="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56226 </place>
@@ -105,7 +105,7 @@
 <name> 專題討論（一） </name>
 <teacher> 黃正弘  </teacher>
 <score> 0 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      視廳教室1F </place>
@@ -119,7 +119,7 @@
 <name> 專題討論（三） </name>
 <teacher> 黃正弘  </teacher>
 <score> 0 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      視廳教室1F </place>
@@ -133,7 +133,7 @@
 <name> 水下載具設計 </name>
 <teacher> 陳政宏  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56226 </place>
@@ -147,7 +147,7 @@
 <name> 離岸風電海事工程導論 </name>
 <teacher> 林宇銜  </teacher>
 <score> 3 </score>
-<time> [6]2~4  ,  [6]5~7  </time>
+<time day="6" s="2" e="4"> [6]2~4  ,  [6]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>
@@ -161,7 +161,7 @@
 <name> 專題討論 </name>
 <teacher> 黃正弘  </teacher>
 <score> 0 </score>
-<time> [3]3~4  </time>
+<time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      視廳教室1F </place>
@@ -175,7 +175,7 @@
 <name> 流體渦動學 </name>
 <teacher> 吳鴻文  </teacher>
 <score> 3 </score>
-<time> [4]2~3  ,  [4]7  </time>
+<time day="4" s="2" e="3"> [4]2~3  ,  [4]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56661 </place>
@@ -189,7 +189,7 @@
 <name> 破壞力學 </name>
 <teacher> 趙儒民  </teacher>
 <score> 3 </score>
-<time> [2]5~6  ,  [3]2  </time>
+<time day="2" s="5" e="6"> [2]5~6  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56661 </place>
@@ -203,7 +203,7 @@
 <name> 熱流原理與實驗 </name>
 <teacher> 張始偉  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time day="5" s="5" e="7"> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56441 </place>
@@ -217,7 +217,7 @@
 <name> 現代控制系統分析與設計 </name>
 <teacher> 黃正能  </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time day="1" s="7" e="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56226 </place>
@@ -231,7 +231,7 @@
 <name> 船用流體動力學 </name>
 <teacher> 方銘川  </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time day="1" s="7" e="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56441 </place>
@@ -245,7 +245,7 @@
 <name> 通訊電子學 </name>
 <teacher> 李坤洲  </teacher>
 <score> 3 </score>
-<time> [2]1~3  </time>
+<time day="2" s="1" e="3"> [2]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56441 </place>
@@ -259,7 +259,7 @@
 <name> 統計訊號處理 </name>
 <teacher> 李坤洲  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time day="1" s="1" e="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56441 </place>
@@ -273,7 +273,7 @@
 <name> 產品生命週期管理 </name>
 <teacher> 邵揮洲  </teacher>
 <score> 3 </score>
-<time> [3]B~D  </time>
+<time day="3" s="B" e="D"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>

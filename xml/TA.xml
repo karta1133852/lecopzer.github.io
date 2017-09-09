@@ -7,7 +7,7 @@
 <name> 健康照護專題討論（一） </name>
 <teacher> 王琪珍   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  柯乃熒*  ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  洪菁霞   ,  張玲慧  </teacher>
 <score> 1 </score>
-<time> [5]7~8  </time>
+<time day="5" s="7" e="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        501 </place>
@@ -21,7 +21,7 @@
 <name> 獨立研究（一） </name>
 <teacher> 王琪珍   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  黃英修*  ,  洪菁霞  </teacher>
 <score> 1 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 必修 </must>
 <type> 講義 </type>
@@ -37,7 +37,7 @@
 <name> 獨立研究（三） </name>
 <teacher> 黃美智   ,  柯乃熒   ,  許玉雲   ,  陳靜敏   ,  黃英修*  ,  郭乃文  </teacher>
 <score> 1 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 必修 </must>
 <type> 講義 </type>
@@ -53,7 +53,7 @@
 <name> 健康照護專題討論（三） </name>
 <teacher> 黃美智   ,  柯乃熒*  ,  王靜枝   ,  黃英修   ,  張玲慧   ,  郭乃文  </teacher>
 <score> 1 </score>
-<time> [5]7~8  </time>
+<time day="5" s="7" e="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        501 </place>
@@ -67,7 +67,7 @@
 <name> 護理哲理與知識建構 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 3 </score>
-<time> [2]5~7  </time>
+<time day="2" s="5" e="7"> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -81,7 +81,7 @@
 <name> 護理哲理與知識建構 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 護理系館                      85102 </place>
@@ -95,7 +95,7 @@
 <name> 婦女健康專論 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -109,7 +109,7 @@
 <name> 心理健康特論 </name>
 <teacher> 郭乃文* </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time day="3" s="5" e="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -123,7 +123,7 @@
 <name> 質性研究實作：訪談資料收集與分析 </name>
 <teacher> 陳麗光* </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        205D </place>
@@ -137,7 +137,7 @@
 <name> 智慧生活與長期照護 </name>
 <teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time day="3" s="5" e="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 物治系館                      B02 </place>
@@ -151,7 +151,7 @@
 <name> 人體動作生物力學 </name>
 <teacher> 蘇芳慶* </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5731 </place>
@@ -165,7 +165,7 @@
 <name> 腦波於認知與生活上的應用 </name>
 <teacher> 謝淑蘭* </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time day="1" s="1" e="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
@@ -179,7 +179,7 @@
 <name> 專題討論 </name>
 <teacher> 徐畢卿   ,  王靜枝   ,  黃英修*  ,  馬慧英   ,  郭乃文  </teacher>
 <score> 0 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 必修 </must>
 <type> 研討 </type>
@@ -195,7 +195,7 @@
 <name> 護理專業探究 </name>
 <teacher> 徐畢卿   ,  王靜枝*  ,  賴昭翰  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day="5" s="5" e="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 護理系館                      85X09 </place>
@@ -209,7 +209,7 @@
 <name> 健康照護領導與政策 </name>
 <teacher> 柯乃熒   ,  陳靜敏* </teacher>
 <score> 3 </score>
-<time> [4]5~7  </time>
+<time day="4" s="5" e="7"> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>

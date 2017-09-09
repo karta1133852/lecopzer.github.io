@@ -7,7 +7,7 @@
 <name> 民航實務 </name>
 <teacher> 王　宏  </teacher>
 <score> 3 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 實習 </type>
@@ -23,7 +23,7 @@
 <name> 航空氣象學 </name>
 <teacher> 陳介中  </teacher>
 <score> 3 </score>
-<time> [1]5~7  </time>
+<time day="1" s="5" e="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5836 </place>
@@ -37,7 +37,7 @@
 <name> 現代衛星導航 </name>
 <teacher> 詹劭勳  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [4]3~4  </time>
+<time day="2" s="2" e="2"> [2]2  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5821 </place>
@@ -51,7 +51,7 @@
 <name> 航空業經營與管理 </name>
 <teacher> 李振明  </teacher>
 <score> 3 </score>
-<time> [6]5~7  </time>
+<time day="6" s="5" e="7"> [6]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5833 </place>
@@ -65,7 +65,7 @@
 <name> 民航系統 </name>
 <teacher> 景鴻鑫   ,  袁曉峰* </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5833 </place>
@@ -79,7 +79,7 @@
 <name> 教學實習 </name>
 <teacher> 詹劭勳  </teacher>
 <score> 0 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 實習 </type>
@@ -95,7 +95,7 @@
 <name> 專題討論（一） </name>
 <teacher> 詹劭勳  </teacher>
 <score> 1 </score>
-<time> [5]6~7  </time>
+<time day="5" s="6" e="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 航太系館                      5833 </place>
@@ -109,7 +109,7 @@
 <name> 專題討論（三） </name>
 <teacher> 詹劭勳  </teacher>
 <score> 1 </score>
-<time> [5]6~7  </time>
+<time day="5" s="6" e="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 航太系館                      5833 </place>
@@ -123,7 +123,7 @@
 <name> 專題討論 </name>
 <teacher> 詹劭勳  </teacher>
 <score> 0 </score>
-<time> [5]6~7  </time>
+<time day="5" s="6" e="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 航太系館                      5833 </place>

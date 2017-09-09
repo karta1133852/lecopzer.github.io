@@ -7,7 +7,7 @@
 <name> 資訊管理 </name>
 <teacher> 許經明  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62335 </place>
@@ -21,7 +21,7 @@
 <name> 行銷管理 </name>
 <teacher> 賴孟寬  </teacher>
 <score> 3 </score>
-<time> [3]5~7  </time>
+<time day="3" s="5" e="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -35,7 +35,7 @@
 <name> 人力資源管理 </name>
 <teacher> 王瑜琳  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -49,7 +49,7 @@
 <name> 企業政策與策略 </name>
 <teacher> 方世杰  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time day="1" s="2" e="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -63,7 +63,7 @@
 <name> 財務管理 </name>
 <teacher> 莊雙喜  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -77,7 +77,7 @@
 <name> 策略行銷 </name>
 <teacher> 蔡燿全  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -91,7 +91,7 @@
 <name> 國際行銷管理 </name>
 <teacher> 蔡惠婷  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time day="1" s="2" e="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -105,7 +105,7 @@
 <name> 行為科學專題 </name>
 <teacher> 葉桂珍  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -119,7 +119,7 @@
 <name> 質性研究方法 </name>
 <teacher> 周信輝  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -133,7 +133,7 @@
 <name> 開放式創新管理專題 </name>
 <teacher> 陳淑惠  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62455 </place>
@@ -147,7 +147,7 @@
 <name> 管理統計學 </name>
 <teacher> 黃瀞瑩  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -161,7 +161,7 @@
 <name> 企業研究方法 </name>
 <teacher> 李憲達  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -175,7 +175,7 @@
 <name> 技術策略分析 </name>
 <teacher> 許經明  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -189,7 +189,7 @@
 <name> 專題討論 </name>
 <teacher> 葉桂珍  </teacher>
 <score> 0 </score>
-<time> [2]N  </time>
+<time day="2" s="N" e="N"> [2]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -203,7 +203,7 @@
 <name> 金融市場技術分析 </name>
 <teacher> 蔡燿全  </teacher>
 <score> 3 </score>
-<time> [4]A~C  </time>
+<time day="4" s="A" e="C"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -217,7 +217,7 @@
 <name> 企業政策與策略 </name>
 <teacher> 方世杰  </teacher>
 <score> 3 </score>
-<time> [1]B~D  </time>
+<time day="1" s="B" e="D"> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -231,7 +231,7 @@
 <name> 財務管理 </name>
 <teacher> 莊雙喜  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time day="3" s="A" e="C"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -245,7 +245,7 @@
 <name> 品牌管理 </name>
 <teacher> 賴孟寬  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time day="2" s="A" e="C"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62457 </place>
@@ -259,7 +259,7 @@
 <name> 員工訓練與發展 </name>
 <teacher> 王瑜琳  </teacher>
 <score> 3 </score>
-<time> [5]A~C  </time>
+<time day="5" s="A" e="C"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -273,7 +273,7 @@
 <name> 新產品開發與管理 </name>
 <teacher> 周信輝  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time day="2" s="A" e="C"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -287,7 +287,7 @@
 <name> 開放式創新管理專題 </name>
 <teacher> 陳淑惠  </teacher>
 <score> 3 </score>
-<time> [1]A~C  </time>
+<time day="1" s="A" e="C"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -301,7 +301,7 @@
 <name> 組織行為專題研討 </name>
 <teacher> 李憲達  </teacher>
 <score> 3 </score>
-<time> [6]6~8  </time>
+<time day="6" s="6" e="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -315,7 +315,7 @@
 <name> 國際行銷管理 </name>
 <teacher> 蔡惠婷  </teacher>
 <score> 3 </score>
-<time> [7]6~8  </time>
+<time day="7" s="6" e="8"> [7]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>

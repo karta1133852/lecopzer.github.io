@@ -7,7 +7,7 @@
 <name> 設計研究方法 </name>
 <teacher> 林蕙玟  </teacher>
 <score> 3 </score>
-<time> [1]2~3  </time>
+<time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -15,7 +15,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 設計研究方法 </name1>
-<time1> [1]4  </time1>
+<time1 day="1" s="4" e="4"> [1]4  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
 <note1></note1>
 </PA>
@@ -27,7 +27,7 @@
 <name> 文化消費理論與實踐 </name>
 <teacher> 林蕙玟  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -41,7 +41,7 @@
 <name> 創意商品設計 </name>
 <teacher> 謝孟達  </teacher>
 <score> 3 </score>
-<time> [2]2  </time>
+<time day="2" s="2" e="2"> [2]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -49,7 +49,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 創意商品設計 </name1>
-<time1> [2]3~4  </time1>
+<time1 day="2" s="3" e="4"> [2]3~4  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
 <note1> 甲(A)組核心 </note1>
 </PA>
@@ -61,7 +61,7 @@
 <name> 量化研究 </name>
 <teacher> 高如妃  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -75,7 +75,7 @@
 <name> 運算媒體 </name>
 <teacher> 卓彥廷  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -89,7 +89,7 @@
 <name> 創新管理 </name>
 <teacher> 楊佳翰  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -103,7 +103,7 @@
 <name> 產業設計實習工作坊 </name>
 <teacher> 楊佳翰  </teacher>
 <score> 3 </score>
-<time> [2]9~B  </time>
+<time day="2" s="9" e="B"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -117,7 +117,7 @@
 <name> 創意產業研析（一） </name>
 <teacher> 劉世南   ,  仲曉玲*  ,  林蕙玟  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -131,7 +131,7 @@
 <name> 創意產業體驗（一） </name>
 <teacher> 楊佳翰*  ,  卓彥廷   ,  高如妃  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -145,7 +145,7 @@
 <name> 創意設計管理 </name>
 <teacher> 仲曉玲  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -159,7 +159,7 @@
 <name> 設計思考 </name>
 <teacher> 劉世南  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -173,7 +173,7 @@
 <name> 創意服務設計 </name>
 <teacher> 仲曉玲*  ,  楊佳翰  </teacher>
 <score> 3 </score>
-<time> [4]2  </time>
+<time day="4" s="2" e="2"> [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -181,7 +181,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 創意服務設計 </name1>
-<time1> [4]3~4  </time1>
+<time1 day="4" s="3" e="4"> [4]3~4  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
 <note1> 丙組核心 </note1>
 </PA>
@@ -193,7 +193,7 @@
 <name> 互動設計研究 </name>
 <teacher> 劉世南  </teacher>
 <score> 3 </score>
-<time> [4]6  </time>
+<time day="4" s="6" e="6"> [4]6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -201,7 +201,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 互動設計研究 </name1>
-<time1> [4]7~8  </time1>
+<time1 day="4" s="7" e="8"> [4]7~8  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5153 </place1>
 <note1> 乙(B)組核心 </note1>
 </PA>
@@ -213,7 +213,7 @@
 <name> 創業實作一 </name>
 <teacher> 卓彥廷  </teacher>
 <score> 3 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -229,7 +229,7 @@
 <name> 物質文化研究 </name>
 <teacher> 高如妃  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>

@@ -36,7 +36,7 @@ $(function () {
 
 $(function() {
 	$("#classQuery").tooltip({
-		disabled: false,
+		disabled: true,
 		content: "希望有生之年可以完成他ㄏㄏ",
 		items: "li",
 		position: {
@@ -56,6 +56,12 @@ $(function() {
 		}
 	});
 
+  /*
+	$(document).on("click", "#classQuery", function(e) {
+		e.preventDefault();
+		$("#navSearchPanel").css("display","inline");
+	});
+*/
 	$(document).on({
 		mouseenter: function() {
 			registerInfo($(this).attr("id"));

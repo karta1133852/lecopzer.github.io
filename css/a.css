@@ -103,6 +103,18 @@ h1 {
 	height: 260px;
 }
 
+.searchPanel{
+	background-color: #e6e6e6;
+	position: fixed;
+	left: 15%;
+	bottom: 65%;
+	padding: 0px 0 0px 0px;
+	border: 2px solid #e6e6e6;
+	width: 70%;
+	z-index: 10;
+	box-shadow: 3px 5px 5px grey;
+}
+
 #tabs {
 	min-height: 280px;
 	margin-top:	3px;

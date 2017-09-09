@@ -7,7 +7,7 @@
 <name> 體育（一） </name>
 <teacher> 黃滄海  </teacher>
 <score> 0 </score>
-<time> [1]7~8  </time>
+<time day="1" s="7" e="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -21,7 +21,7 @@
 <name> 服務學習（一） </name>
 <teacher> 賴明德  </teacher>
 <score> 0 </score>
-<time> 
+<time day="0" s="0" e="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
