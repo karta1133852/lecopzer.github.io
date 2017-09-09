@@ -681,6 +681,7 @@ function saveTextAsFile()
 
 	downloadLink.click();
 }
+
 function destroyClickedElement(event) {
 	document.body.removeChild(event.target);
 }
@@ -710,3 +711,9 @@ function loadFileAsText() {
 	};
 	fileReader.readAsText(fileToLoad, "UTF-8");
 }
+
+function searchMain(x) {
+  alert("測試中ㄎㄎ");
+}
+
+

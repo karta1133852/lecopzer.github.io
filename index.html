@@ -136,6 +136,50 @@
     <a style="float:right; color:red; cursor:pointer;" 
       onclick='closeSearchPanel()' class='material-icons'>clear</a><br>
     <p style="text-align:center;">搜尋測試</p>
+    <form id="searchForm">
+      &nbsp;&nbsp;星期幾
+		  &nbsp;&nbsp;<input type="checkbox" id="searchDay1">1
+		  &nbsp;&nbsp;<input type="checkbox" id="searchDay2">2
+		  &nbsp;&nbsp;<input type="checkbox" id="searchDay3">3
+		  &nbsp;&nbsp;<input type="checkbox" id="searchDay4">4
+		  &nbsp;&nbsp;<input type="checkbox" id="searchDay5">5
+      <br>
+      &nbsp;&nbsp;起始節次
+      <select id="searchClassStartSelect">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="N">N</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="A">A</option>
+        <option value="B">B</option>
+        <option value="C">C</option>
+        <option value="D">D</option>
+        <option value="E">E</option>
+      </select>
+      &nbsp;&nbsp;結束節次
+      <select id="searchClassEndSelect">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="N">N</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="A">A</option>
+        <option value="B">B</option>
+        <option value="C">C</option>
+        <option value="D">D</option>
+        <option value="E">E</option>
+      </select>
+    </form>
+    <button id="searchBtn" onclick="searchMain(document.getElementById('searchForm'))">搜尋</button>
   </nav>
 
 	<a href="#navAdd" id="jump">置中</a>
