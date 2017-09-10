@@ -1,66 +1,65 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="keywords" content="ncku class,成大課表,成大排課表,課表,成大 課表,成大虛擬課表">
-		<meta name="description" content="自製成大排課表, 成大虛擬課表, 成大課表">
-		<meta http-equiv="expires" content="0">
-		<title>NCKU Class</title>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>	
-		<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
-		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-		<script src="js/show.js"></script>	
-		<script src="js/jq.js"></script>	
-		<link rel="stylesheet" type="text/css" href="css/a.css">
-		<link rel="icon" href="title.ico">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="ncku class,成大課表,成大排課表,課表,成大 課表,成大虛擬課表">
+    <meta name="description" content="自製成大排課表, 成大虛擬課表, 成大課表">
+    <meta http-equiv="expires" content="0">
+    <title>NCKU Class</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>  
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="js/show.js"></script>  
+    <script src="js/jq.js"></script>  
+    <link rel="stylesheet" type="text/css" href="css/a.css">
+    <link rel="icon" href="title.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-	</head>
+  </head>
 <body style="margin:0;">
-	<div style="font-size:27px;font-family:myF; margin:0 0 2px 0;padding:0 0 5px 0;width:100%; background-color:#262626;">
-		<a class="home" href=" ">NCKU Class</a>
-			<!--<div style="float:right;font-size:15px;padding-top:7px;letter-spacing:24px;color:#FFFFFF">排課表-成大專用</div>
+  <div style="font-size:27px;font-family:myF; margin:0 0 2px 0;padding:0 0 5px 0;width:100%; background-color:#262626;">
+    <a class="home" href=" ">NCKU Class</a>
+      <!--<div style="float:right;font-size:15px;padding-top:7px;letter-spacing:24px;color:#FFFFFF">排課表-成大專用</div>
       -->
-	<header>
-		<ul>
+  <header>
+    <ul>
       <li id="classQuery" title="">
-        <a class="material-icons" style="color:white;margin-left:60px;cursor:pointer;"
-          onclick="showSearchPanel()">search</a>
+        <a class="material-icons" style="color:white;margin-left:60px;cursor:pointer;">search</a>
       </li>
-			<li>
-				<a href="http://course-query.acad.ncku.edu.tw/qry/" target="_blank">課程查詢</a>
-			</li>
-			<li>
-				<a href="http://course.ncku.edu.tw/course/index.php?type=an" target="_blank">選課系統</a>
-			</li>
-			<li>
-				<a href="update_note.html" >更新日誌</a>
-			</li>
-			<li>
-				<a href="about.html" >關於</a>
-			</li>
-			<li>
-				<a target="_blank" href="http://goo.gl/forms/Qybr0et4Ol" >意見回報</a>
-			</li>
-		</ul>
-	</header>
-	</div>
+      <li>
+        <a href="http://course-query.acad.ncku.edu.tw/qry/" target="_blank">課程查詢</a>
+      </li>
+      <li>
+        <a href="http://course.ncku.edu.tw/course/index.php?type=an" target="_blank">選課系統</a>
+      </li>
+      <li>
+        <a href="update_note.html" >更新日誌</a>
+      </li>
+      <li>
+        <a href="about.html" >關於</a>
+      </li>
+      <li>
+        <a target="_blank" href="http://goo.gl/forms/Qybr0et4Ol" >意見回報</a>
+      </li>
+    </ul>
+  </header>
+  </div>
 
 <div id="mainpage">
   <b style="position:relative;left:3%;">課程資訊日期2017/09/07 太久沒寫網頁變智障了</b>
 <div id="tabs">
-	<ul>
-		<li><a href="#tag1">Class list</a></li>
-		<li><a href="#midNav">功能</a></li>
-	</ul>
-	<nav class="midNav" id="midNav">
-    <!--		<h1 align="center">功能表</h1> -->
-		<p align="center">
-<!--			<a href="https://github.com/lecopzer/NCKUClassWeb"style="text-decoration:none;" target="_blank">
-	歡迎有網頁前or後端經驗,且有git相關經驗者加入</a></p>
+  <ul>
+    <li><a href="#tag1">Class list</a></li>
+    <li><a href="#midNav">功能</a></li>
+  </ul>
+  <nav class="midNav" id="midNav">
+    <!--    <h1 align="center">功能表</h1> -->
+    <p align="center">
+<!--      <a href="https://github.com/lecopzer/NCKUClassWeb"style="text-decoration:none;" target="_blank">
+  歡迎有網頁前or後端經驗,且有git相關經驗者加入</a></p>
 -->
-		&nbsp;&nbsp;<input type="checkbox" id="weekendShow" onclick="showWeekend();">顯示週末
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		&nbsp;&nbsp;<input type="checkbox" id="conflictShow" onclick="checkConflictAll();" checked>顯示衝堂<br>
+    &nbsp;&nbsp;<input type="checkbox" id="weekendShow" onclick="showWeekend();">顯示週末
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;<input type="checkbox" id="conflictShow" onclick="checkConflictAll();" checked>顯示衝堂<br>
     <br>
     課程學期：
     <select id="semesterSelect">
@@ -68,69 +67,69 @@
       <option value="10502_xml">105下</option>
       <option value="10501_xml">105上</option>
     </select>
-		<br>
-		<div id="sliderBar">
-			<label for="tableSize">課表寬度：</label>
-			<input type="text" id="tableSize" readonly>
-			<div id="sliderSize"></div>
-		</div>
+    <br>
+    <div id="sliderBar">
+      <label for="tableSize">課表寬度：</label>
+      <input type="text" id="tableSize" readonly>
+      <div id="sliderSize"></div>
+    </div>
 
-	</nav>
+  </nav>
 
-	<div id="tag1" style="padding: 2px 1px 5px 4px;">
-	<div id="navClassList">
-		<div id="classList">
-		</div>
-	</div>
-	<div id="classListDetail">
-	</div>
-	<br>
-	<div id="navMiddle">	
-		<button onclick="saveTextAsFile()">存檔</button>
-		&nbsp;&nbsp;&nbsp;&nbsp;
-		讀檔：<input type="file" id="fileToLoad" ></input>
-		
-			<button onclick="loadFileAsText()">讀取</button>
-		<button id="delBtn" class="funcBtn" onclick="delClick()">刪除</button>
-	</div>
-	</div>
+  <div id="tag1" style="padding: 2px 1px 5px 4px;">
+  <div id="navClassList">
+    <div id="classList">
+    </div>
+  </div>
+  <div id="classListDetail">
+  </div>
+  <br>
+  <div id="navMiddle">  
+    <button onclick="saveTextAsFile()">存檔</button>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    讀檔：<input type="file" id="fileToLoad" ></input>
+    
+      <button onclick="loadFileAsText()">讀取</button>
+    <button id="delBtn" class="funcBtn" onclick="delClick()">刪除</button>
+  </div>
+  </div>
 
 </div>
 
 <br>
 
-	<nav class="topNav" id="navAdd">
-		<form id="form" >
-			系號： <input type="text" name="major" pattern="[A-Z0-9]{2}" maxlength="2" size="3" >
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			序號： <input type="text" name="num" pattern="[1-9]{3}" maxlength="3" size="4">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</form>
-			<br>
-			<button id="addBtn" class="addBtn" onclick="addClass(document.getElementById('form'))">加入</button>
-			<a id="addA" href="javascript:void(0);" onclick="floatAdd()" style="float:right;padding-right:30px;">浮動</a>
-	</nav>
+  <nav class="topNav" id="navAdd">
+    <form id="form" >
+      系號： <input type="text" name="major" pattern="[A-Z0-9]{2}" maxlength="2" size="3" >
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      序號： <input type="text" name="num" pattern="[1-9]{3}" maxlength="3" size="4">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </form>
+      <br>
+      <button id="addBtn" class="addBtn ui-button ui-widget ui-corner-all" onclick="addClass(document.getElementById('form'))">加入</button>
+      <a id="addA" href="javascript:void(0);" onclick="floatAdd()" style="float:right;padding-right:30px;">浮動</a>
+  </nav>
 
 
-	<section>
-		<p id="credit"	style="text-align:center;font-size:22px;font-weight:bold;">學分：</p>
-		<table id="main" border="1" style="position:relative;width: 75%; left:12.5%;">
+  <section>
+    <p id="credit"  style="text-align:center;font-size:22px;font-weight:bold;">學分：</p>
+    <table id="main" border="1" style="position:relative;width: 75%; left:12.5%;">
 
-		</table>	
-	
-	</section>	
+    </table>  
+  
+  </section>  
 
-	<div id="cellInfo" style="display:none;">
-		<button id="closeInfoBtn" onclick="closeInfo()">關閉</button>
-	</div>
-	<nav class="topNavFloat" id="navAddFloat" style="display: none;">
-		<form id="formFloat" >
+  <div id="cellInfo" style="display:none;">
+    <button id="closeInfoBtn" onclick="closeInfo()">關閉</button>
+  </div>
+  <nav class="topNavFloat" id="navAddFloat" style="display: none;">
+    <form id="formFloat" >
       <b>系號：</b> <input type="text" name="major" pattern="[A-Z0-9a-z]{2}" maxlength="2" size="4" ><br>
       <b>序號：</b> <input type="text" name="num" pattern="[1-9]{3}" maxlength="3" size="4">
-		</form>
-			<button onclick="addClass(document.getElementById('formFloat'))">加入</button>
-			<a id="addA" href="javascript:void(0);" onclick="floatAddReset()" style="float:right;padding-right:30px;">關閉</a>
-	</nav>
+    </form>
+      <button onclick="addClass(document.getElementById('formFloat'))">加入</button>
+      <a id="addA" href="javascript:void(0);" onclick="floatAddReset()" style="float:right;padding-right:30px;">關閉</a>
+  </nav>
 
   <nav class="searchPanel" id="navSearchPanel" style="display:none;">
     <a style="float:right; color:red; cursor:pointer;" 
@@ -138,11 +137,11 @@
     <p style="text-align:center;">搜尋測試</p>
     <form id="searchForm">
       &nbsp;&nbsp;星期幾
-		  &nbsp;&nbsp;<input type="checkbox" id="searchDay1">1
-		  &nbsp;&nbsp;<input type="checkbox" id="searchDay2">2
-		  &nbsp;&nbsp;<input type="checkbox" id="searchDay3">3
-		  &nbsp;&nbsp;<input type="checkbox" id="searchDay4">4
-		  &nbsp;&nbsp;<input type="checkbox" id="searchDay5">5
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay1">1
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay2">2
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay3">3
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay4">4
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay5">5
       <br>
       &nbsp;&nbsp;起始節次
       <select id="searchClassStartSelect">
@@ -182,18 +181,18 @@
     <button id="searchBtn" onclick="searchMain(document.getElementById('searchForm'))">搜尋</button>
   </nav>
 
-	<a href="#navAdd" id="jump">置中</a>
+  <a href="#navAdd" id="jump">置中</a>
 </div>
 
-	<footer>
-		<div>	
-			 <a style="float:right;" href="http://SiteStates.com" title="站長工具">
-				     <img src="http://SiteStates.com/show/image/30621.jpg" border="0" />
-				 </a>
+  <footer>
+    <div> 
+       <a style="float:right;" href="http://SiteStates.com" title="站長工具">
+             <img src="http://SiteStates.com/show/image/30621.jpg" border="0" />
+         </a>
          <b style="color:#FFFFFF;font-size:13px;">Designed by Lecopzer<br>
          NCKU ME 104</b>
-		</div>
-	</footer>
+    </div>
+  </footer>
 
 </body>
 
