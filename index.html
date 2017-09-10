@@ -132,16 +132,17 @@
   </nav>
 
   <nav class="searchPanel" id="navSearchPanel" style="display:none;">
+    <div id="searchDialog" title="dialog"></div>
     <a style="float:right; color:red; cursor:pointer;" 
       onclick='closeSearchPanel()' class='material-icons'>clear</a><br>
     <p style="text-align:center;">搜尋測試</p>
     <form id="searchForm">
       &nbsp;&nbsp;星期幾
-      &nbsp;&nbsp;<input type="checkbox" id="searchDay1">1
-      &nbsp;&nbsp;<input type="checkbox" id="searchDay2">2
-      &nbsp;&nbsp;<input type="checkbox" id="searchDay3">3
-      &nbsp;&nbsp;<input type="checkbox" id="searchDay4">4
-      &nbsp;&nbsp;<input type="checkbox" id="searchDay5">5
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay1" name="searchDayName" value="1">1
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay2" name="searchDayName" value="2">2
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay3" name="searchDayName" value="3">3
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay4" name="searchDayName" value="4">4
+      &nbsp;&nbsp;<input type="checkbox" id="searchDay5" name="searchDayName" value="5">5
       <br>
       &nbsp;&nbsp;起始節次
       <select id="searchClassStartSelect">
@@ -178,7 +179,8 @@
         <option value="E">E</option>
       </select>
     </form>
-    <button id="searchBtn" onclick="searchMain(document.getElementById('searchForm'))">搜尋</button>
+    <div id="searchResult"></div>
+    <button class="ui-button ui-corner-all" id="searchBtn">搜尋</button>
   </nav>
 
   <a href="#navAdd" id="jump">置中</a>

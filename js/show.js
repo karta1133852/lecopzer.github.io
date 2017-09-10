@@ -708,8 +708,5 @@ function loadFileAsText() {
   fileReader.readAsText(fileToLoad, "UTF-8");
 }
 
-function searchMain(x) {
-  alert("測試中ㄎㄎ");
-}
 
 

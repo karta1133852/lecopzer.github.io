@@ -106,12 +106,12 @@ h1 {
 }
 
 .searchPanel{
-  background-color: #FFFFFF;
+  background-color: #f9f9f9;
   position: fixed;
   left: 15%;
   bottom: 65%;
   padding: 0px 0 0px 0px;
-  border: 2px solid #FFFFFF;
+  border: 2px solid #f9f9f9;
   width: 70%;
   z-index: 10;
   box-shadow: 0px 0px 5px 3px grey;
@@ -427,6 +427,24 @@ section{
 .ui-widget-header{
   border: 0;
   background: white;
+}
+
+.ui-dialog-title-red{
+  background: red;
+}
+
+.ui-dialog-title-normal{
+  background: #e6e6e6;
+}
+
+.ui-dialog .ui-dialog-titlebar-close-align {
+  position: relative;
+	right: .3em;
+	top: 50%;
+	width: 20px;
+	margin: 0px 0 0 0;
+	padding: 1px;
+	height: 20px;
 }
 
 #jump {
