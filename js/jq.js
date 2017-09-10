@@ -122,8 +122,12 @@ $(function() {
     $("#searchResultList").html(""); 
     $("#searchProgressbar").css("display", "");
     var ret = false;
+    var startClassFloat = parseFloat(startClass);
+    var endClassFloat = parseFloat(endClass);
+    startClassFloat = convertClassTimeSToN(startClass, startClassFloat);
+    endClassFloat = convertClassTimeSToN(endClass, endClassFloat);
     $('input[name="searchDayName"]:checked').each(function() {
-      ret |= searchMain(maj, this.value, startClassNum, endClassNum);
+      ret |= searchMain(maj, this.value, startClassFloat, endClassFloat);
     });
     $("#searchProgressbar").css("display", "none");
     if(ret)
