@@ -130,8 +130,11 @@ $(function() {
       ret |= searchMain(maj, this.value, startClassFloat, endClassFloat);
     });
     $("#searchProgressbar").css("display", "none");
-    if(ret)
+    if(ret){
+      /*
       showNormalDialog("找完了", "有找到喔^^");
+      */
+    }
     else
       showErrorDialog("QQ沒搜到", "ㄏ");
   });
