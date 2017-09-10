@@ -315,7 +315,7 @@
 <name> 生物科技課程教學實習 </name>
 <teacher> 張純純*  ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  盧福翊  </teacher>
 <score> 1 </score>
-<time day="5" s="N" e="5"> [5]N~5  </time>
+<time day="5" s="4.5" e="5"> [5]N~5  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 資訊大樓                      75802 </place>

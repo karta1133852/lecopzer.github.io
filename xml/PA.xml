@@ -15,7 +15,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 設計研究方法 </name1>
-<time1 day="1" s="4" e="4"> [1]4  </time1>
+<time1 day="1" s="" e=""> [1]4  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
 <note1></note1>
 </PA>
@@ -49,7 +49,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 創意商品設計 </name1>
-<time1 day="2" s="3" e="4"> [2]3~4  </time1>
+<time1 day="2" s="" e=""> [2]3~4  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
 <note1> 甲(A)組核心 </note1>
 </PA>
@@ -103,7 +103,7 @@
 <name> 產業設計實習工作坊 </name>
 <teacher> 楊佳翰  </teacher>
 <score> 3 </score>
-<time day="2" s="9" e="B"> [2]9~B  </time>
+<time day="2" s="9" e="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
@@ -181,7 +181,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 創意服務設計 </name1>
-<time1 day="4" s="3" e="4"> [4]3~4  </time1>
+<time1 day="4" s="" e=""> [4]3~4  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
 <note1> 丙組核心 </note1>
 </PA>
@@ -201,7 +201,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 互動設計研究 </name1>
-<time1 day="4" s="7" e="8"> [4]7~8  </time1>
+<time1 day="4" s="" e=""> [4]7~8  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5153 </place1>
 <note1> 乙(B)組核心 </note1>
 </PA>

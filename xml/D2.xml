@@ -21,7 +21,7 @@
 <name> 服務學習（一） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 0 </score>
-<time day="3" s="N" e="N"> [3]N  </time>
+<time day="3" s="4.5" e="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 社科院大樓                    80105 </place>
@@ -147,7 +147,7 @@
 <name> 服務學習（三） </name>
 <teacher> 林易典  </teacher>
 <score> 0 </score>
-<time day="2" s="N" e="N"> [2]N  </time>
+<time day="2" s="4.5" e="4.5"> [2]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 社科院大樓                    80105 </place>

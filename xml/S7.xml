@@ -147,7 +147,7 @@
 <name> 環境毒物健康風險評估 </name>
 <teacher> 李俊璋* </teacher>
 <score> 2 </score>
-<time day="3" s="A" e="B"> [3]A~B  </time>
+<time day="3" s="10" e="11"> [3]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -287,7 +287,7 @@
 <name> 專題討論（一） </name>
 <teacher> 郭浩然   ,  王應然   ,  張志欽   ,  蘇慧貞   ,  李俊璋   ,  劉明毅   ,  蔡朋枝   ,  林明彥*  ,  吳致杰  </teacher>
 <score> 1 </score>
-<time day="4" s="9" e="A"> [4]9~A  </time>
+<time day="4" s="9" e="10"> [4]9~A  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        602 </place>
@@ -301,7 +301,7 @@
 <name> 專題討論（三） </name>
 <teacher> 郭浩然   ,  王應然   ,  張志欽   ,  蘇慧貞   ,  李俊璋   ,  劉明毅   ,  蔡朋枝   ,  林明彥*  ,  吳致杰  </teacher>
 <score> 1 </score>
-<time day="4" s="9" e="A"> [4]9~A  </time>
+<time day="4" s="9" e="10"> [4]9~A  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        602 </place>

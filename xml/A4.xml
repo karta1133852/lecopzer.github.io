@@ -259,7 +259,7 @@
 <name> 藝術生活科-視覺應用藝術教材教法 </name>
 <teacher> 吳奕芳  </teacher>
 <score> 2 </score>
-<time day="3" s="9" e="A"> [3]9~A  </time>
+<time day="3" s="9" e="10"> [3]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -395,7 +395,7 @@
 <name> 休閒教育 </name>
 <teacher> 朱朝煌  </teacher>
 <score> 2 </score>
-<time day="3" s="9" e="A"> [3]9~A  </time>
+<time day="3" s="9" e="10"> [3]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      e化創新教室 </place>

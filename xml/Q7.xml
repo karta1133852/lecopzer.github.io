@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 高國興  </teacher>
 <score> 0 </score>
-<time day="4" s="N" e="5"> [4]N~5  </time>
+<time day="4" s="4.5" e="5"> [4]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92371 </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（三） </name>
 <teacher> 高國興  </teacher>
 <score> 0 </score>
-<time day="5" s="N" e="5"> [5]N~5  </time>
+<time day="5" s="4.5" e="5"> [5]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92371 </place>
@@ -161,7 +161,7 @@
 <name> 光電元件設計與模擬 </name>
 <teacher> 張守進  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>

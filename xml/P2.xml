@@ -57,7 +57,7 @@
 <class1> 碩一二                         </class1>
 <group1></group1>
 <name1> 都市規劃資訊系統實習 </name1>
-<time1 day="2" s="6" e="8"> [2]6~8  </time1>
+<time1 day="2" s="" e=""> [2]6~8  </time1>
 <place1> 都計系館                      50221 </place1>
 <note1></note1>
 </P2>
@@ -77,7 +77,7 @@
 <class1> 碩一二                         </class1>
 <group1></group1>
 <name1> 交通運輸實習 </name1>
-<time1 day="2" s="6" e="8"> [2]6~8  </time1>
+<time1 day="2" s="" e=""> [2]6~8  </time1>
 <place1> 建築系館                      5102 </place1>
 <note1></note1>
 </P2>
@@ -97,7 +97,7 @@
 <class1> 碩一二                         </class1>
 <group1></group1>
 <name1> 都市再發展策略與更新事業計畫實習 </name1>
-<time1 day="2" s="6" e="8"> [2]6~8  </time1>
+<time1 day="2" s="" e=""> [2]6~8  </time1>
 <place1> 都計系館                      50305 </place1>
 <note1></note1>
 </P2>

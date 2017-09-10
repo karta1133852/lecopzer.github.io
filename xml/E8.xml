@@ -73,25 +73,25 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="5" s="4" e="4"> [5]4  </time1>
+<time1 day="5" s="" e=""> [5]4  </time1>
 <place1> 水利系館                      4627 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2 day="5" s="4" e="4"> [5]4  </time2>
+<time2 day="5" s="" e=""> [5]4  </time2>
 <place2> 數學系館                      3173 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
-<time3 day="5" s="4" e="4"> [5]4  </time3>
+<time3 day="5" s="" e=""> [5]4  </time3>
 <place3> 數學系館                      3172 </place3>
 <note3></note3>
 <class4></class4>
 <group4> D </group4>
 <name4> 微積分（一） </name4>
-<time4 day="5" s="4" e="4"> [5]4  </time4>
+<time4 day="5" s="" e=""> [5]4  </time4>
 <place4> 水利系館                      4620 </place4>
 <note4></note4>
 </E8>
@@ -111,7 +111,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 工程圖學 </name1>
-<time1 day="5" s="6" e="8"> [5]6~8  </time1>
+<time1 day="5" s="" e=""> [5]6~8  </time1>
 <place1> 水利系館                      4629 </place1>
 <note1> 水利系電腦教室上課 </note1>
 </E8>
@@ -243,7 +243,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 流體力學實驗 </name1>
-<time1 day="1" s="6" e="7"> [1]6~7  </time1>
+<time1 day="1" s="" e=""> [1]6~7  </time1>
 <place1> 水利系館                      4624 </place1>
 <note1> 流力實驗室 </note1>
 </E8>
@@ -263,7 +263,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 流體力學實驗 </name1>
-<time1 day="3" s="6" e="7"> [3]6~7  </time1>
+<time1 day="3" s="" e=""> [3]6~7  </time1>
 <place1> 水利系館                      4624 </place1>
 <note1> 流力實驗室 </note1>
 </E8>
@@ -359,7 +359,7 @@
 <name> 服務學習（三） </name>
 <teacher> 羅偉誠  </teacher>
 <score> 0 </score>
-<time day="2" s="N" e="N"> [2]N  </time>
+<time day="2" s="4.5" e="4.5"> [2]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 水利系館                      4625 </place>
@@ -373,7 +373,7 @@
 <name> 校外實習 </name>
 <teacher> 孫建平  </teacher>
 <score> 1 </score>
-<time day="4" s="N" e="N"> [4]N  </time>
+<time day="4" s="4.5" e="4.5"> [4]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4625 </place>
@@ -401,7 +401,7 @@
 <name> 專題研究（二） </name>
 <teacher> 董東璟  </teacher>
 <score> 1 </score>
-<time day="1" s="N" e="N"> [1]N  </time>
+<time day="1" s="4.5" e="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>
@@ -423,7 +423,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 水工結構設計 </name1>
-<time1 day="1" s="6" e="8"> [1]6~8  </time1>
+<time1 day="1" s="" e=""> [1]6~8  </time1>
 <place1> 水利系館                      4627 </place1>
 <note1></note1>
 </E8>

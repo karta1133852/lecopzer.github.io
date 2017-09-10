@@ -189,7 +189,7 @@
 <name> 飛具振動與控制 </name>
 <teacher> 楊世銘  </teacher>
 <score> 3 </score>
-<time day="3" s="N" e="6"> [3]N~6  </time>
+<time day="3" s="4.5" e="6"> [3]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5821 </place>
@@ -415,7 +415,7 @@
 <name> 燃燒與推進 </name>
 <teacher> 李約亨  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5821 </place>
@@ -429,7 +429,7 @@
 <name> 結構力學 </name>
 <teacher> 夏育群  </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5821 </place>
@@ -443,7 +443,7 @@
 <name> 控制理論與應用 </name>
 <teacher> 陳介力  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5821 </place>
@@ -457,7 +457,7 @@
 <name> 專題討論（一） </name>
 <teacher> 夏育群  </teacher>
 <score> 1 </score>
-<time day="5" s="B" e="C"> [5]B~C  </time>
+<time day="5" s="11" e="12"> [5]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 航太系館                      5821 </place>
@@ -471,7 +471,7 @@
 <name> 專題討論（三） </name>
 <teacher> 夏育群  </teacher>
 <score> 1 </score>
-<time day="5" s="B" e="C"> [5]B~C  </time>
+<time day="5" s="11" e="12"> [5]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 航太系館                      5821 </place>
@@ -485,7 +485,7 @@
 <name> 專題討論 </name>
 <teacher> 夏育群  </teacher>
 <score> 0 </score>
-<time day="5" s="B" e="C"> [5]B~C  </time>
+<time day="5" s="11" e="12"> [5]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 航太系館                      5821 </place>

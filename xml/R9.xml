@@ -65,7 +65,7 @@
 <name> 統計方法 </name>
 <teacher> 林佐鼎  </teacher>
 <score> 3 </score>
-<time day="4" s="9" e="B"> [4]9~B  </time>
+<time day="4" s="9" e="11"> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
@@ -165,7 +165,7 @@
 <name> 多變量分析 </name>
 <teacher> 陳勁甫  </teacher>
 <score> 3 </score>
-<time day="5" s="A" e="C"> [5]A~C  </time>
+<time day="5" s="10" e="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>

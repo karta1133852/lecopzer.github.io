@@ -21,7 +21,7 @@
 <name> 服務學習（一） </name>
 <teacher> 徐麗君  </teacher>
 <score> 0 </score>
-<time day="2" s="N" e="N"> [2]N  </time>
+<time day="2" s="4.5" e="4.5"> [2]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 醫技醫工館                    5777 </place>
@@ -85,7 +85,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="3" s="2" e="2"> [3]2  </time1>
+<time1 day="3" s="" e=""> [3]2  </time1>
 <place1> 共同教室                      A1307(資源後) </place1>
 <note1></note1>
 </I3>
@@ -205,7 +205,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 解剖學（含實驗） </name1>
-<time1 day="5" s="2" e="4"> [5]2~4  </time1>
+<time1 day="5" s="" e=""> [5]2~4  </time1>
 <place1></place1>
 <note1></note1>
 </I3>
@@ -297,7 +297,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 微生物學（含實驗） </name1>
-<time1 day="3" s="2" e="4"> [3]2~4  </time1>
+<time1 day="3" s="" e=""> [3]2~4  </time1>
 <place1> 醫技醫工館                    5761 </place1>
 <note1> 4F Lab </note1>
 </I3>
@@ -317,7 +317,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 血庫學（含實驗） </name1>
-<time1 day="2" s="6" e="8"> [2]6~8  </time1>
+<time1 day="2" s="" e=""> [2]6~8  </time1>
 <place1> 醫技醫工館                    5761 </place1>
 <note1> 5791實驗室 </note1>
 </I3>
@@ -353,7 +353,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 專題研究 </name1>
-<time1 day="2" s="3" e="4"> [2]3~4  </time1>
+<time1 day="2" s="" e=""> [2]3~4  </time1>
 <place1> 醫技醫工館                    5776 </place1>
 <note1></note1>
 </I3>

@@ -249,7 +249,7 @@
 <name> 政治經濟學（一） </name>
 <teacher> 宋鎮照  </teacher>
 <score> 3 </score>
-<time day="5" s="A" e="C"> [5]A~C  </time>
+<time day="5" s="10" e="12"> [5]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
@@ -263,7 +263,7 @@
 <name> 研究方法論 </name>
 <teacher> 蔣麗君   ,  楊永年*  ,  洪敬富  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
@@ -291,7 +291,7 @@
 <name> 公民政治與市民社會 </name>
 <teacher> 梁文韜   ,  李國維* </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室B </place>
@@ -305,7 +305,7 @@
 <name> 司法政治 </name>
 <teacher> 王金壽  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室B </place>
@@ -319,7 +319,7 @@
 <name> 專案規劃、評估與管理 </name>
 <teacher> 楊永年  </teacher>
 <score> 3 </score>
-<time day="1" s="A" e="C"> [1]A~C  </time>
+<time day="1" s="10" e="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室B </place>
@@ -333,7 +333,7 @@
 <name> 東南亞政經專題 </name>
 <teacher> 宋鎮照  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
@@ -347,7 +347,7 @@
 <name> 全球化下的中國網路政治經濟 </name>
 <teacher> 洪敬富  </teacher>
 <score> 3 </score>
-<time day="1" s="A" e="C"> [1]A~C  </time>
+<time day="1" s="10" e="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室C </place>

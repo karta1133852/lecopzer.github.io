@@ -15,7 +15,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="3" s="2" e="2"> [3]2  </time1>
+<time1 day="3" s="" e=""> [3]2  </time1>
 <place1> 共同教室                      A1307(資源後) </place1>
 <note1></note1>
 </I6>
@@ -97,7 +97,7 @@
 <name> 服務學習（一） </name>
 <teacher> 林桑伊   ,  洪菁霞   ,  李佩紜* </teacher>
 <score> 0 </score>
-<time day="5" s="N" e="N"> [5]N  </time>
+<time day="5" s="4.5" e="4.5"> [5]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 物治系館                      206 </place>
@@ -305,7 +305,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 小兒物理治療學及實習（一） </name1>
-<time1 day="2" s="6" e="6"> [2]6  </time1>
+<time1 day="2" s="" e=""> [2]6  </time1>
 <place1> 醫學院                        物治104 </place1>
 <note1></note1>
 </I6>
@@ -325,7 +325,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 心肺物理治療學及實習（一） </name1>
-<time1 day="2" s="8" e="8"> [2]8  </time1>
+<time1 day="2" s="" e=""> [2]8  </time1>
 <place1> 醫學院                        物治104 </place1>
 <note1></note1>
 </I6>

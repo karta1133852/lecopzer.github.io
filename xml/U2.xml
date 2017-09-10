@@ -457,7 +457,7 @@
 <name> 證券交易法專題研究（一） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 2 </score>
-<time day="2" s="A" e="B"> [2]A~B  </time>
+<time day="2" s="10" e="11"> [2]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -471,7 +471,7 @@
 <name> 刑事法基礎理論專題研究（一） </name>
 <teacher> 許澤天  </teacher>
 <score> 2 </score>
-<time day="4" s="B" e="C"> [4]B~C  </time>
+<time day="4" s="11" e="12"> [4]B~C  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -485,7 +485,7 @@
 <name> 家事事件理論與訴訟實務專題（一） </name>
 <teacher> 林易典  </teacher>
 <score> 2 </score>
-<time day="5" s="A" e="B"> [5]A~B  </time>
+<time day="5" s="10" e="11"> [5]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -499,7 +499,7 @@
 <name> 智慧財產權法案例研究（一） </name>
 <teacher> 陳思廷  </teacher>
 <score> 2 </score>
-<time day="1" s="A" e="B"> [1]A~B  </time>
+<time day="1" s="10" e="11"> [1]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>

@@ -21,7 +21,7 @@
 <name> 服務學習（一） </name>
 <teacher> 顏鴻森  </teacher>
 <score> 0 </score>
-<time day="1" s="N" e="N"> [1]N  </time>
+<time day="1" s="4.5" e="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -43,7 +43,7 @@
 <class1> 甲                             </class1>
 <group1></group1>
 <name1> 工程圖學（一） </name1>
-<time1 day="5" s="7" e="8"> [5]7~8  </time1>
+<time1 day="5" s="" e=""> [5]7~8  </time1>
 <place1> 機械系館                      91303 </place1>
 <note1></note1>
 </E1>
@@ -105,25 +105,25 @@
 <class1> 甲乙                           </class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="4" s="1" e="1"> [4]1  </time1>
+<time1 day="4" s="" e=""> [4]1  </time1>
 <place1> 唯農大樓                      7401 </place1>
 <note1></note1>
 <class2> 甲乙                           </class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2 day="4" s="1" e="1"> [4]1  </time2>
+<time2 day="4" s="" e=""> [4]1  </time2>
 <place2> 唯農大樓                      7403 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
-<time3 day="4" s="1" e="1"> [4]1  </time3>
+<time3 day="4" s="" e=""> [4]1  </time3>
 <place3> 唯農大樓                      7404 </place3>
 <note3></note3>
 <class4> 甲乙                           </class4>
 <group4> D </group4>
 <name4> 微積分（一） </name4>
-<time4 day="4" s="1" e="1"> [4]1  </time4>
+<time4 day="4" s="" e=""> [4]1  </time4>
 <place4> 唯農大樓                      7405 </place4>
 <note4></note4>
 </E1>
@@ -177,7 +177,7 @@
 <name> 服務學習（一） </name>
 <teacher> 顏鴻森  </teacher>
 <score> 0 </score>
-<time day="3" s="N" e="N"> [3]N  </time>
+<time day="3" s="4.5" e="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -199,7 +199,7 @@
 <class1> 乙                             </class1>
 <group1></group1>
 <name1> 工程圖學（一） </name1>
-<time1 day="5" s="7" e="8"> [5]7~8  </time1>
+<time1 day="5" s="" e=""> [5]7~8  </time1>
 <place1> 機械系館                      91305 </place1>
 <note1></note1>
 </E1>
@@ -275,19 +275,19 @@
 <class1> 丙                             </class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="4" s="1" e="1"> [4]1  </time1>
+<time1 day="4" s="" e=""> [4]1  </time1>
 <place1> 化工系館                      93252 </place1>
 <note1></note1>
 <class2> 丙                             </class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2 day="4" s="1" e="1"> [4]1  </time2>
+<time2 day="4" s="" e=""> [4]1  </time2>
 <place2> 化工系館                      93422 </place2>
 <note2></note2>
 <class3> 丙                             </class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
-<time3 day="4" s="1" e="1"> [4]1  </time3>
+<time3 day="4" s="" e=""> [4]1  </time3>
 <place3> 化工系館                      93356 </place3>
 <note3></note3>
 </E1>
@@ -313,7 +313,7 @@
 <name> 服務學習（一） </name>
 <teacher> 顏鴻森  </teacher>
 <score> 0 </score>
-<time day="5" s="N" e="N"> [5]N  </time>
+<time day="5" s="4.5" e="4.5"> [5]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -335,7 +335,7 @@
 <class1> 丙                             </class1>
 <group1></group1>
 <name1> 工程圖學（一） </name1>
-<time1 day="2" s="7" e="8"> [2]7~8  </time1>
+<time1 day="2" s="" e=""> [2]7~8  </time1>
 <place1> 機械系館                      91303 </place1>
 <note1></note1>
 </E1>
@@ -403,7 +403,7 @@
 <name> 服務學習（三） </name>
 <teacher> 黃文敏  </teacher>
 <score> 0 </score>
-<time day="1" s="N" e="N"> [1]N  </time>
+<time day="1" s="4.5" e="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -439,7 +439,7 @@
 <class1> 甲                             </class1>
 <group1></group1>
 <name1> 機械畫 </name1>
-<time1 day="1" s="7" e="8"> [1]7~8  </time1>
+<time1 day="1" s="" e=""> [1]7~8  </time1>
 <place1> 機械系館                      91602 </place1>
 <note1></note1>
 </E1>
@@ -487,7 +487,7 @@
 <class1> 甲                             </class1>
 <group1></group1>
 <name1> 機動學（一） </name1>
-<time1 day="2" s="9" e="9"> [2]9  </time1>
+<time1 day="2" s="" e=""> [2]9  </time1>
 <place1> 機械系館                      91203 </place1>
 <note1></note1>
 </E1>
@@ -541,7 +541,7 @@
 <name> 服務學習（三） </name>
 <teacher> 陳國聲  </teacher>
 <score> 0 </score>
-<time day="3" s="N" e="N"> [3]N  </time>
+<time day="3" s="4.5" e="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -577,7 +577,7 @@
 <class1> 乙                             </class1>
 <group1></group1>
 <name1> 機械畫 </name1>
-<time1 day="3" s="7" e="8"> [3]7~8  </time1>
+<time1 day="3" s="" e=""> [3]7~8  </time1>
 <place1> 機械系館                      91602 </place1>
 <note1></note1>
 </E1>
@@ -625,7 +625,7 @@
 <class1> 乙                             </class1>
 <group1></group1>
 <name1> 機動學（一） </name1>
-<time1 day="2" s="9" e="9"> [2]9  </time1>
+<time1 day="2" s="" e=""> [2]9  </time1>
 <place1> 機械系館                      91204 </place1>
 <note1></note1>
 </E1>
@@ -679,7 +679,7 @@
 <name> 服務學習（三） </name>
 <teacher> 陳國聲  </teacher>
 <score> 0 </score>
-<time day="5" s="N" e="N"> [5]N  </time>
+<time day="5" s="4.5" e="4.5"> [5]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -715,7 +715,7 @@
 <class1> 丙                             </class1>
 <group1></group1>
 <name1> 機械畫 </name1>
-<time1 day="2" s="7" e="8"> [2]7~8  </time1>
+<time1 day="2" s="" e=""> [2]7~8  </time1>
 <place1> 機械系館                      91307 </place1>
 <note1></note1>
 </E1>
@@ -763,7 +763,7 @@
 <class1> 丙                             </class1>
 <group1></group1>
 <name1> 機動學（一） </name1>
-<time1 day="2" s="9" e="9"> [2]9  </time1>
+<time1 day="2" s="" e=""> [2]9  </time1>
 <place1> 機械系館                      91205 </place1>
 <note1></note1>
 </E1>
@@ -859,7 +859,7 @@
 <name> 機械工程實驗（二） </name>
 <teacher> 施士塵  </teacher>
 <score> 1 </score>
-<time day="1" s="N" e="6"> [1]N~6  </time>
+<time day="1" s="4.5" e="6"> [1]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 機械系館                      91306 </place>
@@ -895,7 +895,7 @@
 <class1> 甲                             </class1>
 <group1></group1>
 <name1> 自動控制 </name1>
-<time1 day="2" s="4" e="4"> [2]4  </time1>
+<time1 day="2" s="" e=""> [2]4  </time1>
 <place1> 機械系館                      91202 </place1>
 <note1> 英語授課 </note1>
 </E1>
@@ -985,7 +985,7 @@
 <class1> 乙                             </class1>
 <group1></group1>
 <name1> 自動控制 </name1>
-<time1 day="5" s="4" e="4"> [5]4  </time1>
+<time1 day="5" s="" e=""> [5]4  </time1>
 <place1> 機械系館                      91602 </place1>
 <note1></note1>
 </E1>
@@ -1075,7 +1075,7 @@
 <class1> 丙                             </class1>
 <group1></group1>
 <name1> 自動控制 </name1>
-<time1 day="4" s="4" e="4"> [4]4  </time1>
+<time1 day="4" s="" e=""> [4]4  </time1>
 <place1> 機械系館                      91602 </place1>
 <note1></note1>
 </E1>

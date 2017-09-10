@@ -35,7 +35,7 @@
 <name> 專題討論（一） </name>
 <teacher> 許渭州*  ,  劉文超  </teacher>
 <score> 0 </score>
-<time day="2" s="9" e="A"> [2]9~A  </time>
+<time day="2" s="9" e="10"> [2]9~A  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92C01 </place>
@@ -49,7 +49,7 @@
 <name> 專題討論（三） </name>
 <teacher> 洪茂峰*  ,  王永和  </teacher>
 <score> 0 </score>
-<time day="3" s="9" e="A"> [3]9~A  </time>
+<time day="3" s="9" e="10"> [3]9~A  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92C01 </place>
@@ -105,7 +105,7 @@
 <name> 光電元件設計與模擬 </name>
 <teacher> 張守進  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>

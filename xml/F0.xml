@@ -15,7 +15,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 微積分（一） </name1>
-<time1 day="5" s="1" e="1"> [5]1  </time1>
+<time1 day="5" s="" e=""> [5]1  </time1>
 <place1> 航太系館                      5824 </place1>
 <note1></note1>
 </F0>
@@ -49,7 +49,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 計算機概論 </name1>
-<time1 day="2" s="2" e="4"> [2]2~4  </time1>
+<time1 day="2" s="" e=""> [2]2~4  </time1>
 <place1> 航太系館                      5898 </place1>
 <note1></note1>
 </F0>

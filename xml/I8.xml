@@ -49,7 +49,7 @@
 <name> 服務學習（一） </name>
 <teacher> 高雅慧  </teacher>
 <score> 0 </score>
-<time day="3" s="N" e="N"> [3]N  </time>
+<time day="3" s="4.5" e="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -71,7 +71,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="3" s="2" e="2"> [3]2  </time1>
+<time1 day="3" s="" e=""> [3]2  </time1>
 <place1> 共同教室                      A1307(資源後) </place1>
 <note1></note1>
 </I8>
@@ -305,7 +305,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 微生物學（含實驗） </name1>
-<time1 day="3" s="2" e="4"> [3]2~4  </time1>
+<time1 day="3" s="" e=""> [3]2~4  </time1>
 <place1> 醫技醫工館                    5761 </place1>
 <note1> 4F Lab </note1>
 </I8>

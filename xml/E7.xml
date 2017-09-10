@@ -15,7 +15,7 @@
 <class1> 甲乙                           </class1>
 <group1></group1>
 <name1> 建築設計（一） </name1>
-<time1 day="2" s="7" e="9"> [2]7~9  ,  [5]6~8  </time1>
+<time1 day="2" s="" e=""> [2]7~9  ,  [5]6~8  </time1>
 <place1> 建築系館                      5111 </place1>
 <note1> 及5112教室。需同時選修建築圖學 </note1>
 </E7>
@@ -27,7 +27,7 @@
 <name> 建築圖學 </name>
 <teacher> 陳品蓁  </teacher>
 <score> 2 </score>
-<time day="1" s="N" e="N"> [1]N  </time>
+<time day="1" s="4.5" e="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -35,7 +35,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 建築圖學 </name1>
-<time1 day="1" s="5" e="6"> [1]5~6  </time1>
+<time1 day="1" s="" e=""> [1]5~6  </time1>
 <place1> 建築系館                      5101 </place1>
 <note1> 5111教室及5112教室。需同時選修建築設計(一) </note1>
 </E7>
@@ -55,19 +55,19 @@
 <class1> 甲乙                           </class1>
 <group1> A </group1>
 <name1> 微積分 </name1>
-<time1 day="3" s="1" e="1"> [3]1  </time1>
+<time1 day="3" s="" e=""> [3]1  </time1>
 <place1> 建築研究大樓                  5172 </place1>
 <note1></note1>
 <class2> 甲乙                           </class2>
 <group2> B </group2>
 <name2> 微積分 </name2>
-<time2 day="3" s="1" e="1"> [3]1  </time2>
+<time2 day="3" s="" e=""> [3]1  </time2>
 <place2> 耐震大樓(建築研究大樓旁)      5127 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
 <group3> C </group3>
 <name3> 微積分 </name3>
-<time3 day="3" s="1" e="1"> [3]1  </time3>
+<time3 day="3" s="" e=""> [3]1  </time3>
 <place3> 建築系館                      5105 </place3>
 <note3></note3>
 </E7>
@@ -353,7 +353,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 建築類型研究 </name1>
-<time1 day="1" s="3" e="3"> [1]3  </time1>
+<time1 day="1" s="" e=""> [1]3  </time1>
 <place1> 建築系館                      5101 </place1>
 <note1> 需同時選修建築設計(五) </note1>
 </E7>
@@ -379,7 +379,7 @@
 <name> 建築專題設計 </name>
 <teacher> 陳震宇*  ,  陳德仁   ,  張鶴齡   ,  鄭采和  </teacher>
 <score> 5 </score>
-<time day="2" s="N" e="D"> [2]N~D  </time>
+<time day="2" s="4.5" e="13"> [2]N~D  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5132 </place>
@@ -453,7 +453,7 @@
 <name> 建築設計（八） </name>
 <teacher> 杜怡萱   ,  薛丞倫*  ,  林子平  </teacher>
 <score> 7 </score>
-<time day="1" s="9" e="C"> [1]9~C  ,  [2]N~D  </time>
+<time day="1" s="9" e="12"> [1]9~C  ,  [2]N~D  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5131 </place>

@@ -35,7 +35,7 @@
 <name> 文學批評 </name>
 <teacher> 賴俊雄  </teacher>
 <score> 3 </score>
-<time day="4" s="3" e="N"> [4]3~N  </time>
+<time day="4" s="3" e="4.5"> [4]3~N  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26510 </place>
@@ -77,7 +77,7 @@
 <name> 後殖民論述與文學研究：霍米巴巴與德勒茲 </name>
 <teacher> 楊哲銘  </teacher>
 <score> 3 </score>
-<time day="3" s="N" e="6"> [3]N~6  </time>
+<time day="3" s="4.5" e="6"> [3]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26510 </place>
@@ -133,7 +133,7 @@
 <name> 記憶與語言 </name>
 <teacher> 陳世威  </teacher>
 <score> 3 </score>
-<time day="4" s="3" e="N"> [4]3~N  </time>
+<time day="4" s="3" e="4.5"> [4]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26512 </place>
@@ -161,7 +161,7 @@
 <name> 英語為國際通用語 </name>
 <teacher> 鄒文莉  </teacher>
 <score> 3 </score>
-<time day="2" s="3" e="N"> [2]3~N  </time>
+<time day="2" s="3" e="4.5"> [2]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26512 </place>

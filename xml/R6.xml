@@ -189,7 +189,7 @@
 <name> 家族企業與企業接班 </name>
 <teacher> 林玟廷  </teacher>
 <score> 3 </score>
-<time day="4" s="3" e="N"> [4]3~N  </time>
+<time day="4" s="3" e="4.5"> [4]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 國企所                        61413 </place>

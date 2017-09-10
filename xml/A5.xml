@@ -7,7 +7,7 @@
 <name> JAVA 程式設計（一） </name>
 <teacher> 陳明輝  </teacher>
 <score> 3 </score>
-<time day="1" s="N" e="6"> [1]N~6  </time>
+<time day="1" s="4.5" e="6"> [1]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75301 </place>
@@ -21,7 +21,7 @@
 <name> JAVA 程式設計（一） </name>
 <teacher> 陳明輝  </teacher>
 <score> 3 </score>
-<time day="4" s="N" e="6"> [4]N~6  </time>
+<time day="4" s="4.5" e="6"> [4]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75301 </place>

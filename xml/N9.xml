@@ -315,7 +315,7 @@
 <name> 塑性變形理論 </name>
 <teacher> 潘文峰  </teacher>
 <score> 3 </score>
-<time day="4" s="3" e="N"> [4]3~N  </time>
+<time day="4" s="3" e="4.5"> [4]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41101 </place>
@@ -441,7 +441,7 @@
 <name> 專題討論（一） </name>
 <teacher> 王明習  </teacher>
 <score> 0 </score>
-<time day="4" s="B" e="C"> [4]B~C  </time>
+<time day="4" s="11" e="12"> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41122 </place>
@@ -455,7 +455,7 @@
 <name> 專題討論（一） </name>
 <teacher> 周榮華  </teacher>
 <score> 0 </score>
-<time day="4" s="B" e="C"> [4]B~C  </time>
+<time day="4" s="11" e="12"> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41220 </place>
@@ -469,7 +469,7 @@
 <name> 專題討論（三） </name>
 <teacher> 王明習  </teacher>
 <score> 0 </score>
-<time day="4" s="B" e="C"> [4]B~C  </time>
+<time day="4" s="11" e="12"> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41122 </place>
@@ -483,7 +483,7 @@
 <name> 專題討論（三） </name>
 <teacher> 周榮華  </teacher>
 <score> 0 </score>
-<time day="4" s="B" e="C"> [4]B~C  </time>
+<time day="4" s="11" e="12"> [4]B~C  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41220 </place>
@@ -497,7 +497,7 @@
 <name> 專題討論 </name>
 <teacher> 侯廷偉*  ,  王宗一  </teacher>
 <score> 0 </score>
-<time day="4" s="B" e="C"> [4]B~C  </time>
+<time day="4" s="11" e="12"> [4]B~C  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 工科系館                      41104 </place>
@@ -511,7 +511,7 @@
 <name> 電子構裝導論 </name>
 <teacher> 周榮華  </teacher>
 <score> 3 </score>
-<time day="2" s="B" e="D"> [2]B~D  </time>
+<time day="2" s="11" e="13"> [2]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
@@ -525,7 +525,7 @@
 <name> 振動力學 </name>
 <teacher> 王榮泰  </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
@@ -539,7 +539,7 @@
 <name> 電腦輔助工程分析與設計 </name>
 <teacher> 李輝煌  </teacher>
 <score> 3 </score>
-<time day="3" s="B" e="D"> [3]B~D  </time>
+<time day="3" s="11" e="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41102 </place>
@@ -553,7 +553,7 @@
 <name> 企業資料通訊 </name>
 <teacher> 鄧維光  </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
@@ -567,7 +567,7 @@
 <name> 物件導向程式設計 </name>
 <teacher> 王宗一  </teacher>
 <score> 3 </score>
-<time day="1" s="A" e="C"> [1]A~C  </time>
+<time day="1" s="10" e="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
@@ -581,7 +581,7 @@
 <name> 電腦視覺 </name>
 <teacher> 王明習  </teacher>
 <score> 3 </score>
-<time day="3" s="B" e="D"> [3]B~D  </time>
+<time day="3" s="11" e="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41220 </place>
@@ -595,7 +595,7 @@
 <name> 軟體工程 </name>
 <teacher> 侯廷偉  </teacher>
 <score> 3 </score>
-<time day="1" s="B" e="D"> [1]B~D  </time>
+<time day="1" s="11" e="13"> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41220 </place>
@@ -609,7 +609,7 @@
 <name> 創新與產業趨勢 </name>
 <teacher> 周榮華  </teacher>
 <score> 3 </score>
-<time day="5" s="B" e="D"> [5]B~D  </time>
+<time day="5" s="11" e="13"> [5]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41220 </place>
@@ -623,7 +623,7 @@
 <name> 封裝固力導論 </name>
 <teacher> 潘文峰  </teacher>
 <score> 3 </score>
-<time day="2" s="B" e="D"> [2]B~D  </time>
+<time day="2" s="11" e="13"> [2]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41104 </place>
@@ -637,7 +637,7 @@
 <name> 半導體材料科學 </name>
 <teacher> 趙隆山  </teacher>
 <score> 3 </score>
-<time day="1" s="B" e="D"> [1]B~D  </time>
+<time day="1" s="11" e="13"> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41111 </place>
@@ -651,7 +651,7 @@
 <name> 網路嵌入式系統應用 </name>
 <teacher> 黃悅民  </teacher>
 <score> 3 </score>
-<time day="5" s="B" e="D"> [5]B~D  </time>
+<time day="5" s="11" e="13"> [5]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41122 </place>
@@ -665,7 +665,7 @@
 <name> 管理資訊系統 </name>
 <teacher> 陳澤生  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41102 </place>

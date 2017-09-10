@@ -45,7 +45,7 @@
   </div>
 
 <div id="mainpage">
-  <b style="position:relative;left:3%;">課程資訊日期2017/09/07 太久沒寫網頁變智障了</b>
+  <b style="position:relative;left:3%;">課程資訊日期2017/09/07 測試搜尋，兩個時間以上暫時搜不到</b>
 <div id="tabs">
   <ul>
     <li><a href="#tag1">Class list</a></li>
@@ -137,6 +137,7 @@
       onclick='closeSearchPanel()' class='material-icons'>clear</a><br>
     <p style="text-align:center;">搜尋測試</p>
     <form id="searchForm">
+      &nbsp;&nbsp;系號: <input type="text" name="maj" pattern="[A-Z0-9a-z]{2}" maxlength="2" size="2"><br>
       &nbsp;&nbsp;星期幾
       &nbsp;&nbsp;<input type="checkbox" id="searchDay1" name="searchDayName" value="1">1
       &nbsp;&nbsp;<input type="checkbox" id="searchDay2" name="searchDayName" value="2">2
@@ -179,7 +180,10 @@
         <option value="E">E</option>
       </select>
     </form>
-    <div id="searchResult"></div>
+    <br>
+    <div id="searchProgressbar" style="width:50%;left:20px;"><div class="progress-label">搜尋中...</div></div>
+    <br>
+    <div id="searchResultList"></div>
     <button class="ui-button ui-corner-all" id="searchBtn">搜尋</button>
   </nav>
 

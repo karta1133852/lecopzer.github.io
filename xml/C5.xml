@@ -71,7 +71,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="3" s="2" e="2"> [3]2  </time1>
+<time1 day="3" s="" e=""> [3]2  </time1>
 <place1> 化工系館                      柏林講堂 </place1>
 <note1></note1>
 </C5>
@@ -167,7 +167,7 @@
 <name> 實驗室實習（一） </name>
 <teacher> 蔣鎮宇   ,  黃浩仁   ,  宋皇模*  ,  吳文鑾  </teacher>
 <score> 1 </score>
-<time day="1" s="N" e="N"> [1]N  ,  [2]N  ,  [5]N  </time>
+<time day="1" s="4.5" e="4.5"> [1]N  ,  [2]N  ,  [5]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 生科系館                      3417 </place>
@@ -279,7 +279,7 @@
 <name> 生命科學專題研究（一） </name>
 <teacher> 張松彬   ,  廖泓鈞   ,  劉雅心*  ,  仲澤剛史  </teacher>
 <score> 1 </score>
-<time day="5" s="9" e="B"> [5]9~B  </time>
+<time day="5" s="9" e="11"> [5]9~B  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>

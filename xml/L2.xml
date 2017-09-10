@@ -231,7 +231,7 @@
 <name> 量子資訊專題討論（三） </name>
 <teacher> 陳岳男*  ,  周忠憲  </teacher>
 <score> 2 </score>
-<time day="1" s="N" e="5"> [1]N~5  </time>
+<time day="1" s="4.5" e="5"> [1]N~5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 物理二館                      49223 </place>
@@ -245,7 +245,7 @@
 <name> 物理教學專題討論 </name>
 <teacher> 黃榮俊   ,  楊緒濃   ,  陳家駒   ,  田興龍   ,  林明發   ,  陳寬任   ,  蔡錦俊*  ,  張為民   ,  許祖斌   ,  呂欽山   ,  陳泉宏   ,  張書銓   ,  陳宜君   ,  游輝樟   ,  朱淑君   ,  陳岳男   ,  盧炎田   ,  周忠憲   ,  陳泳帆   ,  吳忠霖   ,  陳則銘   ,  苗舜培   ,  楊毅   ,  梁永成   ,  楊展其   ,  劉明豪   ,  張泰榕   ,  許瑞榮   ,  蘇漢宗   ,  蔡永東  </teacher>
 <score> 0 </score>
-<time day="5" s="N" e="N"> [5]N  ,  [4]N  </time>
+<time day="5" s="4.5" e="4.5"> [5]N  ,  [4]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 物理二館                      49X04 </place>

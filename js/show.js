@@ -641,6 +641,7 @@ function floatAddReset() {
 }
 
 function closeSearchPanel() {
+  document.getElementById("navSearchPanel").html = ""; 
   document.getElementById("navSearchPanel").style.display = "none"; 
 }
 

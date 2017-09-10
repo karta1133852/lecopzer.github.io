@@ -91,7 +91,7 @@
 <name> 服務學習（一） </name>
 <teacher> 游勝冠  </teacher>
 <score> 0 </score>
-<time day="3" s="N" e="N"> [3]N  </time>
+<time day="3" s="4.5" e="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 台文系館                      88154 </place>
@@ -315,7 +315,7 @@
 <name> 服務學習（三） </name>
 <teacher> 劉乃慈  </teacher>
 <score> 0 </score>
-<time day="3" s="N" e="N"> [3]N  </time>
+<time day="3" s="4.5" e="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 台文系館                      88155 </place>

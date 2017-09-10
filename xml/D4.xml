@@ -63,7 +63,7 @@
 <name> 服務學習（一） </name>
 <teacher> 陳欣之  </teacher>
 <score> 0 </score>
-<time day="1" s="N" e="N"> [1]N  </time>
+<time day="1" s="4.5" e="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 社科院大樓                    80101 </place>
@@ -189,7 +189,7 @@
 <name> 政治經濟學 </name>
 <teacher> 平思寧  </teacher>
 <score> 3 </score>
-<time day="2" s="N" e="6"> [2]N~6  </time>
+<time day="2" s="4.5" e="6"> [2]N~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80101 </place>

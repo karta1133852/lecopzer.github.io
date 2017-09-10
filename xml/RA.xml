@@ -65,7 +65,7 @@
 <name> 企業研究方法 </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -93,7 +93,7 @@
 <name> 研究方法（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -107,7 +107,7 @@
 <name> 專題討論（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 1 </score>
-<time day="4" s="N" e="N"> [4]N  </time>
+<time day="4" s="4.5" e="4.5"> [4]N  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 管理學院                      62203 </place>
@@ -135,7 +135,7 @@
 <name> 組織理論與管理 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -163,7 +163,7 @@
 <name> 企業決策方法 </name>
 <teacher> 潘浙楠  </teacher>
 <score> 3 </score>
-<time day="1" s="9" e="B"> [1]9~B  </time>
+<time day="1" s="9" e="11"> [1]9~B  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -289,7 +289,7 @@
 <name> 國際財務管理理論 </name>
 <teacher> 王澤世  </teacher>
 <score> 3 </score>
-<time day="5" s="A" e="C"> [5]A~C  </time>
+<time day="5" s="10" e="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -345,7 +345,7 @@
 <name> 企業研究方法 </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -373,7 +373,7 @@
 <name> 研究方法（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -387,7 +387,7 @@
 <name> 組織理論與管理 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -415,7 +415,7 @@
 <name> 企業決策方法 </name>
 <teacher> 潘浙楠  </teacher>
 <score> 3 </score>
-<time day="1" s="9" e="B"> [1]9~B  </time>
+<time day="1" s="9" e="11"> [1]9~B  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -541,7 +541,7 @@
 <name> 國際財務管理理論 </name>
 <teacher> 王澤世  </teacher>
 <score> 3 </score>
-<time day="5" s="A" e="C"> [5]A~C  </time>
+<time day="5" s="10" e="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>

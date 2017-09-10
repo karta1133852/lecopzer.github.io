@@ -43,13 +43,13 @@
 <class1> 甲                             </class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="5" s="1" e="1"> [5]1  </time1>
+<time1 day="5" s="" e=""> [5]1  </time1>
 <place1> 電機系館                      92271 </place1>
 <note1></note1>
 <class2> 甲                             </class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2 day="5" s="1" e="1"> [5]1  </time2>
+<time2 day="5" s="" e=""> [5]1  </time2>
 <place2> 電機系館                      92277 </place2>
 <note2></note2>
 </E2>
@@ -139,19 +139,19 @@
 <class1> 乙丙                           </class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="5" s="1" e="1"> [5]1  </time1>
+<time1 day="5" s="" e=""> [5]1  </time1>
 <place1> 共同教室                      A1303 </place1>
 <note1></note1>
 <class2> 乙丙                           </class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2 day="5" s="1" e="1"> [5]1  </time2>
+<time2 day="5" s="" e=""> [5]1  </time2>
 <place2> 共同教室                      A1304 </place2>
 <note2></note2>
 <class3> 乙丙                           </class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
-<time3 day="5" s="1" e="1"> [5]1  </time3>
+<time3 day="5" s="" e=""> [5]1  </time3>
 <place3> 共同教室                      A1305 </place3>
 <note3></note3>
 </E2>
@@ -583,7 +583,7 @@
 <name> 電子學（三） </name>
 <teacher> 郭泰豪  </teacher>
 <score> 3 </score>
-<time day="2" s="8" e="A"> [2]8~A  </time>
+<time day="2" s="8" e="10"> [2]8~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
@@ -653,7 +653,7 @@
 <name> 電機概論實驗 </name>
 <teacher> 楊宏澤  </teacher>
 <score> 1 </score>
-<time day="1" s="N" e="6"> [1]N~6  </time>
+<time day="1" s="4.5" e="6"> [1]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 電機系館                      92X25 </place>
@@ -709,7 +709,7 @@
 <name> 電儀表學實驗 </name>
 <teacher> 魏嘉玲  </teacher>
 <score> 1 </score>
-<time day="3" s="N" e="6"> [3]N~6  </time>
+<time day="3" s="4.5" e="6"> [3]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 電機系館                      92325 </place>
@@ -723,7 +723,7 @@
 <name> 電子學（三） </name>
 <teacher> 蔡建泓  </teacher>
 <score> 3 </score>
-<time day="2" s="8" e="A"> [2]8~A  </time>
+<time day="2" s="8" e="10"> [2]8~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92371 </place>
@@ -807,7 +807,7 @@
 <name> 電子學實驗（一） </name>
 <teacher> 盧達生  </teacher>
 <score> 1 </score>
-<time day="3" s="N" e="6"> [3]N~6  </time>
+<time day="3" s="4.5" e="6"> [3]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 電機系館                      92231 </place>
@@ -821,7 +821,7 @@
 <name> 電子學實驗（一） </name>
 <teacher> 蔡建泓  </teacher>
 <score> 1 </score>
-<time day="1" s="N" e="6"> [1]N~6  </time>
+<time day="1" s="4.5" e="6"> [1]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 電機系館                      92231 </place>
@@ -863,7 +863,7 @@
 <name> 電子學（三） </name>
 <teacher> 雷曉方  </teacher>
 <score> 3 </score>
-<time day="2" s="8" e="A"> [2]8~A  </time>
+<time day="2" s="8" e="10"> [2]8~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92383 </place>
@@ -905,7 +905,7 @@
 <name> 電機概論實驗 </name>
 <teacher> 張簡樂仁  </teacher>
 <score> 1 </score>
-<time day="5" s="N" e="6"> [5]N~6  </time>
+<time day="5" s="4.5" e="6"> [5]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 電機系館                      92X25 </place>
@@ -919,7 +919,7 @@
 <name> 電機概論實驗 </name>
 <teacher> 張簡樂仁  </teacher>
 <score> 1 </score>
-<time day="3" s="N" e="6"> [3]N~6  </time>
+<time day="3" s="4.5" e="6"> [3]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 電機系館                      92X25 </place>
@@ -975,7 +975,7 @@
 <name> 電儀表學實驗 </name>
 <teacher> 李順裕  </teacher>
 <score> 1 </score>
-<time day="1" s="N" e="6"> [1]N~6  </time>
+<time day="1" s="4.5" e="6"> [1]N~6  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 電機系館                      92325 </place>

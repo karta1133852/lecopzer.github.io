@@ -99,7 +99,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="3" s="2" e="2"> [3]2  </time1>
+<time1 day="3" s="" e=""> [3]2  </time1>
 <place1> 化工系館                      柏林講堂 </place1>
 <note1></note1>
 </C6>
@@ -265,7 +265,7 @@
 <name> 實驗室實習（一） </name>
 <teacher> 林鼎晏*  ,  盧福翊* </teacher>
 <score> 1 </score>
-<time day="3" s="N" e="N"> [3]N  ,  [4]N  ,  [2]N  </time>
+<time day="3" s="4.5" e="4.5"> [3]N  ,  [4]N  ,  [2]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 共同教室                      A1304 </place>

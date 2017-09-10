@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 鄭銘揚  </teacher>
 <score> 0 </score>
-<time day="4" s="N" e="5"> [4]N~5  </time>
+<time day="4" s="4.5" e="5"> [4]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92820 </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（一） </name>
 <teacher> 王　醴  </teacher>
 <score> 0 </score>
-<time day="3" s="N" e="5"> [3]N~5  </time>
+<time day="3" s="4.5" e="5"> [3]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92720 </place>
@@ -35,7 +35,7 @@
 <name> 能量轉換 </name>
 <teacher> 黃世杰  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
@@ -49,7 +49,7 @@
 <name> 電力電子特論 </name>
 <teacher> 林瑞禮  </teacher>
 <score> 3 </score>
-<time day="2" s="B" e="D"> [2]B~D  </time>
+<time day="2" s="11" e="13"> [2]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
@@ -119,7 +119,7 @@
 <name> 專題討論（三） </name>
 <teacher> 林瑞禮   ,  張簡樂仁* </teacher>
 <score> 0 </score>
-<time day="1" s="N" e="5"> [1]N~5  </time>
+<time day="1" s="4.5" e="5"> [1]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92720 </place>
@@ -133,7 +133,7 @@
 <name> 論文研討（一） </name>
 <teacher> 蔡明祺   ,  梁從主   ,  林瑞禮  </teacher>
 <score> 1 </score>
-<time day="1" s="A" e="B"> [1]A~B  </time>
+<time day="1" s="10" e="11"> [1]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 電機系館                      靄雲廳 </place>
@@ -147,7 +147,7 @@
 <name> 論文研討（三） </name>
 <teacher> 蔡明祺   ,  梁從主   ,  林瑞禮  </teacher>
 <score> 1 </score>
-<time day="1" s="A" e="B"> [1]A~B  </time>
+<time day="1" s="10" e="11"> [1]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 電機系館                      靄雲廳 </place>

@@ -151,7 +151,7 @@
 <name> 習醫之道－醫師專業養成與體驗（三） </name>
 <teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
-<time day="3" s="A" e="B"> [3]A~B  </time>
+<time day="3" s="10" e="11"> [3]A~B  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
@@ -307,7 +307,7 @@
 <name> 習醫之道－醫師專業養成與體驗（五） </name>
 <teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
-<time day="5" s="A" e="B"> [5]A~B  </time>
+<time day="5" s="10" e="11"> [5]A~B  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
@@ -329,7 +329,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 組織學（含實驗） </name1>
-<time1 day="2" s="6" e="8"> [2]6~8  ,  [5]6~8  </time1>
+<time1 day="2" s="" e=""> [2]6~8  ,  [5]6~8  </time1>
 <place1> 醫學院                        第一講堂 </place1>
 <note1> 第一講堂及四樓實驗室上課，限醫學院學生選修 。 </note1>
 </I5>
@@ -349,7 +349,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 大體解剖學（含實驗） </name1>
-<time1 day="2" s="1" e="4"> [2]1~4  ,  [4]1~4  ,  [5]1~4  </time1>
+<time1 day="2" s="" e=""> [2]1~4  ,  [4]1~4  ,  [5]1~4  </time1>
 <place1> 醫學院                        第三講堂 </place1>
 <note1> 第三講堂及五樓實驗室上課，限醫學系學生選修 。 </note1>
 </I5>
@@ -411,7 +411,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 病理學（含實驗）（一） </name1>
-<time1 day="1" s="5" e="6"> [1]5~6  ,  [3]1~4  </time1>
+<time1 day="1" s="" e=""> [1]5~6  ,  [3]1~4  </time1>
 <place1> 醫學院                        第二講堂 </place1>
 <note1> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note1>
 </I5>
@@ -445,43 +445,43 @@
 <class1></class1>
 <group1> B </group1>
 <name1> 病態生理學討論（一） </name1>
-<time1 day="1" s="7" e="8"> [1]7~8  </time1>
+<time1 day="1" s="" e=""> [1]7~8  </time1>
 <place1> 醫學院                        第二講堂 </place1>
 <note1> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note1>
 <class2></class2>
 <group2> C </group2>
 <name2> 病態生理學討論（一） </name2>
-<time2 day="1" s="7" e="8"> [1]7~8  </time2>
+<time2 day="1" s="" e=""> [1]7~8  </time2>
 <place2> 醫學院                        第二講堂 </place2>
 <note2> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note2>
 <class3></class3>
 <group3> D </group3>
 <name3> 病態生理學討論（一） </name3>
-<time3 day="1" s="7" e="8"> [1]7~8  </time3>
+<time3 day="1" s="" e=""> [1]7~8  </time3>
 <place3> 醫學院                        第二講堂 </place3>
 <note3> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note3>
 <class4></class4>
 <group4> E </group4>
 <name4> 病態生理學討論（一） </name4>
-<time4 day="1" s="7" e="8"> [1]7~8  </time4>
+<time4 day="1" s="" e=""> [1]7~8  </time4>
 <place4> 醫學院                        第二講堂 </place4>
 <note4> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note4>
 <class5></class5>
 <group5> F </group5>
 <name5> 病態生理學討論（一） </name5>
-<time5 day="1" s="7" e="8"> [1]7~8  </time5>
+<time5 day="1" s="" e=""> [1]7~8  </time5>
 <place5> 醫學院                        第二講堂 </place5>
 <note5> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note5>
 <class6></class6>
 <group6> G </group6>
 <name6> 病態生理學討論（一） </name6>
-<time6 day="1" s="7" e="8"> [1]7~8  </time6>
+<time6 day="1" s="" e=""> [1]7~8  </time6>
 <place6> 醫學院                        第二講堂 </place6>
 <note6> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note6>
 <class7></class7>
 <group7> H </group7>
 <name7> 病態生理學討論（一） </name7>
-<time7 day="1" s="7" e="8"> [1]7~8  </time7>
+<time7 day="1" s="" e=""> [1]7~8  </time7>
 <place7> 醫學院                        第二講堂 </place7>
 <note7> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note7>
 </I5>
@@ -501,7 +501,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 實驗診斷學及實驗（一） </name1>
-<time1 day="5" s="2" e="4"> [5]2~4  </time1>
+<time1 day="5" s="" e=""> [5]2~4  </time1>
 <place1> 醫學院                        第二講堂 </place1>
 <note1> 醫學院四樓實驗室 </note1>
 </I5>
@@ -555,7 +555,7 @@
 <name> 習醫之道－醫師專業養成與體驗（七） </name>
 <teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
-<time day="4" s="A" e="B"> [4]A~B  </time>
+<time day="4" s="10" e="11"> [4]A~B  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
@@ -709,7 +709,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 內科學（三）及實習 </name1>
-<time1 day="0" s="0" e="0"> 
+<time1 day="0" s="" e=""> 
   </time1>
 <place1></place1>
 <note1> 
@@ -733,7 +733,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 家庭醫學及實習 </name1>
-<time1 day="0" s="0" e="0"> 
+<time1 day="0" s="" e=""> 
   </time1>
 <place1></place1>
 <note1> 
@@ -757,7 +757,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 外科學（三）及實習 </name1>
-<time1 day="0" s="0" e="0"> 
+<time1 day="0" s="" e=""> 
   </time1>
 <place1></place1>
 <note1> 
@@ -797,7 +797,7 @@
 <class1></class1>
 <group1> B </group1>
 <name1> 精神醫學及實習 </name1>
-<time1 day="0" s="0" e="0"> 
+<time1 day="0" s="" e=""> 
   </time1>
 <place1></place1>
 <note1> 

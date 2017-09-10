@@ -337,7 +337,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 臺灣陸、海域超微體生物地層層序及實驗 </name1>
-<time1 day="6" s="3" e="6"> [6]3~6  </time1>
+<time1 day="6" s="" e=""> [6]3~6  </time1>
 <place1> 地科系館                      3031 </place1>
 <note1></note1>
 </L4>
@@ -419,7 +419,7 @@
 <name> 地球科學專論 </name>
 <teacher> 蔡金郎  </teacher>
 <score> 3 </score>
-<time day="5" s="8" e="A"> [5]8~A  </time>
+<time day="5" s="8" e="10"> [5]8~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3017 </place>
@@ -461,7 +461,7 @@
 <name> 資源、環境與氣候概論 </name>
 <teacher> 羅尚德  </teacher>
 <score> 3 </score>
-<time day="5" s="B" e="D"> [5]B~D  </time>
+<time day="5" s="11" e="13"> [5]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3017 </place>

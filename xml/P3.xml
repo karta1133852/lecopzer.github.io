@@ -15,7 +15,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 整合設計(一) </name1>
-<time1 day="4" s="3" e="4"> [4]3~4  </time1>
+<time1 day="4" s="" e=""> [4]3~4  </time1>
 <place1> 無                            53202 </place1>
 <note1></note1>
 </P3>
@@ -35,7 +35,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 人本設計(一) </name1>
-<time1 day="4" s="3" e="4"> [4]3~4  </time1>
+<time1 day="4" s="" e=""> [4]3~4  </time1>
 <place1> 無                            53205 </place1>
 <note1></note1>
 </P3>
@@ -55,7 +55,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 同步設計(一) </name1>
-<time1 day="4" s="3" e="4"> [4]3~4  </time1>
+<time1 day="4" s="" e=""> [4]3~4  </time1>
 <place1> 無                            53204 </place1>
 <note1></note1>
 </P3>
@@ -75,7 +75,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 傳達設計(一) </name1>
-<time1 day="4" s="3" e="4"> [4]3~4  </time1>
+<time1 day="4" s="" e=""> [4]3~4  </time1>
 <place1> 無                            53308 </place1>
 <note1></note1>
 </P3>
@@ -339,7 +339,7 @@
 <name> 人體工學模擬 </name>
 <teacher> 吳豐光  </teacher>
 <score> 3 </score>
-<time day="3" s="8" e="A"> [3]8~A  </time>
+<time day="3" s="8" e="10"> [3]8~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53211 </place>
@@ -353,7 +353,7 @@
 <name> 認知性產品設計 </name>
 <teacher> 林振陽  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53211 </place>
@@ -367,7 +367,7 @@
 <name> 科技服務設計 </name>
 <teacher> 劉說芳  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
@@ -381,7 +381,7 @@
 <name> 高等工業設計(一) </name>
 <teacher> 曾元琦  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
@@ -395,7 +395,7 @@
 <name> 網路科技與應用 </name>
 <teacher> 謝孟達  </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>

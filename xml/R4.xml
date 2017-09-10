@@ -189,7 +189,7 @@
 <name> 專題討論 </name>
 <teacher> 葉桂珍  </teacher>
 <score> 0 </score>
-<time day="2" s="N" e="N"> [2]N  </time>
+<time day="2" s="4.5" e="4.5"> [2]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -203,7 +203,7 @@
 <name> 金融市場技術分析 </name>
 <teacher> 蔡燿全  </teacher>
 <score> 3 </score>
-<time day="4" s="A" e="C"> [4]A~C  </time>
+<time day="4" s="10" e="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -217,7 +217,7 @@
 <name> 企業政策與策略 </name>
 <teacher> 方世杰  </teacher>
 <score> 3 </score>
-<time day="1" s="B" e="D"> [1]B~D  </time>
+<time day="1" s="11" e="13"> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -231,7 +231,7 @@
 <name> 財務管理 </name>
 <teacher> 莊雙喜  </teacher>
 <score> 3 </score>
-<time day="3" s="A" e="C"> [3]A~C  </time>
+<time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
@@ -245,7 +245,7 @@
 <name> 品牌管理 </name>
 <teacher> 賴孟寬  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62457 </place>
@@ -259,7 +259,7 @@
 <name> 員工訓練與發展 </name>
 <teacher> 王瑜琳  </teacher>
 <score> 3 </score>
-<time day="5" s="A" e="C"> [5]A~C  </time>
+<time day="5" s="10" e="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -273,7 +273,7 @@
 <name> 新產品開發與管理 </name>
 <teacher> 周信輝  </teacher>
 <score> 3 </score>
-<time day="2" s="A" e="C"> [2]A~C  </time>
+<time day="2" s="10" e="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
@@ -287,7 +287,7 @@
 <name> 開放式創新管理專題 </name>
 <teacher> 陳淑惠  </teacher>
 <score> 3 </score>
-<time day="1" s="A" e="C"> [1]A~C  </time>
+<time day="1" s="10" e="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>

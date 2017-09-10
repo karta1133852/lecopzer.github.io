@@ -15,25 +15,25 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分 </name1>
-<time1 day="3" s="1" e="1"> [3]1  </time1>
+<time1 day="3" s="" e=""> [3]1  </time1>
 <place1> 唯農大樓                      7401 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
 <name2> 微積分 </name2>
-<time2 day="3" s="1" e="1"> [3]1  </time2>
+<time2 day="3" s="" e=""> [3]1  </time2>
 <place2> 唯農大樓                      7403 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
 <name3> 微積分 </name3>
-<time3 day="3" s="1" e="1"> [3]1  </time3>
+<time3 day="3" s="" e=""> [3]1  </time3>
 <place3> 唯農大樓                      7404 </place3>
 <note3></note3>
 <class4></class4>
 <group4> D </group4>
 <name4> 微積分 </name4>
-<time4 day="3" s="1" e="1"> [3]1  </time4>
+<time4 day="3" s="" e=""> [3]1  </time4>
 <place4> 唯農大樓                      7405 </place4>
 <note4></note4>
 </F2>
@@ -109,7 +109,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 基本設計（一） </name1>
-<time1 day="3" s="6" e="8"> [3]6~8  </time1>
+<time1 day="3" s="" e=""> [3]6~8  </time1>
 <place1> 都計系館                      50303 </place1>
 <note1></note1>
 </F2>
@@ -129,7 +129,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 圖學 </name1>
-<time1 day="5" s="6" e="8"> [5]6~8  </time1>
+<time1 day="5" s="" e=""> [5]6~8  </time1>
 <place1> 都計系館                      50303 </place1>
 <note1></note1>
 </F2>
@@ -163,7 +163,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 都市規劃與設計實習（一） </name1>
-<time1 day="3" s="6" e="8"> [3]6~8  </time1>
+<time1 day="3" s="" e=""> [3]6~8  </time1>
 <place1> 都計系館                      50221 </place1>
 <note1></note1>
 </F2>
@@ -239,7 +239,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 都市規劃與設計實習（三） </name1>
-<time1 day="3" s="6" e="8"> [3]6~8  </time1>
+<time1 day="3" s="" e=""> [3]6~8  </time1>
 <place1> 都計系館                      50305 </place1>
 <note1></note1>
 </F2>
@@ -357,7 +357,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 都市規劃與設計實習（四） </name1>
-<time1 day="3" s="6" e="8"> [3]6~8  </time1>
+<time1 day="3" s="" e=""> [3]6~8  </time1>
 <place1> 都計系館                      50219 </place1>
 <note1></note1>
 </F2>
