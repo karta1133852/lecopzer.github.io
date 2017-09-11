@@ -645,6 +645,11 @@ function closeSearchPanel() {
   document.getElementById("navSearchPanel").style.display = "none"; 
 }
 
+function searchIconAddClick(x) {
+  var num = x.attributes["id"].value.slice(2);
+  addClass(num.substring(0,2), num.substring(3,6));
+}
+
 function saveTextAsFile()
 {
   var textToWrite = "";

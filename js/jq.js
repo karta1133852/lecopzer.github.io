@@ -246,11 +246,11 @@ $(function() {
           var num = p.getElementsByTagName("num")[0].childNodes[0].nodeValue.trim();
           var name = p.getElementsByTagName("name")[0].childNodes[0].nodeValue.trim()
           var _time = p.getElementsByTagName("time")[0].childNodes[0].nodeValue.trim();
-          document.getElementById("searchResultList").innerHTML += "<div id='s" + num + "' onclick='searchListClick(this)'>" +
+          document.getElementById("searchResultList").innerHTML += "<div id='SN" + num + "' onclick='searchListClick(this)'>" +
   /*  " onmouseenter='listMouseEnter(this)'>"+*/
           num + "  " + name + "<span style='float:right;'>" + _time + "</span></div>"
-          + "<a id='sa" + num + "' style='float:right;margin:13px 13px 0 0;color:red;'"+
-          " onclick='searchIconDelClick(this)' class='material-icons'>clear</a>";
+          + "<a id='SA" + num + "' style='float:right;margin:13px 21px 0 0;color:blue; cursor:pointer'"+
+          " onclick='searchIconAddClick(this)' class='material-icons'>add_circle</a>";
         }
         return true;
       }
@@ -271,3 +271,4 @@ $(function() {
       }
     });
 });
+
