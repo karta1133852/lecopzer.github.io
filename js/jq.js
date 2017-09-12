@@ -113,7 +113,7 @@ $(function() {
     var startClassNum = parseInt(startClass);
     var endClassNum = parseInt(endClass);
     if(!checkSearchClassNum(startClass, endClass)) return;
-    var maj= $("#searchForm [name='maj']").val();
+    var maj= $("#searchForm [name='maj']").val().toUpperCase();
     if(!checkMaj(maj)) {
       showErrorDialog("87", "系號錯誤");
       return;
