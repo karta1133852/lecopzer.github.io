@@ -1,3 +1,4 @@
+var searchList = [];
 $.fn.exists = function () {
       return this.length !== 0;
 }
@@ -75,7 +76,6 @@ $(function() {
     },
     mouseleave: function() {
       $("#cellInfo").fadeOut("fast");
-      
     },  
     mousemove: function(e) {
       $("#cellInfo").show();
@@ -92,10 +92,35 @@ $(function() {
         duration: 200,
         easing: "linear",
       }
-                  
                   );
     }
   }, ".cell");
+
+  $(document).on({
+    mouseenter: function() {
+      registerSearchInfo($(this).attr("id").slice(2));
+    },
+    mouseleave: function() {
+      $("#searchInfo").fadeOut("fast");
+    },  
+    mousemove: function(e) {
+      $("#searchInfo").show();
+      $("#searchInfo").css({
+        top: e.pageY,
+        left: e.pageX
+      });
+      $("#searchInfo").animate({
+        top: e.pageY,
+        left: e.pageX 
+      },
+      {
+        queue: false,
+        duration: 200,
+        easing: "linear",
+      }
+                  );
+    }
+  }, ".searchCell");
 });
 
 $(function() {
@@ -126,6 +151,7 @@ $(function() {
     var endClassFloat = parseFloat(endClass);
     startClassFloat = convertClassTimeSToN(startClass, startClassFloat);
     endClassFloat = convertClassTimeSToN(endClass, endClassFloat);
+    searchList = [];
     $('input[name="searchDayName"]:checked').each(function() {
       ret |= searchMain(maj, this.value, startClassFloat, endClassFloat);
     });
@@ -246,11 +272,16 @@ $(function() {
           var num = p.getElementsByTagName("num")[0].childNodes[0].nodeValue.trim();
           var name = p.getElementsByTagName("name")[0].childNodes[0].nodeValue.trim()
           var _time = p.getElementsByTagName("time")[0].childNodes[0].nodeValue.trim();
-          document.getElementById("searchResultList").innerHTML += "<div id='SN" + num + "'>" +
+          document.getElementById("searchResultList").innerHTML += "<div id='SN" + num + "' class='searchCell'>" +
   /*  " onmouseenter='listMouseEnter(this)'>"+*/
           num + "  " + name + "<span style='float:right;'>" + _time + "</span></div>"
           + "<a id='SA" + num + "' style='float:right;margin:13px 21px 0 0;color:blue; cursor:pointer'"+
           " onclick='searchIconAddClick(this)' class='material-icons'>add_circle</a>";
+          var content = getClassContent(p);
+          searchList.push({
+            num: num,
+            content: content,
+          }); 
         }
         return true;
       }
@@ -272,3 +303,14 @@ $(function() {
     });
 });
 
+function findSearchList(x) {
+    var k = 0;
+    while(searchList[k].num != x) k++;
+    return k;
+}
+
+function registerSearchInfo(id) { 
+  document.getElementById("searchInfo").innerHTML = "";
+  var k = findSearchList(id);
+  document.getElementById("searchInfo").innerHTML += searchList[k].content;
+}

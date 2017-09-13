@@ -346,13 +346,24 @@ section{
   background-color: #FFF5CC;
   border-radius: 25px;
   z-index: 30;
-
 }
 
 #closeInfoBtn{
   float: right;
   margin-top: -20px;
 
+}
+
+#searchInfo{
+  width: 230px;
+  position: absolute;
+  padding: 10px 15px 10px 15px;
+  left: 30%;
+  top: 20%;
+  box-shadow: 0 0 10px grey;
+  background-color: #FFFfe6;
+  border-radius: 25px;
+  z-index: 30;
 }
 
 .home{

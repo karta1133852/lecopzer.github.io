@@ -224,6 +224,30 @@ function pushClassContent(result) {
          "註備：" + trimAll(note) + "<br>";
 }
 
+function getClassContent(result) {
+  var name = checkTag(result.getElementsByTagName("name"));
+  var _class = checkTag(result.getElementsByTagName("class"));
+  var teacher = checkTag(result.getElementsByTagName("teacher"));
+  var group = checkTag(result.getElementsByTagName("group"));
+  var score = checkTag(result.getElementsByTagName("score"));
+  var must = checkTag(result.getElementsByTagName("must"));
+  var time = checkTag(result.getElementsByTagName("time"));
+  var type = checkTag(result.getElementsByTagName("type"));
+  var place = checkTag(result.getElementsByTagName("place"));
+  var note = checkTag(result.getElementsByTagName("note"));
+  var _content = "名稱：" + trimAll(name) + "<br>" +
+        "班別：" + trimAll(_class) + "<br>" +
+         "老師：" + trimAll(teacher) + "<br>" +
+         "組別：" + trimAll(group) + "<br>" +
+         "學分：" + trimAll(score) + "<br>" +
+         "選必修：" + trimAll(must) + "<br>" +
+         "時間：" + trimAll(time) + "<br>" +
+         "類別：" + trimAll(type) + "<br>" +
+         "地點：" + trimAll(place) + "<br>" +
+         "註備：" + trimAll(note) + "<br>";
+  return _content;
+}
+
 /*  print class when 只有一堂 */
 function printClassSingle(_class, _classTime, result) {
   for(j = 0; j < 1; j++) {
