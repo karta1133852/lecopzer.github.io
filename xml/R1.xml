@@ -140,6 +140,20 @@
 <note></note>
 </R1>
 
+<R1 id="012">
+<num>R1-012</num>
+<class> 碩                             </class>
+<group></group>
+<name> 財富管理與金融科技 </name>
+<teacher> 藍崑展   ,  黃敬群   ,  顏盟峯   ,  林軒竹   ,  王澤世*  ,  鄭順林   ,  林良靖  </teacher>
+<score> 3 </score>
+<time day="3" s="6" e="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63205 </place>
+<note></note>
+</R1>
+
 <R1 id="013">
 <num>R1-013</num>
 <class> 碩                             </class>
@@ -180,6 +194,34 @@
 <type> 講義 </type>
 <place> 會計系館                      63102 </place>
 <note></note>
+</R1>
+
+<R1 id="016">
+<num>R1-016</num>
+<class> 碩                             </class>
+<group></group>
+<name> 教學實習（一） </name>
+<teacher> 李宏志   ,  林囿成   ,  劉裕宏   ,  周庭楷   ,  楊朝旭   ,  顏盟峯   ,  林軒竹   ,  黃炳勳   ,  黃華瑋   ,  謝喻婷   ,  梁少懷   ,  許育綝   ,  李政勳   ,  廖麗凱   ,  王澤世* </teacher>
+<score> 1 </score>
+<time day="2" s="9" e="9"> [2]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63209 </place>
+<note> 限會計所及財金所一年級教學助理選修 </note>
+</R1>
+
+<R1 id="017">
+<num>R1-017</num>
+<class> 碩                             </class>
+<group></group>
+<name> 教學實習（三） </name>
+<teacher> 李宏志   ,  林囿成   ,  劉裕宏   ,  周庭楷   ,  楊朝旭   ,  顏盟峯   ,  林軒竹   ,  黃炳勳   ,  黃華瑋   ,  謝喻婷   ,  梁少懷   ,  許育綝   ,  李政勳   ,  廖麗凱   ,  王澤世* </teacher>
+<score> 1 </score>
+<time day="2" s="9" e="9"> [2]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63209 </place>
+<note> 限會計所及財金所一年級教學助理選修 </note>
 </R1>
 
 <R1 id="019">

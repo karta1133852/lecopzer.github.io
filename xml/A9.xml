@@ -1004,7 +1004,7 @@
 <time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1301 </place>
+<place> 共同教室                      A1304 </place>
 <note> 英語授課;科際整合相關領域：人文學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
@@ -1102,7 +1102,7 @@
 <time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 唯農大樓                      7311 </place>
+<place> 唯農大樓                      7404 </place>
 <note> 英語授課,104學年度(含)以前入學生為「哲學與藝術」 </note>
 </A9>
 
@@ -1433,7 +1433,7 @@
 <class></class>
 <group></group>
 <name> 智慧綠生活 </name>
-<teacher> 宋立文  </teacher>
+<teacher> 林子平   ,  葉玉祥   ,  宋立文*  ,  張秀慈   ,  葉如萍   ,  周君瑞   ,  洪郁修   ,  陳璽任   ,  仲曉玲   ,  林蕙玟  </teacher>
 <score> 2 </score>
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -1606,7 +1606,7 @@
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1301 </place>
+<place> 共同教室                      A1304 </place>
 <note> 英語授課;科際整合相關領域：人文學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
@@ -1615,7 +1615,7 @@
 <class></class>
 <group></group>
 <name> 美學藝術生活實踐 </name>
-<teacher> 吳光庭  </teacher>
+<teacher> 張天豪   ,  吳光庭*  ,  吳奕芳  </teacher>
 <score> 1 </score>
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -1746,7 +1746,7 @@
 <time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 唯農大樓                      7311 </place>
+<place> 唯農大樓                      7404 </place>
 <note> 領域通識 </note>
 </A9>
 

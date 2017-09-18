@@ -62,7 +62,7 @@
 <group1> A </group1>
 <name1> 微積分（一） </name1>
 <time1 day="5" s="" e=""> [5]5  </time1>
-<place1> 唯農大樓                      7311 </place1>
+<place1> 唯農大樓                      7404 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
@@ -290,20 +290,6 @@
 <teacher> 范聖育* </teacher>
 <score> 3 </score>
 <time day="3" s="5" e="7"> [3]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
-<note></note>
-</D8>
-
-<D8 id="105">
-<num>D8-105</num>
-<class></class>
-<group></group>
-<name> 日常生活中的統計 </name>
-<teacher> 鄭中平  </teacher>
-<score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>

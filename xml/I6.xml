@@ -10,13 +10,13 @@
 <time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1307(資源後) </place>
+<place> 醫學院                        第四講堂 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
 <time1 day="3" s="" e=""> [3]2  </time1>
-<place1> 共同教室                      A1307(資源後) </place1>
+<place1> 醫學院                        第四講堂 </place1>
 <note1></note1>
 </I6>
 
@@ -426,20 +426,6 @@
 <type> 實習 </type>
 <place> 醫學院                        物治104 </place>
 <note></note>
-</I6>
-
-<I6 id="125">
-<num>I6-125</num>
-<class></class>
-<group></group>
-<name> 骨科物理治療問題導向學習 </name>
-<teacher> 蔡一如   ,  郭怡良* </teacher>
-<score> 2 </score>
-<time day="3" s="3" e="4"> [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治207 </place>
-<note> PBL授課 </note>
 </I6>
 
 <I6 id="152">

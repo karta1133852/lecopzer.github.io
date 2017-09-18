@@ -144,6 +144,20 @@
 <note> B模組選修課程；護理系、醫技系以人工加簽方式辦理；上課教室：208、203D、醫圖210 </note>
 </I5>
 
+<I5 id="015">
+<num>I5-015</num>
+<class></class>
+<group></group>
+<name> 醫療與文化 </name>
+<teacher> 石明人* </teacher>
+<score> 2 </score>
+<time day="3" s="5" e="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        205D </place>
+<note> B模組選修課程 </note>
+</I5>
+
 <I5 id="051">
 <num>I5-051</num>
 <class></class>
@@ -207,7 +221,7 @@
 <class></class>
 <group></group>
 <name> 生物化學（一） </name>
-<teacher> 邱顯泰   ,  莊偉哲*  ,  何月仁   ,  吳華林   ,  鄭宏祺   ,  陳昌熙   ,  黃柏憲  </teacher>
+<teacher> 邱顯泰   ,  吳昭良*  ,  何月仁   ,  鄭宏祺   ,  陳昌熙   ,  余建泓  </teacher>
 <score> 3 </score>
 <time day="1" s="2" e="3"> [1]2~3  ,  [3]3~4  </time>
 <must> 必修 </must>

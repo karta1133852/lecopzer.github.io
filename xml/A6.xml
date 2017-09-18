@@ -71,13 +71,11 @@
 <name> 服務學習（三）—校園淨塑活動 </name>
 <teacher> 邵揮洲  </teacher>
 <score> 0 </score>
-<time day="0" s="0" e="0"> 
-  </time>
+<time day="3" s="0" e="0"> [3]  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 系統系館                      56113 </place>
+<note> 首次上課時間:9/27(三)下午5:30～6:20，以後固定每週三下午5:30～6:20 </note>
 </A6>
 
 <A6 id="010">

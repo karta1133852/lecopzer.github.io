@@ -178,7 +178,7 @@
 <time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26405 </place>
+<place> 修齊大樓                      26402 </place>
 <note> 德文組必修 </note>
 </B2>
 
@@ -360,7 +360,7 @@
 <time day="3" s="2" e="2"> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26405 </place>
+<place> 修齊大樓                      26423 </place>
 <note> 大二德文組必修 </note>
 </B2>
 
@@ -472,7 +472,7 @@
 <time day="1" s="5" e="6"> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26405 </place>
+<place> 修齊大樓                      26423 </place>
 <note> 大三德文組必修 </note>
 </B2>
 

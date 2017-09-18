@@ -327,7 +327,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（一） </name>
-<teacher> 許曉芬   ,  林建宏   ,  林彥呈   ,  葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
+<teacher> 林彥呈   ,  葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
 <score> 3 </score>
 <time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
@@ -383,7 +383,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（一） </name>
-<teacher> 陳家進   ,  陳芃婷* </teacher>
+<teacher> 許曉芬   ,  林建宏   ,  陳家進   ,  陳芃婷* </teacher>
 <score> 3 </score>
 <time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 必修 </must>
@@ -425,7 +425,7 @@
 <class></class>
 <group></group>
 <name> 生醫工程專論及實驗 </name>
-<teacher> 胡晉嘉   ,  莊漢聲   ,  邱文泰   ,  黃執中   ,  方佑華   ,  吳炳慶   ,  林哲偉* </teacher>
+<teacher> 陳家進   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  莊漢聲   ,  邱文泰   ,  黃執中   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉*  ,  楊岱樺   ,  涂庭源  </teacher>
 <score> 3 </score>
 <time day="0" s="0" e="0"> 
   </time>

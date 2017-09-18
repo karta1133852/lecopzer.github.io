@@ -61,7 +61,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 高等政治經濟學理論 </name>
-<teacher> 未定  </teacher>
+<teacher> 王金壽   ,  王奕婷   ,  平思寧* </teacher>
 <score> 3 </score>
 <time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 必修 </must>
@@ -94,7 +94,7 @@
 <time day="3" s="6" e="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室B </place>
+<place> 社科院大樓                    六樓研討室A </place>
 <note> 梁文韜老師*1學分,李國維老師*2學分 </note>
 </U1>
 
@@ -294,7 +294,7 @@
 <time day="3" s="10" e="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室B </place>
+<place> 社科院大樓                    六樓研討室A </place>
 <note> 梁文韜老師*1學分,李國維老師*2學分 </note>
 </U1>
 
@@ -350,7 +350,7 @@
 <time day="1" s="10" e="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室C </place>
+<place> 社科院大樓                    六樓研討室A </place>
 <note></note>
 </U1>
 

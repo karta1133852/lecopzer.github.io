@@ -572,7 +572,7 @@
 <time day="1" s="5" e="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92271 </place>
+<place> 電機系館                      繁城講堂 </place>
 <note></note>
 </E2>
 
@@ -993,20 +993,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92185 </place>
-<note></note>
-</E2>
-
-<E2 id="140">
-<num>E2-140</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 電子電路應用實務 </name>
-<teacher> 林瑞禮  </teacher>
-<score> 3 </score>
-<time day="5" s="7" e="9"> [5]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92383 </place>
 <note></note>
 </E2>
 

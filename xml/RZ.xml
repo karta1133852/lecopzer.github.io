@@ -44,4 +44,18 @@
 <note> 不開放網路選課 </note>
 </RZ>
 
+<RZ id="205">
+<num>RZ-205</num>
+<class> 碩                             </class>
+<group></group>
+<name> 創業基礎與行動 </name>
+<teacher> 楊朝旭   ,  王泰裕   ,  林正章   ,  蔡東峻   ,  張紹基   ,  史習安* </teacher>
+<score> 3 </score>
+<time day="6" s="2" e="4"> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note></note>
+</RZ>
+
 </content>

@@ -80,8 +80,8 @@
 <time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 建築系館                      5102 </place>
-<note> 以下為設計組課程；上課教室：建築系館地下1樓電腦教室 </note>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<note> 以下為設計組課程 </note>
 </N7>
 
 <N7 id="013">
@@ -124,20 +124,6 @@
 <type> 講義 </type>
 <place> 建築系館                      5102 </place>
 <note> 上課教室：建築系館地下1樓電腦教室 </note>
-</N7>
-
-<N7 id="016">
-<num>N7-016</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 文教建築 </name>
-<teacher> 陳穎澤  </teacher>
-<score> 3 </score>
-<time day="4" s="6" e="8"> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 建築研究大樓                  5171 </place>
-<note> 托福69/多益750/全民英檢中高級以上 </note>
 </N7>
 
 <N7 id="017">

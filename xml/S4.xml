@@ -140,4 +140,18 @@
 <note> 基醫所與微免所合班 </note>
 </S4>
 
+<S4 id="020">
+<num>S4-020</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> T”型人才的新興傳染病學 </name>
+<teacher> 劉校生   ,  彭貴春*  ,  簡玉雯  </teacher>
+<score> 0.5 </score>
+<time day="6" s="1" e="4"> [6]1~4  ,  [7]6~9  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 上課教室:國際會議廳第三講堂、醫學院第三講堂 </note>
+</S4>
+
 </content>

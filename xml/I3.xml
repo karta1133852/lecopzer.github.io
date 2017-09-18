@@ -66,7 +66,7 @@
 <time day="1" s="7" e="7"> [1]7  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
+<place> 醫技醫工館                    5777 </place>
 <note></note>
 </I3>
 
@@ -80,13 +80,13 @@
 <time day="1" s="2" e="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1307(資源後) </place>
+<place> 醫學院                        第四講堂 </place>
 <note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
 <time1 day="3" s="" e=""> [3]2  </time1>
-<place1> 共同教室                      A1307(資源後) </place1>
+<place1> 醫學院                        第四講堂 </place1>
 <note1></note1>
 </I3>
 
@@ -109,7 +109,7 @@
 <class></class>
 <group></group>
 <name> 公共衛生概論 </name>
-<teacher> 呂宗學  </teacher>
+<teacher> 胡淑貞* </teacher>
 <score> 2 </score>
 <time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
@@ -224,6 +224,26 @@
 <place></place>
 <note> 
  </note>
+</I3>
+
+<I3 id="061">
+<num>I3-061</num>
+<class></class>
+<group></group>
+<name> 組織學（含實驗） </name>
+<teacher> 張孔昭   ,  宋俊明   ,  林永明   ,  楊朝鈞   ,  江美治   ,  莫凡毅*  ,  司君一   ,  許鍾瑜   ,  王仰高  </teacher>
+<score> 4 </score>
+<time day="2" s="5" e="5"> [2]5  ,  [5]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 第一講堂及四樓實驗室上課，限三年級(含)以上學生選修。 </note>
+<class1></class1>
+<group1></group1>
+<name1> 組織學（含實驗） </name1>
+<time1 day="2" s="" e=""> [2]6~8  ,  [5]6~8  </time1>
+<place1> 醫學院                        第一講堂 </place1>
+<note1> 第一講堂及四樓實驗室上課，限醫學院學生選修 。 </note1>
 </I3>
 
 <I3 id="101">

@@ -118,7 +118,7 @@
 <time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65104 </place>
+<place> 資訊系館                      4263 </place>
 <note> 歡迎各年級同學選修 </note>
 </F7>
 
@@ -307,7 +307,7 @@
 <class></class>
 <group></group>
 <name> 資訊專題（一） </name>
-<teacher> 謝孫源  </teacher>
+<teacher> 高宏宇  </teacher>
 <score> 2 </score>
 <time day="0" s="0" e="0"> 
   </time>
@@ -477,7 +477,7 @@
 <class></class>
 <group></group>
 <name> 資訊專題（二） </name>
-<teacher> 謝孫源  </teacher>
+<teacher> 高宏宇  </teacher>
 <score> 2 </score>
 <time day="0" s="0" e="0"> 
   </time>

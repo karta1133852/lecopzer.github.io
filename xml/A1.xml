@@ -116,14 +116,14 @@
 <num>A1-109</num>
 <class></class>
 <group></group>
-<name> 基礎工程英文 </name>
+<name> 基礎學術英文 </name>
 <teacher> 辛佳玲  </teacher>
 <score> 2 </score>
 <time day="1" s="5" e="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26304 </place>
-<note> 模組二 </note>
+<note> 模組一 </note>
 </A1>
 
 <A1 id="110">
@@ -388,7 +388,7 @@
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 修齊大樓                      26304 </place>
+<place> 修齊大樓                      26105 </place>
 <note> 模組一 </note>
 </A1>
 
@@ -444,7 +444,7 @@
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
-<place> 修齊大樓                      26105 </place>
+<place> 修齊大樓                      26304 </place>
 <note> 模組三 </note>
 </A1>
 
@@ -522,14 +522,14 @@
 <num>A1-138</num>
 <class></class>
 <group></group>
-<name> 生物科技英文 </name>
+<name> 跨文化溝通 </name>
 <teacher> 葉靜怡  </teacher>
 <score> 2 </score>
 <time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 外國語言 </type>
 <place> 修齊大樓                      26102 </place>
-<note> 模組二 </note>
+<note> 模組一 </note>
 </A1>
 
 <A1 id="139">
@@ -1842,6 +1842,34 @@
 <teacher> 白芳怡  </teacher>
 <score> 2 </score>
 <time day="4" s="3" e="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7211 </place>
+<note> 限非西語母語人士修課 </note>
+</A1>
+
+<A1 id="563">
+<num>A1-563</num>
+<class></class>
+<group></group>
+<name> 德文（三） </name>
+<teacher> 張淑慧  </teacher>
+<score> 2 </score>
+<time day="5" s="7" e="8"> [5]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7215 </place>
+<note></note>
+</A1>
+
+<A1 id="564">
+<num>A1-564</num>
+<class></class>
+<group></group>
+<name> 西班牙文（三） </name>
+<teacher> 白芳怡  </teacher>
+<score> 2 </score>
+<time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7211 </place>
