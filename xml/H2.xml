@@ -25,7 +25,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62223 </place>
-<note> 週三第6節另有一節實習課 </note>
+<note> 週三第6節另有一節實習課，週三5~6節單數週上正課，雙數週上實習課 </note>
 </H2>
 
 <H2 id="010">
@@ -220,7 +220,7 @@
 <time day="1" s="2" e="3"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 統計系館                      62113 </place>
+<place> 統計系館                      62225 </place>
 <note></note>
 </H2>
 

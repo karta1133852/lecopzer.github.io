@@ -56,20 +56,6 @@
 <note> 製造所與工程專班合開 </note>
 </N0>
 
-<N0 id="309">
-<num>N0-309</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 組織理論與管理 </name>
-<teacher> 張行道  </teacher>
-<score> 3 </score>
-<time day="2" s="10" e="12"> [2]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95403 </place>
-<note></note>
-</N0>
-
 <N0 id="316">
 <num>N0-316</num>
 <class> 碩專一二                       </class>

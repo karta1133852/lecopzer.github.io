@@ -24,7 +24,7 @@
 <time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
+<place> 會計系館                      63211 </place>
 <note> 大一必選 </note>
 </H1>
 
@@ -208,7 +208,7 @@
 <time day="5" s="6" e="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63101 </place>
+<place> 會計系館                      63104 </place>
 <note></note>
 </H1>
 
@@ -255,7 +255,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 中級會計學（三） </name1>
-<time1 day="1" s="4.5" e="4.5"> [1]N  ,  [3]1  </time1>
+<time1 day="3" s="4.5" e="4.5"> [3]N  ,  [3]1  </time1>
 <place1> 會計系館                      63104 </place1>
 <note1></note1>
 </H1>
@@ -270,7 +270,7 @@
 <time day="5" s="6" e="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
+<place> 會計系館                      63101 </place>
 <note></note>
 </H1>
 
@@ -312,7 +312,7 @@
 <time day="2" s="2" e="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63211 </place>
+<place> 會計系館                      63102 </place>
 <note> 大四必選 </note>
 </H1>
 

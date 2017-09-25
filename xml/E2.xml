@@ -5,7 +5,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 鄭光偉  </teacher>
+<teacher> 朱聖緣  </teacher>
 <score> 0 </score>
 <time day="3" s="9" e="9"> [3]9  </time>
 <must> 必修 </must>
@@ -38,7 +38,7 @@
 <time day="3" s="3" e="4"> [3]3~4  ,  [5]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92171 </place>
+<place> 電機系館                      92177 </place>
 <note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
 <class1> 甲                             </class1>
 <group1> A </group1>
@@ -101,7 +101,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 李炳鈞  </teacher>
+<teacher> 張志文  </teacher>
 <score> 0 </score>
 <time day="2" s="9" e="9"> [2]9  </time>
 <must> 必修 </must>
@@ -189,7 +189,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 楊宏澤  </teacher>
+<teacher> 李國君  </teacher>
 <score> 0 </score>
 <time day="1" s="9" e="9"> [1]9  </time>
 <must> 必修 </must>

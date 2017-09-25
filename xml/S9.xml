@@ -231,10 +231,10 @@
 <name> 分子技術學 </name>
 <teacher> 洪澤民* </teacher>
 <score> 2 </score>
-<time day="5" s="3" e="4"> [5]3~4  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7027 </place>
+<place> 門診大樓                      7023 </place>
 <note> 再生醫學科技學分學程 </note>
 </S9>
 
@@ -569,10 +569,10 @@
 <name> 分子技術學 </name>
 <teacher> 洪澤民* </teacher>
 <score> 2 </score>
-<time day="5" s="3" e="4"> [5]3~4  </time>
+<time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7027 </place>
+<place> 門診大樓                      7023 </place>
 <note> 再生醫學科技學分學程 </note>
 </S9>
 

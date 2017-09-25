@@ -80,7 +80,7 @@
 <time day="4" s="1" e="1"> [4]1  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 共同教室                      A1301 </place>
+<place> 共同教室                      A1303 </place>
 <note></note>
 </C6>
 
@@ -235,7 +235,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（三） </name>
-<teacher> 王涵青*  ,  洪良宜   ,  郭瑋君  </teacher>
+<teacher> 王涵青*  ,  郭瑋君  </teacher>
 <score> 0 </score>
 <time day="5" s="1" e="1"> [5]1  </time>
 <must> 必修 </must>
@@ -249,7 +249,7 @@
 <class></class>
 <group></group>
 <name> 創業思維與啟航 </name>
-<teacher> 林士鳴* </teacher>
+<teacher> 王涵青   ,  林士鳴*  ,  林哲偉  </teacher>
 <score> 3 </score>
 <time day="5" s="5" e="7"> [5]5~7  </time>
 <must> 必修 </must>
@@ -319,7 +319,7 @@
 <class></class>
 <group></group>
 <name> 前瞻水生生物科技 </name>
-<teacher> 羅竹芳*  ,  吳金洌  </teacher>
+<teacher> 羅竹芳* </teacher>
 <score> 2 </score>
 <time day="5" s="3" e="4"> [5]3~4  </time>
 <must> 選修 </must>
@@ -352,8 +352,22 @@
 <time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1304 </place>
+<place> 共同教室                      A1305 </place>
 <note></note>
+</C6>
+
+<C6 id="112">
+<num>C6-112</num>
+<class></class>
+<group></group>
+<name> 生物科技倫理與實務 </name>
+<teacher> 王育民  </teacher>
+<score> 1 </score>
+<time day="2" s="7" e="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1301 </place>
+<note> 彈性課程密集式授課 </note>
 </C6>
 
 </content>

@@ -91,7 +91,7 @@
 <class></class>
 <group></group>
 <name> 生物學（一） </name>
-<teacher> 胥直利*  ,  簡伯武   ,  蔡美玲   ,  李碧雪   ,  顏賢章  </teacher>
+<teacher> 胥直利*  ,  簡伯武   ,  蔡美玲   ,  李碧雪   ,  顏賢章   ,  蔣輯武*  ,  江美治* </teacher>
 <score> 2 </score>
 <time day="4" s="3" e="4"> [4]3~4  </time>
 <must> 必修 </must>
@@ -123,11 +123,13 @@
 <name> 醫學科學研究（一） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time day="1" s="4" e="4"> [1]4  </time>
+<time day="0" s="0" e="0"> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修，9月18日（星期一）課程簡介及公告成績評分方式 </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="014">
@@ -154,7 +156,7 @@
 <time day="3" s="5" e="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        205D </place>
+<place> 醫技醫工館                    5761 </place>
 <note> B模組選修課程 </note>
 </I5>
 
@@ -279,11 +281,13 @@
 <name> 醫學科學研究（三） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time day="1" s="4" e="4"> [1]4  </time>
+<time day="0" s="0" e="0"> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修，9月18日（星期一）課程簡介及公告成績評分方式 </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="063">
@@ -403,11 +407,13 @@
 <name> 醫學科學研究（五） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time day="1" s="4" e="4"> [1]4  </time>
+<time day="0" s="0" e="0"> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修，9月18日（星期一）課程簡介及公告成績評分方式 </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="151">
@@ -609,7 +615,7 @@
 <class></class>
 <group></group>
 <name> 醫學論文研究 </name>
-<teacher> 王琪珍   ,  吳至行*  ,  鄭宏祺   ,  顏賢章   ,  張　堯   ,  司君一  </teacher>
+<teacher> 黃美智   ,  柯乃熒   ,  許玉雲   ,  方素瓔   ,  高綺吟   ,  白明奇   ,  吳孟興   ,  吳至行*  ,  許釗凱   ,  張志偉   ,  黃士銘   ,  陳柏齡   ,  蔡孟哲   ,  黃奕勛   ,  張秦松   ,  鄭宏祺   ,  陳昌熙   ,  陳韻雯   ,  蕭雅心   ,  楊尚訓   ,  張雅雯   ,  彭貴春   ,  蔡坤哲   ,  劉秉彥   ,  莊佳蓉   ,  莫凡毅   ,  吳佳慶   ,  邱靜如  </teacher>
 <score> 1 </score>
 <time day="0" s="0" e="0"> 
   </time>

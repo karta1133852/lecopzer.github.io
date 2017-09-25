@@ -94,7 +94,7 @@
 <time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63104 </place>
 <note></note>
 </R8>
 
@@ -231,7 +231,7 @@
 <name> 財務會計理論研討（一） </name>
 <teacher> 廖麗凱  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day="1" s="2" e="4"> [1]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63405 </place>

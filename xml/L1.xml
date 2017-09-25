@@ -122,7 +122,7 @@
 <time day="2" s="5" e="6"> [2]5~6  ,  [5]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 數學系館                      3177 </place>
+<place> 數學系館                      3172 </place>
 <note> 大碩合開 </note>
 </L1>
 
@@ -175,7 +175,7 @@
 <name> 摩斯理論 </name>
 <teacher> 江孟蓉  </teacher>
 <score> 3 </score>
-<time day="1" s="4" e="4"> [1]4  ,  [3]2~3  </time>
+<time day="3" s="3" e="3"> [3]3  ,  [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3176 </place>

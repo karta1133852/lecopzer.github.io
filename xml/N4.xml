@@ -10,7 +10,7 @@
 <time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      成功共同300 </place>
+<place> 共同教室                      A1302 </place>
 <note> 僅供碩一甲組資源開發及地質工程選課 </note>
 </N4>
 
@@ -52,7 +52,7 @@
 <time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      成功共同300 </place>
+<place> 共同教室                      A1302 </place>
 <note> 僅供碩二甲組資源開發及地質工程選課 </note>
 </N4>
 
@@ -94,7 +94,7 @@
 <time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      成功共同300 </place>
+<place> 共同教室                      A1302 </place>
 <note> 僅供博一甲組資源開發及地質工程選課 </note>
 </N4>
 
@@ -136,7 +136,7 @@
 <time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      成功共同300 </place>
+<place> 共同教室                      A1302 </place>
 <note> 僅供博二甲組資源開發及地質工程選課 </note>
 </N4>
 
@@ -178,7 +178,7 @@
 <time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      成功共同300 </place>
+<place> 共同教室                      A1302 </place>
 <note> 僅供碩三博三以上甲組資源開發及地質工程選課 </note>
 </N4>
 
@@ -332,7 +332,7 @@
 <time day="4" s="2" e="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資源系館                      4350 </place>
+<place> 資源系館                      4302 </place>
 <note></note>
 </N4>
 
@@ -346,7 +346,7 @@
 <time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資源系館                      4302 </place>
+<place> 資源系館                      4354 </place>
 <note></note>
 </N4>
 

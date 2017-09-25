@@ -1136,20 +1136,6 @@
 <note> 大四可修 </note>
 </E1>
 
-<E1 id="161">
-<num>E1-161</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 內燃機 </name>
-<teacher> 林知伸  </teacher>
-<score> 3 </score>
-<time day="3" s="5" e="6"> [3]5~6  ,  [5]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91202 </place>
-<note></note>
-</E1>
-
 <E1 id="162">
 <num>E1-162</num>
 <class> 甲乙丙                         </class>
@@ -1185,10 +1171,10 @@
 <name> 創意性機構設計 </name>
 <teacher> 顏鴻森  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="7"> [1]6~7  ,  [3]2  </time>
+<time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91205 </place>
+<place> 機械系館                      91201 </place>
 <note> 大碩合開 </note>
 </E1>
 
@@ -1203,7 +1189,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91207 </place>
-<note> 大碩合開 </note>
+<note></note>
 </E1>
 
 <E1 id="166">
@@ -1260,7 +1246,7 @@
 <time day="2" s="3" e="4"> [2]3~4  ,  [3]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91307 </place>
+<place> 機械系館                      91203 </place>
 <note> 大碩合開 </note>
 </E1>
 

@@ -332,7 +332,7 @@
 <time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92820 </place>
+<place> 電機系館                      92185 </place>
 <note></note>
 </N2>
 
@@ -824,20 +824,6 @@
 <type> 講義 </type>
 <place> 電機系館                      92283 </place>
 <note> 碩博碩專合班 </note>
-</N2>
-
-<N2 id="112">
-<num>N2-112</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 顯示器線路設計專論 </name>
-<teacher> 林志隆  </teacher>
-<score> 3 </score>
-<time day="1" s="8" e="8"> [1]8  ,  [2]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92325 </place>
-<note></note>
 </N2>
 
 <N2 id="151">

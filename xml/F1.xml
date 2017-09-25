@@ -344,8 +344,8 @@
 <time day="1" s="7" e="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 系統系館                      56224 </place>
-<note> 機電組專業選修 </note>
+<place></place>
+<note> 機電組專業選修；5F電腦教室(503) </note>
 </F1>
 
 <F1 id="143">

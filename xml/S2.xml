@@ -140,20 +140,6 @@
 <note> 與臨藥所、基醫所合開 </note>
 </S2>
 
-<S2 id="011">
-<num>S2-011</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 血液藥理學特論 </name>
-<teacher> 簡偉明* </teacher>
-<score> 2 </score>
-<time day="5" s="1" e="2"> [5]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        0824 </place>
-<note></note>
-</S2>
-
 <S2 id="012">
 <num>S2-012</num>
 <class> 碩一二                         </class>

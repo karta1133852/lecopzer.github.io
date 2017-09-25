@@ -240,4 +240,18 @@
  </note>
 </S8>
 
+<S8 id="019">
+<num>S8-019</num>
+<class> 碩                             </class>
+<group></group>
+<name> 協作專業學習 </name>
+<teacher> 郭乃文* </teacher>
+<score> 1 </score>
+<time day="5" s="0" e="0"> [5]  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 上課時間:中午12:10-13:00 </note>
+</S8>
+
 </content>

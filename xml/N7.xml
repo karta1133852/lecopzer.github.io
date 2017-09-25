@@ -128,16 +128,18 @@
 
 <N7 id="017">
 <num>N7-017</num>
-<class> 碩博                           </class>
+<class></class>
 <group></group>
 <name> 未來城市 </name>
 <teacher> 解巽評   ,  賴啟銘   ,  鄭泰昇*  ,  林子平   ,  黃偉茹   ,  陳培殷   ,  藍崑展   ,  魏健宏   ,  林軒丞  </teacher>
 <score> 1 </score>
-<time day="6" s="2" e="8"> [6]2~8  </time>
+<time day="0" s="0" e="0"> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 本課程為密集式授課。上課時間：11/25、12/2、12/9 9:00-17:00地點：C-Hub 1樓 </note>
+<note> 
+ </note>
 </N7>
 
 <N7 id="019">
@@ -226,7 +228,7 @@
 <time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 建築系館                      5105 </place>
+<place> 建築系館                      5126 </place>
 <note> 以下為保存組課程 </note>
 </N7>
 
@@ -235,12 +237,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 歷史建築保存調查與實務 </name>
-<teacher> 林宜君*  ,  徐明福* </teacher>
+<teacher> 蔡侑樺*  ,  徐明福* </teacher>
 <score> 3 </score>
 <time day="4" s="6" e="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 建築系館                      5126 </place>
 <note> 上課教室為建築系未來教室 </note>
 </N7>
 

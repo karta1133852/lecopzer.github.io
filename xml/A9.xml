@@ -1004,7 +1004,7 @@
 <time day="2" s="5" e="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1304 </place>
+<place> 共同教室                      A1307(資源後) </place>
 <note> 英語授課;科際整合相關領域：人文學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
@@ -1046,7 +1046,7 @@
 <time day="2" s="3" e="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 理化大樓                      格致廳大講堂 </place>
+<place> 理化大樓                      格致廳小講堂 </place>
 <note> 英語授課，科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
 </A9>
 
@@ -1228,7 +1228,7 @@
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      成功共同300 </place>
+<place> 共同教室                      A1302 </place>
 <note> 科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
 </A9>
 
@@ -1606,7 +1606,7 @@
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 共同教室                      A1304 </place>
+<place> 共同教室                      A1303 </place>
 <note> 英語授課;科際整合相關領域：人文學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
@@ -1956,7 +1956,7 @@
 <time day="4" s="5" e="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
-<place> 企管系館                      62218 </place>
+<place> 企管系館                      62210 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -2082,7 +2082,7 @@
 <time day="4" s="7" e="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1301 </place>
+<place> 唯農大樓                      許文龍講堂 </place>
 <note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
 </A9>
 
@@ -2138,7 +2138,7 @@
 <time day="5" s="7" e="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 數學系館                      3172 </place>
+<place> 唯農大樓                      7211 </place>
 <note> 104學年度(含)以前入學生為「公民與歷史」 </note>
 </A9>
 

@@ -147,7 +147,7 @@
 <name> 神經科學綜論(三) </name>
 <teacher> 胡書榕  </teacher>
 <score> 3 </score>
-<time day="1" s="9" e="11"> [1]9~B  </time>
+<time day="5" s="9" e="11"> [5]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
@@ -203,7 +203,7 @@
 <name> 功能性核磁共振造影：理論與實務 </name>
 <teacher> 龔俊嘉  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day="2" s="6" e="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
@@ -280,6 +280,20 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
 <note> 選課前須先email授課老師取得同意。開放大學部高年級選修，過過人數後不再加簽 </note>
+</U7>
+
+<U7 id="021">
+<num>U7-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等神經與認知模擬 </name>
+<teacher> 胡中凡  </teacher>
+<score> 3 </score>
+<time day="4" s="9" e="11"> [4]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note> 須先修過認知心理學、心理與教育統計 神經科學相關課程，並須經授課老師同意 </note>
 </U7>
 
 </content>

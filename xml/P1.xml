@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 黃正弘  </teacher>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
 <score> 0 </score>
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 黃正弘  </teacher>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
 <score> 0 </score>
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -38,7 +38,7 @@
 <time day="1" s="6" e="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 系統系館                      56661 </place>
+<place> 系統系館                      56226 </place>
 <note></note>
 </P1>
 
@@ -103,7 +103,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 黃正弘  </teacher>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
 <score> 0 </score>
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -117,7 +117,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 黃正弘  </teacher>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
 <score> 0 </score>
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 黃正弘  </teacher>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
 <score> 0 </score>
 <time day="3" s="3" e="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -220,7 +220,7 @@
 <time day="1" s="7" e="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 系統系館                      56226 </place>
+<place> 系統系館                      56224 </place>
 <note></note>
 </P1>
 

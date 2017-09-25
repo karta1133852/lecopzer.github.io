@@ -115,11 +115,13 @@
 <name> 服務學習（一） </name>
 <teacher> 張志涵   ,  吳炳慶* </teacher>
 <score> 0 </score>
-<time day="3" s="9" e="9"> [3]9  </time>
+<time day="0" s="0" e="0"> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 醫技醫工館                    5730 </place>
-<note></note>
+<place></place>
+<note> 
+ </note>
 </F9>
 
 <F9 id="021">
@@ -183,7 +185,7 @@
 <class></class>
 <group></group>
 <name> 解剖學 </name>
-<teacher> 楊岱樺   ,  吳慶明   ,  吳佳慶*  ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
+<teacher> 楊岱樺   ,  吳佳慶   ,  許鍾瑜   ,  王家義*  ,  王仰高  </teacher>
 <score> 3 </score>
 <time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 必修 </must>
@@ -281,7 +283,7 @@
 <class></class>
 <group></group>
 <name> 臨床醫療概論 </name>
-<teacher> 葉明龍*  ,  楊岱樺   ,  邱南津   ,  趙曉秋   ,  林啟禎   ,  吳俊良   ,  李政翰   ,  王玠能   ,  鄭雅敏   ,  蘇維仁   ,  阮俊能   ,  戴世煌  </teacher>
+<teacher> 葉明龍*  ,  鄭國順   ,  陳芃婷   ,  楊岱樺   ,  邱南津   ,  趙曉秋   ,  林啟禎   ,  吳俊良   ,  李政翰   ,  王玠能   ,  鄭雅敏   ,  蘇維仁   ,  阮俊能   ,  戴世煌  </teacher>
 <score> 2 </score>
 <time day="5" s="8" e="9"> [5]8~9  </time>
 <must> 必修 </must>

@@ -123,7 +123,7 @@
 <class></class>
 <group></group>
 <name> 解剖學 </name>
-<teacher> 楊岱樺   ,  吳慶明   ,  吳佳慶*  ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
+<teacher> 楊岱樺   ,  吳佳慶   ,  許鍾瑜   ,  王家義*  ,  王仰高  </teacher>
 <score> 3 </score>
 <time day="5" s="2" e="4"> [5]2~4  </time>
 <must> 必修 </must>
@@ -300,7 +300,7 @@
 <time day="1" s="5" e="6"> [1]5~6  ,  [3]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
+<place> 生科系館                      3404 </place>
 <note> 醫技、藥學合班 </note>
 <class1></class1>
 <group1></group1>

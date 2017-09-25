@@ -458,7 +458,7 @@
 <time day="1" s="11" e="13"> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4509 </place>
 <note></note>
 </N6>
 
@@ -497,10 +497,10 @@
 <name> 決策理論 </name>
 <teacher> 潘南飛  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="5"> [3]5  ,  [4]5~6  </time>
+<time day="3" s="11" e="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -836,7 +836,7 @@
 <time day="1" s="11" e="13"> [1]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4509 </place>
 <note></note>
 </N6>
 
@@ -875,10 +875,10 @@
 <name> 決策理論 </name>
 <teacher> 潘南飛  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="5"> [3]5  ,  [4]5~6  </time>
+<time day="3" s="11" e="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 

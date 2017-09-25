@@ -202,6 +202,22 @@
 <note1></note1>
 </F3>
 
+<F3 id="020">
+<num>F3-020</num>
+<class></class>
+<group></group>
+<name> 木工機械加工實習 </name>
+<teacher> 何俊亨  </teacher>
+<score> 0.5 </score>
+<time day="0" s="0" e="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</F3>
+
 <F3 id="052">
 <num>F3-052</num>
 <class></class>
@@ -312,6 +328,22 @@
 <type> 講義 </type>
 <place> 工設系館                      5256A </place>
 <note></note>
+</F3>
+
+<F3 id="066">
+<num>F3-066</num>
+<class></class>
+<group></group>
+<name> 規劃與設計實作 </name>
+<teacher> 陳璽任  </teacher>
+<score> 2 </score>
+<time day="0" s="0" e="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </F3>
 
 <F3 id="109">

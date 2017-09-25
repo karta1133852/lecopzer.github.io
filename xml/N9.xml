@@ -175,10 +175,10 @@
 <name> 固體力學（一） </name>
 <teacher> 陳蓉珊  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day="3" s="2" e="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41111 </place>
+<place> 工科系館                      41101 </place>
 <note></note>
 </N9>
 
@@ -413,7 +413,7 @@
 <name> 氣體動力學 </name>
 <teacher> 劉中堅  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day="1" s="1" e="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41111 </place>
