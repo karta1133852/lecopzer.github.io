@@ -7,7 +7,7 @@
 <name> 普通化學 </name>
 <teacher> 林弘萍   ,  郭賓崇*  ,  林少紅  </teacher>
 <score> 3 </score>
-<time day="4" s="7" e="9"> [4]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        301D </place>
@@ -21,7 +21,7 @@
 <name> 體育（一） </name>
 <teacher> 馬上鈞  </teacher>
 <score> 0 </score>
-<time day="5" s="7" e="8"> [5]7~8  </time>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -35,7 +35,7 @@
 <name> 普通生物學（一） </name>
 <teacher> 宋皇模*  ,  張松彬   ,  廖泓鈞   ,  吳文鑾  </teacher>
 <score> 2 </score>
-<time day="3" s="5" e="6"> [3]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第三講堂 </place>
@@ -49,7 +49,7 @@
 <name> 服務學習（一） </name>
 <teacher> 高雅慧  </teacher>
 <score> 0 </score>
-<time day="3" s="4.5" e="4.5"> [3]N  </time>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -63,7 +63,7 @@
 <name> 微積分（一） </name>
 <teacher> 許瑞麟  </teacher>
 <score> 2 </score>
-<time day="1" s="2" e="3"> [1]2~3  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
@@ -71,7 +71,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="3" s="" e=""> [3]2  </time1>
+<time1 day1="3" s1="2" e1="2"> [3]2  </time1>
 <place1> 醫學院                        第四講堂 </place1>
 <note1></note1>
 </I8>
@@ -83,7 +83,7 @@
 <name> 生理學 </name>
 <teacher> 黃阿敏   ,  蔡美玲   ,  吳勝男   ,  楊尚訓   ,  顏賢章*  ,  陳珮君  </teacher>
 <score> 3 </score>
-<time day="1" s="1" e="1"> [1]1  ,  [3]3~4  </time>
+<time day1="1" s1="1" e1="1" day2="3" s2="3" e2="4"> [1]1  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
@@ -97,7 +97,7 @@
 <name> 有機化學（二） </name>
 <teacher> 洪欣儀*  ,  郭賓崇  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="2"> [3]2  ,  [1]5~6  </time>
+<time day1="3" s1="2" e1="2" day2="1" s2="5" e2="6"> [3]2  ,  [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
@@ -111,7 +111,7 @@
 <name> 有機化學實驗 </name>
 <teacher> 林少紅* </teacher>
 <score> 1 </score>
-<time day="3" s="7" e="9"> [3]7~9  </time>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 化工系館                      93326 </place>
@@ -125,7 +125,7 @@
 <name> 解剖學 </name>
 <teacher> 楊岱樺   ,  吳佳慶   ,  許鍾瑜   ,  王家義*  ,  王仰高  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
@@ -139,7 +139,7 @@
 <name> 生藥暨中藥學（一） </name>
 <teacher> 吳天賞  </teacher>
 <score> 3 </score>
-<time day="4" s="5" e="7"> [4]5~7  </time>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        501 </place>
@@ -153,7 +153,7 @@
 <name> 物理化學 </name>
 <teacher> 陳毓宏  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
@@ -167,7 +167,7 @@
 <name> 藥物化學專題研究（一） </name>
 <teacher> 洪欣儀  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 研討 </type>
@@ -183,7 +183,7 @@
 <name> 醫學論文研究 </name>
 <teacher> 歐凰姿*  ,  張惠華  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 研討 </type>
@@ -199,7 +199,7 @@
 <name> 藥用植物學 </name>
 <teacher> 陳益昇   ,  林少紅* </teacher>
 <score> 2 </score>
-<time day="1" s="7" e="8"> [1]7~8  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
@@ -213,7 +213,7 @@
 <name> 藥理學（一）（ 含實驗） </name>
 <teacher> 呂增宏   ,  許桂森   ,  張雋曦   ,  陳韻雯*  ,  姜學誠   ,  蕭雅心   ,  張雅雯   ,  周辰熹   ,  張惠華* </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        501 </place>
@@ -227,7 +227,7 @@
 <name> 藥物化學（一） </name>
 <teacher> 洪欣儀  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        302D </place>
@@ -241,7 +241,7 @@
 <name> 藥劑學（一） </name>
 <teacher> 蔡瑞真*  ,  張惠華  </teacher>
 <score> 2 </score>
-<time day="1" s="2" e="3"> [1]2~3  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        304D </place>
@@ -255,7 +255,7 @@
 <name> 藥劑學實驗（一） </name>
 <teacher> 蔡瑞真  </teacher>
 <score> 1 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 醫學院                        0301 </place>
@@ -269,7 +269,7 @@
 <name> 藥物分析（一） </name>
 <teacher> 郭賓崇* </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        202D </place>
@@ -283,7 +283,7 @@
 <name> 藥物資訊專題 </name>
 <teacher> 徐之昇   ,  賴嘉鎮   ,  鄭靜蘭   ,  歐凰姿* </teacher>
 <score> 1 </score>
-<time day="4" s="8" e="9"> [4]8~9  </time>
+<time day1="4" s1="8" e1="9"> [4]8~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
@@ -297,7 +297,7 @@
 <name> 微生物學（含實驗） </name>
 <teacher> 林子凱   ,  劉校生   ,  楊倍昌   ,  余俊強   ,  陳舜華   ,  蕭璦莉*  ,  王淑鶯   ,  黃一修   ,  陳振暐   ,  鄧景浩  </teacher>
 <score> 4 </score>
-<time day="1" s="5" e="6"> [1]5~6  ,  [3]1  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="1" e2="1"> [1]5~6  ,  [3]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3404 </place>
@@ -305,7 +305,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 微生物學（含實驗） </name1>
-<time1 day="3" s="" e=""> [3]2~4  </time1>
+<time1 day1="3" s1="2" e1="4"> [3]2~4  </time1>
 <place1> 醫技醫工館                    5761 </place1>
 <note1> 4F Lab </note1>
 </I8>
@@ -317,7 +317,7 @@
 <name> 藥物治療學（一） </name>
 <teacher> 賴嘉鎮*  ,  高雅慧   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿  </teacher>
 <score> 4 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 講義 </type>
@@ -333,7 +333,7 @@
 <name> 調劑學 </name>
 <teacher> 賴嘉鎮   ,  高雅慧   ,  鄭靜蘭*  ,  歐凰姿  </teacher>
 <score> 2 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 講義 </type>
@@ -349,7 +349,7 @@
 <name> 調劑學實驗 </name>
 <teacher> 賴嘉鎮   ,  高雅慧   ,  鄭靜蘭*  ,  歐凰姿  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -365,7 +365,7 @@
 <name> 病態生理學 </name>
 <teacher> 賴嘉鎮*  ,  高雅慧   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿  </teacher>
 <score> 2 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 講義 </type>
@@ -381,7 +381,7 @@
 <name> 生物統計學 </name>
 <teacher> 李中一* </teacher>
 <score> 2 </score>
-<time day="2" s="7" e="8"> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第三講堂 </place>
@@ -395,7 +395,7 @@
 <name> 流行病學 </name>
 <teacher> 林秀娟   ,  張志欽   ,  呂宗學   ,  胡淑貞   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯*  ,  劉立凡  </teacher>
 <score> 2 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 講義 </type>

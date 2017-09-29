@@ -238,8 +238,8 @@ $(function() {
 //    var sem = document.getElementById("semesterSelect").value;
     var x = loadXml(/*sem +*/ "xml/" + maj + ".xml");
 //    path = "/content/" + maj + "[@id='"+ num + "']";
-    var path = "/content/" + maj + "/time" + "[@day=" + d +" and @s>=" + s + " and @e<=" + e + "]";
     var xml = x.responseXML;
+    var retFlag = false;
     /*  For IE  */
     if(window.ActiveXObject || xhttp.responseType=="msxml-document") {
       xml.setProperty("SelectionLanguage","XPath");
@@ -248,9 +248,13 @@ $(function() {
     }
       /*  for others  */
     else if(document.implementation && document.implementation.createDocument) {
-      var nodes = xml.evaluate(path, xml, null, XPathResult.ANY_TYPE, null);
-      var result = nodes.iterateNext();
-      if(result) {
+      var j = 1;
+      for(j = 1; j <= 7; j++) { 
+        var path = "/content/" + maj + "/time" + "[@day" + j.toString() + "=" + d 
+          +" and @s" + j.toString() + ">=" + s + " and @e" + j.toString() + "<=" + e + "]";
+        var nodes = xml.evaluate(path, xml, null, XPathResult.ANY_TYPE, null);
+        var result = nodes.iterateNext();
+        if(result) {
         /*  'count' used for counting sub-class 
         * 1 = No sub class
         * others = count - 1 sub class  */
@@ -267,27 +271,29 @@ $(function() {
         result = nodes.iterateNext();
         */
 
-        for(; result; result = nodes.iterateNext()) {
-          var p = result.parentNode;
-          var num = p.getElementsByTagName("num")[0].childNodes[0].nodeValue.trim();
-          var name = p.getElementsByTagName("name")[0].childNodes[0].nodeValue.trim()
-          var _time = p.getElementsByTagName("time")[0].childNodes[0].nodeValue.trim();
-          document.getElementById("searchResultList").innerHTML += "<div id='SN" + num + "' class='searchCell'>" +
+          for(; result; result = nodes.iterateNext()) {
+            var p = result.parentNode;
+            var num = p.getElementsByTagName("num")[0].childNodes[0].nodeValue.trim();
+            var name = p.getElementsByTagName("name")[0].childNodes[0].nodeValue.trim()
+            var _time = p.getElementsByTagName("time")[0].childNodes[0].nodeValue.trim();
+            if(findSearchList(num) != -1) continue;
+            document.getElementById("searchResultList").innerHTML += "<div id='SN" + num + "' class='searchCell'>" +
   /*  " onmouseenter='listMouseEnter(this)'>"+*/
-          num + "  " + name + "<span style='float:right;'>" + _time + "</span></div>"
-          + "<a id='SA" + num + "' style='float:right;margin:13px 21px 0 0;color:blue; cursor:pointer'"+
-          " onclick='searchIconAddClick(this)' class='material-icons'>add_circle</a>";
-          var content = getClassContent(p);
-          searchList.push({
-            num: num,
-            content: content,
-          }); 
+            num + "  " + name + "<span style='float:right;'>" + _time + "</span></div>"
+            + "<a id='SA" + num + "' style='float:right;margin:13px 21px 0 0;color:blue; cursor:pointer'"+
+            " onclick='searchIconAddClick(this)' class='material-icons'>add_circle</a>";
+            var content = getClassContent(p);
+            searchList.push({
+              num: num,
+              content: content,
+            }); 
+          }
+          retFlag = true;
         }
-        return true;
       }
     }
-    return false;
-  }
+      return retFlag;
+    }
 });
 
 $(function() {
@@ -305,7 +311,11 @@ $(function() {
 
 function findSearchList(x) {
     var k = 0;
-    while(searchList[k].num != x) k++;
+    if(searchList.length == 0) return -1;
+    while(searchList[k].num != x) { 
+      k++;
+      if(k >= searchList.length) return -1;
+    }
     return k;
 }
 

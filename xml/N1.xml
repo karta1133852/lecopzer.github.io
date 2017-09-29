@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 顏鴻森  </teacher>
 <score> 0 </score>
-<time day="2" s="7" e="8"> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      俊銘講堂 </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（三） </name>
 <teacher> 顏鴻森  </teacher>
 <score> 0 </score>
-<time day="2" s="7" e="8"> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      俊銘講堂 </place>
@@ -35,7 +35,7 @@
 <name> 專題討論（一） </name>
 <teacher> 陳重德  </teacher>
 <score> 0 </score>
-<time day="2" s="7" e="8"> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91102 </place>
@@ -49,7 +49,7 @@
 <name> 專題討論（三） </name>
 <teacher> 施士塵  </teacher>
 <score> 0 </score>
-<time day="2" s="7" e="8"> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91207 </place>
@@ -63,7 +63,7 @@
 <name> 專題討論 </name>
 <teacher> 黃文敏  </teacher>
 <score> 0 </score>
-<time day="2" s="7" e="8"> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      三星講堂 </place>
@@ -77,7 +77,7 @@
 <name> ＩＣ封裝及實驗 </name>
 <teacher> 黃聖杰  </teacher>
 <score> 3 </score>
-<time day="5" s="5" e="7"> [5]5~7  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91804 </place>
@@ -91,7 +91,7 @@
 <name> 高等燃燒學 </name>
 <teacher> 林大惠  </teacher>
 <score> 3 </score>
-<time day="2" s="1" e="1"> [2]1  ,  [4]1~2  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="1" e2="2"> [2]1  ,  [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>
@@ -105,7 +105,7 @@
 <name> 熱傳導學 </name>
 <teacher> 陳寒濤  </teacher>
 <score> 3 </score>
-<time day="1" s="2" e="2"> [1]2  ,  [2]2~3  </time>
+<time day1="1" s1="2" e1="2" day2="2" s2="2" e2="3"> [1]2  ,  [2]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95703 </place>
@@ -119,7 +119,7 @@
 <name> 高分子材料加工 </name>
 <teacher> 黃聖杰  </teacher>
 <score> 3 </score>
-<time day="4" s="3" e="4.5"> [4]3~N  </time>
+<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91102 </place>
@@ -133,7 +133,7 @@
 <name> 工程兩相流 </name>
 <teacher> 王逸君  </teacher>
 <score> 3 </score>
-<time day="1" s="3" e="4"> [1]3~4  ,  [4]5  </time>
+<time day1="1" s1="3" e1="4" day2="4" s2="5" e2="5"> [1]3~4  ,  [4]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91204 </place>
@@ -147,7 +147,7 @@
 <name> 高等熱力學 </name>
 <teacher> 楊玉姿  </teacher>
 <score> 3 </score>
-<time day="1" s="5" e="5"> [1]5  ,  [1]3~4  </time>
+<time day1="1" s1="5" e1="5" day2="1" s2="3" e2="4"> [1]5  ,  [1]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91302 </place>
@@ -161,7 +161,7 @@
 <name> 計算流體力學 </name>
 <teacher> 何清政  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91303 </place>
@@ -175,7 +175,7 @@
 <name> 熱質傳遞導論 </name>
 <teacher> 溫昌達  </teacher>
 <score> 3 </score>
-<time day="4" s="7" e="8"> [4]7~8  ,  [2]4  </time>
+<time day1="4" s1="7" e1="8" day2="2" s2="4" e2="4"> [4]7~8  ,  [2]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91207 </place>
@@ -189,7 +189,7 @@
 <name> 黏性流體力學 </name>
 <teacher> 張錦裕  </teacher>
 <score> 3 </score>
-<time day="4" s="6" e="8"> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91204 </place>
@@ -203,7 +203,7 @@
 <name> 熱交換器設計 </name>
 <teacher> 張錦裕  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>
@@ -217,7 +217,7 @@
 <name> 多核心CPU和GPU計算 </name>
 <teacher> 李汶樺  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="6"> [3]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3178 </place>
@@ -225,7 +225,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 多核心CPU和GPU計算 </name1>
-<time1 day="3" s="" e=""> [3]7~8  </time1>
+<time1 day1="3" s1="7" e1="8"> [3]7~8  </time1>
 <place1> 數學系館                      3178 </place1>
 <note1></note1>
 </N1>
@@ -237,7 +237,7 @@
 <name> 塑膠流動學 </name>
 <teacher> 吳俊煌  </teacher>
 <score> 3 </score>
-<time day="1" s="4.5" e="4.5"> [1]N  ,  [2]N  ,  [5]N  </time>
+<time day1="1" s1="4.5" e1="4.5" day2="2" s2="4.5" e2="4.5" day3="5" s3="4.5" e3="4.5"> [1]N  ,  [2]N  ,  [5]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91904 </place>
@@ -251,7 +251,7 @@
 <name> 基本固體力學（一） </name>
 <teacher> 翁政義  </teacher>
 <score> 3 </score>
-<time day="2" s="3" e="4"> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      象賢講堂 </place>
@@ -265,7 +265,7 @@
 <name> 板殼力學 </name>
 <teacher> 陳聯文  </teacher>
 <score> 3 </score>
-<time day="1" s="7" e="9"> [1]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>
@@ -279,7 +279,7 @@
 <name> 實驗設計 </name>
 <teacher> 賴新一  </teacher>
 <score> 3 </score>
-<time day="3" s="7" e="9"> [3]7~9  </time>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>
@@ -293,10 +293,10 @@
 <name> 有限元素法 </name>
 <teacher> 陳重德  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="2"> [2]2  ,  [3]6~7  </time>
+<time day1="2" s1="2" e1="2" day2="3" s2="6" e2="7"> [2]2  ,  [3]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91308 </place>
+<place> 機械系館                      91203 </place>
 <note></note>
 </N1>
 
@@ -307,7 +307,7 @@
 <name> 工程分析 </name>
 <teacher> 李森墉   ,  陳朝光* </teacher>
 <score> 3 </score>
-<time day="1" s="4" e="4"> [1]4  ,  [4]3~4  </time>
+<time day1="1" s1="4" e1="4" day2="4" s2="3" e2="4"> [1]4  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      象賢講堂 </place>
@@ -321,7 +321,7 @@
 <name> 高等工程分析 </name>
 <teacher> 陳朝光  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -335,7 +335,7 @@
 <name> 振動力學 </name>
 <teacher> 陳國聲   ,  李森墉* </teacher>
 <score> 3 </score>
-<time day="1" s="3" e="3"> [1]3  ,  [4]7~8  </time>
+<time day1="1" s1="3" e1="3" day2="4" s2="7" e2="8"> [1]3  ,  [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91206 </place>
@@ -349,7 +349,7 @@
 <name> 積體電路製程先進技術與設備 </name>
 <teacher> 陳國聲   ,  王英郎* </teacher>
 <score> 3 </score>
-<time day="5" s="6" e="8"> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      三星講堂 </place>
@@ -363,7 +363,7 @@
 <name> 數位訊號處理 </name>
 <teacher> 李永春  </teacher>
 <score> 3 </score>
-<time day="3" s="3" e="4"> [3]3~4  ,  [5]4  </time>
+<time day1="3" s1="3" e1="4" day2="5" s2="4" e2="4"> [3]3~4  ,  [5]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91206 </place>
@@ -377,7 +377,7 @@
 <name> 分析動力學 </name>
 <teacher> 陳國聲  </teacher>
 <score> 3 </score>
-<time day="1" s="4" e="4"> [1]4  ,  [5]2~3  </time>
+<time day1="1" s1="4" e1="4" day2="5" s2="2" e2="3"> [1]4  ,  [5]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91102 </place>
@@ -391,7 +391,7 @@
 <name> 機構設計 </name>
 <teacher> 黃文敏  </teacher>
 <score> 3 </score>
-<time day="2" s="5" e="6"> [2]5~6  ,  [5]2  </time>
+<time day1="2" s1="5" e1="6" day2="5" s2="2" e2="2"> [2]5~6  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91308 </place>
@@ -405,7 +405,7 @@
 <name> 最佳設計 </name>
 <teacher> 林啟倫  </teacher>
 <score> 3 </score>
-<time day="2" s="3" e="4"> [2]3~4  ,  [3]5  </time>
+<time day1="2" s1="3" e1="4" day2="3" s2="5" e2="5"> [2]3~4  ,  [3]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91203 </place>
@@ -419,10 +419,10 @@
 <name> 創意性機構設計 </name>
 <teacher> 顏鴻森  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91201 </place>
+<place> 機械系館                      91202 </place>
 <note> 大碩合開 </note>
 </N1>
 
@@ -433,7 +433,7 @@
 <name> 物件導向程式設計及應用 </name>
 <teacher> 方晶晶  </teacher>
 <score> 3 </score>
-<time day="1" s="5" e="7"> [1]5~7  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91305 </place>
@@ -447,7 +447,7 @@
 <name> 機器動力學 </name>
 <teacher> 邱顯堂  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91206 </place>
@@ -461,7 +461,7 @@
 <name> TRIZ創新設計方法 </name>
 <teacher> 陳家豪  </teacher>
 <score> 3 </score>
-<time day="4" s="6" e="8"> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91203 </place>
@@ -475,7 +475,7 @@
 <name> 實用金相學 </name>
 <teacher> 蘇演良  </teacher>
 <score> 3 </score>
-<time day="4" s="1" e="2"> [4]1~2  ,  [2]3  </time>
+<time day1="4" s1="1" e1="2" day2="2" s2="3" e2="3"> [4]1~2  ,  [2]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91904 </place>
@@ -489,7 +489,7 @@
 <name> 金屬物理學 </name>
 <teacher> 李驊登  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      三星講堂 </place>
@@ -503,7 +503,7 @@
 <name> 電腦整合製造 </name>
 <teacher> 李榮顯  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>
@@ -517,7 +517,7 @@
 <name> 微機電系統技術與整合 </name>
 <teacher> 鍾震桂  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="2"> [2]2  ,  [4]1~2  </time>
+<time day1="2" s1="2" e1="2" day2="4" s2="1" e2="2"> [2]2  ,  [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91904 </place>
@@ -531,7 +531,7 @@
 <name> 材料特論 </name>
 <teacher> 施士塵  </teacher>
 <score> 3 </score>
-<time day="1" s="7" e="9"> [1]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91102 </place>
@@ -545,7 +545,7 @@
 <name> 雷射材料加工 </name>
 <teacher> 林震銘  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91804 </place>
@@ -559,7 +559,7 @@
 <name> 智慧移動機器人 </name>
 <teacher> 劉彥辰  </teacher>
 <score> 3 </score>
-<time day="2" s="5" e="5"> [2]5  ,  [4]6~7  </time>
+<time day1="2" s1="5" e1="5" day2="4" s2="6" e2="7"> [2]5  ,  [4]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91202 </place>
@@ -573,7 +573,7 @@
 <name> 系統建模與控制 </name>
 <teacher> 蔡南全  </teacher>
 <score> 3 </score>
-<time day="4" s="6" e="8"> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91804 </place>
@@ -587,7 +587,7 @@
 <name> 機器人分析與控制 </name>
 <teacher> 蔡清元  </teacher>
 <score> 3 </score>
-<time day="1" s="2" e="4"> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>
@@ -601,7 +601,7 @@
 <name> 生物組織與細胞力學 </name>
 <teacher> 朱銘祥  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91207 </place>
@@ -615,10 +615,10 @@
 <name> 強健控制 </name>
 <teacher> 蔡明祺  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91102 </place>
+<place> 機械系館                      三星講堂 </place>
 <note></note>
 </N1>
 
@@ -629,7 +629,7 @@
 <name> 隨機動態數據分析與處理 </name>
 <teacher> 張仁宗  </teacher>
 <score> 3 </score>
-<time day="4" s="3" e="4"> [4]3~4  ,  [5]6  </time>
+<time day1="4" s1="3" e1="4" day2="5" s2="6" e2="6"> [4]3~4  ,  [5]6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91904 </place>
@@ -643,7 +643,7 @@
 <name> 線性系統 </name>
 <teacher> 田思齊  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="6"> [2]6  ,  [3]3~4  </time>
+<time day1="2" s1="6" e1="6" day2="3" s2="3" e2="4"> [2]6  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91102 </place>
@@ -657,7 +657,7 @@
 <name> 複雜系統的模型選擇及網路推論 </name>
 <teacher> 吳馬丁  </teacher>
 <score> 3 </score>
-<time day="5" s="1" e="3"> [5]1~3  </time>
+<time day1="5" s1="1" e1="3"> [5]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91A04 </place>
@@ -671,7 +671,7 @@
 <name> 電動力學實習 </name>
 <teacher> 西村泰太郎* </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="7"> [1]6~7  </time>
+<time day1="1" s1="6" e1="7"> [1]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>
@@ -679,7 +679,7 @@
 <class1> 碩博                           </class1>
 <group1></group1>
 <name1> 電動力學實習 </name1>
-<time1 day="1" s="" e=""> [1]8~9  </time1>
+<time1 day1="1" s1="8" e1="9"> [1]8~9  </time1>
 <place1> 綜合大樓                      48111B </place1>
 <note1></note1>
 </N1>
@@ -691,7 +691,7 @@
 <name> 連續體與流體力學 </name>
 <teacher> 西村泰太郎* </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48216 </place>
@@ -705,7 +705,7 @@
 <name> 金屬材料製程及運輸產業應用實務 </name>
 <teacher> 林秋豐  </teacher>
 <score> 3 </score>
-<time day="5" s="6" e="8"> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
@@ -719,7 +719,7 @@
 <name> 高等內燃機 </name>
 <teacher> 林知伸  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="6"> [3]5~6  ,  [5]1  </time>
+<time day1="3" s1="5" e1="6" day2="5" s2="1" e2="1"> [3]5~6  ,  [5]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91202 </place>

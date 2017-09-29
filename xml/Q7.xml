@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 高國興  </teacher>
 <score> 0 </score>
-<time day="4" s="4.5" e="5"> [4]N~5  </time>
+<time day1="4" s1="4.5" e1="5"> [4]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92371 </place>
@@ -21,25 +21,11 @@
 <name> 專題討論（三） </name>
 <teacher> 高國興  </teacher>
 <score> 0 </score>
-<time day="5" s="4.5" e="5"> [5]N~5  </time>
+<time day1="5" s1="4.5" e1="5"> [5]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92371 </place>
 <note></note>
-</Q7>
-
-<Q7 id="006">
-<num>Q7-006</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電子與奈米材料分析 </name>
-<teacher> 李文熙  </teacher>
-<score> 3 </score>
-<time day="5" s="7" e="9"> [5]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92371 </place>
-<note> 英語授課 </note>
 </Q7>
 
 <Q7 id="007">
@@ -49,7 +35,7 @@
 <name> 半導體感測器實務技術 </name>
 <teacher> 曾永華  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      令洋廳 </place>
@@ -63,7 +49,7 @@
 <name> 高等材料分析 </name>
 <teacher> 張高碩  </teacher>
 <score> 3 </score>
-<time day="1" s="5" e="5"> [1]5  ,  [2]5~6  </time>
+<time day1="1" s1="5" e1="5" day2="2" s2="5" e2="6"> [1]5  ,  [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 化工系館                      93456 </place>
@@ -77,10 +63,10 @@
 <name> 半導體元件物理 </name>
 <teacher> 王水進  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92371 </place>
+<place> 電機系館                      繁城講堂 </place>
 <note></note>
 </Q7>
 
@@ -91,7 +77,7 @@
 <name> 半導體及先進奈米化製程技術概論（一） </name>
 <teacher> 王英郎  </teacher>
 <score> 3 </score>
-<time day="4" s="7" e="9"> [4]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      迅慧講堂 </place>
@@ -105,7 +91,7 @@
 <name> 量子電子學 </name>
 <teacher> 莊文魁  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
@@ -119,7 +105,7 @@
 <name> ＵＬＳＩ元件物理 </name>
 <teacher> 陳志方  </teacher>
 <score> 3 </score>
-<time day="3" s="4" e="4"> [3]4  ,  [4]3~4  </time>
+<time day1="3" s1="4" e1="4" day2="4" s2="3" e2="4"> [3]4  ,  [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92383 </place>
@@ -133,7 +119,7 @@
 <name> 開發創新發明專題 </name>
 <teacher> 李清庭  </teacher>
 <score> 3 </score>
-<time day="1" s="7" e="9"> [1]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92283 </place>
@@ -147,7 +133,7 @@
 <name> 高速元件 </name>
 <teacher> 劉文超  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="2"> [2]2  ,  [3]3~4  </time>
+<time day1="2" s1="2" e1="2" day2="3" s2="3" e2="4"> [2]2  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
@@ -161,7 +147,7 @@
 <name> 光電元件設計與模擬 </name>
 <teacher> 張守進  </teacher>
 <score> 3 </score>
-<time day="4" s="10" e="12"> [4]A~C  </time>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
@@ -175,7 +161,7 @@
 <name> 電子構裝技術 </name>
 <teacher> 洪茂峰  </teacher>
 <score> 3 </score>
-<time day="2" s="3" e="4"> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
@@ -189,7 +175,7 @@
 <name> 半導體光學 </name>
 <teacher> 蔡宗祐  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
@@ -203,7 +189,7 @@
 <name> 半導體記憶體元件與設計實務 </name>
 <teacher> 盧達生  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      令洋廳 </place>
@@ -217,7 +203,7 @@
 <name> 寬能隙半導體專論 </name>
 <teacher> 張守進  </teacher>
 <score> 3 </score>
-<time day="5" s="7" e="9"> [5]7~9  </time>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92171 </place>
@@ -231,7 +217,7 @@
 <name> 高功率GaN-基LED製程專論 </name>
 <teacher> 王水進  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>

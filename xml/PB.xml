@@ -7,7 +7,7 @@
 <name> 新媒體與科技藝術導論 </name>
 <teacher> 陳建旭*  ,  陳明惠  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53308 </place>
@@ -21,7 +21,7 @@
 <name> 藝術科技專題創作(Ⅰ) </name>
 <teacher> 林軒丞  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53211 </place>
@@ -35,7 +35,7 @@
 <name> 運算媒體 </name>
 <teacher> 卓彥廷  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
@@ -49,7 +49,7 @@
 <name> 實體運算 </name>
 <teacher> 林軒丞  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53211 </place>
@@ -63,7 +63,7 @@
 <name> 畢業專題創作（Ⅰ） </name>
 <teacher> 陳明惠  </teacher>
 <score> 1 </score>
-<time day="4" s="1" e="1"> [4]1  </time>
+<time day1="4" s1="1" e1="1"> [4]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53211 </place>

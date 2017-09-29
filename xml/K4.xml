@@ -7,7 +7,7 @@
 <name> 中西戲劇與劇場史 </name>
 <teacher> 朱芳慧* </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -21,7 +21,7 @@
 <name> 音樂評論 </name>
 <teacher> 楊金峯* </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -35,7 +35,7 @@
 <name> 劇場實務 </name>
 <teacher> 高美華*  ,  陳佳彬*  ,  李欣怡* </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -49,7 +49,7 @@
 <name> 當代藝術史 </name>
 <teacher> 王雅倫* </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -63,7 +63,7 @@
 <name> 藝術專題討論 </name>
 <teacher> 李欣怡  </teacher>
 <score> 0 </score>
-<time day="2" s="6" e="7"> [2]6~7  </time>
+<time day1="2" s1="6" e1="7"> [2]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 藝術所                        5450 </place>
@@ -77,7 +77,7 @@
 <name> 臺灣音樂專題研究 </name>
 <teacher> 施德玉* </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -91,7 +91,7 @@
 <name> 民族音樂學專題研究 </name>
 <teacher> 施德玉* </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="7"> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -105,7 +105,7 @@
 <name> 西方視覺藝術評論 </name>
 <teacher> 吳奕芳* </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -119,7 +119,7 @@
 <name> 戲劇表演藝術專題研究 </name>
 <teacher> 朱芳慧* </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -133,7 +133,7 @@
 <name> 藝術學研究法 </name>
 <teacher> 王雅倫*  ,  陳佳彬*  ,  施德玉* </teacher>
 <score> 3 </score>
-<time day="4" s="6" e="8"> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -147,7 +147,7 @@
 <name> 創造性戲劇 </name>
 <teacher> 陳佳彬* </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -161,7 +161,7 @@
 <name> 民間美術專題研究 </name>
 <teacher> 高燦榮* </teacher>
 <score> 3 </score>
-<time day="5" s="5" e="7"> [5]5~7  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>

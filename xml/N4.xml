@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 王建力  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 共同教室                      A1302 </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（一） </name>
 <teacher> 向性一  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4353 </place>
@@ -35,7 +35,7 @@
 <name> 專題討論（一） </name>
 <teacher> 施勵行  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4307 </place>
@@ -49,7 +49,7 @@
 <name> 專題討論（三） </name>
 <teacher> 王建力  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 共同教室                      A1302 </place>
@@ -63,7 +63,7 @@
 <name> 專題討論（三） </name>
 <teacher> 向性一  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4353 </place>
@@ -77,7 +77,7 @@
 <name> 專題討論（三） </name>
 <teacher> 施勵行  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4307 </place>
@@ -91,7 +91,7 @@
 <name> 專題討論（一） </name>
 <teacher> 王建力  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 共同教室                      A1302 </place>
@@ -105,7 +105,7 @@
 <name> 專題討論（一） </name>
 <teacher> 向性一  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4353 </place>
@@ -119,7 +119,7 @@
 <name> 專題討論（一） </name>
 <teacher> 施勵行  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4307 </place>
@@ -133,7 +133,7 @@
 <name> 專題討論（三） </name>
 <teacher> 王建力  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 共同教室                      A1302 </place>
@@ -147,7 +147,7 @@
 <name> 專題討論（三） </name>
 <teacher> 向性一  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4353 </place>
@@ -161,7 +161,7 @@
 <name> 專題討論（三） </name>
 <teacher> 施勵行  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 資源系館                      4307 </place>
@@ -175,7 +175,7 @@
 <name> 專題討論 </name>
 <teacher> 王建力  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 共同教室                      A1302 </place>
@@ -189,7 +189,7 @@
 <name> 專題討論 </name>
 <teacher> 向性一  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4353 </place>
@@ -203,7 +203,7 @@
 <name> 專題討論 </name>
 <teacher> 施勵行  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4307 </place>
@@ -217,7 +217,7 @@
 <name> 資源工程 </name>
 <teacher> 陳昭旭  </teacher>
 <score> 2 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4352 </place>
@@ -231,7 +231,7 @@
 <name> 高等礦場設計 </name>
 <teacher> 蘇義松  </teacher>
 <score> 3 </score>
-<time day="2" s="9" e="11"> [2]9~B  </time>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4353 </place>
@@ -245,7 +245,7 @@
 <name> 地質統計學 </name>
 <teacher> 徐國錦  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4302 </place>
@@ -259,7 +259,7 @@
 <name> 數值分析 </name>
 <teacher> 王建力  </teacher>
 <score> 3 </score>
-<time day="1" s="2" e="4"> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4352 </place>
@@ -273,7 +273,7 @@
 <name> 高等資源管理 </name>
 <teacher> 施勵行  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4350 </place>
@@ -287,7 +287,7 @@
 <name> 粉體系統 </name>
 <teacher> 顏富士  </teacher>
 <score> 3 </score>
-<time day="1" s="1" e="3"> [1]1~3  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4302 </place>
@@ -301,7 +301,7 @@
 <name> 結晶化學 </name>
 <teacher> 黃啟原  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4352 </place>
@@ -315,7 +315,7 @@
 <name> 能源經濟學 </name>
 <teacher> 吳榮華  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4350 </place>
@@ -329,7 +329,7 @@
 <name> 石油工程特論 </name>
 <teacher> 郭明錦  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4302 </place>
@@ -343,7 +343,7 @@
 <name> 溼法冶金 </name>
 <teacher> 申永輝  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4354 </place>
@@ -357,7 +357,7 @@
 <name> 相平衡 </name>
 <teacher> 雷大同  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4302 </place>
@@ -371,7 +371,7 @@
 <name> 陶瓷製程 </name>
 <teacher> 向性一  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4352 </place>
@@ -385,7 +385,7 @@
 <name> 陶瓷材料特性 </name>
 <teacher> 黃啟原  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4352 </place>

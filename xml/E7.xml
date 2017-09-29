@@ -7,7 +7,7 @@
 <name> 建築設計（一） </name>
 <teacher> 林煌迪   ,  顏世樺   ,  陳恥德   ,  葉玉祥   ,  陳品蓁   ,  宋立文* </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="6"> [2]6  </time>
+<time day1="2" s1="6" e1="6"> [2]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5111 </place>
@@ -15,7 +15,7 @@
 <class1> 甲乙                           </class1>
 <group1></group1>
 <name1> 建築設計（一） </name1>
-<time1 day="2" s="" e=""> [2]7~9  ,  [5]6~8  </time1>
+<time1 day1="2" s1="7" e1="9" day2="5" s2="6" e2="8"> [2]7~9  ,  [5]6~8  </time1>
 <place1> 建築系館                      5111 </place1>
 <note1> 及5112教室。需同時選修建築圖學 </note1>
 </E7>
@@ -27,7 +27,7 @@
 <name> 建築圖學 </name>
 <teacher> 陳品蓁  </teacher>
 <score> 2 </score>
-<time day="1" s="4.5" e="4.5"> [1]N  </time>
+<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -35,7 +35,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 建築圖學 </name1>
-<time1 day="1" s="" e=""> [1]5~6  </time1>
+<time1 day1="1" s1="5" e1="6"> [1]5~6  </time1>
 <place1> 建築系館                      5101 </place1>
 <note1> 5111教室及5112教室。需同時選修建築設計(一) </note1>
 </E7>
@@ -47,7 +47,7 @@
 <name> 微積分 </name>
 <teacher> 粘珠鳳  </teacher>
 <score> 3 </score>
-<time day="1" s="2" e="3"> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48424 </place>
@@ -55,19 +55,19 @@
 <class1> 甲乙                           </class1>
 <group1> A </group1>
 <name1> 微積分 </name1>
-<time1 day="3" s="" e=""> [3]1  </time1>
+<time1 day1="3" s1="1" e1="1"> [3]1  </time1>
 <place1> 建築研究大樓                  5172 </place1>
 <note1></note1>
 <class2> 甲乙                           </class2>
 <group2> B </group2>
 <name2> 微積分 </name2>
-<time2 day="3" s="" e=""> [3]1  </time2>
+<time2 day1="3" s1="1" e1="1"> [3]1  </time2>
 <place2> 耐震大樓(建築研究大樓旁)      5127 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
 <group3> C </group3>
 <name3> 微積分 </name3>
-<time3 day="3" s="" e=""> [3]1  </time3>
+<time3 day1="3" s1="1" e1="1"> [3]1  </time3>
 <place3> 建築系館                      5105 </place3>
 <note3></note3>
 </E7>
@@ -79,7 +79,7 @@
 <name> 繪畫（一） </name>
 <teacher> 黃步青  </teacher>
 <score> 1 </score>
-<time day="3" s="5" e="7"> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5133 </place>
@@ -93,7 +93,7 @@
 <name> 建築概論 </name>
 <teacher> 陳品蓁  </teacher>
 <score> 2 </score>
-<time day="4" s="3" e="4"> [4]3~4  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -107,7 +107,7 @@
 <name> 體育（一） </name>
 <teacher> 黃鈴雯  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -121,7 +121,7 @@
 <name> 服務學習（一） </name>
 <teacher> 陳震宇  </teacher>
 <score> 0 </score>
-<time day="3" s="9" e="9"> [3]9  </time>
+<time day1="3" s1="9" e1="9"> [3]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5126 </place>
@@ -135,7 +135,7 @@
 <name> 建築設計（三） </name>
 <teacher> 吳秉聲   ,  恩宇   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤* </teacher>
 <score> 4 </score>
-<time day="2" s="1" e="9"> [2]1~9  </time>
+<time day1="2" s1="1" e1="9"> [2]1~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5123 </place>
@@ -149,7 +149,7 @@
 <name> 西洋建築史 </name>
 <teacher> 恩宇  </teacher>
 <score> 2 </score>
-<time day="5" s="3" e="4"> [5]3~4  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -163,7 +163,7 @@
 <name> 材料力學 </name>
 <teacher> 姚昭智  </teacher>
 <score> 3 </score>
-<time day="3" s="7" e="9"> [3]7~9  </time>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5172 </place>
@@ -177,7 +177,7 @@
 <name> 建築材料 </name>
 <teacher> 陳震宇  </teacher>
 <score> 2 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -191,7 +191,7 @@
 <name> 建築物理環境（一） </name>
 <teacher> 林憲德  </teacher>
 <score> 2 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -205,7 +205,7 @@
 <name> 建築要素 </name>
 <teacher> 陳穎澤  </teacher>
 <score> 2 </score>
-<time day="1" s="2" e="3"> [1]2~3  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5127 </place>
@@ -219,7 +219,7 @@
 <name> 基礎數位設計 </name>
 <teacher> 柳川肯  </teacher>
 <score> 2 </score>
-<time day="5" s="7" e="8"> [5]7~8  </time>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5102 </place>
@@ -233,7 +233,7 @@
 <name> 建築設計（五） </name>
 <teacher> 卓建光   ,  陳柏年   ,  顏茂倉*  ,  姜樂靜   ,  沈弘軒   ,  林宛蓁   ,  黃介二  </teacher>
 <score> 4 </score>
-<time day="2" s="1" e="9"> [2]1~9  </time>
+<time day1="2" s1="1" e1="9"> [2]1~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5121 </place>
@@ -247,7 +247,7 @@
 <name> 建築構造（二） </name>
 <teacher> 葉玉祥  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="7"> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -261,7 +261,7 @@
 <name> 建築物理環境(三) </name>
 <teacher> 林子平  </teacher>
 <score> 2 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5172 </place>
@@ -275,7 +275,7 @@
 <name> 建築環境控制系統（一） </name>
 <teacher> 蔡耀賢  </teacher>
 <score> 2 </score>
-<time day="3" s="3" e="4"> [3]3~4  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -289,7 +289,7 @@
 <name> 都市計劃概論 </name>
 <teacher> 胡太山  </teacher>
 <score> 2 </score>
-<time day="4" s="1" e="2"> [4]1~2  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5172 </place>
@@ -303,7 +303,7 @@
 <name> 近代建築史 </name>
 <teacher> 吳秉聲  </teacher>
 <score> 2 </score>
-<time day="5" s="3" e="4"> [5]3~4  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5127 </place>
@@ -317,7 +317,7 @@
 <name> 服務學習（三） </name>
 <teacher> 陳世明  </teacher>
 <score> 0 </score>
-<time day="4" s="9" e="9"> [4]9  </time>
+<time day1="4" s1="9" e1="9"> [4]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築研究大樓                  5172 </place>
@@ -331,7 +331,7 @@
 <name> 結構系統 </name>
 <teacher> 杜怡萱  </teacher>
 <score> 2 </score>
-<time day="4" s="3" e="4"> [4]3~4  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築研究大樓                  5172 </place>
@@ -345,7 +345,7 @@
 <name> 建築類型研究 </name>
 <teacher> 顏茂倉  </teacher>
 <score> 2 </score>
-<time day="1" s="2" e="2"> [1]2  </time>
+<time day1="1" s1="2" e1="2"> [1]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -353,7 +353,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 建築類型研究 </name1>
-<time1 day="1" s="" e=""> [1]3  </time1>
+<time1 day1="1" s1="3" e1="3"> [1]3  </time1>
 <place1> 建築系館                      5101 </place1>
 <note1> 需同時選修建築設計(五) </note1>
 </E7>
@@ -365,7 +365,7 @@
 <name> 中國建築史 </name>
 <teacher> 徐明福  </teacher>
 <score> 2 </score>
-<time day="5" s="5" e="6"> [5]5~6  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
@@ -379,7 +379,7 @@
 <name> 建築專題設計 </name>
 <teacher> 陳震宇*  ,  陳德仁   ,  張鶴齡   ,  鄭采和   ,  王明蘅  </teacher>
 <score> 5 </score>
-<time day="2" s="4.5" e="13"> [2]N~D  </time>
+<time day1="2" s1="4.5" e1="13"> [2]N~D  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5132 </place>
@@ -393,7 +393,7 @@
 <name> 建築職業實務 </name>
 <teacher> 薛丞倫*  ,  陳穎澤* </teacher>
 <score> 6 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -409,7 +409,7 @@
 <name> 國際工作營 </name>
 <teacher> 薛丞倫  </teacher>
 <score> 3 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -425,7 +425,7 @@
 <name> 建築施工估價 </name>
 <teacher> 蘇鴻奇  </teacher>
 <score> 2 </score>
-<time day="5" s="3" e="4"> [5]3~4  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 建築系館                      5105 </place>
@@ -439,7 +439,7 @@
 <name> 建築防火安全 </name>
 <teacher> 蘇鴻奇  </teacher>
 <score> 2 </score>
-<time day="5" s="5" e="6"> [5]5~6  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5127 </place>
@@ -453,7 +453,7 @@
 <name> 建築設計（八） </name>
 <teacher> 杜怡萱   ,  薛丞倫*  ,  林子平  </teacher>
 <score> 7 </score>
-<time day="1" s="9" e="12"> [1]9~C  ,  [2]N~D  </time>
+<time day1="1" s1="9" e1="12" day2="2" s2="4.5" e2="13"> [1]9~C  ,  [2]N~D  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5131 </place>
@@ -467,7 +467,7 @@
 <name> 畢業設計專題討論 </name>
 <teacher> 吳光庭  </teacher>
 <score> 2 </score>
-<time day="2" s="3" e="4"> [2]3~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 建築系館                      5105 </place>

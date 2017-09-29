@@ -7,7 +7,7 @@
 <name> 普通化學 </name>
 <teacher> 許桂芳*  ,  吳耀庭   ,  邱顯泰  </teacher>
 <score> 3 </score>
-<time day="2" s="7" e="8"> [2]7~8  ,  [5]5~6  </time>
+<time day1="2" s1="7" e1="8" day2="5" s2="5" e2="6"> [2]7~8  ,  [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 化工系館                      華立廳 </place>
@@ -21,7 +21,7 @@
 <name> 普通化學實驗 </name>
 <teacher> 許鏵芬  </teacher>
 <score> 1 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 理化大樓                      35102 </place>
@@ -35,7 +35,7 @@
 <name> 普通生物學（一） </name>
 <teacher> 陳虹樺   ,  蔣鎮宇   ,  曾淑芬   ,  宋皇模   ,  張松彬   ,  廖泓鈞*  ,  劉雅心   ,  小島健司   ,  吳文鑾   ,  李瑞花  </teacher>
 <score> 4 </score>
-<time day="1" s="5" e="6"> [1]5~6  ,  [5]3~4  </time>
+<time day1="1" s1="5" e1="6" day2="5" s2="3" e2="4"> [1]5~6  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3415 </place>
@@ -49,7 +49,7 @@
 <name> 普通生物學實驗（一） </name>
 <teacher> 蔣鎮宇   ,  張松彬*  ,  廖泓鈞   ,  劉雅心  </teacher>
 <score> 1 </score>
-<time day="4" s="7" e="9"> [4]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 生科系館                      3437 </place>
@@ -63,7 +63,7 @@
 <name> 微積分（一） </name>
 <teacher> 沈士育  </teacher>
 <score> 2 </score>
-<time day="1" s="2" e="3"> [1]2~3  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 化工系館                      柏林講堂 </place>
@@ -71,7 +71,7 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="3" s="" e=""> [3]2  </time1>
+<time1 day1="3" s1="2" e1="2"> [3]2  </time1>
 <place1> 化工系館                      柏林講堂 </place1>
 <note1></note1>
 </C5>
@@ -83,7 +83,7 @@
 <name> 體育（一） </name>
 <teacher> 黃鈴雯  </teacher>
 <score> 0 </score>
-<time day="5" s="7" e="8"> [5]7~8  </time>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -97,7 +97,7 @@
 <name> 服務學習（一） </name>
 <teacher> 陳虹樺   ,  王浩文   ,  邱慈暉   ,  李純純* </teacher>
 <score> 0 </score>
-<time day="1" s="9" e="9"> [1]9  </time>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 生科系館                      3415 </place>
@@ -111,7 +111,7 @@
 <name> 生命科學討論（一） </name>
 <teacher> 陳一菁*  ,  仲澤剛史  </teacher>
 <score> 1 </score>
-<time day="1" s="7" e="7"> [1]7  </time>
+<time day1="1" s1="7" e1="7"> [1]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3415 </place>
@@ -125,7 +125,7 @@
 <name> 生物化學（一） </name>
 <teacher> 曾淑芬   ,  何盧勳*  ,  廖泓鈞   ,  彭怡禎  </teacher>
 <score> 4 </score>
-<time day="2" s="3" e="4"> [2]3~4  ,  [3]3~4  </time>
+<time day1="2" s1="3" e1="4" day2="3" s2="3" e2="4"> [2]3~4  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3417 </place>
@@ -139,7 +139,7 @@
 <name> 生物化學實驗 </name>
 <teacher> 何盧勳  </teacher>
 <score> 1 </score>
-<time day="2" s="7" e="9"> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 生科系館                      3458 </place>
@@ -153,7 +153,7 @@
 <name> 生物統計學 </name>
 <teacher> 劉雅心   ,  邱慈暉* </teacher>
 <score> 3 </score>
-<time day="2" s="1" e="1"> [2]1  ,  [4]3~4  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3417 </place>
@@ -167,7 +167,7 @@
 <name> 實驗室實習（一） </name>
 <teacher> 蔣鎮宇   ,  黃浩仁   ,  宋皇模*  ,  吳文鑾  </teacher>
 <score> 1 </score>
-<time day="1" s="4.5" e="4.5"> [1]N  ,  [2]N  ,  [5]N  </time>
+<time day1="1" s1="4.5" e1="4.5" day2="2" s2="4.5" e2="4.5" day3="5" s3="4.5" e3="4.5"> [1]N  ,  [2]N  ,  [5]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 生科系館                      3417 </place>
@@ -181,7 +181,7 @@
 <name> 比較解剖學 </name>
 <teacher> 王建平  </teacher>
 <score> 2 </score>
-<time day="4" s="1" e="2"> [4]1~2  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3417 </place>
@@ -195,7 +195,7 @@
 <name> 計算機概論 </name>
 <teacher> 張瑞紘  </teacher>
 <score> 2 </score>
-<time day="3" s="5" e="6"> [3]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75209 </place>
@@ -209,7 +209,7 @@
 <name> 植物生理學 </name>
 <teacher> 張松彬*  ,  黃俊霖   ,  郭瑋君   ,  李瑞花   ,  黃兆立  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="2"> [2]2  ,  [5]3~4  </time>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3418 </place>
@@ -223,7 +223,7 @@
 <name> 微生物學 </name>
 <teacher> 王浩文*  ,  廖泓鈞   ,  劉雅心  </teacher>
 <score> 3 </score>
-<time day="1" s="7" e="7"> [1]7  ,  [4]7~8  </time>
+<time day1="1" s1="7" e1="7" day2="4" s2="7" e2="8"> [1]7  ,  [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3418 </place>
@@ -237,7 +237,7 @@
 <name> 微生物學實驗 </name>
 <teacher> 王浩文  </teacher>
 <score> 1 </score>
-<time day="3" s="7" e="9"> [3]7~9  </time>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 生科系館                      3437 </place>
@@ -251,7 +251,7 @@
 <name> 動物生理學 </name>
 <teacher> 曾淑芬   ,  張素瓊   ,  李純純*  ,  彭怡禎  </teacher>
 <score> 3 </score>
-<time day="1" s="2" e="3"> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3418 </place>
@@ -265,7 +265,7 @@
 <name> 功能性生物資料分析 </name>
 <teacher> 宋皇模*  ,  小島健司  </teacher>
 <score> 2 </score>
-<time day="3" s="5" e="6"> [3]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3418 </place>
@@ -279,7 +279,7 @@
 <name> 生命科學專題研究（一） </name>
 <teacher> 張松彬   ,  廖泓鈞   ,  劉雅心*  ,  仲澤剛史  </teacher>
 <score> 1 </score>
-<time day="5" s="9" e="11"> [5]9~B  </time>
+<time day1="5" s1="9" e1="11"> [5]9~B  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
@@ -293,7 +293,7 @@
 <name> 酵素學 </name>
 <teacher> 麥愛堂  </teacher>
 <score> 3 </score>
-<time day="2" s="7" e="9"> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3418 </place>
@@ -307,7 +307,7 @@
 <name> 演化與生物多樣性 </name>
 <teacher> 小島健司  </teacher>
 <score> 2 </score>
-<time day="5" s="5" e="6"> [5]5~6  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3418 </place>
@@ -321,7 +321,7 @@
 <name> 生物技術產學創新 </name>
 <teacher> 陳虹樺   ,  蔣鎮宇   ,  曾淑芬*  ,  張素瓊   ,  王浩文   ,  何盧勳   ,  張松彬  </teacher>
 <score> 2 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -337,7 +337,7 @@
 <name> 實習課程 </name>
 <teacher> 張松彬   ,  廖泓鈞   ,  劉雅心*  ,  仲澤剛史  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -353,7 +353,7 @@
 <name> 書報討論（一） </name>
 <teacher> 張松彬   ,  李純純* </teacher>
 <score> 1 </score>
-<time day="2" s="5" e="6"> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科系館                      3417 </place>
@@ -367,7 +367,7 @@
 <name> 書報討論（一） </name>
 <teacher> 劉雅心   ,  邱慈暉* </teacher>
 <score> 1 </score>
-<time day="2" s="5" e="6"> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科系館                      3418 </place>
@@ -381,7 +381,7 @@
 <name> 書報討論（一） </name>
 <teacher> 王浩文   ,  廖泓鈞* </teacher>
 <score> 1 </score>
-<time day="2" s="5" e="6"> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科系館                      3425 </place>
@@ -395,7 +395,7 @@
 <name> 蛋白質化學 </name>
 <teacher> 洪建中  </teacher>
 <score> 2 </score>
-<time day="3" s="5" e="6"> [3]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3417 </place>
@@ -409,7 +409,7 @@
 <name> 論文（一） </name>
 <teacher> 彭怡禎  </teacher>
 <score> 1 </score>
-<time day="1" s="1" e="1"> [1]1  </time>
+<time day1="1" s1="1" e1="1"> [1]1  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 生科系館                      3425 </place>
@@ -423,7 +423,7 @@
 <name> 神經生物學 </name>
 <teacher> 曾淑芬   ,  何盧勳*  ,  劉雅心   ,  邱慈暉  </teacher>
 <score> 3 </score>
-<time day="3" s="7" e="9"> [3]7~9  </time>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3425 </place>
@@ -437,7 +437,7 @@
 <name> 行為生物學 </name>
 <teacher> 曾淑芬   ,  李亞夫*  ,  何盧勳   ,  邱慈暉   ,  李純純   ,  陳德祐  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3425 </place>
@@ -451,7 +451,7 @@
 <name> 全球變遷生物學 </name>
 <teacher> 陳一菁  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3425 </place>
@@ -465,7 +465,7 @@
 <name> 分子細胞學 </name>
 <teacher> 陳虹樺  </teacher>
 <score> 3 </score>
-<time day="2" s="7" e="9"> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3425 </place>
@@ -479,7 +479,7 @@
 <name> 生態模型導論 </name>
 <teacher> 仲澤剛史  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3413 </place>

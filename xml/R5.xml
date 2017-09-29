@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 張有恒  </teacher>
 <score> 1 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62107 </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（一） </name>
 <teacher> 林東盈  </teacher>
 <score> 1 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62107 </place>
@@ -35,7 +35,7 @@
 <name> 專題討論（一） </name>
 <teacher> 林佐鼎  </teacher>
 <score> 1 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
@@ -49,7 +49,7 @@
 <name> 專題討論（三） </name>
 <teacher> 張有恒  </teacher>
 <score> 1 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 交管系館                      62107 </place>
@@ -63,7 +63,7 @@
 <name> 專題討論（三） </name>
 <teacher> 林東盈  </teacher>
 <score> 1 </score>
-<time day="4" s="7" e="8"> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 交管系館                      62107 </place>
@@ -77,7 +77,7 @@
 <name> 專題討論（三） </name>
 <teacher> 林佐鼎  </teacher>
 <score> 1 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 管理學院                      62X01 </place>
@@ -91,7 +91,7 @@
 <name> 運輸系統特論 </name>
 <teacher> 林東盈  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="7"> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
@@ -105,7 +105,7 @@
 <name> 專題討論 </name>
 <teacher> 戴佐敏  </teacher>
 <score> 0 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 研討 </type>
@@ -121,7 +121,7 @@
 <name> 交通專題研討（一） </name>
 <teacher> 戴佐敏  </teacher>
 <score> 1 </score>
-<time day="4" s="5" e="6"> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -135,7 +135,7 @@
 <name> 教學實習 </name>
 <teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day="5" s="1" e="1"> [5]1  ,  [5]N  </time>
+<time day1="5" s1="1" e1="1" day2="5" s2="4.5" e2="4.5"> [5]1  ,  [5]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 交管系館                      62107 </place>
@@ -149,7 +149,7 @@
 <name> 物流業經營與管理 </name>
 <teacher> 林正章*  ,  盧峯海  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>
@@ -163,7 +163,7 @@
 <name> 機場工程與管理 </name>
 <teacher> 戴佐敏  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
@@ -177,7 +177,7 @@
 <name> 人工神經網路 </name>
 <teacher> 魏健宏  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
@@ -191,7 +191,7 @@
 <name> 統計方法 </name>
 <teacher> 林佐鼎  </teacher>
 <score> 3 </score>
-<time day="4" s="9" e="11"> [4]9~B  </time>
+<time day1="4" s1="9" e1="11"> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
@@ -205,7 +205,7 @@
 <name> 全球運籌管理 </name>
 <teacher> 沈宗緯  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>
@@ -219,7 +219,7 @@
 <name> 科技管理 </name>
 <teacher> 張永昌  </teacher>
 <score> 3 </score>
-<time day="6" s="2" e="4"> [6]2~4  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62105 </place>
@@ -233,7 +233,7 @@
 <name> 系統動態學與情境分析 </name>
 <teacher> 黃國平  </teacher>
 <score> 3 </score>
-<time day="5" s="9" e="11"> [5]9~B  </time>
+<time day1="5" s1="9" e1="11"> [5]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>
@@ -247,7 +247,7 @@
 <name> 航空業經營與管理 </name>
 <teacher> 張有恒  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
@@ -261,7 +261,7 @@
 <name> 產業競爭管制與實務發展 </name>
 <teacher> 黃郁雯  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -275,7 +275,7 @@
 <name> 運輸規劃 </name>
 <teacher> 胡大瀛  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
@@ -289,7 +289,7 @@
 <name> 飛行概論 </name>
 <teacher> 高星潢  </teacher>
 <score> 3 </score>
-<time day="6" s="6" e="8"> [6]6~8  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -303,7 +303,7 @@
 <name> 電信產業分析 </name>
 <teacher> 廖俊雄  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>
@@ -317,7 +317,7 @@
 <name> 多變量分析 </name>
 <teacher> 陳勁甫  </teacher>
 <score> 3 </score>
-<time day="5" s="10" e="12"> [5]A~C  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
@@ -331,7 +331,7 @@
 <name> 風險管理 </name>
 <teacher> 黃國平  </teacher>
 <score> 3 </score>
-<time day="5" s="6" e="8"> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>
@@ -345,7 +345,7 @@
 <name> 研究方法 </name>
 <teacher> 林佐鼎  </teacher>
 <score> 3 </score>
-<time day="6" s="10" e="12"> [6]A~C  </time>
+<time day1="6" s1="10" e1="12"> [6]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -359,7 +359,7 @@
 <name> 交通工程與實務 </name>
 <teacher> 胡守任  </teacher>
 <score> 3 </score>
-<time day="3" s="11" e="13"> [3]B~D  </time>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -373,7 +373,7 @@
 <name> 智慧型運輸系統特論 </name>
 <teacher> 李威勳  </teacher>
 <score> 3 </score>
-<time day="6" s="2" e="4"> [6]2~4  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -387,7 +387,7 @@
 <name> 航空業經營與管理 </name>
 <teacher> 張有恒  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
@@ -401,7 +401,7 @@
 <name> 飛行概論 </name>
 <teacher> 高星潢  </teacher>
 <score> 3 </score>
-<time day="6" s="6" e="8"> [6]6~8  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -415,7 +415,7 @@
 <name> 獨立研究（一） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  孫雅彥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -431,7 +431,7 @@
 <name> 獨立研究（四） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  孫雅彥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -447,7 +447,7 @@
 <name> 觀光與休閒管理 </name>
 <teacher> 孫雅彥  </teacher>
 <score> 3 </score>
-<time day="2" s="10" e="12"> [2]A~C  </time>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
@@ -461,7 +461,7 @@
 <name> 獨立研究（二） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  孫雅彥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -477,7 +477,7 @@
 <name> 獨立研究（三） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  孫雅彥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -493,7 +493,7 @@
 <name> 多變量分析 </name>
 <teacher> 陳勁甫  </teacher>
 <score> 3 </score>
-<time day="6" s="10" e="12"> [6]A~C  </time>
+<time day1="6" s1="10" e1="12"> [6]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62307 </place>

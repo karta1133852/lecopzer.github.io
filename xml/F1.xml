@@ -7,7 +7,7 @@
 <name> 系統及船舶機電概論 </name>
 <teacher> 陳政宏   ,  沈聖智* </teacher>
 <score> 2 </score>
-<time day="5" s="5" e="6"> [5]5~6  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>
@@ -21,7 +21,7 @@
 <name> 微積分（一） </name>
 <teacher> 陳旻宏  </teacher>
 <score> 3 </score>
-<time day="2" s="5" e="6"> [2]5~6  ,  [5]7  </time>
+<time day1="2" s1="5" e1="6" day2="5" s2="7" e2="7"> [2]5~6  ,  [5]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 共同教室                      A1306(資源後) </place>
@@ -29,19 +29,19 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1 day="5" s="" e=""> [5]8  </time1>
+<time1 day1="5" s1="8" e1="8"> [5]8  </time1>
 <place1> 共同教室                      A1303 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2 day="5" s="" e=""> [5]8  </time2>
+<time2 day1="5" s1="8" e1="8"> [5]8  </time2>
 <place2> 共同教室                      A1304 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
-<time3 day="5" s="" e=""> [5]8  </time3>
+<time3 day1="5" s1="8" e1="8"> [5]8  </time3>
 <place3> 共同教室                      A1305 </place3>
 <note3></note3>
 </F1>
@@ -53,7 +53,7 @@
 <name> 普通物理學（一） </name>
 <teacher> 呂欽山  </teacher>
 <score> 3 </score>
-<time day="1" s="8" e="8"> [1]8  ,  [4]5~6  </time>
+<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>
@@ -67,7 +67,7 @@
 <name> 普通物理學實驗（一） </name>
 <teacher> 呂欽山  </teacher>
 <score> 1 </score>
-<time day="4" s="1" e="3"> [4]1~3  </time>
+<time day1="4" s1="1" e1="3"> [4]1~3  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -81,7 +81,7 @@
 <name> 體育（一） </name>
 <teacher> 黃鴻鈞  </teacher>
 <score> 0 </score>
-<time day="2" s="7" e="8"> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -95,7 +95,7 @@
 <name> 服務學習（一） </name>
 <teacher> 涂季平  </teacher>
 <score> 0 </score>
-<time day="1" s="3" e="3"> [1]3  </time>
+<time day1="1" s1="3" e1="3"> [1]3  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 系統系館                      56111 </place>
@@ -109,7 +109,7 @@
 <name> 工程圖學 </name>
 <teacher> 林宇銜  </teacher>
 <score> 2 </score>
-<time day="2" s="3" e="4"> [2]3~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>
@@ -117,7 +117,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 工程圖學 </name1>
-<time1 day="1" s="" e=""> [1]5~6  </time1>
+<time1 day1="1" s1="5" e1="6"> [1]5~6  </time1>
 <place1></place1>
 <note1> 5F 電腦教室(503) </note1>
 </F1>
@@ -129,7 +129,7 @@
 <name> 計算機程式設計 </name>
 <teacher> 吳鴻文  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>
@@ -143,7 +143,7 @@
 <name> 服務學習（三） </name>
 <teacher> 涂季平  </teacher>
 <score> 0 </score>
-<time day="1" s="2" e="2"> [1]2  </time>
+<time day1="1" s1="2" e1="2"> [1]2  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 系統系館                      56113 </place>
@@ -157,7 +157,7 @@
 <name> 應用力學（二） </name>
 <teacher> 涂季平  </teacher>
 <score> 3 </score>
-<time day="2" s="1" e="1"> [2]1  ,  [4]3~4  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
@@ -171,7 +171,7 @@
 <name> 工程數學（一） </name>
 <teacher> 林宇銜  </teacher>
 <score> 3 </score>
-<time day="1" s="7" e="9"> [1]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
@@ -185,7 +185,7 @@
 <name> 熱力學（一） </name>
 <teacher> 張始偉  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
@@ -199,7 +199,7 @@
 <name> 電子學（一） </name>
 <teacher> 沈聖智  </teacher>
 <score> 3 </score>
-<time day="2" s="7" e="9"> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56226 </place>
@@ -213,7 +213,7 @@
 <name> 電路學 </name>
 <teacher> 陳智強  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56113 </place>
@@ -227,7 +227,7 @@
 <name> 振動力學 </name>
 <teacher> 涂季平  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56222 </place>
@@ -241,7 +241,7 @@
 <name> 流體力學（二） </name>
 <teacher> 陳政宏  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56222 </place>
@@ -255,7 +255,7 @@
 <name> 論文（一） </name>
 <teacher> 黃正弘  </teacher>
 <score> 2 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -271,7 +271,7 @@
 <name> 船舶結構學 </name>
 <teacher> 楊澤民  </teacher>
 <score> 3 </score>
-<time day="1" s="7" e="9"> [1]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56222 </place>
@@ -285,7 +285,7 @@
 <name> 船舶靜力學 </name>
 <teacher> 林忠宏  </teacher>
 <score> 3 </score>
-<time day="5" s="6" e="8"> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56222 </place>
@@ -299,7 +299,7 @@
 <name> 機械設計 </name>
 <teacher> 林忠宏  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56222 </place>
@@ -313,7 +313,7 @@
 <name> 工程量測與虛擬儀表設計 </name>
 <teacher> 趙儒民  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="7"> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56222 </place>
@@ -327,7 +327,7 @@
 <name> 電腦輔助設計與製造 </name>
 <teacher> 沈聖智  </teacher>
 <score> 3 </score>
-<time day="2" s="2" e="4"> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
@@ -341,7 +341,7 @@
 <name> 微電腦控制 </name>
 <teacher> 陳智強  </teacher>
 <score> 3 </score>
-<time day="1" s="7" e="9"> [1]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -355,7 +355,7 @@
 <name> 系統工程分析 </name>
 <teacher> 陳永裕  </teacher>
 <score> 3 </score>
-<time day="4" s="7" e="9"> [4]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56111 </place>
@@ -369,7 +369,7 @@
 <name> 線性系統分析 </name>
 <teacher> 陳智強  </teacher>
 <score> 3 </score>
-<time day="3" s="5" e="7"> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56224 </place>
@@ -383,7 +383,7 @@
 <name> 船舶設計基礎 </name>
 <teacher> 邵揮洲  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56224 </place>
@@ -397,7 +397,7 @@
 <name> 船舶與機電設計實務（一） </name>
 <teacher> 林忠宏   ,  陳政宏   ,  陳永裕* </teacher>
 <score> 3 </score>
-<time day="0" s="0" e="0"> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -413,7 +413,7 @@
 <name> 船舶耐海與操控 </name>
 <teacher> 方銘川  </teacher>
 <score> 3 </score>
-<time day="4" s="7" e="9"> [4]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 系統系館                      56224 </place>

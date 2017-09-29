@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 陳裕民   ,  陳響亮   ,  鄭芳田   ,  楊大和   ,  陳朝鈞*  ,  蔡佩璇   ,  李家岩  </teacher>
 <score> 0 </score>
-<time day="4" s="6" e="6"> [4]6  </time>
+<time day1="4" s1="6" e1="6"> [4]6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（三） </name>
 <teacher> 陳裕民   ,  陳響亮   ,  鄭芳田   ,  楊大和   ,  陳朝鈞*  ,  蔡佩璇   ,  李家岩  </teacher>
 <score> 0 </score>
-<time day="4" s="7" e="7"> [4]7  </time>
+<time day1="4" s1="7" e1="7"> [4]7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -35,7 +35,7 @@
 <name> 製造系統 </name>
 <teacher> 陳裕民  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -49,7 +49,7 @@
 <name> E化製造 </name>
 <teacher> 鄭芳田  </teacher>
 <score> 3 </score>
-<time day="4" s="11" e="13"> [4]B~D  </time>
+<time day1="4" s1="11" e1="13"> [4]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -63,7 +63,7 @@
 <name> 企業工程與整合 </name>
 <teacher> 陳裕民  </teacher>
 <score> 3 </score>
-<time day="2" s="10" e="12"> [2]A~C  </time>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -77,7 +77,7 @@
 <name> 即時系統 </name>
 <teacher> 蔡佩璇  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95519 </place>
@@ -91,7 +91,7 @@
 <name> 進階分散式資料管理 </name>
 <teacher> 陳朝鈞  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95519 </place>
@@ -105,7 +105,7 @@
 <name> 資料庫管理系統與實務 </name>
 <teacher> 陳朝鈞  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -119,7 +119,7 @@
 <name> C#程式設計 </name>
 <teacher> 陳響亮  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75309 </place>
@@ -133,7 +133,7 @@
 <name> 機械智慧化專論 </name>
 <teacher> 陳響亮  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95519 </place>
@@ -147,7 +147,7 @@
 <name> 智慧型製造系統 </name>
 <teacher> 李家岩  </teacher>
 <score> 3 </score>
-<time day="3" s="11" e="13"> [3]B~D  </time>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -161,7 +161,7 @@
 <name> 無線與寬頻網際網路通訊架構與協定 </name>
 <teacher> 黃崇明  </teacher>
 <score> 3 </score>
-<time day="4" s="6" e="8"> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4202 </place>
@@ -175,7 +175,7 @@
 <name> 電腦視覺：從理論到應用 </name>
 <teacher> 連震杰  </teacher>
 <score> 3 </score>
-<time day="4" s="2" e="4"> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4201 </place>
@@ -189,10 +189,10 @@
 <name> 計算機圖學 </name>
 <teacher> 胡敏君  </teacher>
 <score> 3 </score>
-<time day="3" s="6" e="8"> [3]6~8  </time>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊系館                      4202 </place>
+<place> 資訊新館                      65104 </place>
 <note> 資工所醫資所製造所多媒體學位學程合班 ,繪圖視訊學程 </note>
 </P9>
 
@@ -203,7 +203,7 @@
 <name> 數位信號處理 </name>
 <teacher> 吳宗憲  </teacher>
 <score> 3 </score>
-<time day="1" s="6" e="8"> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65104 </place>
@@ -217,7 +217,7 @@
 <name> 互動通訊與軟體 </name>
 <teacher> 黃崇明  </teacher>
 <score> 3 </score>
-<time day="2" s="6" e="8"> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4261 </place>
@@ -231,7 +231,7 @@
 <name> 容錯嵌入專論 </name>
 <teacher> 謝孫源  </teacher>
 <score> 3 </score>
-<time day="5" s="2" e="4"> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65105 </place>
@@ -245,7 +245,7 @@
 <name> 製造系統管理 </name>
 <teacher> 楊大和  </teacher>
 <score> 3 </score>
-<time day="1" s="2" e="4"> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -259,7 +259,7 @@
 <name> 圖形理論 </name>
 <teacher> 謝孫源  </teacher>
 <score> 3 </score>
-<time day="3" s="2" e="4"> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4204 </place>
