@@ -1,41 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<B5 id="005">
-<num>B5-005</num>
-<class></class>
-<group></group>
-<name> 台灣歷史與文化 </name>
-<teacher> 李承機  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88154 </place>
-<note></note>
-</B5>
-
 <B5 id="006">
 <num>B5-006</num>
 <class></class>
 <group></group>
-<name> 台灣語言基礎及寫作（台語）（一） </name>
+<name> 服務學習（二） </name>
 <teacher> 蔣為文  </teacher>
-<score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<score> 0 </score>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
 <must> 必修 </must>
-<type> 講義 </type>
+<type> 實習 </type>
 <place> 台文系館                      88154 </place>
-<note> 台語，客語，原住民語等三選二 </note>
+<note></note>
 </B5>
 
 <B5 id="007">
 <num>B5-007</num>
 <class></class>
 <group></group>
-<name> 台灣語言基礎及寫作（原住民語）（一） </name>
-<teacher> 柳柳美  </teacher>
-<score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<name> 文學文本解讀 </name>
+<teacher> 蔡明諺  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88154 </place>
@@ -46,54 +32,54 @@
 <num>B5-008</num>
 <class></class>
 <group></group>
-<name> 台灣語言基礎及寫作（客語）（一） </name>
-<teacher> 曾昌發  </teacher>
+<name> 台灣語言基礎及寫作（台語）（二） </name>
+<teacher> 蔣為文  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88154 </place>
-<note> 台語，客語，原住民語等三選二 </note>
+<note> 「台語，客語，原住民語等三選二」 </note>
 </B5>
 
 <B5 id="009">
 <num>B5-009</num>
 <class></class>
 <group></group>
-<name> 台灣文學綜觀 </name>
-<teacher> 蔣為文*  ,  李承機  </teacher>
+<name> 台灣語言基礎及寫作（原住民語）（二） </name>
+<teacher> 柳柳美  </teacher>
 <score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88154 </place>
-<note></note>
+<note> 「台語，客語，原住民語等三選二」 </note>
 </B5>
 
 <B5 id="010">
 <num>B5-010</num>
 <class></class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 黃彥慈  </teacher>
-<score> 0 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<name> 台灣語言基礎及寫作（客語）（二） </name>
+<teacher> 曾昌發  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 體育室前                      體育室前 </place>
-<note></note>
+<place> 台文系館                      88154 </place>
+<note> 「台語，客語，原住民語等三選二」 </note>
 </B5>
 
 <B5 id="011">
 <num>B5-011</num>
 <class></class>
 <group></group>
-<name> 服務學習（一） </name>
-<teacher> 游勝冠  </teacher>
-<score> 0 </score>
-<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
+<name> 文化與社會基本議題 </name>
+<teacher> 鍾秀梅  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必修 </must>
-<type> 實習 </type>
+<type> 講義 </type>
 <place> 台文系館                      88154 </place>
 <note></note>
 </B5>
@@ -102,50 +88,36 @@
 <num>B5-012</num>
 <class></class>
 <group></group>
-<name> 現代小說（一） </name>
+<name> 現代小說（二） </name>
 <teacher> 劉乃慈  </teacher>
 <score> 2 </score>
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88154 </place>
-<note></note>
+<note> 「台文系學生須上、下學期課程皆修習通過始得計入畢業學分」 </note>
 </B5>
 
 <B5 id="013">
 <num>B5-013</num>
 <class></class>
 <group></group>
-<name> 台灣生界田野調查 </name>
+<name> 台灣的自然與傳統宗教 </name>
 <teacher> 陳玉峯  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88154 </place>
-<note> 第一、二次未來上課者，一率退選。 </note>
+<note> 第一堂課一定要來上課。 </note>
 </B5>
 
 <B5 id="014">
 <num>B5-014</num>
 <class></class>
 <group></group>
-<name> 台灣歌仔戲劇場導論 </name>
-<teacher> 劉南芳  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88154 </place>
-<note></note>
-</B5>
-
-<B5 id="015">
-<num>B5-015</num>
-<class></class>
-<group></group>
-<name> 當代劇場與表演藝術 </name>
-<teacher> 陳德安  </teacher>
+<name> 臺灣旅遊文學 </name>
+<teacher> 吳毓琪  </teacher>
 <score> 2 </score>
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
@@ -158,10 +130,10 @@
 <num>B5-055</num>
 <class></class>
 <group></group>
-<name> 語言學概論（一） </name>
-<teacher> 陳麗君  </teacher>
-<score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<name> 台灣文學史（二） </name>
+<teacher> 游勝冠  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88135 </place>
@@ -172,10 +144,10 @@
 <num>B5-056</num>
 <class></class>
 <group></group>
-<name> 台灣文學史（一） </name>
-<teacher> 吳毓琪  </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<name> 語言學概論（二） </name>
+<teacher> 陳麗君  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88135 </place>
@@ -186,38 +158,24 @@
 <num>B5-057</num>
 <class></class>
 <group></group>
-<name> 現代詩（一） </name>
-<teacher> 蔡明諺  </teacher>
+<name> 第二外語（日文）（二） </name>
+<teacher> 陳麗君  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88155 </place>
-<note> 台文系學生須上、下學期課程皆修習通過始得計入畢業學分 </note>
+<place> 台文系館                      88135 </place>
+<note> 「台文系學生須上、下學期課程皆修習通過始得計入畢業學分」 </note>
 </B5>
 
 <B5 id="058">
 <num>B5-058</num>
 <class></class>
 <group></group>
-<name> 80年代現代詩選讀 </name>
-<teacher> 游勝冠  </teacher>
+<name> 日治時期臺灣女性文學與文化 </name>
+<teacher> 吳毓琪  </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88135 </place>
-<note></note>
-</B5>
-
-<B5 id="059">
-<num>B5-059</num>
-<class></class>
-<group></group>
-<name> 電影與文學 </name>
-<teacher> 簡義明  </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88135 </place>
@@ -228,24 +186,24 @@
 <num>B5-060</num>
 <class></class>
 <group></group>
-<name> 第二外語（日文）（一） </name>
-<teacher> 陳麗君  </teacher>
+<name> 現代詩（二） </name>
+<teacher> 蔡明諺  </teacher>
 <score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88135 </place>
-<note> 台文系學生須上、下學期課程皆修習通過始得計入畢業學分 </note>
+<place> 台文系館                      88155 </place>
+<note> 「台文系學生須上、下學期課程皆修習通過始得計入畢業學分」 </note>
 </B5>
 
 <B5 id="061">
 <num>B5-061</num>
 <class></class>
 <group></group>
-<name> 童話：經典與流變 </name>
-<teacher> 吳玫瑛  </teacher>
-<score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<name> 台語劇本導讀與習作 </name>
+<teacher> 劉南芳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88135 </place>
@@ -256,10 +214,10 @@
 <num>B5-062</num>
 <class></class>
 <group></group>
-<name> 台灣俗語 </name>
+<name> 台語詩文選讀 </name>
 <teacher> 巫義淵  </teacher>
 <score> 2 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88135 </place>
@@ -270,10 +228,10 @@
 <num>B5-063</num>
 <class></class>
 <group></group>
-<name> 新聞學 </name>
-<teacher> 吳秀麗  </teacher>
+<name> 觀光台語 </name>
+<teacher> 巫義淵  </teacher>
 <score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88135 </place>
@@ -284,41 +242,27 @@
 <num>B5-064</num>
 <class></class>
 <group></group>
-<name> 原住民排灣族語言特色與應用 </name>
-<teacher> 柳柳美  </teacher>
+<name> 展演行銷企劃實務 </name>
+<teacher> 陳德安  </teacher>
 <score> 2 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88154 </place>
+<place> 台文系館                      88135 </place>
 <note></note>
 </B5>
 
-<B5 id="065">
-<num>B5-065</num>
+<B5 id="102">
+<num>B5-102</num>
 <class></class>
 <group></group>
-<name> 傳播文明與媒體 </name>
-<teacher> 李承機  </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88136 </place>
-<note></note>
-</B5>
-
-<B5 id="101">
-<num>B5-101</num>
-<class></class>
-<group></group>
-<name> 服務學習（三） </name>
+<name> 文學理論與批評（二） </name>
 <teacher> 劉乃慈  </teacher>
-<score> 0 </score>
-<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 台文系館                      88155 </place>
+<type> 講義 </type>
+<place> 台文系館                      88135 </place>
 <note></note>
 </B5>
 
@@ -326,10 +270,10 @@
 <num>B5-103</num>
 <class></class>
 <group></group>
-<name> 台灣文學史（三） </name>
-<teacher> 蔡明諺  </teacher>
+<name> 文化研究 </name>
+<teacher> 楊芳枝  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88155 </place>
@@ -340,24 +284,52 @@
 <num>B5-104</num>
 <class></class>
 <group></group>
-<name> 文學理論與批評（一） </name>
-<teacher> 劉乃慈  </teacher>
+<name> 第二外語（日文）（四） </name>
+<teacher> 陳麗君  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
-<must> 必修 </must>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88135 </place>
+<place> 台文系館                      88155 </place>
+<note> 「台文系學生須上、下學期課程皆修習通過始得計入畢業學分」 </note>
+</B5>
+
+<B5 id="105">
+<num>B5-105</num>
+<class></class>
+<group></group>
+<name> 新聞採訪寫作 </name>
+<teacher> 王右君  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88155 </place>
 <note></note>
+</B5>
+
+<B5 id="106">
+<num>B5-106</num>
+<class></class>
+<group></group>
+<name> 世界文學（二） </name>
+<teacher> 蔡明諺  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88155 </place>
+<note> 「台文系學生須上、下學期課程皆修習通過始得計入畢業學分」 </note>
 </B5>
 
 <B5 id="107">
 <num>B5-107</num>
 <class></class>
 <group></group>
-<name> 研究方法與創意寫作 </name>
-<teacher> 吳毓琪  </teacher>
-<score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<name> 青少年小說選讀 </name>
+<teacher> 吳玫瑛  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88155 </place>
@@ -368,27 +340,27 @@
 <num>B5-108</num>
 <class></class>
 <group></group>
-<name> 第二外語（日文）（三） </name>
-<teacher> 陳麗君  </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<name> 府城佛具產業脈絡研究與影像紀錄（二） </name>
+<teacher> 曾吉賢  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88155 </place>
-<note> 台文系學生須上、下學期課程皆修習通過始得計入畢業學分 </note>
+<note> 「台文系學生須上、下學期課程皆修習通過始得計入畢業學分」 </note>
 </B5>
 
 <B5 id="109">
 <num>B5-109</num>
 <class></class>
 <group></group>
-<name> 劇本創作與實務 </name>
+<name> 影視戲劇創作與實務 </name>
 <teacher> 劉南芳  </teacher>
 <score> 3 </score>
 <time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88155 </place>
+<place> 台文系館                      88136 </place>
 <note></note>
 </B5>
 
@@ -396,52 +368,10 @@
 <num>B5-110</num>
 <class></class>
 <group></group>
-<name> 府城佛具產業脈絡研究與影像紀錄（一） </name>
-<teacher> 曾吉賢   ,  游勝冠* </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88155 </place>
-<note> 台文系學生須上、下學期課程皆修習通過始得計入畢業學分 </note>
-</B5>
-
-<B5 id="111">
-<num>B5-111</num>
-<class></class>
-<group></group>
-<name> 地方知識與地方書寫 </name>
-<teacher> 簡義明  </teacher>
+<name> 環境劇場 </name>
+<teacher> 陳德安  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88155 </place>
-<note></note>
-</B5>
-
-<B5 id="112">
-<num>B5-112</num>
-<class></class>
-<group></group>
-<name> 世界文學（一） </name>
-<teacher> 鍾秀梅  </teacher>
-<score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88155 </place>
-<note> 台文系學生須上、下學期課程皆修習通過始得計入畢業學分 </note>
-</B5>
-
-<B5 id="113">
-<num>B5-113</num>
-<class></class>
-<group></group>
-<name> NGO實務與理論 </name>
-<teacher> 鍾秀梅  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88155 </place>
@@ -452,24 +382,24 @@
 <num>B5-152</num>
 <class></class>
 <group></group>
-<name> 公共議題傳播 </name>
-<teacher> 王右君  </teacher>
-<score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<name> 臺灣海洋文化與文學 </name>
+<teacher> 吳毓琪  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88136 </place>
-<note> 本課程為具服務學習內涵之專業課程 </note>
+<note></note>
 </B5>
 
 <B5 id="153">
 <num>B5-153</num>
 <class></class>
 <group></group>
-<name> 台灣繪本作家專題 </name>
-<teacher> 吳玫瑛  </teacher>
+<name> 台日文化交流史 </name>
+<teacher> 李承機  </teacher>
 <score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88136 </place>
@@ -480,97 +410,13 @@
 <num>B5-154</num>
 <class></class>
 <group></group>
-<name> 當代華文女性文學與批評 </name>
-<teacher> 劉乃慈  </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88136 </place>
-<note></note>
-</B5>
-
-<B5 id="155">
-<num>B5-155</num>
-<class></class>
-<group></group>
-<name> 知識分子與社會介入 </name>
-<teacher> 鍾秀梅  </teacher>
-<score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88154 </place>
-<note></note>
-</B5>
-
-<B5 id="156">
-<num>B5-156</num>
-<class></class>
-<group></group>
-<name> 西拉雅文學概論 </name>
-<teacher> 鄭邦鎮  </teacher>
-<score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88136 </place>
-<note></note>
-</B5>
-
-<B5 id="157">
-<num>B5-157</num>
-<class></class>
-<group></group>
-<name> 台灣鄉土植物(木本) </name>
+<name> 台灣鄉土植物(草本) </name>
 <teacher> 楊國禎  </teacher>
 <score> 2 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88154 </place>
-<note></note>
-</B5>
-
-<B5 id="159">
-<num>B5-159</num>
-<class></class>
-<group></group>
-<name> 新聞台語 </name>
-<teacher> 巫義淵  </teacher>
-<score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88135 </place>
-<note></note>
-</B5>
-
-<B5 id="160">
-<num>B5-160</num>
-<class></class>
-<group></group>
-<name> 現代戲劇 </name>
-<teacher> 呂毅新  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 台文系館                      88136 </place>
-<note></note>
-</B5>
-
-<B5 id="161">
-<num>B5-161</num>
-<class></class>
-<group></group>
-<name> 編輯實務 </name>
-<teacher> 陳德安  </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88135 </place>
 <note></note>
 </B5>
 

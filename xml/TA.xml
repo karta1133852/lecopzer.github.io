@@ -1,25 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<TA id="002">
-<num>TA-002</num>
-<class> 博一                           </class>
-<group></group>
-<name> 健康照護專題討論（一） </name>
-<teacher> 王琪珍   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  柯乃熒*  ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  洪菁霞   ,  張玲慧  </teacher>
-<score> 1 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 醫學院                        501 </place>
-<note> 與護理系國際博士班合開 </note>
-</TA>
-
-<TA id="003">
-<num>TA-003</num>
+<TA id="001">
+<num>TA-001</num>
 <class></class>
 <group></group>
-<name> 獨立研究（一） </name>
-<teacher> 王琪珍   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  成戎珠*  ,  洪菁霞  </teacher>
+<name> 獨立研究（二） </name>
+<teacher> 未定  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -30,12 +16,40 @@
  </note>
 </TA>
 
+<TA id="002">
+<num>TA-002</num>
+<class> 博一                           </class>
+<group></group>
+<name> 健康照護專題討論（二） </name>
+<teacher> 楊政達* </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        501 </place>
+<note> 國際博士班課程，與健照所合開 </note>
+</TA>
+
+<TA id="003">
+<num>TA-003</num>
+<class> 博一                           </class>
+<group></group>
+<name> 健康照護的倫理探討與實踐 </name>
+<teacher> 甘偵蓉   ,  黃美智* </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：健照所會議室 </note>
+</TA>
+
 <TA id="004">
 <num>TA-004</num>
 <class></class>
 <group></group>
-<name> 獨立研究（三） </name>
-<teacher> 柯乃熒   ,  許玉雲   ,  陳靜敏   ,  成戎珠*  ,  郭乃文  </teacher>
+<name> 獨立研究（四） </name>
+<teacher> 未定  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -50,120 +64,50 @@
 <num>TA-005</num>
 <class> 博二                           </class>
 <group></group>
-<name> 健康照護專題討論（三） </name>
-<teacher> 黃美智   ,  柯乃熒*  ,  王靜枝   ,  張玲慧   ,  郭乃文  </teacher>
+<name> 健康照護專題討論（四） </name>
+<teacher> 楊政達* </teacher>
 <score> 1 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        501 </place>
-<note> 與護理系國際博士班合開 </note>
+<note> 國際博士班課程，與健照所合開 </note>
 </TA>
 
 <TA id="006">
 <num>TA-006</num>
-<class> 博一                           </class>
+<class> 博                             </class>
 <group></group>
-<name> 護理哲理與知識建構 </name>
+<name> 教學理論與方法特論 </name>
 <teacher> 陳彰惠* </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place></place>
-<note> 上課教室:健照所會議室(與護理系國際博士班合開) </note>
+<note> 教室於健照所會議室，若無外籍生選課，將改以中文授課 </note>
 </TA>
 
 <TA id="007">
 <num>TA-007</num>
-<class> 博一                           </class>
-<group></group>
-<name> 護理哲理與知識建構 </name>
-<teacher> 陳彰惠* </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課教室:健照所會議室(與護理系國際博士班合開) </note>
-</TA>
-
-<TA id="008">
-<num>TA-008</num>
-<class> 博二                           </class>
-<group></group>
-<name> 婦女健康專論 </name>
-<teacher> 陳彰惠* </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 上課地點:健照所會議室(婦女健康研究群必選) </note>
-</TA>
-
-<TA id="011">
-<num>TA-011</num>
 <class> 博                             </class>
 <group></group>
-<name> 質性研究實作：訪談資料收集與分析 </name>
-<teacher> 陳麗光* </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<name> 臨床心理督導實務 </name>
+<teacher> 郭乃文* </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        205D </place>
-<note> 本所與老年所合開 </note>
+<type> 實習 </type>
+<place></place>
+<note> 上課地點於健照所會議室 </note>
 </TA>
 
-<TA id="012">
-<num>TA-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 智慧生活與長期照護 </name>
-<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
-<score> 3 </score>
-<time day1="3" s1="5" e1="7"> [3]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 物治系館                      B02 </place>
-<note> 本所與物治系合開 </note>
-</TA>
-
-<TA id="013">
-<num>TA-013</num>
-<class> 博                             </class>
-<group></group>
-<name> 人體動作生物力學 </name>
-<teacher> 蘇芳慶* </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5731 </place>
-<note> 本所與醫工系合開(動作科學與照護研究群必選) </note>
-</TA>
-
-<TA id="014">
-<num>TA-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 腦波於認知與生活上的應用 </name>
-<teacher> 謝淑蘭* </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
-<note> 與心理系碩士班合開 </note>
-</TA>
-
-<TA id="017">
-<num>TA-017</num>
+<TA id="010">
+<num>TA-010</num>
 <class></class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 徐畢卿   ,  王靜枝   ,  成戎珠*  ,  馬慧英   ,  郭乃文  </teacher>
+<teacher> 未定  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -172,34 +116,6 @@
 <place></place>
 <note> 
  </note>
-</TA>
-
-<TA id="018">
-<num>TA-018</num>
-<class> 博                             </class>
-<group></group>
-<name> 護理專業探究 </name>
-<teacher> 徐畢卿   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  陳靜敏   ,  陳幸眉   ,  賴昭翰  </teacher>
-<score> 2 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 護理系館                      85X09 </place>
-<note> 與建照所合開 </note>
-</TA>
-
-<TA id="019">
-<num>TA-019</num>
-<class> 博                             </class>
-<group></group>
-<name> 健康照護領導與政策 </name>
-<teacher> 柯乃熒   ,  陳靜敏* </teacher>
-<score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 與建照所合開(上課教室:醫圖PBL210) </note>
 </TA>
 
 </content>

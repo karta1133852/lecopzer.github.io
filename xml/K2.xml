@@ -7,165 +7,151 @@
 <name> 專題討論 </name>
 <teacher> 林明澤  </teacher>
 <score> 0 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26510 </place>
-<note> 供碩博三年級以上學生修習 </note>
+<note> 供碩三博四以上研究生選課 </note>
 </K2>
 
 <K2 id="002">
 <num>K2-002</num>
-<class> 碩一                           </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 研究方法與論文寫作 </name>
-<teacher> 張淑麗  </teacher>
+<name> 喬叟專題研究 </name>
+<teacher> 石苓  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
-<must> 必修 </must>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26510 </place>
-<note> MA required, literature </note>
+<note> 【Literature Track】British Lit. before Romanticism, MA & Ph.D. </note>
 </K2>
 
 <K2 id="003">
 <num>K2-003</num>
-<class> 碩一二                         </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 文學批評 </name>
-<teacher> 賴俊雄  </teacher>
+<name> 維多利亞文學專題研究 </name>
+<teacher> 林明澤  </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
-<must> 必修 </must>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26510 </place>
-<note> MA required, Literature </note>
+<note> 【Literature Track】British Lit. since Romanticism, MA & Ph.D. </note>
 </K2>
 
 <K2 id="004">
 <num>K2-004</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 當代英國小說 </name>
-<teacher> 廖培真  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26510 </place>
-<note> MA&Ph.D., </note>
-</K2>
-
-<K2 id="005">
-<num>K2-005</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 現代美國小說 </name>
+<name> 美國文學經典名著研究 </name>
 <teacher> 金傑夫  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26510 </place>
-<note> MA & Ph.D., American Literature </note>
+<note> 【Literature Track】American Lit. MA & Ph.D. </note>
+</K2>
+
+<K2 id="005">
+<num>K2-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 文學理論專題：新唯物論 </name>
+<teacher> 賴俊雄  </teacher>
+<score> 3 </score>
+<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26510 </place>
+<note> 【Literature Track】Literary Theory, MA & Ph.D. </note>
 </K2>
 
 <K2 id="006">
 <num>K2-006</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 後殖民論述與文學研究：霍米巴巴與德勒茲 </name>
-<teacher> 楊哲銘  </teacher>
-<score> 3 </score>
-<time day1="3" s1="4.5" e1="6"> [3]N~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26510 </place>
-<note> Literary Theory </note>
-</K2>
-
-<K2 id="020">
-<num>K2-020</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 語言學研究方法 </name>
-<teacher> 閔慧慈  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26512 </place>
-<note> MA required, Linguistics </note>
-</K2>
-
-<K2 id="021">
-<num>K2-021</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 語法學專題研究 </name>
-<teacher> 李惠琦  </teacher>
+<name> 情感研究專題 </name>
+<teacher> 王穎  </teacher>
 <score> 3 </score>
 <time day1="2" s1="5" e1="7"> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26512 </place>
-<note> Linguistics </note>
+<place> 修齊大樓                      26510 </place>
+<note> 【Literature Track】MA & Ph.D. </note>
 </K2>
 
-<K2 id="022">
-<num>K2-022</num>
-<class> 碩一二                         </class>
+<K2 id="020">
+<num>K2-020</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 語用學專題研究 </name>
-<teacher> 謝菁玉  </teacher>
+<name> 音韻學專題：音韻現象與優選論之前的理論系 </name>
+<teacher> 羅勤正  </teacher>
 <score> 3 </score>
-<time day1="3" s1="1" e1="3"> [3]1~3  </time>
+<time day1="3" s1="3" e1="4.5"> [3]3~N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26512 </place>
-<note> Linguistics </note>
+<note> 【Linguistic Track】MA & Ph.D. </note>
+</K2>
+
+<K2 id="021">
+<num>K2-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 兒童語言障礙專題研究 </name>
+<teacher> 陳麗美  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26512 </place>
+<note> 【Linguistic Track】MA & Ph.D. </note>
 </K2>
 
 <K2 id="023">
 <num>K2-023</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 記憶與語言 </name>
-<teacher> 陳世威  </teacher>
+<name> 外語寫作：理論與實踐 </name>
+<teacher> 閔慧慈  </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26512 </place>
-<note> Linguistics </note>
+<note> 【Linguistic Track】MA & Ph.D. </note>
 </K2>
 
 <K2 id="024">
 <num>K2-024</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 運用多媒體與網路的語言教學 </name>
-<teacher> 劉繼仁  </teacher>
+<name> 語言評量專題研究 </name>
+<teacher> 高實玫  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26409 </place>
-<note> Linguistics </note>
+<place> 修齊大樓                      26512 </place>
+<note> 【Linguistic Track】MA & Ph.D. </note>
 </K2>
 
 <K2 id="025">
 <num>K2-025</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 英語為國際通用語 </name>
-<teacher> 鄒文莉  </teacher>
+<name> 詞彙語言學：語言變遷面向 </name>
+<teacher> 謝菁玉  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4.5"> [2]3~N  </time>
+<time day1="5" s1="1" e1="3"> [5]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26512 </place>
-<note> Linguistics </note>
+<note> (Linguistic Track) MA&Ph.D </note>
 </K2>
 
 </content>

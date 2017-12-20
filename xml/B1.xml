@@ -4,8 +4,8 @@
 <num>B1-003</num>
 <class></class>
 <group></group>
-<name> 各體文選及習作（一） </name>
-<teacher> 陳益源  </teacher>
+<name> 各體文選及習作（二） </name>
+<teacher> 侯美珍  </teacher>
 <score> 2 </score>
 <time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
@@ -17,8 +17,8 @@
 <B1 id="005">
 <num>B1-005</num>
 <class></class>
-<group></group>
-<name> 國學導讀（一） </name>
+<group> 2 </group>
+<name> 國學導讀（二） </name>
 <teacher> 邱詩雯  </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
@@ -31,64 +31,64 @@
 <B1 id="006">
 <num>B1-006</num>
 <class></class>
-<group></group>
-<name> 文學概論（一） </name>
-<teacher> 陳昌明  </teacher>
+<group> 2 </group>
+<name> 文學概論（二） </name>
+<teacher> 李京珮  </teacher>
 <score> 2 </score>
 <time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
-<note> 學號單號為甲組 </note>
+<note> 單號為甲組(學號倒數第二位) </note>
 </B1>
 
 <B1 id="007">
 <num>B1-007</num>
 <class></class>
-<group></group>
-<name> 文學概論（一） </name>
+<group> 2 </group>
+<name> 文學概論（二） </name>
 <teacher> 翁文嫻  </teacher>
 <score> 2 </score>
 <time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
-<note> 學號雙號為乙組 </note>
+<note> 雙號為乙組(學號倒數第二位) </note>
 </B1>
 
 <B1 id="008">
 <num>B1-008</num>
 <class></class>
-<group></group>
-<name> 現代戲劇欣賞及習作（一） </name>
+<group> 2 </group>
+<name> 現代戲劇欣賞及習作（二） </name>
 <teacher> 秦嘉嫄  </teacher>
 <score> 2 </score>
 <time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
-<note> 學號單號為甲組 </note>
+<note> 單號為甲組 (學號倒數第二位) </note>
 </B1>
 
 <B1 id="009">
 <num>B1-009</num>
 <class></class>
-<group></group>
-<name> 現代戲劇欣賞及習作（一） </name>
+<group> 2 </group>
+<name> 現代戲劇欣賞及習作（二） </name>
 <teacher> 秦嘉嫄  </teacher>
 <score> 2 </score>
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21103 </place>
-<note> 學號雙號為乙組 </note>
+<note> 雙號為乙組(學號倒數第二位) </note>
 </B1>
 
 <B1 id="010">
 <num>B1-010</num>
 <class></class>
-<group></group>
-<name> 服務學習（一） </name>
+<group> 1 </group>
+<name> 服務學習（二） </name>
 <teacher> 林朝成*  ,  邱詩雯  </teacher>
 <score> 0 </score>
 <time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
@@ -101,8 +101,8 @@
 <B1 id="011">
 <num>B1-011</num>
 <class></class>
-<group></group>
-<name> 四書（一） </name>
+<group> 2 </group>
+<name> 四書（二） </name>
 <teacher> 吳文璋  </teacher>
 <score> 2 </score>
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
@@ -115,8 +115,8 @@
 <B1 id="012">
 <num>B1-012</num>
 <class></class>
-<group></group>
-<name> 語言學概論 </name>
+<group> 2 </group>
+<name> 國語語音學 </name>
 <teacher> 陳梅香  </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
@@ -129,8 +129,8 @@
 <B1 id="013">
 <num>B1-013</num>
 <class></class>
-<group></group>
-<name> 日文（一） </name>
+<group> 2 </group>
+<name> 日文（二） </name>
 <teacher> 王翠玲  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
@@ -144,7 +144,7 @@
 <num>B1-014</num>
 <class></class>
 <group></group>
-<name> 古典戲曲製演 </name>
+<name> 戲曲創新與實務 </name>
 <teacher> 高美華  </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
@@ -158,7 +158,7 @@
 <num>B1-015</num>
 <class></class>
 <group></group>
-<name> 書法 </name>
+<name> 書法藝術 </name>
 <teacher> 黃宗義  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
@@ -168,25 +168,11 @@
 <note></note>
 </B1>
 
-<B1 id="021">
-<num>B1-021</num>
+<B1 id="052">
+<num>B1-052</num>
 <class></class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 林欣仕  </teacher>
-<score> 0 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 體育室前                      體育室前 </place>
-<note></note>
-</B1>
-
-<B1 id="051">
-<num>B1-051</num>
-<class></class>
-<group></group>
-<name> 歷代文選及習作（一） </name>
+<name> 歷代文選及習作（二） </name>
 <teacher> 林耀潾  </teacher>
 <score> 2 </score>
 <time day1="1" s1="2" e1="3"> [1]2~3  </time>
@@ -196,11 +182,11 @@
 <note></note>
 </B1>
 
-<B1 id="052">
-<num>B1-052</num>
+<B1 id="054">
+<num>B1-054</num>
 <class></class>
 <group></group>
-<name> 詩選及習作（一） </name>
+<name> 詩選及習作（二） </name>
 <teacher> 陳家煌  </teacher>
 <score> 3 </score>
 <time day1="2" s1="1" e1="1" day2="4" s2="1" e2="2"> [2]1  ,  [4]1~2  </time>
@@ -210,11 +196,11 @@
 <note></note>
 </B1>
 
-<B1 id="053">
-<num>B1-053</num>
+<B1 id="056">
+<num>B1-056</num>
 <class></class>
 <group></group>
-<name> 文字學（一） </name>
+<name> 文字學（二） </name>
 <teacher> 高佑仁  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="2" day2="4" s2="3" e2="4"> [2]2  ,  [4]3~4  </time>
@@ -224,12 +210,12 @@
 <note></note>
 </B1>
 
-<B1 id="054">
-<num>B1-054</num>
+<B1 id="057">
+<num>B1-057</num>
 <class></class>
 <group></group>
-<name> 中國文學史（一） </name>
-<teacher> 陳昌明  </teacher>
+<name> 中國文學史（二） </name>
+<teacher> 陳美朱  </teacher>
 <score> 3 </score>
 <time day1="3" s1="1" e1="3"> [3]1~3  </time>
 <must> 必修 </must>
@@ -238,39 +224,11 @@
 <note></note>
 </B1>
 
-<B1 id="055">
-<num>B1-055</num>
+<B1 id="058">
+<num>B1-058</num>
 <class></class>
 <group></group>
-<name> 詩經（一） </name>
-<teacher> 林耀潾  </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      21101 </place>
-<note></note>
-</B1>
-
-<B1 id="056">
-<num>B1-056</num>
-<class></class>
-<group></group>
-<name> 世說新語 </name>
-<teacher> 江建俊  </teacher>
-<score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      21101 </place>
-<note></note>
-</B1>
-
-<B1 id="057">
-<num>B1-057</num>
-<class></class>
-<group></group>
-<name> 現代詩欣賞及習作（一） </name>
+<name> 現代詩欣賞及習作（二） </name>
 <teacher> 翁文嫻  </teacher>
 <score> 2 </score>
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
@@ -280,87 +238,59 @@
 <note></note>
 </B1>
 
-<B1 id="058">
-<num>B1-058</num>
-<class></class>
-<group></group>
-<name> 漢語語法 </name>
-<teacher> 仇小屏  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      21208 </place>
-<note></note>
-</B1>
-
 <B1 id="059">
 <num>B1-059</num>
 <class></class>
 <group></group>
-<name> 戲劇制演 </name>
-<teacher> 秦嘉嫄*  ,  鍾國風  </teacher>
+<name> 修辭學 </name>
+<teacher> 仇小屏  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      21X06 </place>
-<note> 限30人選課 </note>
-</B1>
-
-<B1 id="060">
-<num>B1-060</num>
-<class></class>
-<group></group>
-<name> 里山里海的方案規劃與實踐 </name>
-<teacher> 林朝成  </teacher>
-<score> 2 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      文學院演講廳 </place>
-<note> 融入服務學習內涵之專業課程 </note>
-</B1>
-
-<B1 id="061">
-<num>B1-061</num>
-<class></class>
-<group></group>
-<name> 美學經濟學與文創產業 </name>
-<teacher> 萬胥亭  </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21102 </place>
 <note></note>
 </B1>
 
-<B1 id="062">
-<num>B1-062</num>
+<B1 id="060">
+<num>B1-060</num>
 <class></class>
 <group></group>
-<name> 古典文學與時尚 </name>
-<teacher> 高美華  </teacher>
+<name> 西洋哲學概論 </name>
+<teacher> 萬胥亭  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中文系館                      21201 </place>
+<place> 中文系館                      21101 </place>
 <note></note>
 </B1>
 
-<B1 id="063">
-<num>B1-063</num>
+<B1 id="061">
+<num>B1-061</num>
 <class></class>
 <group></group>
-<name> 日文（三） </name>
-<teacher> 王翠玲  </teacher>
+<name> 山里海社會創新實踐 </name>
+<teacher> 林朝成  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中文系館                      21103 </place>
+<place> 中文系館                      文學院演講廳 </place>
+<note> 限20人選修 </note>
+</B1>
+
+<B1 id="062">
+<num>B1-062</num>
+<class></class>
+<group></group>
+<name> 詩經（二） </name>
+<teacher> 林耀潾  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21101 </place>
 <note></note>
 </B1>
 
@@ -368,7 +298,7 @@
 <num>B1-101</num>
 <class></class>
 <group></group>
-<name> 詞選及習作（一） </name>
+<name> 詞選及習作（二） </name>
 <teacher> 王偉勇  </teacher>
 <score> 2 </score>
 <time day1="2" s1="1" e1="2"> [2]1~2  </time>
@@ -378,11 +308,25 @@
 <note></note>
 </B1>
 
+<B1 id="102">
+<num>B1-102</num>
+<class></class>
+<group></group>
+<name> 曲選及習作 </name>
+<teacher> 高美華  </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21102 </place>
+<note></note>
+</B1>
+
 <B1 id="103">
 <num>B1-103</num>
 <class></class>
 <group></group>
-<name> 聲韻學（一） </name>
+<name> 聲韻學（二） </name>
 <teacher> 陳梅香  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="3" s2="4" e2="4"> [2]3~4  ,  [3]4  </time>
@@ -396,35 +340,35 @@
 <num>B1-104</num>
 <class></class>
 <group></group>
-<name> 現代小說欣賞及習作（一） </name>
-<teacher> 蔡玫姿  </teacher>
+<name> 現代小說欣賞及習作（二） </name>
+<teacher> 蘇敏逸  </teacher>
 <score> 2 </score>
 <time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
-<note> 學號單號為甲組 </note>
+<note> 單號為甲組(學號倒數第二位) </note>
 </B1>
 
 <B1 id="105">
 <num>B1-105</num>
 <class></class>
 <group></group>
-<name> 現代小說欣賞及習作（一） </name>
+<name> 現代小說欣賞及習作（二） </name>
 <teacher> 蘇偉貞  </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中文系館                      21101 </place>
-<note> 學號雙號為乙組 </note>
+<note> 雙號為乙組(學號倒數第二位) </note>
 </B1>
 
 <B1 id="106">
 <num>B1-106</num>
 <class></class>
 <group></group>
-<name> 中國思想史（一） </name>
+<name> 中國思想史（二） </name>
 <teacher> 林朝成  </teacher>
 <score> 3 </score>
 <time day1="1" s1="2" e1="2" day2="4" s2="3" e2="4"> [1]2  ,  [4]3~4  </time>
@@ -438,7 +382,7 @@
 <num>B1-107</num>
 <class></class>
 <group></group>
-<name> 左傳（一） </name>
+<name> 左傳（二） </name>
 <teacher> 黃聖松  </teacher>
 <score> 2 </score>
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
@@ -452,13 +396,13 @@
 <num>B1-108</num>
 <class></class>
 <group></group>
-<name> 老子 </name>
-<teacher> 江建俊  </teacher>
+<name> 莊子 </name>
+<teacher> 陳弘學  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中文系館                      21102 </place>
+<place> 中文系館                      21208 </place>
 <note></note>
 </B1>
 
@@ -466,21 +410,7 @@
 <num>B1-109</num>
 <class></class>
 <group></group>
-<name> 荀子 </name>
-<teacher> 吳文璋  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      21101 </place>
-<note></note>
-</B1>
-
-<B1 id="110">
-<num>B1-110</num>
-<class></class>
-<group></group>
-<name> 李杜詩（一） </name>
+<name> 李杜詩（二） </name>
 <teacher> 陳美朱  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
@@ -490,11 +420,11 @@
 <note></note>
 </B1>
 
-<B1 id="111">
-<num>B1-111</num>
+<B1 id="110">
+<num>B1-110</num>
 <class></class>
 <group></group>
-<name> 臺灣文學史（一） </name>
+<name> 臺灣文學史（二） </name>
 <teacher> 賴麗娟  </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
@@ -504,12 +434,12 @@
 <note></note>
 </B1>
 
-<B1 id="112">
-<num>B1-112</num>
+<B1 id="111">
+<num>B1-111</num>
 <class></class>
 <group></group>
-<name> 民間文學及其田野調查（一） </name>
-<teacher> 陳益源  </teacher>
+<name> 民間文學及其田野調查（二） </name>
+<teacher> 李淑如  </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
@@ -518,11 +448,11 @@
 <note></note>
 </B1>
 
-<B1 id="113">
-<num>B1-113</num>
+<B1 id="112">
+<num>B1-112</num>
 <class></class>
 <group></group>
-<name> 學術報告寫作（一） </name>
+<name> 學術報告寫作（二） </name>
 <teacher> 陳弘學  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
@@ -536,13 +466,13 @@
 <num>B1-151</num>
 <class></class>
 <group></group>
-<name> 楚辭（一） </name>
-<teacher> 陳怡良  </teacher>
+<name> 神話與傳說（二） </name>
+<teacher> 林素娟  </teacher>
 <score> 2 </score>
-<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中文系館                      21208 </place>
+<place> 中文系館                      21201 </place>
 <note></note>
 </B1>
 
@@ -550,21 +480,7 @@
 <num>B1-152</num>
 <class></class>
 <group></group>
-<name> 神話與傳說（一） </name>
-<teacher> 林素娟  </teacher>
-<score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中文系館                      21208 </place>
-<note></note>
-</B1>
-
-<B1 id="153">
-<num>B1-153</num>
-<class></class>
-<group></group>
-<name> 應用文（一） </name>
+<name> 應用文（二） </name>
 <teacher> 王偉勇  </teacher>
 <score> 2 </score>
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
@@ -574,17 +490,17 @@
 <note></note>
 </B1>
 
-<B1 id="154">
-<num>B1-154</num>
+<B1 id="153">
+<num>B1-153</num>
 <class></class>
 <group></group>
-<name> 訓詁學 </name>
-<teacher> 陳梅香  </teacher>
+<name> 文學評論與影評寫作 </name>
+<teacher> 萬胥亭  </teacher>
 <score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中文系館                      21101 </place>
+<place> 中文系館                      21102 </place>
 <note></note>
 </B1>
 

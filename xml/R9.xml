@@ -1,53 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<R9 id="004">
-<num>R9-004</num>
+<R9 id="001">
+<num>R9-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 李威勳  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 黃郁雯  </teacher>
 <score> 1 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62X02 </place>
+<place> 交管系館                      62105 </place>
 <note></note>
 </R9>
 
-<R9 id="006">
-<num>R9-006</num>
-<class> 碩一                           </class>
+<R9 id="008">
+<num>R9-008</num>
+<class> 碩二                           </class>
 <group></group>
-<name> 電信組織與人力資源管理 </name>
-<teacher> 高凱聲  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 蔡東峻  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note></note>
+</R9>
+
+<R9 id="009">
+<num>R9-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 無線通訊原理與應用 </name>
+<teacher> 陳文字  </teacher>
 <score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62105 </place>
 <note></note>
 </R9>
 
-<R9 id="015">
-<num>R9-015</num>
-<class> 碩二                           </class>
+<R9 id="010">
+<num>R9-010</num>
+<class> 碩一                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 陳文字  </teacher>
-<score> 1 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 必修 </must>
+<name> 電信政策與法規 </name>
+<teacher> 黃郁雯  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62X02 </place>
+<place> 交管系館                      62205 </place>
+<note> 交管所與電信所合班 </note>
+</R9>
+
+<R9 id="011">
+<num>R9-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 服務業行銷策略 </name>
+<teacher> 蔡東峻  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
 <note></note>
 </R9>
 
-<R9 id="020">
-<num>R9-020</num>
+<R9 id="012">
+<num>R9-012</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  黃國平   ,  張瀞之   ,  林東盈   ,  陳文字   ,  李威勳   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
+<score> 1 </score>
+<time day1="5" s1="1" e1="1" day2="5" s2="4.5" e2="4.5"> [5]1  ,  [5]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 交管系館                      62107 </place>
+<note></note>
+</R9>
+
+<R9 id="034">
+<num>R9-034</num>
 <class></class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳文字  </teacher>
+<teacher> 蔡東峻  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -56,134 +98,6 @@
 <place></place>
 <note> 
  </note>
-</R9>
-
-<R9 id="022">
-<num>R9-022</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 統計方法 </name>
-<teacher> 林佐鼎  </teacher>
-<score> 3 </score>
-<time day1="4" s1="9" e1="11"> [4]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62205 </place>
-<note> 交管所與電管所合開 </note>
-</R9>
-
-<R9 id="025">
-<num>R9-025</num>
-<class></class>
-<group></group>
-<name> 校外實習 </name>
-<teacher> 廖俊雄  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</R9>
-
-<R9 id="026">
-<num>R9-026</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 科技管理 </name>
-<teacher> 張永昌  </teacher>
-<score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62105 </place>
-<note> 交管所與電管所合開，電信所必修 </note>
-</R9>
-
-<R9 id="028">
-<num>R9-028</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電信科技原理 </name>
-<teacher> 陳文字  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62X01 </place>
-<note></note>
-</R9>
-
-<R9 id="029">
-<num>R9-029</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 產業競爭管制與實務發展 </name>
-<teacher> 黃郁雯  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62207 </place>
-<note> 舊課名為"競爭與公平交易法",勿重複選課承認畢業學分(即僅擇1門承認畢業學分) </note>
-</R9>
-
-<R9 id="031">
-<num>R9-031</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電信產業分析 </name>
-<teacher> 廖俊雄  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62X02 </place>
-<note> 交管所及電管所合班 </note>
-</R9>
-
-<R9 id="033">
-<num>R9-033</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 電信經營策略 </name>
-<teacher> 張豊雄   ,  蔡東峻  </teacher>
-<score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62207 </place>
-<note> 電管所必修 </note>
-</R9>
-
-<R9 id="034">
-<num>R9-034</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 多變量分析 </name>
-<teacher> 陳勁甫  </teacher>
-<score> 3 </score>
-<time day1="5" s1="10" e1="12"> [5]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62205 </place>
-<note> 交管所電管所合班 </note>
-</R9>
-
-<R9 id="041">
-<num>R9-041</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 教學實習 </name>
-<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
-<score> 1 </score>
-<time day1="5" s1="1" e1="1" day2="5" s2="4.5" e2="4.5"> [5]1  ,  [5]N  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place> 交管系館                      62107 </place>
-<note></note>
 </R9>
 
 </content>

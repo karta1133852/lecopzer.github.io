@@ -10,30 +10,32 @@
 <time day1="1" s1="9" e1="9"> [1]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      小哈佛教室 </place>
-<note> 限修滿畢業學分者選修 </note>
+<place> 管理學院                      62X01 </place>
+<note> 限本所。限修滿畢業學分者選修。 </note>
 </RD>
 
 <RD id="102">
 <num>RD-102</num>
-<class> 碩二                           </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 企業經營專討 </name>
-<teacher> 林軒竹   ,  謝中奇*  ,  張紹基  </teacher>
+<name> 行銷管理 </name>
+<teacher> 未定  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 必修 </must>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      小哈佛教室 </place>
-<note> 限本所。修課條件：已確認指導教授之碩二(含)以上學生。 </note>
+<place></place>
+<note> 
+ </note>
 </RD>
 
 <RD id="103">
 <num>RD-103</num>
-<class> 碩一                           </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 營運管理 </name>
-<teacher> 謝中奇  </teacher>
+<name> 企業研究方法 </name>
+<teacher> 王維聰  </teacher>
 <score> 3 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
@@ -42,14 +44,30 @@
 <note> 限本所 </note>
 </RD>
 
+<RD id="104">
+<num>RD-104</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</RD>
+
 <RD id="105">
 <num>RD-105</num>
-<class> 碩一                           </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 財務管理 </name>
-<teacher> 林軒竹  </teacher>
+<name> 策略管理 </name>
+<teacher> 曾瓊慧  </teacher>
 <score> 3 </score>
-<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      小哈佛教室 </place>
@@ -58,43 +76,29 @@
 
 <RD id="106">
 <num>RD-106</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 資訊管理 </name>
-<teacher> 李威勳  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      小哈佛教室 </place>
-<note> 限本所 </note>
-</RD>
-
-<RD id="107">
-<num>RD-107</num>
 <class> 碩                             </class>
 <group></group>
-<name> 創業基礎與行動 </name>
-<teacher> 楊朝旭   ,  王泰裕   ,  林正章   ,  蔡東峻   ,  張紹基   ,  史習安* </teacher>
+<name> 電子商務 </name>
+<teacher> 王維聰  </teacher>
 <score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      哈佛教室 </place>
-<note> 限本所 </note>
+<place> 工管系館                      61204 </place>
+<note></note>
 </RD>
 
 <RD id="108">
 <num>RD-108</num>
 <class> 碩                             </class>
 <group></group>
-<name> 資訊倫理 </name>
-<teacher> 謝佩璇  </teacher>
+<name> 策略競局 </name>
+<teacher> 謝中奇  </teacher>
 <score> 3 </score>
-<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<time day1="1" s1="1" e1="1" day2="3" s2="3" e2="4"> [1]1  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61204 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </RD>
 
@@ -102,13 +106,13 @@
 <num>RD-109</num>
 <class> 碩                             </class>
 <group></group>
-<name> 專案管理 </name>
-<teacher> 王泰裕  </teacher>
+<name> 組織發展 </name>
+<teacher> 鄭詩瑜  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61206 </place>
+<place> 工管系館                      61208 </place>
 <note></note>
 </RD>
 
@@ -116,13 +120,13 @@
 <num>RD-110</num>
 <class> 碩                             </class>
 <group></group>
-<name> 系統動力學與管理 </name>
-<teacher> 王維聰  </teacher>
+<name> 領導理論 </name>
+<teacher> 利德江  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61204 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </RD>
 
@@ -130,10 +134,10 @@
 <num>RD-111</num>
 <class> 碩                             </class>
 <group></group>
-<name> 認知與組織人因工程 </name>
-<teacher> 林明毅  </teacher>
+<name> 類神經網路應用 </name>
+<teacher> 王泰裕  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<time day1="4" s1="2" e1="2" day2="2" s2="3" e2="4"> [4]2  ,  [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61206 </place>
@@ -144,10 +148,10 @@
 <num>RD-112</num>
 <class> 碩                             </class>
 <group></group>
-<name> 消費者行為 </name>
-<teacher> 鄭詩瑜  </teacher>
+<name> 科技與創新策略管理 </name>
+<teacher> 謝佩璇  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61208 </place>
@@ -158,13 +162,13 @@
 <num>RD-113</num>
 <class> 碩                             </class>
 <group></group>
-<name> 行為科學專題 </name>
-<teacher> 葉桂珍  </teacher>
+<name> 實體性人因工程 </name>
+<teacher> 林明毅  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62457 </place>
+<place> 工管系館                      61204 </place>
 <note></note>
 </RD>
 
@@ -172,27 +176,13 @@
 <num>RD-114</num>
 <class> 碩                             </class>
 <group></group>
-<name> 策略行銷 </name>
-<teacher> 蔡燿全  </teacher>
+<name> 產業電子化策略 </name>
+<teacher> 呂執中  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62212 </place>
-<note></note>
-</RD>
-
-<RD id="115">
-<num>RD-115</num>
-<class> 碩                             </class>
-<group></group>
-<name> 財務管理 </name>
-<teacher> 莊雙喜  </teacher>
-<score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62422 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </RD>
 
@@ -200,13 +190,13 @@
 <num>RD-116</num>
 <class> 碩                             </class>
 <group></group>
-<name> 企業研究方法 </name>
-<teacher> 李憲達  </teacher>
+<name> 國際企業管理 </name>
+<teacher> 曾瓊慧  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62335 </place>
+<place> 國企所                        61401 </place>
 <note></note>
 </RD>
 
@@ -214,13 +204,13 @@
 <num>RD-117</num>
 <class> 碩                             </class>
 <group></group>
-<name> 開放式創新管理專題 </name>
-<teacher> 陳淑惠  </teacher>
+<name> 國際財務管理專題研討 </name>
+<teacher> 張紹基  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62455 </place>
+<place> 國企所                        61413 </place>
 <note></note>
 </RD>
 
@@ -228,196 +218,44 @@
 <num>RD-118</num>
 <class> 碩                             </class>
 <group></group>
-<name> 資訊管理 </name>
-<teacher> 許經明  </teacher>
+<name> 國際人力資源管理 </name>
+<teacher> 史習安  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62335 </place>
-<note></note>
-</RD>
-
-<RD id="119">
-<num>RD-119</num>
-<class> 碩                             </class>
-<group></group>
-<name> 技術策略分析 </name>
-<teacher> 許經明  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62422 </place>
-<note></note>
-</RD>
-
-<RD id="120">
-<num>RD-120</num>
-<class> 碩                             </class>
-<group></group>
-<name> 企業政策與策略 </name>
-<teacher> 方世杰  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</RD>
-
-<RD id="121">
-<num>RD-121</num>
-<class> 碩                             </class>
-<group></group>
-<name> 質性研究方法 </name>
-<teacher> 周信輝  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</RD>
-
-<RD id="122">
-<num>RD-122</num>
-<class> 碩                             </class>
-<group></group>
-<name> 金融機構管理 </name>
-<teacher> 王澤世  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63104 </place>
-<note></note>
-</RD>
-
-<RD id="123">
-<num>RD-123</num>
-<class> 碩                             </class>
-<group></group>
-<name> 總體經濟學 </name>
-<teacher> 林軒竹  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note></note>
-</RD>
-
-<RD id="124">
-<num>RD-124</num>
-<class> 碩                             </class>
-<group></group>
-<name> 財務報告分析與研究 </name>
-<teacher> 林軒竹  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note> 外所學生修課需經任課教師簽核 </note>
-</RD>
-
-<RD id="125">
-<num>RD-125</num>
-<class> 碩                             </class>
-<group></group>
-<name> 企業社會責任與社會責任投資 </name>
-<teacher> 顏盟峯  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note></note>
-</RD>
-
-<RD id="126">
-<num>RD-126</num>
-<class> 碩                             </class>
-<group></group>
-<name> 整合報導 </name>
-<teacher> 黃華瑋  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63415 </place>
-<note></note>
-</RD>
-
-<RD id="127">
-<num>RD-127</num>
-<class> 碩                             </class>
-<group></group>
-<name> 公司治理與財務報導理論研討 </name>
-<teacher> 黃華瑋  </teacher>
-<score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63415 </place>
+<place> 國企所                        61401 </place>
 <note></note>
 </RD>
 
 <RD id="128">
 <num>RD-128</num>
-<class> 碩                             </class>
+<class></class>
 <group></group>
-<name> 高級財務會計學 </name>
-<teacher> 許育綝  </teacher>
+<name> 企業經營與診斷 </name>
+<teacher> 未定  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 必修 </must>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63210 </place>
-<note></note>
+<place></place>
+<note> 
+ </note>
 </RD>
 
 <RD id="129">
 <num>RD-129</num>
 <class> 碩                             </class>
 <group></group>
-<name> 人力資源管理 </name>
-<teacher> 史習安  </teacher>
+<name> 創業基礎與管理 </name>
+<teacher> 楊朝旭  </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="6" s1="3" e1="5"> [6]3~5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 國企所                        61401 </place>
-<note></note>
-</RD>
-
-<RD id="130">
-<num>RD-130</num>
-<class> 碩                             </class>
-<group></group>
-<name> 組織行為與領導 </name>
-<teacher> 史習安  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61401 </place>
-<note></note>
-</RD>
-
-<RD id="131">
-<num>RD-131</num>
-<class> 碩                             </class>
-<group></group>
-<name> 國際財務管理 </name>
-<teacher> 張紹基  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61401 </place>
-<note></note>
+<place> 62X17 </place>
+<note> 限本所 </note>
 </RD>
 
 </content>

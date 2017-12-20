@@ -4,10 +4,10 @@
 <num>AH-001</num>
 <class></class>
 <group></group>
-<name> 語法學 </name>
-<teacher> 劉怡如  </teacher>
+<name> 華語教材教法 </name>
+<teacher> 林淑慧  </teacher>
 <score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
@@ -18,10 +18,10 @@
 <num>AH-002</num>
 <class></class>
 <group></group>
-<name> 詞彙學 </name>
-<teacher> 劉怡如  </teacher>
+<name> 華語文測驗與評量 </name>
+<teacher> 林淑慧  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
@@ -32,38 +32,10 @@
 <num>AH-003</num>
 <class></class>
 <group></group>
-<name> 華語文教學導論 </name>
-<teacher> 林淑慧  </teacher>
+<name> 華人文化與社會 </name>
+<teacher> 黃聖松  </teacher>
 <score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
-<note></note>
-</AH>
-
-<AH id="004">
-<num>AH-004</num>
-<class></class>
-<group></group>
-<name> 漢字理論與教學 </name>
-<teacher> 高佑仁  </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
-<note></note>
-</AH>
-
-<AH id="005">
-<num>AH-005</num>
-<class></class>
-<group></group>
-<name> 第二語言習得 </name>
-<teacher> 林淑慧  </teacher>
-<score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
@@ -75,13 +47,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文─入門 </name>
-<teacher> 呂璯敏  </teacher>
+<teacher> 劉怡如  </teacher>
 <score> 2 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
 <place> 修齊大樓                      26707 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="012">
@@ -91,11 +63,11 @@
 <name> 基礎國文─入門 </name>
 <teacher> 呂璯敏  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7110 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="013">
@@ -103,13 +75,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文─入門 </name>
-<teacher> 林淑慧  </teacher>
+<teacher> 洪瑄鍞  </teacher>
 <score> 2 </score>
-<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 修齊大樓                      26707 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<place> 唯農大樓                      7113 </place>
+<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="014">
@@ -119,11 +91,11 @@
 <name> 基礎國文─入門 </name>
 <teacher> 林淑慧  </teacher>
 <score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7113 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="015">
@@ -131,13 +103,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文─入門 </name>
-<teacher> 施安辛  </teacher>
+<teacher> 呂璯敏  </teacher>
 <score> 2 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 修齊大樓                      26707 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<place> 唯農大樓                      7113 </place>
+<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="016">
@@ -145,13 +117,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文─入門 </name>
-<teacher> 洪瑄鍞  </teacher>
+<teacher> 施安辛  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
 <place> 唯農大樓                      7113 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="017">
@@ -159,41 +131,41 @@
 <class></class>
 <group></group>
 <name> 基礎國文─入門 </name>
-<teacher> 洪瑄鍞  </teacher>
+<teacher> 劉怡如  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7115 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="018">
 <num>AH-018</num>
 <class></class>
 <group></group>
-<name> 基礎國文─入門 </name>
-<teacher> 劉怡如  </teacher>
+<name> 基礎國文─基礎 </name>
+<teacher> 呂璯敏  </teacher>
 <score> 2 </score>
-<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
 <place> 修齊大樓                      26707 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<note> Level 2 課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="019">
 <num>AH-019</num>
 <class></class>
 <group></group>
-<name> 基礎國文─入門 </name>
-<teacher> 劉怡如  </teacher>
+<name> 基礎國文─基礎 </name>
+<teacher> 施安辛  </teacher>
 <score> 2 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
 <place> 修齊大樓                      26707 </place>
-<note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
+<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="020">
@@ -201,13 +173,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文─基礎 </name>
-<teacher> 林淑慧  </teacher>
+<teacher> 洪瑄鍞  </teacher>
 <score> 2 </score>
-<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 修齊大樓                      26707 </place>
-<note> Level 2課程，非經華語中心(ext.52040)認定分級之境外生，無法選此課程 </note>
+<place> 唯農大樓                      7115 </place>
+<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="021">
@@ -215,13 +187,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文─基礎 </name>
-<teacher> 施安辛  </teacher>
+<teacher> 林淑慧  </teacher>
 <score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7302 </place>
-<note> Level 2課程，非經華語中心(ext.52040)認定分級之境外生，無法選此課程。教室26108 </note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="022">
@@ -229,13 +201,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文─基礎 </name>
-<teacher> 施安辛  </teacher>
+<teacher> 劉怡如  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7115 </place>
-<note> Level 2課程，非經華語中心(ext.52040)認定分級之境外生，無法選此課程 </note>
+<place> 唯農大樓                      7206 </place>
+<note> Level 2 課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="023">
@@ -245,95 +217,39 @@
 <name> 基礎國文─基礎 </name>
 <teacher> 洪瑄鍞  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7302 </place>
-<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。教室26108 </note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
+</AH>
+
+<AH id="024">
+<num>AH-024</num>
+<class></class>
+<group></group>
+<name> 基礎國文─進階(上) </name>
+<teacher> 林淑慧  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 唯農大樓                      7110 </place>
+<note> Level 5 課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="025">
 <num>AH-025</num>
 <class></class>
 <group></group>
-<name> 基礎國文─基礎 </name>
-<teacher> 劉怡如  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 必修 </must>
-<type> 基礎國文 </type>
-<place> 唯農大樓                      7112 </place>
-<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
-</AH>
-
-<AH id="026">
-<num>AH-026</num>
-<class></class>
-<group></group>
-<name> 基礎國文─初級(上) </name>
-<teacher> 洪瑄鍞  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 必修 </must>
-<type> 基礎國文 </type>
-<place> 唯農大樓                      7115 </place>
-<note> Level 3課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
-</AH>
-
-<AH id="027">
-<num>AH-027</num>
-<class></class>
-<group></group>
-<name> 基礎國文─進階(上) </name>
-<teacher> 施安辛  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 必修 </must>
-<type> 基礎國文 </type>
-<place> 唯農大樓                      7110 </place>
-<note> Level 5課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程 </note>
-</AH>
-
-<AH id="028">
-<num>AH-028</num>
-<class></class>
-<group></group>
-<name> 基礎國文─進階(上) </name>
+<name> 基礎國文—進階(中) </name>
 <teacher> 劉怡如  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
 <place> 唯農大樓                      7113 </place>
-<note> Level 5課程，非經華語中心(ext.52040)認定分級之境外生，無法選此課程 </note>
-</AH>
-
-<AH id="029">
-<num>AH-029</num>
-<class></class>
-<group></group>
-<name> 基礎國文─進階（下）(一) </name>
-<teacher> 林淑慧  </teacher>
-<score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 必修 </must>
-<type> 基礎國文 </type>
-<place> 唯農大樓                      7113 </place>
-<note> Level 7-A課程，非經華語中心(ext.52040)認定分級之境外生，無法選此課程 </note>
-</AH>
-
-<AH id="030">
-<num>AH-030</num>
-<class></class>
-<group></group>
-<name> 基礎國文—進階(中) </name>
-<teacher> 呂璯敏  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 必修 </must>
-<type> 基礎國文 </type>
-<place> 唯農大樓                      7211 </place>
-<note> Level 6 課程，非經華語中心(ext.52040)認定分級之境外生，無法選此課程 </note>
+<note> Level 6課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 </content>

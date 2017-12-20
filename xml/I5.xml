@@ -4,98 +4,68 @@
 <num>I5-001</num>
 <class></class>
 <group></group>
-<name> 習醫之道－醫師專業養成與體驗（一） </name>
+<name> 習醫之道－醫師專業養成與體驗（二） </name>
 <teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<time day1="1" s1="10" e1="11"> [1]A~B  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 限醫學系學生修讀 </note>
+<place> 醫學院                        第四講堂 </place>
+<note> 限醫學系 </note>
 </I5>
 
-<I5 id="002">
-<num>I5-002</num>
+<I5 id="004">
+<num>I5-004</num>
 <class></class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 涂國誠  </teacher>
+<name> 服務學習（二） </name>
+<teacher> 謝式洲* </teacher>
 <score> 0 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 軍訓館                        6021 </place>
-<note></note>
-</I5>
-
-<I5 id="003">
-<num>I5-003</num>
-<class></class>
-<group></group>
-<name> 服務學習（一） </name>
-<teacher> 謝式洲  </teacher>
-<score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限醫學系學生選修 </note>
 </I5>
 
-<I5 id="008">
-<num>I5-008</num>
+<I5 id="006">
+<num>I5-006</num>
 <class></class>
 <group></group>
-<name> 醫用物理學 </name>
-<teacher> 黃執中   ,  陳海雯   ,  姚維仁   ,  陳儒逸   ,  陳毓宏* </teacher>
+<name> 生物學（二） </name>
+<teacher> 吳文鑾   ,  胥直利*  ,  蔣輯武*  ,  江美治*  ,  王仰高  </teacher>
 <score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
+<place> 醫學院                        第二講堂 </place>
 <note></note>
-</I5>
-
-<I5 id="009">
-<num>I5-009</num>
-<class></class>
-<group></group>
-<name> 生命倫理學 </name>
-<teacher> 吳晉祥   ,  賴明亮   ,  林鵬展   ,  王秀雲*  ,  何宗憲   ,  邱威鑫   ,  簡偉明  </teacher>
-<score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 醫學院                        第一講堂 </place>
-<note> 醫學系必修通識 </note>
 </I5>
 
 <I5 id="010">
 <num>I5-010</num>
 <class></class>
 <group></group>
-<name> 普通社會學 </name>
-<teacher> 黃于玲* </teacher>
+<name> 有機化學 </name>
+<teacher> 陳毓宏* </teacher>
 <score> 2 </score>
-<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note> 限醫學系選修 </note>
+<place> 醫學院                        第二講堂 </place>
+<note></note>
 </I5>
 
 <I5 id="011">
 <num>I5-011</num>
 <class></class>
 <group></group>
-<name> 生物學（一） </name>
-<teacher> 胥直利*  ,  簡伯武   ,  蔡美玲   ,  李碧雪   ,  顏賢章   ,  蔣輯武*  ,  江美治* </teacher>
+<name> 公民素養與社會 </name>
+<teacher> 柯乃熒   ,  王秀雲   ,  黃于玲* </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
-<type> 講義 </type>
+<type> 公民與歷史 </type>
 <place> 醫學院                        第一講堂 </place>
 <note></note>
 </I5>
@@ -104,32 +74,28 @@
 <num>I5-012</num>
 <class></class>
 <group></group>
-<name> 醫學科技與社會 </name>
-<teacher> 王秀雲* </teacher>
-<score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<name> 醫師科學家 </name>
+<teacher> 許博翔   ,  張俊彥   ,  沈孟儒   ,  陳立宗   ,  沈延盛*  ,  謝奇璋   ,  江伯敏   ,  劉秉彥  </teacher>
+<score> 1 </score>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        第一講堂 </place>
+<note> Ｂ模組課程，每週上２小時，前半學期上課（3/1~5/3） </note>
 </I5>
 
 <I5 id="013">
 <num>I5-013</num>
 <class></class>
 <group></group>
-<name> 醫學科學研究（一） </name>
+<name> 醫學科學研究（二） </name>
 <teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="1" s1="4" e1="4"> [1]4  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        第三講堂 </place>
+<note> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note>
 </I5>
 
 <I5 id="014">
@@ -143,568 +109,704 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        208 </place>
-<note> B模組選修課程；護理系、醫技系以人工加簽方式辦理；上課教室：208、203D、醫圖210 </note>
+<note> B模組課程；於203D、208及醫圖210教室分組上課 </note>
 </I5>
 
 <I5 id="015">
 <num>I5-015</num>
 <class></class>
 <group></group>
-<name> 醫療與文化 </name>
-<teacher> 石明人* </teacher>
+<name> 公共衛生危機準備與災難應變 </name>
+<teacher> 楊永年   ,  姚昭智   ,  趙子元   ,  馮瑞鶯   ,  紀志賢   ,  姚維仁   ,  翁裕峯   ,  張俊彥   ,  林志豪   ,  王秀雲   ,  許以霖   ,  施欣怡*  ,  李忠勳   ,  莊佳璋  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
-<note> B模組選修課程 </note>
-</I5>
-
-<I5 id="051">
-<num>I5-051</num>
-<class></class>
-<group></group>
-<name> 習醫之道－醫師專業養成與體驗（三） </name>
-<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
-<score> 1 </score>
-<time day1="3" s1="10" e1="11"> [3]A~B  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修 </note>
-</I5>
-
-<I5 id="052">
-<num>I5-052</num>
-<class></class>
-<group></group>
-<name> 普通心理學 </name>
-<teacher> 游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note></note>
-</I5>
-
-<I5 id="053">
-<num>I5-053</num>
-<class></class>
-<group></group>
-<name> 生物統計學 </name>
-<teacher> 李中一* </teacher>
-<score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note></note>
-</I5>
-
-<I5 id="057">
-<num>I5-057</num>
-<class></class>
-<group></group>
-<name> 服務學習（三） </name>
-<teacher> 謝式洲* </teacher>
-<score> 0 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
-<must> 必修 </must>
-<type> 實習 </type>
+<must> 選修 </must>
+<type> 講義 </type>
 <place></place>
 <note> 
  </note>
 </I5>
 
-<I5 id="058">
-<num>I5-058</num>
+<I5 id="016">
+<num>I5-016</num>
 <class></class>
 <group></group>
-<name> 生物化學（一） </name>
-<teacher> 邱顯泰   ,  吳昭良*  ,  何月仁   ,  鄭宏祺   ,  陳昌熙   ,  余建泓  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="3" e2="4"> [1]2~3  ,  [3]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note></note>
-</I5>
-
-<I5 id="059">
-<num>I5-059</num>
-<class></class>
-<group></group>
-<name> 公共衛生學（一） </name>
-<teacher> 林秀娟   ,  張志欽   ,  呂宗學   ,  胡淑貞   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯*  ,  劉立凡  </teacher>
-<score> 2 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生修讀 </note>
-</I5>
-
-<I5 id="060">
-<num>I5-060</num>
-<class></class>
-<group></group>
-<name> 免疫學 </name>
-<teacher> 張志鵬*  ,  謝奇璋  </teacher>
-<score> 2 </score>
-<time day1="3" s1="1" e1="2"> [3]1~2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note> 限醫學院 </note>
-</I5>
-
-<I5 id="061">
-<num>I5-061</num>
-<class></class>
-<group></group>
-<name> 性與生物史 </name>
-<teacher> 王秀雲* </teacher>
+<name> 醫療專業與生死 </name>
+<teacher> 楊延光   ,  吳晉祥*  ,  盧豐華   ,  郭保麟   ,  林其和   ,  吳俊明   ,  張俊彥   ,  林鵬展   ,  何宗憲   ,  簡偉明  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note> A模組選修課程 </note>
+<place> 醫學院                        第三講堂 </place>
+<note> Ａ模組課程 </note>
 </I5>
 
-<I5 id="062">
-<num>I5-062</num>
+<I5 id="017">
+<num>I5-017</num>
 <class></class>
 <group></group>
-<name> 醫學科學研究（三） </name>
-<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
-<I5 id="063">
-<num>I5-063</num>
-<class></class>
-<group></group>
-<name> 人際溝通與醫病關係 </name>
-<teacher> 翁慧卿* </teacher>
+<name> 全球衛生簡介 </name>
+<teacher> 張家銘   ,  林志豪   ,  許以霖   ,  施欣怡   ,  黃于玲   ,  張雋曦   ,  蔡美玲   ,  林明彥   ,  吳致杰   ,  莊佳蓉  </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        501 </place>
-<note> B模組選修課程 </note>
-</I5>
-
-<I5 id="064">
-<num>I5-064</num>
-<class></class>
-<group></group>
-<name> 夢之賞讀 </name>
-<teacher> 賴明亮  </teacher>
-<score> 1 </score>
-<time day1="2" s1="1" e1="2"> [2]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note> A模組選修課程 </note>
-</I5>
-
-<I5 id="101">
-<num>I5-101</num>
-<class></class>
-<group></group>
-<name> 習醫之道－醫師專業養成與體驗（五） </name>
-<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
-<score> 1 </score>
-<time day1="5" s1="10" e1="11"> [5]A~B  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生選修 </note>
-</I5>
-
-<I5 id="102">
-<num>I5-102</num>
-<class></class>
-<group></group>
-<name> 組織學（含實驗） </name>
-<teacher> 張孔昭   ,  宋俊明   ,  林永明   ,  楊朝鈞   ,  江美治   ,  莫凡毅*  ,  司君一   ,  許鍾瑜   ,  王仰高  </teacher>
-<score> 4 </score>
-<time day1="2" s1="5" e1="5" day2="5" s2="5" e2="5"> [2]5  ,  [5]5  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note> 第一講堂及四樓實驗室上課，限三年級(含)以上學生選修。 </note>
-<class1></class1>
-<group1></group1>
-<name1> 組織學（含實驗） </name1>
-<time1 day1="2" s1="6" e1="8" day2="5" s2="6" e2="8"> [2]6~8  ,  [5]6~8  </time1>
-<place1> 醫學院                        第一講堂 </place1>
-<note1> 第一講堂及四樓實驗室上課，限醫學院學生選修 。 </note1>
-</I5>
-
-<I5 id="103">
-<num>I5-103</num>
-<class></class>
-<group></group>
-<name> 大體解剖學（含實驗） </name>
-<teacher> 賴吾為   ,  蔡宏名   ,  官大紳   ,  謝式洲   ,  鄭雅敏   ,  張志偉   ,  李榮順   ,  劉秉彥   ,  郭余民*  ,  黃步敏   ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高   ,  陳應輝  </teacher>
-<score> 8 </score>
-<time day1="1" s1="5" e1="8"> [1]5~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 第三講堂及五樓實驗室上課，限三年級(含)以上學生選修。 </note>
-<class1></class1>
-<group1></group1>
-<name1> 大體解剖學（含實驗） </name1>
-<time1 day1="2" s1="1" e1="4" day2="4" s2="1" e2="4" day3="5" s3="1" e3="4"> [2]1~4  ,  [4]1~4  ,  [5]1~4  </time1>
-<place1> 醫學院                        第三講堂 </place1>
-<note1> 第三講堂及五樓實驗室上課，限醫學系學生選修 。 </note1>
-</I5>
-
-<I5 id="104">
-<num>I5-104</num>
-<class></class>
-<group></group>
-<name> 胚胎學 </name>
-<teacher> 林秀娟   ,  郭余民*  ,  黃步敏   ,  莫凡毅   ,  司君一   ,  許鍾瑜  </teacher>
-<score> 1 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第一講堂 </place>
-<note> 限三年級(含)以上學生選修 </note>
-</I5>
-
-<I5 id="105">
-<num>I5-105</num>
-<class></class>
-<group></group>
-<name> 認識醫療相關組織之運作 </name>
-<teacher> 柯乃熒   ,  白明奇   ,  蔡良敏   ,  林立人   ,  呂宗學* </teacher>
-<score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        601 </place>
-<note> B模組選修課程 </note>
-</I5>
-
-<I5 id="106">
-<num>I5-106</num>
-<class></class>
-<group></group>
-<name> 醫學科學研究（五） </name>
-<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
-<I5 id="151">
-<num>I5-151</num>
-<class></class>
-<group></group>
-<name> 病理學（含實驗）（一） </name>
-<teacher> 顏經洲   ,  呂政展   ,  柯文謙   ,  何中良   ,  周楠華*  ,  許釗凱   ,  楊曉白   ,  蔡弘文   ,  李忠達   ,  陳柏齡  </teacher>
-<score> 4 </score>
-<time day1="1" s1="2" e1="4" day2="1" s2="5" e2="6" day3="2" s3="1" e3="4" day4="3" s4="1" e4="4" day5="3" s5="7" e5="8" day6="5" s6="1" e6="8"> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note>
-<class1></class1>
-<group1></group1>
-<name1> 病理學（含實驗）（一） </name1>
-<time1 day1="1" s1="5" e1="6" day2="3" s2="1" e2="4"> [1]5~6  ,  [3]1~4  </time1>
-<place1> 醫學院                        第二講堂 </place1>
-<note1> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note1>
-</I5>
-
-<I5 id="152">
-<num>I5-152</num>
-<class></class>
-<group></group>
-<name> 藥理學（一） </name>
-<teacher> 陳炳焜*  ,  薛尊仁   ,  李南瑤   ,  顏家瑞   ,  呂增宏   ,  簡偉明   ,  沈孟儒   ,  陳韻雯   ,  高雅慧   ,  周辰熹  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="4" day2="1" s2="5" e2="6" day3="2" s3="1" e3="4" day4="3" s4="1" e4="4" day5="3" s5="7" e5="8" day6="5" s6="1" e6="8"> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note>
-</I5>
-
-<I5 id="153">
-<num>I5-153</num>
-<class></class>
-<group> A </group>
-<name> 病態生理學討論（一） </name>
-<teacher> 紀志賢*  ,  顏賢章   ,  江伯敏   ,  劉秉彥  </teacher>
-<score> 2 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note>
-<class1></class1>
-<group1> B </group1>
-<name1> 病態生理學討論（一） </name1>
-<time1 day1="1" s1="7" e1="8"> [1]7~8  </time1>
-<place1> 醫學院                        第二講堂 </place1>
-<note1> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note1>
-<class2></class2>
-<group2> C </group2>
-<name2> 病態生理學討論（一） </name2>
-<time2 day1="1" s1="7" e1="8"> [1]7~8  </time2>
-<place2> 醫學院                        第二講堂 </place2>
-<note2> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note2>
-<class3></class3>
-<group3> D </group3>
-<name3> 病態生理學討論（一） </name3>
-<time3 day1="1" s1="7" e1="8"> [1]7~8  </time3>
-<place3> 醫學院                        第二講堂 </place3>
-<note3> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note3>
-<class4></class4>
-<group4> E </group4>
-<name4> 病態生理學討論（一） </name4>
-<time4 day1="1" s1="7" e1="8"> [1]7~8  </time4>
-<place4> 醫學院                        第二講堂 </place4>
-<note4> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note4>
-<class5></class5>
-<group5> F </group5>
-<name5> 病態生理學討論（一） </name5>
-<time5 day1="1" s1="7" e1="8"> [1]7~8  </time5>
-<place5> 醫學院                        第二講堂 </place5>
-<note5> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note5>
-<class6></class6>
-<group6> G </group6>
-<name6> 病態生理學討論（一） </name6>
-<time6 day1="1" s1="7" e1="8"> [1]7~8  </time6>
-<place6> 醫學院                        第二講堂 </place6>
-<note6> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note6>
-<class7></class7>
-<group7> H </group7>
-<name7> 病態生理學討論（一） </name7>
-<time7 day1="1" s1="7" e1="8"> [1]7~8  </time7>
-<place7> 醫學院                        第二講堂 </place7>
-<note7> 上課地點為5~8 樓、醫圖210及211及219、4A及8C等9間研討室及第二講堂 </note7>
-</I5>
-
-<I5 id="154">
-<num>I5-154</num>
-<class></class>
-<group></group>
-<name> 實驗診斷學及實驗（一） </name>
-<teacher> 顏經洲   ,  何中良*  ,  周楠華   ,  陳炯睿   ,  蔡弘文   ,  李忠達   ,  林建中   ,  王世敏  </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="4" day2="1" s2="5" e2="6" day3="2" s3="1" e3="4" day4="3" s4="1" e4="4" day5="3" s5="7" e5="8" day6="5" s6="1" e6="8"> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note>
-<class1></class1>
-<group1></group1>
-<name1> 實驗診斷學及實驗（一） </name1>
-<time1 day1="5" s1="2" e1="4"> [5]2~4  </time1>
-<place1> 醫學院                        第二講堂 </place1>
-<note1> 醫學院四樓實驗室 </note1>
-</I5>
-
-<I5 id="155">
-<num>I5-155</num>
-<class></class>
-<group></group>
-<name> 臨床診斷學（一） </name>
-<teacher> 陳昌文   ,  李貽恒   ,  盧豐華   ,  蔡良敏   ,  薛尊仁   ,  林瑞模   ,  張智仁   ,  趙文元   ,  劉明煇   ,  張漢煜   ,  王崇任   ,  邱元佑   ,  陳儒逸   ,  陳炯睿   ,  曾進忠   ,  莊喬雄   ,  劉嚴文   ,  黃涵薇   ,  李南瑤   ,  林建中   ,  王建國   ,  張育誌   ,  王明誠* </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="4" day2="1" s2="5" e2="6" day3="2" s3="1" e3="4" day4="3" s4="1" e4="4" day5="3" s5="7" e5="8" day6="5" s6="1" e6="8"> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note>
-</I5>
-
-<I5 id="156">
-<num>I5-156</num>
-<class></class>
-<group></group>
-<name> 內科學（一） </name>
-<teacher> 宋俊明   ,  林志勝   ,  蔡惟全   ,  薛尊仁   ,  蘇五洲*  ,  張漢煜   ,  李政翰   ,  陳炯睿   ,  許志新   ,  趙庭興   ,  張育誌   ,  林偉傑   ,  王明誠   ,  劉秉彥  </teacher>
-<score> 1 </score>
-<time day1="1" s1="2" e1="4" day2="1" s2="5" e2="6" day3="2" s3="1" e3="4" day4="3" s4="1" e4="4" day5="3" s5="7" e5="8" day6="5" s6="1" e6="8"> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note>
-</I5>
-
-<I5 id="157">
-<num>I5-157</num>
-<class></class>
-<group></group>
-<name> 外科學（一） </name>
-<teacher> 賴吾為   ,  李經維*  ,  陳琮琳   ,  林啟禎   ,  陳肇真   ,  謝式洲   ,  曾堯麟   ,  歐建慧   ,  李榮順   ,  徐慧萍   ,  賴昭翰   ,  林寶彥   ,  李伯璋   ,  張勝勛  </teacher>
-<score> 1 </score>
-<time day1="1" s1="2" e1="4" day2="1" s2="5" e2="6" day3="2" s3="1" e3="4" day4="3" s4="1" e4="4" day5="3" s5="7" e5="8" day6="5" s6="1" e6="8"> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第二講堂 </place>
-<note> 分週區段教學(block) ，每週各課程上課時間不一樣，分佈在不同時段。 </note>
-</I5>
-
-<I5 id="158">
-<num>I5-158</num>
-<class></class>
-<group></group>
-<name> 習醫之道－醫師專業養成與體驗（七） </name>
-<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
-<score> 1 </score>
-<time day1="4" s1="10" e1="11"> [4]A~B  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 限醫學系學生修讀 </note>
-</I5>
-
-<I5 id="159">
-<num>I5-159</num>
-<class></class>
-<group></group>
-<name> 應用醫學電子概論 </name>
-<teacher> 鄭國順* </teacher>
-<score> 1 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        203D </place>
-<note> 後9週上課：106年11月22日至107年1月17日 </note>
-</I5>
-
-<I5 id="160">
-<num>I5-160</num>
-<class></class>
-<group></group>
-<name> 醫學工程概論 </name>
-<teacher> 張志涵   ,  葉明龍   ,  楊岱樺   ,  林啟禎   ,  蘇維仁*  ,  戴大為   ,  吳柏廷   ,  李澤民  </teacher>
-<score> 1 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        205D </place>
-<note> 後9週上課：106年11月23日至107年1月18日 </note>
-</I5>
-
-<I5 id="161">
-<num>I5-161</num>
-<class></class>
-<group></group>
-<name> 醫學論文研究 </name>
-<teacher> 黃美智   ,  柯乃熒   ,  許玉雲   ,  方素瓔   ,  高綺吟   ,  白明奇   ,  吳孟興   ,  吳至行*  ,  許釗凱   ,  張志偉   ,  黃士銘   ,  陳柏齡   ,  蔡孟哲   ,  黃奕勛   ,  張秦松   ,  鄭宏祺   ,  陳昌熙   ,  陳韻雯   ,  蕭雅心   ,  楊尚訓   ,  張雅雯   ,  彭貴春   ,  蔡坤哲   ,  劉秉彥   ,  莊佳蓉   ,  莫凡毅   ,  吳佳慶   ,  邱靜如  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
-<I5 id="162">
-<num>I5-162</num>
-<class></class>
-<group></group>
-<name> 職業與環境醫學 </name>
-<teacher> 郭耀昌* </teacher>
-<score> 1 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        208 </place>
-<note> 限醫學系學生修讀；隔週上課 </note>
-</I5>
-
-<I5 id="164">
-<num>I5-164</num>
-<class></class>
-<group></group>
-<name> 臨床生化學 </name>
-<teacher> 何月仁* </teacher>
-<score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 醫學院                        304D </place>
-<note> 限醫學系 </note>
+<note> Ａ模組課程；為融入服務學習內涵之專業課程 </note>
 </I5>
 
-<I5 id="165">
-<num>I5-165</num>
+<I5 id="018">
+<num>I5-018</num>
 <class></class>
 <group></group>
-<name> 醫學科學研究（七） </name>
-<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
-<I5 id="166">
-<num>I5-166</num>
-<class></class>
-<group></group>
-<name> 醫用台語（中階） </name>
-<teacher> 蔡美慧* </teacher>
+<name> 英語演說 </name>
+<teacher> 石明人* </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note> 具初階台語說聽能力；第三階段無網路選課（採人工加簽方式） </note>
-</I5>
-
-<I5 id="167">
-<num>I5-167</num>
-<class></class>
-<group></group>
-<name> 全民健康保險之理論與實務 </name>
-<teacher> 陳俞沛   ,  徐之昇*  ,  翁慧卿  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        303D </place>
 <note></note>
 </I5>
 
+<I5 id="051">
+<num>I5-051</num>
+<class></class>
+<group></group>
+<name> 習醫之道－醫師專業養成與體驗（四） </name>
+<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
+<score> 1 </score>
+<time day1="3" s1="10" e1="11"> [3]A~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 限醫學系學生修讀 </note>
+</I5>
+
+<I5 id="055">
+<num>I5-055</num>
+<class></class>
+<group></group>
+<name> 公共衛生學（二） </name>
+<teacher> 林宙晴   ,  王伯智   ,  郭耀昌   ,  郭浩然   ,  蘇慧貞   ,  李俊璋   ,  蔡朋枝   ,  林明彥   ,  吳致杰* </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="8"> [5]5~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 學期中有安排校外學習活動 </note>
+</I5>
+
+<I5 id="056">
+<num>I5-056</num>
+<class></class>
+<group></group>
+<name> 生物化學（含實驗）（二） </name>
+<teacher> 李貽恒   ,  郭保麟   ,  王德華   ,  歐弘毅   ,  吳昭良*  ,  張文粲   ,  張明熙   ,  何月仁   ,  賴明德   ,  謝嘉興   ,  黃柏憲   ,  余建泓  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="5" s2="3" e2="4"> [2]3~4  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 生物化學（含實驗）（二） </name1>
+<time1 day1="4" s1="5" e1="8"> [4]5~8  </time1>
+<place1> 醫學院                        第二講堂 </place1>
+<note1> 醫學院第二講堂及三樓實驗室上課，多位老師合授 </note1>
+</I5>
+
+<I5 id="059">
+<num>I5-058</num>
+<class></class>
+<group></group>
+<name> 全球化與人文關懷 </name>
+<teacher> 翁裕峯   ,  蔡美玲* </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        304D </place>
+<note> Ａ模組課程；全程英語授課；為融入服務學習內涵之專業課程 </note>
+<class1></class1>
+<group1></group1>
+<name1> 醫學科學研究（四） </name1>
+<time1 day1="1" s1="4" e1="4"> [1]4  </time1>
+<place1> 醫學院                        第三講堂 </place1>
+<note1> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note1>
+</I5>
+
+<I5 id="060">
+<num>I5-060</num>
+<class></class>
+<group></group>
+<name> 醫學、科技與社會導論 </name>
+<teacher> 黃于玲* </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note> Ｂ模組課程 </note>
+</I5>
+
+<I5 id="061">
+<num>I5-061</num>
+<class></class>
+<group></group>
+<name> 科技溝通：觀念與參與 </name>
+<teacher> 楊倍昌* </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note></note>
+</I5>
+
+<I5 id="062">
+<num>I5-062</num>
+<class></class>
+<group></group>
+<name> 分子基因體學 </name>
+<teacher> 曾大千   ,  王憶卿   ,  張惠華   ,  廖寶琦   ,  陳芃潔   ,  孫孝芳*  ,  鄧景浩   ,  橋本昌征  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note></note>
+</I5>
+
+<I5 id="063">
+<num>I5-063</num>
+<class></class>
+<group></group>
+<name> 淺談細胞之電活動 </name>
+<teacher> 吳勝男* </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 與通識合班上課，醫學系學生不能抵通識 </note>
+</I5>
+
+<I5 id="101">
+<num>I5-101</num>
+<class></class>
+<group></group>
+<name> 習醫之道－醫師專業養成與體驗（六） </name>
+<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
+<score> 1 </score>
+<time day1="5" s1="10" e1="11"> [5]A~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 限醫學系學生修讀 </note>
+</I5>
+
+<I5 id="102">
+<num>I5-102</num>
+<class></class>
+<group></group>
+<name> 微生物學及免疫學（含實驗） </name>
+<teacher> 蕭璦莉* </teacher>
+<score> 6 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="1" e2="2" day3="5" s3="1" e3="2"> [1]5~6  ,  [3]1~2  ,  [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 限醫學系三年級以上學生選修／其他系所選修需經開課老師同意 </note>
+<class1></class1>
+<group1></group1>
+<name1> 微生物學及免疫學（含實驗） </name1>
+<time1 day1="3" s1="3" e1="4"> [3]3~4  </time1>
+<place1> 醫學院                        第一講堂 </place1>
+<note1> 醫學院四樓實驗室及第一講堂上課，多位教師合授 </note1>
+</I5>
+
+<I5 id="103">
+<num>I5-103</num>
+<class></class>
+<group></group>
+<name> 生理學(含實驗) </name>
+<teacher> 洪彰   ,  湯銘哲*  ,  黃阿敏   ,  吳勝男   ,  楊尚訓   ,  顏賢章   ,  游一龍  </teacher>
+<score> 6 </score>
+<time day1="2" s1="1" e1="2" day2="3" s2="5" e2="5" day3="4" s3="3" e3="4"> [2]1~2  ,  [3]5  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 限醫學系三年級以上學生選修／其他系所選修需經協調老師同意 </note>
+<class1></class1>
+<group1></group1>
+<name1> 生理學(含實驗) </name1>
+<time1 day1="3" s1="6" e1="8"> [3]6~8  </time1>
+<place1> 醫學院                        第一講堂 </place1>
+<note1> 醫學院三樓實驗室及第一講堂上課，多位教師合授 </note1>
+</I5>
+
+<I5 id="104">
+<num>I5-104</num>
+<class></class>
+<group></group>
+<name> 寄生蟲學（含實驗） </name>
+<teacher> 辛致煒*  ,  胥直利   ,  林威辰  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 限醫學系三年級以上學生選修／其他系所選修需經協調老師同意 </note>
+<class1></class1>
+<group1></group1>
+<name1> 寄生蟲學（含實驗） </name1>
+<time1 day1="2" s1="7" e1="8"> [2]7~8  </time1>
+<place1> 醫學院                        第一講堂 </place1>
+<note1> 醫學院四樓實驗室及第一講堂上課，多位教師合授 </note1>
+</I5>
+
+<I5 id="105">
+<num>I5-105</num>
+<class></class>
+<group></group>
+<name> 神經解剖學（含實驗） </name>
+<teacher> 楊岱樺   ,  李榮順   ,  郭余民   ,  黃步敏*  ,  吳佳慶   ,  司君一   ,  許鍾瑜   ,  蘇翔  </teacher>
+<score> 2 </score>
+<time day1="1" s1="1" e1="1"> [1]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 神經解剖學（含實驗） </name1>
+<time1 day1="1" s1="2" e1="3"> [1]2~3  </time1>
+<place1> 醫學院                        第四講堂 </place1>
+<note1> 醫學院第四講堂及五樓實驗室上課，多位教師合授 </note1>
+</I5>
+
+<I5 id="106">
+<num>I5-106</num>
+<class></class>
+<group></group>
+<name> 心血管生理病理學概論 </name>
+<teacher> 吳勝男* </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3267 </place>
+<note> 上課地點：化學系館 3267教室 </note>
+</I5>
+
+<I5 id="107">
+<num>I5-107</num>
+<class></class>
+<group></group>
+<name> 醫學科學研究（六） </name>
+<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
+<score> 1 </score>
+<time day1="1" s1="4" e1="4"> [1]4  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note>
+</I5>
+
+<I5 id="108">
+<num>I5-108</num>
+<class></class>
+<group></group>
+<name> 性與生物史 </name>
+<teacher> 王秀雲* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note> A模組課程 </note>
+</I5>
+
+<I5 id="151">
+<num>I5-151</num>
+<class></class>
+<group></group>
+<name> 習醫之道－醫師專業養成與體驗（八） </name>
+<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
+<score> 1 </score>
+<time day1="4" s1="10" e1="11"> [4]A~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 限醫學系 </note>
+</I5>
+
+<I5 id="152">
+<num>I5-152</num>
+<class></class>
+<group></group>
+<name> 內科學（二） </name>
+<teacher> 陳彩雲   ,  許博翔   ,  陳炯瑜   ,  張定宗   ,  蔡子同   ,  蘇五洲*  ,  劉明煇   ,  鄭斌男   ,  歐弘毅   ,  顏家瑞   ,  吳毅晉   ,  呂佩融   ,  黃步敏  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（ｂｌｏｃｋ），每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="153">
+<num>I5-153</num>
+<class></class>
+<group></group>
+<name> 外科學（二） </name>
+<teacher> 李經維*  ,  李宜堅   ,  李政昌   ,  陳肇真   ,  曾堯麟   ,  洪裕昌   ,  洪崇傑   ,  林毅志   ,  戴世煌   ,  沈延盛  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（ｂｌｏｃｋ），每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="154">
+<num>I5-154</num>
+<class></class>
+<group> A </group>
+<name> 病態生理學討論（二） </name>
+<teacher> 胥直利   ,  紀志賢*  ,  劉嚴文   ,  蔡弘文   ,  許志新   ,  阮俊能   ,  陳毓宏   ,  蔡佩穎   ,  何月仁   ,  顏賢章   ,  江伯敏   ,  陳芃潔   ,  劉秉彥  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note>
+<class1></class1>
+<group1> B </group1>
+<name1> 病態生理學討論（二） </name1>
+<time1 day1="1" s1="7" e1="8"> [1]7~8  </time1>
+<place1> 醫學院                        第二講堂 </place1>
+<note1> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note1>
+<class2></class2>
+<group2> C </group2>
+<name2> 病態生理學討論（二） </name2>
+<time2 day1="1" s1="7" e1="8"> [1]7~8  </time2>
+<place2> 醫學院                        第二講堂 </place2>
+<note2> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note2>
+<class3></class3>
+<group3> D </group3>
+<name3> 病態生理學討論（二） </name3>
+<time3 day1="1" s1="7" e1="8"> [1]7~8  </time3>
+<place3> 醫學院                        第二講堂 </place3>
+<note3> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note3>
+<class4></class4>
+<group4> E </group4>
+<name4> 病態生理學討論（二） </name4>
+<time4 day1="1" s1="7" e1="8"> [1]7~8  </time4>
+<place4> 醫學院                        第二講堂 </place4>
+<note4> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note4>
+<class5></class5>
+<group5> F </group5>
+<name5> 病態生理學討論（二） </name5>
+<time5 day1="1" s1="7" e1="8"> [1]7~8  </time5>
+<place5> 醫學院                        第二講堂 </place5>
+<note5> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note5>
+<class6></class6>
+<group6> G </group6>
+<name6> 病態生理學討論（二） </name6>
+<time6 day1="1" s1="7" e1="8"> [1]7~8  </time6>
+<place6> 醫學院                        第二講堂 </place6>
+<note6> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note6>
+<class7></class7>
+<group7> H </group7>
+<name7> 病態生理學討論（二） </name7>
+<time7 day1="1" s1="7" e1="8"> [1]7~8  </time7>
+<place7> 醫學院                        第二講堂 </place7>
+<note7> 第二講堂、５至８樓教室、醫院４Ａ及８Ｃ、醫圖２１０、２１１、２１９上課 </note7>
+</I5>
+
+<I5 id="155">
+<num>I5-155</num>
+<class></class>
+<group></group>
+<name> 臨床診斷學（二） </name>
+<teacher> 蘇五洲   ,  黃欽威   ,  吳至行   ,  楊燿榮   ,  歐弘毅   ,  林鵬展   ,  黃涵薇   ,  顏家瑞   ,  徐慧萍   ,  陳雅萍   ,  洪彰   ,  王明誠*  ,  蘇文彬  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學(block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="156">
+<num>I5-156</num>
+<class></class>
+<group></group>
+<name> 臨床診斷學實習 </name>
+<teacher> 王明誠* </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="157">
+<num>I5-157</num>
+<class></class>
+<group></group>
+<name> 實驗診斷學及實驗（二） </name>
+<teacher> 張孔昭   ,  呂政展   ,  何中良*  ,  蔡弘文  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學(block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="158">
+<num>I5-158</num>
+<class></class>
+<group></group>
+<name> 藥理學（二） </name>
+<teacher> 陳炳焜*  ,  蘇五洲   ,  蔡玉娟   ,  張智仁   ,  劉彥青   ,  方詩元   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  張雋曦   ,  陳韻雯   ,  姜學誠  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學(block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="159">
+<num>I5-159</num>
+<class></class>
+<group></group>
+<name> 病理學（含實驗）（二） </name>
+<teacher> 彭淑玲   ,  蘇益仁   ,  張孔昭   ,  何中良   ,  周楠華*  ,  楊曉白   ,  蔡弘文   ,  李忠達   ,  陳文宗   ,  張珍   ,  司君一  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+<class1></class1>
+<group1></group1>
+<name1> 病理學（含實驗）（二） </name1>
+<time1 day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="8" e9="9"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]8~9  </time1>
+<place1> 醫學院                        第二講堂 </place1>
+<note1> 醫學院第二講堂及四樓實驗室，多位老師合授，採整合課程方式上課 </note1>
+</I5>
+
+<I5 id="160">
+<num>I5-160</num>
+<class></class>
+<group></group>
+<name> 影像診斷學 </name>
+<teacher> 蔡宏名   ,  邱南津   ,  姚維仁   ,  王建國*  ,  莊明宗   ,  劉益勝   ,  呂佳興  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="161">
+<num>I5-161</num>
+<class></class>
+<group></group>
+<name> 放射治療學 </name>
+<teacher> 陳海雯*  ,  吳沅樺  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="162">
+<num>I5-162</num>
+<class></class>
+<group></group>
+<name> 醫學心理 </name>
+<teacher> 李怡慧*  ,  陳高欽   ,  紀美宏   ,  王姿云   ,  張維紘   ,  曾懷萱  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="163">
+<num>I5-163</num>
+<class></class>
+<group></group>
+<name> 小兒科學 </name>
+<teacher> 陳俐文   ,  陳建旭   ,  林其和   ,  劉清泉   ,  楊燿榮*  ,  林毓志   ,  杜伊芳   ,  王世敏   ,  蔡孟哲  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="164">
+<num>I5-164</num>
+<class></class>
+<group></group>
+<name> 婦產科學 </name>
+<teacher> 張烱心   ,  郭保麟   ,  周振陽   ,  吳孟興*  ,  鄭雅敏   ,  游振祥   ,  許耿福   ,  蔡佩穎   ,  蘇美慈   ,  康琳   ,  黃于芳   ,  沈孟儒  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="165">
+<num>I5-165</num>
+<class></class>
+<group></group>
+<name> 口腔學概論 </name>
+<teacher> 黃振勳*  ,  袁　國   ,  許修銘   ,  劉佳觀   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  黃則達   ,  陳永崇  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 分週區段教學（block )，每週各課程上課時間不一樣，分佈在不同時段。 </note>
+</I5>
+
+<I5 id="166">
+<num>I5-166</num>
+<class></class>
+<group></group>
+<name> 臨床營養 </name>
+<teacher> 郭素娥   ,  楊宜青   ,  吳至行   ,  高愛文   ,  沈延盛* </teacher>
+<score> 1 </score>
+<time day1="3" s1="4" e1="4"> [3]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note></note>
+</I5>
+
+<I5 id="167">
+<num>I5-167</num>
+<class></class>
+<group></group>
+<name> 心電圖判讀 </name>
+<teacher> 李貽恒   ,  蔡惟全   ,  吳俊明   ,  李政翰   ,  陳儒逸   ,  劉嚴文   ,  詹世鴻   ,  許志新   ,  趙庭興*  ,  林志展   ,  陳柏升   ,  劉秉彥  </teacher>
+<score> 1 </score>
+<time day1="2" s1="4" e1="4"> [2]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第二講堂 </place>
+<note></note>
+</I5>
+
+<I5 id="168">
+<num>I5-168</num>
+<class></class>
+<group></group>
+<name> 中醫概論 </name>
+<teacher> 陳俞沛* </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</I5>
+
+<I5 id="169">
+<num>I5-169</num>
+<class></class>
+<group></group>
+<name> 臨床思路 </name>
+<teacher> 何月仁* </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note> 限醫學系選修，其他系所選修需經協調老師同意 </note>
+</I5>
+
+<I5 id="170">
+<num>I5-170</num>
+<class></class>
+<group></group>
+<name> 醫療與文化 </name>
+<teacher> 石明人* </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> B模組課程 </note>
+</I5>
+
+<I5 id="171">
+<num>I5-171</num>
+<class></class>
+<group></group>
+<name> 醫學遺傳學 </name>
+<teacher> 黃美智   ,  郭保麟   ,  林秀娟   ,  顏家瑞   ,  周言穎   ,  蘇美慈   ,  蔡孟哲   ,  吳致杰* </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note> 一次上2小時，前9週上課（2/26~4/23） </note>
+</I5>
+
+<I5 id="172">
+<num>I5-172</num>
+<class></class>
+<group></group>
+<name> 醫學科學研究（八） </name>
+<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
+<score> 1 </score>
+<time day1="1" s1="4" e1="4"> [1]4  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note>
+</I5>
+
+<I5 id="173">
+<num>I5-173</num>
+<class></class>
+<group></group>
+<name> 醫學史 </name>
+<teacher> 李經維   ,  王秀雲* </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note> A模組課程 </note>
+</I5>
+
 <I5 id="201">
 <num>I5-201</num>
 <class></class>
-<group></group>
-<name> 內科學（三）及實習 </name>
-<teacher> 蘇五洲* </teacher>
-<score> 6 </score>
+<group> A </group>
+<name> 精神醫學及實習 </name>
+<teacher> 陳柏熹* </teacher>
+<score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -714,7 +816,7 @@
  </note>
 <class1></class1>
 <group1> A </group1>
-<name1> 內科學（三）及實習 </name1>
+<name1> 精神醫學及實習 </name1>
 <time1 day1="0" s1="0" e1="0"> 
   </time1>
 <place1></place1>
@@ -725,55 +827,39 @@
 <I5 id="202">
 <num>I5-202</num>
 <class></class>
-<group></group>
-<name> 家庭醫學及實習 </name>
-<teacher> 吳晉祥* </teacher>
-<score> 3 </score>
+<group> A </group>
+<name> 小兒科實習 </name>
+<teacher> 楊燿榮* </teacher>
+<score> 5 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
-<type> 講義 </type>
+<type> 實習 </type>
 <place></place>
 <note> 
  </note>
-<class1></class1>
-<group1> A </group1>
-<name1> 家庭醫學及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
-<place1></place1>
-<note1> 
- </note1>
 </I5>
 
 <I5 id="203">
 <num>I5-203</num>
 <class></class>
-<group></group>
-<name> 外科學（三）及實習 </name>
-<teacher> 李經維* </teacher>
+<group> A </group>
+<name> 婦產科實習 </name>
+<teacher> 吳孟興* </teacher>
 <score> 5 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
-<type> 講義 </type>
+<type> 實習 </type>
 <place></place>
 <note> 
  </note>
-<class1></class1>
-<group1> A </group1>
-<name1> 外科學（三）及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
-<place1></place1>
-<note1> 
- </note1>
 </I5>
 
 <I5 id="204">
 <num>I5-204</num>
 <class></class>
-<group> B </group>
+<group> A </group>
 <name> 職業環境醫學科實習 </name>
 <teacher> 郭耀昌* </teacher>
 <score> 1 </score>
@@ -789,10 +875,10 @@
 <I5 id="205">
 <num>I5-205</num>
 <class></class>
-<group></group>
-<name> 精神醫學及實習 </name>
-<teacher> 陳柏熹* </teacher>
-<score> 4 </score>
+<group> B </group>
+<name> 內科學（三）及實習 </name>
+<teacher> 蘇五洲* </teacher>
+<score> 6 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -802,7 +888,7 @@
  </note>
 <class1></class1>
 <group1> B </group1>
-<name1> 精神醫學及實習 </name1>
+<name1> 內科學（三）及實習 </name1>
 <time1 day1="0" s1="0" e1="0"> 
   </time1>
 <place1></place1>
@@ -814,68 +900,126 @@
 <num>I5-206</num>
 <class></class>
 <group> B </group>
-<name> 小兒科實習 </name>
-<teacher> 楊燿榮* </teacher>
-<score> 5 </score>
+<name> 家庭醫學及實習 </name>
+<teacher> 吳晉祥* </teacher>
+<score> 3 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
-<type> 實習 </type>
+<type> 講義 </type>
 <place></place>
 <note> 
  </note>
+<class1></class1>
+<group1> B </group1>
+<name1> 家庭醫學及實習 </name1>
+<time1 day1="0" s1="0" e1="0"> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
 </I5>
 
 <I5 id="207">
 <num>I5-207</num>
 <class></class>
 <group> B </group>
-<name> 婦產科實習 </name>
-<teacher> 吳孟興* </teacher>
+<name> 外科學（三）及實習 </name>
+<teacher> 李經維* </teacher>
 <score> 5 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
-<type> 實習 </type>
+<type> 講義 </type>
 <place></place>
 <note> 
  </note>
+<class1></class1>
+<group1> B </group1>
+<name1> 外科學（三）及實習 </name1>
+<time1 day1="0" s1="0" e1="0"> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
 </I5>
 
 <I5 id="208">
 <num>I5-208</num>
 <class></class>
 <group></group>
-<name> 醫學倫理學 </name>
-<teacher> 郭保麟* </teacher>
+<name> 臨床病理討論 </name>
+<teacher> 彭淑玲   ,  張珍琦   ,  張孔昭   ,  何中良*  ,  周楠華   ,  司君一   ,  蔡弘文   ,  李忠達   ,  陳文宗  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第三講堂 </place>
-<note> 106年9月7日(星期四)開始上課 </note>
+<note> 臨床醫療課程，限醫學系五年級或更高年級修讀；106年1月11日～107年5月17日每週四上課 </note>
 </I5>
 
 <I5 id="209">
 <num>I5-209</num>
 <class></class>
 <group></group>
-<name> 醫療與法律 </name>
-<teacher> 侯英泠*  ,  紀志賢* </teacher>
+<name> 骨外科特論 </name>
+<teacher> 楊岱樺   ,  林啟禎   ,  楊俊佑   ,  賴國安   ,  謝式洲   ,  蘇維仁*  ,  張志偉   ,  黃國淵   ,  戴大為   ,  林政立   ,  吳柏廷   ,  蔡一如  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        302D </place>
+<note> 一次上2小時，於107年3月22日～107年5月17日每週四上課（後9週） </note>
+</I5>
+
+<I5 id="210">
+<num>I5-210</num>
+<class></class>
+<group></group>
+<name> 外科腫瘤學 </name>
+<teacher> 賴吾為   ,  李經維*  ,  李宜堅   ,  李政昌   ,  周楠華   ,  陳肇真   ,  曾堯麟   ,  顏亦廷   ,  林毅志   ,  黃士銘   ,  徐慧萍   ,  郭耀隆   ,  凌　斌   ,  沈延盛  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="7"> [4]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 臨床醫療課程，限醫學系五年級或更高年級修讀；106年1月11日～107年5月17日每週四上課 </note>
+</I5>
+
+<I5 id="211">
+<num>I5-211</num>
+<class></class>
+<group></group>
+<name> 國際臨床案例研討 </name>
+<teacher> 張雋曦* </teacher>
+<score> 1 </score>
+<time day1="4" s1="8" e1="8"> [4]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note> 限醫學系海外交換學生面試通過者選修；106年1月11日～107年5月17日每週四上課 </note>
+</I5>
+
+<I5 id="212">
+<num>I5-212</num>
+<class></class>
+<group></group>
+<name> 臨床推理特論 </name>
+<teacher> 陳柏齡   ,  李健明   ,  何月仁* </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 106年9月7日(星期四)開始上課 </note>
+<place> 醫學院                        304D </place>
+<note> 臨床醫療課程，限醫學系六年級或更高年級修讀；106年1月11日～107年5月17日每週四上課 </note>
 </I5>
 
 <I5 id="251">
 <num>I5-251</num>
 <class></class>
 <group> A </group>
-<name> 內科學（四） </name>
-<teacher> 蘇五洲* </teacher>
+<name> 麻醉學 </name>
+<teacher> 曾稼志* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -890,9 +1034,9 @@
 <num>I5-252</num>
 <class></class>
 <group> A </group>
-<name> 內科實習（二） </name>
-<teacher> 蘇五洲* </teacher>
-<score> 5 </score>
+<name> 麻醉科實習一 </name>
+<teacher> 曾稼志* </teacher>
+<score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -906,8 +1050,8 @@
 <num>I5-253</num>
 <class></class>
 <group> A </group>
-<name> 復健醫學 </name>
-<teacher> 官大紳  </teacher>
+<name> 泌尿科學 </name>
+<teacher> 林永明* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -922,8 +1066,8 @@
 <num>I5-254</num>
 <class></class>
 <group> A </group>
-<name> 復健科實習一 </name>
-<teacher> 官大紳* </teacher>
+<name> 泌尿科實習一 </name>
+<teacher> 林永明* </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -938,9 +1082,9 @@
 <num>I5-255</num>
 <class></class>
 <group> A </group>
-<name> 神經科學 </name>
-<teacher> 林宙晴  </teacher>
-<score> 2 </score>
+<name> 外科學（三） </name>
+<teacher> 李經維* </teacher>
+<score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -954,9 +1098,9 @@
 <num>I5-256</num>
 <class></class>
 <group> A </group>
-<name> 神經科實習一 </name>
-<teacher> 林宙晴* </teacher>
-<score> 3 </score>
+<name> 外科實習（二） </name>
+<teacher> 李經維* </teacher>
+<score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -970,8 +1114,8 @@
 <num>I5-257</num>
 <class></class>
 <group> A </group>
-<name> 骨科學 </name>
-<teacher> 蘇維仁* </teacher>
+<name> 皮膚科學 </name>
+<teacher> 趙曉秋* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -986,9 +1130,9 @@
 <num>I5-258</num>
 <class></class>
 <group> A </group>
-<name> 骨科實習一 </name>
-<teacher> 蘇維仁* </teacher>
-<score> 1 </score>
+<name> 皮膚科實習一 </name>
+<teacher> 趙曉秋* </teacher>
+<score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -1002,8 +1146,8 @@
 <num>I5-259</num>
 <class></class>
 <group> A </group>
-<name> 急診醫學 </name>
-<teacher> 莊佳璋* </teacher>
+<name> 眼科學 </name>
+<teacher> 蕭振仁* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1018,9 +1162,9 @@
 <num>I5-260</num>
 <class></class>
 <group> A </group>
-<name> 急診醫學科實習一 </name>
-<teacher> 莊佳璋* </teacher>
-<score> 1 </score>
+<name> 眼科實習一 </name>
+<teacher> 蕭振仁* </teacher>
+<score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -1033,9 +1177,9 @@
 <I5 id="261">
 <num>I5-261</num>
 <class></class>
-<group> B </group>
-<name> 皮膚科學 </name>
-<teacher> 趙曉秋* </teacher>
+<group> A </group>
+<name> 耳鼻喉科學 </name>
+<teacher> 蕭振仁* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1049,9 +1193,9 @@
 <I5 id="262">
 <num>I5-262</num>
 <class></class>
-<group> B </group>
-<name> 皮膚科實習一 </name>
-<teacher> 趙曉秋* </teacher>
+<group> A </group>
+<name> 耳鼻喉科實習一 </name>
+<teacher> 蕭振仁* </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1066,8 +1210,8 @@
 <num>I5-263</num>
 <class></class>
 <group> B </group>
-<name> 泌尿科學 </name>
-<teacher> 林永明* </teacher>
+<name> 內科學（四） </name>
+<teacher> 蘇五洲* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1082,9 +1226,9 @@
 <num>I5-264</num>
 <class></class>
 <group> B </group>
-<name> 泌尿科實習一 </name>
-<teacher> 林永明* </teacher>
-<score> 2 </score>
+<name> 內科實習（二） </name>
+<teacher> 蘇五洲* </teacher>
+<score> 5 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -1098,8 +1242,8 @@
 <num>I5-265</num>
 <class></class>
 <group> B </group>
-<name> 耳鼻喉科學 </name>
-<teacher> 蕭振仁* </teacher>
+<name> 急診醫學 </name>
+<teacher> 莊佳璋* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1114,9 +1258,9 @@
 <num>I5-266</num>
 <class></class>
 <group> B </group>
-<name> 耳鼻喉科實習一 </name>
-<teacher> 蕭振仁* </teacher>
-<score> 2 </score>
+<name> 急診醫學科實習一 </name>
+<teacher> 莊佳璋* </teacher>
+<score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -1130,8 +1274,8 @@
 <num>I5-267</num>
 <class></class>
 <group> B </group>
-<name> 眼科學 </name>
-<teacher> 蕭振仁* </teacher>
+<name> 骨科學 </name>
+<teacher> 蘇維仁* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1146,9 +1290,9 @@
 <num>I5-268</num>
 <class></class>
 <group> B </group>
-<name> 眼科實習一 </name>
-<teacher> 蕭振仁* </teacher>
-<score> 2 </score>
+<name> 骨科實習一 </name>
+<teacher> 蘇維仁* </teacher>
+<score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -1162,9 +1306,9 @@
 <num>I5-269</num>
 <class></class>
 <group> B </group>
-<name> 外科學（三） </name>
-<teacher> 李經維* </teacher>
-<score> 1 </score>
+<name> 神經科學 </name>
+<teacher> 林宙晴* </teacher>
+<score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -1178,9 +1322,9 @@
 <num>I5-270</num>
 <class></class>
 <group> B </group>
-<name> 外科實習（二） </name>
-<teacher> 李經維* </teacher>
-<score> 4 </score>
+<name> 神經科實習一 </name>
+<teacher> 林宙晴* </teacher>
+<score> 3 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
@@ -1194,8 +1338,8 @@
 <num>I5-271</num>
 <class></class>
 <group> B </group>
-<name> 麻醉學 </name>
-<teacher> 曾稼志* </teacher>
+<name> 復健醫學 </name>
+<teacher> 官大紳* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1210,8 +1354,8 @@
 <num>I5-272</num>
 <class></class>
 <group> B </group>
-<name> 麻醉科實習一 </name>
-<teacher> 曾稼志* </teacher>
+<name> 復健科實習一 </name>
+<teacher> 官大紳* </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1220,50 +1364,6 @@
 <place></place>
 <note> 
  </note>
-</I5>
-
-<I5 id="273">
-<num>I5-273</num>
-<class></class>
-<group></group>
-<name> 臨床生化案例特論 </name>
-<teacher> 陳柏齡   ,  何月仁* </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        304D </place>
-<note> 臨床醫療課程，限醫學系高年級學生選修 </note>
-</I5>
-
-<I5 id="274">
-<num>I5-274</num>
-<class></class>
-<group></group>
-<name> 海外見習實作 </name>
-<teacher> 張雋曦* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I5>
-
-<I5 id="275">
-<num>I5-275</num>
-<class></class>
-<group></group>
-<name> 外科學特論 </name>
-<teacher> 李經維* </teacher>
-<score> 1 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        201D </place>
-<note> 前9週上課：106年9月21日至106年11月16日 </note>
 </I5>
 
 <I5 id="301">
@@ -1447,7 +1547,7 @@
 <class></class>
 <group></group>
 <name> 精神科實習 </name>
-<teacher> 陳柏熹* </teacher>
+<teacher> 陳柏熹*  ,  張維紘  </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1510,8 +1610,8 @@
 <num>I5-316</num>
 <class></class>
 <group></group>
-<name> 急診科實習 </name>
-<teacher> 莊佳璋* </teacher>
+<name> 職業環境醫學科實習 </name>
+<teacher> 吳政龍* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1526,8 +1626,8 @@
 <num>I5-317</num>
 <class></class>
 <group></group>
-<name> 院外實習（一） </name>
-<teacher> 姚維仁* </teacher>
+<name> 急診科實習 </name>
+<teacher> 莊佳璋* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -1542,7 +1642,7 @@
 <num>I5-318</num>
 <class></class>
 <group></group>
-<name> 院外實習（二） </name>
+<name> 院外實習（一） </name>
 <teacher> 姚維仁* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
@@ -1558,7 +1658,7 @@
 <num>I5-319</num>
 <class></class>
 <group></group>
-<name> 國外實習（一） </name>
+<name> 院外實習（二） </name>
 <teacher> 姚維仁* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
@@ -1574,7 +1674,7 @@
 <num>I5-320</num>
 <class></class>
 <group></group>
-<name> 國外實習（二） </name>
+<name> 國外實習（一） </name>
 <teacher> 姚維仁* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
@@ -1590,8 +1690,8 @@
 <num>I5-321</num>
 <class></class>
 <group></group>
-<name> 職業環境醫學科實習 </name>
-<teacher> 吳政龍* </teacher>
+<name> 國外實習（二） </name>
+<teacher> 姚維仁* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
