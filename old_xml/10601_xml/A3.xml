@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<A3 id="102">
+<num>A3-102</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防政策 </name>
+<teacher> 陳國彬  </teacher>
+<score> 0 </score>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="103">
+<num>A3-103</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防政策 </name>
+<teacher> 陳國彬  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="104">
+<num>A3-104</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防政策 </name>
+<teacher> 陳國彬  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="201">
+<num>A3-201</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防科技 </name>
+<teacher> 蔡慧珍  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="202">
+<num>A3-202</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防科技 </name>
+<teacher> 蔡慧珍  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="203">
+<num>A3-203</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防科技 </name>
+<teacher> 蔡慧珍  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="204">
+<num>A3-204</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防科技 </name>
+<teacher> 陳鈞宜  </teacher>
+<score> 0 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="205">
+<num>A3-205</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防科技 </name>
+<teacher> 陳鈞宜  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="206">
+<num>A3-206</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國防科技 </name>
+<teacher> 陳鈞宜  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="301">
+<num>A3-301</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－防衛動員 </name>
+<teacher> 盧麗君  </teacher>
+<score> 0 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="302">
+<num>A3-302</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－防衛動員 </name>
+<teacher> 盧麗君  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="303">
+<num>A3-303</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－防衛動員 </name>
+<teacher> 盧麗君  </teacher>
+<score> 0 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="401">
+<num>A3-401</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國際情勢 </name>
+<teacher> 林朝良  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="402">
+<num>A3-402</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國際情勢 </name>
+<teacher> 林朝良  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="404">
+<num>A3-404</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國際情勢 </name>
+<teacher> 鄭智元  </teacher>
+<score> 0 </score>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="405">
+<num>A3-405</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國際情勢 </name>
+<teacher> 鄭智元  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="406">
+<num>A3-406</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－國際情勢 </name>
+<teacher> 鄭智元  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="501">
+<num>A3-501</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－全民國防 </name>
+<teacher> 周士琦  </teacher>
+<score> 0 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="502">
+<num>A3-502</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－全民國防 </name>
+<teacher> 周士琦  </teacher>
+<score> 0 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A3>
+
+<A3 id="503">
+<num>A3-503</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－全民國防 </name>
+<teacher> 林承諭  </teacher>
+<score> 0 </score>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="504">
+<num>A3-504</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－全民國防 </name>
+<teacher> 林承諭  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="505">
+<num>A3-505</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－全民國防 </name>
+<teacher> 林承諭  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+<A3 id="507">
+<num>A3-507</num>
+<class></class>
+<group></group>
+<name> 全民國防教育軍事訓練－全民國防 </name>
+<teacher> 羅丞巖  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 軍訓館                        6021 </place>
+<note></note>
+</A3>
+
+</content>

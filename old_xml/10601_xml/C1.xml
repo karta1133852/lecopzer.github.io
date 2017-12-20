@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<C1 id="005">
+<num>C1-005</num>
+<class></class>
+<group></group>
+<name> 微積分（一） </name>
+<teacher> 郭鴻文  </teacher>
+<score> 4 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="5" e2="6"> [1]2~3  ,  [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4671 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 微積分（一） </name1>
+<time1 day1="1" s1="1" e1="1"> [1]1  </time1>
+<place1> 水利系館                      4671 </place1>
+<note1></note1>
+</C1>
+
+<C1 id="006">
+<num>C1-006</num>
+<class></class>
+<group></group>
+<name> 數學導論 </name>
+<teacher> 林景隆  </teacher>
+<score> 3 </score>
+<time day1="5" s1="1" e1="1" day2="3" s2="7" e2="8"> [5]1  ,  [3]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3267 </place>
+<note></note>
+</C1>
+
+<C1 id="008">
+<num>C1-008</num>
+<class></class>
+<group></group>
+<name> 普通物理學（一） </name>
+<teacher> 田興龍  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3172 </place>
+<note></note>
+</C1>
+
+<C1 id="009">
+<num>C1-009</num>
+<class></class>
+<group></group>
+<name> 解析幾何與矩陣 </name>
+<teacher> 楊世偉  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="2" day2="5" s2="5" e2="6"> [3]2  ,  [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3172 </place>
+<note></note>
+</C1>
+
+<C1 id="011">
+<num>C1-011</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</C1>
+
+<C1 id="012">
+<num>C1-012</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 郭鴻文  </teacher>
+<score> 0 </score>
+<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</C1>
+
+<C1 id="051">
+<num>C1-051</num>
+<class></class>
+<group></group>
+<name> 線性代數（二） </name>
+<teacher> 黃世昌  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="2" day2="5" s2="3" e2="4"> [3]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3174 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 線性代數（二） </name1>
+<time1 day1="3" s1="1" e1="1"> [3]1  </time1>
+<place1> 數學系館                      3174 </place1>
+<note1></note1>
+</C1>
+
+<C1 id="052">
+<num>C1-052</num>
+<class></class>
+<group></group>
+<name> 高等微積分（一） </name>
+<teacher> 劉之中  </teacher>
+<score> 4 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="3" e2="4"> [1]5~6  ,  [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3174 </place>
+<note> 限數二修習 </note>
+<class1></class1>
+<group1></group1>
+<name1> 高等微積分（一） </name1>
+<time1 day1="1" s1="4.5" e1="4.5"> [1]N  </time1>
+<place1> 數學系館                      3174 </place1>
+<note1></note1>
+</C1>
+
+<C1 id="053">
+<num>C1-053</num>
+<class></class>
+<group></group>
+<name> 高等微積分（一） </name>
+<teacher> 陳若淳  </teacher>
+<score> 4 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="3" e2="4"> [1]5~6  ,  [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3172 </place>
+<note> 額外加強時間暫定星期五第N節 </note>
+<class1></class1>
+<group1></group1>
+<name1> 高等微積分（一） </name1>
+<time1 day1="1" s1="4.5" e1="4.5"> [1]N  </time1>
+<place1> 數學系館                      3172 </place1>
+<note1></note1>
+</C1>
+
+<C1 id="054">
+<num>C1-054</num>
+<class></class>
+<group></group>
+<name> 機率導論 </name>
+<teacher> 劉聚仁  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="2" day2="4" s2="3" e2="4"> [2]2  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3174 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 機率導論 </name1>
+<time1 day1="2" s1="1" e1="1"> [2]1  </time1>
+<place1> 數學系館                      3174 </place1>
+<note1></note1>
+</C1>
+
+<C1 id="055">
+<num>C1-055</num>
+<class></class>
+<group></group>
+<name> 科學計算軟體 </name>
+<teacher> 舒宇宸  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="6" day2="1" s2="8" e2="8"> [4]5~6  ,  [1]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3178 </place>
+<note> 數學二與測量二合班 </note>
+</C1>
+
+<C1 id="056">
+<num>C1-056</num>
+<class></class>
+<group></group>
+<name> 向量分析 </name>
+<teacher> 劉珈銘  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="6" day2="5" s2="8" e2="8"> [2]5~6  ,  [5]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3174 </place>
+<note></note>
+</C1>
+
+<C1 id="057">
+<num>C1-057</num>
+<class></class>
+<group></group>
+<name> 離散數學 </name>
+<teacher> 黃柏嶧  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3174 </place>
+<note></note>
+</C1>
+
+<C1 id="063">
+<num>C1-063</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 劉之中  </teacher>
+<score> 0 </score>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 限本系 </note>
+</C1>
+
+<C1 id="102">
+<num>C1-102</num>
+<class></class>
+<group></group>
+<name> 代數學（二） </name>
+<teacher> 章源慶  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note></note>
+</C1>
+
+<C1 id="103">
+<num>C1-103</num>
+<class></class>
+<group></group>
+<name> 初等分析 </name>
+<teacher> 史習偉  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="3" s2="8" e2="8"> [5]5~6  ,  [3]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note> 大碩合開 </note>
+</C1>
+
+<C1 id="104">
+<num>C1-104</num>
+<class></class>
+<group></group>
+<name> 動態系統 </name>
+<teacher> 連文璟  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note> 大碩合開 </note>
+</C1>
+
+<C1 id="105">
+<num>C1-105</num>
+<class></class>
+<group></group>
+<name> 數值分析（一） </name>
+<teacher> 王辰樹  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="6" day2="5" s2="8" e2="8"> [2]5~6  ,  [5]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3172 </place>
+<note> 大碩合開 </note>
+</C1>
+
+<C1 id="106">
+<num>C1-106</num>
+<class></class>
+<group></group>
+<name> 統計科學 </name>
+<teacher> 黃郁芬  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="6" day2="1" s2="8" e2="8"> [4]5~6  ,  [1]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note></note>
+</C1>
+
+<C1 id="155">
+<num>C1-155</num>
+<class></class>
+<group></group>
+<name> 拓樸學 </name>
+<teacher> 夏　杼  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="6" day2="5" s2="8" e2="8"> [3]5~6  ,  [5]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note> 大碩合開 </note>
+</C1>
+
+<C1 id="156">
+<num>C1-156</num>
+<class></class>
+<group></group>
+<name> 偏微分方程導論 </name>
+<teacher> 連文璟  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="6" day2="4" s2="6" e2="6"> [3]5~6  ,  [4]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3175 </place>
+<note> 大碩合開、資源系合開 </note>
+</C1>
+
+<C1 id="157">
+<num>C1-157</num>
+<class></class>
+<group></group>
+<name> 群表現導論 </name>
+<teacher> 林　牛  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3173 </place>
+<note> 大碩合開 </note>
+</C1>
+
+<C1 id="158">
+<num>C1-158</num>
+<class></class>
+<group></group>
+<name> 金融市場與金融數學導論 </name>
+<teacher> 洪英志  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="6" day2="1" s2="8" e2="8"> [4]5~6  ,  [1]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3177 </place>
+<note> 大碩合開 </note>
+</C1>
+
+<C1 id="159">
+<num>C1-159</num>
+<class></class>
+<group></group>
+<name> 應用數學(一) </name>
+<teacher> 劉育佑  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4" day2="5" s2="4.5" e2="4.5"> [3]3~4  ,  [5]N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3177 </place>
+<note> 大碩合開 </note>
+</C1>
+
+</content>

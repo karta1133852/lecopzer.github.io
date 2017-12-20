@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<TC id="001">
+<num>TC-001</num>
+<class> 碩                             </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如*  ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        601 </place>
+<note> 本所全體教師合上 </note>
+</TC>
+
+<TC id="002">
+<num>TC-002</num>
+<class> 碩                             </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如*  ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        601 </place>
+<note> 本所全體教師合上 </note>
+</TC>
+
+<TC id="003">
+<num>TC-003</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 盧豐華   ,  劉立凡   ,  陳麗光   ,  邱靜如*  ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        601 </place>
+<note> 本所全體教師合上 </note>
+</TC>
+
+<TC id="004">
+<num>TC-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 生物統計學入門 </name>
+<teacher> 王新台* </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note></note>
+</TC>
+
+<TC id="005">
+<num>TC-005</num>
+<class> 碩                             </class>
+<group></group>
+<name> 流行病學及研究設計導論 </name>
+<teacher> 邱靜如* </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        304D </place>
+<note></note>
+</TC>
+
+<TC id="006">
+<num>TC-006</num>
+<class> 碩                             </class>
+<group></group>
+<name> 社會老年學 </name>
+<teacher> 陳麗光* </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note></note>
+</TC>
+
+<TC id="007">
+<num>TC-007</num>
+<class> 碩                             </class>
+<group></group>
+<name> 老年醫學概論 </name>
+<teacher> 盧豐華*  ,  張家銘  </teacher>
+<score> 2 </score>
+<time day1="3" s1="8" e1="9"> [3]8~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note></note>
+</TC>
+
+<TC id="008">
+<num>TC-008</num>
+<class> 碩                             </class>
+<group></group>
+<name> 老年學實習（一） </name>
+<teacher> 張家銘   ,  范聖育* </teacher>
+<score> 2 </score>
+<time day1="5" s1="9" e1="10"> [5]9~A  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 醫學院                        201D </place>
+<note> 需修滿15學分才能選修此課程，部分時段暑假校外實習 。 </note>
+</TC>
+
+<TC id="012">
+<num>TC-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 質性研究實作：訪談資料收集與分析 </name>
+<teacher> 陳麗光* </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        205D </place>
+<note></note>
+</TC>
+
+<TC id="013">
+<num>TC-013</num>
+<class> 碩                             </class>
+<group></group>
+<name> 高齡溝通與諮商 </name>
+<teacher> 范聖育   ,  翁慧卿* </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note></note>
+</TC>
+
+<TC id="015">
+<num>TC-015</num>
+<class> 碩                             </class>
+<group></group>
+<name> 成功老化的生活空間 </name>
+<teacher> 陳柏宗* </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note></note>
+</TC>
+
+<TC id="016">
+<num>TC-016</num>
+<class> 碩                             </class>
+<group></group>
+<name> 統計套裝軟體介紹比較與應用 </name>
+<teacher> 王新台* </teacher>
+<score> 2 </score>
+<time day1="1" s1="4" e1="4.5"> [1]4~N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> (英文授課)  10樓電腦教室 </note>
+</TC>
+
+<TC id="017">
+<num>TC-017</num>
+<class> 碩                             </class>
+<group></group>
+<name> 健康促進理論與實踐 </name>
+<teacher> 莊佳蓉  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點門診大樓8樓公衛所會議室08077 </note>
+</TC>
+
+<TC id="018">
+<num>TC-018</num>
+<class> 碩                             </class>
+<group></group>
+<name> 老化與生活綜論 </name>
+<teacher> 劉立凡   ,  陳麗光*  ,  邱靜如   ,  王新台   ,  范聖育   ,  翁慧卿  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 老化與生活跨學分學門課程（大學部課程） </note>
+</TC>
+
+<TC id="019">
+<num>TC-019</num>
+<class> 碩                             </class>
+<group></group>
+<name> 高齡者的樂活與休閒 </name>
+<teacher> 簡巧珍   ,  陳麗光   ,  范聖育* </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 老化與生活跨學分學門課程（大學部課程） </note>
+</TC>
+
+<TC id="021">
+<num>TC-021</num>
+<class> 碩                             </class>
+<group></group>
+<name> 高齡者的衣物與穿著 </name>
+<teacher> 王新台* </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
+<note> 老化與生活跨學分學門課程 （大學部課程） </note>
+</TC>
+
+<TC id="024">
+<num>TC-024</num>
+<class> 碩                             </class>
+<group></group>
+<name> 成功老化 </name>
+<teacher> 陳麗光* </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note> 大四可選修 </note>
+</TC>
+
+<TC id="026">
+<num>TC-026</num>
+<class> 碩                             </class>
+<group></group>
+<name> 大數據分析 </name>
+<teacher> 邱靜如* </teacher>
+<score> 1 </score>
+<time day1="4" s1="9" e1="9"> [4]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 醫圖電腦教室上課 </note>
+</TC>
+
+<TC id="027">
+<num>TC-027</num>
+<class> 碩                             </class>
+<group></group>
+<name> 多層次分析研究法與統計實務 </name>
+<teacher> 翁慧卿* </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note></note>
+</TC>
+
+</content>

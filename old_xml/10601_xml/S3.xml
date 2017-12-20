@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<S3 id="001">
+<num>S3-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 吳孟興   ,  湯銘哲   ,  莊季瑛   ,  蔡少正   ,  黃阿敏   ,  蔡美玲   ,  吳勝男*  ,  楊尚訓   ,  顏賢章   ,  陳珮君   ,  張雅雯   ,  游一龍   ,  蔡曜聲  </teacher>
+<score> 1 </score>
+<time day1="4" s1="6" e1="6"> [4]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 中英文教學 </note>
+</S3>
+
+<S3 id="002">
+<num>S3-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 吳孟興   ,  莊季瑛   ,  蔡少正   ,  黃阿敏   ,  蔡美玲   ,  吳勝男*  ,  楊尚訓   ,  顏賢章   ,  陳珮君   ,  張雅雯   ,  游一龍   ,  蔡曜聲  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="7"> [4]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 中英文教學 </note>
+</S3>
+
+<S3 id="003">
+<num>S3-003</num>
+<class> 碩三                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 吳勝男* </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="7"> [4]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 僅供碩三以上選修 </note>
+</S3>
+
+<S3 id="004">
+<num>S3-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高等生理學 </name>
+<teacher> 湯銘哲   ,  莊季瑛   ,  吳勝男   ,  楊尚訓   ,  顏賢章   ,  陳珮君   ,  張雅雯* </teacher>
+<score> 6 </score>
+<time day1="1" s1="1" e1="1" day2="2" s2="1" e2="2" day3="4" s3="1" e3="2"> [1]1  ,  [2]1~2  ,  [4]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note> 限本所學生選，外系所需經本所同意    中英文教學 </note>
+<class1></class1>
+<group1></group1>
+<name1> 高等生理學 </name1>
+<time1 day1="1" s1="2" e1="4"> [1]2~4  </time1>
+<place1> 醫學院                        0301 </place1>
+<note1> 上課：三樓學生實驗室 </note1>
+</S3>
+
+<S3 id="005">
+<num>S3-005</num>
+<class> 碩                             </class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 莊季瑛* </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="5"> [4]5  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S3>
+
+<S3 id="006">
+<num>S3-006</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 研究方法導論 </name>
+<teacher> 莊季瑛*  ,  楊尚訓   ,  張雅雯  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0711 </place>
+<note> 中英文教學 </note>
+</S3>
+
+<S3 id="007">
+<num>S3-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 研究方法導論 </name>
+<teacher> 莊季瑛   ,  楊尚訓*  ,  張雅雯  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note> 中英文教學 </note>
+</S3>
+
+<S3 id="008">
+<num>S3-008</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 生物統計學 </name>
+<teacher> 王亮懿   ,  李中一* </teacher>
+<score> 2 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 與公衛所合開。 </note>
+</S3>
+
+<S3 id="009">
+<num>S3-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 神經生理學書報討論（一） </name>
+<teacher> 莊季瑛*  ,  黃阿敏   ,  楊尚訓   ,  陳珮君   ,  張雅雯  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 醫學院                        0724 </place>
+<note> 本課程採中英文上課 </note>
+</S3>
+
+<S3 id="010">
+<num>S3-010</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 神經科學 </name>
+<teacher> 莊季瑛   ,  黃阿敏*  ,  楊尚訓   ,  陳珮君   ,  張雅雯   ,  游一龍  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note> 中英文教學 </note>
+</S3>
+
+<S3 id="011">
+<num>S3-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 表觀遺傳學特論（一） </name>
+<teacher> 蔡少正* </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note> 本課程採中英文上課，上課教室暫時移至國衛院第二會議室。 </note>
+</S3>
+
+<S3 id="014">
+<num>S3-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 細胞及分子生理學書報討論（一） </name>
+<teacher> 湯銘哲* </teacher>
+<score> 1 </score>
+<time day1="3" s1="1" e1="1"> [3]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note> 本課程採英文上課 </note>
+</S3>
+
+<S3 id="015">
+<num>S3-015</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 分子老年學特論（一） </name>
+<teacher> 顏賢章* </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0711 </place>
+<note> 本課程採中英文上課 </note>
+</S3>
+
+<S3 id="016">
+<num>S3-016</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 細胞電生理（一） </name>
+<teacher> 吳勝男* </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0711 </place>
+<note></note>
+</S3>
+
+<S3 id="017">
+<num>S3-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 神經精神藥理學 </name>
+<teacher> 林宙晴   ,  蔡景仁   ,  陳志弘   ,  劉彥青   ,  許桂森   ,  簡伯武   ,  蕭雅心   ,  張雅雯*  ,  張惠華   ,  蘇翔  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note> 與生理所合班上課 </note>
+</S3>
+
+<S3 id="018">
+<num>S3-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 以問題為導向學習神經系統和諧（一） </name>
+<teacher> 張雅雯* </teacher>
+<score> 1 </score>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0711 </place>
+<note></note>
+</S3>
+
+<S3 id="019">
+<num>S3-019</num>
+<class> 碩                             </class>
+<group></group>
+<name> 整合醫療的實證科學 </name>
+<teacher> 陳德祐   ,  林哲偉   ,  林梅鳳   ,  黃阿敏* </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note></note>
+</S3>
+
+<S3 id="020">
+<num>S3-020</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 生物資訊學 </name>
+<teacher> 蔡少正*  ,  孫孝芳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 計網中心209教室 </note>
+</S3>
+
+</content>

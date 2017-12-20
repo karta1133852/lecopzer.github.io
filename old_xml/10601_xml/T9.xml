@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T9 id="101">
+<num>T9-101</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 人體解剖學（含實驗） </name>
+<teacher> 郭余民*  ,  黃步敏   ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高   ,  陳應輝  </teacher>
+<score> 8 </score>
+<time day1="1" s1="5" e1="8" day2="2" s2="1" e2="4" day3="4" s3="1" e3="4" day4="5" s4="1" e4="4"> [1]5~8  ,  [2]1~4  ,  [4]1~4  ,  [5]1~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        820523 </place>
+<note></note>
+</T9>
+
+<T9 id="102">
+<num>T9-102</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 組織學特論 </name>
+<teacher> 江美治   ,  莫凡毅*  ,  司君一   ,  許鍾瑜   ,  王仰高  </teacher>
+<score> 4 </score>
+<time day1="2" s1="5" e1="6" day2="5" s2="5" e2="6"> [2]5~6  ,  [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        820523 </place>
+<note></note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 組織學特論 </name1>
+<time1 day1="2" s1="7" e1="8" day2="5" s2="7" e2="8"> [2]7~8  ,  [5]7~8  </time1>
+<place1> 醫學院                        820523 </place1>
+<note1></note1>
+</T9>
+
+<T9 id="103">
+<num>T9-103</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 郭余民   ,  黃步敏   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一   ,  許鍾瑜   ,  王家義   ,  王仰高* </teacher>
+<score> 1 </score>
+<time day1="3" s1="7" e1="7"> [3]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</T9>
+
+<T9 id="104">
+<num>T9-104</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 郭余民   ,  黃步敏   ,  江美治   ,  莫凡毅   ,  吳佳慶   ,  司君一   ,  許鍾瑜   ,  王家義   ,  王仰高* </teacher>
+<score> 1 </score>
+<time day1="3" s1="8" e1="8"> [3]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</T9>
+
+<T9 id="107">
+<num>T9-107</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 王仰高* </teacher>
+<score> 0 </score>
+<time day1="3" s1="9" e1="9"> [3]9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</T9>
+
+</content>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<Z3 id="001">
+<num>Z3-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 書報討論（一） </name>
+<teacher> 張文綺   ,  蔡文杰   ,  李瑞花*  ,  黃兆立  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="7"> [2]7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 雲平大樓                      709 </place>
+<note></note>
+</Z3>
+
+<Z3 id="002">
+<num>Z3-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 書報討論（三） </name>
+<teacher> 張文綺   ,  蔡文杰   ,  李瑞花*  ,  黃兆立  </teacher>
+<score> 1 </score>
+<time day1="2" s1="8" e1="8"> [2]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 雲平大樓                      709 </place>
+<note></note>
+</Z3>
+
+<Z3 id="003">
+<num>Z3-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等植物生理學 </name>
+<teacher> 黃浩仁   ,  李瑞花*  ,  黃兆立  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      712 </place>
+<note> 譯農所與熱植所合開(選修) </note>
+</Z3>
+
+<Z3 id="005">
+<num>Z3-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 植物二次代謝體學 </name>
+<teacher> 張松彬   ,  蔡文杰* </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      712 </place>
+<note> 熱植所與生命所合開 </note>
+</Z3>
+
+<Z3 id="006">
+<num>Z3-006</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 植物科學講座（一） </name>
+<teacher> 張文綺   ,  蔡文杰   ,  李瑞花*  ,  黃兆立  </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="5"> [2]5  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 雲平大樓                      709 </place>
+<note></note>
+</Z3>
+
+<Z3 id="007">
+<num>Z3-007</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 植物科學講座(三) </name>
+<teacher> 張文綺   ,  蔡文杰   ,  李瑞花*  ,  黃兆立  </teacher>
+<score> 1 </score>
+<time day1="2" s1="6" e1="6"> [2]6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 雲平大樓                      709 </place>
+<note></note>
+</Z3>
+
+<Z3 id="008">
+<num>Z3-008</num>
+<class></class>
+<group></group>
+<name> 3D列印在生物科技的應用 </name>
+<teacher> 蔣鎮宇   ,  黃浩仁   ,  王浩文* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</Z3>
+
+<Z3 id="009">
+<num>Z3-009</num>
+<class></class>
+<group></group>
+<name> 台灣新農業產業—菇蕈產業 </name>
+<teacher> 李瑞花  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</Z3>
+
+<Z3 id="010">
+<num>Z3-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等分子生物學 </name>
+<teacher> 宋皇模   ,  張清俊   ,  王涵青   ,  曾大千   ,  陳炳焜*  ,  羅玉枝   ,  蔡文杰  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3415 </place>
+<note> 院核心課程 </note>
+</Z3>
+
+<Z3 id="011">
+<num>Z3-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 張文綺   ,  蔡文杰   ,  李瑞花*  ,  黃兆立  </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 雲平大樓                      712 </place>
+<note></note>
+</Z3>
+
+<Z3 id="014">
+<num>Z3-014</num>
+<class></class>
+<group></group>
+<name> 台灣新農業產業—咖啡產業 </name>
+<teacher> 李瑞花  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</Z3>
+
+<Z3 id="015">
+<num>Z3-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 實驗設計與方法專論 </name>
+<teacher> 張文綺   ,  蔡文杰   ,  李瑞花*  ,  黃兆立  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      712 </place>
+<note> 限熱植所學生 </note>
+</Z3>
+
+</content>

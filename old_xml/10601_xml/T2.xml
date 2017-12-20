@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T2 id="001">
+<num>T2-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 護理理論 </name>
+<teacher> 陳清惠   ,  柯乃熒   ,  許玉雲*  ,  方素瓔   ,  賴維淑  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 限本系學生 </note>
+</T2>
+
+<T2 id="004">
+<num>T2-004</num>
+<class> 碩一                           </class>
+<group> A </group>
+<name> 進階護理核心概念 </name>
+<teacher> 王琪珍   ,  林梅鳳   ,  葉莉莉   ,  張瑩如   ,  徐畢卿   ,  黃美智*  ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  林靜蘭   ,  方素瓔   ,  陳幸眉   ,  賴維淑   ,  陳彰惠  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 全系研究所教師 </note>
+</T2>
+
+<T2 id="005">
+<num>T2-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 護理文獻評論（一） </name>
+<teacher> 王琪珍* </teacher>
+<score> 1 </score>
+<time day1="4" s1="8" e1="9"> [4]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 本課程為隔週上課 </note>
+</T2>
+
+<T2 id="006">
+<num>T2-006</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 護理文獻評論（一） </name>
+<teacher> 徐畢卿* </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note> 本課程為隔週上課 </note>
+</T2>
+
+<T2 id="007">
+<num>T2-007</num>
+<class></class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 陳幸眉* </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="013">
+<num>T2-013</num>
+<class></class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 王琪珍   ,  張瑩如   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  王靜枝*  ,  陳靜敏  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="016">
+<num>T2-016</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 研究工具的測量與發展 </name>
+<teacher> 馮瑞鶯* </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85101 </place>
+<note></note>
+</T2>
+
+<T2 id="017">
+<num>T2-017</num>
+<class></class>
+<group></group>
+<name> 進階護理學實習（一） </name>
+<teacher> 王琪珍*  ,  林梅鳳   ,  張瑩如   ,  黃美智   ,  柯乃熒   ,  陳靜敏   ,  方素瓔   ,  陳幸眉   ,  賴維淑   ,  胡芳文  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="032">
+<num>T2-032</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 生命與醫學倫理 </name>
+<teacher> 王維芳   ,  高綺吟*  ,  簡偉明  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85X09 </place>
+<note></note>
+</T2>
+
+<T2 id="050">
+<num>T2-050</num>
+<class></class>
+<group></group>
+<name> 舒適護理 </name>
+<teacher> 黃美智   ,  方素瓔   ,  高綺吟   ,  賴維淑*  ,  洪菁霞   ,  蔡昆霖  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="051">
+<num>T2-051</num>
+<class></class>
+<group></group>
+<name> 癌症照護 </name>
+<teacher> 黃美智   ,  方素瓔*  ,  高綺吟   ,  賴維淑   ,  蘇五洲  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="052">
+<num>T2-052</num>
+<class></class>
+<group></group>
+<name> 生命倫理 </name>
+<teacher> 黃美智   ,  方素瓔   ,  高綺吟*  ,  賴維淑  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="053">
+<num>T2-053</num>
+<class></class>
+<group></group>
+<name> 安寧療護 </name>
+<teacher> 黃美智*  ,  方素瓔   ,  高綺吟   ,  賴維淑   ,  林鵬展  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="101">
+<num>T2-101</num>
+<class> 碩                             </class>
+<group></group>
+<name> 護理研究 </name>
+<teacher> 王靜枝*  ,  高綺吟   ,  李佳桂  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際碩士班課程。 </note>
+</T2>
+
+<T2 id="105">
+<num>T2-105</num>
+<class> 碩                             </class>
+<group></group>
+<name> 生命與醫學倫理 </name>
+<teacher> 高綺吟*  ,  簡偉明  </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際碩士班課程，外系限選3人。 </note>
+</T2>
+
+<T2 id="107">
+<num>T2-107</num>
+<class> 碩                             </class>
+<group></group>
+<name> 健康評估及實習 </name>
+<teacher> 方素瓔   ,  陳幸眉*  ,  高綺吟   ,  盧豐華   ,  薛尊仁   ,  歐弘毅   ,  陳志弘   ,  詹世鴻   ,  楊朝鈞   ,  蔡孟哲  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 國際碩士班課程，限本系學生，技能中心上課。 </note>
+</T2>
+
+<T2 id="108">
+<num>T2-108</num>
+<class></class>
+<group></group>
+<name> 進階護理學實習（二） </name>
+<teacher> 王琪珍   ,  林梅鳳   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  王靜枝   ,  方素瓔*  ,  陳幸眉   ,  高綺吟   ,  胡芳文  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T2>
+
+<T2 id="111">
+<num>T2-111</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 進階護理學實習（一） </name>
+<teacher> 林梅鳳   ,  陳靜敏   ,  賴維淑   ,  胡芳文* </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="8" day2="3" s2="1" e2="8"> [1]5~8  ,  [3]1~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際碩士班課程，限本系國際生。 </note>
+</T2>
+
+<T2 id="112">
+<num>T2-112</num>
+<class> 碩                             </class>
+<group></group>
+<name> 公共衛生照護議題與衛生行政研討 </name>
+<teacher> 陳靜敏*  ,  呂宗學   ,  胡淑貞   ,  王新台  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際碩士班課程 </note>
+</T2>
+
+<T2 id="113">
+<num>T2-113</num>
+<class> 碩                             </class>
+<group></group>
+<name> 災難護理及緊急醫療 </name>
+<teacher> 趙子元   ,  馮瑞鶯*  ,  林志豪   ,  施欣怡   ,  何宗憲   ,  郭乃文  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85102 </place>
+<note> 國際碩士班課程 </note>
+</T2>
+
+<T2 id="115">
+<num>T2-115</num>
+<class> 博                             </class>
+<group></group>
+<name> 健康照護專題討論（一） </name>
+<teacher> 王琪珍   ,  徐畢卿   ,  顏妙芬   ,  黃美智   ,  柯乃熒*  ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  洪菁霞   ,  張玲慧  </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        501 </place>
+<note> 與護理系國際博士班合開 </note>
+</T2>
+
+<T2 id="116">
+<num>T2-116</num>
+<class> 博                             </class>
+<group></group>
+<name> 健康照護專題討論（三） </name>
+<teacher> 黃美智   ,  柯乃熒*  ,  王靜枝   ,  張玲慧   ,  郭乃文  </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        501 </place>
+<note> 與護理系國際博士班合開 </note>
+</T2>
+
+<T2 id="117">
+<num>T2-117</num>
+<class> 博                             </class>
+<group></group>
+<name> 護理哲理與知識建構 </name>
+<teacher> 陳彰惠* </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:健照所會議室(與護理系國際博士班合開) </note>
+</T2>
+
+<T2 id="200">
+<num>T2-200</num>
+<class> 博                             </class>
+<group></group>
+<name> 護理專業探究 </name>
+<teacher> 徐畢卿   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  陳靜敏   ,  陳幸眉   ,  賴昭翰  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85X09 </place>
+<note> 與建照所合開 </note>
+</T2>
+
+<T2 id="202">
+<num>T2-202</num>
+<class> 博                             </class>
+<group></group>
+<name> 健康照護領導與政策 </name>
+<teacher> 柯乃熒   ,  陳靜敏* </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 與建照所合開(上課教室:醫圖PBL210) </note>
+</T2>
+
+</content>

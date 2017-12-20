@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<RZ id="201">
+<num>RZ-201</num>
+<class></class>
+<group></group>
+<name> 精實創業進階 </name>
+<teacher> 楊朝旭  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</RZ>
+
+<RZ id="203">
+<num>RZ-203</num>
+<class> 碩                             </class>
+<group></group>
+<name> 跨國管理實務融合(一) </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      小哈佛教室 </place>
+<note> 開放網路選課(全英文授課)／密集授課詳如課程大綱 </note>
+</RZ>
+
+<RZ id="204">
+<num>RZ-204</num>
+<class> 碩                             </class>
+<group></group>
+<name> 產業動態與職涯發展 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note> 不開放網路選課 </note>
+</RZ>
+
+<RZ id="205">
+<num>RZ-205</num>
+<class> 碩                             </class>
+<group></group>
+<name> 創業基礎與行動 </name>
+<teacher> 楊朝旭   ,  王泰裕   ,  林正章   ,  蔡東峻   ,  張紹基   ,  史習安* </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note></note>
+</RZ>
+
+</content>

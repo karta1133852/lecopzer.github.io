@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<NC id="001">
+<num>NC-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 王筱雯  </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
+</NC>
+
+<NC id="002">
+<num>NC-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳佳琳  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note> 水利所與自災所合開，自災所學生及水利所外籍生優先選課 </note>
+</NC>
+
+<NC id="003">
+<num>NC-003</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 羅偉誠  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4645 </place>
+<note></note>
+</NC>
+
+<NC id="004">
+<num>NC-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 防災概論 </name>
+<teacher> 蔡光榮  </teacher>
+<score> 3 </score>
+<time day1="5" s1="3" e1="4.5"> [5]3~N  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note></note>
+</NC>
+
+<NC id="005">
+<num>NC-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 中等水力學 </name>
+<teacher> 陳佳琳*  ,  張駿暉  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note> 自災所、水利所與海事所合開 </note>
+</NC>
+
+<NC id="006">
+<num>NC-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 水文系統模擬與預測 </name>
+<teacher> 楊道昌   ,  郭振民   ,  游保杉* </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note> 水利所與自災所合開 </note>
+</NC>
+
+<NC id="007">
+<num>NC-007</num>
+<class> 碩                             </class>
+<group></group>
+<name> 海岸管理學 </name>
+<teacher> 陳璋玲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note> 海事所與自災所合開 </note>
+</NC>
+
+<NC id="008">
+<num>NC-008</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 天然災害經濟分析 </name>
+<teacher> 郭彥廉  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-經濟 </place>
+<note> 分析工具領域--大學部三年級以上才能修習  (英語授課) </note>
+</NC>
+
+<NC id="009">
+<num>NC-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 土石流災害防救實務 </name>
+<teacher> 陳俞旭   ,  陳振宇   ,  蔡元融   ,  謝正倫* </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note> 水利所與自災所合開 </note>
+</NC>
+
+<NC id="010">
+<num>NC-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 應用河相學 </name>
+<teacher> 王筱雯  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4678 </place>
+<note> 水利所與自災所合開 </note>
+</NC>
+
+<NC id="011">
+<num>NC-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 感測器原理及應用 </name>
+<teacher> 侯琮欽  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4503 </place>
+<note> 碩博與碩專合班，土木所與自災所合開，英語授課 </note>
+</NC>
+
+<NC id="013">
+<num>NC-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 有限元素在大地工程上之應用 </name>
+<teacher> 洪　瀞  </teacher>
+<score> 3 </score>
+<time day1="2" s1="4.5" e1="6"> [2]N~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note> 碩博與碩專合班，土木所與自災所合開，英語授課 </note>
+</NC>
+
+</content>

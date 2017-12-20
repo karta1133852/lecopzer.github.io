@@ -1,0 +1,1945 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<A2 id="201">
+<num>A2-201</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 直排輪（男女） </name>
+<teacher> 黃鈴雯  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 學生活動中心                  活動中心騎樓 </place>
+<note> 【男女合班】自備用具 </note>
+</A2>
+
+<A2 id="202">
+<num>A2-202</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 自由車（男女） </name>
+<teacher> 施光隆  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 游泳池前                      游泳池前 </place>
+<note> 【男女合班】安全帽自備，校外場地上課 </note>
+</A2>
+
+<A2 id="204">
+<num>A2-204</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 足球（男女） </name>
+<teacher> 楊書銘  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復體育場                    光復體育場 </place>
+<note> 【男女合班】光復操場 </note>
+</A2>
+
+<A2 id="205">
+<num>A2-205</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 軟網（女） </name>
+<teacher> 王苓華  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="206">
+<num>A2-206</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 軟網（女） </name>
+<teacher> 王苓華  </teacher>
+<score> 0 </score>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="207">
+<num>A2-207</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 硬網（女） </name>
+<teacher> 王苓華  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="208">
+<num>A2-208</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 硬網（女） </name>
+<teacher> 馬上鈞  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復網球場                    光復網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="210">
+<num>A2-210</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 韻律（女） </name>
+<teacher> 高華君  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強韻律室                    自強韻律室 </place>
+<note></note>
+</A2>
+
+<A2 id="211">
+<num>A2-211</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 水中有氧（女） </name>
+<teacher> 高華君  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note></note>
+</A2>
+
+<A2 id="212">
+<num>A2-212</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 水中有氧（女） </name>
+<teacher> 高華君  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note></note>
+</A2>
+
+<A2 id="213">
+<num>A2-213</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 太極拳（男女） </name>
+<teacher> 高華君  </teacher>
+<score> 0 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強韻律室                    自強韻律室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="214">
+<num>A2-214</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 西洋劍（男女）　 </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 學生活動中心                  活動中心騎樓 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="216">
+<num>A2-216</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 游泳自救與救生（男女） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note></note>
+</A2>
+
+<A2 id="217">
+<num>A2-217</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 游泳（女） </name>
+<teacher> 周學雯  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note></note>
+</A2>
+
+<A2 id="221">
+<num>A2-221</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 陳敬能  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 【男女合班 】球具自備 </note>
+</A2>
+
+<A2 id="222">
+<num>A2-222</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 陳敬能  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 【男女合班】 球具自備 </note>
+</A2>
+
+<A2 id="224">
+<num>A2-224</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 國術（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="225">
+<num>A2-225</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 國術（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note></note>
+</A2>
+
+<A2 id="226">
+<num>A2-226</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 國際標準舞（男女） </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 【男女合班 】須穿室內（乾淨）運動鞋 </note>
+</A2>
+
+<A2 id="227">
+<num>A2-227</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 瑜伽（男女） </name>
+<teacher> 洪甄憶  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強韻律室                    自強韻律室 </place>
+<note> 【男女合班】 大毛巾或舖巾自備 </note>
+</A2>
+
+<A2 id="229">
+<num>A2-229</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 瑜伽（女） </name>
+<teacher> 洪甄憶  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強韻律室                    自強韻律室 </place>
+<note></note>
+</A2>
+
+<A2 id="230">
+<num>A2-230</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 排球（女） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復排球高場                  光復排球高場 </place>
+<note></note>
+</A2>
+
+<A2 id="233">
+<num>A2-233</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="238">
+<num>A2-238</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 高爾夫（男女） </name>
+<teacher> 彭怡千  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強橄欖球場                  自強橄欖球場 </place>
+<note> 【男女合班 】自備球桿尤佳 </note>
+</A2>
+
+<A2 id="245">
+<num>A2-245</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 羽球（女） </name>
+<teacher> 黃鈴雯  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 自備球具 </note>
+</A2>
+
+<A2 id="246">
+<num>A2-246</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 羽球（男女） </name>
+<teacher> 涂國誠  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 【男女合班】球具自備 </note>
+</A2>
+
+<A2 id="247">
+<num>A2-247</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 羽球（男女） </name>
+<teacher> 蔡佳良  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 【男女合班】球具自備 </note>
+</A2>
+
+<A2 id="250">
+<num>A2-250</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 健康有氧（女） </name>
+<teacher> 洪甄憶  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休體適能                    健休體適能 </place>
+<note></note>
+</A2>
+
+<A2 id="251">
+<num>A2-251</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 健康有氧（女） </name>
+<teacher> 洪甄憶  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休體適能                    健休體適能 </place>
+<note></note>
+</A2>
+
+<A2 id="257">
+<num>A2-257</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 飛輪有氧（男女） </name>
+<teacher> 彭怡千  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="258">
+<num>A2-258</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 飛輪有氧（男女） </name>
+<teacher> 林欣仕  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="259">
+<num>A2-259</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 飛輪有氧（女） </name>
+<teacher> 彭怡千  </teacher>
+<score> 0 </score>
+<time day1="5" s1="9" e1="10"> [5]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note></note>
+</A2>
+
+<A2 id="260">
+<num>A2-260</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 飛輪有氧（女） </name>
+<teacher> 彭怡千  </teacher>
+<score> 0 </score>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note></note>
+</A2>
+
+<A2 id="265">
+<num>A2-265</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 籃球（男女） </name>
+<teacher> 林欣仕  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復籃球高場                  光復籃球高場 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="286">
+<num>A2-286</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="287">
+<num>A2-287</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="290">
+<num>A2-290</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 體適能運動（女） </name>
+<teacher> 周學雯  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休體適能                    健休體適能 </place>
+<note></note>
+</A2>
+
+<A2 id="291">
+<num>A2-291</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 體適能運動（女） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休體適能                    健休體適能 </place>
+<note></note>
+</A2>
+
+<A2 id="297">
+<num>A2-297</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 適應體適能 </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note> 【男女合班】限生病致無法上一般體育課程者選課（需附醫生證明並經授課老師同意） </note>
+</A2>
+
+<A2 id="301">
+<num>A2-301</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 直排輪（男女） </name>
+<teacher> 黃鈴雯  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 學生活動中心                  活動中心騎樓 </place>
+<note> 【男女合班】自備用具 </note>
+</A2>
+
+<A2 id="302">
+<num>A2-302</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 自由車（男女） </name>
+<teacher> 施光隆  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 游泳池前                      游泳池前 </place>
+<note> 【男女合班】安全帽自備   ，校外場地上課 </note>
+</A2>
+
+<A2 id="303">
+<num>A2-303</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 自由車（男） </name>
+<teacher> 施光隆  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 游泳池前                      游泳池前 </place>
+<note> 安全帽自備，校外場地上課 </note>
+</A2>
+
+<A2 id="304">
+<num>A2-304</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 足球（男女） </name>
+<teacher> 楊書銘  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復體育場                    光復體育場 </place>
+<note> 【男女合班】光復操場 </note>
+</A2>
+
+<A2 id="308">
+<num>A2-308</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 足球（男） </name>
+<teacher> 王駿濠  </teacher>
+<score> 0 </score>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復體育場                    光復體育場 </place>
+<note> 光復操場 </note>
+</A2>
+
+<A2 id="309">
+<num>A2-309</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 足球（男） </name>
+<teacher> 王駿濠  </teacher>
+<score> 0 </score>
+<time day1="3" s1="9" e1="10"> [3]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復體育場                    光復體育場 </place>
+<note> 光復操場 </note>
+</A2>
+
+<A2 id="313">
+<num>A2-313</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 太極拳（男女） </name>
+<teacher> 高華君  </teacher>
+<score> 0 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強韻律室                    自強韻律室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="314">
+<num>A2-314</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 西洋劍（男女）　 </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 學生活動中心                  活動中心騎樓 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="316">
+<num>A2-316</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 游泳自救與救生（男女） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note> 服務學習課程 </note>
+</A2>
+
+<A2 id="317">
+<num>A2-317</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 游泳（男） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note> 泳具自備 </note>
+</A2>
+
+<A2 id="318">
+<num>A2-318</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 游泳（男） </name>
+<teacher> 黃滄海  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note> 泳具自備 </note>
+</A2>
+
+<A2 id="321">
+<num>A2-321</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 陳敬能  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 【男女合班 】球具自備 </note>
+</A2>
+
+<A2 id="322">
+<num>A2-322</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 陳敬能  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 【男女合班】 球具自備 </note>
+</A2>
+
+<A2 id="324">
+<num>A2-324</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 國術（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="325">
+<num>A2-325</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 國術（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note></note>
+</A2>
+
+<A2 id="326">
+<num>A2-326</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 國際標準舞（男女） </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 【男女合班 】須穿室內（乾淨）運動鞋 </note>
+</A2>
+
+<A2 id="327">
+<num>A2-327</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 瑜伽（男女） </name>
+<teacher> 洪甄憶  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強韻律室                    自強韻律室 </place>
+<note> 【男女合班】 大毛巾或舖巾自備 </note>
+</A2>
+
+<A2 id="329">
+<num>A2-329</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 健訓（男） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光操健訓室                    光操健訓室 </place>
+<note></note>
+</A2>
+
+<A2 id="330">
+<num>A2-330</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 健訓（男） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光操健訓室                    光操健訓室 </place>
+<note></note>
+</A2>
+
+<A2 id="331">
+<num>A2-331</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 健訓（男） </name>
+<teacher> 彭怡千  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光操健訓室                    光操健訓室 </place>
+<note></note>
+</A2>
+
+<A2 id="332">
+<num>A2-332</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 健訓（男） </name>
+<teacher> 林欣仕  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光操健訓室                    光操健訓室 </place>
+<note></note>
+</A2>
+
+<A2 id="333">
+<num>A2-333</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="338">
+<num>A2-338</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 高爾夫（男女） </name>
+<teacher> 彭怡千  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強橄欖球場                  自強橄欖球場 </place>
+<note> 【男女合班 】自備球桿尤佳 </note>
+</A2>
+
+<A2 id="343">
+<num>A2-343</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 羽球（男） </name>
+<teacher> 涂國誠  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="344">
+<num>A2-344</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 羽球（男） </name>
+<teacher> 涂國誠  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="346">
+<num>A2-346</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 羽球（男女） </name>
+<teacher> 涂國誠  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 【男女合班】自備球具 </note>
+</A2>
+
+<A2 id="347">
+<num>A2-347</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 羽球（男女） </name>
+<teacher> 蔡佳良  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 【男女合班 】球具自備 </note>
+</A2>
+
+<A2 id="350">
+<num>A2-350</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 壘球（男） </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強壘球場                    自強壘球場 </place>
+<note> 自備手套 </note>
+</A2>
+
+<A2 id="351">
+<num>A2-351</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 壘球（男） </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強壘球場                    自強壘球場 </place>
+<note> 自備手套 </note>
+</A2>
+
+<A2 id="352">
+<num>A2-352</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 壘球（男） </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強壘球場                    自強壘球場 </place>
+<note> 手套自備 </note>
+</A2>
+
+<A2 id="353">
+<num>A2-353</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 壘球（男） </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強壘球場                    自強壘球場 </place>
+<note> 自備手套 </note>
+</A2>
+
+<A2 id="354">
+<num>A2-354</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 壘球（男） </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強壘球場                    自強壘球場 </place>
+<note> 自備手套 </note>
+</A2>
+
+<A2 id="357">
+<num>A2-357</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 飛輪有氧（男女） </name>
+<teacher> 彭怡千  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="358">
+<num>A2-358</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 飛輪有氧（男女） </name>
+<teacher> 林欣仕  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="359">
+<num>A2-359</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 飛輪有氧（男） </name>
+<teacher> 林欣仕  </teacher>
+<score> 0 </score>
+<time day1="3" s1="9" e1="10"> [3]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note></note>
+</A2>
+
+<A2 id="361">
+<num>A2-361</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 籃球（男） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復籃球高場                  光復籃球高場 </place>
+<note></note>
+</A2>
+
+<A2 id="362">
+<num>A2-362</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 籃球（男） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強籃球場                    自強籃球場 </place>
+<note></note>
+</A2>
+
+<A2 id="363">
+<num>A2-363</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 籃球（男） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強籃球場                    自強籃球場 </place>
+<note></note>
+</A2>
+
+<A2 id="364">
+<num>A2-364</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 籃球（男） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強籃球場                    自強籃球場 </place>
+<note></note>
+</A2>
+
+<A2 id="365">
+<num>A2-365</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 籃球（男女） </name>
+<teacher> 林欣仕  </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復籃球高場                  光復籃球高場 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="366">
+<num>A2-366</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 籃球（男） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復籃球低場                  光復籃球低場 </place>
+<note></note>
+</A2>
+
+<A2 id="370">
+<num>A2-370</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 排球（男） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復排球場                    光復排球場 </place>
+<note></note>
+</A2>
+
+<A2 id="371">
+<num>A2-371</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 排球（男） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復排球場                    光復排球場 </place>
+<note></note>
+</A2>
+
+<A2 id="372">
+<num>A2-372</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 排球（男） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復排球場                    光復排球場 </place>
+<note></note>
+</A2>
+
+<A2 id="381">
+<num>A2-381</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 硬網（男） </name>
+<teacher> 李劍如  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="382">
+<num>A2-382</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 硬網（男） </name>
+<teacher> 李劍如  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="383">
+<num>A2-383</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 硬網（男） </name>
+<teacher> 馬上鈞  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光復網球場                    光復網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="384">
+<num>A2-384</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 硬網（男） </name>
+<teacher> 黃鈴雯  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 球具自備 </note>
+</A2>
+
+<A2 id="386">
+<num>A2-386</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="387">
+<num>A2-387</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 拳擊有氧（男女） </name>
+<teacher> 許又文  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休韻律教室                  健休韻律教室 </place>
+<note> 男女合班 </note>
+</A2>
+
+<A2 id="390">
+<num>A2-390</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 體適能運動（男） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休體適能                    健休體適能 </place>
+<note></note>
+</A2>
+
+<A2 id="391">
+<num>A2-391</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 體適能運動（男） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 健休體適能                    健休體適能 </place>
+<note></note>
+</A2>
+
+<A2 id="401">
+<num>A2-401</num>
+<class> 不限年級                      體育（男女生組）                                                       </class>
+<group></group>
+<name> 羽球（男、女） </name>
+<teacher> 涂國誠  </teacher>
+<score> 1 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note> 【男女合班，不可抵體育畢業學分】自備球具 </note>
+</A2>
+
+<A2 id="402">
+<num>A2-402</num>
+<class> 不限年級                      體育（男女生組）                                                       </class>
+<group></group>
+<name> 硬網（男、女） </name>
+<teacher> 李劍如  </teacher>
+<score> 1 </score>
+<time day1="3" s1="9" e1="10"> [3]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 【男女合班，不可抵體育畢業學分】球具自備 </note>
+</A2>
+
+<A2 id="501">
+<num>A2-501</num>
+<class></class>
+<group></group>
+<name> 男子田徑校隊 </name>
+<teacher> 林麗娟  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="502">
+<num>A2-502</num>
+<class></class>
+<group></group>
+<name> 女子田徑校隊 </name>
+<teacher> 黃滄海  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="503">
+<num>A2-503</num>
+<class></class>
+<group></group>
+<name> 男子游泳校隊 </name>
+<teacher> 洪甄憶  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="504">
+<num>A2-504</num>
+<class></class>
+<group></group>
+<name> 女子游泳校隊 </name>
+<teacher> 周學雯  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="505">
+<num>A2-505</num>
+<class></class>
+<group></group>
+<name> 男子籃球校隊 </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="506">
+<num>A2-506</num>
+<class></class>
+<group></group>
+<name> 女子籃球校隊 </name>
+<teacher> 高華君  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="507">
+<num>A2-507</num>
+<class></class>
+<group></group>
+<name> 男子排球校隊 </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="508">
+<num>A2-508</num>
+<class></class>
+<group></group>
+<name> 女子排球校隊 </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="509">
+<num>A2-509</num>
+<class></class>
+<group></group>
+<name> 足球校隊 </name>
+<teacher> 王駿濠  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="510">
+<num>A2-510</num>
+<class></class>
+<group></group>
+<name> 橄欖球校隊 </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="511">
+<num>A2-511</num>
+<class></class>
+<group></group>
+<name> 棒球校隊 </name>
+<teacher> 黃彥慈   ,  彭怡千  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="512">
+<num>A2-512</num>
+<class></class>
+<group></group>
+<name> 男子桌球校隊 </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="513">
+<num>A2-513</num>
+<class></class>
+<group></group>
+<name> 女子桌球校隊 </name>
+<teacher> 徐珊惠  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="514">
+<num>A2-514</num>
+<class></class>
+<group></group>
+<name> 男子羽球校隊 </name>
+<teacher> 涂國誠  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="515">
+<num>A2-515</num>
+<class></class>
+<group></group>
+<name> 女子羽球校隊 </name>
+<teacher> 蔡佳良  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="516">
+<num>A2-516</num>
+<class></class>
+<group></group>
+<name> 男子硬網校隊 </name>
+<teacher> 李劍如  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="517">
+<num>A2-517</num>
+<class></class>
+<group></group>
+<name> 女子硬網校隊 </name>
+<teacher> 馬上鈞  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="518">
+<num>A2-518</num>
+<class></class>
+<group></group>
+<name> 男子軟網校隊 </name>
+<teacher> 王苓華  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="519">
+<num>A2-519</num>
+<class></class>
+<group></group>
+<name> 女子軟網校隊 </name>
+<teacher> 王苓華  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="520">
+<num>A2-520</num>
+<class></class>
+<group></group>
+<name> 男子壘球校隊 </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="522">
+<num>A2-522</num>
+<class></class>
+<group></group>
+<name> 男子田徑校隊（一） </name>
+<teacher> 林麗娟  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="523">
+<num>A2-523</num>
+<class></class>
+<group></group>
+<name> 女子田徑校隊（一） </name>
+<teacher> 黃滄海  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="524">
+<num>A2-524</num>
+<class></class>
+<group></group>
+<name> 男子游泳校隊（一） </name>
+<teacher> 洪甄憶  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="525">
+<num>A2-525</num>
+<class></class>
+<group></group>
+<name> 女子游泳校隊（一） </name>
+<teacher> 周學雯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="526">
+<num>A2-526</num>
+<class></class>
+<group></group>
+<name> 男子籃球校隊（一） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="527">
+<num>A2-527</num>
+<class></class>
+<group></group>
+<name> 女子籃球校隊（一） </name>
+<teacher> 高華君  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="528">
+<num>A2-528</num>
+<class></class>
+<group></group>
+<name> 男子排球校隊（一） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="529">
+<num>A2-529</num>
+<class></class>
+<group></group>
+<name> 女子排球校隊（一） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="530">
+<num>A2-530</num>
+<class></class>
+<group></group>
+<name> 足球校隊（一） </name>
+<teacher> 王駿濠  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="531">
+<num>A2-531</num>
+<class></class>
+<group></group>
+<name> 橄欖球校隊（一） </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="532">
+<num>A2-532</num>
+<class></class>
+<group></group>
+<name> 棒球校隊（一） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="533">
+<num>A2-533</num>
+<class></class>
+<group></group>
+<name> 男子桌球校隊（一） </name>
+<teacher> 邱宏達  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="534">
+<num>A2-534</num>
+<class></class>
+<group></group>
+<name> 女子桌球校隊（一） </name>
+<teacher> 徐珊惠  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="535">
+<num>A2-535</num>
+<class></class>
+<group></group>
+<name> 男子羽球校隊（一） </name>
+<teacher> 涂國誠  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="536">
+<num>A2-536</num>
+<class></class>
+<group></group>
+<name> 女子羽球校隊（一） </name>
+<teacher> 蔡佳良  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="537">
+<num>A2-537</num>
+<class></class>
+<group></group>
+<name> 男子硬網校隊（一） </name>
+<teacher> 李劍如  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="538">
+<num>A2-538</num>
+<class></class>
+<group></group>
+<name> 女子硬網校隊（一） </name>
+<teacher> 馬上鈞  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="539">
+<num>A2-539</num>
+<class></class>
+<group></group>
+<name> 男子軟網校隊（一） </name>
+<teacher> 王苓華  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="540">
+<num>A2-540</num>
+<class></class>
+<group></group>
+<name> 女子軟網校隊（一） </name>
+<teacher> 王苓華  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+<A2 id="541">
+<num>A2-541</num>
+<class></class>
+<group></group>
+<name> 男子壘球校隊（一） </name>
+<teacher> 謝孟志  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A2>
+
+</content>

@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<A7 id="001">
+<num>A7-001</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李淑如  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 空中大學                      53101 </place>
+<note></note>
+</A7>
+
+<A7 id="002">
+<num>A7-002</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李京珮  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 建築研究大樓                  5172 </place>
+<note></note>
+</A7>
+
+<A7 id="003">
+<num>A7-003</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 邱詩雯  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 工管系館                      61101 </place>
+<note></note>
+</A7>
+
+<A7 id="004">
+<num>A7-004</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 吳文璋  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note></note>
+</A7>
+
+<A7 id="005">
+<num>A7-005</num>
+<class></class>
+<group></group>
+<name> 基礎國文(古典散文)（一） </name>
+<teacher> 林美惠  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 會計系館                      63101 </place>
+<note></note>
+</A7>
+
+<A7 id="006">
+<num>A7-006</num>
+<class></class>
+<group></group>
+<name> 基礎國文(現代詩)（一） </name>
+<teacher> 萬胥亭  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 企管系館                      62218 </place>
+<note></note>
+</A7>
+
+<A7 id="007">
+<num>A7-007</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 仇小屏  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A7>
+
+<A7 id="008">
+<num>A7-008</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 陳家煌  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1306(資源後) </place>
+<note></note>
+</A7>
+
+<A7 id="009">
+<num>A7-009</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 林耀潾  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 統計系館                      62223 </place>
+<note></note>
+</A7>
+
+<A7 id="012">
+<num>A7-012</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李淑如  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note></note>
+</A7>
+
+<A7 id="013">
+<num>A7-013</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李京珮  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1306(資源後) </place>
+<note></note>
+</A7>
+
+<A7 id="014">
+<num>A7-014</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 邱詩雯  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note></note>
+</A7>
+
+<A7 id="016">
+<num>A7-016</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李淑如  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1302 </place>
+<note></note>
+</A7>
+
+<A7 id="017">
+<num>A7-017</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李京珮  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A7>
+
+<A7 id="018">
+<num>A7-018</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 邱詩雯  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A7>
+
+<A7 id="019">
+<num>A7-019</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 林幸慧  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 工科系館                      41101 </place>
+<note></note>
+</A7>
+
+<A7 id="020">
+<num>A7-020</num>
+<class></class>
+<group></group>
+<name> 基礎國文(史傳文學)（一） </name>
+<teacher> 林美惠  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 生科系館                      3415 </place>
+<note></note>
+</A7>
+
+<A7 id="021">
+<num>A7-021</num>
+<class></class>
+<group></group>
+<name> 基礎國文(古典詩詞)（一） </name>
+<teacher> 賴麗娟  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 系統系館                      56111 </place>
+<note></note>
+</A7>
+
+<A7 id="022">
+<num>A7-022</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 林素娟  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 物理二館                      49X06 </place>
+<note></note>
+</A7>
+
+<A7 id="023">
+<num>A7-023</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 陳家煌  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 化學系館                      3275 </place>
+<note></note>
+</A7>
+
+<A7 id="024">
+<num>A7-024</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 陳弘學  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 水利系館                      4620 </place>
+<note></note>
+</A7>
+
+<A7 id="025">
+<num>A7-025</num>
+<class></class>
+<group></group>
+<name> 基礎國文(現代小說)（一） </name>
+<teacher> 蔡玫姿  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</A7>
+
+<A7 id="026">
+<num>A7-026</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 陳梅香  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 醫學院                        304D </place>
+<note></note>
+</A7>
+
+<A7 id="029">
+<num>A7-029</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李淑如  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 工管系館                      61104 </place>
+<note></note>
+</A7>
+
+<A7 id="030">
+<num>A7-030</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李京珮  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 數學系館                      3173 </place>
+<note></note>
+</A7>
+
+<A7 id="031">
+<num>A7-031</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 邱詩雯  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 測量系館                      55250 </place>
+<note></note>
+</A7>
+
+<A7 id="032">
+<num>A7-032</num>
+<class></class>
+<group></group>
+<name> 基礎國文(古典詩詞)（一） </name>
+<teacher> 林美惠  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note></note>
+</A7>
+
+<A7 id="033">
+<num>A7-033</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 高佑仁  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 唯農大樓                      7202 </place>
+<note></note>
+</A7>
+
+<A7 id="034">
+<num>A7-034</num>
+<class></class>
+<group></group>
+<name> 基礎國文(古典詩詞)（一） </name>
+<teacher> 賴麗娟  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note></note>
+</A7>
+
+<A7 id="035">
+<num>A7-035</num>
+<class></class>
+<group></group>
+<name> 基礎國文(現代小說)（一） </name>
+<teacher> 蔡玫姿  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 物理二館                      49X06 </place>
+<note></note>
+</A7>
+
+<A7 id="036">
+<num>A7-036</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 林幸慧  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1306(資源後) </place>
+<note></note>
+</A7>
+
+<A7 id="037">
+<num>A7-037</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 王翠玲  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 唯農大樓                      7117 </place>
+<note></note>
+</A7>
+
+<A7 id="038">
+<num>A7-038</num>
+<class></class>
+<group></group>
+<name> 基礎國文(現代小說)（一） </name>
+<teacher> 翁文嫻  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 空中大學                      53101 </place>
+<note></note>
+</A7>
+
+<A7 id="039">
+<num>A7-039</num>
+<class></class>
+<group></group>
+<name> 基礎國文(現代小說)（一） </name>
+<teacher> 蘇偉貞  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 企管系館                      62121 </place>
+<note></note>
+</A7>
+
+<A7 id="042">
+<num>A7-042</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李淑如  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 雲平大樓                      27808 </place>
+<note></note>
+</A7>
+
+<A7 id="043">
+<num>A7-043</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 李京珮  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 軍訓館                        6022 </place>
+<note></note>
+</A7>
+
+<A7 id="044">
+<num>A7-044</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 邱詩雯  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 物理二館                      49X06 </place>
+<note></note>
+</A7>
+
+<A7 id="045">
+<num>A7-045</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 王翠玲  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 唯農大樓                      7117 </place>
+<note></note>
+</A7>
+
+<A7 id="046">
+<num>A7-046</num>
+<class></class>
+<group></group>
+<name> 基礎國文(古典詩詞)（一） </name>
+<teacher> 陳美朱  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note></note>
+</A7>
+
+<A7 id="047">
+<num>A7-047</num>
+<class></class>
+<group></group>
+<name> 基礎國文(現代小說)（一） </name>
+<teacher> 蘇偉貞  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note></note>
+</A7>
+
+</content>

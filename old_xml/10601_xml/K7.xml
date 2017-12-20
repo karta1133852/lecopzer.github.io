@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K7 id="001">
+<num>K7-001</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 碩士論文寫作 </name>
+<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿   ,  左星樺   ,  莊家銘  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+<K7 id="002">
+<num>K7-002</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 資料選讀 </name>
+<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿   ,  左星樺   ,  莊家銘  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+<K7 id="004">
+<num>K7-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 臺灣南島民族誌 </name>
+<teacher> 鍾國風  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note> 欲報考本所學生之先修課程 </note>
+</K7>
+
+<K7 id="005">
+<num>K7-005</num>
+<class> 碩                             </class>
+<group></group>
+<name> 原住民考古學 </name>
+<teacher> 鍾國風  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+<K7 id="006">
+<num>K7-006</num>
+<class> 碩                             </class>
+<group></group>
+<name> 太平洋考古學 </name>
+<teacher> 邱斯嘉  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+<K7 id="007">
+<num>K7-007</num>
+<class> 碩                             </class>
+<group></group>
+<name> 石器分析 </name>
+<teacher> 趙金勇  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+<K7 id="008">
+<num>K7-008</num>
+<class> 碩                             </class>
+<group></group>
+<name> 古代文明專題 </name>
+<teacher> 左星樺  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27612 </place>
+<note> 英語授課 </note>
+</K7>
+
+<K7 id="010">
+<num>K7-010</num>
+<class> 碩                             </class>
+<group></group>
+<name> 博物館學理論與方法 </name>
+<teacher> 郭美芳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27612 </place>
+<note></note>
+</K7>
+
+<K7 id="012">
+<num>K7-012</num>
+<class> 碩                             </class>
+<group></group>
+<name> 遺址保存理論與實踐 </name>
+<teacher> 左星樺  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note> 英語授課 </note>
+</K7>
+
+<K7 id="013">
+<num>K7-013</num>
+<class> 碩                             </class>
+<group></group>
+<name> 空間分析與考古GIS應用 </name>
+<teacher> 熊仲卿  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+<K7 id="014">
+<num>K7-014</num>
+<class> 碩                             </class>
+<group></group>
+<name> 科技考古學 </name>
+<teacher> 莊家銘  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+<K7 id="015">
+<num>K7-015</num>
+<class> 碩                             </class>
+<group></group>
+<name> 考古學專業英文 </name>
+<teacher> 鍾國風   ,  劉益昌*  ,  趙金勇   ,  熊仲卿   ,  左星樺   ,  莊家銘  </teacher>
+<score> 1 </score>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
+</K7>
+
+</content>

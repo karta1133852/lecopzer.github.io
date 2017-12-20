@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<R6 id="001">
+<num>R6-001</num>
+<class> 碩                             </class>
+<group></group>
+<name> 財務管理 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="002">
+<num>R6-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 組織行為與人力資源研究方法 </name>
+<teacher> 史習安* </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="003">
+<num>R6-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際企業研究方法 </name>
+<teacher> 江明憲  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note> 限修過大學統計或數量方法相關課程者選修。 </note>
+</R6>
+
+<R6 id="004">
+<num>R6-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際投資理論 </name>
+<teacher> 江明憲  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="005">
+<num>R6-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 組織行為與領導 </name>
+<teacher> 史習安  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="006">
+<num>R6-006</num>
+<class> 碩                             </class>
+<group></group>
+<name> 國際財務管理 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="007">
+<num>R6-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 服務業行銷 </name>
+<teacher> 郭亞慧  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="008">
+<num>R6-008</num>
+<class> 碩                             </class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 史習安  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="009">
+<num>R6-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 行銷管理 </name>
+<teacher> 郭亞慧  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
+<R6 id="010">
+<num>R6-010</num>
+<class> 碩                             </class>
+<group></group>
+<name> 生物科技產業分析 </name>
+<teacher> 陳芃婷  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5731 </place>
+<note> 國企所與醫工所合開 </note>
+</R6>
+
+<R6 id="011">
+<num>R6-011</num>
+<class> 碩                             </class>
+<group></group>
+<name> 自我探索與職涯發展 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note></note>
+</R6>
+
+<R6 id="012">
+<num>R6-012</num>
+<class> 碩                             </class>
+<group></group>
+<name> 組織理論與管理 </name>
+<teacher> 林玟廷  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="013">
+<num>R6-013</num>
+<class> 碩                             </class>
+<group></group>
+<name> 中小企業管理 </name>
+<teacher> 林玟廷  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+<R6 id="014">
+<num>R6-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 家族企業與企業接班 </name>
+<teacher> 林玟廷  </teacher>
+<score> 3 </score>
+<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61413 </place>
+<note></note>
+</R6>
+
+</content>

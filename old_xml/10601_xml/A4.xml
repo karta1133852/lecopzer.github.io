@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<A4 id="101">
+<num>A4-101</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教育概論 </name>
+<teacher> 彭淑玲  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 教育基礎課程(4選2) </note>
+</A4>
+
+<A4 id="102">
+<num>A4-102</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教育心理學 </name>
+<teacher> 彭淑玲  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 教育基礎課程(4選2) </note>
+</A4>
+
+<A4 id="103">
+<num>A4-103</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教育社會學 </name>
+<teacher> 郭旭展  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 教育基礎課程(4選2) </note>
+</A4>
+
+<A4 id="201">
+<num>A4-201</num>
+<class> 學程                           </class>
+<group></group>
+<name> 輔導原理與實務 </name>
+<teacher> 饒夢霞  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      e化創新教室 </place>
+<note> 1.教育方法課程(6選3)。 2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="202">
+<num>A4-202</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教學原理 </name>
+<teacher> 于富雲  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 教育方法課程(6選3) </note>
+</A4>
+
+<A4 id="203">
+<num>A4-203</num>
+<class> 學程                           </class>
+<group></group>
+<name> 課程發展與設計 </name>
+<teacher> 楊琬琳  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 教育方法課程(6選3) </note>
+</A4>
+
+<A4 id="204">
+<num>A4-204</num>
+<class> 學程                           </class>
+<group></group>
+<name> 學習評量 </name>
+<teacher> 洪素蘋  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 教育方法課程(6選3) </note>
+</A4>
+
+<A4 id="205">
+<num>A4-205</num>
+<class> 學程                           </class>
+<group></group>
+<name> 教學媒體與運用 </name>
+<teacher> 楊琬琳  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      e化創新教室 </place>
+<note> 教育方法課程(6選3) </note>
+</A4>
+
+<A4 id="301">
+<num>A4-301</num>
+<class> 學程                           </class>
+<group></group>
+<name> 國文／語文領域本國語文教材教法 </name>
+<teacher> 仇小屏  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21101 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="302">
+<num>A4-302</num>
+<class> 學程                           </class>
+<group></group>
+<name> 英文／語文領域英語教材教法 </name>
+<teacher> 閔慧慈  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26401 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可 </note>
+</A4>
+
+<A4 id="303">
+<num>A4-303</num>
+<class> 學程                           </class>
+<group></group>
+<name> 數學／數學領域教材教法 </name>
+<teacher> 林景隆  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3175 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="304">
+<num>A4-304</num>
+<class> 學程                           </class>
+<group></group>
+<name> 歷史／社會領域歷史教材教法 </name>
+<teacher> 謝美娥  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7115 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="305">
+<num>A4-305</num>
+<class> 學程                           </class>
+<group></group>
+<name> 物理／自然與生活科技物理教材教法 </name>
+<teacher> 陳宜君  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49116 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="306">
+<num>A4-306</num>
+<class> 學程                           </class>
+<group></group>
+<name> 化學／自然與生活科技化學教材教法 </name>
+<teacher> 黃守仁  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3268 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="307">
+<num>A4-307</num>
+<class> 學程                           </class>
+<group></group>
+<name> 生物／自然與生活科技生物教材教法 </name>
+<teacher> 陳少燕  </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科系館                      3415 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="308">
+<num>A4-308</num>
+<class> 學程                           </class>
+<group></group>
+<name> 地球科學／自然與生活科技地球科學教材教法 </name>
+<teacher> 楊懷仁  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="309">
+<num>A4-309</num>
+<class> 學程                           </class>
+<group></group>
+<name> 公民與社會/社會領域公民教材教法 </name>
+<teacher> 莊輝濤  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80106 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="310">
+<num>A4-310</num>
+<class> 學程                           </class>
+<group></group>
+<name> 綜合活動領域輔導活動教材教法 </name>
+<teacher> 郭旭展  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="311">
+<num>A4-311</num>
+<class> 學程                           </class>
+<group></group>
+<name> 藝術生活科-視覺應用藝術教材教法 </name>
+<teacher> 吳奕芳  </teacher>
+<score> 2 </score>
+<time day1="3" s1="9" e1="10"> [3]9~A  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5452 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可修 </note>
+</A4>
+
+<A4 id="325">
+<num>A4-325</num>
+<class></class>
+<group></group>
+<name> 物理／自然與生活科技物理實習輔導 </name>
+<teacher> 陳宜君  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A4>
+
+<A4 id="330">
+<num>A4-330</num>
+<class></class>
+<group></group>
+<name> 藝術生活科-視覺應用藝術實習輔導 </name>
+<teacher> 吳奕芳  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A4>
+
+<A4 id="331">
+<num>A4-331</num>
+<class></class>
+<group></group>
+<name> 機械學群實習輔導 </name>
+<teacher> 施士塵  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A4>
+
+<A4 id="332">
+<num>A4-332</num>
+<class></class>
+<group></group>
+<name> 綜合活動領域輔導活動實習輔導 </name>
+<teacher> 洪素蘋  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A4>
+
+<A4 id="334">
+<num>A4-334</num>
+<class></class>
+<group></group>
+<name> 生物／自然與生活科技生物實習輔導 </name>
+<teacher> 陳少燕  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A4>
+
+<A4 id="401">
+<num>A4-401</num>
+<class> 學程                           </class>
+<group></group>
+<name> 綜合活動學習領域概論 </name>
+<teacher> 洪素蘋  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      e化創新教室 </place>
+<note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="402">
+<num>A4-402</num>
+<class> 學程                           </class>
+<group></group>
+<name> 家政教育概論 </name>
+<teacher> 張承晉  </teacher>
+<score> 2 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27808 </place>
+<note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="403">
+<num>A4-403</num>
+<class> 學程                           </class>
+<group></group>
+<name> 公民教育 </name>
+<teacher> 李國維  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="404">
+<num>A4-404</num>
+<class> 學程                           </class>
+<group></group>
+<name> 休閒教育 </name>
+<teacher> 朱朝煌  </teacher>
+<score> 2 </score>
+<time day1="3" s1="9" e1="10"> [3]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      e化創新教室 </place>
+<note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="405">
+<num>A4-405</num>
+<class> 學程                           </class>
+<group></group>
+<name> 家庭發展 </name>
+<teacher> 趙梅如  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      e化創新教室 </place>
+<note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="406">
+<num>A4-406</num>
+<class> 學程                           </class>
+<group></group>
+<name> 情緒教育 </name>
+<teacher> 饒夢霞  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+</content>

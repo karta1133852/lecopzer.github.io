@@ -1,0 +1,2621 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<A9 id="009">
+<num>A9-009</num>
+<class></class>
+<group></group>
+<name> 環境政策 </name>
+<teacher> 楊永年  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7217 </place>
+<note></note>
+</A9>
+
+<A9 id="010">
+<num>A9-010</num>
+<class></class>
+<group></group>
+<name> 全球暖化與極端氣候事件 </name>
+<teacher> 劉正千  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note> 科際整合相關領域：自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="011">
+<num>A9-011</num>
+<class></class>
+<group></group>
+<name> 西洋藝術史 </name>
+<teacher> 楊尹瑄  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 工管系館                      61104 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="012">
+<num>A9-012</num>
+<class></class>
+<group></group>
+<name> 傳統中國婦女與政治 </name>
+<teacher> 蔡幸娟  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 數學系館                      3173 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="013">
+<num>A9-013</num>
+<class></class>
+<group></group>
+<name> 宗教哲學 </name>
+<teacher> 張有恒  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 交管系館                      62107 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="014">
+<num>A9-014</num>
+<class></class>
+<group></group>
+<name> 台語諺語與歷史文化 </name>
+<teacher> 蔣為文  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="015">
+<num>A9-015</num>
+<class></class>
+<group></group>
+<name> 古代希臘文明 </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 測量系副館                    55150 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="016">
+<num>A9-016</num>
+<class></class>
+<group></group>
+<name> 講台語看語言佮社會 </name>
+<teacher> 蔡美慧  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 修齊大樓                      26406 </place>
+<note> 台語授課，領域通識 </note>
+</A9>
+
+<A9 id="025">
+<num>A9-025</num>
+<class></class>
+<group></group>
+<name> 公民社會 </name>
+<teacher> 蔡維音  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 空中大學                      53101 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="026">
+<num>A9-026</num>
+<class></class>
+<group></group>
+<name> 在旅行中發現法律 </name>
+<teacher> 葉婉如  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 社科院大樓                    80105 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="028">
+<num>A9-028</num>
+<class></class>
+<group></group>
+<name> 情緒與壓力管理 </name>
+<teacher> 鄭淑惠  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="030">
+<num>A9-030</num>
+<class></class>
+<group></group>
+<name> 肌膚的照護 </name>
+<teacher> 王德華  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        203D </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="041">
+<num>A9-041</num>
+<class></class>
+<group></group>
+<name> 水之禪 </name>
+<teacher> 黃煌煇  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 水利系館                      4622 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="042">
+<num>A9-042</num>
+<class></class>
+<group></group>
+<name> 應用化學與實驗 </name>
+<teacher> 黃守仁  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 理化大樓                      35102 </place>
+<note> 領域通識，限未修普化實驗者修。 </note>
+</A9>
+
+<A9 id="043">
+<num>A9-043</num>
+<class></class>
+<group></group>
+<name> 應用物理與實驗 </name>
+<teacher> 許瑞榮  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place></place>
+<note> 上課地點:普物實驗室35221;領域通識 </note>
+</A9>
+
+<A9 id="045">
+<num>A9-045</num>
+<class></class>
+<group></group>
+<name> 旅行地質學 </name>
+<teacher> 吳毓純  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 測量系副館                    55170 </place>
+<note> 科際整合相關領域：人文學、自然與工程科學 </note>
+</A9>
+
+<A9 id="046">
+<num>A9-046</num>
+<class></class>
+<group></group>
+<name> 生態工程概論 </name>
+<teacher> 陳景文  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 土木系館                      4509 </place>
+<note> 科際整合相關領域：自然與工程科學、生命科學與健康，與土木系合班 </note>
+</A9>
+
+<A9 id="051">
+<num>A9-051</num>
+<class></class>
+<group></group>
+<name> 電腦入門與應用 </name>
+<teacher> 陳明輝  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 資訊大樓                      75301 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="054">
+<num>A9-054</num>
+<class></class>
+<group></group>
+<name> 火 </name>
+<teacher> 林大惠  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 機械系館                      俊銘講堂 </place>
+<note> 領域通識;Moocs課程 </note>
+</A9>
+
+<A9 id="055">
+<num>A9-055</num>
+<class></class>
+<group></group>
+<name> 建築與抗震 </name>
+<teacher> 陳景文  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 土木系館                      4509 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="058">
+<num>A9-058</num>
+<class></class>
+<group></group>
+<name> 科技與國防 </name>
+<teacher> 郭文良  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 交管系館                      62105 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="059">
+<num>A9-059</num>
+<class></class>
+<group></group>
+<name> 影像編修入門 </name>
+<teacher> 楊家琛  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 資訊大樓                      75209 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="060">
+<num>A9-060</num>
+<class></class>
+<group></group>
+<name> R語言入門 </name>
+<teacher> 楊家琛  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 資訊大樓                      75209 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="061">
+<num>A9-061</num>
+<class></class>
+<group></group>
+<name> 生物多樣性 </name>
+<teacher> 蔣鎮宇   ,  陳少燕   ,  王浩文   ,  邱慈暉   ,  陳一菁   ,  仲澤剛史   ,  麥愛堂*  ,  吳文鑾   ,  劉景煌  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 生科系館                      3404 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="062">
+<num>A9-062</num>
+<class></class>
+<group></group>
+<name> 身體結構與功能 </name>
+<teacher> 張智仁  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="066">
+<num>A9-066</num>
+<class></class>
+<group></group>
+<name> 兒童青少年的健康 </name>
+<teacher> 楊燿榮  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        501 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="067">
+<num>A9-067</num>
+<class></class>
+<group></group>
+<name> 生物技術概論 </name>
+<teacher> 蕭世裕   ,  廖泓鈞   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  林翰佑   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="070">
+<num>A9-070</num>
+<class></class>
+<group></group>
+<name> 與婦產科醫師的對話 </name>
+<teacher> 劉明道  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="071">
+<num>A9-071</num>
+<class></class>
+<group></group>
+<name> 心血管生理病理學概論 </name>
+<teacher> 吳勝男  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 化學系館                      3267 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="074">
+<num>A9-074</num>
+<class></class>
+<group></group>
+<name> 醫學與健康 </name>
+<teacher> 陳育堂   ,  張金石*  ,  楊宜杰  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="081">
+<num>A9-081</num>
+<class></class>
+<group></group>
+<name> 金融講堂 </name>
+<teacher> 王澤世  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="083">
+<num>A9-083</num>
+<class></class>
+<group></group>
+<name> 從創意發明到專利保護 </name>
+<teacher> 張桂豪  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 化學系館                      3275 </place>
+<note> 科際整合相關領域：社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="101">
+<num>A9-101</num>
+<class></class>
+<group></group>
+<name> 音樂概論 </name>
+<teacher> 簡巧珍  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="103">
+<num>A9-103</num>
+<class></class>
+<group></group>
+<name> 音樂文化導引 </name>
+<teacher> 楊金峯  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 中文系館                      文學院演講廳 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="104">
+<num>A9-104</num>
+<class></class>
+<group></group>
+<name> 音樂舞蹈戲劇 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="105">
+<num>A9-105</num>
+<class></class>
+<group></group>
+<name> 口述歷史 </name>
+<teacher> 林德政  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 資源系館                      4353 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="112">
+<num>A9-112</num>
+<class></class>
+<group></group>
+<name> 音樂舞蹈戲劇 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="115">
+<num>A9-115</num>
+<class></class>
+<group></group>
+<name> 基督思想 </name>
+<teacher> 徐德修  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 土木系館                      4509 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="116">
+<num>A9-116</num>
+<class></class>
+<group></group>
+<name> 歷史畫賞鑑 </name>
+<teacher> 謝美娥  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7217 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="117">
+<num>A9-117</num>
+<class></class>
+<group></group>
+<name> 音樂舞蹈戲劇 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="118">
+<num>A9-118</num>
+<class></class>
+<group></group>
+<name> 中國文學導論 </name>
+<teacher> 林美惠  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 都計系館                      50204 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="119">
+<num>A9-119</num>
+<class></class>
+<group></group>
+<name> 短篇小說選讀 </name>
+<teacher> 于維杰  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 資源系館                      4352 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="120">
+<num>A9-120</num>
+<class></class>
+<group></group>
+<name> 先秦兩漢儒家思想 </name>
+<teacher> 吳文璋  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 物理二館                      49X06 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="121">
+<num>A9-121</num>
+<class></class>
+<group></group>
+<name> 應用統計 </name>
+<teacher> 鄭碧娥  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 統計系館                      62113 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="124">
+<num>A9-124</num>
+<class></class>
+<group></group>
+<name> 環境政策 </name>
+<teacher> 楊永年  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7217 </place>
+<note></note>
+</A9>
+
+<A9 id="125">
+<num>A9-125</num>
+<class></class>
+<group></group>
+<name> 社會實踐與社會企業 </name>
+<teacher> 王毓正  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 科際整合相關領域：人文學、社會科學 </note>
+</A9>
+
+<A9 id="126">
+<num>A9-126</num>
+<class></class>
+<group></group>
+<name> 社會與電影 </name>
+<teacher> 王金壽  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="127">
+<num>A9-127</num>
+<class></class>
+<group></group>
+<name> 家庭關係 </name>
+<teacher> 鄭淑惠  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 唯農大樓                      7302 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="129">
+<num>A9-129</num>
+<class></class>
+<group></group>
+<name> 創意思考 </name>
+<teacher> 梁文韜  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="131">
+<num>A9-131</num>
+<class></class>
+<group></group>
+<name> 倫理學 </name>
+<teacher> 葉海煙  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7309 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="132">
+<num>A9-132</num>
+<class></class>
+<group></group>
+<name> 哲學概論 </name>
+<teacher> 葉海煙  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7309 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="133">
+<num>A9-133</num>
+<class></class>
+<group></group>
+<name> 音樂概論 </name>
+<teacher> 簡巧珍  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="135">
+<num>A9-135</num>
+<class></class>
+<group></group>
+<name> 音樂概論 </name>
+<teacher> 簡巧珍  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="138">
+<num>A9-138</num>
+<class></class>
+<group></group>
+<name> 考古發現與歷史新貌 </name>
+<teacher> 涂宗呈  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 會計系館                      63102 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="140">
+<num>A9-140</num>
+<class></class>
+<group></group>
+<name> 實用中文及寫作 </name>
+<teacher> 陳金雄  </teacher>
+<score> 2 </score>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="143">
+<num>A9-143</num>
+<class></class>
+<group></group>
+<name> 工程概論 </name>
+<teacher> 常正之   ,  林睿哲* </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="145">
+<num>A9-145</num>
+<class></class>
+<group></group>
+<name> 環境污染與防治 </name>
+<teacher> 王鴻博  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 環工系館                      47114 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="146">
+<num>A9-146</num>
+<class></class>
+<group></group>
+<name> 科技與國防 </name>
+<teacher> 郭文良  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 土木系館                      4505 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="147">
+<num>A9-147</num>
+<class></class>
+<group></group>
+<name> 光電科技導論 </name>
+<teacher> 陳宣燁  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 綜合大樓                      48217 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="148">
+<num>A9-148</num>
+<class></class>
+<group></group>
+<name> 應用電學 </name>
+<teacher> 張凌昇  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="150">
+<num>A9-150</num>
+<class></class>
+<group></group>
+<name> 認識地震 </name>
+<teacher> 樂鍇．祿璞崚岸  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 地科系館                      3035 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="153">
+<num>A9-153</num>
+<class></class>
+<group></group>
+<name> 界面化學的生活應用 </name>
+<teacher> 陳炳宏  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 化工系館                      柏林講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="161">
+<num>A9-161</num>
+<class></class>
+<group></group>
+<name> 物理治療與健康 </name>
+<teacher> 楊政峰  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        208 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="163">
+<num>A9-163</num>
+<class></class>
+<group></group>
+<name> 職能治療與健康 </name>
+<teacher> 黃雅淑*  ,  汪翠瀅   ,  林玲伊   ,  徐秀雲   ,  黃百川   ,  張雁晴  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        501 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="164">
+<num>A9-164</num>
+<class></class>
+<group></group>
+<name> 檢驗醫學概論 </name>
+<teacher> 葉才明  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫技醫工館                    5776 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="165">
+<num>A9-165</num>
+<class></class>
+<group></group>
+<name> 食品營養與健康 </name>
+<teacher> 郭素娥  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 空中大學                      53101 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="166">
+<num>A9-166</num>
+<class></class>
+<group></group>
+<name> 從醫學看健康生活 </name>
+<teacher> 何月仁  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        602 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="167">
+<num>A9-167</num>
+<class></class>
+<group></group>
+<name> 運動傷害防護概論 </name>
+<teacher> 蔡一如  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 電機系館                      92225 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="168">
+<num>A9-168</num>
+<class></class>
+<group></group>
+<name> 中醫食療 </name>
+<teacher> 洪欣儀*  ,  林少紅  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        304D </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="170">
+<num>A9-170</num>
+<class></class>
+<group></group>
+<name> 防災科技管理概論 </name>
+<teacher> 蔣麗君*  ,  劉光晏   ,  姚昭智   ,  詹錢登   ,  孫建平   ,  周乃昉   ,  游保杉   ,  黃泰霖   ,  林漢良   ,  何俊亨  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 科際整合相關領域：社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="172">
+<num>A9-172</num>
+<class></class>
+<group></group>
+<name> 動物寄生蟲與生活 </name>
+<teacher> 辛致煒*  ,  林威辰  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="174">
+<num>A9-174</num>
+<class></class>
+<group></group>
+<name> 西方科技史：19 世紀至今 </name>
+<teacher> 區曣中  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note> 英語授課;科際整合相關領域：人文學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="175">
+<num>A9-175</num>
+<class></class>
+<group></group>
+<name> 西拉雅語文數位復育及線上教育 </name>
+<teacher> 方雅慧   ,  陳麗君   ,  楊中平*  ,  盧文祥  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 資訊系館                      4201 </place>
+<note> 科際整合相關領域：人文學、自然與工程科學 </note>
+</A9>
+
+<A9 id="176">
+<num>A9-176</num>
+<class></class>
+<group></group>
+<name> 服務創新科技應用 </name>
+<teacher> 陸定邦  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7113 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="179">
+<num>A9-179</num>
+<class></class>
+<group></group>
+<name> 三創與設計思維 </name>
+<teacher> 劉世南  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 英語授課，科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="181">
+<num>A9-181</num>
+<class></class>
+<group></group>
+<name> 生涯規劃-奇景光電精英論壇 </name>
+<teacher> 黃肇瑞  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 照坤精密儀器大樓              95403 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="200">
+<num>A9-200</num>
+<class></class>
+<group></group>
+<name> 女性文學選讀 </name>
+<teacher> 賴麗娟  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 土木系館                      4501 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="201">
+<num>A9-201</num>
+<class></class>
+<group></group>
+<name> 先秦兩漢儒家思想 </name>
+<teacher> 吳文璋  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 土木系館                      4502 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="202">
+<num>A9-202</num>
+<class></class>
+<group></group>
+<name> 台灣傳統戲曲賞析 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7404 </place>
+<note> 英語授課,104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="203">
+<num>A9-203</num>
+<class></class>
+<group></group>
+<name> 藝術叩門 </name>
+<teacher> 高美華*  ,  郭昌恕  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="204">
+<num>A9-204</num>
+<class></class>
+<group></group>
+<name> 社會經濟史 </name>
+<teacher> 高淑媛  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 資源系館                      4352 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="205">
+<num>A9-205</num>
+<class></class>
+<group></group>
+<name> 西方古典音樂 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="206">
+<num>A9-206</num>
+<class></class>
+<group></group>
+<name> 台灣傳統戲曲賞析 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note> 英語授課,104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="207">
+<num>A9-207</num>
+<class></class>
+<group></group>
+<name> 西方古典音樂 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="208">
+<num>A9-208</num>
+<class></class>
+<group></group>
+<name> 西方古典音樂 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="210">
+<num>A9-210</num>
+<class></class>
+<group></group>
+<name> 宗教哲學 </name>
+<teacher> 楊哲銘  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 中文系館                      文學院演講廳 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="211">
+<num>A9-211</num>
+<class></class>
+<group></group>
+<name> 成功學 </name>
+<teacher> 鄭匡佑  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 修齊大樓                      修齊講堂 </place>
+<note> 英語授課，科際整合相關領域：人文學、社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="212">
+<num>A9-212</num>
+<class></class>
+<group></group>
+<name> 三創與設計思維 </name>
+<teacher> 周君瑞   ,  陳璽任* </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 共同教室                      A1302 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="213">
+<num>A9-213</num>
+<class></class>
+<group></group>
+<name> 航空科技與文化 </name>
+<teacher> 景鴻鑫  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 航太系館                      繼昌講堂 </place>
+<note> 科際整合相關領域：人文學、自然與工程科學 </note>
+</A9>
+
+<A9 id="214">
+<num>A9-214</num>
+<class></class>
+<group></group>
+<name> 科學傳播概論 </name>
+<teacher> 黃紀茸   ,  李旺龍* </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note> 遠距教學,科際整合相關領域：社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="215">
+<num>A9-215</num>
+<class></class>
+<group></group>
+<name> 環境,職業與健康人生 </name>
+<teacher> 郭耀昌  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="218">
+<num>A9-218</num>
+<class></class>
+<group></group>
+<name> 戲劇與電影 </name>
+<teacher> 陳佳彬  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="219">
+<num>A9-219</num>
+<class></class>
+<group></group>
+<name> 藝術、設計與生活 </name>
+<teacher> 王雅倫  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 空中大學                      53101 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="224">
+<num>A9-224</num>
+<class></class>
+<group></group>
+<name> 社會設計的方案規劃與實踐 </name>
+<teacher> 方雅慧  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7110 </place>
+<note> 科際整合課程相關領域：人文學、社會科學；融入服務學習內涵之專業課程 </note>
+</A9>
+
+<A9 id="225">
+<num>A9-225</num>
+<class></class>
+<group></group>
+<name> 無障礙生活與環境 </name>
+<teacher> 鄭淑惠  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 唯農大樓                      7215 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="232">
+<num>A9-232</num>
+<class></class>
+<group></group>
+<name> 憲政民主體制 </name>
+<teacher> 潘台雄  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="234">
+<num>A9-234</num>
+<class></class>
+<group></group>
+<name> 心理學 </name>
+<teacher> 林君昱   ,  黃碧群* </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="236">
+<num>A9-236</num>
+<class></class>
+<group></group>
+<name> 人、動物與倫理 </name>
+<teacher> 李鑑慧  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 企管系館                      62229 </place>
+<note> 英語授課，領域通識 </note>
+</A9>
+
+<A9 id="237">
+<num>A9-237</num>
+<class></class>
+<group></group>
+<name> 戲劇與小說 </name>
+<teacher> 陳佳彬  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="238">
+<num>A9-238</num>
+<class></class>
+<group></group>
+<name> 戲劇賞析 </name>
+<teacher> 高美華*  ,  林幸慧   ,  秦嘉嫄   ,  顧　盼   ,  劉南芳   ,  朱芳慧   ,  陳佳彬   ,  李欣怡  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 中文系館                      文學院演講廳 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="239">
+<num>A9-239</num>
+<class></class>
+<group></group>
+<name> 古蹟與文化 </name>
+<teacher> 何培夫  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="240">
+<num>A9-240</num>
+<class></class>
+<group></group>
+<name> 決策藝術 </name>
+<teacher> 高　強  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 工管系館                      61200 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="241">
+<num>A9-241</num>
+<class></class>
+<group></group>
+<name> 智慧綠生活 </name>
+<teacher> 林子平   ,  葉玉祥   ,  宋立文*  ,  張秀慈   ,  葉如萍   ,  周君瑞   ,  洪郁修   ,  陳璽任   ,  仲曉玲   ,  林蕙玟  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<note> 科際整合相關領域: 人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="242">
+<num>A9-242</num>
+<class></class>
+<group></group>
+<name> 環境污染與防治 </name>
+<teacher> 周佩欣  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 環工系館                      47118 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="243">
+<num>A9-243</num>
+<class></class>
+<group></group>
+<name> 科技與國防 </name>
+<teacher> 郭文良  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 資源系館                      4353 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="244">
+<num>A9-244</num>
+<class></class>
+<group></group>
+<name> 工程概論 </name>
+<teacher> 常正之   ,  林睿哲* </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="246">
+<num>A9-246</num>
+<class></class>
+<group></group>
+<name> WWW網頁設計 </name>
+<teacher> 陳明輝  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 資訊大樓                      75301 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="247">
+<num>A9-247</num>
+<class></class>
+<group></group>
+<name> 科技與國防 </name>
+<teacher> 郭文良  </teacher>
+<score> 2 </score>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 唯農大樓                      7302 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="260">
+<num>A9-260</num>
+<class></class>
+<group></group>
+<name> 健康促進 </name>
+<teacher> 蔡昆霖  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 資源系館                      4354 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="261">
+<num>A9-261</num>
+<class></class>
+<group></group>
+<name> 運動與健康 </name>
+<teacher> 林麗娟  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
+<note> MOOCS，領域通識 </note>
+</A9>
+
+<A9 id="267">
+<num>A9-267</num>
+<class></class>
+<group></group>
+<name> 口腔疾病與保健 </name>
+<teacher> 陳永崇  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        501 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="271">
+<num>A9-271</num>
+<class></class>
+<group></group>
+<name> 醫學生物技術概論 </name>
+<teacher> 蔡佩珍  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫技醫工館                    5776 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="272">
+<num>A9-272</num>
+<class></class>
+<group></group>
+<name> 認識基因 </name>
+<teacher> 胥直利  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="275">
+<num>A9-275</num>
+<class></class>
+<group></group>
+<name> 資訊倫理議題省思 </name>
+<teacher> 謝佩璇  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 企管系館                      62231 </place>
+<note> 科際整合相關領域：人文學、社會科學 </note>
+</A9>
+
+<A9 id="276">
+<num>A9-276</num>
+<class></class>
+<group></group>
+<name> 西方科技史：19 世紀至今 </name>
+<teacher> 區曣中  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 共同教室                      A1303 </place>
+<note> 英語授課;科際整合相關領域：人文學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="277">
+<num>A9-277</num>
+<class></class>
+<group></group>
+<name> 美學藝術生活實踐 </name>
+<teacher> 張天豪   ,  吳光庭*  ,  吳奕芳  </teacher>
+<score> 1 </score>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 上課教室：成大藝坊；；科際整合相關領域：人文學、社會科學。至少修過一門進階實作實習課程。 </note>
+</A9>
+
+<A9 id="279">
+<num>A9-279</num>
+<class></class>
+<group></group>
+<name> 生態、倫理與在地實踐 </name>
+<teacher> 蕭惠中*  ,  鍾怡婷   ,  李亞夫  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7217 </place>
+<note> 科際整合相關領域：人文學、社會科學、生命科學與健康;融入服務學習內涵之專業課程 </note>
+</A9>
+
+<A9 id="281">
+<num>A9-281</num>
+<class></class>
+<group></group>
+<name> 愛爾蘭歷史與文化 </name>
+<teacher> 張勝柏  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 企管系館                      62210 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="282">
+<num>A9-282</num>
+<class></class>
+<group></group>
+<name> 性別與社會 </name>
+<teacher> 陸偉明  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 科際整合領域  相關領域：人文學、社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="302">
+<num>A9-302</num>
+<class></class>
+<group></group>
+<name> 流行樂賞析與實務 </name>
+<teacher> 楊金峯  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7113 </place>
+<note> 為MOOCS磨課師課程,104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="303">
+<num>A9-303</num>
+<class></class>
+<group></group>
+<name> 劇場表演與創意 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 交管系館                      62102 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="307">
+<num>A9-307</num>
+<class></class>
+<group></group>
+<name> 短篇小說選讀 </name>
+<teacher> 于維杰  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 電機系館                      92171 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="310">
+<num>A9-310</num>
+<class></class>
+<group></group>
+<name> 劇場表演與創意 </name>
+<teacher> 李欣怡  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 交管系館                      62102 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="311">
+<num>A9-311</num>
+<class></class>
+<group></group>
+<name> 客家文化導論 </name>
+<teacher> 林裕城  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 工科系館                      41104 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="312">
+<num>A9-312</num>
+<class></class>
+<group></group>
+<name> 臺灣古典文學 </name>
+<teacher> 賴麗娟  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7404 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="313">
+<num>A9-313</num>
+<class></class>
+<group></group>
+<name> 生技研發成果商品化導論 </name>
+<teacher> 侯明欽  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 測量系館                      55250 </place>
+<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="314">
+<num>A9-314</num>
+<class></class>
+<group></group>
+<name> 校園文化資產 </name>
+<teacher> 郭美芳   ,  顧　盼*  ,  陳政宏  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note> 科際整合相關領域：人文學、社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="315">
+<num>A9-315</num>
+<class></class>
+<group></group>
+<name> 學術倫理-負責任的學術研究行為101 </name>
+<teacher> 甘偵蓉  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 交管系館                      62105 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="316">
+<num>A9-316</num>
+<class></class>
+<group></group>
+<name> 從法律觀點看社會議題 </name>
+<teacher> 古承宗  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 科際整合相關領域：社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="317">
+<num>A9-317</num>
+<class></class>
+<group></group>
+<name> 民族學觀點的東南亞建築民居文化 </name>
+<teacher> 林憲德  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 都計系館                      50202 </place>
+<note> 科際整合相關領域：人文學、社會科學 </note>
+</A9>
+
+<A9 id="318">
+<num>A9-318</num>
+<class></class>
+<group></group>
+<name> 先秦兩漢儒家思想 </name>
+<teacher> 林美惠  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7215 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="320">
+<num>A9-320</num>
+<class></class>
+<group></group>
+<name> 女性文學選讀 </name>
+<teacher> 賴麗娟  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 數學系館                      3172 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="324">
+<num>A9-324</num>
+<class></class>
+<group></group>
+<name> 女性與運動 </name>
+<teacher> 徐珊惠  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 共同教室                      A1301 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="325">
+<num>A9-325</num>
+<class></class>
+<group></group>
+<name> 心理學 </name>
+<teacher> 周麗芳*  ,  胡中凡  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="326">
+<num>A9-326</num>
+<class></class>
+<group></group>
+<name> 性別關係 </name>
+<teacher> 徐珊惠*  ,  陸偉明  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 共同教室                      A1306(資源後) </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="327">
+<num>A9-327</num>
+<class></class>
+<group></group>
+<name> 社會學概論 </name>
+<teacher> 李承機  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 唯農大樓                      7313 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="328">
+<num>A9-328</num>
+<class></class>
+<group></group>
+<name> 生涯發展 </name>
+<teacher> 鄭淑惠  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 都計系館                      50204 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="329">
+<num>A9-329</num>
+<class></class>
+<group></group>
+<name> 法學緒論 </name>
+<teacher> 莊輝濤  </teacher>
+<score> 2 </score>
+<time day1="4" s1="8" e1="9"> [4]8~9  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 社科院大樓                    80101 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="330">
+<num>A9-330</num>
+<class></class>
+<group></group>
+<name> 政治學概論 </name>
+<teacher> 莊輝濤  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 社科院大樓                    80101 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="350">
+<num>A9-350</num>
+<class></class>
+<group></group>
+<name> 科技與國防 </name>
+<teacher> 郭文良  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 企管系館                      62210 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="361">
+<num>A9-361</num>
+<class></class>
+<group></group>
+<name> 水產養殖與健康 </name>
+<teacher> 辛致煒  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        第二講堂 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="363">
+<num>A9-363</num>
+<class></class>
+<group></group>
+<name> 中藥與健康 </name>
+<teacher> 吳天賞  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="365">
+<num>A9-365</num>
+<class></class>
+<group></group>
+<name> 日常生活中的微生物 </name>
+<teacher> 辛致煒   ,  楊倍昌   ,  黃一修* </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 醫技醫工館                    5776 </place>
+<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="367">
+<num>A9-367</num>
+<class></class>
+<group></group>
+<name> 急難救助 </name>
+<teacher> 紀志賢*  ,  林志豪   ,  許以霖   ,  施欣怡   ,  何宗憲   ,  王世敏   ,  李忠勳   ,  洪明原   ,  莊佳璋  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 領域通識，限大學部學生，不接受特殊因素人工加簽 </note>
+</A9>
+
+<A9 id="370">
+<num>A9-370</num>
+<class></class>
+<group></group>
+<name> 基因密碼 </name>
+<teacher> 張文綺  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 企管系館                      62218 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="376">
+<num>A9-376</num>
+<class></class>
+<group></group>
+<name> 日常科技在臺灣 </name>
+<teacher> 許宏彬  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 護理系館                      85X09 </place>
+<note> 科際整合相關領域：人文學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="378">
+<num>A9-378</num>
+<class></class>
+<group></group>
+<name> 當代全球健康議題 </name>
+<teacher> 徐之昇  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 化工系館                      柏林講堂 </place>
+<note> 英語授課，科際整合相關領域：人文、社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="380">
+<num>A9-380</num>
+<class></class>
+<group></group>
+<name> 中國哲學概論 </name>
+<teacher> 陳弘學  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="381">
+<num>A9-381</num>
+<class></class>
+<group></group>
+<name> 哲學概論 </name>
+<teacher> 陳弘學  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      許文龍講堂 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="401">
+<num>A9-401</num>
+<class></class>
+<group></group>
+<name> 戲劇製作 </name>
+<teacher> 林幸慧*  ,  秦嘉嫄   ,  顧　盼   ,  李欣怡  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 中文系館                      21101 </place>
+<note> 密集授課，工作坊形式進行，第1週與第18週需至課堂教室上課，餘上課時間為106年10月14日至10月24日週末，詳參大綱;領域通識 </note>
+</A9>
+
+<A9 id="402">
+<num>A9-402</num>
+<class></class>
+<group></group>
+<name> 法政哲學 </name>
+<teacher> 陳弘學  </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="405">
+<num>A9-405</num>
+<class></class>
+<group></group>
+<name> 歷史通論 </name>
+<teacher> 蔡幸娟  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 測量系副館                    55150 </place>
+<note> 過去與現代的對話,104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="406">
+<num>A9-406</num>
+<class></class>
+<group></group>
+<name> 社會經濟史 </name>
+<teacher> 高淑媛  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 唯農大樓                      7211 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="409">
+<num>A9-409</num>
+<class></class>
+<group></group>
+<name> 藝術史與藝術批評 </name>
+<teacher> 蕭瓊瑞  </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 資源系館                      4354 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="410">
+<num>A9-410</num>
+<class></class>
+<group></group>
+<name> 西方古典音樂 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="411">
+<num>A9-411</num>
+<class></class>
+<group></group>
+<name> 藝術、設計與生活 </name>
+<teacher> 王雅倫  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 空中大學                      53101 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="412">
+<num>A9-412</num>
+<class></class>
+<group></group>
+<name> 音樂舞蹈戲劇 </name>
+<teacher> 林怡薇  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="415">
+<num>A9-415</num>
+<class></class>
+<group></group>
+<name> 無障礙智慧生活環境 </name>
+<teacher> 洪菁霞  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 物治系館                      B02 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="416">
+<num>A9-416</num>
+<class></class>
+<group></group>
+<name> 科技與生命價值 </name>
+<teacher> 鄭淑惠   ,  賴麗娟   ,  張書銓   ,  方冠榮   ,  邵揮洲*  ,  洪郁修   ,  李欣怡   ,  楊大和   ,  楊曉瑩   ,  蔡美玲  </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 化學系館                      3268 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="417">
+<num>A9-417</num>
+<class></class>
+<group></group>
+<name> 生醫用工程學導論 </name>
+<teacher> 林睿哲   ,  王士豪   ,  張憲彰   ,  張志涵   ,  葉明龍*  ,  胡晉嘉   ,  鄭國順   ,  莊漢聲   ,  黃執中   ,  方佑華   ,  吳炳慶   ,  林哲偉   ,  涂庭源   ,  李澤民  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> 科際整合相關領域：自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="419">
+<num>A9-419</num>
+<class></class>
+<group></group>
+<name> 國際服務產業趨勢與發展 </name>
+<teacher> 楊佳翰  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="430">
+<num>A9-430</num>
+<class></class>
+<group></group>
+<name> 法學緒論 </name>
+<teacher> 蔡文斌  </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 雲平大樓                      27103(通識中心 </place>
+<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+</A9>
+
+<A9 id="431">
+<num>A9-431</num>
+<class></class>
+<group></group>
+<name> 經濟學概論 </name>
+<teacher> 翁明宏  </teacher>
+<score> 2 </score>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 社科院大樓                    80205 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="432">
+<num>A9-432</num>
+<class></class>
+<group></group>
+<name> 經濟學概論 </name>
+<teacher> 翁明宏  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 社科院大樓                    80205 </place>
+<note> 英語授課,領域通識 </note>
+</A9>
+
+<A9 id="433">
+<num>A9-433</num>
+<class></class>
+<group></group>
+<name> 認識台灣經濟 </name>
+<teacher> 蔡仰虔  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 空中大學                      53101 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="467">
+<num>A9-467</num>
+<class></class>
+<group></group>
+<name> 生命科學概論 </name>
+<teacher> 蔣鎮宇   ,  陳少燕   ,  宋皇模   ,  何盧勳   ,  張松彬*  ,  廖泓鈞   ,  劉雅心   ,  邱慈暉   ,  陳一菁   ,  李純純   ,  仲澤剛史   ,  彭怡禎   ,  吳文鑾   ,  王涵青   ,  李瑞花  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 生科系館                      3404 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="468">
+<num>A9-468</num>
+<class></class>
+<group></group>
+<name> 科學的邏輯－以生物學為例 </name>
+<teacher> 楊倍昌  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 醫學院                        303D </place>
+<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="469">
+<num>A9-469</num>
+<class></class>
+<group></group>
+<name> 創新設計 </name>
+<teacher> 謝孟達*  ,  周君瑞* </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
+</A9>
+
+<A9 id="503">
+<num>A9-503</num>
+<class></class>
+<group></group>
+<name> 表演藝術綜論實作實習：音樂劇與流行歌 </name>
+<teacher> 楊金峯  </teacher>
+<score> 4 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="504">
+<num>A9-504</num>
+<class></class>
+<group></group>
+<name> 視覺藝術綜論實作實習：形體與空間感知 </name>
+<teacher> 陳穎澤  </teacher>
+<score> 4 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="505">
+<num>A9-505</num>
+<class></class>
+<group></group>
+<name> 設計藝術綜論實作實習 </name>
+<teacher> 宋立文*  ,  洪郁修  </teacher>
+<score> 4 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="531">
+<num>A9-531</num>
+<class></class>
+<group></group>
+<name> 通識領袖論壇 </name>
+<teacher> 鄭泰昇*  ,  利德江  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note></note>
+</A9>
+
+<A9 id="542">
+<num>A9-542</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（一） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="543">
+<num>A9-543</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（二） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="544">
+<num>A9-544</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（三） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="545">
+<num>A9-545</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（一） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="546">
+<num>A9-546</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（甲） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="547">
+<num>A9-547</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（乙） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="548">
+<num>A9-548</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（丙） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="549">
+<num>A9-549</num>
+<class></class>
+<group></group>
+<name> 通識教育生活實踐（丁） </name>
+<teacher> 徐珊惠* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="551">
+<num>A9-551</num>
+<class></class>
+<group></group>
+<name> 日常疼痛控制 </name>
+<teacher> 陳文玲  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="571">
+<num>A9-571</num>
+<class></class>
+<group></group>
+<name> 臺灣綜合大學通識巡迴講座-環境生態保育 </name>
+<teacher> 張怡玲  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note></note>
+</A9>
+
+<A9 id="573">
+<num>A9-573</num>
+<class></class>
+<group></group>
+<name> 通識專題講座-大學導航 </name>
+<teacher> 徐珊惠*  ,  許瑞榮   ,  邵揮洲   ,  吳豐光   ,  湯銘哲  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 融合通識 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 限一年級修習 </note>
+</A9>
+
+<A9 id="574">
+<num>A9-574</num>
+<class></class>
+<group></group>
+<name> 踏溯台南 </name>
+<teacher> 郭美芳   ,  陳家煌   ,  邱詩雯   ,  陳玉女*  ,  陳文松   ,  陳計堯   ,  李啟彰   ,  游勝冠   ,  黃崇明   ,  陳佳彬   ,  鍾國風   ,  劉益昌   ,  熊仲卿  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="575">
+<num>A9-575</num>
+<class></class>
+<group></group>
+<name> 踏溯台南 </name>
+<teacher> 高實玫*  ,  吳少方   ,  柯瓊琪   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  辛佳玲  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+</content>

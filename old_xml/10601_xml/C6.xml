@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<C6 id="005">
+<num>C6-005</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</C6>
+
+<C6 id="006">
+<num>C6-006</num>
+<class></class>
+<group></group>
+<name> 普通化學 </name>
+<teacher> 孫亦文*  ,  周鶴軒   ,  鄭沐政  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="8" day2="4" s2="5" e2="6"> [1]7~8  ,  [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      47X52 </place>
+<note> 生技系與土木甲乙合班 </note>
+</C6>
+
+<C6 id="007">
+<num>C6-007</num>
+<class></class>
+<group></group>
+<name> 普通生物學（一） </name>
+<teacher> 王涵青*  ,  曾大千   ,  洪良宜   ,  郭瑋君  </teacher>
+<score> 4 </score>
+<time day1="4" s1="3" e1="4" day2="3" s2="3" e2="4"> [4]3~4  ,  [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note></note>
+</C6>
+
+<C6 id="008">
+<num>C6-008</num>
+<class></class>
+<group></group>
+<name> 普通生物學實驗（一） </name>
+<teacher> 張純純*  ,  曾大千   ,  洪良宜   ,  盧福翊   ,  郭瑋君  </teacher>
+<score> 1 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3435 </place>
+<note></note>
+</C6>
+
+<C6 id="010">
+<num>C6-010</num>
+<class></class>
+<group></group>
+<name> 生技產業概論 </name>
+<teacher> 陳宗嶽   ,  張清俊   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  洪建中   ,  陳炳焜   ,  羅竹芳   ,  林士鳴*  ,  蔡少正  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="011">
+<num>C6-011</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 曾大千*  ,  林鼎晏   ,  林士鳴   ,  郭瑋君  </teacher>
+<score> 0 </score>
+<time day1="4" s1="1" e1="1"> [4]1  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="018">
+<num>C6-018</num>
+<class></class>
+<group></group>
+<name> 微積分（一） </name>
+<teacher> 沈士育  </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      柏林講堂 </place>
+<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（一） </name1>
+<time1 day1="3" s1="2" e1="2"> [3]2  </time1>
+<place1> 化工系館                      柏林講堂 </place1>
+<note1></note1>
+</C6>
+
+<C6 id="019">
+<num>C6-019</num>
+<class></class>
+<group></group>
+<name> 普通化學實驗 </name>
+<teacher> 吳欣倫  </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 理化大樓                      35121 </place>
+<note></note>
+</C6>
+
+<C6 id="055">
+<num>C6-055</num>
+<class></class>
+<group></group>
+<name> 生物化學（一） </name>
+<teacher> 張清俊*  ,  陳逸民   ,  羅玉枝   ,  林士鳴  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="056">
+<num>C6-056</num>
+<class></class>
+<group></group>
+<name> 分子生物學 </name>
+<teacher> 陳炳焜*  ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="8" day2="3" s2="2" e2="2"> [4]7~8  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="057">
+<num>C6-057</num>
+<class></class>
+<group></group>
+<name> 生物技術核心實驗（一） </name>
+<teacher> 陳逸民*  ,  王涵青   ,  林士鳴  </teacher>
+<score> 1 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      3458 </place>
+<note></note>
+</C6>
+
+<C6 id="058">
+<num>C6-058</num>
+<class></class>
+<group></group>
+<name> 生物統計 </name>
+<teacher> 曾大千* </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="059">
+<num>C6-059</num>
+<class></class>
+<group></group>
+<name> 轉譯生物學概論 </name>
+<teacher> 王涵青*  ,  林士鳴  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="060">
+<num>C6-060</num>
+<class></class>
+<group></group>
+<name> 醫藥生技與產業概論 </name>
+<teacher> 曾大千   ,  陳炳焜*  ,  陳芃婷   ,  楊岱樺   ,  張雅雯  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note> 生技系與醫工系合開 </note>
+</C6>
+
+<C6 id="061">
+<num>C6-061</num>
+<class></class>
+<group></group>
+<name> 水生生物組織及生理學 </name>
+<teacher> 陳宗嶽   ,  陳逸民   ,  王涵青   ,  盧福翊* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="101">
+<num>C6-101</num>
+<class></class>
+<group></group>
+<name> 生物科技倫理 </name>
+<teacher> 王育民*  ,  林士鳴  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1301 </place>
+<note></note>
+</C6>
+
+<C6 id="102">
+<num>C6-102</num>
+<class></class>
+<group></group>
+<name> 服務學習（三） </name>
+<teacher> 王涵青*  ,  郭瑋君  </teacher>
+<score> 0 </score>
+<time day1="5" s1="1" e1="1"> [5]1  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 共同教室                      A1301 </place>
+<note></note>
+</C6>
+
+<C6 id="103">
+<num>C6-103</num>
+<class></class>
+<group></group>
+<name> 創業思維與啟航 </name>
+<teacher> 王涵青   ,  林士鳴*  ,  林哲偉  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1301 </place>
+<note></note>
+</C6>
+
+<C6 id="104">
+<num>C6-104</num>
+<class></class>
+<group></group>
+<name> 實驗室實習（一） </name>
+<teacher> 林鼎晏*  ,  盧福翊* </teacher>
+<score> 1 </score>
+<time day1="3" s1="4.5" e1="4.5" day2="4" s2="4.5" e2="4.5" day3="2" s3="4.5" e3="4.5"> [3]N  ,  [4]N  ,  [2]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 共同教室                      A1304 </place>
+<note></note>
+</C6>
+
+<C6 id="105">
+<num>C6-105</num>
+<class></class>
+<group></group>
+<name> 基因體學與生物資料分析（二） </name>
+<teacher> 劉宗霖*  ,  曾大千  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1304 </place>
+<note></note>
+</C6>
+
+<C6 id="106">
+<num>C6-106</num>
+<class></class>
+<group></group>
+<name> 微生物及免疫學 </name>
+<teacher> 王育民* </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1304 </place>
+<note></note>
+</C6>
+
+<C6 id="107">
+<num>C6-107</num>
+<class></class>
+<group></group>
+<name> 結構生物學概論 </name>
+<teacher> 羅玉枝* </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="108">
+<num>C6-108</num>
+<class></class>
+<group></group>
+<name> 前瞻水生生物科技 </name>
+<teacher> 羅竹芳* </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1304 </place>
+<note></note>
+</C6>
+
+<C6 id="109">
+<num>C6-109</num>
+<class></class>
+<group></group>
+<name> 植物生物科技 </name>
+<teacher> 張清俊* </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1303 </place>
+<note></note>
+</C6>
+
+<C6 id="110">
+<num>C6-110</num>
+<class></class>
+<group></group>
+<name> 幹細胞及再生醫學綜論 </name>
+<teacher> 黃玲惠* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1305 </place>
+<note></note>
+</C6>
+
+<C6 id="112">
+<num>C6-112</num>
+<class></class>
+<group></group>
+<name> 生物科技倫理與實務 </name>
+<teacher> 王育民  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1301 </place>
+<note> 彈性課程密集式授課 </note>
+</C6>
+
+</content>

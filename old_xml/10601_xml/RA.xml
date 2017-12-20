@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<RA id="001">
+<num>RA-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（五） </name>
+<teacher> 陳正忠*  ,  楊曉瑩   ,  王鈿   ,  謝惠璟   ,  張巍勳   ,  許介文  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</RA>
+
+<RA id="002">
+<num>RA-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 行銷管理 </name>
+<teacher> 王鈿  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩班核心課程 ; 博班基礎先修課程 </note>
+</RA>
+
+<RA id="003">
+<num>RA-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 財務管理 </name>
+<teacher> 謝惠璟  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 碩士班核心課程 / 博士班先修課程 /先修課程: 會計 </note>
+</RA>
+
+<RA id="004">
+<num>RA-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 金融市場與機構 </name>
+<teacher> 楊曉瑩  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩班核心課程/博班選修課程/先修:經濟,會計 </note>
+</RA>
+
+<RA id="005">
+<num>RA-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 企業研究方法 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 方法學門，限本系。 </note>
+</RA>
+
+<RA id="006">
+<num>RA-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 管理資訊系統 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 碩士班核心課程/博士班選修課程 </note>
+</RA>
+
+<RA id="007">
+<num>RA-007</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 研究方法（一） </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 限修滿 18 學分以上並修完一門方法論課程學生選修/限本系 </note>
+</RA>
+
+<RA id="011">
+<num>RA-011</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳正忠  </teacher>
+<score> 1 </score>
+<time day1="4" s1="4.5" e1="4.5"> [4]N  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 管理學院                      62203 </place>
+<note> 博士班專題討論 </note>
+</RA>
+
+<RA id="012">
+<num>RA-012</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳正忠  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="5"> [4]5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 管理學院                      62203 </place>
+<note> 博士班專題討論 </note>
+</RA>
+
+<RA id="013">
+<num>RA-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 組織理論與管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩士班選修/博士班基礎課程/限本系 </note>
+</RA>
+
+<RA id="014">
+<num>RA-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 組織行為 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="015">
+<num>RA-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 企業決策方法 </name>
+<teacher> 潘浙楠  </teacher>
+<score> 3 </score>
+<time day1="1" s1="9" e1="11"> [1]9~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 方法學門 </note>
+</RA>
+
+<RA id="016">
+<num>RA-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 消費者行為 </name>
+<teacher> 王鈿  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="017">
+<num>RA-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 採購管理 </name>
+<teacher> 張巍勳  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="018">
+<num>RA-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 行為財務 </name>
+<teacher> 楊曉瑩  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="019">
+<num>RA-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 科技管理 </name>
+<teacher> 張巍勳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="020">
+<num>RA-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計量經濟學 </name>
+<teacher> 謝惠璟  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 博士班方法學門/碩士班選修課程/先修課:統計 </note>
+</RA>
+
+<RA id="021">
+<num>RA-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="022">
+<num>RA-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 服務管理 </name>
+<teacher> 王慕容  </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程/限本系 </note>
+</RA>
+
+<RA id="023">
+<num>RA-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 行銷策略 </name>
+<teacher> 吳萬益  </teacher>
+<score> 3 </score>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程/隔週上課/限本系 </note>
+</RA>
+
+<RA id="024">
+<num>RA-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際財務管理理論 </name>
+<teacher> 王澤世  </teacher>
+<score> 3 </score>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程/限本系 </note>
+</RA>
+
+<RA id="302">
+<num>RA-302</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 行銷管理 </name>
+<teacher> 王鈿  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩班核心課程 ; 博班基礎先修課程 </note>
+</RA>
+
+<RA id="303">
+<num>RA-303</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 財務管理 </name>
+<teacher> 謝惠璟  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 碩士班核心課程 / 博士班先修課程 /先修課程: 會計 </note>
+</RA>
+
+<RA id="304">
+<num>RA-304</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 金融市場與機構 </name>
+<teacher> 楊曉瑩  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩班核心課程/博班選修課程/先修:經濟,會計 </note>
+</RA>
+
+<RA id="305">
+<num>RA-305</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 企業研究方法 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 方法學門，限本系。 </note>
+</RA>
+
+<RA id="306">
+<num>RA-306</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 管理資訊系統 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 碩士班核心課程/博士班選修課程 </note>
+</RA>
+
+<RA id="307">
+<num>RA-307</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 研究方法（一） </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 限修滿 18 學分以上並修完一門方法論課程學生選修/限本系 </note>
+</RA>
+
+<RA id="313">
+<num>RA-313</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 組織理論與管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩士班選修/博士班基礎課程/限本系 </note>
+</RA>
+
+<RA id="314">
+<num>RA-314</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 組織行為 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="315">
+<num>RA-315</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 企業決策方法 </name>
+<teacher> 潘浙楠  </teacher>
+<score> 3 </score>
+<time day1="1" s1="9" e1="11"> [1]9~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 方法學門 </note>
+</RA>
+
+<RA id="316">
+<num>RA-316</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 消費者行為 </name>
+<teacher> 王鈿  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="317">
+<num>RA-317</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 採購管理 </name>
+<teacher> 張巍勳  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="318">
+<num>RA-318</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 行為財務 </name>
+<teacher> 楊曉瑩  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="319">
+<num>RA-319</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 科技管理 </name>
+<teacher> 張巍勳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62203 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="320">
+<num>RA-320</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 計量經濟學 </name>
+<teacher> 謝惠璟  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 博士班方法學門/碩士班選修課程/先修課:統計 </note>
+</RA>
+
+<RA id="321">
+<num>RA-321</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程 </note>
+</RA>
+
+<RA id="322">
+<num>RA-322</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 服務管理 </name>
+<teacher> 王慕容  </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程/限本系 </note>
+</RA>
+
+<RA id="323">
+<num>RA-323</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 行銷策略 </name>
+<teacher> 吳萬益  </teacher>
+<score> 3 </score>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程/隔週上課/限本系 </note>
+</RA>
+
+<RA id="324">
+<num>RA-324</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 國際財務管理理論 </name>
+<teacher> 王澤世  </teacher>
+<score> 3 </score>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 選修課程/限本系 </note>
+</RA>
+
+<RA id="331">
+<num>RA-331</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 研究方法（一） </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 台北班課程/限修滿 18 學分以上並修完一門方法論課程學生選修/限本系 </note>
+</RA>
+
+<RA id="332">
+<num>RA-332</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 管理資訊系統 </name>
+<teacher> 陳正忠  </teacher>
+<score> 3 </score>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 台北班課程/碩士班核心課程 </note>
+</RA>
+
+<RA id="333">
+<num>RA-333</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 科技管理 </name>
+<teacher> 張巍勳  </teacher>
+<score> 3 </score>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 台北班課程/碩士班選修課程 </note>
+</RA>
+
+<RA id="334">
+<num>RA-334</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 金融市場與機構 </name>
+<teacher> 吳萬益  </teacher>
+<score> 3 </score>
+<time day1="7" s1="6" e1="8"> [7]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 台北班課程/碩士班選修/博士班基礎課程 </note>
+</RA>
+
+</content>

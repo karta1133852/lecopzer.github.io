@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K3 id="008">
+<num>K3-008</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高級史學英文（一） </name>
+<teacher> 張勝柏  </teacher>
+<score> 0 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7110 </place>
+<note> 碩士班高級史學英文、專業史學日文擇一必修 </note>
+</K3>
+
+<K3 id="009">
+<num>K3-009</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專業史學日文（一） </name>
+<teacher> 李啟彰  </teacher>
+<score> 0 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7112 </place>
+<note> 碩士班高級史學英文、專業史學日文擇一必修 </note>
+</K3>
+
+<K3 id="011">
+<num>K3-011</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 論文寫作與實習（一） </name>
+<teacher> 謝美娥  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7112 </place>
+<note> 基礎課程，碩士班必修 </note>
+</K3>
+
+<K3 id="024">
+<num>K3-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 台灣美術史專題研究（一） </name>
+<teacher> 蕭瓊瑞  </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7117 </place>
+<note></note>
+</K3>
+
+<K3 id="025">
+<num>K3-025</num>
+<class> 博                             </class>
+<group></group>
+<name> 英國近代社會與文化史專題 </name>
+<teacher> 李鑑慧  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7204 </place>
+<note> 開放碩士班選修 </note>
+</K3>
+
+<K3 id="026">
+<num>K3-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 台灣史料專題 </name>
+<teacher> 陳文松  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7113 </place>
+<note></note>
+</K3>
+
+<K3 id="027">
+<num>K3-027</num>
+<class> 博                             </class>
+<group></group>
+<name> 近代臺灣海關史專題研究 </name>
+<teacher> 陳計堯  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7217 </place>
+<note> 開放碩士班選修 </note>
+</K3>
+
+<K3 id="028">
+<num>K3-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分類、測量與標準化專題 </name>
+<teacher> 許宏彬  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7202 </place>
+<note></note>
+</K3>
+
+<K3 id="029">
+<num>K3-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 近代科學醫學與華人社會 </name>
+<teacher> 劉士永  </teacher>
+<score> 3 </score>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27612 </place>
+<note> 密集課程 </note>
+</K3>
+
+<K3 id="030">
+<num>K3-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 公眾歷史的研究與呈現 </name>
+<teacher> 陳恒安  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7115 </place>
+<note></note>
+</K3>
+
+<K3 id="031">
+<num>K3-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 左傳中的古典世界 </name>
+<teacher> 王健文  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7115 </place>
+<note></note>
+</K3>
+
+<K3 id="033">
+<num>K3-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋亞洲史研究 </name>
+<teacher> 濱下武志  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7213 </place>
+<note> 密集課程 </note>
+</K3>
+
+<K3 id="101">
+<num>K3-101</num>
+<class> 博一                           </class>
+<group></group>
+<name> 史學與史學研究（一） </name>
+<teacher> 陳玉女  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7217 </place>
+<note> 基礎課程。博士班必修 </note>
+</K3>
+
+<K3 id="102">
+<num>K3-102</num>
+<class> 博                             </class>
+<group></group>
+<name> 伊斯蘭蘇非主義史專題 </name>
+<teacher> 林長寬  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7117 </place>
+<note> 開放碩士班選修 </note>
+</K3>
+
+<K3 id="105">
+<num>K3-105</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生育禮俗專題研究 </name>
+<teacher> 江達智  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7217 </place>
+<note></note>
+</K3>
+
+<K3 id="107">
+<num>K3-107</num>
+<class></class>
+<group></group>
+<name> 獨立研究 </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</K3>
+
+<K3 id="108">
+<num>K3-108</num>
+<class> 博                             </class>
+<group></group>
+<name> 中國歷史上的情與禮專題 </name>
+<teacher> 劉靜貞  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7117 </place>
+<note> 開放碩士班選修 </note>
+</K3>
+
+</content>

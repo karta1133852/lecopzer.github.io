@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<P1 id="001">
+<num>P1-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note> 碩博一二合班 </note>
+</P1>
+
+<P1 id="002">
+<num>P1-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note> 碩博一二合班 </note>
+</P1>
+
+<P1 id="004">
+<num>P1-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構動力學 </name>
+<teacher> 吳重雄  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56226 </place>
+<note></note>
+</P1>
+
+<P1 id="006">
+<num>P1-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 船舶結構分析 </name>
+<teacher> 楊澤民  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56441 </place>
+<note></note>
+</P1>
+
+<P1 id="008">
+<num>P1-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 漫散及非線性振動 </name>
+<teacher> 陳長鈕  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56441 </place>
+<note> 選課請洽系辦並繳交主任簽核之修課同意書 </note>
+</P1>
+
+<P1 id="011">
+<num>P1-011</num>
+<class> 碩                             </class>
+<group></group>
+<name> 金屬材料製程及運輸產業應用實務 </name>
+<teacher> 林秋豐  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56113 </place>
+<note></note>
+</P1>
+
+<P1 id="014">
+<num>P1-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 非線性系統分析 </name>
+<teacher> 陳永裕  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56226 </place>
+<note></note>
+</P1>
+
+<P1 id="101">
+<num>P1-101</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note> 碩博一二合班 </note>
+</P1>
+
+<P1 id="102">
+<num>P1-102</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note> 碩博一二合班 </note>
+</P1>
+
+<P1 id="103">
+<num>P1-103</num>
+<class> 碩                             </class>
+<group></group>
+<name> 水下載具設計 </name>
+<teacher> 陳政宏  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56226 </place>
+<note> 選課請洽系辦並繳交主任簽核之修課同意書 </note>
+</P1>
+
+<P1 id="104">
+<num>P1-104</num>
+<class> 碩                             </class>
+<group></group>
+<name> 離岸風電海事工程導論 </name>
+<teacher> 林宇銜  </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4" day2="6" s2="5" e2="7"> [6]2~4  ,  [6]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56111 </place>
+<note> 密集式授課(學期前9週每週六9-12時、13-16時) </note>
+</P1>
+
+<P1 id="107">
+<num>P1-107</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 黃正弘   ,  沈聖智* </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 系統系館                      視廳教室1F </place>
+<note> 僅供碩博三以上選修，與碩博一二合班　 </note>
+</P1>
+
+<P1 id="116">
+<num>P1-116</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 流體渦動學 </name>
+<teacher> 吳鴻文  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="3" day2="4" s2="7" e2="7"> [4]2~3  ,  [4]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56661 </place>
+<note></note>
+</P1>
+
+<P1 id="117">
+<num>P1-117</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 破壞力學 </name>
+<teacher> 趙儒民  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="6" day2="3" s2="2" e2="2"> [2]5~6  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56661 </place>
+<note></note>
+</P1>
+
+<P1 id="122">
+<num>P1-122</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 熱流原理與實驗 </name>
+<teacher> 張始偉  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56441 </place>
+<note></note>
+</P1>
+
+<P1 id="129">
+<num>P1-129</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 現代控制系統分析與設計 </name>
+<teacher> 黃正能  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56224 </place>
+<note></note>
+</P1>
+
+<P1 id="137">
+<num>P1-137</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 船用流體動力學 </name>
+<teacher> 方銘川  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56441 </place>
+<note></note>
+</P1>
+
+<P1 id="144">
+<num>P1-144</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 通訊電子學 </name>
+<teacher> 李坤洲  </teacher>
+<score> 3 </score>
+<time day1="2" s1="1" e1="3"> [2]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56441 </place>
+<note></note>
+</P1>
+
+<P1 id="148">
+<num>P1-148</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 統計訊號處理 </name>
+<teacher> 李坤洲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56441 </place>
+<note></note>
+</P1>
+
+<P1 id="149">
+<num>P1-149</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 產品生命週期管理 </name>
+<teacher> 邵揮洲  </teacher>
+<score> 3 </score>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56113 </place>
+<note></note>
+</P1>
+
+</content>

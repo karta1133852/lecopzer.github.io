@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<P8 id="001">
+<num>P8-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物力學 </name>
+<teacher> 張志涵   ,  葉明龍   ,  胡晉嘉*  ,  莊漢聲   ,  蕭志坤   ,  涂庭源  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5756 </place>
+<note></note>
+</P8>
+
+<P8 id="004">
+<num>P8-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫用數學（一） </name>
+<teacher> 陳天送  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5730 </place>
+<note></note>
+</P8>
+
+<P8 id="005">
+<num>P8-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫療儀器設計與應用 </name>
+<teacher> 鄭國順  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5756 </place>
+<note></note>
+</P8>
+
+<P8 id="006">
+<num>P8-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 解剖學 </name>
+<teacher> 楊岱樺   ,  吳佳慶   ,  許鍾瑜   ,  王家義*  ,  王仰高  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note></note>
+</P8>
+
+<P8 id="010">
+<num>P8-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物電化學 </name>
+<teacher> 張憲彰  </teacher>
+<score> 3 </score>
+<time day1="5" s1="1" e1="3"> [5]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5730 </place>
+<note> 生醫感測器課程之先修科目，醫工所與奈微所合班 </note>
+</P8>
+
+<P8 id="013">
+<num>P8-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 人體動作生物力學 </name>
+<teacher> 蘇芳慶  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5731 </place>
+<note> 醫工所與健照所合班 </note>
+</P8>
+
+<P8 id="016">
+<num>P8-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳家進  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5757 </place>
+<note> 0學分,僅供延修生且未選課者選課用 </note>
+</P8>
+
+<P8 id="019">
+<num>P8-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電腦輔助工程 </name>
+<teacher> 張志涵  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> 限本所學生 </note>
+</P8>
+
+<P8 id="021">
+<num>P8-021</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 林哲偉   ,  涂庭源* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5725 </place>
+<note> 碩一(甲組)生物力學組選課用 </note>
+</P8>
+
+<P8 id="022">
+<num>P8-022</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 林哲偉*  ,  涂庭源  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5756 </place>
+<note> 碩一(乙組)醫電組選課用 </note>
+</P8>
+
+<P8 id="024">
+<num>P8-024</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 林哲偉   ,  涂庭源* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5725 </place>
+<note> 供碩二(甲組)生物力學組學生選課 </note>
+</P8>
+
+<P8 id="025">
+<num>P8-025</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 林哲偉*  ,  涂庭源  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5756 </place>
+<note> 供碩二(乙組)生醫電子組學生選課 </note>
+</P8>
+
+<P8 id="033">
+<num>P8-033</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳家進   ,  葉明龍* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> 博一、MDI學生及其他外籍生(甲組)生物力學組選課用 </note>
+</P8>
+
+<P8 id="034">
+<num>P8-034</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳家進*  ,  葉明龍  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> 博一、MDI學生及其他外籍生(乙組)醫電組選課用 </note>
+</P8>
+
+<P8 id="035">
+<num>P8-035</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳家進   ,  葉明龍* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> 博二及外籍生(甲組)生物力學組 </note>
+</P8>
+
+<P8 id="036">
+<num>P8-036</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳家進*  ,  葉明龍  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> 供博二及外籍生(乙組)醫電組學生選課 </note>
+</P8>
+
+<P8 id="037">
+<num>P8-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生醫材料 </name>
+<teacher> 葉明龍  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5730 </place>
+<note> 英語授課 </note>
+</P8>
+
+<P8 id="039">
+<num>P8-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微觀流體物理,分析與應用 </name>
+<teacher> 莊漢聲  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5756 </place>
+<note></note>
+</P8>
+
+<P8 id="040">
+<num>P8-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫用超音波 </name>
+<teacher> 黃執中  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5730 </place>
+<note></note>
+</P8>
+
+<P8 id="046">
+<num>P8-046</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 組織工程 </name>
+<teacher> 曾淑芬   ,  林睿哲   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  邱文泰   ,  吳炳慶*  ,  楊岱樺   ,  涂庭源   ,  李澤民   ,  謝達斌   ,  吳佳慶  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5725 </place>
+<note> 生科所，醫工所，工科所合班 </note>
+</P8>
+
+<P8 id="051">
+<num>P8-051</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫學影像 </name>
+<teacher> 鄭國順  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5734 </place>
+<note></note>
+</P8>
+
+<P8 id="056">
+<num>P8-056</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 影像處理 </name>
+<teacher> 孫永年  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4203 </place>
+<note> 資工所醫資所醫工所多媒體學位學程合班 </note>
+</P8>
+
+<P8 id="057">
+<num>P8-057</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 轉譯生醫奈米導論 </name>
+<teacher> 吳炳慶*  ,  謝達斌  </teacher>
+<score> 2 </score>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5730 </place>
+<note> 上課地點:醫院新門診大樓6F  6057 (與醫工系合班上課) </note>
+</P8>
+
+<P8 id="059">
+<num>P8-059</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫療器材創新設計（一） </name>
+<teacher> 林彥呈   ,  葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> 與醫工所、口醫所合開 </note>
+</P8>
+
+<P8 id="060">
+<num>P8-060</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 基礎細胞生物學 </name>
+<teacher> 邱文泰  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5756 </place>
+<note> 醫工所基醫所合開 </note>
+</P8>
+
+<P8 id="061">
+<num>P8-061</num>
+<class> 碩                             </class>
+<group></group>
+<name> 生物組織與細胞力學 </name>
+<teacher> 朱銘祥  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91207 </place>
+<note> 機械所與醫工所合班 </note>
+</P8>
+
+<P8 id="062">
+<num>P8-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物科技產業分析 </name>
+<teacher> 陳芃婷  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5731 </place>
+<note> 國企所與醫工所合開 </note>
+</P8>
+
+<P8 id="064">
+<num>P8-064</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫療器材創新設計（一） </name>
+<teacher> 許曉芬   ,  林建宏   ,  陳家進   ,  陳芃婷* </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5756 </place>
+<note> MDI必修課程/英文授課 </note>
+</P8>
+
+<P8 id="065">
+<num>P8-065</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫用電腦 </name>
+<teacher> 陳家進  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5734 </place>
+<note> MDI選修/英語授課 </note>
+</P8>
+
+<P8 id="066">
+<num>P8-066</num>
+<class></class>
+<group></group>
+<name> 醫療器材生醫統計與臨床實驗 </name>
+<teacher> 楊岱樺  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</P8>
+
+<P8 id="070">
+<num>P8-070</num>
+<class></class>
+<group></group>
+<name> 生醫工程專論及實驗 </name>
+<teacher> 陳家進   ,  張憲彰   ,  葉明龍   ,  胡晉嘉   ,  鄭國順   ,  莊漢聲   ,  邱文泰   ,  黃執中   ,  方佑華   ,  吳炳慶   ,  陳芃婷   ,  林哲偉*  ,  楊岱樺   ,  涂庭源  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</P8>
+
+</content>
