@@ -383,11 +383,13 @@
 <name> 基礎固態物理-凝態物質的光學特性 </name>
 <teacher> 羅光耀  </teacher>
 <score> 1 </score>
-<time day1="5" s1="5" e1="6" day2="3" s2="8" e2="8"> [5]5~6  ,  [3]8  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 物理二館                      49312 </place>
-<note> 上課時間: 107/05/21-107/06/29 </note>
+<place></place>
+<note> 
+ </note>
 </C2>
 
 <C2 id="122">
@@ -397,11 +399,13 @@
 <name> 基礎固態物理-凝態物質的電學特性 </name>
 <teacher> 吳忠霖  </teacher>
 <score> 1 </score>
-<time day1="5" s1="5" e1="6" day2="3" s2="8" e2="8"> [5]5~6  ,  [3]8  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 物理二館                      49312 </place>
-<note> 上課時間: 107/02/26-107/04/06 </note>
+<place></place>
+<note> 
+ </note>
 </C2>
 
 <C2 id="123">
@@ -411,11 +415,13 @@
 <name> 基礎固態物理-磁性和超導材料與物理導論 </name>
 <teacher> 張烈錚* </teacher>
 <score> 1 </score>
-<time day1="3" s1="8" e1="8" day2="5" s2="5" e2="6"> [3]8  ,  [5]5~6  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 物理二館                      49312 </place>
-<note> 上課時間:107/04/09-107/05/18 </note>
+<place></place>
+<note> 
+ </note>
 </C2>
 
 <C2 id="150">

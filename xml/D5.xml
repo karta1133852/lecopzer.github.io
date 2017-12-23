@@ -454,4 +454,32 @@
 <note> 大碩課程 </note>
 </D5>
 
+<D5 id="166">
+<num>D5-166</num>
+<class></class>
+<group></group>
+<name> 高齡經濟分析 </name>
+<teacher> 許永河  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    八樓研討室A </place>
+<note> 大碩課程 </note>
+</D5>
+
+<D5 id="167">
+<num>D5-167</num>
+<class></class>
+<group></group>
+<name> 總體經濟政策 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    八樓研討室A </place>
+<note> 英語授課 </note>
+</D5>
+
 </content>

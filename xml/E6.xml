@@ -706,18 +706,4 @@
 <note> 大四、碩士及碩專班合班，博士班不能修本課程。密集式授課，隔周上課。 </note>
 </E6>
 
-<E6 id="159">
-<num>E6-159</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 土木工程設計實務（一） </name>
-<teacher> 蔡錦松  </teacher>
-<score> 3 </score>
-<time day1="4" s1="7" e1="9"> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4506 </place>
-<note> 甲乙合班，英語授課 </note>
-</E6>
-
 </content>

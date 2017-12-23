@@ -72,20 +72,6 @@
 <note></note>
 </RA>
 
-<RA id="007">
-<num>RA-007</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 生產與作業管理 </name>
-<teacher> 陳正忠  </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62203 </place>
-<note></note>
-</RA>
-
 <RA id="008">
 <num>RA-008</num>
 <class> 碩博                           </class>
@@ -489,20 +475,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note></note>
-</RA>
-
-<RA id="320">
-<num>RA-320</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 生產與作業管理 </name>
-<teacher> 陳正忠  </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62203 </place>
 <note></note>
 </RA>
 

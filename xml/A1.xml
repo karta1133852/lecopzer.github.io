@@ -1708,6 +1708,20 @@
 <note></note>
 </A1>
 
+<A1 id="554">
+<num>A1-554</num>
+<class></class>
+<group></group>
+<name> 德文（四） </name>
+<teacher> 張淑慧  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7213 </place>
+<note></note>
+</A1>
+
 <A1 id="555">
 <num>A1-555</num>
 <class></class>
@@ -1715,7 +1729,7 @@
 <name> 德文（四） </name>
 <teacher> 張淑慧  </teacher>
 <score> 2 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7213 </place>

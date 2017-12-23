@@ -247,11 +247,11 @@
 <name> 左鎮社區服務學習 </name>
 <teacher> 郭重言  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<time day1="2" s1="4.5" e1="6"> [2]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 測量系副館                    55160 </place>
-<note></note>
+<note> 本課程須經授課教師同意加簽 </note>
 </F6>
 
 <F6 id="101">

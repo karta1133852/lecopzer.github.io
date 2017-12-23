@@ -430,7 +430,7 @@
 <time day1="4" s1="4.5" e1="4.5"> [4]N  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 醫學院                        202D </place>
+<place> 醫學院                        204D </place>
 <note></note>
 </A9>
 
@@ -781,20 +781,6 @@
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
 <place> 化工系館                      柏林講堂 </place>
-<note> 領域通識 </note>
-</A9>
-
-<A9 id="161">
-<num>A9-161</num>
-<class></class>
-<group></group>
-<name> 建築與抗震 </name>
-<teacher> 陳景文  </teacher>
-<score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 必修 </must>
-<type> 自然與工程科學 </type>
-<place> 土木系館                      4505 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -1708,20 +1694,6 @@
 <note></note>
 </A9>
 
-<A9 id="365">
-<num>A9-365</num>
-<class></class>
-<group></group>
-<name> 日常生活中的微生物 </name>
-<teacher> 辛致煒   ,  楊倍昌   ,  黃一修* </teacher>
-<score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place> 醫技醫工館                    5776 </place>
-<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
-</A9>
-
 <A9 id="366">
 <num>A9-366</num>
 <class></class>
@@ -2006,14 +1978,14 @@
 <num>A9-468</num>
 <class></class>
 <group></group>
-<name> 科學的邏輯－以生物學為例 </name>
+<name> 近代生物科學思維的變遷-史學與哲學考察 </name>
 <teacher> 楊倍昌  </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 醫學院                        303D </place>
-<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
+<note> 相關領域：人文學、生命科學與健康 </note>
 </A9>
 
 <A9 id="481">

@@ -2,7 +2,7 @@
 <content>
 <U2 id="001">
 <num>U2-001</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 陳俊仁  </teacher>
@@ -384,7 +384,7 @@
 <num>U2-301</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 證券交易法專題研究（一） </name>
+<name> 證券交易法專題研究（二） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 2 </score>
 <time day1="1" s1="11" e1="12"> [1]B~C  </time>
@@ -419,7 +419,7 @@
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
-<note> 限本系碩士班在職專班選修，一般生不可選修 </note>
+<note> 限本系碩士在職專班選修，一般生不可選修 </note>
 </U2>
 
 <U2 id="304">

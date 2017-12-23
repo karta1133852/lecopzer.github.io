@@ -290,6 +290,20 @@
 <note></note>
 </P3>
 
+<P3 id="042">
+<num>P3-042</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 介面性設計與使用性研究 </name>
+<teacher> 林彥呈  </teacher>
+<score> 3 </score>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53211 </place>
+<note></note>
+</P3>
+
 <P3 id="043">
 <num>P3-043</num>
 <class> 碩博                           </class>

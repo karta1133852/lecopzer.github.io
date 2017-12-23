@@ -105,10 +105,10 @@
 <name> 教育行政學專題研究 </name>
 <teacher> 湯　堯  </teacher>
 <score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    A424 </place>
+<place> 社科院大樓                    團體諮商室 </place>
 <note></note>
 </U3>
 
@@ -119,10 +119,10 @@
 <name> 國際教育政策與行政專題研究 </name>
 <teacher> 湯　堯  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    團體諮商室 </place>
+<place> 社科院大樓                    A424 </place>
 <note></note>
 </U3>
 

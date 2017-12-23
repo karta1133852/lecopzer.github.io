@@ -25,7 +25,7 @@
 <class></class>
 <group></group>
 <name> 普通心理學 </name>
-<teacher> 游一龍   ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<teacher> 游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
 <score> 3 </score>
 <time day1="4" s1="4" e1="4" day2="4" s2="7" e2="8"> [4]4  ,  [4]7~8  </time>
 <must> 必修 </must>
@@ -39,7 +39,7 @@
 <class></class>
 <group></group>
 <name> 普通生物學（二） </name>
-<teacher> 王浩文   ,  何盧勳   ,  邱慈暉   ,  李純純   ,  彭怡禎  </teacher>
+<teacher> 王浩文   ,  何盧勳   ,  邱慈暉*  ,  李純純   ,  彭怡禎  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>
@@ -53,7 +53,7 @@
 <class></class>
 <group></group>
 <name> 普通生物學實驗（二） </name>
-<teacher> 李亞夫   ,  王浩文   ,  何盧勳   ,  邱慈暉   ,  陳一菁   ,  李純純   ,  彭怡禎  </teacher>
+<teacher> 李亞夫   ,  王浩文   ,  何盧勳   ,  邱慈暉*  ,  陳一菁   ,  李純純   ,  彭怡禎  </teacher>
 <score> 1 </score>
 <time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 必修 </must>
@@ -123,7 +123,7 @@
 <class></class>
 <group></group>
 <name> 社會學 </name>
-<teacher> 黃于玲  </teacher>
+<teacher> 黃于玲* </teacher>
 <score> 2 </score>
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
@@ -151,7 +151,7 @@
 <class></class>
 <group></group>
 <name> 肌動學 </name>
-<teacher> 成戎珠   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<teacher> 卓瓊鈺   ,  成戎珠   ,  蔡一如   ,  蔡昆霖*  ,  郭怡良  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
@@ -165,7 +165,7 @@
 <class></class>
 <group></group>
 <name> 神經解剖學 </name>
-<teacher> 楊政峰  </teacher>
+<teacher> 楊政峰* </teacher>
 <score> 2 </score>
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
@@ -179,7 +179,7 @@
 <class></class>
 <group></group>
 <name> 基礎物理治療學 </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<teacher> 卓瓊鈺*  ,  成戎珠   ,  洪菁霞   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
 <score> 2 </score>
 <time day1="1" s1="1" e1="1" day2="5" s2="1" e2="1"> [1]1  ,  [5]1  </time>
 <must> 必修 </must>
@@ -193,7 +193,7 @@
 <class></class>
 <group></group>
 <name> 基礎物理治療學實習 </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<teacher> 卓瓊鈺*  ,  成戎珠   ,  洪菁霞   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
 <score> 2 </score>
 <time day1="1" s1="2" e1="4" day2="5" s2="2" e2="4"> [1]2~4  ,  [5]2~4  </time>
 <must> 必修 </must>
@@ -207,7 +207,7 @@
 <class></class>
 <group></group>
 <name> 生物統計學 </name>
-<teacher> 王亮懿  </teacher>
+<teacher> 王亮懿* </teacher>
 <score> 2 </score>
 <time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
@@ -221,7 +221,7 @@
 <class></class>
 <group></group>
 <name> 物理因子學 </name>
-<teacher> 卓瓊鈺   ,  黃英修   ,  洪菁霞   ,  李佩紜   ,  蔡昆霖  </teacher>
+<teacher> 卓瓊鈺   ,  黃英修*  ,  洪菁霞   ,  李佩紜   ,  蔡昆霖  </teacher>
 <score> 2 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
@@ -235,7 +235,7 @@
 <class></class>
 <group></group>
 <name> 物理因子學實習 </name>
-<teacher> 卓瓊鈺   ,  黃英修   ,  洪菁霞   ,  李佩紜   ,  蔡昆霖  </teacher>
+<teacher> 卓瓊鈺   ,  黃英修*  ,  洪菁霞   ,  李佩紜   ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
@@ -277,7 +277,7 @@
 <class></class>
 <group></group>
 <name> 運動生理學 </name>
-<teacher> 洪菁霞   ,  蔡昆霖  </teacher>
+<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 必修 </must>
@@ -291,7 +291,7 @@
 <class></class>
 <group></group>
 <name> 操作治療學 </name>
-<teacher> 成戎珠   ,  林呈鳳   ,  蔡一如   ,  李佩紜  </teacher>
+<teacher> 成戎珠   ,  林呈鳳   ,  蔡一如   ,  李佩紜*  ,  郭怡良  </teacher>
 <score> 1 </score>
 <time day1="4" s1="1" e1="1"> [4]1  </time>
 <must> 必修 </must>
@@ -305,7 +305,7 @@
 <class></class>
 <group></group>
 <name> 操作治療學實習 </name>
-<teacher> 成戎珠   ,  林呈鳳   ,  蔡一如   ,  李佩紜  </teacher>
+<teacher> 成戎珠   ,  林呈鳳   ,  蔡一如   ,  李佩紜*  ,  郭怡良  </teacher>
 <score> 1 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
@@ -347,7 +347,7 @@
 <class></class>
 <group></group>
 <name> 復健醫學 </name>
-<teacher> 官大紳   ,  程琡敏   ,  陳若佟   ,  林裕晴  </teacher>
+<teacher> 官大紳*  ,  程琡敏   ,  陳若佟   ,  林裕晴  </teacher>
 <score> 1 </score>
 <time day1="4" s1="8" e1="8"> [4]8  </time>
 <must> 必修 </must>
@@ -361,7 +361,7 @@
 <class></class>
 <group></group>
 <name> 內科學概論 </name>
-<teacher> 宋俊明   ,  柯文謙   ,  陳炯瑜   ,  蔡惟全   ,  王崇任   ,  李政翰   ,  劉秉彥   ,  陳儒逸   ,  陳炯睿   ,  莊喬雄   ,  詹世鴻   ,  林建中   ,  許志新   ,  楊登棋   ,  蘇文彬  </teacher>
+<teacher> 宋俊明*  ,  柯文謙   ,  陳炯瑜   ,  蔡惟全   ,  王崇任   ,  李政翰   ,  劉秉彥   ,  陳儒逸   ,  陳炯睿   ,  莊喬雄   ,  詹世鴻   ,  林建中   ,  許志新   ,  楊登棋   ,  蘇文彬  </teacher>
 <score> 2 </score>
 <time day1="5" s1="8" e1="9"> [5]8~9  </time>
 <must> 必修 </must>
@@ -375,7 +375,7 @@
 <class></class>
 <group></group>
 <name> 骨科物理治療學（二） </name>
-<teacher> 蔡一如   ,  郭怡良  </teacher>
+<teacher> 蔡一如*  ,  郭怡良  </teacher>
 <score> 1 </score>
 <time day1="2" s1="1" e1="1"> [2]1  </time>
 <must> 必修 </must>
@@ -389,7 +389,7 @@
 <class></class>
 <group></group>
 <name> 骨科物理治療學實習（二） </name>
-<teacher> 蔡一如   ,  郭怡良  </teacher>
+<teacher> 蔡一如*  ,  郭怡良  </teacher>
 <score> 1 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
@@ -403,10 +403,24 @@
 <class></class>
 <group></group>
 <name> 物理治療管理學 </name>
-<teacher> 楊政峰  </teacher>
+<teacher> 楊政峰* </teacher>
 <score> 2 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治207 </place>
+<note></note>
+</I6>
+
+<I6 id="108">
+<num>I6-108</num>
+<class></class>
+<group></group>
+<name> 兒童物理治療:從臨床個案到實證文獻 </name>
+<teacher> 徐碧真* </teacher>
+<score> 1 </score>
+<time day1="3" s1="7" e1="7"> [3]7  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 物治系館                      B02 </place>
 <note></note>
@@ -417,7 +431,7 @@
 <class></class>
 <group></group>
 <name> 小兒物理治療學及實習（二） </name>
-<teacher> 成戎珠   ,  徐碧真  </teacher>
+<teacher> 成戎珠*  ,  徐碧真  </teacher>
 <score> 1 </score>
 <time day1="3" s1="5" e1="5"> [3]5  </time>
 <must> 必修 </must>
@@ -437,7 +451,7 @@
 <class></class>
 <group></group>
 <name> 心肺物理治療學及實習（二） </name>
-<teacher> 洪菁霞   ,  蔡昆霖  </teacher>
+<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time day1="1" s1="5" e1="5"> [1]5  </time>
 <must> 必修 </must>
@@ -457,7 +471,7 @@
 <class></class>
 <group></group>
 <name> 神經科物理治療學（二） </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  黃英修   ,  李佩紜  </teacher>
+<teacher> 卓瓊鈺   ,  黃英修*  ,  李佩紜  </teacher>
 <score> 1 </score>
 <time day1="3" s1="1" e1="1"> [3]1  </time>
 <must> 必修 </must>
@@ -471,7 +485,7 @@
 <class></class>
 <group></group>
 <name> 神經科物理治療學實習（二） </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  黃英修   ,  李佩紜  </teacher>
+<teacher> 卓瓊鈺   ,  黃英修*  ,  李佩紜  </teacher>
 <score> 1 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 必修 </must>
@@ -515,7 +529,7 @@
 <class></class>
 <group></group>
 <name> 物理治療臨床見習 </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠*  ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
 <score> 1 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
@@ -543,7 +557,7 @@
 <class></class>
 <group></group>
 <name> 物理治療臨床實習（四） </name>
-<teacher> 成戎珠   ,  楊政峰   ,  黃英修   ,  蔡昆霖  </teacher>
+<teacher> 成戎珠   ,  楊政峰   ,  黃英修   ,  蔡昆霖* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -559,7 +573,7 @@
 <class></class>
 <group></group>
 <name> 物理治療臨床實習（五） </name>
-<teacher> 洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如  </teacher>
+<teacher> 洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如  </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -575,7 +589,7 @@
 <class></class>
 <group></group>
 <name> 物理治療臨床實習（六） </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  李佩紜   ,  郭怡良  </teacher>
+<teacher> 卓瓊鈺   ,  李佩紜   ,  郭怡良* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -591,7 +605,7 @@
 <class></class>
 <group></group>
 <name> 物理治療海外實習 </name>
-<teacher> 卓瓊鈺  </teacher>
+<teacher> 卓瓊鈺* </teacher>
 <score> 3 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -607,7 +621,7 @@
 <class></class>
 <group></group>
 <name> 物理治療專題討論 </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞   ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
+<teacher> 卓瓊鈺   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
 <score> 1 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>

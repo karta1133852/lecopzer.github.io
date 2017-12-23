@@ -27,7 +27,7 @@
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        501 </place>
-<note> 國際博士班課程，與健照所合開 </note>
+<note> 與護理所合開 </note>
 </TA>
 
 <TA id="003">
@@ -41,7 +41,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課地點：健照所會議室 </note>
+<note> 上課地點：健照所會議室、與護理所合開 </note>
 </TA>
 
 <TA id="004">
@@ -71,7 +71,7 @@
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 醫學院                        501 </place>
-<note> 國際博士班課程，與健照所合開 </note>
+<note> 與護理所合開 </note>
 </TA>
 
 <TA id="006">
