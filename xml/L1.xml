@@ -98,20 +98,6 @@
 <note></note>
 </L1>
 
-<L1 id="013">
-<num>L1-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 交換代數（一） </name>
-<teacher> 蕭仁傑  </teacher>
-<score> 3 </score>
-<time day1="4" s1="5" e1="6" day2="5" s2="4" e2="4"> [4]5~6  ,  [5]4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 數學系館                      3175 </place>
-<note></note>
-</L1>
-
 <L1 id="014">
 <num>L1-014</num>
 <class> 碩博                           </class>
@@ -260,6 +246,20 @@
 <teacher> 林育竹  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 數學系館                      3175 </place>
+<note></note>
+</L1>
+
+<L1 id="025">
+<num>L1-025</num>
+<class> 碩                             </class>
+<group></group>
+<name> 計算代數 </name>
+<teacher> 蕭仁傑  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>

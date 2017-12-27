@@ -364,6 +364,20 @@
 <note></note>
 </A2>
 
+<A2 id="028">
+<num>A2-028</num>
+<class> 一年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 游泳與健康體能 </name>
+<teacher> 周學雯  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 勝利游泳池                    勝利游泳池 </place>
+<note></note>
+</A2>
+
 <A2 id="030">
 <num>A2-030</num>
 <class> 一年級                        體育（女生組）　                                                       </class>
@@ -1092,6 +1106,34 @@
 <note></note>
 </A2>
 
+<A2 id="201">
+<num>A2-201</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note></note>
+</A2>
+
+<A2 id="202">
+<num>A2-202</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note></note>
+</A2>
+
 <A2 id="203">
 <num>A2-203</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -1456,6 +1498,20 @@
 <note> 【男女合班】球具自備 </note>
 </A2>
 
+<A2 id="235">
+<num>A2-235</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 羽球（女） </name>
+<teacher> 蔡佳良  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂羽球場 </place>
+<note></note>
+</A2>
+
 <A2 id="236">
 <num>A2-236</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -1715,7 +1771,7 @@
 <name> 足球（男） </name>
 <teacher> 王駿濠  </teacher>
 <score> 0 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 光復體育場                    光復體育場 </place>
@@ -1748,6 +1804,34 @@
 <type> 講義 </type>
 <place> 自強韻律室                    自強韻律室 </place>
 <note> 【男女合班】需穿著室內（乾淨）運動鞋 </note>
+</A2>
+
+<A2 id="311">
+<num>A2-311</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note></note>
+</A2>
+
+<A2 id="312">
+<num>A2-312</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note></note>
 </A2>
 
 <A2 id="313">

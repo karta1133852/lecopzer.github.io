@@ -409,7 +409,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    八樓研討室A </place>
-<note></note>
+<note> 大碩課程 </note>
 </D5>
 
 <D5 id="155">
@@ -423,7 +423,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80203 </place>
-<note> 上機地點：社科院80303電腦教室 </note>
+<note> 上機地點：社科院80303電腦教室/大碩課程 </note>
 </D5>
 
 <D5 id="162">

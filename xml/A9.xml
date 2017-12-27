@@ -1736,6 +1736,20 @@
 <note> 領域通識 </note>
 </A9>
 
+<A9 id="369">
+<num>A9-369</num>
+<class></class>
+<group></group>
+<name> 運動與科學 </name>
+<teacher> 邱宏達  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 工管系館                      61101 </place>
+<note> 跨領域通識 </note>
+</A9>
+
 <A9 id="370">
 <num>A9-370</num>
 <class></class>

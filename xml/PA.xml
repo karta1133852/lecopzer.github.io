@@ -174,4 +174,20 @@
 <note></note>
 </PA>
 
+<PA id="013">
+<num>PA-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業實作二 </name>
+<teacher> 卓彥廷  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</PA>
+
 </content>

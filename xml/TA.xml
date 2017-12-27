@@ -81,11 +81,11 @@
 <name> 教學理論與方法特論 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<time day1="4" s1="6" e1="7"> [4]6~7  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 教室於健照所會議室，若無外籍生選課，將改以中文授課 </note>
+<note> 上課教室:護理系館101教室，若無外籍生選課，將改以中文授課 </note>
 </TA>
 
 <TA id="007">

@@ -207,7 +207,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
-<note></note>
+<note> 交電管合開 </note>
 </R5>
 
 <R5 id="135">
@@ -271,12 +271,26 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  黃國平   ,  張瀞之   ,  林東盈   ,  陳文字   ,  李威勳   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  黃國平   ,  張瀞之   ,  林東盈   ,  陳文字   ,  李威勳   ,  孫雅彥   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
 <time day1="5" s1="1" e1="1" day2="5" s2="4.5" e2="4.5"> [5]1  ,  [5]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 交管系館                      62107 </place>
+<note></note>
+</R5>
+
+<R5 id="183">
+<num>R5-183</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 區域經濟發展評估 </name>
+<teacher> 孫雅彥  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62105 </place>
 <note></note>
 </R5>
 

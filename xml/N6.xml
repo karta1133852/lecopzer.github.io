@@ -375,25 +375,11 @@
 <name> 深開挖基礎工程學 </name>
 <teacher> 洪　瀞  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="8" e2="8"> [1]5~6  ,  [3]8  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
 <note> 碩博與碩專班合班，英語授課 </note>
-</N6>
-
-<N6 id="040">
-<num>N6-040</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 土壤強度與變形 </name>
-<teacher> 洪　瀞  </teacher>
-<score> 3 </score>
-<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4502 </place>
-<note> 碩博與碩專合班，英語授課 </note>
 </N6>
 
 <N6 id="052">
@@ -470,20 +456,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
 <note> 碩博與碩專班合班，丁組核心 </note>
-</N6>
-
-<N6 id="065">
-<num>N6-065</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 材料變形機制 </name>
-<teacher> 王雲哲  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note> 英語授課，碩博與碩專班合班 </note>
 </N6>
 
 <N6 id="071">
@@ -759,7 +731,7 @@
 <name> 深開挖基礎工程學 </name>
 <teacher> 洪　瀞  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="8" e2="8"> [1]5~6  ,  [3]8  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
@@ -854,20 +826,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
 <note> 碩博與碩專班合班，丁組核心 </note>
-</N6>
-
-<N6 id="365">
-<num>N6-365</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 材料變形機制 </name>
-<teacher> 王雲哲  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note> 英語授課，碩博與碩專班合班 </note>
 </N6>
 
 <N6 id="371">

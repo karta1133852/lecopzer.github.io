@@ -173,13 +173,13 @@
 <class> 碩                             </class>
 <group></group>
 <name> 老年照護制度與實務 </name>
-<teacher> 李世代  </teacher>
+<teacher> 李世代* </teacher>
 <score> 2 </score>
 <time day1="6" s1="5" e1="8"> [6]5~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note> 隔週上四小時 </note>
+<place></place>
+<note> 醫學院10樓電腦教室(82-1038) </note>
 </TC>
 
 <TC id="014">
