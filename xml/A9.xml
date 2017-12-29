@@ -327,7 +327,7 @@
 <class></class>
 <group></group>
 <name> 生物技術概論 </name>
-<teacher> 蕭世裕   ,  廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺  </teacher>
+<teacher> 廖泓鈞   ,  陳宗嶽   ,  張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純*  ,  盧福翊   ,  林士鳴   ,  陳立人   ,  陳俊榮   ,  張文綺  </teacher>
 <score> 2 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
@@ -1939,10 +1939,10 @@
 <name> 問題分析與專案管理規劃 </name>
 <teacher> 楊佳翰  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 唯農大樓                      7117 </place>
+<place> 唯農大樓                      7115 </place>
 <note></note>
 </A9>
 

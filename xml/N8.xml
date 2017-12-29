@@ -347,7 +347,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
-<note> 自災所與水利所合開課程 </note>
+<note> 自災所、水利所、海事所合開課程 </note>
 </N8>
 
 <N8 id="044">
@@ -385,10 +385,10 @@
 <name> 德文（二） </name>
 <teacher> 高家俊  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
+<place> 水利系館                      4644 </place>
 <note> 語言課程非本系研究生畢業學分 </note>
 </N8>
 
