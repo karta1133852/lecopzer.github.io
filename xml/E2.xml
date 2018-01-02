@@ -819,7 +819,7 @@
 <class> 乙                             </class>
 <group> A </group>
 <name> 控制工程實驗 </name>
-<teacher> 鄭銘揚  </teacher>
+<teacher> 李祖聖  </teacher>
 <score> 1 </score>
 <time day1="3" s1="4.5" e1="6"> [3]N~6  </time>
 <must> 必修 </must>
@@ -833,7 +833,7 @@
 <class> 乙                             </class>
 <group> B </group>
 <name> 控制工程實驗 </name>
-<teacher> 鄭銘揚  </teacher>
+<teacher> 李祖聖  </teacher>
 <score> 1 </score>
 <time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 必修 </must>

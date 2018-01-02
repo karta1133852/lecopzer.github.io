@@ -72,7 +72,7 @@
 <time day1="2" s1="2" e1="2" day2="3" s2="3" e2="4"> [2]2  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
+<place> 醫學院                        物治207 </place>
 <note></note>
 </I6>
 
@@ -637,7 +637,7 @@
 <name> 初級救護技術學 </name>
 <teacher> 蔡一如* </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 物治系館                      B02 </place>
