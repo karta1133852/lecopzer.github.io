@@ -70,6 +70,48 @@
 <note> 碩博三（含）以上 </note>
 </N1>
 
+<N1 id="016">
+<num>N1-016</num>
+<class> 碩博一                         </class>
+<group></group>
+<name> 教學與研究專題討論（二） </name>
+<teacher> 李汶樺  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 機械系館                      91302 </place>
+<note></note>
+</N1>
+
+<N1 id="017">
+<num>N1-017</num>
+<class> 碩博二                         </class>
+<group></group>
+<name> 教學與研究專題討論（四） </name>
+<teacher> 李汶樺  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 機械系館                      91302 </place>
+<note></note>
+</N1>
+
+<N1 id="018">
+<num>N1-018</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 教學與研究專題討論 </name>
+<teacher> 李汶樺  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 機械系館                      91302 </place>
+<note></note>
+</N1>
+
 <N1 id="022">
 <num>N1-022</num>
 <class> 碩                             </class>

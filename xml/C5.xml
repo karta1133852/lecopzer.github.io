@@ -251,7 +251,7 @@
 <name> 生物化學（二） </name>
 <teacher> 曾淑芬   ,  何盧勳   ,  廖泓鈞   ,  彭怡禎* </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科系館                      3417 </place>
@@ -316,6 +316,20 @@
 <place></place>
 <note> 
  </note>
+</C5>
+
+<C5 id="083">
+<num>C5-083</num>
+<class></class>
+<group></group>
+<name> 化學生物學 </name>
+<teacher> 邱顯泰  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3274 </place>
+<note></note>
 </C5>
 
 <C5 id="105">

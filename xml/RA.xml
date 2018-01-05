@@ -555,7 +555,7 @@
 <name> 企業倫理與法律 </name>
 <teacher> 陳俊仁  </teacher>
 <score> 3 </score>
-<time day1="7" s1="2" e1="4"> [7]2~4  </time>
+<time day1="7" s1="6" e1="8"> [7]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -569,7 +569,7 @@
 <name> 財務管理 </name>
 <teacher> 陳俊男  </teacher>
 <score> 3 </score>
-<time day1="7" s1="6" e1="8"> [7]6~8  </time>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>

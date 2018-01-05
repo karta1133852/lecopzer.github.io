@@ -182,38 +182,6 @@
 <note></note>
 </U1>
 
-<U1 id="014">
-<num>U1-014</num>
-<class></class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 陳欣之  </teacher>
-<score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</U1>
-
-<U1 id="015">
-<num>U1-015</num>
-<class></class>
-<group></group>
-<name> 專題研究 </name>
-<teacher> 陳欣之  </teacher>
-<score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</U1>
-
 <U1 id="301">
 <num>U1-301</num>
 <class> 碩專一                         </class>
@@ -352,22 +320,6 @@
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
 <note></note>
-</U1>
-
-<U1 id="311">
-<num>U1-311</num>
-<class></class>
-<group></group>
-<name> 專題研究 </name>
-<teacher> 陳欣之  </teacher>
-<score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
 </U1>
 
 </content>

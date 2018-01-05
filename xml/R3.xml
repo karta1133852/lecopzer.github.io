@@ -140,6 +140,20 @@
 <note></note>
 </R3>
 
+<R3 id="011">
+<num>R3-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 類神經網路應用 </name>
+<teacher> 王泰裕  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="2" day2="2" s2="3" e2="4"> [4]2  ,  [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61206 </place>
+<note></note>
+</R3>
+
 <R3 id="012">
 <num>R3-012</num>
 <class> 碩博                           </class>
@@ -263,6 +277,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61210 </place>
+<note></note>
+</R3>
+
+<R3 id="021">
+<num>R3-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 科技與創新策略管理 </name>
+<teacher> 謝佩璇  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61208 </place>
 <note></note>
 </R3>
 

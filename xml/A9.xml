@@ -756,20 +756,6 @@
 <note> 領域通識 </note>
 </A9>
 
-<A9 id="150">
-<num>A9-150</num>
-<class></class>
-<group></group>
-<name> 認識地震 </name>
-<teacher> 樂鍇．祿璞崚岸  </teacher>
-<score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
-<must> 必修 </must>
-<type> 自然與工程科學 </type>
-<place> 地科系館                      3035 </place>
-<note> 領域通識 </note>
-</A9>
-
 <A9 id="153">
 <num>A9-153</num>
 <class></class>
@@ -809,6 +795,20 @@
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
 <place> 醫學院                        501 </place>
+<note> 領域通識 </note>
+</A9>
+
+<A9 id="164">
+<num>A9-164</num>
+<class></class>
+<group></group>
+<name> 中醫食療 </name>
+<teacher> 林少紅  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        604 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -1132,20 +1132,6 @@
 <type> 人文學 </type>
 <place> 唯農大樓                      許文龍講堂 </place>
 <note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
-</A9>
-
-<A9 id="221">
-<num>A9-221</num>
-<class></class>
-<group></group>
-<name> 女性與運動 </name>
-<teacher> 徐珊惠  </teacher>
-<score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
-<must> 必修 </must>
-<type> 社會科學 </type>
-<place> 資源系館                      4354 </place>
-<note> 領域通識 </note>
 </A9>
 
 <A9 id="222">

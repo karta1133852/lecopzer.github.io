@@ -249,7 +249,7 @@
 <name> 破壞力學 </name>
 <teacher> 林育芸  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
@@ -310,20 +310,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4506 </place>
 <note> 碩博與碩專合班 </note>
-</N6>
-
-<N6 id="035">
-<num>N6-035</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 大地工程技術 </name>
-<teacher> 胡邵敏  </teacher>
-<score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="5" s2="5" e2="5"> [5]3~4  ,  [5]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note> 碩博與碩專班合班 </note>
 </N6>
 
 <N6 id="036">
@@ -441,7 +427,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
-<note> 碩博與碩專班合班 </note>
+<note> 碩博與碩專班合班，英語授課 </note>
 </N6>
 
 <N6 id="063">
@@ -605,7 +591,7 @@
 <name> 破壞力學 </name>
 <teacher> 林育芸  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
@@ -666,20 +652,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4506 </place>
 <note> 碩博與碩專合班 </note>
-</N6>
-
-<N6 id="335">
-<num>N6-335</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 大地工程技術 </name>
-<teacher> 胡邵敏  </teacher>
-<score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="5" s2="5" e2="5"> [5]3~4  ,  [5]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note> 碩博與碩專班合班 </note>
 </N6>
 
 <N6 id="336">
@@ -797,7 +769,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
-<note> 碩博與碩專班合班 </note>
+<note> 碩博與碩專班合班，英語授課 </note>
 </N6>
 
 <N6 id="363">

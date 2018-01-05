@@ -172,14 +172,14 @@
 <num>S3-025</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 以問題為導向學習循環系統恆定（二） </name>
+<name> 以問題為導向學習循環系統恆定（一） </name>
 <teacher> 張雅雯* </teacher>
 <score> 1 </score>
 <time day1="1" s1="9" e1="9"> [1]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        0711 </place>
-<note> 中英文授課 </note>
+<note></note>
 </S3>
 
 <S3 id="026">

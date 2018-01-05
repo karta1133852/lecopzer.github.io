@@ -150,22 +150,8 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3415 </place>
+<place> 生科系館                      3414 </place>
 <note></note>
-</Z3>
-
-<Z3 id="015">
-<num>Z3-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等細胞生物學 </name>
-<teacher> 何盧勳   ,  張松彬   ,  洪健睿   ,  黃玲惠   ,  張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜   ,  李瑞花  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
-<note> 生科院核心課程 </note>
 </Z3>
 
 <Z3 id="017">
@@ -180,20 +166,6 @@
 <type> 講義 </type>
 <place> 生科系館                      3414 </place>
 <note> 生命所、與熱植所合班上課 </note>
-</Z3>
-
-<Z3 id="022">
-<num>Z3-022</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等細胞生物學 </name>
-<teacher> 何盧勳   ,  張松彬   ,  洪健睿   ,  黃玲惠   ,  張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜   ,  李瑞花  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
-<note> 與中文班分班上課、全英語授課。生命科學系、生科所、生訊所與熱植所合開 </note>
 </Z3>
 
 </content>

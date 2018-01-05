@@ -10,7 +10,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7115 </place>
 <note> 碩士班英文、日文擇一為必修。99學年度（含）以後入學博士生勿選 </note>
 </K3>
 
@@ -24,7 +24,7 @@
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7213 </place>
 <note> 碩士班英文、日文擇一為必修。99學年度（含）以後入學博士生勿選 </note>
 </K3>
 
@@ -52,7 +52,7 @@
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7307 </place>
 <note> 基礎課（含研討）、博士生必修 </note>
 </K3>
 
@@ -66,7 +66,7 @@
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7311 </place>
 <note> 密集課程，開放大學部修課 </note>
 </K3>
 
@@ -110,7 +110,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </K3>
 
@@ -124,7 +124,7 @@
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7115 </place>
 <note></note>
 </K3>
 
@@ -138,7 +138,7 @@
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7206 </place>
 <note></note>
 </K3>
 
@@ -152,7 +152,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7311 </place>
 <note></note>
 </K3>
 
@@ -166,7 +166,7 @@
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7407 </place>
 <note></note>
 </K3>
 
@@ -180,7 +180,7 @@
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7202 </place>
 <note></note>
 </K3>
 
@@ -194,7 +194,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7313 </place>
 <note> 開放碩士班修課 </note>
 </K3>
 
@@ -208,7 +208,7 @@
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7302 </place>
 <note> 開放碩士班修課 </note>
 </K3>
 

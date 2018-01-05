@@ -350,10 +350,10 @@
 <num>P3-301</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 系統與系統設計 </name>
-<teacher> 洪郁修  </teacher>
+<name> 學術寫作 </name>
+<teacher> 何俊亨  </teacher>
 <score> 3 </score>
-<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
@@ -379,9 +379,9 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 設計理論特論 </name>
-<teacher> 未定  </teacher>
+<teacher> 陳璽任  </teacher>
 <score> 3 </score>
-<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>

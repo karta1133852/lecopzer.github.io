@@ -140,6 +140,20 @@
 <note> 限修過成本會計(1)(2)的同學選修 </note>
 </R8>
 
+<R8 id="011">
+<num>R8-011</num>
+<class> 碩                             </class>
+<group></group>
+<name> 金融投資與創新商品交易策略實務 </name>
+<teacher> 王澤世  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63211 </place>
+<note> 限研究所選修 </note>
+</R8>
+
 <R8 id="016">
 <num>R8-016</num>
 <class> 碩一                           </class>
