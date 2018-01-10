@@ -444,20 +444,6 @@
 <note> 三四年級可選修，土木甲乙合班 </note>
 </E6>
 
-<E6 id="105">
-<num>E6-105</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 工程全生命週期成本分析 </name>
-<teacher> 楊士賢  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4504 </place>
-<note> 三四年級可選修，土木甲乙合班 </note>
-</E6>
-
 <E6 id="106">
 <num>E6-106</num>
 <class> 甲乙                           </class>
@@ -704,6 +690,20 @@
 <type> 講義 </type>
 <place> 土木系館                      210 </place>
 <note> 大四、碩士及碩專班合班，博士班不能修本課程。密集式授課，隔周上課。 </note>
+</E6>
+
+<E6 id="158">
+<num>E6-158</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 永續交通設施 </name>
+<teacher> 楊士賢  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 英語授課，大四、碩士及碩專班合班，博士班不能修本課程 </note>
 </E6>
 
 <E6 id="159">

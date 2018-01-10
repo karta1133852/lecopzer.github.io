@@ -154,6 +154,20 @@
 <note> 限碩博班研二以上 </note>
 </N9>
 
+<N9 id="031">
+<num>N9-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 人工智慧應用實務 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41111 </place>
+<note></note>
+</N9>
+
 <N9 id="033">
 <num>N9-033</num>
 <class> 碩博                           </class>
@@ -189,11 +203,11 @@
 <name> 隨機程序 </name>
 <teacher> 陳昭羽  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工科系館                      41102 </place>
-<note> 大三、四、碩、博可選 </note>
+<place> 工科系館                      41107 </place>
+<note></note>
 </N9>
 
 <N9 id="037">

@@ -263,10 +263,10 @@
 <name> 建築機電系統 </name>
 <teacher> 賴啟銘  </teacher>
 <score> 3 </score>
-<time day1="2" s1="11" e1="13"> [2]B~D  </time>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4502 </place>
 <note> 碩博與碩專班合班 </note>
 </N6>
 
@@ -366,6 +366,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
 <note> 碩博與碩專班合班，英語授課 </note>
+</N6>
+
+<N6 id="051">
+<num>N6-051</num>
+<class> 碩                             </class>
+<group></group>
+<name> 永續交通設施 </name>
+<teacher> 楊士賢  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 英語授課，大四、碩士及碩專班合班，博士班不能修本課程 </note>
 </N6>
 
 <N6 id="052">
@@ -605,10 +619,10 @@
 <name> 建築機電系統 </name>
 <teacher> 賴啟銘  </teacher>
 <score> 3 </score>
-<time day1="2" s1="11" e1="13"> [2]B~D  </time>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4502 </place>
 <note> 碩博與碩專班合班 </note>
 </N6>
 
@@ -708,6 +722,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
 <note> 碩博與碩專班合班，英語授課 </note>
+</N6>
+
+<N6 id="351">
+<num>N6-351</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 永續交通設施 </name>
+<teacher> 楊士賢  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4504 </place>
+<note> 英語授課，大四、碩士及碩專班合班，博士班不能修本課程 </note>
 </N6>
 
 <N6 id="352">

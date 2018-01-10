@@ -443,10 +443,10 @@
 <name> 資料結構緒論 </name>
 <teacher> 戴顯權  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 電機系館                      92271 </place>
+<place> 電機系館                      靄雲廳 </place>
 <note> 本系必選 </note>
 </E2>
 
@@ -735,7 +735,7 @@
 <class> 甲                             </class>
 <group> B </group>
 <name> 電子學實驗（二） </name>
-<teacher> 盧達生  </teacher>
+<teacher> 曾永華  </teacher>
 <score> 1 </score>
 <time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必修 </must>

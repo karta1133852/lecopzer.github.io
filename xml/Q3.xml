@@ -172,7 +172,7 @@
 <num>Q3-022</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 射頻微波通訊電路設計 </name>
+<name> 射頻訊號與系統分析專論 </name>
 <teacher> 莊惠如  </teacher>
 <score> 3 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
@@ -333,7 +333,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      迅慧講堂 </place>
-<note> 台積電主管開授，(一)、(二)都需修課 </note>
+<note> 台積電主管開授，(一)、(二)都需修課始合計6畢業學分 </note>
 </Q3>
 
 <Q3 id="051">

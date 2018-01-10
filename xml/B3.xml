@@ -24,7 +24,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 中文系館                      文學院演講廳 </place>
 <note> 基礎課 </note>
 </B3>
 
@@ -66,7 +66,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 修齊大樓                      26405 </place>
 <note> 世 </note>
 </B3>
 
@@ -80,7 +80,7 @@
 <time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 歷史系館                      振芝講堂 </place>
 <note> 台 </note>
 </B3>
 
@@ -150,7 +150,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7217 </place>
 <note> 世 </note>
 </B3>
 
@@ -164,7 +164,7 @@
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7302 </place>
 <note> 中 </note>
 </B3>
 
@@ -178,7 +178,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7213 </place>
 <note> 台 </note>
 </B3>
 
@@ -192,7 +192,7 @@
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 空中大學                      53101 </place>
 <note> 世 </note>
 </B3>
 
@@ -206,7 +206,7 @@
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7215 </place>
 <note> 世 </note>
 </B3>
 
@@ -220,7 +220,7 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      27808 </place>
 <note> 世 </note>
 </B3>
 
@@ -234,7 +234,7 @@
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7313 </place>
 <note> 世 </note>
 </B3>
 
@@ -248,7 +248,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7204 </place>
 <note> 世界史 </note>
 </B3>
 
@@ -262,7 +262,7 @@
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7309 </place>
 <note> 世 </note>
 </B3>
 
@@ -292,7 +292,7 @@
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7302 </place>
 <note> 世 </note>
 </B3>
 
@@ -306,7 +306,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7302 </place>
 <note> 中 </note>
 </B3>
 
@@ -320,7 +320,7 @@
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7202 </place>
 <note> 世 </note>
 </B3>
 
@@ -340,6 +340,20 @@
  </note>
 </B3>
 
+<B3 id="126">
+<num>B3-126</num>
+<class></class>
+<group></group>
+<name> 東南亞華人史 </name>
+<teacher> 李貴民  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7204 </place>
+<note></note>
+</B3>
+
 <B3 id="159">
 <num>B3-159</num>
 <class></class>
@@ -350,7 +364,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7208 </place>
 <note> 中 </note>
 </B3>
 
@@ -378,7 +392,7 @@
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7215 </place>
 <note> 台 </note>
 </B3>
 
@@ -392,7 +406,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7302 </place>
 <note> 世 </note>
 </B3>
 
@@ -406,7 +420,7 @@
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7117 </place>
 <note> 中 </note>
 </B3>
 
@@ -420,7 +434,7 @@
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7208 </place>
 <note> 世 </note>
 </B3>
 
@@ -434,7 +448,7 @@
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7115 </place>
 <note> 世 </note>
 </B3>
 

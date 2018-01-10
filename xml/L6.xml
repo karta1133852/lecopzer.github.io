@@ -112,6 +112,34 @@
 <note></note>
 </L6>
 
+<L6 id="009">
+<num>L6-009</num>
+<class> 博一                           </class>
+<group></group>
+<name> 書報討論（二） </name>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿*  ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊   ,  林士鳴   ,  郭瑋君  </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1301 </place>
+<note></note>
+</L6>
+
+<L6 id="010">
+<num>L6-010</num>
+<class> 博二                           </class>
+<group></group>
+<name> 書報討論（四） </name>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千*  ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 1 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1305 </place>
+<note></note>
+</L6>
+
 <L6 id="011">
 <num>L6-011</num>
 <class> 碩博                           </class>

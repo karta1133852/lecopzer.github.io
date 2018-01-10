@@ -399,13 +399,13 @@
 <class> 甲                             </class>
 <group></group>
 <name> 熱力學（二） </name>
-<teacher> 張錦裕  </teacher>
+<teacher> 李汶樺  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91203 </place>
-<note> 中文授課 </note>
+<note> 英語授課 </note>
 </E1>
 
 <E1 id="058">
