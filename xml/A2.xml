@@ -70,6 +70,20 @@
 <note> 【男女合班】球具自備 </note>
 </A2>
 
+<A2 id="006">
+<num>A2-006</num>
+<class> 一年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 桌球與健康體能 </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 男女合班球具自備 </note>
+</A2>
+
 <A2 id="007">
 <num>A2-007</num>
 <class> 一年級                        體育（女生組）　                                                       </class>
@@ -235,7 +249,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 健休體適能                    健休體適能 </place>
-<note> 【男女合班】 </note>
+<note></note>
 </A2>
 
 <A2 id="019">
@@ -302,20 +316,6 @@
 <teacher> 彭怡千  </teacher>
 <score> 0 </score>
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 飛輪教室                      飛輪教室 </place>
-<note></note>
-</A2>
-
-<A2 id="024">
-<num>A2-024</num>
-<class> 一年級                        體育（女生組）　                                                       </class>
-<group></group>
-<name> 飛輪有氧與健康體能 </name>
-<teacher> 林麗娟  </teacher>
-<score> 0 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 飛輪教室                      飛輪教室 </place>
@@ -403,7 +403,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 健休韻律教室                  健休韻律教室 </place>
-<note></note>
+<note> 【男女合班】需穿著室內（乾淨）運動鞋 </note>
 </A2>
 
 <A2 id="032">
@@ -656,6 +656,20 @@
 <type> 講義 </type>
 <place> 敬業網球場                    敬業網球場 </place>
 <note> 球具自備 </note>
+</A2>
+
+<A2 id="113">
+<num>A2-113</num>
+<class> 一年級                        體育（男生組）　                                                       </class>
+<group></group>
+<name> 桌球與健康體能 </name>
+<teacher> 邱宏達  </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 男女合班球具自備 </note>
 </A2>
 
 <A2 id="115">
@@ -935,7 +949,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 自強籃球場                    自強籃球場 </place>
-<note> 【男女合班】 </note>
+<note></note>
 </A2>
 
 <A2 id="139">
@@ -1103,7 +1117,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂桌球場 </place>
-<note></note>
+<note> 【男女合班】球具自備 </note>
 </A2>
 
 <A2 id="202">
@@ -1117,7 +1131,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂桌球場 </place>
-<note></note>
+<note> 【男女合班】球具自備 </note>
 </A2>
 
 <A2 id="203">
@@ -1533,10 +1547,10 @@
 <name> 排球（女） </name>
 <teacher> 黃賢哲  </teacher>
 <score> 0 </score>
-<time day1="3" s1="9" e1="10"> [3]9~A  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 光復排球高場                  光復排球高場 </place>
+<place> 中正堂                        中正堂羽球場 </place>
 <note></note>
 </A2>
 
@@ -1803,7 +1817,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂桌球場 </place>
-<note></note>
+<note> 【男女合班】球具自備 </note>
 </A2>
 
 <A2 id="312">
@@ -1817,7 +1831,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂桌球場 </place>
-<note></note>
+<note> 【男女合班】球具自備 </note>
 </A2>
 
 <A2 id="313">

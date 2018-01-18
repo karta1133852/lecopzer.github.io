@@ -332,22 +332,6 @@
 <note> 醫院實習，限本系學生 </note>
 </I2>
 
-<I2 id="158">
-<num>I2-158</num>
-<class></class>
-<group></group>
-<name> 臨床護理專業選習 </name>
-<teacher> 王靜枝   ,  胡芳文* </teacher>
-<score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I2>
-
 <I2 id="160">
 <num>I2-160</num>
 <class></class>

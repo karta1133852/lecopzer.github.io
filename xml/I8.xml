@@ -81,9 +81,9 @@
 <class></class>
 <group></group>
 <name> 有機化學（一） </name>
-<teacher> 陳毓宏   ,  洪欣儀  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<teacher> 陳毓宏*  ,  洪欣儀  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
@@ -345,12 +345,12 @@
 <class></class>
 <group></group>
 <name> 臨床藥學（藥事照護） </name>
-<teacher> 高雅慧  </teacher>
+<teacher> 高雅慧* </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        501 </place>
+<place> 醫學院                        302D </place>
 <note></note>
 </I8>
 
@@ -401,15 +401,13 @@
 <class></class>
 <group></group>
 <name> 服務學習（三） </name>
-<teacher> 未定  </teacher>
+<teacher> 高雅慧* </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I8>
 
 </content>

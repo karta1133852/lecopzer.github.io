@@ -147,7 +147,7 @@
 <name> 伊斯蘭文明導論 </name>
 <teacher> 林長寬  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7217 </place>
@@ -307,7 +307,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7302 </place>
-<note> 中 </note>
+<note> 中，外系可承認為通識學分 </note>
 </B3>
 
 <B3 id="123">

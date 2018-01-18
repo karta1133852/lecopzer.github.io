@@ -73,13 +73,13 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63104 </place>
-<note> 將改至[3-N]時段授課 </note>
+<note></note>
 <class1></class1>
 <group1></group1>
 <name1> 成本會計（二） </name1>
 <time1 day1="5" s1="4.5" e1="4.5" day2="2" s2="1" e2="1"> [5]N  ,  [2]1  </time1>
 <place1> 會計系館                      63104 </place1>
-<note1> 週五[N]改至週二[2]上課 </note1>
+<note1></note1>
 </H1>
 
 <H1 id="056">
@@ -193,9 +193,9 @@
 <class1></class1>
 <group1></group1>
 <name1> 高級會計學（二） </name1>
-<time1 day1="2" s1="4.5" e1="4.5" day2="3" s2="4.5" e2="4.5"> [2]N  ,  [3]N  </time1>
+<time1 day1="2" s1="5" e1="5" day2="2" s2="9" e2="9"> [2]5  ,  [2]9  </time1>
 <place1> 會計系館                      63101 </place1>
-<note1> 週二[N]改至[5] </note1>
+<note1></note1>
 </H1>
 
 <H1 id="103">

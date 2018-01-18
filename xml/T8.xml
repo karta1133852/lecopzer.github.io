@@ -100,7 +100,7 @@
 
 <T8 id="008">
 <num>T8-008</num>
-<class> 碩博                           </class>
+<class> 博                             </class>
 <group></group>
 <name> 高等生物統計學 </name>
 <teacher> 李中一  </teacher>
@@ -108,8 +108,8 @@
 <time day1="1" s1="9" e1="10"> [1]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        201D </place>
-<note></note>
+<place></place>
+<note> 門診大樓8樓公衛所08077會議室 </note>
 </T8>
 
 <T8 id="009">

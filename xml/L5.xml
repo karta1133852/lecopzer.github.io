@@ -252,20 +252,6 @@
 <note></note>
 </L5>
 
-<L5 id="060">
-<num>L5-060</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 微生物基因體學與實作 </name>
-<teacher> 廖泓鈞  </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科系館                      3414 </place>
-<note></note>
-</L5>
-
 <L5 id="061">
 <num>L5-061</num>
 <class> 碩博                           </class>
@@ -287,10 +273,10 @@
 <name> 城鄉生態學與循環經濟 </name>
 <teacher> 李亞夫  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3413 </place>
+<place> 生科系館                      3415 </place>
 <note></note>
 </L5>
 

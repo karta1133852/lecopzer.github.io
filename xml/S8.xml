@@ -74,14 +74,14 @@
 <num>S8-006</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 發展心理病理學 </name>
-<teacher> 黃惠玲  </teacher>
+<name> 心理治療特論 </name>
+<teacher> 黃惠玲* </teacher>
 <score> 3 </score>
 <time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        202D </place>
-<note> 限本所甲組。 </note>
+<note></note>
 </S8>
 
 <S8 id="007">
@@ -105,10 +105,10 @@
 <name> 臨床心理衡鑑 </name>
 <teacher> 郭乃文   ,  黃惠玲   ,  余睿羚* </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        205D </place>
+<place> 醫學院                        302D </place>
 <note> 先修臨床心理病理學 </note>
 </S8>
 
@@ -253,6 +253,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        301D </place>
+<note></note>
+</S8>
+
+<S8 id="019">
+<num>S8-019</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 復健心理學 </name>
+<teacher> 郭乃文* </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
 <note></note>
 </S8>
 

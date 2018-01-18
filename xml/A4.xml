@@ -131,7 +131,7 @@
 <class> 學程                           </class>
 <group></group>
 <name> 歷史／社會領域歷史教學實習 </name>
-<teacher> 陳恒安  </teacher>
+<teacher> 陳恒安*  ,  楊尹瑄  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>
@@ -339,7 +339,7 @@
 <name> 學習與教學 </name>
 <teacher> 彭淑玲  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      e化創新教室 </place>

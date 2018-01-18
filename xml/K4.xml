@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<K4 id="001">
-<num>K4-001</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 戲劇外文與實務專題研究 </name>
-<teacher> 李欣怡* </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 藝術所                        5450 </place>
-<note></note>
-</K4>
-
 <K4 id="002">
 <num>K4-002</num>
 <class> 碩一二                         </class>
@@ -152,20 +138,6 @@
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
 <note> 戲劇碩士學位學程課程 </note>
-</K4>
-
-<K4 id="012">
-<num>K4-012</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 舞台燈光設計專題研究 </name>
-<teacher> 未定  </teacher>
-<score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 藝術所                        5450 </place>
-<note></note>
 </K4>
 
 </content>

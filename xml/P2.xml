@@ -47,7 +47,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 都市計劃實習 </name>
-<teacher> 葉如萍*  ,  鄒克萬   ,  林漢良  </teacher>
+<teacher> 葉如萍*  ,  鄭皓騰   ,  鄒克萬   ,  林漢良  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
@@ -67,7 +67,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 產業發展規劃特論 </name>
-<teacher> 孔憲法  </teacher>
+<teacher> 未定   ,  孔憲法* </teacher>
 <score> 3 </score>
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
@@ -109,7 +109,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 多變量分析 </name>
-<teacher> 石豐宇  </teacher>
+<teacher> 未定   ,  石豐宇* </teacher>
 <score> 3 </score>
 <time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
@@ -153,10 +153,10 @@
 <name> 都市形態學 </name>
 <teacher> 陳志宏  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 都計系館                      50302 </place>
+<place> 都計系館                      50308 </place>
 <note> 大學部學生限三年級以上且須修過都市設計與都市發展史 </note>
 </P2>
 
@@ -263,7 +263,7 @@
 <class></class>
 <group></group>
 <name> 古地圖解碼(一)：發現古地圖 </name>
-<teacher> 孔憲法  </teacher>
+<teacher> 未定   ,  孔憲法* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>

@@ -69,13 +69,11 @@
 <name> 服務學習（三）—關懷與美善 </name>
 <teacher> 林呈鳳  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="5" s1="4.5" e1="4.5"> [5]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 物治系館                      B02 </place>
+<note></note>
 </A6>
 
 <A6 id="007">

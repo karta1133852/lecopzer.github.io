@@ -474,4 +474,18 @@
 <note></note>
 </C4>
 
+<C4 id="165">
+<num>C4-165</num>
+<class></class>
+<group></group>
+<name> 生物地質 </name>
+<teacher> 梁碧清  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</C4>
+
 </content>
