@@ -53,15 +53,13 @@
 <class></class>
 <group></group>
 <name> 普通物理學 </name>
-<teacher> 游輝樟  </teacher>
+<teacher> 張烈錚  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="2" s1="2" e1="2" day2="3" s2="3" e2="4"> [2]2  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        物治207 </place>
+<note> 與物治系合班 </note>
 </I3>
 
 <I3 id="009">

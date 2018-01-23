@@ -431,7 +431,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 醫學院                        204D </place>
-<note></note>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="083">
@@ -459,7 +459,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 修齊大樓                      26404 </place>
-<note> 科技整合 </note>
+<note> 科際整合相關領域：人文學、社會科學 </note>
 </A9>
 
 <A9 id="102">
@@ -851,7 +851,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 共同教室                      A1307(資源後) </place>
-<note></note>
+<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="181">
@@ -1355,7 +1355,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 台文系館                      88155 </place>
-<note> 第一堂課一定要到 </note>
+<note> 第一堂課一定要到，科際整合相關領域：人文學、生命科學與健康 </note>
 </A9>
 
 <A9 id="284">
@@ -1383,7 +1383,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 耐震大樓(建築研究大樓旁)      5117 </place>
-<note></note>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="286">
@@ -1411,7 +1411,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 理化大樓                      格致廳小講堂 </place>
-<note> 領域通識 </note>
+<note> 科際整合相關領域：社會科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="288">
@@ -1859,7 +1859,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 理化大樓                      格致廳大講堂 </place>
-<note></note>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="380">
@@ -1999,7 +1999,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 唯農大樓                      7211 </place>
-<note></note>
+<note> 科際整合相關領域：人文學、社會科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="421">
@@ -2097,7 +2097,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 成功校區經緯廳                經緯廳 </place>
-<note></note>
+<note> 科際整合相關領域：社會科學、自然與工程科學 </note>
 </A9>
 
 <A9 id="482">
@@ -2111,7 +2111,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 耐震大樓(建築研究大樓旁)      5117 </place>
-<note></note>
+<note> 科際整合相關領域：人文學、社會科學 </note>
 </A9>
 
 <A9 id="483">
@@ -2125,7 +2125,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place> 唯農大樓                      7110 </place>
-<note></note>
+<note> 科際整合相關領域：人文學、自然與工程科學 </note>
 </A9>
 
 <A9 id="531">
@@ -2335,7 +2335,7 @@
 <class></class>
 <group></group>
 <name> 表演藝術綜合實作 </name>
-<teacher> 高美華*  ,  秦嘉嫄   ,  楊金峯   ,  陳佳彬   ,  李欣怡  </teacher>
+<teacher> 高美華* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>

@@ -24,7 +24,7 @@
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 學生活動中心                  活動中心騎樓 </place>
+<place> 中正堂                        中正堂羽球場 </place>
 <note> 【男女合班】器材可向任課教師登記借用 </note>
 </A2>
 
@@ -514,7 +514,7 @@
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 學生活動中心                  活動中心騎樓 </place>
+<place> 中正堂                        中正堂羽球場 </place>
 <note> 【男女合班】器材可向任課教師登記借用 </note>
 </A2>
 
@@ -1288,6 +1288,20 @@
 <note> 【男女合班】大毛巾或舖巾自備 </note>
 </A2>
 
+<A2 id="215">
+<num>A2-215</num>
+<class> 二年級                        體育（女生組）　                                                       </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 徐珊惠  </teacher>
+<score> 0 </score>
+<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 男女合班 </note>
+</A2>
+
 <A2 id="216">
 <num>A2-216</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -1860,6 +1874,20 @@
 <type> 講義 </type>
 <place> 自強韻律室                    自強韻律室 </place>
 <note> 【男女合班】大毛巾或舖巾自備 </note>
+</A2>
+
+<A2 id="315">
+<num>A2-315</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 桌球（男女） </name>
+<teacher> 徐珊惠  </teacher>
+<score> 0 </score>
+<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中正堂                        中正堂桌球場 </place>
+<note> 男女合班 </note>
 </A2>
 
 <A2 id="316">

@@ -210,20 +210,6 @@
 <note> 選課前須先email授課老師取得同意。 </note>
 </U7>
 
-<U7 id="017">
-<num>U7-017</num>
-<class> 碩                             </class>
-<group></group>
-<name> 魔術心理學 </name>
-<teacher> 林君昱  </teacher>
-<score> 3 </score>
-<time day1="1" s1="9" e1="11"> [1]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
-<note></note>
-</U7>
-
 <U7 id="026">
 <num>U7-026</num>
 <class> 碩                             </class>
@@ -236,20 +222,6 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
 <note> 大碩合開課程。建議具備微積分與R程式之基礎 </note>
-</U7>
-
-<U7 id="030">
-<num>U7-030</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 決策與判斷 </name>
-<teacher> 許清芳  </teacher>
-<score> 3 </score>
-<time day1="2" s1="4.5" e1="6"> [2]N~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    A424 </place>
-<note> 外所學生須經授課教師確認統計基本知識，同意後才可選修本課程 </note>
 </U7>
 
 <U7 id="031">

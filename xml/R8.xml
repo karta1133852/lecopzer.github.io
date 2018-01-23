@@ -122,7 +122,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63209 </place>
+<place> 會計系館                      63102 </place>
 <note> 若使用電腦教室時將改至63205上課 </note>
 </R8>
 
@@ -137,7 +137,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63102 </place>
-<note> 限修過成本會計(1)(2)的同學選修 </note>
+<note></note>
 </R8>
 
 <R8 id="011">
@@ -220,7 +220,7 @@
 <time day1="2" s1="5" e1="7"> [2]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63405 </place>
+<place> 會計系館                      63415 </place>
 <note> 建議有意願讀博士班的研究所同學選修 </note>
 </R8>
 
@@ -229,7 +229,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 黃華瑋*  ,  王澤世  </teacher>
+<teacher> 王澤世* </teacher>
 <score> 0 </score>
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
@@ -243,7 +243,7 @@
 <class> 博三延                         </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 黃華瑋*  ,  王澤世  </teacher>
+<teacher> 王澤世* </teacher>
 <score> 0 </score>
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>

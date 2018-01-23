@@ -28,20 +28,6 @@
 <note> 教育基礎課程（4選2）。 </note>
 </A4>
 
-<A4 id="103">
-<num>A4-103</num>
-<class> 學程                           </class>
-<group></group>
-<name> 教育心理學 </name>
-<teacher> 彭淑玲   ,  程炳林* </teacher>
-<score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27808 </place>
-<note></note>
-</A4>
-
 <A4 id="201">
 <num>A4-201</num>
 <class> 學程                           </class>
