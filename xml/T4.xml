@@ -257,12 +257,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 牙科生物力學 </name>
-<teacher> 陳永崇  </teacher>
+<teacher> 陳永崇* </teacher>
 <score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<time day1="1" s1="6" e1="7"> [1]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 門診大樓                      7027 </place>
+<place> 門診大樓                      7050 </place>
 <note></note>
 </T4>
 

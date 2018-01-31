@@ -201,11 +201,11 @@
 <name> 材料與力學實驗 </name>
 <teacher> 葉明龍  </teacher>
 <score> 1 </score>
-<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫技醫工館                    5748 </place>
-<note> 2樓5748材料力學實驗室 </note>
+<place> 醫技醫工館                    5730 </place>
+<note></note>
 </F9>
 
 <F9 id="063">

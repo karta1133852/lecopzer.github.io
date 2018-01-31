@@ -210,20 +210,6 @@
 <note></note>
 </R7>
 
-<R7 id="016">
-<num>R7-016</num>
-<class> 碩博一                         </class>
-<group></group>
-<name> 高等資料庫管理 </name>
-<teacher> 王惠嘉  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61208 </place>
-<note></note>
-</R7>
-
 <R7 id="017">
 <num>R7-017</num>
 <class> 碩博                           </class>

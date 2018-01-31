@@ -483,7 +483,7 @@
 <name> 自動駕駛實務 </name>
 <teacher> 莊智清  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92271 </place>
@@ -500,7 +500,7 @@
 <time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92271 </place>
+<place> 電機系館                      92820 </place>
 <note></note>
 </N2>
 
@@ -571,6 +571,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92371 </place>
+<note></note>
+</N2>
+
+<N2 id="050">
+<num>N2-050</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高壓輸電 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
 <note></note>
 </N2>
 
@@ -838,6 +852,20 @@
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
 <note> 碩博碩專合班，英語授課 </note>
+</N2>
+
+<N2 id="314">
+<num>N2-314</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 自動駕駛實務 </name>
+<teacher> 莊智清  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92271 </place>
+<note></note>
 </N2>
 
 <N2 id="321">

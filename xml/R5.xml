@@ -175,7 +175,7 @@
 <name> 公路客運業經營與管理 </name>
 <teacher> 魏健宏  </teacher>
 <score> 3 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>
@@ -280,18 +280,18 @@
 <note></note>
 </R5>
 
-<R5 id="183">
-<num>R5-183</num>
+<R5 id="184">
+<num>R5-184</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 區域經濟發展評估 </name>
-<teacher> 孫雅彥  </teacher>
+<name> 民航經濟與財務管理 </name>
+<teacher> 戴佐敏  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="6" s1="5" e1="7"> [6]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 交管系館                      62105 </place>
-<note></note>
+<place> 交管系館                      62207 </place>
+<note> 跨學門民航學分學程 ，選課須經本系登記審核通過 </note>
 </R5>
 
 <R5 id="301">
@@ -394,6 +394,20 @@
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
 <note> 限碩專班修讀 </note>
+</R5>
+
+<R5 id="311">
+<num>R5-311</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 民航經濟與財務管理 </name>
+<teacher> 戴佐敏  </teacher>
+<score> 3 </score>
+<time day1="6" s1="5" e1="7"> [6]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 跨學門民航學分學程 ，選課須經本系登記審核通過 </note>
 </R5>
 
 </content>

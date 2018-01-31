@@ -504,20 +504,6 @@
 <note> 104學年度(含)以前學生為哲學與藝術 </note>
 </A9>
 
-<A9 id="106">
-<num>A9-106</num>
-<class></class>
-<group></group>
-<name> 倫理學 </name>
-<teacher> 葉海煙  </teacher>
-<score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 共同教室                      A1301 </place>
-<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
-</A9>
-
 <A9 id="107">
 <num>A9-107</num>
 <class></class>
@@ -669,7 +655,7 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 成功校區經緯廳                經緯廳 </place>
-<note> 領域通識 。(老師強力要求240人) </note>
+<note> 領域通識 </note>
 </A9>
 
 <A9 id="133">
@@ -724,7 +710,7 @@
 <time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 軍訓館                        6021 </place>
+<place> 雲平大樓                      27103(通識中心 </place>
 <note> 跨領域通識 </note>
 </A9>
 
@@ -739,7 +725,7 @@
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
 <place> 化工系館                      華立廳 </place>
-<note> 領域通識(與林哲睿合開) </note>
+<note> 領域通識 </note>
 </A9>
 
 <A9 id="146">
@@ -963,7 +949,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 唯農大樓                      許文龍講堂 </place>
-<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+<note> 領域通識 </note>
 </A9>
 
 <A9 id="204">
@@ -1089,7 +1075,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 空中大學                      53101 </place>
-<note> 104學年度(含)以前入學生為「公民與歷史」 </note>
+<note> 茶道與日本文化，104學年度(含)以前入學生為「公民與歷史」 </note>
 </A9>
 
 <A9 id="213">
@@ -1243,7 +1229,7 @@
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
 <place> 化工系館                      華立廳 </place>
-<note> 領域通識(與林哲睿合開) </note>
+<note> 領域通識 </note>
 </A9>
 
 <A9 id="246">
@@ -1747,7 +1733,7 @@
 <must> 必修 </must>
 <type> 生命科學與健康 </type>
 <place> 醫學院                        第一講堂 </place>
-<note> 領域通識，辛致煒老師為主開課老師 </note>
+<note> 領域通識 </note>
 </A9>
 
 <A9 id="367">
@@ -1873,7 +1859,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place></place>
-<note> 上課教室：成大藝坊；；科際整合相關領域：人文學、社會科學。至少修過一門進階實作實習課程。 </note>
+<note> 上課教室：成大藝坊；科際整合相關領域：人、社。至少修過2門進階實作實習課程。請於選課期間至藝術中心登記 </note>
 </A9>
 
 <A9 id="382">
@@ -2351,7 +2337,7 @@
 <class></class>
 <group></group>
 <name> 設計藝術綜合實作 </name>
-<teacher> 簡聖芬*  ,  楊佳翰  </teacher>
+<teacher> 簡聖芬*  ,  陳璽任   ,  楊佳翰  </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>

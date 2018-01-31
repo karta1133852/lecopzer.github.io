@@ -179,7 +179,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 敬業網球場                    敬業網球場 </place>
-<note> 球具自備 </note>
+<note> 球具自備  男女合班 </note>
 </A2>
 
 <A2 id="014">
@@ -770,6 +770,20 @@
 <note> 【男女合班】需穿著室內（乾淨）運動鞋 </note>
 </A2>
 
+<A2 id="123">
+<num>A2-123</num>
+<class> 一年級                        體育（男生組）　                                                       </class>
+<group></group>
+<name> 軟網與健康體能 </name>
+<teacher> 王苓華  </teacher>
+<score> 0 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 敬業網球場                    敬業網球場 </place>
+<note> 球具自備  男女合班 </note>
+</A2>
+
 <A2 id="126">
 <num>A2-126</num>
 <class> 一年級                        體育（男生組）　                                                       </class>
@@ -1295,7 +1309,7 @@
 <name> 桌球（男女） </name>
 <teacher> 徐珊惠  </teacher>
 <score> 0 </score>
-<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂桌球場 </place>
@@ -1883,7 +1897,7 @@
 <name> 桌球（男女） </name>
 <teacher> 徐珊惠  </teacher>
 <score> 0 </score>
-<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂桌球場 </place>
@@ -2293,20 +2307,6 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 光復籃球低場                  光復籃球低場 </place>
-<note></note>
-</A2>
-
-<A2 id="351">
-<num>A2-351</num>
-<class> 二年級                        體育（男生組）                                                         </class>
-<group></group>
-<name> 體適能運動（男） </name>
-<teacher> 潘慧雯  </teacher>
-<score> 0 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 健休體適能                    健休體適能 </place>
 <note></note>
 </A2>
 

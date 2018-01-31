@@ -37,7 +37,7 @@
 <name> 健康照護的倫理探討與實踐 </name>
 <teacher> 甘偵蓉   ,  黃美智* </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -81,25 +81,11 @@
 <name> 教學理論與方法特論 </name>
 <teacher> 陳彰惠* </teacher>
 <score> 2 </score>
-<time day1="4" s1="6" e1="7"> [4]6~7  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 上課教室:護理系館101教室 </note>
-</TA>
-
-<TA id="007">
-<num>TA-007</num>
-<class> 博                             </class>
-<group></group>
-<name> 臨床心理督導實務 </name>
-<teacher> 郭乃文* </teacher>
-<score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 上課地點於健照所會議室 </note>
+<note> 上課教室:健照所會議室 </note>
 </TA>
 
 <TA id="010">

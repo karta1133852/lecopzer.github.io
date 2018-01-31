@@ -56,20 +56,6 @@
 <note> 資訊所醫資所多媒學程合班 </note>
 </P7>
 
-<P7 id="005">
-<num>P7-005</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等密碼學專論 </name>
-<teacher> 黃宗立  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4260 </place>
-<note> 英語授課 </note>
-</P7>
-
 <P7 id="006">
 <num>P7-006</num>
 <class> 碩博                           </class>
@@ -152,6 +138,20 @@
 <type> 講義 </type>
 <place> 資訊系館                      4260 </place>
 <note> 資訊所醫資所製造所多媒學程公衛所合班 </note>
+</P7>
+
+<P7 id="012">
+<num>P7-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 量子安全協定專論 </name>
+<teacher> 黃宗立  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4260 </place>
+<note> 英語授課 </note>
 </P7>
 
 <P7 id="013">
@@ -287,7 +287,7 @@
 <name> 節能光網路專論 </name>
 <teacher> 蘇銓清  </teacher>
 <score> 3 </score>
-<time day1="4" s1="9" e1="10"> [4]9~A  </time>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65104 </place>

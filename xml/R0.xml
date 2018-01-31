@@ -47,15 +47,13 @@
 <class> 碩專一二                       </class>
 <group></group>
 <name> 質性研究方法 </name>
-<teacher> 未定  </teacher>
+<teacher> 周信輝  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="4" s1="10" e1="11"> [4]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
 </R0>
 
 <R0 id="305">
@@ -63,7 +61,7 @@
 <class> 碩專一二                       </class>
 <group></group>
 <name> 中小企業經營與管理 </name>
-<teacher> 張紹基  </teacher>
+<teacher> 顏盟峯   ,  張紹基*  ,  曾瓊慧   ,  張巍勳  </teacher>
 <score> 3 </score>
 <time day1="3" s1="10" e1="12"> [3]A~C  </time>
 <must> 選修 </must>
@@ -147,15 +145,13 @@
 <class> 碩專一二                       </class>
 <group></group>
 <name> 企業經營與診斷 </name>
-<teacher> 未定  </teacher>
+<teacher> 周信輝  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="7" s1="3" e1="4" day2="7" s2="5" e2="5"> [7]3~4  ,  [7]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 管理學院                      哈佛教室 </place>
+<note> 限本所 </note>
 </R0>
 
 <R0 id="312">
@@ -170,6 +166,20 @@
 <type> 講義 </type>
 <place> 62X17 </place>
 <note> 限本所 </note>
+</R0>
+
+<R0 id="314">
+<num>R0-314</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 醫務管理專題(二) </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time day1="5" s1="10" e1="10"> [5]A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
 </R0>
 
 </content>

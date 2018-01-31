@@ -133,7 +133,7 @@
 <class></class>
 <group></group>
 <name> 醫療專業與生死 </name>
-<teacher> 楊延光   ,  吳晉祥*  ,  盧豐華   ,  郭保麟   ,  林其和   ,  吳俊明   ,  張俊彥   ,  林鵬展   ,  何宗憲   ,  簡偉明  </teacher>
+<teacher> 楊延光*  ,  吳晉祥   ,  盧豐華   ,  郭保麟   ,  林其和   ,  吳俊明   ,  張俊彥   ,  林鵬展   ,  何宗憲   ,  簡偉明  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
@@ -290,7 +290,7 @@
 <time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 醫學院                        208 </place>
 <note> 與通識合班上課，醫學系學生不能抵通識 </note>
 </I5>
 

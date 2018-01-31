@@ -151,20 +151,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91301 </place>
-<note></note>
-</N1>
-
-<N1 id="028">
-<num>N1-028</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 生物流體力學 </name>
-<teacher> 陳嘉元  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91301 </place>
 <note> 英語授課 </note>
 </N1>
 

@@ -409,10 +409,10 @@
 <name> 工程數學（四） </name>
 <teacher> 王雲哲  </teacher>
 <score> 3 </score>
-<time day1="3" s1="5" e1="6" day2="5" s2="8" e2="8"> [3]5~6  ,  [5]8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      4507 </place>
 <note> 三四年級可選修，土木甲乙合班 </note>
 </E6>
 
@@ -513,25 +513,11 @@
 <name> 預力混凝土學 </name>
 <teacher> 劉光晏  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4505 </place>
+<place> 土木系館                      4507 </place>
 <note> 三四年級可選修，土木甲乙合班 </note>
-</E6>
-
-<E6 id="115">
-<num>E6-115</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 工程品質與安全 </name>
-<teacher> 潘南飛  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4509 </place>
-<note> 三四年級可選修，土木甲乙、都計合班 </note>
 </E6>
 
 <E6 id="118">

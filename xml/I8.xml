@@ -333,11 +333,11 @@
 <name> 生物製劑 </name>
 <teacher> 張惠華  </teacher>
 <score> 1 </score>
-<time day1="1" s1="3" e1="3"> [1]3  </time>
+<time day1="5" s1="4" e1="4"> [5]4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 醫學院                        602 </place>
-<note></note>
+<place></place>
+<note> 204教室 </note>
 </I8>
 
 <I8 id="151">
@@ -403,11 +403,13 @@
 <name> 服務學習（三） </name>
 <teacher> 高雅慧* </teacher>
 <score> 0 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note></note>
+<note> 
+ </note>
 </I8>
 
 </content>

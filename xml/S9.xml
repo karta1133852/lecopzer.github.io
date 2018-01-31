@@ -322,6 +322,20 @@
 <note> 全英文 </note>
 </S9>
 
+<S9 id="024">
+<num>S9-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 血管新生學 </name>
+<teacher> 周楠華   ,  張俊彥   ,  羅傳堯   ,  鄭宏祺   ,  張雅雯   ,  沈延盛   ,  吳梨華*  ,  吳佳慶  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 分醫所、基醫所、口醫所合班 </note>
+</S9>
+
 <S9 id="301">
 <num>S9-301</num>
 <class> 碩專                           </class>
@@ -558,6 +572,20 @@
 <type> 研討 </type>
 <place> 門診大樓                      7023 </place>
 <note> 與口醫所合開 </note>
+</S9>
+
+<S9 id="318">
+<num>S9-318</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 血管新生學 </name>
+<teacher> 周楠華   ,  張俊彥   ,  羅傳堯   ,  鄭宏祺   ,  張雅雯   ,  沈延盛   ,  吳梨華*  ,  吳佳慶  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 分醫所、基醫所、口醫所合班 </note>
 </S9>
 
 </content>
