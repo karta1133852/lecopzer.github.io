@@ -147,7 +147,7 @@
 <name> 企業經營與診斷 </name>
 <teacher> 周信輝  </teacher>
 <score> 3 </score>
-<time day1="7" s1="3" e1="4" day2="7" s2="5" e2="5"> [7]3~4  ,  [7]5  </time>
+<time day1="7" s1="5" e1="5" day2="7" s2="3" e2="4"> [7]5  ,  [7]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      哈佛教室 </place>
@@ -168,17 +168,31 @@
 <note> 限本所 </note>
 </R0>
 
+<R0 id="313">
+<num>R0-313</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 經營管理與診斷 </name>
+<teacher> 林正章  </teacher>
+<score> 3 </score>
+<time day1="7" s1="3" e1="4" day2="7" s2="5" e2="5"> [7]3~4  ,  [7]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 62X17 </place>
+<note> 不開放網路選課，由系辦統一選課。 </note>
+</R0>
+
 <R0 id="314">
 <num>R0-314</num>
 <class> 碩專一二                       </class>
 <group></group>
 <name> 醫務管理專題(二) </name>
-<teacher> 未定  </teacher>
+<teacher> 邱仲慶  </teacher>
 <score> 1 </score>
 <time day1="5" s1="10" e1="10"> [5]A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 62X17 </place>
 <note></note>
 </R0>
 

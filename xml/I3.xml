@@ -55,7 +55,7 @@
 <name> 普通物理學 </name>
 <teacher> 張烈錚  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="3" s2="3" e2="4"> [2]2  ,  [3]3~4  </time>
+<time day1="3" s1="3" e1="4" day2="2" s2="2" e2="2"> [3]3~4  ,  [2]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        物治207 </place>
@@ -250,6 +250,22 @@
  </note>
 </I3>
 
+<I3 id="062">
+<num>I3-062</num>
+<class></class>
+<group></group>
+<name> 專題研究實驗（二） </name>
+<teacher> 蔡佩珍* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</I3>
+
 <I3 id="101">
 <num>I3-101</num>
 <class></class>
@@ -428,7 +444,7 @@
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5776 </place>
+<place> 醫技醫工館                    5777 </place>
 <note></note>
 </I3>
 

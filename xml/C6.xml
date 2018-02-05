@@ -249,9 +249,9 @@
 <class></class>
 <group></group>
 <name> 實驗室實習(二) </name>
-<teacher> 盧福翊* </teacher>
+<teacher> 林鼎晏*  ,  盧福翊* </teacher>
 <score> 1 </score>
-<time day1="4" s1="4.5" e1="4.5"> [4]N  </time>
+<time day1="2" s1="4.5" e1="4.5" day2="3" s2="4.5" e2="4.5" day3="4" s3="4.5" e3="4.5"> [2]N  ,  [3]N  ,  [4]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 共同教室                      A1303 </place>
@@ -291,7 +291,7 @@
 <class></class>
 <group></group>
 <name> 人體生理學概論 </name>
-<teacher> 陳炳焜*  ,  洪良宜   ,  張雅雯  </teacher>
+<teacher> 洪良宜   ,  陳炳焜*  ,  張雅雯  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>

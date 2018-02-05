@@ -172,6 +172,20 @@
 <note></note>
 </F1>
 
+<F1 id="067">
+<num>F1-067</num>
+<class></class>
+<group></group>
+<name> 數值分析 </name>
+<teacher> 吳炳承  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 系統系館                      56113 </place>
+<note></note>
+</F1>
+
 <F1 id="069">
 <num>F1-069</num>
 <class></class>
@@ -219,7 +233,7 @@
 <class></class>
 <group></group>
 <name> 船舶阻力與推進 </name>
-<teacher> 林宇銜  </teacher>
+<teacher> 吳炳承  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
@@ -305,7 +319,7 @@
 <class></class>
 <group></group>
 <name> 船舶與機電設計實務（一） </name>
-<teacher> 陳政宏   ,  陳永裕* </teacher>
+<teacher> 陳智強*  ,  吳炳承  </teacher>
 <score> 3 </score>
 <time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 必修 </must>
@@ -361,7 +375,7 @@
 <class></class>
 <group></group>
 <name> 船舶與機電設計實務（二） </name>
-<teacher> 陳政宏   ,  陳永裕* </teacher>
+<teacher> 林忠宏   ,  陳政宏   ,  沈聖智* </teacher>
 <score> 3 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>

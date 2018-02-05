@@ -16,6 +16,118 @@
  </note>
 </AN>
 
+<AN id="009">
+<num>AN-009</num>
+<class></class>
+<group></group>
+<name> 簡報邏輯：溝通與表達的藝術 </name>
+<teacher> 賴明德  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="010">
+<num>AN-010</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="011">
+<num>AN-011</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="012">
+<num>AN-012</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="013">
+<num>AN-013</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="014">
+<num>AN-014</num>
+<class></class>
+<group></group>
+<name> 深度學習在電腦視覺上之應用 </name>
+<teacher> 張天豪  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="015">
+<num>AN-015</num>
+<class></class>
+<group></group>
+<name> 陪伴機器人與服務系統設計工作坊 </name>
+<teacher> 曾元琦*  ,  楊佳翰  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
 <AN id="053">
 <num>AN-053</num>
 <class></class>

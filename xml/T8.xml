@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 胡淑貞   ,  王亮懿*  ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<teacher> 胡淑貞   ,  王亮懿*  ,  李中一   ,  古鯉榕  </teacher>
 <score> 0 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 胡淑貞   ,  王亮懿*  ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<teacher> 胡淑貞   ,  王亮懿*  ,  李中一   ,  古鯉榕  </teacher>
 <score> 0 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
@@ -33,13 +33,13 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 胡淑貞   ,  王亮懿   ,  李中一   ,  王榮德*  ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<teacher> 王榮德*  ,  莊佳蓉   ,  簡玉雯  </teacher>
 <score> 0 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫學院                        303D </place>
-<note> 全體教師參與 </note>
+<place></place>
+<note> 全體教師參與(上課教室:門診大樓8樓公衛所08077會議室) </note>
 </T8>
 
 <T8 id="004">
@@ -47,13 +47,13 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 胡淑貞   ,  王亮懿   ,  李中一   ,  王榮德*  ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<teacher> 王榮德*  ,  莊佳蓉   ,  簡玉雯  </teacher>
 <score> 0 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 醫學院                        303D </place>
-<note> 與博班專題討論(二)合班上課 </note>
+<place></place>
+<note> 與博班專題討論(二)合班上課(上課教室:門診大樓8樓公衛所08077會議室) </note>
 </T8>
 
 <T8 id="005">
@@ -61,7 +61,7 @@
 <class> 碩博三延                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 胡淑貞   ,  王亮懿*  ,  李中一   ,  王榮德*  ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯  </teacher>
+<teacher> 胡淑貞   ,  王亮懿*  ,  李中一   ,  古鯉榕  </teacher>
 <score> 0 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>

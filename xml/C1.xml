@@ -115,7 +115,7 @@
 <name> 高等微積分（二） </name>
 <teacher> 陳若淳  </teacher>
 <score> 4 </score>
-<time day1="3" s1="3" e1="4" day2="1" s2="5" e2="6"> [3]3~4  ,  [1]5~6  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="3" e2="4"> [1]5~6  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3172 </place>

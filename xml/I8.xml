@@ -123,7 +123,7 @@
 <class></class>
 <group></group>
 <name> 生藥暨中藥學（二） </name>
-<teacher> 洪欣儀   ,  吳天賞  </teacher>
+<teacher> 吳天賞   ,  林少紅* </teacher>
 <score> 2 </score>
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
@@ -247,7 +247,7 @@
 <class></class>
 <group></group>
 <name> 藥理學 （二） </name>
-<teacher> 陳炳焜   ,  張家銘   ,  張明熙   ,  呂增宏   ,  簡偉明   ,  沈孟儒   ,  王憶卿   ,  陳韻雯   ,  張雅雯   ,  周辰熹   ,  張惠華   ,  王應然  </teacher>
+<teacher> 張家銘   ,  張明熙   ,  呂增宏   ,  簡偉明   ,  沈孟儒   ,  陳炳焜   ,  王憶卿   ,  陳韻雯   ,  張雅雯   ,  周辰熹   ,  張惠華   ,  王應然  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
@@ -410,6 +410,20 @@
 <place></place>
 <note> 
  </note>
+</I8>
+
+<I8 id="156">
+<num>I8-156</num>
+<class></class>
+<group></group>
+<name> 本草學 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
 </I8>
 
 </content>

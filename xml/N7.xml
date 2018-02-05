@@ -135,7 +135,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 建築與都市防災規劃 </name>
-<teacher> 陳世明  </teacher>
+<teacher> 姚昭智   ,  陳世明* </teacher>
 <score> 3 </score>
 <time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
@@ -435,7 +435,7 @@
 <name> 服務學習專題討論（二） </name>
 <teacher> 吳光庭  </teacher>
 <score> 0 </score>
-<time day1="4" s1="9" e1="9"> [4]9  </time>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5101 </place>

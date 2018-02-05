@@ -196,6 +196,20 @@
 <note> 英語授課 </note>
 </N3>
 
+<N3 id="125">
+<num>N3-125</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創意與創新於奈米科技 </name>
+<teacher> 洪昭南  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93706 </place>
+<note></note>
+</N3>
+
 <N3 id="157">
 <num>N3-157</num>
 <class> 碩博                           </class>

@@ -255,7 +255,7 @@
 <name> 流體力學 </name>
 <teacher> 方　中  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="7" day2="3" s2="5" e2="6"> [1]7  ,  [3]5~6  </time>
+<time day1="3" s1="5" e1="6" day2="1" s2="7" e2="7"> [3]5~6  ,  [1]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -267,7 +267,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 工程地質學 </name>
-<teacher> 李德河  </teacher>
+<teacher> 柯永彥  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -339,7 +339,7 @@
 <name> 流體力學 </name>
 <teacher> 方　中  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time day1="3" s1="2" e1="2" day2="1" s2="2" e2="3"> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -497,7 +497,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 軌道養護實務 </name>
-<teacher> 徐仁財  </teacher>
+<teacher> 徐仁財*  ,  李永昌   ,  陳仕其   ,  陳鴻麟  </teacher>
 <score> 3 </score>
 <time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
@@ -669,7 +669,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 工程實務－中興論壇 </name>
-<teacher> 未定  </teacher>
+<teacher> 邱琳濱  </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>

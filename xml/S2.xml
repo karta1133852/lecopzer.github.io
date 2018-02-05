@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 藥理學專題討論（二） </name>
-<teacher> 洪建中   ,  王育民   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心* </teacher>
+<teacher> 洪建中   ,  王育民   ,  林鼎晏   ,  洪良宜   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  陳炳焜   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心* </teacher>
 <score> 1 </score>
 <time day1="1" s1="7" e1="7"> [1]7  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 實驗藥理學 </name>
-<teacher> 陳炳焜*  ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心  </teacher>
+<teacher> 呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  陳炳焜*  ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
@@ -89,7 +89,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 藥理學專題討論（四） </name>
-<teacher> 洪建中   ,  王育民   ,  陳炳焜   ,  林鼎晏   ,  洪良宜   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心* </teacher>
+<teacher> 洪建中   ,  王育民   ,  林鼎晏   ,  洪良宜   ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  陳炳焜   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心* </teacher>
 <score> 1 </score>
 <time day1="1" s1="8" e1="8"> [1]8  </time>
 <must> 必修 </must>
@@ -137,7 +137,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 生命科學書報討論（二） </name>
-<teacher> 陳炳焜*  ,  呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心  </teacher>
+<teacher> 呂增宏   ,  簡偉明   ,  許桂森   ,  沈孟儒   ,  簡伯武   ,  陳炳焜*  ,  王憶卿   ,  張雋曦   ,  陳韻雯   ,  姜學誠   ,  蕭雅心  </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="5"> [2]5  </time>
 <must> 選修 </must>

@@ -2058,6 +2058,20 @@
 <note> 球具自備 </note>
 </A2>
 
+<A2 id="330">
+<num>A2-330</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 健訓（男） </name>
+<teacher> 潘慧雯  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光操健訓室                    光操健訓室 </place>
+<note></note>
+</A2>
+
 <A2 id="332">
 <num>A2-332</num>
 <class> 二年級                        體育（男生組）                                                         </class>

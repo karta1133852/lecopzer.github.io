@@ -287,7 +287,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（二） </name>
-<teacher> 龔俊嘉   ,  謝淑蘭*  ,  楊政達   ,  林君昱   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
+<teacher> 龔俊嘉   ,  謝淑蘭*  ,  楊政達   ,  林君昱   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  徐欣萍  </teacher>
 <score> 3 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -389,7 +389,7 @@
 <name> 助人技巧的理論與實務：運用遠距課輔模式關 </name>
 <teacher> 徐欣萍  </teacher>
 <score> 3 </score>
-<time day1="3" s1="8" e1="8" day2="2" s2="8" e2="9"> [3]8  ,  [2]8~9  </time>
+<time day1="2" s1="8" e1="9" day2="3" s2="8" e2="8"> [2]8~9  ,  [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>

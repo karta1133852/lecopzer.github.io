@@ -5,7 +5,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 鍾興陽  </teacher>
+<teacher> 鍾興陽*  ,  柯永彥  </teacher>
 <score> 0 </score>
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
@@ -191,7 +191,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 工程實務－中興論壇 </name>
-<teacher> 未定  </teacher>
+<teacher> 邱琳濱  </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
@@ -333,7 +333,7 @@
 <name> 高等岩石力學 </name>
 <teacher> 李德河  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="7" day2="4" s2="7" e2="8"> [1]7  ,  [4]7~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -347,7 +347,7 @@
 <name> 椿基礎分析與設計 </name>
 <teacher> 倪勝火  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="8" e2="8"> [2]7~8  ,  [5]8  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -444,6 +444,20 @@
 <note> 碩博與碩專班合班，英語授課 </note>
 </N6>
 
+<N6 id="062">
+<num>N6-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料穩定學 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      47158 </place>
+<note></note>
+</N6>
+
 <N6 id="063">
 <num>N6-063</num>
 <class> 碩博                           </class>
@@ -533,7 +547,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 工程實務－中興論壇 </name>
-<teacher> 未定  </teacher>
+<teacher> 邱琳濱  </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
@@ -675,7 +689,7 @@
 <name> 高等岩石力學 </name>
 <teacher> 李德河  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="7" day2="4" s2="7" e2="8"> [1]7  ,  [4]7~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -689,7 +703,7 @@
 <name> 椿基礎分析與設計 </name>
 <teacher> 倪勝火  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="8" e2="8"> [2]7~8  ,  [5]8  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -784,6 +798,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
 <note> 碩博與碩專班合班，英語授課 </note>
+</N6>
+
+<N6 id="362">
+<num>N6-362</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 材料穩定學 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      47158 </place>
+<note></note>
 </N6>
 
 <N6 id="363">
