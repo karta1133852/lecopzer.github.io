@@ -24,7 +24,7 @@
 <time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      27613 </place>
 <note> 限本考古所碩二學生 </note>
 </K7>
 
@@ -52,7 +52,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      27613 </place>
 <note></note>
 </K7>
 
@@ -66,13 +66,13 @@
 <time day1="2" s1="5" e1="7"> [2]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      27613 </place>
 <note> 限本所學生 </note>
 <class1> 碩二                           </class1>
 <group1> 3 </group1>
 <name1> 動物考古學 </name1>
 <time1 day1="2" s1="2" e1="4"> [2]2~4  </time1>
-<place1></place1>
+<place1> 雲平大樓                      27613 </place1>
 <note1></note1>
 </K7>
 
@@ -100,7 +100,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 雲平大樓                      27613 </place>
 <note></note>
 </K7>
 
@@ -114,7 +114,7 @@
 <time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place></place>
+<place> 雲平大樓                      27613 </place>
 <note></note>
 </K7>
 

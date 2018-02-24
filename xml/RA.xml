@@ -191,7 +191,7 @@
 <name> 質性研究方法 </name>
 <teacher> 王慕容  </teacher>
 <score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -233,7 +233,7 @@
 <name> 行銷管理 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
-<time day1="6" s1="6" e1="8"> [6]6~8  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -415,7 +415,7 @@
 <name> 質性研究方法 </name>
 <teacher> 王慕容  </teacher>
 <score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -485,7 +485,7 @@
 <name> 行銷管理 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
-<time day1="6" s1="6" e1="8"> [6]6~8  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>

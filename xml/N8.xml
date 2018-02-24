@@ -201,7 +201,7 @@
 <class> 碩博三延                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 羅偉誠  </teacher>
+<teacher> 蕭士俊  </teacher>
 <score> 0 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
@@ -262,8 +262,8 @@
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note></note>
+<place> 水利系館                      4629 </place>
+<note> 上課地點：水利系2樓電腦教室 </note>
 </N8>
 
 <N8 id="033">
@@ -308,6 +308,20 @@
 <note></note>
 </N8>
 
+<N8 id="036">
+<num>N8-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 地質災害評估及應變 </name>
+<teacher> 吳建宏  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4650 </place>
+<note></note>
+</N8>
+
 <N8 id="041">
 <num>N8-041</num>
 <class> 碩博                           </class>
@@ -341,7 +355,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 海岸保護 </name>
-<teacher> 董東璟*  ,  陳佳琳   ,  Prter Froh  </teacher>
+<teacher> 董東璟*  ,  陳佳琳   ,  Prter Frohle  </teacher>
 <score> 3 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
@@ -481,7 +495,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 實用水文學 </name>
-<teacher> 羅偉誠  </teacher>
+<teacher> 顏沛華  </teacher>
 <score> 3 </score>
 <time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 必修 </must>

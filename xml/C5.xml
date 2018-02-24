@@ -27,10 +27,10 @@
 <name> 普通物理學 </name>
 <teacher> 張為民  </teacher>
 <score> 3 </score>
-<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
+<time day1="5" s1="2" e1="2" day2="3" s2="3" e2="4"> [5]2  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3415 </place>
+<place> 生科院大樓                    891S3 </place>
 <note></note>
 </C5>
 
@@ -58,7 +58,7 @@
 <time day1="1" s1="5" e1="6" day2="5" s2="3" e2="4"> [1]5~6  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3415 </place>
+<place> 生科院大樓                    891S3 </place>
 <note></note>
 </C5>
 
@@ -72,7 +72,7 @@
 <time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 生科系館                      3437 </place>
+<place> 生科院大樓                    89210 </place>
 <note></note>
 </C5>
 
@@ -86,7 +86,7 @@
 <time day1="3" s1="9" e1="9"> [3]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 生科系館                      3415 </place>
+<place> 生科院大樓                    891S3 </place>
 <note></note>
 </C5>
 
@@ -100,7 +100,7 @@
 <time day1="1" s1="7" e1="7"> [1]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3415 </place>
+<place> 生科院大樓                    891S3 </place>
 <note></note>
 </C5>
 
@@ -114,7 +114,7 @@
 <time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -128,7 +128,7 @@
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 生科系館                      3437 </place>
+<place> 生科院大樓                    89210 </place>
 <note></note>
 </C5>
 
@@ -142,7 +142,7 @@
 <time day1="1" s1="4.5" e1="4.5" day2="2" s2="4.5" e2="4.5" day3="3" s3="4.5" e3="4.5"> [1]N  ,  [2]N  ,  [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -156,7 +156,7 @@
 <time day1="1" s1="9" e1="10"> [1]9~A  </time>
 <must> 必選 </must>
 <type> 實習 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -184,7 +184,7 @@
 <time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -198,7 +198,7 @@
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -212,7 +212,7 @@
 <time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -240,7 +240,7 @@
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -254,7 +254,7 @@
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -268,7 +268,7 @@
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -282,7 +282,7 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3404 </place>
+<place> 生科院大樓                    891S2 </place>
 <note> 歡迎生技產業系、生科系大二以上同學選修 </note>
 </C5>
 
@@ -328,7 +328,7 @@
 <time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 化學系館                      3275 </place>
+<place> 化學系館                      3267 </place>
 <note></note>
 </C5>
 
@@ -342,7 +342,7 @@
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -370,7 +370,7 @@
 <time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 生科系館                      3437 </place>
+<place> 生科院大樓                    89210 </place>
 <note></note>
 </C5>
 
@@ -384,7 +384,7 @@
 <time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3418 </place>
+<place> 生科院大樓                    892S4 </place>
 <note></note>
 </C5>
 
@@ -398,7 +398,7 @@
 <time day1="2" s1="7" e1="8" day2="4" s2="1" e2="1"> [2]7~8  ,  [4]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3418 </place>
+<place> 生科院大樓                    892S4 </place>
 <note></note>
 </C5>
 
@@ -412,7 +412,7 @@
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3418 </place>
+<place> 生科院大樓                    892S4 </place>
 <note></note>
 </C5>
 
@@ -426,7 +426,7 @@
 <time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3418 </place>
+<place> 生科院大樓                    892S4 </place>
 <note></note>
 </C5>
 
@@ -440,7 +440,7 @@
 <time day1="5" s1="9" e1="11"> [5]9~B  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 生科系館                      3418 </place>
+<place> 生科院大樓                    892S4 </place>
 <note></note>
 </C5>
 
@@ -454,7 +454,7 @@
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3425 </place>
+<place> 生科院大樓                    892S3 </place>
 <note> 歡迎修過普通生物學相關課程且學期成績60分以上之大二至大四同學選修 </note>
 </C5>
 
@@ -468,7 +468,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 生科系館                      3417 </place>
+<place> 生科院大樓                    891S2 </place>
 <note></note>
 </C5>
 
@@ -482,7 +482,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 生科系館                      3418 </place>
+<place> 生科院大樓                    892S4 </place>
 <note></note>
 </C5>
 
@@ -496,7 +496,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 生科系館                      3425 </place>
+<place> 生科院大樓                    892S3 </place>
 <note></note>
 </C5>
 
@@ -510,7 +510,7 @@
 <time day1="1" s1="1" e1="1"> [1]1  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 生科系館                      3425 </place>
+<place> 生科院大樓                    892S3 </place>
 <note></note>
 </C5>
 
@@ -552,7 +552,7 @@
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3418 </place>
+<place> 生科院大樓                    892S4 </place>
 <note></note>
 </C5>
 

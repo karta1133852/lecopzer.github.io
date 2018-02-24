@@ -85,7 +85,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（二） </name>
-<teacher> 羅偉誠  </teacher>
+<teacher> 蕭士俊  </teacher>
 <score> 0 </score>
 <time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
 <must> 必修 </must>
@@ -368,20 +368,6 @@
 <teacher> 楊瑞源  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4627 </place>
-<note></note>
-</E8>
-
-<E8 id="155">
-<num>E8-155</num>
-<class></class>
-<group></group>
-<name> 水質工程 </name>
-<teacher> 張智華  </teacher>
-<score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>

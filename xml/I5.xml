@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 習醫之道－醫師專業養成與體驗（二） </name>
-<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
+<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
 <time day1="1" s1="10" e1="11"> [1]A~B  </time>
 <must> 必修 </must>
@@ -89,7 +89,7 @@
 <class></class>
 <group></group>
 <name> 醫學科學研究（二） </name>
-<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
+<teacher> 謝式洲   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
 <time day1="1" s1="4" e1="4"> [1]4  </time>
 <must> 選修 </must>
@@ -175,7 +175,7 @@
 <class></class>
 <group></group>
 <name> 習醫之道－醫師專業養成與體驗（四） </name>
-<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
+<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
 <time day1="3" s1="10" e1="11"> [3]A~B  </time>
 <must> 必修 </must>
@@ -189,7 +189,7 @@
 <class></class>
 <group></group>
 <name> 公共衛生學（二） </name>
-<teacher> 林宙晴   ,  王伯智   ,  郭耀昌   ,  郭浩然   ,  蘇慧貞   ,  李俊璋   ,  蔡朋枝   ,  林明彥   ,  吳致杰* </teacher>
+<teacher> 林宙晴   ,  王伯智   ,  郭耀昌   ,  郭浩然   ,  李俊璋   ,  蔡朋枝   ,  林明彥   ,  吳致杰* </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="8"> [5]5~8  </time>
 <must> 必修 </must>
@@ -299,7 +299,7 @@
 <class></class>
 <group></group>
 <name> 習醫之道－醫師專業養成與體驗（六） </name>
-<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
+<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
 <time day1="5" s1="10" e1="11"> [5]A~B  </time>
 <must> 必修 </must>
@@ -398,8 +398,8 @@
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 化學系館                      3267 </place>
-<note> 上課地點：化學系館 3267教室 </note>
+<place></place>
+<note> 上課地點：醫學院第三講堂 </note>
 </I5>
 
 <I5 id="107">
@@ -407,7 +407,7 @@
 <class></class>
 <group></group>
 <name> 醫學科學研究（六） </name>
-<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
+<teacher> 謝式洲   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
 <time day1="1" s1="4" e1="4"> [1]4  </time>
 <must> 選修 </must>
@@ -435,7 +435,7 @@
 <class></class>
 <group></group>
 <name> 習醫之道－醫師專業養成與體驗（八） </name>
-<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  姚維仁   ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
+<teacher> 趙曉秋   ,  吳晉祥   ,  林志勝*  ,  謝式洲   ,  張俊彥   ,  邱元佑   ,  沈延盛   ,  劉秉彥  </teacher>
 <score> 1 </score>
 <time day1="4" s1="10" e1="11"> [4]A~B  </time>
 <must> 必修 </must>
@@ -589,7 +589,7 @@
 <class></class>
 <group></group>
 <name> 病理學（含實驗）（二） </name>
-<teacher> 彭淑玲   ,  蘇益仁   ,  張孔昭   ,  何中良   ,  周楠華*  ,  楊曉白   ,  蔡弘文   ,  李忠達   ,  陳文宗   ,  張珍   ,  司君一  </teacher>
+<teacher> 蘇益仁   ,  張孔昭   ,  何中良   ,  周楠華*  ,  楊曉白   ,  蔡弘文   ,  李忠達   ,  陳文宗   ,  張珍   ,  司君一  </teacher>
 <score> 3 </score>
 <time day1="1" s1="1" e1="3" day2="1" s2="9" e2="9" day3="2" s3="1" e3="3" day4="3" s4="1" e4="3" day5="3" s5="5" e5="7" day6="3" s6="9" e6="9" day7="4" s7="1" e7="2" day8="5" s8="1" e8="4" day9="5" s9="7" e9="8"> [1]1~3  ,  [1]9  ,  [2]1~3  ,  [3]1~3  ,  [3]5~7  ,  [3]9  ,  [4]1~2  ,  [5]1~4  ,  [5]7~8  </time>
 <must> 必修 </must>
@@ -777,7 +777,7 @@
 <class></class>
 <group></group>
 <name> 醫學科學研究（八） </name>
-<teacher> 姚維仁   ,  張俊彥   ,  許桂森* </teacher>
+<teacher> 謝式洲   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
 <time day1="1" s1="4" e1="4"> [1]4  </time>
 <must> 選修 </must>
@@ -949,7 +949,7 @@
 <class></class>
 <group></group>
 <name> 臨床病理討論 </name>
-<teacher> 彭淑玲   ,  張珍琦   ,  張孔昭   ,  何中良*  ,  周楠華   ,  司君一   ,  蔡弘文   ,  李忠達   ,  陳文宗  </teacher>
+<teacher> 張珍琦   ,  張孔昭   ,  何中良*  ,  周楠華   ,  司君一   ,  蔡弘文   ,  李忠達   ,  陳文宗  </teacher>
 <score> 2 </score>
 <time day1="4" s1="9" e1="10"> [4]9~A  </time>
 <must> 必修 </must>

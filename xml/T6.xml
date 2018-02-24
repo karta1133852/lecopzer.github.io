@@ -38,7 +38,7 @@
 <time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        物治207 </place>
+<place> 物治系館                      B02 </place>
 <note> 英文授課 </note>
 </T6>
 
@@ -100,7 +100,7 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 物治系館                      B02 </place>
+<place> 醫學院                        物治207 </place>
 <note></note>
 </T6>
 
@@ -123,7 +123,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 高階小兒科物理治療臨床技巧及論證 </name>
-<teacher> 徐碧真* </teacher>
+<teacher> 成戎珠   ,  徐碧真* </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
@@ -137,7 +137,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 高階神經物理治療 </name>
-<teacher> 黃英修* </teacher>
+<teacher> 卓瓊鈺   ,  楊政峰   ,  黃英修*  ,  李佩紜  </teacher>
 <score> 2 </score>
 <time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>

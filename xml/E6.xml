@@ -10,7 +10,7 @@
 <time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      47X52 </place>
+<place> 土木系館                      4509 </place>
 <note> 土木甲乙合班 </note>
 <class1> 甲乙                           </class1>
 <group1> A </group1>
@@ -451,10 +451,10 @@
 <name> 公路工程實務 </name>
 <teacher> 方文志   ,  呂介斌   ,  黃裔炎* </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4505 </place>
 <note> 三四年級可選修，土木甲乙合班 </note>
 </E6>
 
@@ -503,7 +503,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
-<note> 三四年級可選修，土木甲乙合班 </note>
+<note> 三四年級可選修，土木甲乙合班，鐵道運輸學分學程合班 </note>
 </E6>
 
 <E6 id="110">

@@ -59,7 +59,7 @@
 <class></class>
 <group></group>
 <name> 基本設計（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 洪嘉永  </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
@@ -73,7 +73,7 @@
 <class></class>
 <group></group>
 <name> 基本設計（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 李緣文  </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
@@ -101,7 +101,7 @@
 <class></class>
 <group></group>
 <name> 計算機概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 曾朝源  </teacher>
 <score> 3 </score>
 <time day1="5" s1="7" e1="9"> [5]7~9  </time>
 <must> 必修 </must>
@@ -283,7 +283,7 @@
 <class></class>
 <group> A </group>
 <name> 工業設計（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 曾朝源  </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
@@ -342,6 +342,20 @@
 <teacher> 陳劭農  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53311 </place>
+<note></note>
+</F3>
+
+<F3 id="107">
+<num>F3-107</num>
+<class></class>
+<group></group>
+<name> 電腦輔助圖形設計 </name>
+<teacher> 謝孟達  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53311 </place>

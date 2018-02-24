@@ -5,7 +5,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 建築設計（二） </name>
-<teacher> 未定   ,  顏世樺   ,  陳恥德   ,  葉玉祥   ,  陳品蓁   ,  宋立文*  ,  林軒丞  </teacher>
+<teacher> 顏世樺   ,  陳恥德   ,  葉玉祥   ,  陳品蓁   ,  宋立文*  ,  龔柏閔   ,  林軒丞  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="6"> [2]6  </time>
 <must> 必修 </must>
@@ -436,7 +436,7 @@
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 建築研究大樓                  5171 </place>
+<place> 建築研究大樓                  5172 </place>
 <note></note>
 </E7>
 

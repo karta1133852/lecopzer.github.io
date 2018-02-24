@@ -7,7 +7,7 @@
 <name> 專題討論 </name>
 <teacher> 張文綺   ,  蔡文杰   ,  李瑞花   ,  黃兆立* </teacher>
 <score> 0 </score>
-<time day1="2" s1="4" e1="4.5"> [2]4~N  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 雲平大樓                      709 </place>
@@ -91,7 +91,7 @@
 <name> 植物跳躍基因體學 </name>
 <teacher> 蔡文杰* </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      712 </place>
@@ -105,7 +105,7 @@
 <name> 植物分子與細胞生物學 </name>
 <teacher> 張文綺*  ,  蔡文杰  </teacher>
 <score> 2 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      712 </place>
@@ -136,7 +136,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3415 </place>
+<place> 生科院大樓                    891S3 </place>
 <note></note>
 </Z3>
 
@@ -150,7 +150,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3414 </place>
+<place> 生科系館                      3413 </place>
 <note></note>
 </Z3>
 

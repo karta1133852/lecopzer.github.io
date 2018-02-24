@@ -117,12 +117,12 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 神經心理治療 </name>
-<teacher> 郭乃文  </teacher>
+<teacher> 郭乃文* </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        301D </place>
+<place> 醫學院                        601 </place>
 <note> 先修復健心理學、臨床神經心理學 </note>
 </S8>
 
@@ -131,12 +131,12 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 神經心理衡鑑 </name>
-<teacher> 郭乃文  </teacher>
+<teacher> 郭乃文* </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        601 </place>
+<place> 醫學院                        301D </place>
 <note> 先修臨床神經心理學 </note>
 </S8>
 

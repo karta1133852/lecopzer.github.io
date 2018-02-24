@@ -264,7 +264,7 @@
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
+<place> 社科院大樓                    七樓研討室B </place>
 <note></note>
 </U2>
 
@@ -432,7 +432,7 @@
 <time day1="5" s1="10" e1="11"> [5]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 社科院大樓                    七樓會議室 </place>
+<place> 社科院大樓                    七樓研討室B </place>
 <note> 限本系碩士在職專班選修，一般生不可選修 </note>
 </U2>
 

@@ -960,20 +960,6 @@
  </note>
 </E2>
 
-<E2 id="140">
-<num>E2-140</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 電子電路應用實務 </name>
-<teacher> 林瑞禮  </teacher>
-<score> 3 </score>
-<time day1="1" s1="1" e1="3"> [1]1~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92383 </place>
-<note></note>
-</E2>
-
 <E2 id="141">
 <num>E2-141</num>
 <class> 甲乙丙                         </class>

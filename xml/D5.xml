@@ -38,7 +38,7 @@
 <time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 理化大樓                      格致廳小講堂 </place>
+<place> 共同教室                      A1306(資源後) </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
@@ -67,7 +67,7 @@
 <name> 微積分（二） </name>
 <teacher> 林敏雄  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="8" day2="5" s2="5" e2="5"> [3]7~8  ,  [5]5  </time>
+<time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 成功校區經緯廳                經緯廳 </place>
@@ -75,20 +75,20 @@
 <class1></class1>
 <group1> A </group1>
 <name1> 微積分（二） </name1>
-<time1 day1="5" s1="6" e1="6"> [5]6  </time1>
-<place1> 唯農大樓                      7307 </place1>
+<time1 day1="5" s1="5" e1="5"> [5]5  </time1>
+<place1> 唯農大樓                      7401 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
 <name2> 微積分（二） </name2>
-<time2 day1="5" s1="6" e1="6"> [5]6  </time2>
-<place2> 唯農大樓                      7311 </place2>
+<time2 day1="5" s1="5" e1="5"> [5]5  </time2>
+<place2> 唯農大樓                      7403 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
 <name3> 微積分（二） </name3>
-<time3 day1="5" s1="6" e1="6"> [5]6  </time3>
-<place3> 唯農大樓                      7313 </place3>
+<time3 day1="5" s1="5" e1="5"> [5]5  </time3>
+<place3> 唯農大樓                      7404 </place3>
 <note3></note3>
 </D5>
 
@@ -102,7 +102,7 @@
 <time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1306(資源後) </place>
+<place> 理化大樓                      格致廳小講堂 </place>
 <note></note>
 <class1></class1>
 <group1> A </group1>
@@ -459,13 +459,13 @@
 <class></class>
 <group></group>
 <name> 總體經濟政策 </name>
-<teacher> 未定  </teacher>
+<teacher> 蔡明佑  </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    八樓研討室A </place>
-<note> 英語授課 </note>
+<note> 英語授課外籍教師 Barczyk Daniel </note>
 </D5>
 
 </content>

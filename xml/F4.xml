@@ -169,7 +169,7 @@
 <class></class>
 <group></group>
 <name> 結構材料實驗 </name>
-<teacher> 李　劍  </teacher>
+<teacher> 李劍  </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
@@ -183,7 +183,7 @@
 <class></class>
 <group></group>
 <name> 結構材料實驗 </name>
-<teacher> 李　劍  </teacher>
+<teacher> 李劍  </teacher>
 <score> 1 </score>
 <time day1="5" s1="7" e1="9"> [5]7~9  </time>
 <must> 必修 </must>
@@ -351,7 +351,7 @@
 <class></class>
 <group></group>
 <name> 論文（一） </name>
-<teacher> 呂宗行   ,  詹劭勳*  ,  鄭金祥   ,  張克勤   ,  趙怡欽   ,  胡潛濱   ,  陳介力   ,  譚俊豪   ,  王偉成   ,  李約亨   ,  彭兆仲   ,  葉思沂   ,  李　劍   ,  賴維祥  </teacher>
+<teacher> 呂宗行   ,  詹劭勳*  ,  鄭金祥   ,  張克勤   ,  趙怡欽   ,  胡潛濱   ,  陳介力   ,  譚俊豪   ,  王偉成   ,  李約亨   ,  彭兆仲   ,  葉思沂   ,  李劍   ,  賴維祥  </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -419,7 +419,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 航太工程實作（二） </name1>
-<time1 day1="4" s1="7" e1="9"> [4]7~9  </time1>
+<time1 day1="5" s1="8" e1="9" day2="3" s2="9" e2="9"> [5]8~9  ,  [3]9  </time1>
 <place1> 航太系館                      5897 </place1>
 <note1></note1>
 </F4>

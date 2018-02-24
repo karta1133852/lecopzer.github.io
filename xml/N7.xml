@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 設計整合研究 </name>
-<teacher> 未定  </teacher>
+<teacher> 林君昱   ,  杜怡萱   ,  蔡耀賢   ,  劉舜仁*  ,  葉玉祥   ,  鍾育霖   ,  羅偉誠   ,  周榮華   ,  謝宏昌  </teacher>
 <score> 6 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
@@ -116,6 +116,26 @@
 <note1> 大學部學生須修過「近代建築史」才得選修本課程 </note1>
 </N7>
 
+<N7 id="025">
+<num>N7-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 建築與結構整合設計 </name>
+<teacher> 杜怡萱  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築研究大樓                  5139 </place>
+<note></note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 建築與結構整合設計 </name1>
+<time1 day1="1" s1="4" e1="4.5"> [1]4~N  </time1>
+<place1> 建築研究大樓                  5139 </place1>
+<note1></note1>
+</N7>
+
 <N7 id="026">
 <num>N7-026</num>
 <class> 碩博                           </class>
@@ -198,26 +218,6 @@
 <type> 講義 </type>
 <place> 建築系館                      5105 </place>
 <note></note>
-</N7>
-
-<N7 id="062">
-<num>N7-062</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 建築結構與造型整合設計 </name>
-<teacher> 杜怡萱  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 建築研究大樓                  5139 </place>
-<note> 以下為結構組課程 </note>
-<class1></class1>
-<group1></group1>
-<name1> 建築結構與造型整合設計 </name1>
-<time1 day1="1" s1="4" e1="4.5"> [1]4~N  </time1>
-<place1> 建築研究大樓                  5139 </place1>
-<note1> 以下為結構組課程 </note1>
 </N7>
 
 <N7 id="063">

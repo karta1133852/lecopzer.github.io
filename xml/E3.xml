@@ -233,7 +233,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 微積分（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 侯世章  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
@@ -258,6 +258,12 @@
 <time3 day1="4" s1="1" e1="1"> [4]1  </time3>
 <place3> 化工系館                      93223 </place3>
 <note3></note3>
+<class4> 丙                             </class4>
+<group4> D </group4>
+<name4> 微積分（二） </name4>
+<time4 day1="4" s1="1" e1="1"> [4]1  </time4>
+<place4> 化工系館                      93420 </place4>
+<note4></note4>
 </E3>
 
 <E3 id="042">

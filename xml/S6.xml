@@ -172,7 +172,7 @@
 <time day1="3" s1="6" e1="6"> [3]6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
+<place> 醫學院                        208 </place>
 <note></note>
 </S6>
 
@@ -242,7 +242,7 @@
 <time day1="3" s1="5" e1="5"> [3]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
+<place> 醫學院                        208 </place>
 <note></note>
 </S6>
 
@@ -323,13 +323,13 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 藥物使用數據分析 </name>
-<teacher> 賴嘉鎮*  ,  高雅慧   ,  鄭靜蘭  </teacher>
-<score> 1 </score>
+<teacher> 賴嘉鎮* </teacher>
+<score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
-<type> 研討 </type>
-<place></place>
-<note> 上課教室:醫學院605 </note>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
 </S6>
 
 <S6 id="061">

@@ -75,7 +75,7 @@
 <class></class>
 <group></group>
 <name> 基礎國文─入門 </name>
-<teacher> 洪瑄鍞  </teacher>
+<teacher> 劉怡如  </teacher>
 <score> 2 </score>
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
@@ -108,7 +108,7 @@
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7309 </place>
 <note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
@@ -122,7 +122,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7217 </place>
 <note> Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
@@ -178,7 +178,7 @@
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7115 </place>
+<place> 唯農大樓                      7307 </place>
 <note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
@@ -234,7 +234,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7110 </place>
+<place> 唯農大樓                      7404 </place>
 <note> Level 5 課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
@@ -243,12 +243,12 @@
 <class></class>
 <group></group>
 <name> 基礎國文—進階(中) </name>
-<teacher> 劉怡如  </teacher>
+<teacher> 洪瑄鍞  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7113 </place>
+<place> 唯農大樓                      7307 </place>
 <note> Level 6課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
@@ -276,7 +276,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7217 </place>
+<place> 唯農大樓                      7307 </place>
 <note> Level 4課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
@@ -304,7 +304,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
-<place> 唯農大樓                      7211 </place>
+<place> 唯農大樓                      7401 </place>
 <note> Level 6課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 

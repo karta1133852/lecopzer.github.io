@@ -84,20 +84,6 @@
 <note></note>
 </RD>
 
-<RD id="107">
-<num>RD-107</num>
-<class> 碩                             </class>
-<group></group>
-<name> 高等資料庫管理 </name>
-<teacher> 王惠嘉  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61208 </place>
-<note></note>
-</RD>
-
 <RD id="108">
 <num>RD-108</num>
 <class> 碩                             </class>
@@ -388,7 +374,7 @@
 <time day1="6" s1="3" e1="4" day2="6" s2="5" e2="5"> [6]3~4  ,  [6]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 62X17 </place>
+<place> 管理學院                      62X01 </place>
 <note> 限本所 </note>
 </RD>
 
