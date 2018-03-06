@@ -125,10 +125,10 @@
 <name> 生藥暨中藥學（二） </name>
 <teacher> 吳天賞   ,  林少紅* </teacher>
 <score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        604 </place>
+<place> 醫學院                        303D </place>
 <note></note>
 </I8>
 
@@ -207,7 +207,7 @@
 <name> 分析化學 </name>
 <teacher> 郭賓崇  </teacher>
 <score> 2 </score>
-<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        205D </place>
@@ -219,9 +219,9 @@
 <class></class>
 <group></group>
 <name> 藥物化學（二） </name>
-<teacher> 洪欣儀  </teacher>
+<teacher> 洪欣儀* </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        203D </place>
@@ -263,7 +263,7 @@
 <name> 藥物化學實驗 </name>
 <teacher> 洪欣儀  </teacher>
 <score> 1 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 化工系館                      93326 </place>
@@ -319,10 +319,10 @@
 <name> 藥劑學（二） </name>
 <teacher> 蔡瑞真  </teacher>
 <score> 1 </score>
-<time day1="1" s1="2" e1="2"> [1]2  </time>
+<time day1="5" s1="3" e1="3"> [5]3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        602 </place>
+<place> 醫學院                        204D </place>
 <note></note>
 </I8>
 
@@ -331,7 +331,7 @@
 <class></class>
 <group></group>
 <name> 生物製劑 </name>
-<teacher> 張惠華  </teacher>
+<teacher> 張惠華* </teacher>
 <score> 1 </score>
 <time day1="5" s1="4" e1="4"> [5]4  </time>
 <must> 選修 </must>
@@ -345,12 +345,12 @@
 <class></class>
 <group></group>
 <name> 臨床藥學（藥事照護） </name>
-<teacher> 高雅慧* </teacher>
+<teacher> 林文亮   ,  賴嘉鎮   ,  黃千惠   ,  高雅慧   ,  鄭靜蘭*  ,  歐凰姿  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
+<place> 醫學院                        601 </place>
 <note></note>
 </I8>
 
@@ -387,7 +387,7 @@
 <class></class>
 <group></group>
 <name> 藥物治療學（二）（含非處方藥） </name>
-<teacher> 高雅慧* </teacher>
+<teacher> 林文亮   ,  賴嘉鎮*  ,  黃千惠   ,  高雅慧   ,  鄭靜蘭   ,  歐凰姿  </teacher>
 <score> 6 </score>
 <time day1="1" s1="2" e1="3" day2="4" s2="3" e2="4" day3="5" s3="3" e3="4"> [1]2~3  ,  [4]3~4  ,  [5]3~4  </time>
 <must> 必修 </must>

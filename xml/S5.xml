@@ -410,6 +410,20 @@
 <note> 生化，基醫合班 </note>
 </S5>
 
+<S5 id="156">
+<num>S5-156</num>
+<class> 博                             </class>
+<group></group>
+<name> 研究導向基因表達與表觀基因體生物學 </name>
+<teacher> 黃柏憲*  ,  余建泓  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        821011 </place>
+<note> 上課教室:82-1011 </note>
+</S5>
+
 <S5 id="157">
 <num>S5-157</num>
 <class> 碩博                           </class>

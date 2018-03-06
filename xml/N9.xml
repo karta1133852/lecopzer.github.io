@@ -483,7 +483,7 @@
 <name> 爆震波理論 </name>
 <teacher> 劉中堅  </teacher>
 <score> 3 </score>
-<time day1="2" s1="4.5" e1="6"> [2]N~6  </time>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41111 </place>
@@ -585,20 +585,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41102 </place>
-<note> 限工科系碩專班學生選修 </note>
-</N9>
-
-<N9 id="318">
-<num>N9-318</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 微機電製程技術 </name>
-<teacher> 林裕城  </teacher>
-<score> 3 </score>
-<time day1="1" s1="11" e1="13"> [1]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41220 </place>
 <note> 限工科系碩專班學生選修 </note>
 </N9>
 

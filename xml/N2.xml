@@ -61,7 +61,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 張天豪*  ,  楊慶隆  </teacher>
+<teacher> 張天豪* </teacher>
 <score> 0 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
@@ -131,7 +131,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 林志隆  </teacher>
+<teacher> 楊慶隆  </teacher>
 <score> 0 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>

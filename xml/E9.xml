@@ -340,4 +340,18 @@
 <note></note>
 </E9>
 
+<E9 id="155">
+<num>E9-155</num>
+<class></class>
+<group></group>
+<name> 資料庫系統 </name>
+<teacher> 鄧維光  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工科系館                      41103 </place>
+<note></note>
+</E9>
+
 </content>

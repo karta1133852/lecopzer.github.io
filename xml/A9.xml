@@ -1592,7 +1592,7 @@
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1306(資源後) </place>
+<place> 數學系館                      3172 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -2012,7 +2012,7 @@
 <time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 必修 </must>
 <type> 社會科學 </type>
-<place> 唯農大樓                      7115 </place>
+<place> 耐震大樓(建築研究大樓旁)      5108 </place>
 <note></note>
 </A9>
 
@@ -2110,7 +2110,7 @@
 <time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 必修 </must>
 <type> 科際整合 </type>
-<place> 唯農大樓                      7110 </place>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
 <note> 科際整合相關領域：人文學、自然與工程科學 </note>
 </A9>
 
@@ -2119,7 +2119,7 @@
 <class></class>
 <group></group>
 <name> 通識領袖論壇 </name>
-<teacher> 利德江   ,  王秀雲  </teacher>
+<teacher> 利德江   ,  王秀雲* </teacher>
 <score> 2 </score>
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
@@ -2275,7 +2275,7 @@
 <class></class>
 <group></group>
 <name> 通識專題講座-大學導航 </name>
-<teacher> 徐珊惠*  ,  許瑞榮   ,  邵揮洲   ,  吳豐光   ,  湯銘哲  </teacher>
+<teacher> 徐珊惠*  ,  許瑞榮   ,  王浩文   ,  張怡玲   ,  李偉賢   ,  邵揮洲   ,  吳豐光   ,  湯銘哲  </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>

@@ -326,10 +326,10 @@
 <num>L4-135</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 生物地球化學 </name>
+<name> 地球系統中的化學反應 </name>
 <teacher> 羅尚德  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3036 </place>
@@ -463,48 +463,6 @@
 <score> 2 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3017 </place>
-<note> 限碩士在職專班選修 </note>
-</L4>
-
-<L4 id="311">
-<num>L4-311</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 現代分析地球化學 </name>
-<teacher> 羅尚德  </teacher>
-<score> 3 </score>
-<time day1="5" s1="11" e1="13"> [5]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3017 </place>
-<note> 限碩士在職專班選修 </note>
-</L4>
-
-<L4 id="312">
-<num>L4-312</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 地形作用與原理 </name>
-<teacher> 吳銘志  </teacher>
-<score> 2 </score>
-<time day1="5" s1="9" e1="10"> [5]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3017 </place>
-<note> 限碩士在職專班選修 </note>
-</L4>
-
-<L4 id="313">
-<num>L4-313</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 能源地質與探勘（二） </name>
-<teacher> 紀文榮  </teacher>
-<score> 3 </score>
-<time day1="6" s1="6" e1="8"> [6]6~8  </time>
-<must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3017 </place>
 <note> 限碩士在職專班選修 </note>

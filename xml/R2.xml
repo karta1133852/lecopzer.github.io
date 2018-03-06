@@ -105,7 +105,7 @@
 <name> 存活分析 </name>
 <teacher> 嵇允嬋  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<time day1="1" s1="6" e1="6" day2="3" s2="7" e2="8"> [1]6  ,  [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 統計系館                      62451 </place>
@@ -136,7 +136,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 統計系館                      62225 </place>
+<place> 統計系館                      62113 </place>
 <note></note>
 </R2>
 
@@ -156,18 +156,16 @@
 
 <R2 id="015">
 <num>R2-015</num>
-<class></class>
+<class> 博二                           </class>
 <group></group>
 <name> 統計專題研究：生物統計（一） </name>
 <teacher> 李國榮  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 統計系館                      62333 </place>
+<note> 通過博士資格考後選修 </note>
 </R2>
 
 </content>

@@ -126,7 +126,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63101 </place>
 <note></note>
 </H1>
 
@@ -140,7 +140,7 @@
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63101 </place>
 <note> 會計系大二必選 </note>
 </H1>
 
@@ -230,20 +230,6 @@
 <type> 講義 </type>
 <place> 會計系館                      63211 </place>
 <note> 會計系大三必選 </note>
-</H1>
-
-<H1 id="105">
-<num>H1-105</num>
-<class></class>
-<group></group>
-<name> 證券交易法 </name>
-<teacher> 蘇義洲  </teacher>
-<score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63102 </place>
-<note> 統計系與會計系合開 </note>
 </H1>
 
 <H1 id="106">

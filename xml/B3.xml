@@ -178,7 +178,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 歷史系館                      振芝講堂 </place>
+<place> 台文系館                      88135 </place>
 <note> 台 </note>
 </B3>
 
@@ -220,7 +220,7 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      27808 </place>
+<place> 軍訓館                        6022 </place>
 <note> 世 </note>
 </B3>
 
@@ -364,7 +364,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7208 </place>
+<place> 歷史系館                      振芝講堂 </place>
 <note> 中 </note>
 </B3>
 

@@ -336,6 +336,22 @@
 <note> 限碩專選修。 </note>
 </R5>
 
+<R5 id="306">
+<num>R5-306</num>
+<class></class>
+<group></group>
+<name> 獨立研究（四） </name>
+<teacher> 胡守任   ,  廖俊雄*  ,  鄭永祥   ,  張瀞之   ,  黃郁雯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R5>
+
 <R5 id="307">
 <num>R5-307</num>
 <class></class>

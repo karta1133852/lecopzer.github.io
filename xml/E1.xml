@@ -1016,20 +1016,6 @@
 <note> 第一階段不受理選課、第二階段開放選課 </note>
 </E1>
 
-<E1 id="134">
-<num>E1-134</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 高等材料力學 </name>
-<teacher> 陳國聲  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91303 </place>
-<note></note>
-</E1>
-
 <E1 id="135">
 <num>E1-135</num>
 <class> 甲乙丙                         </class>

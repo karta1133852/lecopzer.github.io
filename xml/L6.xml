@@ -52,7 +52,7 @@
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1301 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -66,7 +66,7 @@
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1305 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -122,7 +122,7 @@
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1301 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -136,7 +136,7 @@
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1305 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -164,7 +164,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科系館                      3413 </place>
+<place> 生科院大樓                    89901 </place>
 <note></note>
 </L6>
 
@@ -178,7 +178,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      75614 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -192,7 +192,7 @@
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      75802 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -206,7 +206,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      75710 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -220,7 +220,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊大樓                      75802 </place>
+<place> 生科院大樓                    89901 </place>
 <note></note>
 </L6>
 
@@ -234,7 +234,7 @@
 <time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
+<place> 生科院大樓                    89A01 </place>
 <note></note>
 </L6>
 
@@ -248,7 +248,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
+<place> 生科院大樓                    89901 </place>
 <note></note>
 </L6>
 
@@ -257,12 +257,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 細胞訊息與調控特論 </name>
-<teacher> 洪良宜* </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝   ,  郭瑋君  </teacher>
 <score> 1 </score>
 <time day1="2" s1="4" e1="4"> [2]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
+<place> 生科院大樓                    89901 </place>
 <note></note>
 </L6>
 
@@ -276,7 +276,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
+<place> 生科院大樓                    89901 </place>
 <note></note>
 </L6>
 
@@ -287,10 +287,10 @@
 <name> 分子生物演算法 </name>
 <teacher> 劉宗霖  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="3" s1="6" e1="7"> [3]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A14 </place>
+<place> 生科院大樓                    89A01 </place>
 <note></note>
 </L6>
 

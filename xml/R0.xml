@@ -33,7 +33,7 @@
 <class> 碩專一二                       </class>
 <group></group>
 <name> 財務與會計專題 </name>
-<teacher> 王澤世  </teacher>
+<teacher> 李宏志   ,  劉裕宏   ,  周庭楷   ,  楊朝旭   ,  顏盟峯   ,  林軒竹   ,  黃華瑋   ,  王澤世* </teacher>
 <score> 3 </score>
 <time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
@@ -103,7 +103,7 @@
 <class> 碩專一二                       </class>
 <group></group>
 <name> 運動減壓與健康體適能管理 </name>
-<teacher> 林麗娟  </teacher>
+<teacher> 林麗娟*  ,  鄭匡佑   ,  徐珊惠   ,  周學雯   ,  葉公鼎   ,  馬上鈞  </teacher>
 <score> 2 </score>
 <time day1="6" s1="3" e1="4"> [6]3~4  </time>
 <must> 選修 </must>
@@ -180,20 +180,6 @@
 <type> 講義 </type>
 <place> 62X17 </place>
 <note> 不開放網路選課，由系辦統一選課。 </note>
-</R0>
-
-<R0 id="314">
-<num>R0-314</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 醫務管理專題(二) </name>
-<teacher> 邱仲慶  </teacher>
-<score> 1 </score>
-<time day1="5" s1="10" e1="10"> [5]A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 62X17 </place>
-<note></note>
 </R0>
 
 </content>

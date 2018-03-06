@@ -47,13 +47,13 @@
 <class> 碩                             </class>
 <group></group>
 <name> 老年學個案整合研究 </name>
-<teacher> 翁慧卿  </teacher>
+<teacher> 翁慧卿* </teacher>
 <score> 1 </score>
 <time day1="3" s1="4" e1="4"> [3]4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        202D </place>
-<note> 此課程需校外參訪 </note>
+<note> 此課程需校外參訪，僅限研究所碩班修習 </note>
 </TC>
 
 <TC id="005">
@@ -66,8 +66,8 @@
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note></note>
+<place> 醫學院                        208 </place>
+<note> 限大三以上同學修課 </note>
 </TC>
 
 <TC id="006">
@@ -103,12 +103,12 @@
 <class> 碩                             </class>
 <group></group>
 <name> 老人居住環境規劃與實務 </name>
-<teacher> 陳柏宗  </teacher>
+<teacher> 陳柏宗* </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        203D </place>
+<place> 醫學院                        208 </place>
 <note></note>
 </TC>
 
@@ -271,12 +271,12 @@
 <class> 碩                             </class>
 <group></group>
 <name> 高齡者的教育與學習 </name>
-<teacher> 陳麗光  </teacher>
+<teacher> 陳麗光* </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        208 </place>
+<place> 醫學院                        204D </place>
 <note> 老化與生活學分學程。本課程為融入服務學習內含之專業課程，修習通過可免修服務學習。 </note>
 </TC>
 

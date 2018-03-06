@@ -196,4 +196,18 @@
 <note></note>
 </S1>
 
+<S1 id="033">
+<num>S1-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生化教程工作坊 </name>
+<teacher> 吳昭良*  ,  何月仁  </teacher>
+<score> 1 </score>
+<time day1="3" s1="5" e1="8" day2="4" s2="5" e2="8"> [3]5~8  ,  [4]5~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 上課教室:3樓實驗室 </note>
+</S1>
+
 </content>

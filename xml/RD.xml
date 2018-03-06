@@ -150,7 +150,7 @@
 <time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61208 </place>
+<place> 工管系館                      61210 </place>
 <note></note>
 </RD>
 
@@ -292,20 +292,6 @@
 <type> 講義 </type>
 <place> 資訊系館                      4263 </place>
 <note> 資訊所醫資所製造所體健所合班(運動科技產業領域專業選修課程)英語授課 </note>
-</RD>
-
-<RD id="124">
-<num>RD-124</num>
-<class> 碩                             </class>
-<group></group>
-<name> 運動場地與休閒設施規劃與管理 </name>
-<teacher> 黃賢哲   ,  馬上鈞* </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 中正堂                        中正堂視聽室 </place>
-<note> 休閒管理領域專業選修課程 </note>
 </RD>
 
 <RD id="125">

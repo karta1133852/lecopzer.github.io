@@ -92,7 +92,7 @@
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 電機系館                      92171 </place>
+<place> 電機系館                      繁城講堂 </place>
 <note> 本系必選 </note>
 </E2>
 
@@ -236,7 +236,7 @@
 <time day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 電機系館                      繁城講堂 </place>
+<place> 電機系館                      92171 </place>
 <note></note>
 </E2>
 
@@ -446,7 +446,7 @@
 <time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 電機系館                      靄雲廳 </place>
+<place> 電機系館                      繁城講堂 </place>
 <note> 本系必選 </note>
 </E2>
 
@@ -503,7 +503,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92277 </place>
-<note></note>
+<note> 英語授課 </note>
 </E2>
 
 <E2 id="068">
@@ -544,7 +544,7 @@
 <time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 電機系館                      92277 </place>
+<place> 電機系館                      繁城講堂 </place>
 <note> 本系必選 </note>
 </E2>
 

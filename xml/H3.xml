@@ -72,19 +72,19 @@
 <group1> A </group1>
 <name1> 微積分（二） </name1>
 <time1 day1="5" s1="5" e1="5"> [5]5  </time1>
-<place1> 唯農大樓                      7309 </place1>
+<place1> 共同教室                      A1303 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
 <name2> 微積分（二） </name2>
 <time2 day1="5" s1="5" e1="5"> [5]5  </time2>
-<place2> 唯農大樓                      7311 </place2>
+<place2> 共同教室                      A1304 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
 <name3> 微積分（二） </name3>
 <time3 day1="5" s1="5" e1="5"> [5]5  </time3>
-<place3> 唯農大樓                      7313 </place3>
+<place3> 共同教室                      A1305 </place3>
 <note3></note3>
 </H3>
 
@@ -136,19 +136,19 @@
 <group1> A </group1>
 <name1> 微積分（二） </name1>
 <time1 day1="5" s1="5" e1="5"> [5]5  </time1>
-<place1> 共同教室                      A1303 </place1>
+<place1> 唯農大樓                      7309 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
 <name2> 微積分（二） </name2>
 <time2 day1="5" s1="5" e1="5"> [5]5  </time2>
-<place2> 共同教室                      A1304 </place2>
+<place2> 唯農大樓                      7311 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
 <name3> 微積分（二） </name3>
 <time3 day1="5" s1="5" e1="5"> [5]5  </time3>
-<place3> 共同教室                      A1305 </place3>
+<place3> 唯農大樓                      7313 </place3>
 <note3></note3>
 </H3>
 
@@ -245,7 +245,7 @@
 <class></class>
 <group></group>
 <name> 管理會計 </name>
-<teacher> 未定  </teacher>
+<teacher> 楊明宗  </teacher>
 <score> 3 </score>
 <time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
@@ -264,7 +264,7 @@
 <time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61102 </place>
+<place> 工管系館                      61101 </place>
 <note></note>
 </H3>
 
@@ -371,7 +371,7 @@
 <class></class>
 <group></group>
 <name> 工業與資訊管理專題（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳梁軒   ,  王泰裕   ,  李賢得*  ,  謝中奇   ,  王惠嘉   ,  翁慈宗   ,  張秀雲   ,  王維聰   ,  謝佩璇   ,  蔡青志   ,  劉任修   ,  高　強  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>

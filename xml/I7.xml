@@ -52,7 +52,7 @@
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 醫學院                        601 </place>
+<place> 醫學院                        302D </place>
 <note></note>
 </I7>
 
@@ -315,7 +315,7 @@
 <class></class>
 <group></group>
 <name> 內科學概論 </name>
-<teacher> 宋俊明*  ,  柯文謙   ,  陳炯瑜   ,  蔡惟全   ,  王崇任   ,  李政翰   ,  劉秉彥   ,  陳儒逸   ,  陳炯睿   ,  莊喬雄   ,  詹世鴻   ,  林建中   ,  許志新   ,  楊登棋   ,  蘇文彬  </teacher>
+<teacher> 宋俊明*  ,  柯文謙   ,  陳炯瑜   ,  蔡惟全   ,  王崇任   ,  李政翰   ,  劉秉彥   ,  陳儒逸   ,  陳炯睿   ,  莊喬雄   ,  詹世鴻   ,  林建中   ,  許志新   ,  楊登棋   ,  洪彰   ,  林偉傑   ,  蘇文彬  </teacher>
 <score> 2 </score>
 <time day1="5" s1="8" e1="9"> [5]8~9  </time>
 <must> 必修 </must>

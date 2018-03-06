@@ -206,6 +206,20 @@
 <note></note>
 </E8>
 
+<E8 id="062">
+<num>E8-062</num>
+<class></class>
+<group></group>
+<name> 河工設計 </name>
+<teacher> 王筱雯*  ,  賴悅仁  </teacher>
+<score> 1 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 水利系館                      4625 </place>
+<note> 1.此課程非水利系設計必修四選二課程。  2.彈性課程密集式授課。 </note>
+</E8>
+
 <E8 id="102">
 <num>E8-102</num>
 <class></class>

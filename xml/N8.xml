@@ -322,6 +322,34 @@
 <note></note>
 </N8>
 
+<N8 id="037">
+<num>N8-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 水資源系統分析 </name>
+<teacher> 吳嘉文  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4678 </place>
+<note></note>
+</N8>
+
+<N8 id="038">
+<num>N8-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 水資源永續發展特論 </name>
+<teacher> 吳嘉文  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</N8>
+
 <N8 id="041">
 <num>N8-041</num>
 <class> 碩博                           </class>

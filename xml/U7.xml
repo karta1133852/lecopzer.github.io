@@ -161,7 +161,7 @@
 <name> 藥物濫用專題（二） </name>
 <teacher> 胡書榕  </teacher>
 <score> 2 </score>
-<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
@@ -210,6 +210,34 @@
 <note> 選課前須先email授課老師取得同意。 </note>
 </U7>
 
+<U7 id="017">
+<num>U7-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 記憶研究特論(三) </name>
+<teacher> 林君昱  </teacher>
+<score> 3 </score>
+<time day1="1" s1="9" e1="11"> [1]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</U7>
+
+<U7 id="018">
+<num>U7-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 心智發展之神經運作基礎 </name>
+<teacher> 胡中凡  </teacher>
+<score> 3 </score>
+<time day1="4" s1="9" e1="11"> [4]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
+</U7>
+
 <U7 id="026">
 <num>U7-026</num>
 <class> 碩                             </class>
@@ -222,22 +250,6 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
 <note> 大碩合開課程。建議具備微積分與R程式之基礎 </note>
-</U7>
-
-<U7 id="030">
-<num>U7-030</num>
-<class></class>
-<group></group>
-<name> 決策與判斷 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
 </U7>
 
 <U7 id="031">

@@ -19,7 +19,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（二） </name>
-<teacher> 謝式洲* </teacher>
+<teacher> 鄭雅敏* </teacher>
 <score> 0 </score>
 <time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
 <must> 必修 </must>
@@ -91,11 +91,13 @@
 <name> 醫學科學研究（二） </name>
 <teacher> 謝式洲   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time day1="1" s1="4" e1="4"> [1]4  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="014">
@@ -133,7 +135,7 @@
 <class></class>
 <group></group>
 <name> 醫療專業與生死 </name>
-<teacher> 楊延光*  ,  吳晉祥   ,  盧豐華   ,  郭保麟   ,  林其和   ,  吳俊明   ,  張俊彥   ,  林鵬展   ,  何宗憲   ,  簡偉明  </teacher>
+<teacher> 楊延光   ,  吳晉祥*  ,  盧豐華   ,  郭保麟   ,  林其和   ,  吳俊明   ,  張俊彥   ,  林鵬展   ,  何宗憲   ,  簡偉明  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
@@ -233,9 +235,11 @@
 <class1></class1>
 <group1></group1>
 <name1> 醫學科學研究（四） </name1>
-<time1 day1="1" s1="4" e1="4"> [1]4  </time1>
-<place1> 醫學院                        第三講堂 </place1>
-<note1> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note1>
+<time1 day1="0" s1="0" e1="0"> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
 </I5>
 
 <I5 id="060">
@@ -290,7 +294,7 @@
 <time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        208 </place>
+<place> 醫學院                        304D </place>
 <note> 與通識合班上課，醫學系學生不能抵通識 </note>
 </I5>
 
@@ -409,11 +413,13 @@
 <name> 醫學科學研究（六） </name>
 <teacher> 謝式洲   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time day1="1" s1="4" e1="4"> [1]4  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="108">
@@ -426,7 +432,7 @@
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        202D </place>
+<place> 醫學院                        208 </place>
 <note> A模組課程 </note>
 </I5>
 
@@ -726,8 +732,8 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        501 </place>
-<note></note>
+<place></place>
+<note> 上課教室:醫學院第二講堂 </note>
 </I5>
 
 <I5 id="169">
@@ -779,11 +785,13 @@
 <name> 醫學科學研究（八） </name>
 <teacher> 謝式洲   ,  張俊彥   ,  許桂森* </teacher>
 <score> 1 </score>
-<time day1="1" s1="4" e1="4"> [1]4  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        第三講堂 </place>
-<note> 限醫學系學生選修，2月26日課程及評分說明；6月25日期末問卷(點名) </note>
+<place></place>
+<note> 
+ </note>
 </I5>
 
 <I5 id="173">

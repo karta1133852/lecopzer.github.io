@@ -214,7 +214,7 @@
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5127 </place>
+<place> 建築系館                      5101 </place>
 <note> 本課程於建築工程組為選修。 </note>
 </E7>
 
@@ -377,7 +377,7 @@
 <name> 校外實習 </name>
 <teacher> 宋立文  </teacher>
 <score> 0 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time day1="5" s1="4.5" e1="4.5" day2="3" s2="4.5" e2="4.5"> [5]N  ,  [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 耐震大樓(建築研究大樓旁)      5127 </place>
@@ -391,7 +391,7 @@
 <name> 校外實習 </name>
 <teacher> 恩宇  </teacher>
 <score> 0 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time day1="4" s1="4.5" e1="4.5" day2="3" s2="4.5" e2="4.5"> [4]N  ,  [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 建築系館                      5105 </place>

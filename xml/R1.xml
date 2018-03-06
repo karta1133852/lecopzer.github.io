@@ -38,7 +38,7 @@
 <time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63104 </place>
+<place> 會計系館                      63210 </place>
 <note> 若使用電腦教室時將改至63205上課 </note>
 </R1>
 
@@ -52,7 +52,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63404 </place>
 <note> 若使用電腦教室時將改至63205上課 </note>
 </R1>
 
@@ -77,10 +77,10 @@
 <name> 成本管理與控制 </name>
 <teacher> 李政勳  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 會計系館                      63102 </place>
+<place> 會計系館                      63209 </place>
 <note></note>
 </R1>
 

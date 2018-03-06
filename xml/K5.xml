@@ -154,6 +154,20 @@
 <note></note>
 </K5>
 
+<K5 id="012">
+<num>K5-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 臺灣戲劇與劇場史專題 </name>
+<teacher> 劉南芳* </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note> 戲劇碩士學位學程課程 </note>
+</K5>
+
 <K5 id="301">
 <num>K5-301</num>
 <class> 碩專                           </class>
