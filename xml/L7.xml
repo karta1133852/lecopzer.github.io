@@ -66,7 +66,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 綜合大樓                      48218 </place>
+<place> 綜合大樓                      48217 </place>
 <note> 碩一生 </note>
 </L7>
 
@@ -80,7 +80,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 綜合大樓                      48218 </place>
+<place> 綜合大樓                      48217 </place>
 <note> 博一生 </note>
 </L7>
 
@@ -94,7 +94,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 綜合大樓                      48218 </place>
+<place> 綜合大樓                      48217 </place>
 <note> 博二生 </note>
 </L7>
 
@@ -210,20 +210,6 @@
 <note></note>
 </L7>
 
-<L7 id="025">
-<num>L7-025</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 奈米材料與生醫應用 </name>
-<teacher> 黃志嘉  </teacher>
-<score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48312 </place>
-<note></note>
-</L7>
-
 <L7 id="026">
 <num>L7-026</num>
 <class> 碩博                           </class>
@@ -234,7 +220,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 綜合大樓                      48422 </place>
+<place> 綜合大樓                      48424 </place>
 <note></note>
 </L7>
 

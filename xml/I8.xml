@@ -331,11 +331,11 @@
 <class></class>
 <group></group>
 <name> 生物製劑 </name>
-<teacher> 張惠華* </teacher>
+<teacher> 張惠華  </teacher>
 <score> 1 </score>
 <time day1="5" s1="4" e1="4"> [5]4  </time>
 <must> 選修 </must>
-<type> 研討 </type>
+<type> 講義 </type>
 <place> 醫學院                        204D </place>
 <note></note>
 </I8>
@@ -359,7 +359,7 @@
 <class></class>
 <group></group>
 <name> 社區藥學 </name>
-<teacher> 歐凰姿* </teacher>
+<teacher> 高雅慧   ,  歐凰姿* </teacher>
 <score> 2 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
@@ -422,7 +422,7 @@
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        501 </place>
+<place> 醫技醫工館                    5761 </place>
 <note></note>
 </I8>
 

@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 物理治療專題討論（二） </name>
-<teacher> 林桑伊   ,  成戎珠   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  李佩紜   ,  蔡昆霖  </teacher>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
 <score> 1 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<teacher> 卓瓊鈺   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
 <score> 1 </score>
 <time day1="5" s1="4.5" e1="4.5"> [5]N  </time>
 <must> 選修 </must>
@@ -28,26 +28,12 @@
 <note></note>
 </T6>
 
-<T6 id="023">
-<num>T6-023</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 運動技巧的生物力學探討 </name>
-<teacher> 林呈鳳* </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 物治系館                      B02 </place>
-<note> 英文授課 </note>
-</T6>
-
 <T6 id="024">
 <num>T6-024</num>
 <class> 碩                             </class>
 <group></group>
 <name> 生物醫學與運動生理研究方法 </name>
-<teacher> 蔡昆霖* </teacher>
+<teacher> 洪菁霞   ,  蔡昆霖* </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
@@ -60,20 +46,6 @@
 <time1 day1="5" s1="7" e1="8"> [5]7~8  </time1>
 <place1></place1>
 <note1></note1>
-</T6>
-
-<T6 id="025">
-<num>T6-025</num>
-<class> 碩                             </class>
-<group></group>
-<name> 智慧生活與長期照護 </name>
-<teacher> 洪菁霞* </teacher>
-<score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 物治系館                      B02 </place>
-<note> 此課程為大碩合開 </note>
 </T6>
 
 <T6 id="026">
@@ -95,7 +67,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 臨床影像學 </name>
-<teacher> 林呈鳳* </teacher>
+<teacher> 陳炯睿   ,  詹世鴻   ,  林政立   ,  王建國   ,  林呈鳳* </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>

@@ -789,7 +789,7 @@
 <class></class>
 <group></group>
 <name> 職能治療與健康 </name>
-<teacher> 張哲豪   ,  黃雅淑*  ,  汪翠瀅   ,  林玲伊   ,  郭立杰   ,  黃百川  </teacher>
+<teacher> 黃雅淑*  ,  汪翠瀅   ,  林玲伊   ,  徐秀雲   ,  黃百川   ,  張雁晴  </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
@@ -1060,7 +1060,7 @@
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 土木系館                      4507 </place>
+<place> 土木系館                      4509 </place>
 <note> 104學年度(含)以前入學生為「公民與歷史」 </note>
 </A9>
 
@@ -1074,7 +1074,7 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 空中大學                      53101 </place>
+<place> 歷史系館                      振芝講堂 </place>
 <note> 茶道與日本文化，104學年度(含)以前入學生為「公民與歷史」 </note>
 </A9>
 
@@ -1181,7 +1181,7 @@
 <class></class>
 <group></group>
 <name> 智慧綠生活 </name>
-<teacher> 陳品蓁  </teacher>
+<teacher> 葉玉祥   ,  陳品蓁*  ,  宋立文   ,  葉如萍   ,  周君瑞   ,  洪郁修   ,  陳璽任   ,  林軒丞   ,  林蕙玟   ,  高如妃  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -1564,7 +1564,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 軍訓館                        6021 </place>
+<place> 唯農大樓                      許文龍講堂 </place>
 <note> 領域通識 </note>
 </A9>
 
@@ -1853,7 +1853,7 @@
 <class></class>
 <group></group>
 <name> 美學藝術生活實踐 </name>
-<teacher> 高美華   ,  張天豪   ,  劉浩志   ,  簡聖芬*  ,  吳光庭   ,  吳奕芳  </teacher>
+<teacher> 高美華   ,  張天豪   ,  簡聖芬*  ,  吳光庭   ,  吳奕芳  </teacher>
 <score> 1 </score>
 <time day1="4" s1="4.5" e1="4.5"> [4]N  </time>
 <must> 必修 </must>
@@ -2049,7 +2049,7 @@
 <class></class>
 <group></group>
 <name> 生命科學概論 </name>
-<teacher> 蔣鎮宇   ,  陳少燕   ,  李亞夫   ,  宋皇模   ,  何盧勳   ,  張松彬*  ,  廖泓鈞   ,  劉雅心   ,  邱慈暉   ,  陳一菁   ,  李純純   ,  仲澤剛史   ,  彭怡禎   ,  吳文鑾   ,  蔡文杰   ,  李瑞花   ,  黃兆立  </teacher>
+<teacher> 蔣鎮宇   ,  陳少燕   ,  宋皇模   ,  何盧勳   ,  張松彬*  ,  廖泓鈞   ,  劉雅心   ,  邱慈暉   ,  陳一菁   ,  李純純   ,  仲澤剛史   ,  彭怡禎   ,  吳文鑾   ,  蔡文杰   ,  李瑞花   ,  黃兆立  </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
@@ -2316,7 +2316,7 @@
  </note>
 </A9>
 
-<A9 id="581">
+<A9 id="584">
 <num>A9-581</num>
 <class></class>
 <group></group>
@@ -2330,46 +2330,30 @@
 <place></place>
 <note> 
  </note>
-</A9>
-
-<A9 id="582">
-<num>A9-582</num>
-<class></class>
-<group></group>
-<name> 設計藝術綜合實作 </name>
-<teacher> 簡聖芬*  ,  陳璽任   ,  楊佳翰  </teacher>
-<score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place></place>
-<note> 
- </note>
-</A9>
-
-<A9 id="584">
-<num>A9-583</num>
-<class></class>
-<group></group>
-<name> 視覺藝術綜合實作 </name>
-<teacher> 吳奕芳* </teacher>
-<score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 必修 </must>
-<type> 科際整合 </type>
-<place></place>
-<note> 
- </note>
 <class1></class1>
 <group1></group1>
-<name1> 循環經濟的智慧製造 </name1>
+<name1> 設計藝術綜合實作 </name1>
 <time1 day1="0" s1="0" e1="0"> 
   </time1>
 <place1></place1>
 <note1> 
  </note1>
+<class2></class2>
+<group2></group2>
+<name2> 視覺藝術綜合實作 </name2>
+<time2 day1="0" s1="0" e1="0"> 
+  </time2>
+<place2></place2>
+<note2> 
+ </note2>
+<class3></class3>
+<group3></group3>
+<name3> 循環經濟的智慧製造 </name3>
+<time3 day1="0" s1="0" e1="0"> 
+  </time3>
+<place3></place3>
+<note3> 
+ </note3>
 </A9>
 
 </content>

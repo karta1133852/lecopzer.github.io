@@ -560,20 +560,6 @@
 <note> 模組二 </note>
 </A1>
 
-<A1 id="141">
-<num>A1-141</num>
-<class></class>
-<group></group>
-<name> 用高階思維說故事 </name>
-<teacher> 阮素菁  </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 必修 </must>
-<type> 外國語言 </type>
-<place> 修齊大樓                      26104 </place>
-<note> 模組三 </note>
-</A1>
-
 <A1 id="142">
 <num>A1-142</num>
 <class></class>
@@ -630,20 +616,6 @@
 <note> 模組二 </note>
 </A1>
 
-<A1 id="146">
-<num>A1-146</num>
-<class></class>
-<group></group>
-<name> 基礎工程英文 </name>
-<teacher> 陳慧琴  </teacher>
-<score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
-<must> 必修 </must>
-<type> 外國語言 </type>
-<place> 修齊大樓                      26202 </place>
-<note> 模組二 </note>
-</A1>
-
 <A1 id="147">
 <num>A1-147</num>
 <class></class>
@@ -684,20 +656,6 @@
 <type> 外國語言 </type>
 <place> 修齊大樓                      26104 </place>
 <note> 模組一 </note>
-</A1>
-
-<A1 id="150">
-<num>A1-150</num>
-<class></class>
-<group></group>
-<name> 創意產業英文 </name>
-<teacher> 辛佳玲  </teacher>
-<score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
-<must> 必修 </must>
-<type> 外國語言 </type>
-<place> 修齊大樓                      26103 </place>
-<note> 模組二 </note>
 </A1>
 
 <A1 id="151">

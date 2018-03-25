@@ -293,7 +293,7 @@
 <name> 微觀力學 </name>
 <teacher> 林建宏  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="8" day2="3" s2="2" e2="2"> [1]7~8  ,  [3]2  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91206 </place>

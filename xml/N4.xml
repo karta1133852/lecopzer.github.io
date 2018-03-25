@@ -182,20 +182,6 @@
 <note> 僅供碩三博三以上甲組資源開發及地質工程選課 </note>
 </N4>
 
-<N4 id="014">
-<num>N4-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 申永輝  </teacher>
-<score> 0 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 共同教室                      A1302 </place>
-<note> 僅供碩三博三以上乙組資源材料及再生選課 </note>
-</N4>
-
 <N4 id="015">
 <num>N4-015</num>
 <class> 碩博                           </class>

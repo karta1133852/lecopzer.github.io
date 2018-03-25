@@ -66,7 +66,7 @@
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        208 </place>
+<place> 醫學院                        204D </place>
 <note> 限大三以上同學修課 </note>
 </TC>
 
@@ -136,8 +136,8 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note></note>
+<place></place>
+<note> 醫學院10樓電腦教室上課 </note>
 </TC>
 
 <TC id="011">
@@ -187,7 +187,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 另類補充療法概論 </name>
-<teacher> 王靜枝  </teacher>
+<teacher> 林梅鳳   ,  張文芸   ,  王靜枝* </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
@@ -276,7 +276,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        204D </place>
+<place> 醫學院                        208 </place>
 <note> 老化與生活學分學程。本課程為融入服務學習內含之專業課程，修習通過可免修服務學習。 </note>
 </TC>
 

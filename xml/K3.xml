@@ -58,16 +58,18 @@
 
 <K3 id="011">
 <num>K3-011</num>
-<class> 碩                             </class>
+<class></class>
 <group></group>
 <name> 東南亞的印度教與佛教遺產 </name>
-<teacher> 未定  </teacher>
+<teacher> 黃柏棋  </teacher>
 <score> 1 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7311 </place>
-<note> 密集課程，開放大學部修課 </note>
+<place></place>
+<note> 
+ </note>
 </K3>
 
 <K3 id="020">
@@ -194,7 +196,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7313 </place>
+<place> 歷史系館                      振芝講堂 </place>
 <note> 開放碩士班修課 </note>
 </K3>
 

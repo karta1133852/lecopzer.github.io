@@ -28,20 +28,6 @@
 <note> 限本考古所碩二學生 </note>
 </K7>
 
-<K7 id="008">
-<num>K7-008</num>
-<class> 碩二                           </class>
-<group> 3 </group>
-<name> 臺灣考古學專題討論 </name>
-<teacher> 劉益昌  </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27613 </place>
-<note> 需修過考古學概論、臺灣考古學 </note>
-</K7>
-
 <K7 id="009">
 <num>K7-009</num>
 <class> 碩一二                         </class>
@@ -56,24 +42,38 @@
 <note></note>
 </K7>
 
-<K7 id="027">
+<K7 id="025">
 <num>K7-025</num>
 <class> 碩一                           </class>
 <group> 2 </group>
 <name> 考古學田野方法與實習（一） </name>
-<teacher> 鍾國風  </teacher>
+<teacher> 鍾國風*  ,  劉益昌  </teacher>
 <score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
 <note> 限本所學生 </note>
-<class1> 碩二                           </class1>
-<group1> 3 </group1>
-<name1> 動物考古學 </name1>
-<time1 day1="2" s1="2" e1="4"> [2]2~4  </time1>
+<class1></class1>
+<group1> 2 </group1>
+<name1> 考古學田野方法與實習（一） </name1>
+<time1 day1="2" s1="7" e1="8"> [2]7~8  </time1>
 <place1> 雲平大樓                      27613 </place1>
-<note1></note1>
+<note1> 限本所學生 </note1>
+</K7>
+
+<K7 id="027">
+<num>K7-027</num>
+<class> 碩二                           </class>
+<group> 3 </group>
+<name> 動物考古學 </name>
+<teacher> 莊家銘  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note></note>
 </K7>
 
 <K7 id="037">

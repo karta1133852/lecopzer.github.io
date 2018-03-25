@@ -1596,20 +1596,6 @@
 <note> 【男女合班】 </note>
 </A2>
 
-<A2 id="246">
-<num>A2-246</num>
-<class> 二年級                        體育（女生組）　                                                       </class>
-<group></group>
-<name> 籃球（女） </name>
-<teacher> 黃彥慈  </teacher>
-<score> 0 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 光復籃球低場                  光復籃球低場 </place>
-<note></note>
-</A2>
-
 <A2 id="250">
 <num>A2-250</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -2336,20 +2322,6 @@
 <type> 講義 </type>
 <place> 健休體適能                    健休體適能 </place>
 <note></note>
-</A2>
-
-<A2 id="353">
-<num>A2-353</num>
-<class> 二年級                        體育（男生組）                                                         </class>
-<group></group>
-<name> 籃球（男） </name>
-<teacher> 黃彥慈  </teacher>
-<score> 0 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 光復籃球低場                  光復籃球低場 </place>
-<note> 男女合班 </note>
 </A2>
 
 <A2 id="354">

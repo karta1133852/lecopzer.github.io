@@ -1,23 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
 <C1 id="003">
-<num>K7-040</num>
-<class> 碩一                           </class>
-<group> 2 </group>
-<name> 希臘考古田野 </name>
-<teacher> 左星樺  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27613 </place>
-<note> 6月田野實習與參訪,限本所學生 </note>
-<class1></class1>
-<group1></group1>
-<name1> 服務學習（二） </name1>
-<time1 day1="1" s1="4.5" e1="4.5"> [1]N  </time1>
-<place1></place1>
-<note1></note1>
+<num>C1-003</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 郭鴻文  </teacher>
+<score> 0 </score>
+<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
 </C1>
 
 <C1 id="005">
@@ -203,7 +197,7 @@
 <name> 應用分析 </name>
 <teacher> 連文璟  </teacher>
 <score> 3 </score>
-<time day1="5" s1="5" e1="6" day2="3" s2="8" e2="8"> [5]5~6  ,  [3]8  </time>
+<time day1="5" s1="5" e1="6" day2="3" s2="7" e2="7"> [5]5~6  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3173 </place>

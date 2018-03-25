@@ -112,20 +112,6 @@
 <note></note>
 </D4>
 
-<D4 id="057">
-<num>D4-057</num>
-<class></class>
-<group></group>
-<name> 社會運動 </name>
-<teacher> 王金壽  </teacher>
-<score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80106 </place>
-<note> 「政治理論與方法」領域課程，限二年級以上同學選修。 </note>
-</D4>
-
 <D4 id="102">
 <num>D4-102</num>
 <class></class>
@@ -164,7 +150,7 @@
 <time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80106 </place>
+<place> 社科院大樓                    階梯教室-政治 </place>
 <note> 「政治理論與方法」領域課程，限二年級以上同學選修。 </note>
 </D4>
 
@@ -234,7 +220,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80205 </place>
+<place> 社科院大樓                    六樓研討室C </place>
 <note> 「全球與區域政治」領域課程，限二年級以上同學選修。 </note>
 </D4>
 
@@ -276,7 +262,7 @@
 <time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    階梯教室-政治 </place>
+<place> 社科院大樓                    六樓研討室B </place>
 <note> 「國家行政與治理」領域課程，限二年級以上同學選修。 </note>
 </D4>
 
@@ -313,7 +299,7 @@
 <class></class>
 <group></group>
 <name> 韌性社區理論與實踐 </name>
-<teacher> 蔣麗君   ,  姚昭智*  ,  陳震宇   ,  張秀慈   ,  黃泰霖   ,  黃偉茹  </teacher>
+<teacher> 鄭淑惠   ,  蔣麗君   ,  姚昭智*  ,  陳世明   ,  陳震宇   ,  張秀慈   ,  黃泰霖   ,  黃偉茹  </teacher>
 <score> 2 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>

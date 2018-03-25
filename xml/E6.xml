@@ -502,7 +502,7 @@
 <time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4503 </place>
+<place> 土木系館                      210 </place>
 <note> 三四年級可選修，土木甲乙合班，鐵道運輸學分學程合班 </note>
 </E6>
 
@@ -623,7 +623,7 @@
 <class></class>
 <group></group>
 <name> 論文寫作 </name>
-<teacher> 洪　瀞  </teacher>
+<teacher> 蔡錦松   ,  吳致平   ,  倪勝火   ,  盧煉元   ,  洪　瀞   ,  劉光晏* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -639,7 +639,7 @@
 <class></class>
 <group></group>
 <name> 專題研究 </name>
-<teacher> 洪　瀞  </teacher>
+<teacher> 蔡錦松   ,  吳致平   ,  盧煉元   ,  洪崇展   ,  劉光晏* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>

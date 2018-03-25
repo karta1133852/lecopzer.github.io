@@ -165,9 +165,9 @@
 <class> 博                             </class>
 <group></group>
 <name> 地理資訊系統與製圖特論 </name>
-<teacher> 洪榮宏  </teacher>
+<teacher> 洪榮宏*  ,  林昭宏  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 測量系館                      55318 </place>

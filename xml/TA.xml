@@ -1,27 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<TA id="001">
-<num>TA-001</num>
-<class></class>
-<group></group>
-<name> 獨立研究（二） </name>
-<teacher> 未定  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</TA>
-
 <TA id="002">
 <num>TA-002</num>
 <class> 博一                           </class>
 <group></group>
 <name> 健康照護專題討論（二） </name>
-<teacher> 楊政達* </teacher>
+<teacher> 楊政達*  ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  陳幸眉  </teacher>
 <score> 1 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
@@ -35,7 +19,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 健康照護的倫理探討與實踐 </name>
-<teacher> 甘偵蓉   ,  黃美智* </teacher>
+<teacher> 黃美智*  ,  王靜枝   ,  高綺吟   ,  簡偉明  </teacher>
 <score> 3 </score>
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
@@ -49,7 +33,7 @@
 <class></class>
 <group></group>
 <name> 獨立研究（四） </name>
-<teacher> 未定  </teacher>
+<teacher> 顏妙芬   ,  馮瑞鶯   ,  洪菁霞   ,  郭立杰  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -65,7 +49,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 健康照護專題討論（四） </name>
-<teacher> 楊政達* </teacher>
+<teacher> 楊政達*  ,  王琪珍   ,  顏妙芬   ,  黃美智   ,  柯乃熒   ,  馮瑞鶯   ,  陳靜敏   ,  洪菁霞   ,  郭立杰   ,  陳彰惠  </teacher>
 <score> 1 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
@@ -93,7 +77,7 @@
 <class></class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 未定  </teacher>
+<teacher> 謝淑蘭   ,  楊政達   ,  黃美智   ,  黃英修   ,  洪菁霞   ,  張哲豪   ,  馬慧英   ,  湯銘哲   ,  郭乃文   ,  陳彰惠   ,  陳麗光  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>

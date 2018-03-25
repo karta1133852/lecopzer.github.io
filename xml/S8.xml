@@ -159,9 +159,9 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 認知行為治療之應用 </name>
-<teacher> 柯慧貞  </teacher>
+<teacher> 柯慧貞* </teacher>
 <score> 2 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="5" s1="8" e1="9"> [5]8~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        205D </place>
@@ -236,20 +236,6 @@
 <teacher> 游一龍  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        301D </place>
-<note></note>
-</S8>
-
-<S8 id="018">
-<num>S8-018</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 行為神經科學及研究法 </name>
-<teacher> 游一龍  </teacher>
-<score> 3 </score>
-<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        301D </place>

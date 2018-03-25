@@ -406,6 +406,20 @@
 <note></note>
 </B5>
 
+<B5 id="111">
+<num>B5-111</num>
+<class></class>
+<group></group>
+<name> 校園新聞報導 </name>
+<teacher> 王右君  </teacher>
+<score> 1 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88155 </place>
+<note> 密集授課，上課時間：3/27、4/10、4/17、4/24、5/1、5/8   18:00~21:00 </note>
+</B5>
+
 <B5 id="152">
 <num>B5-152</num>
 <class></class>

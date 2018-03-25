@@ -110,20 +110,6 @@
 <note></note>
 </I3>
 
-<I3 id="014">
-<num>I3-014</num>
-<class></class>
-<group></group>
-<name> 醫用台語（中階） </name>
-<teacher> 蔡美慧  </teacher>
-<score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note> 具初階台語說聽能力；第三階段無網路加選。與醫學系合班上課 </note>
-</I3>
-
 <I3 id="015">
 <num>I3-015</num>
 <class></class>
@@ -244,22 +230,6 @@
 <time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 
- </note>
-</I3>
-
-<I3 id="062">
-<num>I3-062</num>
-<class></class>
-<group></group>
-<name> 專題研究實驗（二） </name>
-<teacher> 蔡佩珍* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
 <type> 實習 </type>
 <place></place>
 <note> 
@@ -488,7 +458,7 @@
 <time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5777 </place>
+<place> 醫技醫工館                    5776 </place>
 <note></note>
 </I3>
 

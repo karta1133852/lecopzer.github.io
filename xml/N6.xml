@@ -103,7 +103,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 結構材料專題討論（二） </name>
-<teacher> 王雲哲  </teacher>
+<teacher> 黃忠信  </teacher>
 <score> 0 </score>
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
@@ -117,7 +117,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 結構材料專題討論（四） </name>
-<teacher> 王雲哲  </teacher>
+<teacher> 黃忠信  </teacher>
 <score> 0 </score>
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
@@ -423,10 +423,10 @@
 <name> 軌道工程 </name>
 <teacher> 郭振銘  </teacher>
 <score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4504 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -440,7 +440,7 @@
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4504 </place>
+<place> 土木系館                      209 </place>
 <note> 碩博與碩專班合班，英語授課 </note>
 </N6>
 
@@ -479,7 +479,7 @@
 <name> 作業研究 </name>
 <teacher> 李宇欣  </teacher>
 <score> 3 </score>
-<time day1="1" s1="11" e1="13"> [1]B~D  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -779,10 +779,10 @@
 <name> 軌道工程 </name>
 <teacher> 郭振銘  </teacher>
 <score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4501 </place>
+<place> 土木系館                      4504 </place>
 <note> 碩博與碩專合班 </note>
 </N6>
 
@@ -796,7 +796,7 @@
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4504 </place>
+<place> 土木系館                      209 </place>
 <note> 碩博與碩專班合班，英語授課 </note>
 </N6>
 
@@ -835,7 +835,7 @@
 <name> 作業研究 </name>
 <teacher> 李宇欣  </teacher>
 <score> 3 </score>
-<time day1="1" s1="11" e1="13"> [1]B~D  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>

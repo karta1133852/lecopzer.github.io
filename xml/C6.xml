@@ -137,7 +137,7 @@
 <class></class>
 <group></group>
 <name> 細胞生物學 </name>
-<teacher> 張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜* </teacher>
+<teacher> 張清俊   ,  張純純   ,  洪建中   ,  林鼎晏   ,  洪良宜* </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="2" day2="4" s2="7" e2="8"> [3]2  ,  [4]7~8  </time>
 <must> 必修 </must>
@@ -212,7 +212,7 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    891S2 </place>
+<place> 生科院大樓                    891S3 </place>
 <note> 歡迎生技產業系、生科系大二以上同學選修 </note>
 </C6>
 
@@ -294,20 +294,6 @@
 <teacher> 洪良宜   ,  陳炳焜*  ,  張雅雯  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科院大樓                    89916 </place>
-<note></note>
-</C6>
-
-<C6 id="107">
-<num>C6-107</num>
-<class></class>
-<group></group>
-<name> 水生生物分子檢測技術 </name>
-<teacher> 王涵青* </teacher>
-<score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科院大樓                    89916 </place>

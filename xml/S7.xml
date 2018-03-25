@@ -327,7 +327,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 郭浩然   ,  廖寶琦   ,  王應然   ,  張志欽   ,  顏秀慧   ,  李俊璋   ,  劉明毅   ,  蔡朋枝   ,  林明彥*  ,  吳致杰  </teacher>
+<teacher> 郭浩然   ,  廖寶琦   ,  王應然   ,  張志欽   ,  蘇慧貞   ,  李俊璋   ,  劉明毅   ,  蔡朋枝   ,  林明彥*  ,  吳致杰  </teacher>
 <score> 1 </score>
 <time day1="4" s1="9" e1="10"> [4]9~A  </time>
 <must> 必修 </must>
@@ -401,20 +401,6 @@
 <class> 博                             </class>
 <group></group>
 <name> 環境與職業醫學實例討論（二） </name>
-<teacher> 郭浩然* </teacher>
-<score> 1 </score>
-<time day1="1" s1="2" e1="2"> [1]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note> 職業病個案診斷研究(二)(四)和環境與職業醫學實例討論(二)(四)合班 </note>
-</S7>
-
-<S7 id="108">
-<num>S7-108</num>
-<class> 博                             </class>
-<group></group>
-<name> 環境與職業醫學實例討論（四） </name>
 <teacher> 郭浩然* </teacher>
 <score> 1 </score>
 <time day1="1" s1="2" e1="2"> [1]2  </time>

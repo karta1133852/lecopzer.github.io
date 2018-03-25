@@ -225,7 +225,7 @@
 <class></class>
 <group></group>
 <name> 全球化與人文關懷 </name>
-<teacher> 翁裕峯   ,  蔡美玲* </teacher>
+<teacher> 張秀慈   ,  楊中平   ,  翁裕峯   ,  石明人   ,  徐之昇   ,  蔡美玲* </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
@@ -764,20 +764,6 @@
 <note> B模組課程 </note>
 </I5>
 
-<I5 id="171">
-<num>I5-171</num>
-<class></class>
-<group></group>
-<name> 醫學遺傳學 </name>
-<teacher> 黃美智   ,  郭保麟   ,  林秀娟   ,  顏家瑞   ,  周言穎   ,  蘇美慈   ,  蔡孟哲   ,  吳致杰* </teacher>
-<score> 1 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        303D </place>
-<note> 一次上2小時，前9週上課（2/26~4/23） </note>
-</I5>
-
 <I5 id="172">
 <num>I5-172</num>
 <class></class>
@@ -804,7 +790,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        208 </place>
+<place> 醫學院                        205D </place>
 <note> A模組課程 </note>
 </I5>
 

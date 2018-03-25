@@ -831,7 +831,7 @@
 <class></class>
 <group></group>
 <name> 論文（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 林睿哲   ,  陳東煌*  ,  鄧熙聖   ,  王　紀   ,  吳季珍   ,  李玉郎   ,  黃耀輝   ,  陳炳宏   ,  陳　雲   ,  羅介聰   ,  詹正雄   ,  陳美瑾   ,  邱繼正   ,  吳意珣   ,  陳志勇   ,  溫添進  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 
   </time>
@@ -979,20 +979,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 化工系館                      93456 </place>
-<note> 化工三、四年級合開 </note>
-</E3>
-
-<E3 id="186">
-<num>E3-186</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 基礎固態化學 </name>
-<teacher> 鄧熙聖  </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 化工系館                      93706 </place>
 <note> 化工三、四年級合開 </note>
 </E3>
 

@@ -38,7 +38,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4650 </place>
 <note> 自災所與水利所合開課程 </note>
 </NC>
 
@@ -52,7 +52,7 @@
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4650 </place>
+<place> 水利系館                      4644 </place>
 <note></note>
 </NC>
 

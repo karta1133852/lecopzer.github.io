@@ -98,20 +98,6 @@
 <note></note>
 </N8>
 
-<N8 id="011">
-<num>N8-011</num>
-<class> 碩博二                         </class>
-<group></group>
-<name> 專題討論（四） </name>
-<teacher> 張駿暉  </teacher>
-<score> 1 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 水利系館                      4644 </place>
-<note> 與自災所合開，自災所學生及水利所外籍生優先選課，水利所國內生請以紙本加簽 </note>
-</N8>
-
 <N8 id="012">
 <num>N8-012</num>
 <class> 碩博二                         </class>
@@ -276,7 +262,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4646 </place>
+<place> 水利系館                      4650 </place>
 <note> 自災所與水利所合開課程 </note>
 </N8>
 
@@ -304,7 +290,7 @@
 <time day1="3" s1="3" e1="4" day2="5" s2="3" e2="3"> [3]3~4  ,  [5]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
+<place> 水利系館                      4650 </place>
 <note></note>
 </N8>
 
@@ -318,7 +304,7 @@
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4650 </place>
+<place> 水利系館                      4644 </place>
 <note></note>
 </N8>
 
@@ -343,11 +329,27 @@
 <name> 水資源永續發展特論 </name>
 <teacher> 吳嘉文  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
 <note></note>
+</N8>
+
+<N8 id="039">
+<num>N8-039</num>
+<class></class>
+<group></group>
+<name> 濕地環境管理 </name>
+<teacher> 王筱雯  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
 </N8>
 
 <N8 id="041">
@@ -467,7 +469,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 防洪工程 </name>
-<teacher> 巫孟璇*  ,  蔡長泰  </teacher>
+<teacher> 巫孟璇*  ,  蔡長泰   ,  Zoran Vojinovic  </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="6" day2="3" s2="5" e2="5"> [5]5~6  ,  [3]5  </time>
 <must> 選修 </must>

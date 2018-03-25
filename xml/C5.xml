@@ -53,7 +53,7 @@
 <class></class>
 <group></group>
 <name> 普通生物學（二） </name>
-<teacher> 曾淑芬   ,  李亞夫   ,  張素瓊   ,  王浩文   ,  何盧勳   ,  邱慈暉   ,  陳一菁*  ,  李純純   ,  仲澤剛史  </teacher>
+<teacher> 曾淑芬   ,  李亞夫   ,  王浩文   ,  何盧勳   ,  邱慈暉   ,  陳一菁*  ,  李純純   ,  仲澤剛史   ,  彭怡禎  </teacher>
 <score> 4 </score>
 <time day1="1" s1="5" e1="6" day2="5" s2="3" e2="4"> [1]5~6  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -179,7 +179,7 @@
 <class></class>
 <group></group>
 <name> 演化生物學 </name>
-<teacher> 蔣鎮宇*  ,  李亞夫  </teacher>
+<teacher> 蔣鎮宇*  ,  李亞夫   ,  黃兆立  </teacher>
 <score> 3 </score>
 <time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
@@ -249,7 +249,7 @@
 <class></class>
 <group></group>
 <name> 生物化學（二） </name>
-<teacher> 曾淑芬   ,  何盧勳   ,  廖泓鈞   ,  彭怡禎* </teacher>
+<teacher> 何盧勳   ,  廖泓鈞   ,  彭怡禎* </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
@@ -282,7 +282,7 @@
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    891S2 </place>
+<place> 生科院大樓                    891S3 </place>
 <note> 歡迎生技產業系、生科系大二以上同學選修 </note>
 </C5>
 
@@ -337,7 +337,7 @@
 <class></class>
 <group></group>
 <name> 生物有機化學 </name>
-<teacher> 邱顯泰*  ,  廖泓鈞  </teacher>
+<teacher> 邱顯泰   ,  廖泓鈞* </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>

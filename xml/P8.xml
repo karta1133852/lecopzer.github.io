@@ -271,7 +271,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 牙科臨床工程 </name>
-<teacher> 張志涵   ,  葉明龍*  ,  黃振勳   ,  李澤民   ,  許修銘   ,  劉佳觀   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  張川陽   ,  陳永崇   ,  曾春祺  </teacher>
+<teacher> 張志涵   ,  葉明龍*  ,  吳炳慶   ,  黃振勳   ,  李澤民   ,  許修銘   ,  劉佳觀   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  張川陽   ,  陳永崇   ,  曾春祺  </teacher>
 <score> 2 </score>
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 選修 </must>
@@ -341,26 +341,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療器材創新設計（二） </name>
-<teacher> 林彥呈   ,  葉明龍*  ,  吳炳慶   ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
+<teacher> 林彥呈   ,  葉明龍   ,  吳炳慶*  ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
 <score> 3 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫技醫工館                    5734 </place>
-<note></note>
-</P8>
-
-<P8 id="060">
-<num>P8-060</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 生物啟發之磨潤現象 </name>
-<teacher> 鄭友仁  </teacher>
-<score> 3 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5731 </place>
 <note></note>
 </P8>
 
@@ -416,7 +402,7 @@
 <time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 無                            53211 </place>
+<place> 醫技醫工館                    5734 </place>
 <note></note>
 </P8>
 

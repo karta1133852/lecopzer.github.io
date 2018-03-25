@@ -151,7 +151,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
-<note> 英語授課 </note>
+<note></note>
 </VE>
 
 <VE id="054">
@@ -165,7 +165,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
-<note> 碩博碩專合班，英語授課 </note>
+<note> 碩博碩專合班 </note>
 </VE>
 
 <VE id="055">

@@ -73,7 +73,7 @@
 <name> 工程力學 </name>
 <teacher> 羅偉誠  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="8" e2="8"> [2]7~8  ,  [5]8  </time>
+<time day1="2" s1="7" e1="8" day2="1" s2="9" e2="9"> [2]7~8  ,  [1]9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4620 </place>
@@ -87,11 +87,13 @@
 <name> 服務學習（二） </name>
 <teacher> 蕭士俊  </teacher>
 <score> 0 </score>
-<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
+<time day1="0" s1="0" e1="0"> 
+  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 水利系館                      4620 </place>
-<note></note>
+<place></place>
+<note> 
+ </note>
 </E8>
 
 <E8 id="053">
@@ -213,10 +215,10 @@
 <name> 河工設計 </name>
 <teacher> 王筱雯*  ,  賴悅仁  </teacher>
 <score> 1 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="2" s1="4.5" e1="4.5" day2="3" s2="4.5" e2="4.5" day3="4" s3="4.5" e3="4.5"> [2]N  ,  [3]N  ,  [4]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 水利系館                      4625 </place>
+<place> 水利系館                      4622 </place>
 <note> 1.此課程非水利系設計必修四選二課程。  2.彈性課程密集式授課。 </note>
 </E8>
 
@@ -393,7 +395,7 @@
 <class></class>
 <group></group>
 <name> 防洪工程 </name>
-<teacher> 巫孟璇*  ,  蔡長泰  </teacher>
+<teacher> 巫孟璇*  ,  蔡長泰   ,  Zoran Vojinovic  </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="6" day2="3" s2="5" e2="5"> [5]5~6  ,  [3]5  </time>
 <must> 選修 </must>
