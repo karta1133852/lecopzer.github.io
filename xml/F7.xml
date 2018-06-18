@@ -7,7 +7,7 @@
 <name> 體育（一） </name>
 <teacher> 涂國誠  </teacher>
 <score> 0 </score>
-<time> [1]7~8  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -21,7 +21,7 @@
 <name> 普通物理學（一） </name>
 <teacher> 黃榮俊  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65405 </place>
@@ -35,7 +35,7 @@
 <name> 計算機概論 </name>
 <teacher> 藍崑展  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65304 </place>
@@ -49,7 +49,7 @@
 <name> 程式設計（一） </name>
 <teacher> 張燕光  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65405 </place>
@@ -63,7 +63,7 @@
 <name> 微積分（一） </name>
 <teacher> 劉珈銘  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 成功校區經緯廳                經緯廳 </place>
@@ -71,25 +71,25 @@
 <class1> 甲乙                           </class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1> [5]1  </time1>
+<time1 day1="5" s1="1" e1="1"> [5]1  </time1>
 <place1> 資訊系館                      4201 </place1>
 <note1></note1>
 <class2> 甲乙                           </class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2> [5]1  </time2>
+<time2 day1="5" s1="1" e1="1"> [5]1  </time2>
 <place2> 資訊系館                      4202 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
-<time3> [5]1  </time3>
+<time3 day1="5" s1="1" e1="1"> [5]1  </time3>
 <place3> 資訊系館                      4203 </place3>
 <note3></note3>
 <class4> 甲乙                           </class4>
 <group4> D </group4>
 <name4> 微積分（一） </name4>
-<time4> [5]1  </time4>
+<time4 day1="5" s1="1" e1="1"> [5]1  </time4>
 <place4> 資訊系館                      4260 </place4>
 <note4></note4>
 </F7>
@@ -101,7 +101,7 @@
 <name> 服務學習（一） </name>
 <teacher> 吳宗憲  </teacher>
 <score> 0 </score>
-<time> [1]N  </time>
+<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -115,7 +115,7 @@
 <name> 自由軟體開發與社群發展 </name>
 <teacher> 盧文祥  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4264 </place>
@@ -129,7 +129,7 @@
 <name> 體育（一） </name>
 <teacher> 洪甄憶  </teacher>
 <score> 0 </score>
-<time> [1]7~8  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -143,7 +143,7 @@
 <name> 服務學習（一） </name>
 <teacher> 連震杰  </teacher>
 <score> 0 </score>
-<time> [4]N  </time>
+<time day1="4" s1="4.5" e1="4.5"> [4]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -157,7 +157,7 @@
 <name> 機率與統計 </name>
 <teacher> 吳明龍  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65405 </place>
@@ -171,7 +171,7 @@
 <name> 數位系統導論 </name>
 <teacher> 陳培殷  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65405 </place>
@@ -185,7 +185,7 @@
 <name> 數位系統實驗 </name>
 <teacher> 陳培殷  </teacher>
 <score> 1 </score>
-<time> [3]7~9  </time>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 資訊新館                      65203 </place>
@@ -199,7 +199,7 @@
 <name> 工程數學 </name>
 <teacher> 趙梓程  </teacher>
 <score> 3 </score>
-<time> [1]5~7  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4263 </place>
@@ -213,7 +213,7 @@
 <name> 數位系統實驗 </name>
 <teacher> 陳培殷  </teacher>
 <score> 1 </score>
-<time> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 資訊新館                      65203 </place>
@@ -227,7 +227,7 @@
 <name> 資料結構 </name>
 <teacher> 許靜芳  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]2  </time>
+<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      迅慧講堂 </place>
@@ -241,7 +241,7 @@
 <name> 基於物聯網之實境應用設計 </name>
 <teacher> 蘇文鈺  </teacher>
 <score> 3 </score>
-<time> [4]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65203 </place>
@@ -255,7 +255,7 @@
 <name> 視窗程式設計 </name>
 <teacher> 張瑞紘  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75301 </place>
@@ -269,7 +269,7 @@
 <name> 微算機原理與應用（含實驗） </name>
 <teacher> 楊中平  </teacher>
 <score> 4 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65304 </place>
@@ -277,7 +277,7 @@
 <class1> 甲                             </class1>
 <group1> A </group1>
 <name1> 微算機原理與應用（含實驗） </name1>
-<time1> [4]7~9  </time1>
+<time1 day1="4" s1="7" e1="9"> [4]7~9  </time1>
 <place1> 資訊新館                      65304 </place1>
 <note1></note1>
 </F7>
@@ -289,7 +289,7 @@
 <name> 微算機原理與應用（含實驗） </name>
 <teacher> 楊中平  </teacher>
 <score> 4 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65304 </place>
@@ -297,7 +297,7 @@
 <class1> 乙                             </class1>
 <group1> B </group1>
 <name1> 微算機原理與應用（含實驗） </name1>
-<time1> [1]9~B  </time1>
+<time1 day1="1" s1="9" e1="11"> [1]9~B  </time1>
 <place1> 資訊新館                      65304 </place1>
 <note1></note1>
 </F7>
@@ -309,7 +309,7 @@
 <name> 計算理論 </name>
 <teacher> 莊坤達  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65405 </place>
@@ -323,7 +323,7 @@
 <name> 資訊專題（一） </name>
 <teacher> 高宏宇  </teacher>
 <score> 2 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 講義 </type>
@@ -339,7 +339,7 @@
 <name> 作業研究 </name>
 <teacher> 李家岩  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65104 </place>
@@ -353,7 +353,7 @@
 <name> 作業系統 </name>
 <teacher> 張大緯  </teacher>
 <score> 3 </score>
-<time> [1]8  ,  [4]5~6  </time>
+<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65405 </place>
@@ -367,7 +367,7 @@
 <name> 智慧型醫學資訊系統實作 </name>
 <teacher> 盧文祥   ,  梁勝富  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65203 </place>
@@ -381,7 +381,7 @@
 <name> 無線通訊網路 </name>
 <teacher> 鄭憲宗  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      繁城講堂 </place>
@@ -395,7 +395,7 @@
 <name> 初階影像處理、嵌入式機器人視覺及人機互動 </name>
 <teacher> 連震杰  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65405 </place>
@@ -409,7 +409,7 @@
 <name> 電腦對局理論與實作 </name>
 <teacher> 許舜欽  </teacher>
 <score> 3 </score>
-<time> [5]7  ,  [2]7~8  </time>
+<time day1="5" s1="7" e1="7" day2="2" s2="7" e2="8"> [5]7  ,  [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4261 </place>
@@ -423,7 +423,7 @@
 <name> 創意行動網路APPs之系統技術與設計研發 </name>
 <teacher> 黃崇明  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4261 </place>
@@ -437,7 +437,7 @@
 <name> 人工智慧在中醫上的應用 </name>
 <teacher> 藍崑展  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4201 </place>
@@ -451,7 +451,7 @@
 <name> 車聯網之模擬與實驗 </name>
 <teacher> 藍崑展  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊系館                      4201 </place>
@@ -465,7 +465,7 @@
 <name> 程式設計基石 </name>
 <teacher> 莊坤達  </teacher>
 <score> 3 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -481,7 +481,7 @@
 <name> 電腦科學基石 </name>
 <teacher> 莊坤達  </teacher>
 <score> 3 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -497,7 +497,7 @@
 <name> 跨領域專案實作開發（上） </name>
 <teacher> 蘇文鈺  </teacher>
 <score> 3 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -513,7 +513,7 @@
 <name> 跨領域專案實作開發（下） </name>
 <teacher> 蘇文鈺  </teacher>
 <score> 3 </score>
-<time> [5]7~9  </time>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65104 </place>
@@ -527,7 +527,7 @@
 <name> 資訊科技合作教學與協同學習 </name>
 <teacher> 蘇文鈺  </teacher>
 <score> 3 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>

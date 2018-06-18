@@ -7,7 +7,7 @@
 <name> 教育研究法 </name>
 <teacher> 郭旭展   ,  董旭英  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
@@ -21,7 +21,7 @@
 <name> 教育心理學專題研究 </name>
 <teacher> 程炳林  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
@@ -35,7 +35,7 @@
 <name> 創新學習與教學 </name>
 <teacher> 楊雅婷  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    心智教室 </place>
@@ -49,7 +49,7 @@
 <name> 人格心理學研究 </name>
 <teacher> 趙梅如  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    團體諮商室 </place>
@@ -63,7 +63,7 @@
 <name> 服務學習專題研究 </name>
 <teacher> 董旭英  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
@@ -77,7 +77,7 @@
 <name> 教育統計與電腦應用 </name>
 <teacher> 陸偉明  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊大樓                      75301 </place>
@@ -91,7 +91,7 @@
 <name> 專題研討 </name>
 <teacher> 楊雅婷  </teacher>
 <score> 0 </score>
-<time> [1]4~N  </time>
+<time day1="1" s1="4" e1="4.5"> [1]4~N  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    A424 </place>
@@ -105,7 +105,7 @@
 <name> 團體諮商與心理治療專題研究 </name>
 <teacher> 趙梅如  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
@@ -119,7 +119,7 @@
 <name> 網路教學與評鑑策略 </name>
 <teacher> 于富雲  </teacher>
 <score> 3 </score>
-<time> [1]5~7  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    團體諮商室 </place>
@@ -133,7 +133,7 @@
 <name> 教育研究方法論專題研究 </name>
 <teacher> 許清芳  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    團體諮商室 </place>
@@ -147,7 +147,7 @@
 <name> 當代教育心理學專題研究 </name>
 <teacher> 彭淑玲   ,  饒夢霞   ,  于富雲*  ,  程炳林   ,  楊雅婷  </teacher>
 <score> 3 </score>
-<time> [4]5~7  </time>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    團體諮商室 </place>
@@ -161,7 +161,7 @@
 <name> 獨立研究（一） </name>
 <teacher> 董旭英  </teacher>
 <score> 1 </score>
-<time> [4]1  </time>
+<time day1="4" s1="1" e1="1"> [4]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80211 </place>
@@ -175,7 +175,7 @@
 <name> 專業實習（一） </name>
 <teacher> 董旭英  </teacher>
 <score> 1 </score>
-<time> [3]1  </time>
+<time day1="3" s1="1" e1="1"> [3]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    團體諮商室 </place>
@@ -189,7 +189,7 @@
 <name> 教育行政與教學實習 </name>
 <teacher> 董旭英  </teacher>
 <score> 0 </score>
-<time> [5]8  </time>
+<time day1="5" s1="8" e1="8"> [5]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    A424 </place>

@@ -7,7 +7,7 @@
 <name> 專題討論 </name>
 <teacher> 王泰裕  </teacher>
 <score> 0 </score>
-<time> [1]9  </time>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      小哈佛教室 </place>
@@ -21,7 +21,7 @@
 <name> 營運管理 </name>
 <teacher> 謝中奇  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      小哈佛教室 </place>
@@ -35,7 +35,7 @@
 <name> 資訊管理 </name>
 <teacher> 李威勳  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      小哈佛教室 </place>
@@ -49,7 +49,7 @@
 <name> 企業經營專討 </name>
 <teacher> 林軒竹*  ,  謝中奇   ,  張紹基  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      小哈佛教室 </place>
@@ -63,7 +63,7 @@
 <name> 人力資源管理 </name>
 <teacher> 王瑜琳  </teacher>
 <score> 3 </score>
-<time> [4]9~B  </time>
+<time day1="4" s1="9" e1="11"> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      小哈佛教室 </place>

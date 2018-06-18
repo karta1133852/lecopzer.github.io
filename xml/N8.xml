@@ -7,7 +7,7 @@
 <name> 專題討論（一） </name>
 <teacher> 陳佳琳  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
@@ -21,7 +21,7 @@
 <name> 專題討論（一） </name>
 <teacher> 張駿暉  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -35,7 +35,7 @@
 <name> 專題討論（一） </name>
 <teacher> 呂珍謀  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -49,7 +49,7 @@
 <name> 專題討論（一） </name>
 <teacher> 郭玉樹  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4650 </place>
@@ -63,7 +63,7 @@
 <name> 專題討論（一） </name>
 <teacher> 黃清哲  </teacher>
 <score> 1 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
@@ -77,7 +77,7 @@
 <name> 專題討論（一） </name>
 <teacher> 蕭政宗  </teacher>
 <score> 1 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -91,7 +91,7 @@
 <name> 專題討論（一） </name>
 <teacher> 楊瑞源  </teacher>
 <score> 1 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -105,7 +105,7 @@
 <name> 專題討論（三） </name>
 <teacher> 陳佳琳  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
@@ -119,7 +119,7 @@
 <name> 專題討論（三） </name>
 <teacher> 張駿暉  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -133,7 +133,7 @@
 <name> 專題討論（三） </name>
 <teacher> 呂珍謀  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -147,7 +147,7 @@
 <name> 專題討論（三） </name>
 <teacher> 郭玉樹  </teacher>
 <score> 1 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4650 </place>
@@ -161,7 +161,7 @@
 <name> 專題討論（三） </name>
 <teacher> 黃清哲  </teacher>
 <score> 1 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
@@ -175,7 +175,7 @@
 <name> 專題討論（三） </name>
 <teacher> 蕭政宗  </teacher>
 <score> 1 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -189,7 +189,7 @@
 <name> 專題討論（三） </name>
 <teacher> 楊瑞源  </teacher>
 <score> 1 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -203,7 +203,7 @@
 <name> 海域水動力學 </name>
 <teacher> 陳佳琳*  ,  李兆芳  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4650 </place>
@@ -217,7 +217,7 @@
 <name> 中等水力學 </name>
 <teacher> 陳佳琳*  ,  賴泉基  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4650 </place>
@@ -231,7 +231,7 @@
 <name> 專題討論 </name>
 <teacher> 蕭士俊  </teacher>
 <score> 0 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 水利系館                      4645 </place>
@@ -245,7 +245,7 @@
 <name> 高等地下水 </name>
 <teacher> 羅偉誠*  ,  林宏奕  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -259,7 +259,7 @@
 <name> 土石流理論 </name>
 <teacher> 戴義欽  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -273,7 +273,7 @@
 <name> 土石流災害防救實務 </name>
 <teacher> 陳俞旭   ,  陳振宇   ,  蔡元融* </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
@@ -287,7 +287,7 @@
 <name> 泥沙運行學 </name>
 <teacher> 詹錢登  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -301,7 +301,7 @@
 <name> 溪流生態學 </name>
 <teacher> 孫建平  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -315,7 +315,7 @@
 <name> 水文系統模擬與預測 </name>
 <teacher> 楊道昌   ,  郭振民   ,  游保杉* </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -329,7 +329,7 @@
 <name> 水文特論 </name>
 <teacher> 徐義人  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4678 </place>
@@ -343,7 +343,7 @@
 <name> 管路水力學 </name>
 <teacher> 唐啟釗  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
@@ -357,7 +357,7 @@
 <name> 工程系統分析 </name>
 <teacher> 周乃昉  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -371,7 +371,7 @@
 <name> 計算水力學 </name>
 <teacher> 唐啟釗  </teacher>
 <score> 3 </score>
-<time> [3]3~4  ,  [5]3  </time>
+<time day1="3" s1="3" e1="4" day2="5" s2="3" e2="3"> [3]3~4  ,  [5]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -385,7 +385,7 @@
 <name> 流體力學特論 </name>
 <teacher> 黃清哲  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -399,7 +399,7 @@
 <name> 波浪統計 </name>
 <teacher> 董東璟  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -413,7 +413,7 @@
 <name> 河海現場調查 </name>
 <teacher> 顏沛華  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
@@ -427,7 +427,7 @@
 <name> 德文（一） </name>
 <teacher> 高家俊  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -441,7 +441,7 @@
 <name> 專題討論（一） </name>
 <teacher> 呂珍謀  </teacher>
 <score> 1 </score>
-<time> [6]5~6  </time>
+<time day1="6" s1="5" e1="6"> [6]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -455,7 +455,7 @@
 <name> 專題討論（三） </name>
 <teacher> 呂珍謀  </teacher>
 <score> 1 </score>
-<time> [6]5~6  </time>
+<time day1="6" s1="5" e1="6"> [6]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -469,7 +469,7 @@
 <name> 專題討論 </name>
 <teacher> 呂珍謀  </teacher>
 <score> 0 </score>
-<time> [6]3~4  </time>
+<time day1="6" s1="3" e1="4"> [6]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 水利系館                      4646 </place>
@@ -483,7 +483,7 @@
 <name> 實用水力學 </name>
 <teacher> 吳嘉文   ,  周乃昉  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -497,7 +497,7 @@
 <name> 海事安全 </name>
 <teacher> 陳璋玲*  ,  施義哲  </teacher>
 <score> 2 </score>
-<time> [1]A~B  </time>
+<time day1="1" s1="10" e1="11"> [1]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -511,7 +511,7 @@
 <name> 海岸濕地復育與管理 </name>
 <teacher> 黃元照  </teacher>
 <score> 2 </score>
-<time> [2]B~C  </time>
+<time day1="2" s1="11" e1="12"> [2]B~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -525,7 +525,7 @@
 <name> 工程規劃與實務 </name>
 <teacher> 楊豐榮  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
@@ -539,7 +539,7 @@
 <name> 模糊理論及灰色系統 </name>
 <teacher> 劉長齡  </teacher>
 <score> 2 </score>
-<time> [6]7~8  </time>
+<time day1="6" s1="7" e1="8"> [6]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>

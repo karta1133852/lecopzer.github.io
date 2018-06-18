@@ -7,7 +7,7 @@
 <name> 專題討論 </name>
 <teacher> 陳俊仁  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 研討 </type>
@@ -23,7 +23,7 @@
 <name> 勞動法 </name>
 <teacher> 蔡維音  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -37,7 +37,7 @@
 <name> 醫事法與醫療疏失案例研究 </name>
 <teacher> 侯英泠  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        第四講堂 </place>
@@ -51,7 +51,7 @@
 <name> 保險法專題研究 </name>
 <teacher> 陳俞沛  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -65,7 +65,7 @@
 <name> 民事實體法與程序法整合 </name>
 <teacher> 胡峰賓  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -79,7 +79,7 @@
 <name> 德國法學名著選讀（二） </name>
 <teacher> 許育典  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -93,7 +93,7 @@
 <name> 日本司法權獨立重要案例選讀（一） </name>
 <teacher> 陳運財  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -107,7 +107,7 @@
 <name> 美國法學名著選讀（一） </name>
 <teacher> 李佳玟  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -121,7 +121,7 @@
 <name> 刑事法法學德文（一） </name>
 <teacher> 許澤天*  ,  馮孝莉  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -135,7 +135,7 @@
 <name> 民商法法學德文（一） </name>
 <teacher> 林易典  </teacher>
 <score> 2 </score>
-<time> [5]1~2  </time>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -149,7 +149,7 @@
 <name> 日本法學名著選讀（一） </name>
 <teacher> 陳俊郎  </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -163,7 +163,7 @@
 <name> 文化憲法專題研究（二） </name>
 <teacher> 許育典  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -177,7 +177,7 @@
 <name> 法學方法論（一） </name>
 <teacher> 蔡志方  </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -191,7 +191,7 @@
 <name> 時空法則專題研究（一） </name>
 <teacher> 蔡志方  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -205,7 +205,7 @@
 <name> 宗教內之宗教法專題研究(一)：以聖經十誡為 </name>
 <teacher> 蔡志方  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -219,7 +219,7 @@
 <name> 海運科技安全法專題研究 </name>
 <teacher> 蔡志方  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -233,7 +233,7 @@
 <name> 公司法專題研究（一） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 2 </score>
-<time> [1]8~9  </time>
+<time day1="1" s1="8" e1="9"> [1]8~9  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -247,7 +247,7 @@
 <name> 全民健康保險法專題研究 </name>
 <teacher> 蔡維音  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -261,7 +261,7 @@
 <name> 民事責任法專題研究（二） </name>
 <teacher> 侯英泠  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -275,7 +275,7 @@
 <name> 非常救濟程序與冤獄救援（一） </name>
 <teacher> 陳運財  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -289,7 +289,7 @@
 <name> 刑事訴訟法專題研究（一） </name>
 <teacher> 李佳玟  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室C </place>
@@ -303,7 +303,7 @@
 <name> 刑法專題研究（三） </name>
 <teacher> 王效文  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -317,7 +317,7 @@
 <name> 民事訴訟法專題研究（二） </name>
 <teacher> 郭書琴  </teacher>
 <score> 2 </score>
-<time> [1]3~4  </time>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -331,7 +331,7 @@
 <name> 刑事法基本問題研究（一） </name>
 <teacher> 許澤天  </teacher>
 <score> 2 </score>
-<time> [5]5~6  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -345,7 +345,7 @@
 <name> 刑事法與刑事政策專題研究（一） </name>
 <teacher> 古承宗  </teacher>
 <score> 2 </score>
-<time> [1]3~4  </time>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -359,7 +359,7 @@
 <name> 環境法專題研究（三） </name>
 <teacher> 王毓正  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -373,7 +373,7 @@
 <name> 專利法專題研究（四） </name>
 <teacher> 林易典  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -387,7 +387,7 @@
 <name> 國家、科技社會與行政法專題研究（一） </name>
 <teacher> 許登科  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -401,7 +401,7 @@
 <name> 電影產業與法律專題研究（二） </name>
 <teacher> 陳思廷  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -415,7 +415,7 @@
 <name> 法律實證專題研究（二） </name>
 <teacher> 邵靖惠  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室B </place>
@@ -429,7 +429,7 @@
 <name> 企業暨金融法專題研究（四） </name>
 <teacher> 顏雅倫  </teacher>
 <score> 2 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓研討室A </place>
@@ -443,7 +443,7 @@
 <name> 民事責任法專題研究（一） </name>
 <teacher> 葉婉如  </teacher>
 <score> 2 </score>
-<time> [3]1~2  </time>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -457,7 +457,7 @@
 <name> 財稅法專題研究 </name>
 <teacher> 陳汶津  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -471,7 +471,7 @@
 <name> 公司法專題研究（一） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 2 </score>
-<time> [5]A~B  </time>
+<time day1="5" s1="10" e1="11"> [5]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -485,7 +485,7 @@
 <name> 刑事法基本問題研究（一） </name>
 <teacher> 許澤天  </teacher>
 <score> 2 </score>
-<time> [4]B~C  </time>
+<time day1="4" s1="11" e1="12"> [4]B~C  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -499,7 +499,7 @@
 <name> 智慧財產權法案例研究（二） </name>
 <teacher> 陳思廷  </teacher>
 <score> 2 </score>
-<time> [2]A~B  </time>
+<time day1="2" s1="10" e1="11"> [2]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
@@ -513,7 +513,7 @@
 <name> 民事法暨跨領域案例研究（一） </name>
 <teacher> 邵靖惠  </teacher>
 <score> 2 </score>
-<time> [3]A~B  </time>
+<time day1="3" s1="10" e1="11"> [3]A~B  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>

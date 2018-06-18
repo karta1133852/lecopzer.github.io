@@ -7,7 +7,7 @@
 <name> 微積分（一） </name>
 <teacher> 黃世昌  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 共同教室                      A1307(資源後) </place>
@@ -15,25 +15,25 @@
 <class1> 甲乙                           </class1>
 <group1> A </group1>
 <name1> 微積分（一） </name1>
-<time1> [3]1  </time1>
+<time1 day1="3" s1="1" e1="1"> [3]1  </time1>
 <place1> 土木系館                      4509 </place1>
 <note1></note1>
 <class2> 甲乙                           </class2>
 <group2> B </group2>
 <name2> 微積分（一） </name2>
-<time2> [3]1  </time2>
+<time2 day1="3" s1="1" e1="1"> [3]1  </time2>
 <place2> 土木系館                      4504 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
 <group3> C </group3>
 <name3> 微積分（一） </name3>
-<time3> [3]1  </time3>
+<time3 day1="3" s1="1" e1="1"> [3]1  </time3>
 <place3> 土木系館                      4503 </place3>
 <note3></note3>
 <class4> 甲乙                           </class4>
 <group4> D </group4>
 <name4> 微積分（一） </name4>
-<time4> [3]1  </time4>
+<time4 day1="3" s1="1" e1="1"> [3]1  </time4>
 <place4> 土木系館                      4502 </place4>
 <note4></note4>
 </E6>
@@ -45,7 +45,7 @@
 <name> 普通化學 </name>
 <teacher> 孫亦文   ,  邱顯泰   ,  周鶴軒* </teacher>
 <score> 3 </score>
-<time> [1]7~8  ,  [4]5~6  </time>
+<time day1="1" s1="7" e1="8" day2="4" s2="5" e2="6"> [1]7~8  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      47X52 </place>
@@ -59,7 +59,7 @@
 <name> 普通物理學（一） </name>
 <teacher> 張書銓  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 共同教室                      A1306(資源後) </place>
@@ -73,7 +73,7 @@
 <name> 土木工程概論 </name>
 <teacher> 蔡錦松  </teacher>
 <score> 1 </score>
-<time> [1]9  </time>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -87,7 +87,7 @@
 <name> 土木工程概念設計 </name>
 <teacher> 蔡錦松  </teacher>
 <score> 1 </score>
-<time> [3]9  </time>
+<time day1="3" s1="9" e1="9"> [3]9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -101,7 +101,7 @@
 <name> 體育（一） </name>
 <teacher> 黃賢哲  </teacher>
 <score> 0 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -115,7 +115,7 @@
 <name> 服務學習（一） </name>
 <teacher> 郭振銘  </teacher>
 <score> 0 </score>
-<time> [2]9  </time>
+<time day1="2" s1="9" e1="9"> [2]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 土木系館                      4502 </place>
@@ -129,7 +129,7 @@
 <name> 普通物理學實驗（一） </name>
 <teacher> 張書銓  </teacher>
 <score> 1 </score>
-<time> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -143,7 +143,7 @@
 <name> 普通化學實驗 </name>
 <teacher> 李介仁  </teacher>
 <score> 1 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 理化大樓                      35122 </place>
@@ -157,7 +157,7 @@
 <name> 計算機概論 </name>
 <teacher> 李宇欣   ,  朱世禹  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -171,7 +171,7 @@
 <name> 工程圖學（一） </name>
 <teacher> 賴啟銘  </teacher>
 <score> 1 </score>
-<time> [5]5~7  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 土木系館                      4509 </place>
@@ -185,7 +185,7 @@
 <name> 服務學習（一） </name>
 <teacher> 郭振銘  </teacher>
 <score> 0 </score>
-<time> [4]9  </time>
+<time day1="4" s1="9" e1="9"> [4]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 土木系館                      4507 </place>
@@ -199,7 +199,7 @@
 <name> 體育（一） </name>
 <teacher> 潘慧雯  </teacher>
 <score> 0 </score>
-<time> [2]7~8  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -213,7 +213,7 @@
 <name> 普通物理學實驗（一） </name>
 <teacher> 呂欽山  </teacher>
 <score> 1 </score>
-<time> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -227,7 +227,7 @@
 <name> 普通化學實驗 </name>
 <teacher> 林榮良  </teacher>
 <score> 1 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 理化大樓                      35121 </place>
@@ -241,7 +241,7 @@
 <name> 計算機概論 </name>
 <teacher> 李宇欣   ,  朱世禹  </teacher>
 <score> 3 </score>
-<time> [3]8  ,  [5]5~6  </time>
+<time day1="3" s1="8" e1="8" day2="5" s2="5" e2="6"> [3]8  ,  [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -255,7 +255,7 @@
 <name> 工程圖學（一） </name>
 <teacher> 賴啟銘  </teacher>
 <score> 1 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 土木系館                      4509 </place>
@@ -269,7 +269,7 @@
 <name> 水文學 </name>
 <teacher> 呂珍謀  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
 <place> 水利系館                      4671 </place>
@@ -283,7 +283,7 @@
 <name> 測量學 </name>
 <teacher> 尤瑞哲  </teacher>
 <score> 3 </score>
-<time> [1]7~8  ,  [5]5  </time>
+<time day1="1" s1="7" e1="8" day2="5" s2="5" e2="5"> [1]7~8  ,  [5]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4671 </place>
@@ -297,7 +297,7 @@
 <name> 測量學實習 </name>
 <teacher> 尤瑞哲  </teacher>
 <score> 1 </score>
-<time> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 測量系副館                    55180 </place>
@@ -311,7 +311,7 @@
 <name> 測量學實習 </name>
 <teacher> 尤瑞哲  </teacher>
 <score> 1 </score>
-<time> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 測量系副館                    55180 </place>
@@ -325,7 +325,7 @@
 <name> 測量學實習 </name>
 <teacher> 尤瑞哲  </teacher>
 <score> 1 </score>
-<time> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 測量系副館                    55180 </place>
@@ -339,7 +339,7 @@
 <name> 鐵路工程學 </name>
 <teacher> 郭振銘  </teacher>
 <score> 3 </score>
-<time> [4]7~8  ,  [1]1  </time>
+<time day1="4" s1="7" e1="8" day2="1" s2="1" e2="1"> [4]7~8  ,  [1]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
@@ -353,7 +353,7 @@
 <name> 服務學習（三） </name>
 <teacher> 郭振銘  </teacher>
 <score> 0 </score>
-<time> [3]9  </time>
+<time day1="3" s1="9" e1="9"> [3]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 土木系館                      4507 </place>
@@ -367,7 +367,7 @@
 <name> 工程數學（一） </name>
 <teacher> 洪李陵  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -381,7 +381,7 @@
 <name> 動力學 </name>
 <teacher> 顏崇斌  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -395,7 +395,7 @@
 <name> 材料力學（一） </name>
 <teacher> 林育芸  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -409,7 +409,7 @@
 <name> 運輸工程學 </name>
 <teacher> 楊士賢  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]1  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="1" e2="1"> [1]2~3  ,  [3]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -423,7 +423,7 @@
 <name> 工程數學（一） </name>
 <teacher> 顏崇斌  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -437,7 +437,7 @@
 <name> 動力學 </name>
 <teacher> 顏崇斌  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [4]1  </time>
+<time day1="1" s1="2" e1="3" day2="4" s2="1" e2="1"> [1]2~3  ,  [4]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -451,7 +451,7 @@
 <name> 材料力學（一） </name>
 <teacher> 劉光晏  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -465,7 +465,7 @@
 <name> 運輸工程學 </name>
 <teacher> 蕭志銘  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -479,7 +479,7 @@
 <name> 工程數學（三） </name>
 <teacher> 洪李陵  </teacher>
 <score> 3 </score>
-<time> [5]5~6  ,  [3]8  </time>
+<time day1="5" s1="5" e1="6" day2="3" s2="8" e2="8"> [5]5~6  ,  [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -493,7 +493,7 @@
 <name> 大地工程特論 </name>
 <teacher> 李德河  </teacher>
 <score> 3 </score>
-<time> [2]5~6  ,  [5]8  </time>
+<time day1="2" s1="5" e1="6" day2="5" s2="8" e2="8"> [2]5~6  ,  [5]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -507,7 +507,7 @@
 <name> 結構材料 </name>
 <teacher> 黃忠信  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      210 </place>
@@ -521,7 +521,7 @@
 <name> 工程品質與安全 </name>
 <teacher> 潘南飛  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4509 </place>
@@ -535,7 +535,7 @@
 <name> 結構學（一） </name>
 <teacher> 王彬  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -549,7 +549,7 @@
 <name> 鋼結構 </name>
 <teacher> 鍾興陽  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4504 </place>
@@ -563,7 +563,7 @@
 <name> 鋼筋混凝土學 </name>
 <teacher> 洪崇展  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4506 </place>
@@ -577,7 +577,7 @@
 <name> 工程計畫管理 </name>
 <teacher> 張行道  </teacher>
 <score> 3 </score>
-<time> [1]9  ,  [4]7~8  </time>
+<time day1="1" s1="9" e1="9" day2="4" s2="7" e2="8"> [1]9  ,  [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -591,7 +591,7 @@
 <name> 土壤力學 </name>
 <teacher> 張文忠  </teacher>
 <score> 3 </score>
-<time> [2]2  ,  [5]3~4  </time>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -605,7 +605,7 @@
 <name> 土壤力學實驗 </name>
 <teacher> 張文忠  </teacher>
 <score> 1 </score>
-<time> [3]5~7  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -619,7 +619,7 @@
 <name> 結構學（一） </name>
 <teacher> 吳致平  </teacher>
 <score> 3 </score>
-<time> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
@@ -633,7 +633,7 @@
 <name> 鋼結構 </name>
 <teacher> 鍾興陽  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -647,7 +647,7 @@
 <name> 鋼筋混凝土學 </name>
 <teacher> 侯琮欽  </teacher>
 <score> 3 </score>
-<time> [2]1  ,  [4]3~4  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      210 </place>
@@ -661,7 +661,7 @@
 <name> 工程計畫管理 </name>
 <teacher> 馮重偉  </teacher>
 <score> 3 </score>
-<time> [1]9  ,  [4]7~8  </time>
+<time day1="1" s1="9" e1="9" day2="4" s2="7" e2="8"> [1]9  ,  [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4509 </place>
@@ -675,7 +675,7 @@
 <name> 土壤力學 </name>
 <teacher> 洪　瀞  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4502 </place>
@@ -689,7 +689,7 @@
 <name> 土壤力學實驗 </name>
 <teacher> 洪　瀞  </teacher>
 <score> 1 </score>
-<time> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -703,7 +703,7 @@
 <name> 論文 </name>
 <teacher> 郭振銘   ,  吳致平   ,  楊士賢   ,  侯琮欽   ,  盧煉元   ,  洪崇展   ,  洪　瀞* </teacher>
 <score> 1 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -719,7 +719,7 @@
 <name> 論文選讀 </name>
 <teacher> 吳致平   ,  楊士賢   ,  侯琮欽   ,  盧煉元   ,  洪　瀞* </teacher>
 <score> 1 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -735,7 +735,7 @@
 <name> 都市計劃 </name>
 <teacher> 杜建宏  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4509 </place>
@@ -749,7 +749,7 @@
 <name> 施工法 </name>
 <teacher> 陳建旭  </teacher>
 <score> 3 </score>
-<time> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -763,7 +763,7 @@
 <name> 水土保持工程 </name>
 <teacher> 倪勝火  </teacher>
 <score> 3 </score>
-<time> [5]3~4  ,  [2]2  </time>
+<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -777,7 +777,7 @@
 <name> 邊坡穩定與土工結構物 </name>
 <teacher> 黃景川  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4503 </place>
@@ -791,7 +791,7 @@
 <name> 校外實習 </name>
 <teacher> 郭振銘  </teacher>
 <score> 1 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 實習 </type>
@@ -807,7 +807,7 @@
 <name> 工程談判 </name>
 <teacher> 蔡錦松  </teacher>
 <score> 3 </score>
-<time> [2]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -821,7 +821,7 @@
 <name> 工程實務－世曦論壇 </name>
 <teacher> 王炤烈  </teacher>
 <score> 1 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 選修 </must>
 <type> 研討 </type>
@@ -837,7 +837,7 @@
 <name> 隧道工程學 </name>
 <teacher> 吳建宏  </teacher>
 <score> 3 </score>
-<time> [1]5~6  ,  [3]7  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
@@ -851,7 +851,7 @@
 <name> 土木工程設計實務（甲） </name>
 <teacher> 朱聖浩  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      209 </place>
@@ -865,7 +865,7 @@
 <name> 土木工程設計實務（乙） </name>
 <teacher> 倪勝火  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      209 </place>
@@ -879,7 +879,7 @@
 <name> 土木工程設計實務（丙） </name>
 <teacher> 郭振銘  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      209 </place>
@@ -893,7 +893,7 @@
 <name> 土木工程設計實務（丁） </name>
 <teacher> 王雲哲  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      209 </place>
@@ -907,7 +907,7 @@
 <name> 土木工程設計實務（戊） </name>
 <teacher> 蔡錦松  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      209 </place>

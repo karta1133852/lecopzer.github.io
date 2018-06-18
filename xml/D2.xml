@@ -7,7 +7,7 @@
 <name> 體育（一） </name>
 <teacher> 林欣仕  </teacher>
 <score> 0 </score>
-<time> [1]7~8  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 體育室前                      體育室前 </place>
@@ -21,7 +21,7 @@
 <name> 服務學習（一） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 0 </score>
-<time> [3]N  </time>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 社科院大樓                    80105 </place>
@@ -35,7 +35,7 @@
 <name> 憲法 </name>
 <teacher> 蔡維音  </teacher>
 <score> 3 </score>
-<time> [4]5~7  </time>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -49,7 +49,7 @@
 <name> 憲法 </name>
 <teacher> 許登科  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -63,7 +63,7 @@
 <name> 民法總則 </name>
 <teacher> 葉婉如  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -77,7 +77,7 @@
 <name> 民法總則 </name>
 <teacher> 侯英泠  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -91,7 +91,7 @@
 <name> 法學緒論 </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time> [5]3~4  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -105,7 +105,7 @@
 <name> 服務學習（三） </name>
 <teacher> 許登科  </teacher>
 <score> 0 </score>
-<time> [2]N  </time>
+<time day1="2" s1="4.5" e1="4.5"> [2]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 社科院大樓                    80105 </place>
@@ -119,7 +119,7 @@
 <name> 民法債編各論 </name>
 <teacher> 許曉芬  </teacher>
 <score> 4 </score>
-<time> [2]3~4  ,  [4]5~6  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="5" e2="6"> [2]3~4  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -133,7 +133,7 @@
 <name> 刑法分則 </name>
 <teacher> 許澤天  </teacher>
 <score> 3 </score>
-<time> [4]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -147,7 +147,7 @@
 <name> 民法親屬編與繼承編 </name>
 <teacher> 林易典  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -161,7 +161,7 @@
 <name> 民法親屬編與繼承編 </name>
 <teacher> 陳汶津  </teacher>
 <score> 3 </score>
-<time> [1]7~9  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -175,7 +175,7 @@
 <name> 大數據在原住民青年教育與就業的AI分析與應 </name>
 <teacher> 許育典   ,  蔡群立*  ,  胡中凡   ,  陳培殷  </teacher>
 <score> 3 </score>
-<time> [5]5~7  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-經濟 </place>
@@ -189,7 +189,7 @@
 <name> 犯罪學 </name>
 <teacher> 李佳玟  </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80103 </place>
@@ -203,7 +203,7 @@
 <name> 刑法基本問題研究（一） </name>
 <teacher> 王效文  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -217,7 +217,7 @@
 <name> 法理學（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time> [3]3~4  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -231,7 +231,7 @@
 <name> 民事訴訟法 </name>
 <teacher> 邵靖惠  </teacher>
 <score> 4 </score>
-<time> [2]7~8  ,  [3]7~8  </time>
+<time day1="2" s1="7" e1="8" day2="3" s2="7" e2="8"> [2]7~8  ,  [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -245,7 +245,7 @@
 <name> 民事訴訟法 </name>
 <teacher> 郭書琴  </teacher>
 <score> 4 </score>
-<time> [2]3~4  ,  [3]3~4  </time>
+<time day1="2" s1="3" e1="4" day2="3" s2="3" e2="4"> [2]3~4  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -259,7 +259,7 @@
 <name> 海商法 </name>
 <teacher> 許忠信  </teacher>
 <score> 2 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -273,7 +273,7 @@
 <name> 票據法 </name>
 <teacher> 顏雅倫  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -287,7 +287,7 @@
 <name> 大數據與人工智慧在法律的應用 </name>
 <teacher> 許育典*  ,  葉婉如   ,  林常青   ,  陳培殷  </teacher>
 <score> 3 </score>
-<time> [1]1~3  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -301,7 +301,7 @@
 <name> 英美侵權行為法 </name>
 <teacher> 陳俊仁  </teacher>
 <score> 2 </score>
-<time> [1]2~3  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
@@ -315,7 +315,7 @@
 <name> 刑事訴訟法實例研究 </name>
 <teacher> 陳運財  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -329,7 +329,7 @@
 <name> 家事事件法（二） </name>
 <teacher> 郭書琴  </teacher>
 <score> 2 </score>
-<time> [2]1~2  </time>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -343,7 +343,7 @@
 <name> 中小企業法規調適實務與案例研習 </name>
 <teacher> 王毓正*  ,  顏雅倫* </teacher>
 <score> 2 </score>
-<time> [2]3~4  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
@@ -357,7 +357,7 @@
 <name> 再生能源法、實務與案例研習 </name>
 <teacher> 王毓正*  ,  陳汶津* </teacher>
 <score> 2 </score>
-<time> [3]7~8  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
@@ -371,7 +371,7 @@
 <name> 文化創意與著作權法（一） </name>
 <teacher> 陳思廷  </teacher>
 <score> 2 </score>
-<time> [1]7~8  </time>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    實習法庭 </place>
@@ -385,7 +385,7 @@
 <name> 勞務契約法 </name>
 <teacher> 陳思廷  </teacher>
 <score> 2 </score>
-<time> [3]1~2  </time>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -399,7 +399,7 @@
 <name> 強制執行法 </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time> [4]3~4  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
@@ -413,7 +413,7 @@
 <name> 證券交易法專題研究（一） </name>
 <teacher> 陳俊仁  </teacher>
 <score> 2 </score>
-<time> [1]5~6  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
@@ -427,7 +427,7 @@
 <name> 債法案例與訴訟實務（一） </name>
 <teacher> 林易典  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80105 </place>
@@ -441,7 +441,7 @@
 <name> 行政法案例與實務（一） </name>
 <teacher> 許登科  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
@@ -455,7 +455,7 @@
 <name> 國際私法 </name>
 <teacher> 邵靖惠  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80109 </place>
@@ -469,7 +469,7 @@
 <name> 專利法 </name>
 <teacher> 許曉芬  </teacher>
 <score> 2 </score>
-<time> [2]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80203 </place>

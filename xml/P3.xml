@@ -7,7 +7,7 @@
 <name> 整合設計(一) </name>
 <teacher> 周君瑞  </teacher>
 <score> 3 </score>
-<time> [4]1~2  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 無                            53202 </place>
@@ -15,7 +15,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 整合設計(一) </name1>
-<time1> [4]3~4  </time1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
 <place1> 無                            53202 </place1>
 <note1></note1>
 </P3>
@@ -27,7 +27,7 @@
 <name> 人本設計(一) </name>
 <teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
 <score> 3 </score>
-<time> [4]1~2  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 無                            53205 </place>
@@ -35,7 +35,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 人本設計(一) </name1>
-<time1> [4]3~4  </time1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
 <place1> 無                            53205 </place1>
 <note1></note1>
 </P3>
@@ -47,7 +47,7 @@
 <name> 同步設計(一) </name>
 <teacher> 蕭世文*  ,  謝孟達* </teacher>
 <score> 3 </score>
-<time> [4]1~2  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 無                            53204 </place>
@@ -55,7 +55,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 同步設計(一) </name1>
-<time1> [4]3~4  </time1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
 <place1> 無                            53204 </place1>
 <note1></note1>
 </P3>
@@ -67,7 +67,7 @@
 <name> 傳達設計(一) </name>
 <teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
 <score> 3 </score>
-<time> [4]1~2  </time>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 無                            53308 </place>
@@ -75,7 +75,7 @@
 <class1> 碩一                           </class1>
 <group1></group1>
 <name1> 傳達設計(一) </name1>
-<time1> [4]3~4  </time1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
 <place1> 無                            53308 </place1>
 <note1></note1>
 </P3>
@@ -87,7 +87,7 @@
 <name> 整合設計研究（一） </name>
 <teacher> 周君瑞  </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53202 </place>
@@ -101,7 +101,7 @@
 <name> 人本設計研究（一） </name>
 <teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53205 </place>
@@ -115,7 +115,7 @@
 <name> 同步設計研究（一） </name>
 <teacher> 蕭世文*  ,  謝孟達* </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53204 </place>
@@ -129,7 +129,7 @@
 <name> 感性設計研究（一） </name>
 <teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
 <score> 2 </score>
-<time> [4]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53308 </place>
@@ -143,7 +143,7 @@
 <name> 專題討論 </name>
 <teacher> 何俊亨  </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53308 </place>
@@ -157,7 +157,7 @@
 <name> 專題討論（一） </name>
 <teacher> 周君瑞  </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53202 </place>
@@ -171,7 +171,7 @@
 <name> 專題討論（一） </name>
 <teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53205 </place>
@@ -185,7 +185,7 @@
 <name> 專題討論（一） </name>
 <teacher> 蕭世文*  ,  謝孟達* </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53204 </place>
@@ -199,7 +199,7 @@
 <name> 專題討論（一） </name>
 <teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53308 </place>
@@ -213,7 +213,7 @@
 <name> 專題討論（三） </name>
 <teacher> 周君瑞  </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53202 </place>
@@ -227,7 +227,7 @@
 <name> 專題討論（三） </name>
 <teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53205 </place>
@@ -241,7 +241,7 @@
 <name> 專題討論（三） </name>
 <teacher> 蕭世文*  ,  謝孟達* </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53204 </place>
@@ -255,7 +255,7 @@
 <name> 專題討論（三） </name>
 <teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
 <score> 0 </score>
-<time> [4]7~8  </time>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 無                            53308 </place>
@@ -269,7 +269,7 @@
 <name> 認知行為研究 </name>
 <teacher> 何俊亨  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5204A </place>
@@ -283,7 +283,7 @@
 <name> 社會文化與設計 </name>
 <teacher> 陳璽任  </teacher>
 <score> 3 </score>
-<time> [1]5~7  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5205B </place>
@@ -297,7 +297,7 @@
 <name> 程序設計 </name>
 <teacher> 周君瑞  </teacher>
 <score> 3 </score>
-<time> [2]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
@@ -311,7 +311,7 @@
 <name> 醫療產品開發特論 </name>
 <teacher> 謝孟達  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53313 </place>
@@ -325,7 +325,7 @@
 <name> 認知性產品設計 </name>
 <teacher> 林振陽  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53211 </place>
@@ -339,7 +339,7 @@
 <name> 人工智慧之人因工程 </name>
 <teacher> 林彥呈  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5256A </place>
@@ -353,7 +353,7 @@
 <name> 系統與系統設計 </name>
 <teacher> 洪郁修  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
@@ -367,7 +367,7 @@
 <name> 數位設計 </name>
 <teacher> 陳建旭  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5206 </place>
@@ -381,7 +381,7 @@
 <name> 社會與文化人因學 </name>
 <teacher> 周君瑞  </teacher>
 <score> 3 </score>
-<time> [4]A~C  </time>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place> 工設系館                      5206 </place>

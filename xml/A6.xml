@@ -7,7 +7,7 @@
 <name> 服務學習（三）—成功登大人 </name>
 <teacher> 陳鈞宜  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -23,7 +23,7 @@
 <name> 服務學習（三）—科普教育之推廣 </name>
 <teacher> 許瑞榮  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -39,7 +39,7 @@
 <name> 服務學習（三）─慈幼與服務學習 </name>
 <teacher> 周士琦  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -55,7 +55,7 @@
 <name> 服務學習（三）—國際義工 </name>
 <teacher> 翁慧卿  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -71,7 +71,7 @@
 <name> 服務學習（三）—台南發展不利社區照護:偏 </name>
 <teacher> 林呈鳳  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -87,7 +87,7 @@
 <name> 服務學習（三）—小學程式邏輯教學 </name>
 <teacher> 張怡玲  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -103,7 +103,7 @@
 <name> 服務學習（三）—校園淨塑活動 </name>
 <teacher> 邵揮洲  </teacher>
 <score> 0 </score>
-<time> [3]9  </time>
+<time day1="3" s1="9" e1="9"> [3]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 系統系館                      56113 </place>
@@ -117,7 +117,7 @@
 <name> 服務學習（三）─圖書館館藏維護管理 </name>
 <teacher> 王健文  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -133,7 +133,7 @@
 <name> 服務學習（三）─藝術中心 </name>
 <teacher> 簡聖芬  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -149,7 +149,7 @@
 <name> 服務學習（三） ─圖書閱覽服務 </name>
 <teacher> 王健文  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -165,7 +165,7 @@
 <name> 服務學習（三）─醫院服務與體驗 </name>
 <teacher> 張智仁  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -181,7 +181,7 @@
 <name> 服務學習（三）-國際服務學習 </name>
 <teacher> 林呈鳳  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -197,7 +197,7 @@
 <name> 服務學習（三）—性教育(含愛滋病防治)校園 </name>
 <teacher> 王琪珍  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>
@@ -213,7 +213,7 @@
 <name> 服務學習（三）—關懷與美善 </name>
 <teacher> 林呈鳳  </teacher>
 <score> 0 </score>
-<time> 
+<time day1="0" s1="0" e1="0"> 
   </time>
 <must> 必修 </must>
 <type> 實習 </type>

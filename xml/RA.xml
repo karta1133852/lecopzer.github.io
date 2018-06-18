@@ -7,7 +7,7 @@
 <name> 專題討論（五） </name>
 <teacher> 陳正忠   ,  楊曉瑩   ,  王鈿   ,  謝惠璟   ,  張巍勳   ,  許介文  </teacher>
 <score> 0 </score>
-<time> [2]N~5  </time>
+<time day1="2" s1="4.5" e1="5"> [2]N~5  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
@@ -21,7 +21,7 @@
 <name> 行銷管理 </name>
 <teacher> 王鈿  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -35,7 +35,7 @@
 <name> 財務管理 </name>
 <teacher> 謝惠璟  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -49,7 +49,7 @@
 <name> 金融市場與機構 </name>
 <teacher> 楊曉瑩  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -63,7 +63,7 @@
 <name> 研究方法（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -77,7 +77,7 @@
 <name> 專題討論（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 1 </score>
-<time> [4]N  </time>
+<time day1="4" s1="4.5" e1="4.5"> [4]N  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 管理學院                      62203 </place>
@@ -91,7 +91,7 @@
 <name> 專題討論（三） </name>
 <teacher> 陳正忠  </teacher>
 <score> 1 </score>
-<time> [4]5  </time>
+<time day1="4" s1="5" e1="5"> [4]5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 管理學院                      62203 </place>
@@ -105,7 +105,7 @@
 <name> 組織理論與管理 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -119,7 +119,7 @@
 <name> 組織行為 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -133,7 +133,7 @@
 <name> 計量經濟學 </name>
 <teacher> 謝惠璟  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -147,7 +147,7 @@
 <name> 人力資源管理 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -161,7 +161,7 @@
 <name> 服務管理 </name>
 <teacher> 王慕容  </teacher>
 <score> 3 </score>
-<time> [6]6~8  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -175,7 +175,7 @@
 <name> 行銷策略 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -189,7 +189,7 @@
 <name> 國際財務管理理論 </name>
 <teacher> 王澤世  </teacher>
 <score> 3 </score>
-<time> [5]A~C  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -203,7 +203,7 @@
 <name> 企業併購 </name>
 <teacher> 陳俊仁  </teacher>
 <score> 3 </score>
-<time> [1]A~C  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -217,7 +217,7 @@
 <name> 管理決策偏誤 </name>
 <teacher> 張巍勳  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -231,7 +231,7 @@
 <name> 當代管理研究 </name>
 <teacher> 張巍勳  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -245,7 +245,7 @@
 <name> 個人理財 </name>
 <teacher> 楊曉瑩  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -259,7 +259,7 @@
 <name> 社會科學研究方法 </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -273,7 +273,7 @@
 <name> 策略資訊系統 </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [4]A~C  </time>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -287,7 +287,7 @@
 <name> 行銷管理 </name>
 <teacher> 王鈿  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -301,7 +301,7 @@
 <name> 財務管理 </name>
 <teacher> 謝惠璟  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -315,7 +315,7 @@
 <name> 金融市場與機構 </name>
 <teacher> 楊曉瑩  </teacher>
 <score> 3 </score>
-<time> [1]2~4  </time>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -329,7 +329,7 @@
 <name> 研究方法（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [3]A~C  </time>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -343,7 +343,7 @@
 <name> 組織理論與管理 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time> [2]A~C  </time>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -357,7 +357,7 @@
 <name> 組織行為 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time> [5]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -371,7 +371,7 @@
 <name> 計量經濟學 </name>
 <teacher> 謝惠璟  </teacher>
 <score> 3 </score>
-<time> [3]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -385,7 +385,7 @@
 <name> 人力資源管理 </name>
 <teacher> 許介文  </teacher>
 <score> 3 </score>
-<time> [1]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -399,7 +399,7 @@
 <name> 服務管理 </name>
 <teacher> 王慕容  </teacher>
 <score> 3 </score>
-<time> [6]6~8  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -413,7 +413,7 @@
 <name> 行銷策略 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -427,7 +427,7 @@
 <name> 國際財務管理理論 </name>
 <teacher> 王澤世  </teacher>
 <score> 3 </score>
-<time> [5]A~C  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -441,7 +441,7 @@
 <name> 企業併購 </name>
 <teacher> 陳俊仁  </teacher>
 <score> 3 </score>
-<time> [1]A~C  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -455,7 +455,7 @@
 <name> 管理決策偏誤 </name>
 <teacher> 張巍勳  </teacher>
 <score> 3 </score>
-<time> [2]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -469,7 +469,7 @@
 <name> 當代管理研究 </name>
 <teacher> 張巍勳  </teacher>
 <score> 3 </score>
-<time> [5]6~8  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -483,7 +483,7 @@
 <name> 個人理財 </name>
 <teacher> 楊曉瑩  </teacher>
 <score> 3 </score>
-<time> [3]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -497,7 +497,7 @@
 <name> 社會科學研究方法 </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [4]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62203 </place>
@@ -511,7 +511,7 @@
 <name> 策略資訊系統 </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [4]A~C  </time>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
@@ -525,7 +525,7 @@
 <name> 研究方法（一） </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [6]2~4  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
@@ -539,7 +539,7 @@
 <name> 管理資訊系統 </name>
 <teacher> 陳正忠  </teacher>
 <score> 3 </score>
-<time> [6]6~8  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -553,7 +553,7 @@
 <name> 財金理論 </name>
 <teacher> 未定  </teacher>
 <score> 3 </score>
-<time> [7]2~4  </time>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -567,7 +567,7 @@
 <name> 企業併購 </name>
 <teacher> 陳俊仁  </teacher>
 <score> 3 </score>
-<time> [7]6~8  </time>
+<time day1="7" s1="6" e1="8"> [7]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
