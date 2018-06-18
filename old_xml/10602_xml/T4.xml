@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T4 id="002">
+<num>T4-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳玉玲   ,  吳尚蓉*  ,  陳永崇  </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</T4>
+
+<T4 id="003">
+<num>T4-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 臨床牙醫學（二） </name>
+<teacher> 黃振勳   ,  許修銘   ,  劉佳觀   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  黃則達*  ,  陳永崇  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="1"> [1]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 臨床組必選 </note>
+</T4>
+
+<T4 id="004">
+<num>T4-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 臨床病例討論（二） </name>
+<teacher> 黃振勳   ,  許修銘   ,  劉佳觀   ,  莊淑芬   ,  王東堯*  ,  黃則達   ,  陳永崇  </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="5"> [5]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 次專科各自帶開，臨床組必選 </note>
+</T4>
+
+<T4 id="005">
+<num>T4-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 臨床文獻討論（二） </name>
+<teacher> 黃振勳   ,  許修銘   ,  劉佳觀   ,  莊淑芬   ,  王東堯   ,  黃則達   ,  陳永崇* </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="5"> [1]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 次專科各自帶開，臨床組必選 </note>
+</T4>
+
+<T4 id="006">
+<num>T4-006</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 臨床牙科實習（二） </name>
+<teacher> 黃振勳   ,  許修銘   ,  劉佳觀   ,  莊淑芬*  ,  王東堯   ,  黃則達   ,  陳永崇  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4" day2="4" s2="2" e2="4" day3="2" s3="6" e3="8"> [3]2~4  ,  [4]2~4  ,  [2]6~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 次專科各自帶開，臨床組必選 </note>
+</T4>
+
+<T4 id="009">
+<num>T4-009</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 腫瘤生物學 </name>
+<teacher> 賴明德   ,  鄭宏祺   ,  黃柏憲*  ,  張雋曦   ,  張志鵬   ,  吳梨華  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 生化所，基醫所，口醫所合班 </note>
+</T4>
+
+<T4 id="018">
+<num>T4-018</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 謝達斌   ,  吳尚蓉   ,  陳永崇* </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</T4>
+
+<T4 id="019">
+<num>T4-019</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 臨床病例討論（四） </name>
+<teacher> 黃振勳   ,  許修銘   ,  劉佳觀*  ,  莊淑芬   ,  王東堯*  ,  黃則達   ,  陳永崇  </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="5"> [5]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 次專科各自帶開，臨床組必選 </note>
+</T4>
+
+<T4 id="020">
+<num>T4-020</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 臨床文獻討論（四） </name>
+<teacher> 黃振勳*  ,  許修銘   ,  劉佳觀   ,  莊淑芬   ,  王東堯   ,  黃則達   ,  陳永崇  </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="5"> [1]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 次專科各自帶開，臨床組必選 </note>
+</T4>
+
+<T4 id="021">
+<num>T4-021</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 臨床牙科實習（四） </name>
+<teacher> 黃振勳   ,  許修銘   ,  劉佳觀   ,  莊淑芬*  ,  王東堯   ,  黃則達  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8" day2="4" s2="2" e2="4" day3="5" s3="2" e3="4"> [3]6~8  ,  [4]2~4  ,  [5]2~4  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 次專科各自帶開，臨床組必選 </note>
+</T4>
+
+<T4 id="022">
+<num>T4-022</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 分子腫瘤學書報討論（一） </name>
+<teacher> 洪澤民   ,  陳玉玲* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="5"> [4]5  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 門診大樓                      7023 </place>
+<note> 與口醫所合開 </note>
+</T4>
+
+<T4 id="023">
+<num>T4-023</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 分子細胞生物學 </name>
+<teacher> 陳玉玲*  ,  黃則達  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7023 </place>
+<note></note>
+</T4>
+
+<T4 id="025">
+<num>T4-025</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 臨床牙醫學（四） </name>
+<teacher> 黃振勳   ,  劉佳觀   ,  謝達斌   ,  莊淑芬   ,  王東堯   ,  黃則達*  ,  陳永崇  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="1"> [1]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 臨床組必選 </note>
+</T4>
+
+<T4 id="026">
+<num>T4-026</num>
+<class> 碩三                           </class>
+<group></group>
+<name> 臨床牙科實習（六） </name>
+<teacher> 莊淑芬* </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8" day2="2" s2="6" e2="8" day3="3" s3="6" e3="8"> [1]6~8  ,  [2]6~8  ,  [3]6~8  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 上課教室:醫學部門診 </note>
+</T4>
+
+<T4 id="027">
+<num>T4-027</num>
+<class> 碩三                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 莊淑芬* </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</T4>
+
+<T4 id="028">
+<num>T4-028</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 生醫金屬書報討論 </name>
+<teacher> 李澤民  </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="5"> [2]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note></note>
+</T4>
+
+<T4 id="030">
+<num>T4-030</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 生物材料力學 </name>
+<teacher> 蕭志坤  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5725 </place>
+<note> 醫工所．口醫所合上 </note>
+</T4>
+
+<T4 id="031">
+<num>T4-031</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 蛋白質結構與影像分析之實作 </name>
+<teacher> 吳尚蓉  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note></note>
+</T4>
+
+<T4 id="032">
+<num>T4-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 轉譯生醫奈米導論（二） </name>
+<teacher> 吳炳慶*  ,  謝達斌  </teacher>
+<score> 2 </score>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5731 </place>
+<note> 口醫所與醫工所合班 </note>
+</T4>
+
+<T4 id="033">
+<num>T4-033</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 醫療器材創新設計（二） </name>
+<teacher> 林彥呈   ,  葉明龍   ,  吳炳慶*  ,  林哲偉   ,  楊岱樺   ,  吳柏廷   ,  許育祥   ,  李澤民  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5734 </place>
+<note></note>
+</T4>
+
+<T4 id="034">
+<num>T4-034</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 牙科生物力學 </name>
+<teacher> 陳永崇* </teacher>
+<score> 2 </score>
+<time day1="1" s1="6" e1="7"> [1]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7050 </place>
+<note></note>
+</T4>
+
+<T4 id="038">
+<num>T4-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 血管新生學 </name>
+<teacher> 周楠華   ,  張俊彥   ,  羅傳堯   ,  鄭宏祺   ,  張雅雯   ,  沈延盛   ,  吳梨華*  ,  吳佳慶  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 分醫所、基醫所、口醫所合班 </note>
+</T4>
+
+</content>

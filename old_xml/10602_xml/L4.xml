@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<L4 id="001">
+<num>L4-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 林慶偉*  ,  樂鍇．祿璞崚岸  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note></note>
+</L4>
+
+<L4 id="002">
+<num>L4-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 楊懷仁   ,  李恩瑞* </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note></note>
+</L4>
+
+<L4 id="101">
+<num>L4-101</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 楊耿明*  ,  陳佳宏  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note></note>
+</L4>
+
+<L4 id="102">
+<num>L4-102</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 江威德*  ,  劉正千  </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 理化大樓                      格致廳大講堂 </place>
+<note></note>
+</L4>
+
+<L4 id="110">
+<num>L4-110</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─現代地球化學（二） </name>
+<teacher> 羅尚德  </teacher>
+<score> 0 </score>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="111">
+<num>L4-111</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─大規模崩塌判釋與調查（二） </name>
+<teacher> 林慶偉  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="113">
+<num>L4-113</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─地震地體構造（二） </name>
+<teacher> 饒瑞鈞  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="114">
+<num>L4-114</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─礦物學（二） </name>
+<teacher> 江威德  </teacher>
+<score> 0 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="115">
+<num>L4-115</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─環境地質與工程技術（二） </name>
+<teacher> 吳銘志  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="116">
+<num>L4-116</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─大氣科學（二） </name>
+<teacher> 林建宏  </teacher>
+<score> 0 </score>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="117">
+<num>L4-117</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─地球化學（二） </name>
+<teacher> 楊懷仁  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="118">
+<num>L4-118</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─沈積盆地的地體構造（二） </name>
+<teacher> 楊耿明  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="119">
+<num>L4-119</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─礦物應用（二） </name>
+<teacher> 陳燕華  </teacher>
+<score> 0 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="120">
+<num>L4-120</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─岩石物理及其應用（二） </name>
+<teacher> 龔慧貞  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="121">
+<num>L4-121</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─地震研究（二） </name>
+<teacher> 樂鍇．祿璞崚岸  </teacher>
+<score> 0 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</L4>
+
+<L4 id="122">
+<num>L4-122</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─生物地質全球變遷（二） </name>
+<teacher> 梁碧清  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="123">
+<num>L4-123</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─工程地質（二） </name>
+<teacher> 林冠瑋  </teacher>
+<score> 0 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      3017 </place>
+<note></note>
+</L4>
+
+<L4 id="124">
+<num>L4-124</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論—地震資料處理（二） </name>
+<teacher> 李恩瑞  </teacher>
+<score> 0 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="125">
+<num>L4-125</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─太空天氣（二） </name>
+<teacher> 陳佳宏  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      3035 </place>
+<note></note>
+</L4>
+
+<L4 id="131">
+<num>L4-131</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 礦物物理導論 </name>
+<teacher> 余樹楨  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="132">
+<num>L4-132</num>
+<class> 碩博                           </class>
+<group></group>
+<name> Ｘ光結晶學 </name>
+<teacher> 龔慧貞  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="133">
+<num>L4-133</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 表面分析與奈米檢測技術 </name>
+<teacher> 陳燕華  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="134">
+<num>L4-134</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 穿透式電子顯微鏡之應用 </name>
+<teacher> 江威德  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="135">
+<num>L4-135</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 地球系統中的化學反應 </name>
+<teacher> 羅尚德  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="136">
+<num>L4-136</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 超微體化石分類、鑑定與生物地層及實習 </name>
+<teacher> 紀文榮  </teacher>
+<score> 4 </score>
+<time day1="6" s1="1" e1="3"> [6]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3017 </place>
+<note></note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 超微體化石分類、鑑定與生物地層及實習 </name1>
+<time1 day1="6" s1="4.5" e1="5"> [6]N~5  </time1>
+<place1> 地科系館                      3017 </place1>
+<note1></note1>
+</L4>
+
+<L4 id="137">
+<num>L4-137</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 斷層相關褶皺 </name>
+<teacher> 楊耿明  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3017 </place>
+<note></note>
+</L4>
+
+<L4 id="138">
+<num>L4-138</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 地震預警特論 </name>
+<teacher> 樂鍇．祿璞崚岸  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="139">
+<num>L4-139</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 遙測影像分析與應用 </name>
+<teacher> 劉正千  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note></note>
+</L4>
+
+<L4 id="140">
+<num>L4-140</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 古地質特論 </name>
+<teacher> 梁碧清  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="5" day2="4" s2="5" e2="6"> [3]5  ,  [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note></note>
+</L4>
+
+<L4 id="212">
+<num>L4-212</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論─遙感探測（二） </name>
+<teacher> 劉正千  </teacher>
+<score> 0 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 地科系館                      研討室一 </place>
+<note></note>
+</L4>
+
+<L4 id="301">
+<num>L4-301</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 饒瑞鈞*  ,  羅尚德  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 地科系館                      3017 </place>
+<note> 限碩士在職專班選修 </note>
+</L4>
+
+<L4 id="302">
+<num>L4-302</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 吳銘志   ,  龔慧貞* </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 地科系館                      3036 </place>
+<note> 限碩士在職專班選修 </note>
+</L4>
+
+<L4 id="310">
+<num>L4-310</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 高等臺灣地質學 </name>
+<teacher> 林冠瑋  </teacher>
+<score> 2 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3017 </place>
+<note> 限碩士在職專班選修 </note>
+</L4>
+
+<L4 id="314">
+<num>L4-314</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 地球物質學 </name>
+<teacher> 蔡金郎  </teacher>
+<score> 3 </score>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3017 </place>
+<note> 限碩士在職專班選修 </note>
+</L4>
+
+<L4 id="316">
+<num>L4-316</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 科學論文寫作及報告 </name>
+<teacher> 饒瑞鈞  </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="7"> [5]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3036 </place>
+<note> 限碩士在職專班二年級(含)以上選修 </note>
+</L4>
+
+</content>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<SA id="001">
+<num>SA-001</num>
+<class></class>
+<group></group>
+<name> 跨領域神經科學講座（二） </name>
+<teacher> 呂佩融* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</SA>
+
+<SA id="002">
+<num>SA-002</num>
+<class></class>
+<group></group>
+<name> 實驗室輪習（一） </name>
+<teacher> 蔡坤哲  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</SA>
+
+<SA id="003">
+<num>SA-003</num>
+<class> 博                             </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 蔡坤哲* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7050 </place>
+<note> 中研院簡正鼎教授負責(限本學程學生修讀) </note>
+</SA>
+
+<SA id="004">
+<num>SA-004</num>
+<class> 博                             </class>
+<group></group>
+<name> 神經科學論文的寫作與表達 </name>
+<teacher> 沈延盛* </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7050 </place>
+<note> 中研院簡正鼎教授負責/教室-跨領域研究大樓B100(限本學程學生修讀) </note>
+</SA>
+
+<SA id="005">
+<num>SA-005</num>
+<class> 博                             </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 蔡坤哲* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7050 </place>
+<note> 中研院簡正鼎教授負責(限本學程學生修讀) </note>
+</SA>
+
+<SA id="006">
+<num>SA-006</num>
+<class></class>
+<group></group>
+<name> 神經發育學 </name>
+<teacher> 何盧勳* </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</SA>
+
+<SA id="008">
+<num>SA-008</num>
+<class></class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 蔡坤哲* </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 
+ </note>
+</SA>
+
+</content>

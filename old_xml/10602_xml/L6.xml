@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<L6 id="001">
+<num>L6-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  羅竹芳   ,  盧福翊   ,  林士鳴   ,  郭瑋君* </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1302 </place>
+<note></note>
+</L6>
+
+<L6 id="002">
+<num>L6-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  羅竹芳   ,  盧福翊   ,  林士鳴   ,  郭瑋君* </teacher>
+<score> 1 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1302 </place>
+<note></note>
+</L6>
+
+<L6 id="003">
+<num>L6-003</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  羅竹芳   ,  盧福翊   ,  林士鳴   ,  郭瑋君* </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1302 </place>
+<note></note>
+</L6>
+
+<L6 id="004">
+<num>L6-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 書報討論（二） </name>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊   ,  林士鳴   ,  郭瑋君* </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    89801 </place>
+<note></note>
+</L6>
+
+<L6 id="005">
+<num>L6-005</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 書報討論（四） </name>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝  </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    89801 </place>
+<note></note>
+</L6>
+
+<L6 id="006">
+<num>L6-006</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 劉宗霖   ,  洪建中*  ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1301 </place>
+<note></note>
+</L6>
+
+<L6 id="007">
+<num>L6-007</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 劉宗霖   ,  洪建中*  ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 1 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1301 </place>
+<note></note>
+</L6>
+
+<L6 id="008">
+<num>L6-008</num>
+<class> 博三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 劉宗霖   ,  洪建中*  ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 0 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 共同教室                      A1302 </place>
+<note></note>
+</L6>
+
+<L6 id="009">
+<num>L6-009</num>
+<class> 博一                           </class>
+<group></group>
+<name> 書報討論（二） </name>
+<teacher> 陳宗嶽   ,  張清俊   ,  洪健睿*  ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊   ,  林士鳴   ,  郭瑋君  </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    89801 </place>
+<note></note>
+</L6>
+
+<L6 id="010">
+<num>L6-010</num>
+<class> 博二                           </class>
+<group></group>
+<name> 書報討論（四） </name>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千*  ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<score> 1 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    89801 </place>
+<note></note>
+</L6>
+
+<L6 id="011">
+<num>L6-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等細胞生物學 </name>
+<teacher> 何盧勳   ,  張松彬   ,  洪健睿   ,  張純純   ,  洪建中   ,  林鼎晏*  ,  洪良宜   ,  盧福翊   ,  李瑞花  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S3 </place>
+<note></note>
+</L6>
+
+<L6 id="012">
+<num>L6-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等細胞生物學 </name>
+<teacher> 何盧勳   ,  張松彬   ,  洪健睿   ,  張純純   ,  洪建中   ,  林鼎晏*  ,  洪良宜   ,  盧福翊   ,  李瑞花  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89901 </place>
+<note></note>
+</L6>
+
+<L6 id="018">
+<num>L6-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 植物分子生物學特論 </name>
+<teacher> 張清俊* </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89801 </place>
+<note></note>
+</L6>
+
+<L6 id="019">
+<num>L6-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 蛋白質純化與分析 </name>
+<teacher> 陳逸民* </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89801 </place>
+<note></note>
+</L6>
+
+<L6 id="020">
+<num>L6-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 轉譯生物學 </name>
+<teacher> 王涵青* </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89901 </place>
+<note></note>
+</L6>
+
+<L6 id="021">
+<num>L6-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等病毒學 </name>
+<teacher> 洪建中* </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89A01 </place>
+<note></note>
+</L6>
+
+<L6 id="022">
+<num>L6-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 訊息傳遞蛋白的結構與功能特論 </name>
+<teacher> 羅玉枝* </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89901 </place>
+<note></note>
+</L6>
+
+<L6 id="023">
+<num>L6-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 細胞訊息與調控特論 </name>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜*  ,  羅玉枝   ,  郭瑋君  </teacher>
+<score> 1 </score>
+<time day1="2" s1="4" e1="4"> [2]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89901 </place>
+<note></note>
+</L6>
+
+<L6 id="026">
+<num>L6-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分子生物演算法 </name>
+<teacher> 劉宗霖  </teacher>
+<score> 2 </score>
+<time day1="3" s1="6" e1="7"> [3]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89A01 </place>
+<note></note>
+</L6>
+
+</content>

@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<P2 id="001">
+<num>P2-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 胡太山  </teacher>
+<score> 1 </score>
+<time day1="5" s1="6" e1="7"> [5]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 都計系館                      50308 </place>
+<note></note>
+</P2>
+
+<P2 id="002">
+<num>P2-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 鄒克萬  </teacher>
+<score> 1 </score>
+<time day1="5" s1="6" e1="7"> [5]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 都計系館                      50102 </place>
+<note></note>
+</P2>
+
+<P2 id="003">
+<num>P2-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 張學聖  </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 都計系館                      50302 </place>
+<note> 碩博修業三年(含)以上用 </note>
+</P2>
+
+<P2 id="004">
+<num>P2-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 都市計劃實習 </name>
+<teacher> 葉如萍*  ,  鄭皓騰   ,  鄒克萬   ,  林漢良  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 都計系館                      50219 </place>
+<note> 碩士班必選 </note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 都市計劃實習 </name1>
+<time1 day1="2" s1="6" e1="8"> [2]6~8  </time1>
+<place1> 都計系館                      50219 </place1>
+<note1></note1>
+</P2>
+
+<P2 id="005">
+<num>P2-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 產業發展規劃特論 </name>
+<teacher> 黃美雅   ,  閻永祺   ,  孔憲法* </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50202 </place>
+<note></note>
+</P2>
+
+<P2 id="006">
+<num>P2-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 住宅經濟及不動產分析方法特論 </name>
+<teacher> 陳彥仲  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50306 </place>
+<note></note>
+</P2>
+
+<P2 id="007">
+<num>P2-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 計量經濟學 </name>
+<teacher> 陳彥仲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50308 </place>
+<note></note>
+</P2>
+
+<P2 id="008">
+<num>P2-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 多變量分析 </name>
+<teacher> 石豐宇*  ,  杜建宏  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5102 </place>
+<note></note>
+</P2>
+
+<P2 id="009">
+<num>P2-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 空間區位分析專論 </name>
+<teacher> 張學聖  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50308 </place>
+<note></note>
+</P2>
+
+<P2 id="010">
+<num>P2-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 歷史環境再生特論 </name>
+<teacher> 曾憲嫻  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50302 </place>
+<note></note>
+</P2>
+
+<P2 id="011">
+<num>P2-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 都市形態學 </name>
+<teacher> 陳志宏  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50308 </place>
+<note> 大學部學生限三年級以上且須修過都市設計與都市發展史 </note>
+</P2>
+
+<P2 id="012">
+<num>P2-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 法規與都市形式 </name>
+<teacher> 張秀慈  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note></note>
+</P2>
+
+<P2 id="013">
+<num>P2-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 區域經濟發展 </name>
+<teacher> 胡太山  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50302 </place>
+<note></note>
+</P2>
+
+<P2 id="014">
+<num>P2-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 風險管理特論 </name>
+<teacher> 黃泰霖  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 都計系館                      50302 </place>
+<note></note>
+</P2>
+
+<P2 id="015">
+<num>P2-015</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 跨領域濱海陸地規劃實習（二） </name>
+<teacher> 葉如萍   ,  黃偉茹*  ,  張　懿  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+<class1> 碩一二                         </class1>
+<group1></group1>
+<name1> 跨領域濱海陸地規劃實習（二） </name1>
+<time1 day1="0" s1="0" e1="0"> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
+</P2>
+
+<P2 id="016">
+<num>P2-016</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 國際都市設計競圖 </name>
+<teacher> 陳志宏  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</P2>
+
+<P2 id="017">
+<num>P2-017</num>
+<class></class>
+<group></group>
+<name> 海洋空間規劃概論 </name>
+<teacher> 葉如萍  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</P2>
+
+<P2 id="018">
+<num>P2-018</num>
+<class></class>
+<group></group>
+<name> 古地圖解碼(一)：發現古地圖 </name>
+<teacher> 鍾振坤   ,  孔憲法* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</P2>
+
+<P2 id="020">
+<num>P2-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健康城市與社區營造 </name>
+<teacher> 趙子元   ,  胡淑貞* </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note> 公衛所與都計所合班 </note>
+</P2>
+
+<P2 id="101">
+<num>P2-101</num>
+<class> 博一                           </class>
+<group></group>
+<name> 規劃專題研討（二） </name>
+<teacher> 陳彥仲   ,  張秀慈* </teacher>
+<score> 1 </score>
+<time day1="5" s1="6" e1="7"> [5]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 都計系館                      50306 </place>
+<note> 博一二合班 </note>
+</P2>
+
+<P2 id="102">
+<num>P2-102</num>
+<class> 博二                           </class>
+<group></group>
+<name> 規劃專題研討（四） </name>
+<teacher> 陳彥仲   ,  張秀慈* </teacher>
+<score> 1 </score>
+<time day1="5" s1="6" e1="7"> [5]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 都計系館                      50306 </place>
+<note> 博一二合班 </note>
+</P2>
+
+</content>

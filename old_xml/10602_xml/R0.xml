@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<R0 id="301">
+<num>R0-301</num>
+<class> 碩專延三                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 王泰裕  </teacher>
+<score> 0 </score>
+<time day1="1" s1="13" e1="13"> [1]D  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      小哈佛教室 </place>
+<note> 限修畢45學分以上選修 </note>
+</R0>
+
+<R0 id="302">
+<num>R0-302</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 統計方法專題 </name>
+<teacher> 王泰裕   ,  謝中奇*  ,  黃宇翔  </teacher>
+<score> 3 </score>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="303">
+<num>R0-303</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 財務與會計專題 </name>
+<teacher> 李宏志   ,  劉裕宏   ,  周庭楷   ,  楊朝旭   ,  顏盟峯   ,  林軒竹   ,  黃華瑋   ,  王澤世* </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="304">
+<num>R0-304</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 質性研究方法 </name>
+<teacher> 周信輝  </teacher>
+<score> 2 </score>
+<time day1="4" s1="10" e1="11"> [4]A~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="305">
+<num>R0-305</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 中小企業經營與管理 </name>
+<teacher> 顏盟峯   ,  張紹基*  ,  曾瓊慧   ,  張巍勳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="306">
+<num>R0-306</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 管理會計 </name>
+<teacher> 楊朝旭  </teacher>
+<score> 3 </score>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="307">
+<num>R0-307</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 史習安  </teacher>
+<score> 3 </score>
+<time day1="6" s1="3" e1="4" day2="6" s2="5" e2="5"> [6]3~4  ,  [6]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="308">
+<num>R0-308</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 運動減壓與健康體適能管理 </name>
+<teacher> 林麗娟*  ,  鄭匡佑   ,  徐珊惠   ,  周學雯   ,  葉公鼎   ,  馬上鈞  </teacher>
+<score> 2 </score>
+<time day1="6" s1="3" e1="4"> [6]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 62X17 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="309">
+<num>R0-309</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 經營品質個案研討 </name>
+<teacher> 呂執中  </teacher>
+<score> 2 </score>
+<time day1="6" s1="5" e1="6"> [6]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 62X17 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="310">
+<num>R0-310</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 企業研究方法 </name>
+<teacher> 吳萬益  </teacher>
+<score> 2 </score>
+<time day1="7" s1="5" e1="6"> [7]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="311">
+<num>R0-311</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 企業經營與診斷 </name>
+<teacher> 周信輝  </teacher>
+<score> 3 </score>
+<time day1="7" s1="5" e1="5" day2="7" s2="3" e2="4"> [7]5  ,  [7]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      哈佛教室 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="312">
+<num>R0-312</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 創業基礎與管理 </name>
+<teacher> 楊朝旭  </teacher>
+<score> 3 </score>
+<time day1="6" s1="3" e1="4" day2="6" s2="5" e2="5"> [6]3~4  ,  [6]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="313">
+<num>R0-313</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 經營管理與診斷 </name>
+<teacher> 林正章  </teacher>
+<score> 3 </score>
+<time day1="7" s1="3" e1="4" day2="7" s2="5" e2="5"> [7]3~4  ,  [7]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 62X17 </place>
+<note> 不開放網路選課，由系辦統一選課。 </note>
+</R0>
+
+</content>

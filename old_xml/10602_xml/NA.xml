@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<NA id="001">
+<num>NA-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 劉大綱  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</NA>
+
+<NA id="002">
+<num>NA-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 莊士賢  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4650 </place>
+<note></note>
+</NA>
+
+<NA id="003">
+<num>NA-003</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 劉大綱  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4646 </place>
+<note> 限延畢生選課，延畢生每學期至少需選修一門課 </note>
+</NA>
+
+<NA id="004">
+<num>NA-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋保護區 </name>
+<teacher> 劉大綱  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4650 </place>
+<note></note>
+</NA>
+
+<NA id="005">
+<num>NA-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋資訊分析與管理應用 </name>
+<teacher> 莊士賢  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note></note>
+</NA>
+
+<NA id="006">
+<num>NA-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海岸保護 </name>
+<teacher> 董東璟*  ,  陳佳琳   ,  Prter Frohle  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note> 自災所、水利所、海事所合開課程 </note>
+</NA>
+
+<NA id="007">
+<num>NA-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 氣候變遷與海洋環境保護 </name>
+<teacher> 張　懿  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</NA>
+
+<NA id="010">
+<num>NA-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 魚類養殖與捕魚之法律問題研究 </name>
+<teacher> 蔡志方  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note> 法律系與海事所合開，法律系比照「研討」課程。 </note>
+</NA>
+
+<NA id="011">
+<num>NA-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際公法 </name>
+<teacher> 陳怡凱  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4646 </place>
+<note></note>
+</NA>
+
+<NA id="012">
+<num>NA-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 離岸風機支撐結構設計 </name>
+<teacher> 郭玉樹  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</NA>
+
+</content>

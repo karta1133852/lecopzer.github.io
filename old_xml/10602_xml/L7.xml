@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<L7 id="001">
+<num>L7-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 光電子學（二） </name>
+<teacher> 周維揚  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48424 </place>
+<note> 已修過光電子學(一)者為佳 </note>
+</L7>
+
+<L7 id="002">
+<num>L7-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 光電實驗（二） </name>
+<teacher> 李佳榮  </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 綜合大樓                      48421 </place>
+<note> 應先修光電實驗（一） </note>
+</L7>
+
+<L7 id="003">
+<num>L7-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 光電實驗（二） </name>
+<teacher> 周維揚  </teacher>
+<score> 1 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 綜合大樓                      48421 </place>
+<note> 應先修光電實驗（一） </note>
+</L7>
+
+<L7 id="004">
+<num>L7-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 光電實驗（二） </name>
+<teacher> 周維揚  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 綜合大樓                      48421 </place>
+<note> 應先修光電實驗（一） </note>
+</L7>
+
+<L7 id="005">
+<num>L7-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳昭宇  </teacher>
+<score> 0 </score>
+<time day1="5" s1="6" e1="7"> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48217 </place>
+<note> 碩一生 </note>
+</L7>
+
+<L7 id="006">
+<num>L7-006</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳昭宇  </teacher>
+<score> 1 </score>
+<time day1="5" s1="6" e1="7"> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48217 </place>
+<note> 博一生 </note>
+</L7>
+
+<L7 id="007">
+<num>L7-007</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 陳昭宇  </teacher>
+<score> 1 </score>
+<time day1="5" s1="6" e1="7"> [5]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48217 </place>
+<note> 博二生 </note>
+</L7>
+
+<L7 id="011">
+<num>L7-011</num>
+<class> 博                             </class>
+<group></group>
+<name> 固態照明 </name>
+<teacher> 許進恭  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48424 </place>
+<note></note>
+</L7>
+
+<L7 id="012">
+<num>L7-012</num>
+<class> 博                             </class>
+<group></group>
+<name> 高等有機半導體物理 </name>
+<teacher> 鄭弘隆  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note></note>
+</L7>
+
+<L7 id="013">
+<num>L7-013</num>
+<class> 博                             </class>
+<group></group>
+<name> 3D顯示技術 </name>
+<teacher> 許家榮  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48218 </place>
+<note></note>
+</L7>
+
+<L7 id="014">
+<num>L7-014</num>
+<class> 博                             </class>
+<group></group>
+<name> 高等半導體物理及元件 </name>
+<teacher> 賴韋志  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note></note>
+</L7>
+
+<L7 id="021">
+<num>L7-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光電數值模擬 </name>
+<teacher> 張世慧  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48312 </place>
+<note></note>
+</L7>
+
+<L7 id="022">
+<num>L7-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 量子物理 </name>
+<teacher> 曾碩彥  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note></note>
+</L7>
+
+<L7 id="023">
+<num>L7-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 先進微影技術 </name>
+<teacher> 林俊宏  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note></note>
+</L7>
+
+<L7 id="024">
+<num>L7-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光學系統設計 </name>
+<teacher> 陳宣燁  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75309 </place>
+<note></note>
+</L7>
+
+<L7 id="026">
+<num>L7-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生醫組織光學 </name>
+<teacher> 曾盛豪  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48424 </place>
+<note></note>
+</L7>
+
+<L7 id="027">
+<num>L7-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電漿子光學原理與應用 </name>
+<teacher> 藍永強  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48217 </place>
+<note></note>
+</L7>
+
+<L7 id="028">
+<num>L7-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 液晶材料及顯示技術 </name>
+<teacher> 傅永貴  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49323 </place>
+<note></note>
+</L7>
+
+<L7 id="029">
+<num>L7-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 顯示器色彩學 </name>
+<teacher> 李汪洋  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note></note>
+</L7>
+
+<L7 id="030">
+<num>L7-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光偵測器原理與技術 </name>
+<teacher> 林時彥  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48218 </place>
+<note></note>
+</L7>
+
+<L7 id="032">
+<num>L7-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體及先進奈米化製程技術概論（二） </name>
+<teacher> 王英郎  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      迅慧講堂 </place>
+<note> 台積電主管開授，(一)、(二)都需修課始合計6畢業學分 </note>
+</L7>
+
+<L7 id="041">
+<num>L7-041</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 有機發光二極體專題 </name>
+<teacher> 郭宗枋  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note> 限光電所學生 </note>
+</L7>
+
+<L7 id="042">
+<num>L7-042</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光電半導體製程技術專題（二） </name>
+<teacher> 許進恭  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48312 </place>
+<note> 限光電所學生 </note>
+</L7>
+
+<L7 id="043">
+<num>L7-043</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 液晶光電專題（二） </name>
+<teacher> 李佳榮  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48312 </place>
+<note> 限光電所學生 </note>
+</L7>
+
+<L7 id="044">
+<num>L7-044</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米製程專題（二） </name>
+<teacher> 林俊宏  </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note> 限光電所學生 </note>
+</L7>
+
+<L7 id="045">
+<num>L7-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光伏元件與材料專題（二） </name>
+<teacher> 陳昭宇  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note> 限光電所學生 </note>
+</L7>
+
+<L7 id="046">
+<num>L7-046</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 先進光電材料分析專題（二） </name>
+<teacher> 鄭弘隆  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48422 </place>
+<note> 限光電所學生 </note>
+</L7>
+
+<L7 id="047">
+<num>L7-047</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光電科學教學實習（二） </name>
+<teacher> 李欣縈  </teacher>
+<score> 1 </score>
+<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 綜合大樓                      48217 </place>
+<note> 限本系研究生 </note>
+</L7>
+
+</content>

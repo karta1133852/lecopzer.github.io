@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<F3 id="010">
+<num>F3-010</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 林雅惠  </teacher>
+<score> 0 </score>
+<time day1="3" s1="8" e1="8"> [3]8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</F3>
+
+<F3 id="011">
+<num>F3-011</num>
+<class></class>
+<group></group>
+<name> 表現技法 </name>
+<teacher> 陳劭農  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="5"> [3]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53302 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 表現技法 </name1>
+<time1 day1="3" s1="6" e1="7"> [3]6~7  </time1>
+<place1> 無                            53302 </place1>
+<note1></note1>
+</F3>
+
+<F3 id="012">
+<num>F3-012</num>
+<class></class>
+<group></group>
+<name> 表現技法 </name>
+<teacher> 何俊亨  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="5"> [3]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5206 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 表現技法 </name1>
+<time1 day1="3" s1="6" e1="7"> [3]6~7  </time1>
+<place1> 工設系館                      5206 </place1>
+<note1></note1>
+</F3>
+
+<F3 id="015">
+<num>F3-015</num>
+<class></class>
+<group></group>
+<name> 基本設計（二） </name>
+<teacher> 李緣文  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 無                            53306 </place>
+<note></note>
+</F3>
+
+<F3 id="016">
+<num>F3-016</num>
+<class></class>
+<group></group>
+<name> 基本設計（二） </name>
+<teacher> 陳璽任  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 無                            53313 </place>
+<note></note>
+</F3>
+
+<F3 id="017">
+<num>F3-017</num>
+<class></class>
+<group></group>
+<name> 計算機概論 </name>
+<teacher> 曾朝源  </teacher>
+<score> 3 </score>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5102 </place>
+<note> 上課教室為C-HUB一樓電腦教室5102 </note>
+</F3>
+
+<F3 id="018">
+<num>F3-018</num>
+<class></class>
+<group></group>
+<name> 色彩學 </name>
+<teacher> 周君瑞  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53302 </place>
+<note></note>
+</F3>
+
+<F3 id="019">
+<num>F3-019</num>
+<class></class>
+<group></group>
+<name> 普通物理學 </name>
+<teacher> 蘇漢宗  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 空中大學                      53101 </place>
+<note></note>
+</F3>
+
+<F3 id="020">
+<num>F3-020</num>
+<class></class>
+<group></group>
+<name> 專題模型製作 </name>
+<teacher> 魏仲君  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53X02 </place>
+<note></note>
+</F3>
+
+<F3 id="021">
+<num>F3-021</num>
+<class></class>
+<group></group>
+<name> 專題模型製作 </name>
+<teacher> 魏仲君  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53X02 </place>
+<note></note>
+</F3>
+
+<F3 id="055">
+<num>F3-055</num>
+<class></class>
+<group> A </group>
+<name> 產品設計（二） </name>
+<teacher> 林彥呈  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5206 </place>
+<note></note>
+</F3>
+
+<F3 id="056">
+<num>F3-056</num>
+<class></class>
+<group> B </group>
+<name> 產品設計（二） </name>
+<teacher> 林雅惠  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5204A </place>
+<note></note>
+</F3>
+
+<F3 id="057">
+<num>F3-057</num>
+<class></class>
+<group> C </group>
+<name> 產品設計（二） </name>
+<teacher> 陳榮煌  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5204B </place>
+<note></note>
+</F3>
+
+<F3 id="059">
+<num>F3-059</num>
+<class></class>
+<group></group>
+<name> 人類因素學 </name>
+<teacher> 洪郁修  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5256A </place>
+<note></note>
+</F3>
+
+<F3 id="060">
+<num>F3-060</num>
+<class></class>
+<group> A </group>
+<name> 電腦輔助設計與製造 </name>
+<teacher> 羅逸文  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53311 </place>
+<note></note>
+</F3>
+
+<F3 id="061">
+<num>F3-061</num>
+<class></class>
+<group> B </group>
+<name> 電腦輔助設計與製造 </name>
+<teacher> 羅逸文  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53311 </place>
+<note></note>
+</F3>
+
+<F3 id="062">
+<num>F3-062</num>
+<class></class>
+<group></group>
+<name> 機械設計原理 </name>
+<teacher> 魏仲君  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53306 </place>
+<note></note>
+</F3>
+
+<F3 id="063">
+<num>F3-063</num>
+<class></class>
+<group></group>
+<name> 設計史 </name>
+<teacher> 陳璽任  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5205A </place>
+<note></note>
+</F3>
+
+<F3 id="102">
+<num>F3-102</num>
+<class></class>
+<group> A </group>
+<name> 工業設計（二） </name>
+<teacher> 曾朝源  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5256A </place>
+<note></note>
+</F3>
+
+<F3 id="103">
+<num>F3-103</num>
+<class></class>
+<group> B </group>
+<name> 工業設計（二） </name>
+<teacher> 蕭世文  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5205A </place>
+<note></note>
+</F3>
+
+<F3 id="104">
+<num>F3-104</num>
+<class></class>
+<group> C </group>
+<name> 工業設計（二） </name>
+<teacher> 劉說芳  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5205B </place>
+<note></note>
+</F3>
+
+<F3 id="105">
+<num>F3-105</num>
+<class></class>
+<group></group>
+<name> 商業編排設計 </name>
+<teacher> 莊惠棋  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53311 </place>
+<note> 1.納入「創意設計學程」2.「創意設計學程」學生請至創意設計教學資源中心加簽 </note>
+</F3>
+
+<F3 id="106">
+<num>F3-106</num>
+<class></class>
+<group></group>
+<name> 數位表現技法 </name>
+<teacher> 陳劭農  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53311 </place>
+<note></note>
+</F3>
+
+<F3 id="107">
+<num>F3-107</num>
+<class></class>
+<group></group>
+<name> 電腦輔助圖形設計 </name>
+<teacher> 謝孟達  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53311 </place>
+<note></note>
+</F3>
+
+<F3 id="157">
+<num>F3-157</num>
+<class></class>
+<group></group>
+<name> 經營管理與國際行銷 </name>
+<teacher> 陸定邦  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note> 服務科學與體驗學程 </note>
+</F3>
+
+<F3 id="158">
+<num>F3-158</num>
+<class></class>
+<group></group>
+<name> 設計實務的要訣 </name>
+<teacher> 林雅惠  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53313 </place>
+<note></note>
+</F3>
+
+<F3 id="160">
+<num>F3-160</num>
+<class></class>
+<group></group>
+<name> 專題設計（二） </name>
+<teacher> 蕭世文*  ,  周君瑞*  ,  吳豐光* </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="10"> [2]5~A  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5204A </place>
+<note></note>
+</F3>
+
+<F3 id="161">
+<num>F3-161</num>
+<class></class>
+<group></group>
+<name> 專題設計（二） </name>
+<teacher> 陳璽任  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="10"> [2]5~A  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5204B </place>
+<note></note>
+</F3>
+
+<F3 id="162">
+<num>F3-162</num>
+<class></class>
+<group></group>
+<name> 專題設計（二） </name>
+<teacher> 何俊亨*  ,  曾元琦* </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="10"> [2]5~A  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5205A </place>
+<note></note>
+</F3>
+
+<F3 id="163">
+<num>F3-163</num>
+<class></class>
+<group></group>
+<name> 專題設計（二） </name>
+<teacher> 謝孟達*  ,  陳建旭* </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="10"> [2]5~A  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 工設系館                      5205B </place>
+<note></note>
+</F3>
+
+</content>

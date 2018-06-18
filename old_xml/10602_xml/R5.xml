@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<R5 id="001">
+<num>R5-001</num>
+<class> 碩一                           </class>
+<group> A </group>
+<name> 專題討論（二） </name>
+<teacher> 鄭永祥  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 碩一二合班 </note>
+</R5>
+
+<R5 id="002">
+<num>R5-002</num>
+<class> 碩一                           </class>
+<group> B </group>
+<name> 專題討論（二） </name>
+<teacher> 張瀞之  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 碩一二合班 </note>
+</R5>
+
+<R5 id="003">
+<num>R5-003</num>
+<class> 碩一                           </class>
+<group> C </group>
+<name> 專題討論（二） </name>
+<teacher> 黃國平  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 碩一二合班 </note>
+</R5>
+
+<R5 id="004">
+<num>R5-004</num>
+<class> 碩二                           </class>
+<group> A </group>
+<name> 專題討論（四） </name>
+<teacher> 鄭永祥  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 管理學院                      62X01 </place>
+<note> 碩一二合班 </note>
+</R5>
+
+<R5 id="005">
+<num>R5-005</num>
+<class> 碩二                           </class>
+<group> B </group>
+<name> 專題討論（四） </name>
+<teacher> 張瀞之  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 交管系館                      62207 </place>
+<note> 碩一二合班 </note>
+</R5>
+
+<R5 id="006">
+<num>R5-006</num>
+<class> 碩二                           </class>
+<group> C </group>
+<name> 專題討論（四） </name>
+<teacher> 黃國平  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 管理學院                      62X02 </place>
+<note> 碩一二合班 </note>
+</R5>
+
+<R5 id="010">
+<num>R5-010</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 運輸工程與科技 </name>
+<teacher> 胡守任  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 運輸科技領域必修 </note>
+</R5>
+
+<R5 id="021">
+<num>R5-021</num>
+<class> 博一                           </class>
+<group></group>
+<name> 交通專題研討（二） </name>
+<teacher> 魏健宏  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62107 </place>
+<note></note>
+</R5>
+
+<R5 id="022">
+<num>R5-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 魏健宏  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 交管系館                      62107 </place>
+<note> 延畢生修 </note>
+</R5>
+
+<R5 id="114">
+<num>R5-114</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電信政策與法規 </name>
+<teacher> 黃郁雯  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 交管所與電信所合班 </note>
+</R5>
+
+<R5 id="116">
+<num>R5-116</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國際經濟與財務 </name>
+<teacher> 張瀞之  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 物流管理領域必修 </note>
+</R5>
+
+<R5 id="117">
+<num>R5-117</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 運輸需求分析與預測 </name>
+<teacher> 胡守任  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 先修:統計學 </note>
+</R5>
+
+<R5 id="118">
+<num>R5-118</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 公路客運業經營與管理 </name>
+<teacher> 魏健宏  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note></note>
+</R5>
+
+<R5 id="119">
+<num>R5-119</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 智慧型運輸系統特論 </name>
+<teacher> 李威勳  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note></note>
+</R5>
+
+<R5 id="120">
+<num>R5-120</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 車輛資通訊與車載網路 </name>
+<teacher> 李威勳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 交電管合開 </note>
+</R5>
+
+<R5 id="135">
+<num>R5-135</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 民航法規 </name>
+<teacher> 戴佐敏  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 選課經須本系登記審核通過 </note>
+</R5>
+
+<R5 id="151">
+<num>R5-151</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 運輸網路均衡模式 </name>
+<teacher> 林東盈  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62205 </place>
+<note></note>
+</R5>
+
+<R5 id="170">
+<num>R5-170</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 運輸經濟 </name>
+<teacher> 陳勁甫  </teacher>
+<score> 3 </score>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 旅客運輸領域必修,跨學門民航學分學程及鐵道運輸學程,選課須經本系登記審核通過. </note>
+</R5>
+
+<R5 id="181">
+<num>R5-181</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 服務業行銷策略 </name>
+<teacher> 蔡東峻  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note></note>
+</R5>
+
+<R5 id="182">
+<num>R5-182</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  廖俊雄*  ,  鄭永祥   ,  陳勁甫   ,  黃國平   ,  張瀞之   ,  林東盈   ,  陳文字   ,  李威勳   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
+<score> 1 </score>
+<time day1="5" s1="1" e1="1" day2="5" s2="4.5" e2="4.5"> [5]1  ,  [5]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 交管系館                      62107 </place>
+<note></note>
+</R5>
+
+<R5 id="184">
+<num>R5-184</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 民航經濟與財務管理 </name>
+<teacher> 戴佐敏  </teacher>
+<score> 3 </score>
+<time day1="6" s1="5" e1="7"> [6]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 跨學門民航學分學程 ，選課須經本系登記審核通過 </note>
+</R5>
+
+<R5 id="301">
+<num>R5-301</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 交通管理實務 </name>
+<teacher> 鄭永祥  </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 限碩專選修。 </note>
+</R5>
+
+<R5 id="302">
+<num>R5-302</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 海運承攬運送實務 </name>
+<teacher> 張瀞之  </teacher>
+<score> 3 </score>
+<time day1="5" s1="11" e1="13"> [5]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 限碩專選修。 </note>
+</R5>
+
+<R5 id="303">
+<num>R5-303</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 競爭與公平交易法 </name>
+<teacher> 黃郁雯  </teacher>
+<score> 3 </score>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 限碩專選修。 </note>
+</R5>
+
+<R5 id="306">
+<num>R5-306</num>
+<class></class>
+<group></group>
+<name> 獨立研究（四） </name>
+<teacher> 胡守任   ,  廖俊雄*  ,  鄭永祥   ,  張瀞之   ,  黃郁雯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R5>
+
+<R5 id="307">
+<num>R5-307</num>
+<class></class>
+<group></group>
+<name> 獨立研究（二） </name>
+<teacher> 廖俊雄*  ,  鄭永祥   ,  張瀞之   ,  黃郁雯   ,  林佐鼎  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R5>
+
+<R5 id="308">
+<num>R5-308</num>
+<class></class>
+<group></group>
+<name> 獨立研究（三） </name>
+<teacher> 廖俊雄   ,  鄭永祥   ,  張瀞之   ,  黃郁雯   ,  林佐鼎  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</R5>
+
+<R5 id="309">
+<num>R5-309</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 論文研究 </name>
+<teacher> 廖俊雄  </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X02 </place>
+<note> 限碩專班修讀 </note>
+</R5>
+
+<R5 id="310">
+<num>R5-310</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 資通訊科技之應用 </name>
+<teacher> 陳文字  </teacher>
+<score> 3 </score>
+<time day1="4" s1="11" e1="13"> [4]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 交管系館                      62207 </place>
+<note> 限碩專班修讀 </note>
+</R5>
+
+</content>

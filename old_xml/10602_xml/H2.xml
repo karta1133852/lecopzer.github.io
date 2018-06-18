@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<H2 id="006">
+<num>H2-006</num>
+<class></class>
+<group></group>
+<name> 統計學（二） </name>
+<teacher> 馬瀰嘉  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62223 </place>
+<note> 週三第1節另有1節實習課 </note>
+</H2>
+
+<H2 id="010">
+<num>H2-010</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 任眉眉  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="5" e2="5"> [1]5~6  ,  [3]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62223 </place>
+<note> 週三第6節另有1節實習課 </note>
+</H2>
+
+<H2 id="011">
+<num>H2-011</num>
+<class></class>
+<group></group>
+<name> 線性代數（二） </name>
+<teacher> 張升懋  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62223 </place>
+<note> 週五第3節另有1節實習課 </note>
+</H2>
+
+<H2 id="015">
+<num>H2-015</num>
+<class></class>
+<group></group>
+<name> 經濟學（二） </name>
+<teacher> 郭彥廉  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62223 </place>
+<note></note>
+</H2>
+
+<H2 id="016">
+<num>H2-016</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 張升懋  </teacher>
+<score> 0 </score>
+<time day1="5" s1="4" e1="4"> [5]4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 統計系館                      62223 </place>
+<note></note>
+</H2>
+
+<H2 id="017">
+<num>H2-017</num>
+<class></class>
+<group></group>
+<name> 資料科學導論 </name>
+<teacher> 李政德  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62115 </place>
+<note></note>
+</H2>
+
+<H2 id="051">
+<num>H2-051</num>
+<class></class>
+<group></group>
+<name> 數理統計（二） </name>
+<teacher> 任眉眉   ,  陳瑞彬* </teacher>
+<score> 4 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="1" e2="2"> [2]3~4  ,  [4]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62117 </place>
+<note> 週五第1節另有1節實習課 </note>
+</H2>
+
+<H2 id="053">
+<num>H2-053</num>
+<class></class>
+<group></group>
+<name> 迴歸分析 </name>
+<teacher> 張升懋  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="8" day2="3" s2="6" e2="6"> [2]7~8  ,  [3]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62117 </place>
+<note></note>
+</H2>
+
+<H2 id="054">
+<num>H2-054</num>
+<class></class>
+<group></group>
+<name> 會計學（二） </name>
+<teacher> 施坤宏  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62117 </place>
+<note></note>
+</H2>
+
+<H2 id="055">
+<num>H2-055</num>
+<class></class>
+<group></group>
+<name> 品質管制 </name>
+<teacher> 潘浙楠  </teacher>
+<score> 3 </score>
+<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62119 </place>
+<note></note>
+</H2>
+
+<H2 id="056">
+<num>H2-056</num>
+<class></class>
+<group></group>
+<name> 抽樣調查 </name>
+<teacher> 趙昌泰  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="2" day2="5" s2="2" e2="3"> [2]2  ,  [5]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62115 </place>
+<note></note>
+</H2>
+
+<H2 id="057">
+<num>H2-057</num>
+<class></class>
+<group></group>
+<name> 統計軟體與繪圖 </name>
+<teacher> 張欣民  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62225 </place>
+<note></note>
+</H2>
+
+<H2 id="062">
+<num>H2-062</num>
+<class></class>
+<group></group>
+<name> 保險數學 </name>
+<teacher> 許秀麗  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62117 </place>
+<note></note>
+</H2>
+
+<H2 id="103">
+<num>H2-103</num>
+<class></class>
+<group></group>
+<name> 多變量分析 </name>
+<teacher> 鄭順林  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="5" day2="4" s2="3" e2="4"> [2]5  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62117 </place>
+<note></note>
+</H2>
+
+<H2 id="117">
+<num>H2-117</num>
+<class></class>
+<group></group>
+<name> 類別資料分析 </name>
+<teacher> 李國榮  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62117 </place>
+<note></note>
+</H2>
+
+<H2 id="119">
+<num>H2-119</num>
+<class></class>
+<group></group>
+<name> 機器學習 </name>
+<teacher> 陳瑞彬  </teacher>
+<score> 3 </score>
+<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62119 </place>
+<note></note>
+</H2>
+
+<H2 id="120">
+<num>H2-120</num>
+<class></class>
+<group></group>
+<name> 隨機過程 </name>
+<teacher> 任眉眉  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62119 </place>
+<note></note>
+</H2>
+
+<H2 id="122">
+<num>H2-122</num>
+<class></class>
+<group></group>
+<name> 工業統計 </name>
+<teacher> 李宜真  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62119 </place>
+<note></note>
+</H2>
+
+<H2 id="127">
+<num>H2-127</num>
+<class></class>
+<group></group>
+<name> 統計調查實務 </name>
+<teacher> 李俊毅  </teacher>
+<score> 1 </score>
+<time day1="5" s1="9" e1="10"> [5]9~A  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 統計系館                      62119 </place>
+<note></note>
+</H2>
+
+<H2 id="128">
+<num>H2-128</num>
+<class></class>
+<group></group>
+<name> 總體經濟學 </name>
+<teacher> 伍弘歷  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62119 </place>
+<note></note>
+</H2>
+
+<H2 id="153">
+<num>H2-153</num>
+<class></class>
+<group></group>
+<name> 統計實務 </name>
+<teacher> 楊明宗  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統計系館                      62113 </place>
+<note></note>
+</H2>
+
+<H2 id="154">
+<num>H2-154</num>
+<class></class>
+<group></group>
+<name> 基本財務學 </name>
+<teacher> 黃炳勳  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63404 </place>
+<note> 統計系與會計系合開 </note>
+</H2>
+
+<H2 id="156">
+<num>H2-156</num>
+<class></class>
+<group></group>
+<name> 國際金融 </name>
+<teacher> 康信鴻  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62210 </place>
+<note> 統計系與企管系合開 </note>
+</H2>
+
+</content>

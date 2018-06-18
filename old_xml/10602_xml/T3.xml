@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T3 id="001">
+<num>T3-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 阮振維  </teacher>
+<score> 1 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5761 </place>
+<note></note>
+</T3>
+
+<T3 id="002">
+<num>T3-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 實驗室品管及管理 </name>
+<teacher> 謝淑珠  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5776 </place>
+<note></note>
+</T3>
+
+<T3 id="003">
+<num>T3-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 實驗診斷學 </name>
+<teacher> 傅子芳*  ,  陳呈堯  </teacher>
+<score> 2 </score>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5777 </place>
+<note> 英語授課 </note>
+</T3>
+
+<T3 id="006">
+<num>T3-006</num>
+<class></class>
+<group></group>
+<name> 實驗室教學實習（二） </name>
+<teacher> 黃暉升  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T3>
+
+<T3 id="007">
+<num>T3-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 儀器分析 </name>
+<teacher> 張權發*  ,  林韋伶  </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5777 </place>
+<note> 大四可選 </note>
+</T3>
+
+<T3 id="010">
+<num>T3-010</num>
+<class></class>
+<group></group>
+<name> 實驗室教學實習（四） </name>
+<teacher> 黃暉升  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T3>
+
+<T3 id="011">
+<num>T3-011</num>
+<class> 碩                             </class>
+<group></group>
+<name> 食品安全與微生物致病機轉 </name>
+<teacher> 蔡佩珍* </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5777 </place>
+<note> 醫技所與食安所合班 </note>
+</T3>
+
+<T3 id="012">
+<num>T3-012</num>
+<class> 碩                             </class>
+<group></group>
+<name> 精準醫學與食品安全 </name>
+<teacher> 傅子芳* </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5777 </place>
+<note> 醫技所與食安所合班 </note>
+</T3>
+
+<T3 id="021">
+<num>T3-021</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 徐麗君* </teacher>
+<score> 1 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5761 </place>
+<note> 英語授課 </note>
+</T3>
+
+<T3 id="031">
+<num>T3-031</num>
+<class> 碩三                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 阮振維  </teacher>
+<score> 0 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫技醫工館                    5761 </place>
+<note></note>
+</T3>
+
+</content>

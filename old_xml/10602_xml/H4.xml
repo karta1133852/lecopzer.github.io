@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<H4 id="006">
+<num>H4-006</num>
+<class></class>
+<group></group>
+<name> 會計學（二） </name>
+<teacher> 孫文琦  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="007">
+<num>H4-007</num>
+<class></class>
+<group></group>
+<name> 經濟學（二） </name>
+<teacher> 方世杰  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="013">
+<num>H4-013</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 葉桂珍  </teacher>
+<score> 0 </score>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="015">
+<num>H4-015</num>
+<class></class>
+<group></group>
+<name> 企業聯繫 </name>
+<teacher> 東惠瑛  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62218 </place>
+<note></note>
+</H4>
+
+<H4 id="016">
+<num>H4-016</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 王辰樹  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1306(資源後) </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1 day1="5" s1="5" e1="5"> [5]5  </time1>
+<place1> 共同教室                      A1303 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2 day1="5" s1="5" e1="5"> [5]5  </time2>
+<place2> 共同教室                      A1304 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3 day1="5" s1="5" e1="5"> [5]5  </time3>
+<place3> 共同教室                      A1305 </place3>
+<note3></note3>
+</H4>
+
+<H4 id="017">
+<num>H4-017</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 林敏雄  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 成功校區經緯廳                經緯廳 </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1 day1="5" s1="5" e1="5"> [5]5  </time1>
+<place1> 唯農大樓                      7401 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2 day1="5" s1="5" e1="5"> [5]5  </time2>
+<place2> 唯農大樓                      7403 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3 day1="5" s1="5" e1="5"> [5]5  </time3>
+<place3> 唯農大樓                      7404 </place3>
+<note3></note3>
+</H4>
+
+<H4 id="018">
+<num>H4-018</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 蕭仁傑  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1 day1="5" s1="5" e1="5"> [5]5  </time1>
+<place1> 唯農大樓                      7309 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2 day1="5" s1="5" e1="5"> [5]5  </time2>
+<place2> 唯農大樓                      7311 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3 day1="5" s1="5" e1="5"> [5]5  </time3>
+<place3> 唯農大樓                      7313 </place3>
+<note3></note3>
+</H4>
+
+<H4 id="019">
+<num>H4-019</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
+<teacher> 黃柏嶧  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 共同教室                      A1307(資源後) </place>
+<note></note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（二） </name1>
+<time1 day1="5" s1="5" e1="5"> [5]5  </time1>
+<place1> 企管系館                      62218 </place1>
+<note1></note1>
+<class2></class2>
+<group2> B </group2>
+<name2> 微積分（二） </name2>
+<time2 day1="5" s1="5" e1="5"> [5]5  </time2>
+<place2> 企管系館                      62229 </place2>
+<note2></note2>
+<class3></class3>
+<group3> C </group3>
+<name3> 微積分（二） </name3>
+<time3 day1="5" s1="5" e1="5"> [5]5  </time3>
+<place3> 企管系館                      62231 </place3>
+<note3></note3>
+</H4>
+
+<H4 id="061">
+<num>H4-061</num>
+<class></class>
+<group></group>
+<name> 統計學（二） </name>
+<teacher> 詹世煌  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="062">
+<num>H4-062</num>
+<class></class>
+<group></group>
+<name> 行銷管理 </name>
+<teacher> 蔡惠婷  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="063">
+<num>H4-063</num>
+<class></class>
+<group></group>
+<name> 組織行為 </name>
+<teacher> 莊雙喜  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note></note>
+</H4>
+
+<H4 id="064">
+<num>H4-064</num>
+<class></class>
+<group></group>
+<name> 國際企業管理 </name>
+<teacher> 許經明  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62210 </place>
+<note></note>
+</H4>
+
+<H4 id="065">
+<num>H4-065</num>
+<class></class>
+<group></group>
+<name> 組織溝通 </name>
+<teacher> 劉清和  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62121 </place>
+<note> 企管系與會計系合開 </note>
+</H4>
+
+<H4 id="066">
+<num>H4-066</num>
+<class></class>
+<group></group>
+<name> 企業資源規劃 </name>
+<teacher> 張心馨  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62212 </place>
+<note></note>
+</H4>
+
+<H4 id="067">
+<num>H4-067</num>
+<class></class>
+<group></group>
+<name> 人才管理 </name>
+<teacher> 王瑜琳  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62422 </place>
+<note></note>
+</H4>
+
+<H4 id="104">
+<num>H4-104</num>
+<class></class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 李憲達  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62210 </place>
+<note></note>
+</H4>
+
+<H4 id="105">
+<num>H4-105</num>
+<class></class>
+<group></group>
+<name> 作業管理 </name>
+<teacher> 黃瀞瑩  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62121 </place>
+<note></note>
+</H4>
+
+<H4 id="110">
+<num>H4-110</num>
+<class></class>
+<group></group>
+<name> 國際金融 </name>
+<teacher> 康信鴻  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62210 </place>
+<note> 統計系與企管系合開 </note>
+</H4>
+
+<H4 id="111">
+<num>H4-111</num>
+<class></class>
+<group></group>
+<name> 消費者行為 </name>
+<teacher> 賴孟寬  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62212 </place>
+<note></note>
+</H4>
+
+<H4 id="112">
+<num>H4-112</num>
+<class></class>
+<group></group>
+<name> 創新管理 </name>
+<teacher> 周信輝  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62218 </place>
+<note> 建議三年級以上選課。企管系與會計系合開 </note>
+</H4>
+
+<H4 id="113">
+<num>H4-113</num>
+<class></class>
+<group></group>
+<name> 管理統計學 </name>
+<teacher> 黃瀞瑩  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62335 </place>
+<note> 開放給大三、大四學生 </note>
+</H4>
+
+<H4 id="114">
+<num>H4-114</num>
+<class></class>
+<group></group>
+<name> 公司財務報表 </name>
+<teacher> 林松宏  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62210 </place>
+<note></note>
+</H4>
+
+<H4 id="152">
+<num>H4-152</num>
+<class></class>
+<group></group>
+<name> 網路創業與商品資料分析 </name>
+<teacher> 葉桂珍  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62212 </place>
+<note></note>
+</H4>
+
+<H4 id="153">
+<num>H4-153</num>
+<class></class>
+<group></group>
+<name> 開放式創新 </name>
+<teacher> 陳淑惠  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62212 </place>
+<note></note>
+</H4>
+
+<H4 id="180">
+<num>H4-180</num>
+<class></class>
+<group></group>
+<name> 基本財務學 </name>
+<teacher> 黃炳勳  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 會計系館                      63404 </place>
+<note> 統計系與會計系合開 </note>
+</H4>
+
+</content>

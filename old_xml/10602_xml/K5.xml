@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K5 id="001">
+<num>K5-001</num>
+<class> 博二                           </class>
+<group></group>
+<name> 台灣文學專題討論 </name>
+<teacher> 楊芳枝  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88121 </place>
+<note></note>
+</K5>
+
+<K5 id="002">
+<num>K5-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 文學研究方法與論文寫作 </name>
+<teacher> 游勝冠  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="003">
+<num>K5-003</num>
+<class> 博一                           </class>
+<group></group>
+<name> 學術英文（二） </name>
+<teacher> 吳玫瑛  </teacher>
+<score> 0 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88121 </place>
+<note></note>
+</K5>
+
+<K5 id="004">
+<num>K5-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 學術英文（二） </name>
+<teacher> 吳玫瑛  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88121 </place>
+<note></note>
+</K5>
+
+<K5 id="005">
+<num>K5-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳玉峯  </teacher>
+<score> 0 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note> 供無須修課的碩（專）博生選課 </note>
+</K5>
+
+<K5 id="006">
+<num>K5-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 文化與社會專題研究 </name>
+<teacher> 李承機  </teacher>
+<score> 3 </score>
+<time day1="3" s1="9" e1="11"> [3]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="007">
+<num>K5-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 文化理論與分析 </name>
+<teacher> 楊芳枝  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="008">
+<num>K5-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 台越語言文學比較研究 </name>
+<teacher> 蔣為文  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="009">
+<num>K5-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 田野調查 </name>
+<teacher> 鍾秀梅  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="010">
+<num>K5-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 抒情政治與台灣當代小說 </name>
+<teacher> 劉乃慈  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="011">
+<num>K5-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 社會語言學專題 </name>
+<teacher> 陳麗君  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="012">
+<num>K5-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 臺灣戲劇與劇場史專題 </name>
+<teacher> 劉南芳* </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note> 戲劇碩士學位學程課程 </note>
+</K5>
+
+<K5 id="301">
+<num>K5-301</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 研究方法與論文寫作 </name>
+<teacher> 鍾秀梅  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="302">
+<num>K5-302</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 台灣民間歌謠 </name>
+<teacher> 劉南芳  </teacher>
+<score> 3 </score>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="303">
+<num>K5-303</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 文化與社會專題研究 </name>
+<teacher> 李承機  </teacher>
+<score> 3 </score>
+<time day1="3" s1="9" e1="11"> [3]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+</content>

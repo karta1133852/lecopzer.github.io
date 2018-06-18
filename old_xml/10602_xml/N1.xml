@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<N1 id="001">
+<num>N1-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 林仁輝  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      俊銘講堂 </place>
+<note> 不分組 </note>
+</N1>
+
+<N1 id="005">
+<num>N1-005</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 林仁輝  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      俊銘講堂 </place>
+<note> 不分組 </note>
+</N1>
+
+<N1 id="011">
+<num>N1-011</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 陳嘉元  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91102 </place>
+<note></note>
+</N1>
+
+<N1 id="012">
+<num>N1-012</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 黃文敏  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91202 </place>
+<note></note>
+</N1>
+
+<N1 id="013">
+<num>N1-013</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 林建宏  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      三星講堂 </place>
+<note> 碩博三（含）以上 </note>
+</N1>
+
+<N1 id="022">
+<num>N1-022</num>
+<class> 碩                             </class>
+<group></group>
+<name> 微機電系統磨潤研究 </name>
+<teacher> 林仁輝  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note> 博士班學生可修 </note>
+</N1>
+
+<N1 id="023">
+<num>N1-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 熱對流學 </name>
+<teacher> 陳朝光  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="3" day2="4" s2="3" e2="4"> [2]3  ,  [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      象賢講堂 </place>
+<note></note>
+</N1>
+
+<N1 id="024">
+<num>N1-024</num>
+<class> 碩                             </class>
+<group></group>
+<name> 燃燒學 </name>
+<teacher> 吳明勳  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91102 </place>
+<note> 英語授課 </note>
+</N1>
+
+<N1 id="025">
+<num>N1-025</num>
+<class> 碩                             </class>
+<group></group>
+<name> 輻射熱傳學 </name>
+<teacher> 吳志陽  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="5" day2="5" s2="6" e2="7"> [3]5  ,  [5]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91207 </place>
+<note></note>
+</N1>
+
+<N1 id="026">
+<num>N1-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 流體力學導論 </name>
+<teacher> 楊天祥  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="4" s2="2" e2="2"> [1]2~3  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note></note>
+</N1>
+
+<N1 id="027">
+<num>N1-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 流體力學特論 </name>
+<teacher> 陳嘉元  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91301 </place>
+<note> 英語授課 </note>
+</N1>
+
+<N1 id="029">
+<num>N1-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 塑膠流變原理與應用 </name>
+<teacher> 吳俊煌  </teacher>
+<score> 3 </score>
+<time day1="3" s1="4.5" e1="4.5" day2="4" s2="4.5" e2="4.5" day3="2" s3="4.5" e3="4.5"> [3]N  ,  [4]N  ,  [2]N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91904 </place>
+<note> 第一階段不受理選課，第二階段開放選課 </note>
+</N1>
+
+<N1 id="030">
+<num>N1-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等計算流體力學 </name>
+<teacher> 何清政  </teacher>
+<score> 3 </score>
+<time day1="2" s1="4" e1="4" day2="2" s2="5" e2="6"> [2]4  ,  [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91308 </place>
+<note> 須修過計算流體力學 </note>
+</N1>
+
+<N1 id="031">
+<num>N1-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 冷凍工程與設計 </name>
+<teacher> 張錦裕  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91B04 </place>
+<note></note>
+</N1>
+
+<N1 id="032">
+<num>N1-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數值熱傳學 </name>
+<teacher> 陳寒濤  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91308 </place>
+<note></note>
+</N1>
+
+<N1 id="034">
+<num>N1-034</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 壓電材料與聲波電子元件 </name>
+<teacher> 李永春  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4" day2="5" s2="4" e2="4"> [3]3~4  ,  [5]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91103 </place>
+<note></note>
+</N1>
+
+<N1 id="035">
+<num>N1-035</num>
+<class> 碩                             </class>
+<group></group>
+<name> 實驗應力分析 </name>
+<teacher> 陳元方  </teacher>
+<score> 3 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91301 </place>
+<note></note>
+<class1> 碩                             </class1>
+<group1></group1>
+<name1> 實驗應力分析 </name1>
+<time1 day1="5" s1="6" e1="8"> [5]6~8  </time1>
+<place1> 機械系館                      91301 </place1>
+<note1></note1>
+</N1>
+
+<N1 id="036">
+<num>N1-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 破壞力學 </name>
+<teacher> 陳重德  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="6" day2="5" s2="5" e2="5"> [2]5~6  ,  [5]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note></note>
+</N1>
+
+<N1 id="037">
+<num>N1-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 黏彈性力學 </name>
+<teacher> 屈子正  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="6" e2="6"> [2]3~4  ,  [4]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91205 </place>
+<note></note>
+</N1>
+
+<N1 id="038">
+<num>N1-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 非線性振動力學 </name>
+<teacher> 李森墉  </teacher>
+<score> 3 </score>
+<time day1="1" s1="3" e1="4" day2="3" s2="6" e2="6"> [1]3~4  ,  [3]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91103 </place>
+<note></note>
+</N1>
+
+<N1 id="039">
+<num>N1-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微觀力學 </name>
+<teacher> 林建宏  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91206 </place>
+<note></note>
+</N1>
+
+<N1 id="041">
+<num>N1-041</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 研究方法與科技寫作 </name>
+<teacher> 賴新一  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91205 </place>
+<note></note>
+</N1>
+
+<N1 id="042">
+<num>N1-042</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 微系統力學模擬法概論 </name>
+<teacher> 張怡玲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="6" day2="3" s2="7" e2="8"> [1]6  ,  [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91308 </place>
+<note></note>
+</N1>
+
+<N1 id="043">
+<num>N1-043</num>
+<class> 碩                             </class>
+<group></group>
+<name> 機械發明史 </name>
+<teacher> 顏鴻森  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="8" day2="1" s2="7" e2="7"> [3]7~8  ,  [1]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      俊銘講堂 </place>
+<note></note>
+</N1>
+
+<N1 id="044">
+<num>N1-044</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構動力學 </name>
+<teacher> 劉至行  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="6" day2="4" s2="7" e2="8"> [1]6  ,  [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91103 </place>
+<note></note>
+</N1>
+
+<N1 id="045">
+<num>N1-045</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 凸輪與齒輪系統的原理 </name>
+<teacher> 林昌進  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91102 </place>
+<note></note>
+</N1>
+
+<N1 id="046">
+<num>N1-046</num>
+<class> 碩                             </class>
+<group></group>
+<name> 機器人系統設計 </name>
+<teacher> 蔡明俊  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="1" s2="4" e2="4"> [2]3~4  ,  [1]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91206 </place>
+<note></note>
+</N1>
+
+<N1 id="047">
+<num>N1-047</num>
+<class> 碩                             </class>
+<group></group>
+<name> 機器視覺 </name>
+<teacher> 蔡明俊  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note></note>
+</N1>
+
+<N1 id="049">
+<num>N1-049</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 碰撞人偶的發展與應用 </name>
+<teacher> 黃才烱  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4" day2="4" s2="4" e2="4"> [3]3~4  ,  [4]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91804 </place>
+<note></note>
+</N1>
+
+<N1 id="051">
+<num>N1-051</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 塑性加工學 </name>
+<teacher> 李榮顯  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91203 </place>
+<note></note>
+</N1>
+
+<N1 id="052">
+<num>N1-052</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 雷射加工系統導論 </name>
+<teacher> 林震銘  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="3" s2="8" e2="8"> [2]3~4  ,  [3]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91904 </place>
+<note></note>
+</N1>
+
+<N1 id="054">
+<num>N1-054</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米技術概論 </name>
+<teacher> 鍾震桂  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="6" day2="4" s2="3" e2="4"> [1]6  ,  [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91102 </place>
+<note> 機械所與奈微所合開 </note>
+</N1>
+
+<N1 id="057">
+<num>N1-057</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工具機動力學 </name>
+<teacher> 王俊志  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91102 </place>
+<note></note>
+</N1>
+
+<N1 id="062">
+<num>N1-062</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 非線性控制及其應用 </name>
+<teacher> 蔡清元  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91103 </place>
+<note></note>
+</N1>
+
+<N1 id="063">
+<num>N1-063</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 最佳控制 </name>
+<teacher> 朱銘祥  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="6" day2="2" s2="1" e2="1"> [4]5~6  ,  [2]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91102 </place>
+<note></note>
+</N1>
+
+<N1 id="064">
+<num>N1-064</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 適應控制 </name>
+<teacher> 吳馬丁  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91207 </place>
+<note> 英語授課 </note>
+</N1>
+
+<N1 id="065">
+<num>N1-065</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工程研究的科學信息收集和處理 </name>
+<teacher> 吳馬丁  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91601 </place>
+<note> 英語授課(Programming skill and experience are necessary) </note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 工程研究的科學信息收集和處理 </name1>
+<time1 day1="3" s1="7" e1="8"> [3]7~8  </time1>
+<place1> 機械系館                      91601 </place1>
+<note1></note1>
+</N1>
+
+<N1 id="066">
+<num>N1-066</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 前饋控制 </name>
+<teacher> 田思齊  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="7" day2="3" s2="2" e2="3"> [1]7  ,  [3]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91308 </place>
+<note></note>
+</N1>
+
+<N1 id="067">
+<num>N1-067</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 機電整合專題 </name>
+<teacher> 張仁宗  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="7" day2="4" s2="7" e2="7"> [3]6~7  ,  [4]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91202 </place>
+<note></note>
+</N1>
+
+<N1 id="068">
+<num>N1-068</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 精密機械與控制 </name>
+<teacher> 張仁宗  </teacher>
+<score> 3 </score>
+<time day1="1" s1="8" e1="9" day2="4" s2="8" e2="8"> [1]8~9  ,  [4]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91207 </place>
+<note></note>
+</N1>
+
+<N1 id="072">
+<num>N1-072</num>
+<class> 碩                             </class>
+<group></group>
+<name> 電動力學與電漿物理之數值模擬 </name>
+<teacher> 西村泰太郎* </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 綜合大樓                      48111B </place>
+<note> 電漿所與機械所合開 </note>
+</N1>
+
+<N1 id="073">
+<num>N1-073</num>
+<class> 碩                             </class>
+<group></group>
+<name> 金屬產業科技導論 </name>
+<teacher> 林秋豐  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note></note>
+</N1>
+
+</content>

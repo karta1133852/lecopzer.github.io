@@ -4,10 +4,10 @@
 <num>B2-004</num>
 <class></class>
 <group></group>
-<name> 服務學習（二） </name>
-<teacher> 林明澤* </teacher>
+<name> 服務學習（一） </name>
+<teacher> 未定  </teacher>
 <score> 0 </score>
-<time day1="4" s1="4.5" e1="4.5" day2="2" s2="9" e2="10"> [4]N  ,  [2]9~A  </time>
+<time> [4]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
@@ -18,150 +18,136 @@
 <num>B2-005</num>
 <class></class>
 <group></group>
-<name> 服務學習（二） </name>
-<teacher> 高實玫* </teacher>
-<score> 0 </score>
-<time day1="4" s1="4.5" e1="4.5" day2="2" s2="5" e2="6"> [4]N  ,  [2]5~6  </time>
+<name> 西洋文學概論 </name>
+<teacher> 王穎  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]2  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 外文系館，外文大一生必修，含"掃除服務"及"社區服務" </note>
+<type> 講義 </type>
+<place> 修齊大樓                      26425 </place>
+<note> 大一必修 </note>
 </B2>
 
 <B2 id="006">
 <num>B2-006</num>
 <class></class>
 <group></group>
-<name> 文學作品導讀 </name>
-<teacher> 陳昭芳  </teacher>
+<name> 語言學概論（一） </name>
+<teacher> 李惠琦  </teacher>
 <score> 3 </score>
-<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26425 </place>
-<note></note>
+<note> 大一必修 </note>
 </B2>
 
 <B2 id="007">
 <num>B2-007</num>
 <class></class>
 <group></group>
-<name> 語言學概論（二） </name>
-<teacher> 蔡美慧  </teacher>
+<name> 英語口語訓練（一） </name>
+<teacher> 陳昭芳  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26425 </place>
-<note></note>
+<place> 修齊大樓                      26401 </place>
+<note> Ａ組，限本系 </note>
 </B2>
 
 <B2 id="008">
 <num>B2-008</num>
 <class></class>
 <group></group>
-<name> 英語口語訓練（二） </name>
-<teacher> 陳昭芳  </teacher>
+<name> 英語口語訓練（一） </name>
+<teacher> 廖培真  </teacher>
 <score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26401 </place>
-<note> Ａ組，限本系，須依上學期組別選課 </note>
+<place> 修齊大樓                      26403 </place>
+<note> Ｂ組，限本系 </note>
 </B2>
 
 <B2 id="009">
 <num>B2-009</num>
 <class></class>
 <group></group>
-<name> 英語口語訓練（二） </name>
-<teacher> 廖培真  </teacher>
+<name> 英語口語訓練（一） </name>
+<teacher> 游素玲  </teacher>
 <score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26403 </place>
-<note> Ｂ組，限本系，須依上學期組別選課 </note>
+<place> 修齊大樓                      26405 </place>
+<note> Ｃ組，限本系 </note>
 </B2>
 
 <B2 id="010">
 <num>B2-010</num>
 <class></class>
 <group></group>
-<name> 英語口語訓練（二） </name>
-<teacher> 游素玲  </teacher>
+<name> 英文作文（一） </name>
+<teacher> 蔡美慧  </teacher>
 <score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26405 </place>
-<note> Ｃ組，限本系，須依上學期組別選課 </note>
+<place> 修齊大樓                      26404 </place>
+<note> Ａ組，限本系 </note>
 </B2>
 
 <B2 id="011">
 <num>B2-011</num>
 <class></class>
 <group></group>
-<name> 英文作文（二） </name>
-<teacher> 閔慧慈  </teacher>
+<name> 英文作文（一） </name>
+<teacher> 游素玲  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="2" day2="2" s2="3" e2="4"> [4]2  ,  [2]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26401 </place>
-<note> Ａ組，限本系，須依上學期組別選課 </note>
+<place> 修齊大樓                      26405 </place>
+<note> Ｂ組，限本系 </note>
 </B2>
 
 <B2 id="012">
 <num>B2-012</num>
 <class></class>
 <group></group>
-<name> 英文作文（二） </name>
-<teacher> 楊哲銘  </teacher>
+<name> 英文作文（一） </name>
+<teacher> 林明澤  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="2" day2="2" s2="3" e2="4"> [4]2  ,  [2]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26403 </place>
-<note> Ｂ組，限本系，須依上學期組別選課 </note>
+<place> 修齊大樓                      26401 </place>
+<note> Ｃ組，限本系 </note>
 </B2>
 
 <B2 id="013">
 <num>B2-013</num>
 <class></class>
 <group></group>
-<name> 英文作文（二） </name>
-<teacher> 蔡美慧  </teacher>
+<name> 英文作文（一） </name>
+<teacher> 廖培真  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="2" day2="2" s2="3" e2="4"> [4]2  ,  [2]3~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26421 </place>
-<note> Ｃ組，限本系，須依上學期組別選課 </note>
-</B2>
-
-<B2 id="014">
-<num>B2-014</num>
-<class></class>
-<group></group>
-<name> 英文作文（二） </name>
-<teacher> 李惠琦  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="2" day2="2" s2="3" e2="4"> [4]2  ,  [2]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26423 </place>
-<note> Ｄ組，限本系，須依上學期組別選課 </note>
+<place> 修齊大樓                      26403 </place>
+<note> Ｄ組，限本系 </note>
 </B2>
 
 <B2 id="015">
 <num>B2-015</num>
 <class></class>
 <group></group>
-<name> 日文（二） </name>
+<name> 日文（一） </name>
 <teacher> 黃淑妙  </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26408 </place>
@@ -172,10 +158,10 @@
 <num>B2-016</num>
 <class></class>
 <group></group>
-<name> 法文（二） </name>
+<name> 法文（一） </name>
 <teacher> 陳健宏  </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26404 </place>
@@ -186,13 +172,13 @@
 <num>B2-017</num>
 <class></class>
 <group></group>
-<name> 德文（二） </name>
+<name> 德文（一） </name>
 <teacher> 劉綺君  </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26402 </place>
+<place> 修齊大樓                      26405 </place>
 <note> 五選一必修，大一德文組必修 </note>
 </B2>
 
@@ -200,476 +186,604 @@
 <num>B2-018</num>
 <class></class>
 <group></group>
-<name> 西班牙文（二） </name>
-<teacher> 盧慧娟  </teacher>
+<name> 西班牙文（一） </name>
+<teacher> 白芳怡  </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time> [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26406 </place>
 <note> 五選一必修，大一西文組必修 </note>
 </B2>
 
-<B2 id="020">
-<num>B2-020</num>
+<B2 id="019">
+<num>B2-019</num>
 <class></class>
 <group></group>
-<name> 英文修辭學 </name>
-<teacher> 羅勤正  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<name> 俄文（一） </name>
+<teacher> 馬約羅夫  </teacher>
+<score> 2 </score>
+<time> [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26403 </place>
+<note> 五選一必修，大一俄文組必修 </note>
+</B2>
+
+<B2 id="021">
+<num>B2-021</num>
+<class></class>
+<group></group>
+<name> 英語聽講訓練（一） </name>
+<teacher> 張淑麗  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26425 </place>
-<note> 星期一中午N~6節上課(12:10~15:00) </note>
+<place> 修齊大樓                      26401 </place>
+<note> 基礎語言訓練課程，大一選修 </note>
+</B2>
+
+<B2 id="022">
+<num>B2-022</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 謝孟志  </teacher>
+<score> 0 </score>
+<time> [3]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</B2>
+
+<B2 id="030">
+<num>B2-030</num>
+<class></class>
+<group></group>
+<name> 英文／語文領域英語教材教法 </name>
+<teacher> 鄒文莉  </teacher>
+<score> 2 </score>
+<time> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26401 </place>
+<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可 </note>
+</B2>
+
+<B2 id="051">
+<num>B2-051</num>
+<class></class>
+<group></group>
+<name> 英語口語訓練（三） </name>
+<teacher> 王穎  </teacher>
+<score> 3 </score>
+<time> [5]3~4  ,  [2]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26408 </place>
+<note> A組，限本系 </note>
 </B2>
 
 <B2 id="052">
 <num>B2-052</num>
 <class></class>
 <group></group>
-<name> 英語口語訓練（四） </name>
-<teacher> 王穎  </teacher>
+<name> 英語口語訓練（三） </name>
+<teacher> 金傑夫  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<time> [5]3~4  ,  [2]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26408 </place>
-<note> A組，限本系，須依第一學期組別選課。 </note>
+<place> 修齊大樓                      26406 </place>
+<note> B組，限本系，外籍教師 </note>
 </B2>
 
 <B2 id="053">
 <num>B2-053</num>
 <class></class>
 <group></group>
-<name> 英語口語訓練（四） </name>
-<teacher> 石苓  </teacher>
+<name> 英語口語訓練（三） </name>
+<teacher> 閔慧慈  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<time> [5]3~4  ,  [2]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26406 </place>
-<note> B組，限本系，須依第一學期組別選課，外籍教師。 </note>
+<place> 修齊大樓                      26404 </place>
+<note> C組，限本系；1072由高實玫授課 </note>
 </B2>
 
 <B2 id="054">
 <num>B2-054</num>
 <class></class>
 <group></group>
-<name> 英語口語訓練（四） </name>
-<teacher> 鄒文莉  </teacher>
+<name> 英文作文（三） </name>
+<teacher> 謝菁玉  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26404 </place>
-<note> C組，限本系，須依第一學期組別選課。 </note>
+<place> 修齊大樓                      26406 </place>
+<note> A組、限本系 </note>
 </B2>
 
 <B2 id="055">
 <num>B2-055</num>
 <class></class>
 <group></group>
-<name> 英文作文（四） </name>
+<name> 英文作文（三） </name>
 <teacher> 劉繼仁  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26404 </place>
-<note> A組，限本系，須依第一學期組別選課。 </note>
+<place> 修齊大樓                      26423 </place>
+<note> B組，限本系 </note>
 </B2>
 
 <B2 id="056">
 <num>B2-056</num>
 <class></class>
 <group></group>
-<name> 英文作文（四） </name>
-<teacher> 賴俊雄  </teacher>
+<name> 英文作文（三） </name>
+<teacher> 羅勤正  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26406 </place>
-<note> B組，限本系，須依第一學期組別選課。 </note>
+<place> 修齊大樓                      26421 </place>
+<note> C組、限本系 </note>
 </B2>
 
 <B2 id="057">
 <num>B2-057</num>
 <class></class>
 <group></group>
-<name> 英文作文（四） </name>
-<teacher> 陳昭芳  </teacher>
+<name> 英文作文（三） </name>
+<teacher> 石苓  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time> [4]2  ,  [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26408 </place>
-<note> C組，限本系，須依第一學期組別選課。 </note>
+<place> 修齊大樓                      26425 </place>
+<note> D組、限本系。外籍教師 </note>
 </B2>
 
 <B2 id="058">
 <num>B2-058</num>
 <class></class>
 <group></group>
-<name> 英文作文（四） </name>
-<teacher> 游素玲  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26402 </place>
-<note> D組，限本系，須依第一學期組別選課。 </note>
-</B2>
-
-<B2 id="060">
-<num>B2-060</num>
-<class></class>
-<group></group>
-<name> 日文（四） </name>
+<name> 日文（三） </name>
 <teacher> 黃淑妙  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26408 </place>
 <note> 大二日文組必修 </note>
 </B2>
 
-<B2 id="061">
-<num>B2-061</num>
+<B2 id="059">
+<num>B2-059</num>
 <class></class>
 <group></group>
-<name> 法文（四） </name>
+<name> 法文（三） </name>
 <teacher> 陳健宏  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26404 </place>
 <note> 大二法文組必修 </note>
 </B2>
 
-<B2 id="062">
-<num>B2-062</num>
+<B2 id="060">
+<num>B2-060</num>
 <class></class>
 <group></group>
-<name> 西班牙文（四） </name>
+<name> 德文（三） </name>
+<teacher> 劉綺君  </teacher>
+<score> 3 </score>
+<time> [3]2  ,  [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26405 </place>
+<note> 大二德文組必修 </note>
+</B2>
+
+<B2 id="061">
+<num>B2-061</num>
+<class></class>
+<group></group>
+<name> 西班牙文（三） </name>
 <teacher> 盧慧娟  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time> [3]2  ,  [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26406 </place>
 <note> 大二西文組必修 </note>
 </B2>
 
-<B2 id="063">
-<num>B2-063</num>
+<B2 id="062">
+<num>B2-062</num>
 <class></class>
 <group></group>
-<name> 德文（四） </name>
-<teacher> 劉綺君  </teacher>
+<name> 俄文（三） </name>
+<teacher> 馬約羅夫  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26423 </place>
-<note> 大二德文組必修 </note>
+<place> 修齊大樓                      26403 </place>
+<note> 俄文組必修 </note>
 </B2>
 
 <B2 id="064">
 <num>B2-064</num>
 <class></class>
 <group></group>
-<name> 英國文學（二） </name>
+<name> 英國文學（一） </name>
 <teacher> 石苓  </teacher>
 <score> 3 </score>
-<time day1="3" s1="8" e1="8" day2="5" s2="5" e2="6"> [3]8  ,  [5]5~6  </time>
+<time> [5]5~6  ,  [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26425 </place>
-<note> 文學選修Literature，外籍教師 </note>
-</B2>
-
-<B2 id="065">
-<num>B2-065</num>
-<class></class>
-<group></group>
-<name> 說故事與語言教學 </name>
-<teacher> 鄒文莉  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26404 </place>
-<note> 語言學選修Linguistics，星期二5~7上課(13:10~16:00) </note>
+<note> 文學選修，外籍教師 </note>
 </B2>
 
 <B2 id="066">
 <num>B2-066</num>
 <class></class>
 <group></group>
-<name> 語言溝通及障礙 </name>
-<teacher> 陳麗美  </teacher>
+<name> 語音學 </name>
+<teacher> 羅勤正  </teacher>
 <score> 3 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26406 </place>
-<note> 語言學選修Linguistics，星期三3~N上課(10:10~13:00) </note>
+<place> 修齊大樓                      26425 </place>
+<note> 語言學選修 </note>
+</B2>
+
+<B2 id="067">
+<num>B2-067</num>
+<class></class>
+<group></group>
+<name> 心理語言學 </name>
+<teacher> 陳世威  </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26425 </place>
+<note> 語言學選修 </note>
+</B2>
+
+<B2 id="068">
+<num>B2-068</num>
+<class></class>
+<group></group>
+<name> 食. 在地全球化探索 </name>
+<teacher> 鄒文莉  </teacher>
+<score> 3 </score>
+<time> [4]5~6  ,  [4]N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26403 </place>
+<note> 跨領域，英語授課，週四N-6上課。各系之國際生或英語程度達CEFR B2以上之本地生皆可選修 </note>
+</B2>
+
+<B2 id="069">
+<num>B2-069</num>
+<class></class>
+<group></group>
+<name> 醫療、階級與文化呈現 </name>
+<teacher> 王穎  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</B2>
+
+<B2 id="101">
+<num>B2-101</num>
+<class></class>
+<group></group>
+<name> 日文（五） </name>
+<teacher> 黃淑妙  </teacher>
+<score> 3 </score>
+<time> [1]5~6  ,  [3]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26408 </place>
+<note> 大三日文組必修 </note>
 </B2>
 
 <B2 id="102">
 <num>B2-102</num>
 <class></class>
 <group></group>
-<name> 日文（六） </name>
-<teacher> 黃淑妙  </teacher>
+<name> 法文（五） </name>
+<teacher> 陳健宏  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<time> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26408 </place>
-<note> 大三日文組必修 </note>
+<place> 修齊大樓                      26404 </place>
+<note> 大三法文組必修 </note>
 </B2>
 
 <B2 id="103">
 <num>B2-103</num>
 <class></class>
 <group></group>
-<name> 法文（六） </name>
-<teacher> 陳健宏  </teacher>
+<name> 西班牙文（五） </name>
+<teacher> 盧慧娟  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<time> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26403 </place>
-<note> 大三法文組必修 </note>
+<place> 修齊大樓                      26406 </place>
+<note> 大三西班牙文組必修 </note>
 </B2>
 
 <B2 id="104">
 <num>B2-104</num>
 <class></class>
 <group></group>
-<name> 西班牙文（六） </name>
-<teacher> 盧慧娟  </teacher>
+<name> 德文（五） </name>
+<teacher> 劉綺君  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<time> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26406 </place>
-<note> 大三西文組必修 </note>
+<place> 修齊大樓                      26405 </place>
+<note> 大三德文組必修 </note>
 </B2>
 
 <B2 id="105">
 <num>B2-105</num>
 <class></class>
 <group></group>
-<name> 德文（六） </name>
-<teacher> 劉綺君  </teacher>
+<name> 俄文（五） </name>
+<teacher> 馬約羅夫  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<time> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26423 </place>
-<note> 大三德文組必修 </note>
+<place> 修齊大樓                      26403 </place>
+<note> 大三俄文組必修 </note>
+</B2>
+
+<B2 id="106">
+<num>B2-106</num>
+<class></class>
+<group></group>
+<name> 中英翻譯與習作（一） </name>
+<teacher> 陳安純  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26406 </place>
+<note> 大三以上選修 </note>
 </B2>
 
 <B2 id="107">
 <num>B2-107</num>
 <class></class>
 <group></group>
-<name> 中英翻譯與習作（二） </name>
-<teacher> 陳安純  </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26406 </place>
-<note> A組，選修課，大三大四學生優先 </note>
-</B2>
-
-<B2 id="108">
-<num>B2-108</num>
-<class></class>
-<group></group>
-<name> 中英翻譯與習作（二） </name>
+<name> 中英翻譯與習作（一） </name>
 <teacher> 陳裕隆  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26408 </place>
-<note> B組，選修課，大三大四學生優先 </note>
-</B2>
-
-<B2 id="109">
-<num>B2-109</num>
-<class></class>
-<group></group>
-<name> 英國文學（四） </name>
-<teacher> 廖培真  </teacher>
-<score> 3 </score>
-<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26408 </place>
-<note> 文學選修Literature；自維多利亞時期起至二十世紀之後 </note>
-</B2>
-
-<B2 id="110">
-<num>B2-110</num>
-<class></class>
-<group></group>
-<name> 美國文學（二） </name>
-<teacher> 金傑夫  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26405 </place>
-<note> 文學選修Literature，外籍教師 </note>
+<place> 修齊大樓                      26425 </place>
+<note> 大三以上選修 </note>
 </B2>
 
 <B2 id="111">
 <num>B2-111</num>
 <class></class>
 <group></group>
-<name> 文學與性別研究 </name>
-<teacher> 游素玲  </teacher>
+<name> 美國文學（一） </name>
+<teacher> 金傑夫  </teacher>
 <score> 3 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26404 </place>
-<note> 星期三中午N~6節上課(12:10~15:00) </note>
+<place> 修齊大樓                      26405 </place>
+<note> 文學選修，外籍教師，週四N~6節上課 </note>
 </B2>
 
 <B2 id="112">
 <num>B2-112</num>
 <class></class>
 <group></group>
-<name> 語法學 </name>
-<teacher> 李惠琦  </teacher>
+<name> 圖像敘事與視覺文化 </name>
+<teacher> 張淑麗  </teacher>
 <score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26402 </place>
-<note> 語言學選修Linguistics，星期二5~7上課(13:10~16:00) </note>
+<note> 跨領域，大三以上選修 </note>
 </B2>
 
 <B2 id="113">
 <num>B2-113</num>
 <class></class>
 <group></group>
-<name> 語言教學與研究量化資料處理 </name>
-<teacher> 陳世威  </teacher>
+<name> 電影與文學（一） </name>
+<teacher> 楊哲銘  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26409 </place>
-<note> 語言學選修Linguistics，電腦教室上課 </note>
+<place> 修齊大樓                      26408 </place>
+<note> 跨領域，星期二5-7節上課 </note>
 </B2>
 
 <B2 id="114">
 <num>B2-114</num>
 <class></class>
 <group></group>
-<name> 世界英語方言 </name>
-<teacher> 羅勤正  </teacher>
+<name> 語言演變 </name>
+<teacher> 李惠琦  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26402 </place>
-<note> 語言學選修Linguistics </note>
+<place> 修齊大樓                      26408 </place>
+<note> 語言學選修，先修課程：語言學概論。週二 3-N上課 </note>
 </B2>
 
 <B2 id="115">
 <num>B2-115</num>
 <class></class>
 <group></group>
-<name> 職場英文寫作 </name>
-<teacher> 謝菁玉  </teacher>
+<name> 英國文學（三） </name>
+<teacher> 陳昭芳  </teacher>
 <score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<time> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26401 </place>
-<note> 大三大四學生優先選課 </note>
+<place> 修齊大樓                      26404 </place>
+<note> 文學選修，週五第二節上課 </note>
 </B2>
 
 <B2 id="116">
 <num>B2-116</num>
 <class></class>
 <group></group>
-<name> 語言學研究學術論文寫作 </name>
-<teacher> 陳世威  </teacher>
+<name> 資訊傳播科技英文文獻導讀 </name>
+<teacher> 劉繼仁  </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26405 </place>
-<note> 星期四10~13:00上課，大三大四學生優先選課 </note>
+<place> 修齊大樓                      26406 </place>
+<note> 跨領域，大三以上選修 </note>
 </B2>
 
-<B2 id="152">
-<num>B2-152</num>
+<B2 id="117">
+<num>B2-117</num>
 <class></class>
 <group></group>
-<name> 西洋戲劇（一） </name>
-<teacher> 楊哲銘  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26408 </place>
-<note> 文學選修Literature，星期二5~7上課(13:10~16:00) </note>
-</B2>
-
-<B2 id="153">
-<num>B2-153</num>
-<class></class>
-<group></group>
-<name> 新英文文學 </name>
-<teacher> 金傑夫  </teacher>
-<score> 3 </score>
-<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26421 </place>
-<note> 文學選修Literature，外籍教師 </note>
-</B2>
-
-<B2 id="154">
-<num>B2-154</num>
-<class></class>
-<group></group>
-<name> 新聞英文（一） </name>
-<teacher> 廖培真  </teacher>
+<name> 英語演講 </name>
+<teacher> 閔慧慈  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26425 </place>
-<note> 新聞學程 </note>
+<note> 基礎語言訓練課程，大三以上選修 </note>
 </B2>
 
-<B2 id="155">
-<num>B2-155</num>
+<B2 id="165">
+<num>B2-165</num>
 <class></class>
 <group></group>
-<name> 應用日文（一） </name>
-<teacher> 黃淑妙  </teacher>
+<name> 英文散文選 </name>
+<teacher> 張淑麗  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 文學選修 </note>
+</B2>
+
+<B2 id="166">
+<num>B2-166</num>
+<class></class>
+<group></group>
+<name> 語言與文化 </name>
+<teacher> 羅勤正  </teacher>
+<score> 3 </score>
+<time> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26408 </place>
+<note> 跨領域，先修科目：語言學概論，星期四中午N-6上課 </note>
+</B2>
+
+<B2 id="167">
+<num>B2-167</num>
+<class></class>
+<group></group>
+<name> 英文醫療選讀：醫療系統與溝通 </name>
+<teacher> 蔡美慧  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 跨領域 </note>
+</B2>
+
+<B2 id="168">
+<num>B2-168</num>
+<class></class>
+<group></group>
+<name> 當代英美小說 </name>
+<teacher> 廖培真  </teacher>
+<score> 3 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26404 </place>
+<note> 文學選修，週二5-7節上課 </note>
+</B2>
+
+<B2 id="169">
+<num>B2-169</num>
+<class></class>
+<group></group>
+<name> 文學批評 </name>
+<teacher> 賴俊雄  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26401 </place>
-<note> 進階日文選修，搭配第二外語畢業公演。 </note>
+<note> 文學選修 </note>
+</B2>
+
+<B2 id="170">
+<num>B2-170</num>
+<class></class>
+<group></group>
+<name> 莎士比亞：喜劇 </name>
+<teacher> 林明澤  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26402 </place>
+<note> 文學選修，戲劇學程 </note>
+</B2>
+
+<B2 id="171">
+<num>B2-171</num>
+<class></class>
+<group></group>
+<name> 應用日文 </name>
+<teacher> 黃淑妙  </teacher>
+<score> 1 </score>
+<time> [3]3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26408 </place>
+<note> 進階日文選修，須修過日文(六)或同等能力。 </note>
 </B2>
 
 </content>

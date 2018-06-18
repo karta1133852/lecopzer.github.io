@@ -4,10 +4,10 @@
 <num>U1-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 政治經濟學（二） </name>
-<teacher> 洪綾君  </teacher>
+<name> 政治經濟學 </name>
+<teacher> 宋鎮照  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
@@ -16,13 +16,13 @@
 
 <U1 id="002">
 <num>U1-002</num>
-<class> 碩一                           </class>
+<class> 博一                           </class>
 <group></group>
-<name> 政策分析 </name>
-<teacher> 蔣麗君  </teacher>
+<name> 高等政治經濟學 </name>
+<teacher> 洪綾君  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 必修 </must>
+<time> [2]5~7  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
 <note></note>
@@ -30,138 +30,152 @@
 
 <U1 id="003">
 <num>U1-003</num>
-<class> 碩一                           </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 王奕婷*  ,  平思寧  </teacher>
-<score> 0 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<name> 政治心理學 </name>
+<teacher> 蒙志成  </teacher>
+<score> 3 </score>
+<time> [4]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 一、「政經理論與方法」領域課程。二、英語授課。 </note>
 </U1>
 
 <U1 id="004">
 <num>U1-004</num>
-<class> 博一                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 政經發展與政策 </name>
-<teacher> 宋鎮照  </teacher>
+<name> 數位時代下的經濟發展 </name>
+<teacher> 謝文真  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 必修 </must>
+<time> [2]7~9  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室C </place>
-<note></note>
+<place> 社科院大樓                    階梯教室-經濟 </place>
+<note> 經濟系: 經濟分析工具領域。     政治學系碩士班：一、「政經理論與方法」領域課程。。二、與經濟系大碩合開。 </note>
 </U1>
 
 <U1 id="005">
 <num>U1-005</num>
-<class> 博二                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 洪綾君  </teacher>
-<score> 0 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 必修 </must>
-<type> 研討 </type>
+<name> 司法政治 </name>
+<teacher> 王金壽  </teacher>
+<score> 3 </score>
+<time> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
 <place> 社科院大樓                    六樓研討室C </place>
-<note></note>
+<note> 「國家行政與治理」領域課程。 </note>
 </U1>
 
 <U1 id="006">
 <num>U1-006</num>
-<class> 碩                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 社會運動 </name>
-<teacher> 王金壽  </teacher>
+<name> 經濟發展理論與政策 </name>
+<teacher> 謝文真  </teacher>
 <score> 3 </score>
-<time day1="2" s1="4.5" e1="6"> [2]N~6  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室B </place>
-<note></note>
+<place> 社科院大樓                    八樓研討室C </place>
+<note> 政治系碩博班:「國家行政與治理」領域課程。 </note>
+</U1>
+
+<U1 id="007">
+<num>U1-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 國家行政與治理專題：人力資源管理 </name>
+<teacher> 楊永年  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note> 「國家行政與治理」領域課程。 </note>
 </U1>
 
 <U1 id="008">
 <num>U1-008</num>
-<class> 碩博                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 社會變遷與治理 </name>
-<teacher> 宋鎮照  </teacher>
+<name> 國際關係理論 </name>
+<teacher> 陳欣之  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 「全球暨區域政經」領域課程。 </note>
 </U1>
 
 <U1 id="009">
 <num>U1-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 災害體系與政經治理 </name>
-<teacher> 楊永年  </teacher>
+<name> 人類安全與永續發展 </name>
+<teacher> 周志杰  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 「全球暨區域政經」領域課程。 </note>
 </U1>
 
 <U1 id="010">
 <num>U1-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 地方政治經濟 </name>
+<name> 比較政治經濟 </name>
 <teacher> 丁仁方  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室B </place>
-<note> 限選10人，第二階段開放選課 </note>
+<note> 「全球暨區域政經」領域課程。 </note>
 </U1>
 
 <U1 id="011">
 <num>U1-011</num>
-<class> 碩博                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 中國大陸政經專題 </name>
-<teacher> 洪敬富  </teacher>
+<name> 亞洲安全：理論與政策 </name>
+<teacher> 王宏仁  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室B </place>
-<note></note>
+<place> 社科院大樓                    階梯教室-政治 </place>
+<note> 大碩課程；學士班：一、限二年級以上同學選修。二、「全球與區域政治」領域課程。碩士班：「全球暨區域政經」領域課程。 </note>
 </U1>
 
-<U1 id="013">
-<num>U1-013</num>
+<U1 id="012">
+<num>U1-012</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 東北亞政經專題 </name>
-<teacher> 周志杰  </teacher>
+<name> 東南亞政經 </name>
+<teacher> 宋鎮照  </teacher>
 <score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<note> 「全球暨區域政經專題」課程。 </note>
 </U1>
 
 <U1 id="301">
 <num>U1-301</num>
-<class> 碩專一                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 政治經濟學（二） </name>
-<teacher> 洪綾君  </teacher>
+<name> 政治經濟學 </name>
+<teacher> 宋鎮照  </teacher>
 <score> 3 </score>
-<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<time> [5]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
@@ -170,128 +184,114 @@
 
 <U1 id="302">
 <num>U1-302</num>
-<class> 碩專一                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 政策分析 </name>
-<teacher> 宋鎮照*  ,  楊永年  </teacher>
+<name> 社會科學計量分析 </name>
+<teacher> 蒙志成  </teacher>
 <score> 3 </score>
-<time day1="2" s1="10" e1="12"> [2]A~C  </time>
-<must> 必修 </must>
+<time> [4]A~C  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 「政治理論與方法」領域課程。 </note>
 </U1>
 
 <U1 id="303">
 <num>U1-303</num>
-<class> 碩專一                         </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 洪敬富*  ,  王宏仁  </teacher>
-<score> 0 </score>
-<time day1="6" s1="3" e1="4"> [6]3~4  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<name> 司法政治 </name>
+<teacher> 王金壽  </teacher>
+<score> 3 </score>
+<time> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室C </place>
+<note> 「國家行政與治理」領域課程。 </note>
 </U1>
 
 <U1 id="304">
 <num>U1-304</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 政治制度 </name>
-<teacher> 楊永年  </teacher>
+<name> 人權與民主治理 </name>
+<teacher> 周志杰  </teacher>
 <score> 3 </score>
-<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<time> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 「國家行政與治理」領域課程。 </note>
 </U1>
 
 <U1 id="305">
 <num>U1-305</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 社會運動 </name>
-<teacher> 王金壽  </teacher>
+<name> 產業科技與政策分析 </name>
+<teacher> 蔣麗君  </teacher>
 <score> 3 </score>
-<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<time> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室B </place>
-<note> 限選10人，第二階段開放選課 </note>
+<place> 社科院大樓                    六樓研討室A </place>
+<note> 「國家行政與治理」領域課程。 </note>
 </U1>
 
 <U1 id="306">
 <num>U1-306</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 社會變遷與治理 </name>
-<teacher> 宋鎮照  </teacher>
+<name> 國家行政與治理專題：人力資源管理 </name>
+<teacher> 楊永年  </teacher>
 <score> 3 </score>
-<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<time> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<place> 社科院大樓                    六樓研討室C </place>
+<note> 「國家行政與治理」領域課程。 </note>
 </U1>
 
 <U1 id="307">
 <num>U1-307</num>
-<class> 碩專一二                       </class>
+<class> 碩專                           </class>
 <group></group>
-<name> 地方政治經濟 </name>
-<teacher> 丁仁方  </teacher>
+<name> 中國大陸政經 </name>
+<teacher> 洪敬富  </teacher>
 <score> 3 </score>
-<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<time> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室B </place>
-<note> 限選10人，第二階段開放選課 </note>
+<place> 社科院大樓                    六樓研討室A </place>
+<note> 「全球暨區域政經專題」課程。 </note>
 </U1>
 
 <U1 id="308">
 <num>U1-308</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 中國大陸政經專題 </name>
-<teacher> 洪敬富  </teacher>
+<name> 東南亞政經 </name>
+<teacher> 宋鎮照  </teacher>
 <score> 3 </score>
-<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<time> [3]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    六樓研討室B </place>
-<note></note>
+<place> 社科院大樓                    六樓研討室A </place>
+<note> 「全球暨區域政經專題」課程。 </note>
 </U1>
 
 <U1 id="309">
 <num>U1-309</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 東北亞政經專題 </name>
-<teacher> 周志杰  </teacher>
-<score> 3 </score>
-<time day1="1" s1="10" e1="12"> [1]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    六樓研討室C </place>
-<note></note>
-</U1>
-
-<U1 id="310">
-<num>U1-310</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 亞洲安全：理論與政策 </name>
+<name> 中共外交政策 </name>
 <teacher> 王宏仁  </teacher>
 <score> 3 </score>
-<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<time> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
-<note></note>
+<note> 「全球暨區域政經」領域課程。 </note>
 </U1>
 
 </content>

@@ -4,10 +4,10 @@
 <num>Q7-001</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（二） </name>
-<teacher> 江孟學  </teacher>
+<name> 專題討論（一） </name>
+<teacher> 高國興  </teacher>
 <score> 0 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time> [4]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92371 </place>
@@ -18,41 +18,69 @@
 <num>Q7-002</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（四） </name>
-<teacher> 江孟學  </teacher>
+<name> 專題討論（三） </name>
+<teacher> 高國興  </teacher>
 <score> 0 </score>
-<time day1="1" s1="4.5" e1="5"> [1]N~5  </time>
+<time> [5]N~5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 電機系館                      92371 </place>
 <note></note>
 </Q7>
 
+<Q7 id="011">
+<num>Q7-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體感測器實務技術 </name>
+<teacher> 曾永華  </teacher>
+<score> 3 </score>
+<time> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note></note>
+</Q7>
+
+<Q7 id="012">
+<num>Q7-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 金氧半元件理論 </name>
+<teacher> 江孟學  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 英語授課 </note>
+</Q7>
+
 <Q7 id="021">
 <num>Q7-021</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 半導體元件模擬分析 </name>
-<teacher> 盧達生  </teacher>
+<name> 高等材料分析 </name>
+<teacher> 阮至正  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 選修 </must>
+<time> [1]5  ,  [2]5~6  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92225 </place>
-<note> 英語授課 </note>
+<place> 化工系館                      93456 </place>
+<note> 1.中文授課班級2.以上優先係指開放第一階段選課之學生身分 </note>
 </Q7>
 
 <Q7 id="022">
 <num>Q7-022</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 半導體元件,應用,和可靠度 </name>
-<teacher> 陳一浸  </teacher>
+<name> 電子構裝技術 </name>
+<teacher> 洪茂峰  </teacher>
 <score> 3 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92371 </place>
+<place> 電機系館                      92C01 </place>
 <note></note>
 </Q7>
 
@@ -60,27 +88,27 @@
 <num>Q7-023</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 半導體及先進奈米化製程技術概論（二） </name>
-<teacher> 王英郎  </teacher>
+<name> 半導體光學 </name>
+<teacher> 蔡宗祐  </teacher>
 <score> 3 </score>
-<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      迅慧講堂 </place>
-<note> 台積電主管開授，(一)、(二)都需修課始合計6畢業學分 </note>
+<place> 電機系館                      92C01 </place>
+<note></note>
 </Q7>
 
 <Q7 id="024">
 <num>Q7-024</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 功率半導體元件概論 </name>
-<teacher> 王水進  </teacher>
+<name> 半導體記憶體元件與設計實務 </name>
+<teacher> 盧達生  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92C01 </place>
+<place> 電機系館                      令洋廳 </place>
 <note></note>
 </Q7>
 
@@ -88,13 +116,13 @@
 <num>Q7-025</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 光電元件物理 </name>
-<teacher> 洪茂峰  </teacher>
+<name> 半導體製程 </name>
+<teacher> 彭洞清  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92171 </place>
+<place> 電機系館                      92C01 </place>
 <note></note>
 </Q7>
 
@@ -102,27 +130,27 @@
 <num>Q7-026</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 雷射工程 </name>
-<teacher> 蔡宗祐  </teacher>
+<name> 量子電子學 </name>
+<teacher> 莊文魁  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92C01 </place>
-<note></note>
+<note> 英語授課 </note>
 </Q7>
 
 <Q7 id="027">
 <num>Q7-027</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 奈米世代半導體製程概論 </name>
-<teacher> 彭洞清  </teacher>
+<name> 負微分電阻交換元件 </name>
+<teacher> 劉文超  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<time> [2]2  ,  [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      迅慧講堂 </place>
+<place> 電機系館                      92C01 </place>
 <note></note>
 </Q7>
 

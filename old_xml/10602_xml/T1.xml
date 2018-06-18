@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<T1 id="006">
+<num>T1-006</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 王憲威*  ,  橋本昌征  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</T1>
+
+<T1 id="010">
+<num>T1-010</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 王憲威*  ,  橋本昌征  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</T1>
+
+<T1 id="012">
+<num>T1-012</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 血管新生學 </name>
+<teacher> 周楠華   ,  張俊彥   ,  羅傳堯   ,  鄭宏祺   ,  張雅雯   ,  沈延盛   ,  吳梨華*  ,  吳佳慶  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 分醫所、基醫所、口醫所合班 </note>
+</T1>
+
+<T1 id="015">
+<num>T1-015</num>
+<class> 碩三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 王憲威*  ,  橋本昌征  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 供延畢生修 </note>
+</T1>
+
+<T1 id="019">
+<num>T1-019</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 癌症分子病理學 </name>
+<teacher> 黃溫雅   ,  呂政展   ,  李政昌   ,  何中良*  ,  蘇五洲   ,  周楠華   ,  蔡弘文   ,  賴明德   ,  沈孟儒   ,  謝達斌  </teacher>
+<score> 2 </score>
+<time day1="3" s1="8" e1="9"> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note> 基醫所，分醫所合班 </note>
+</T1>
+
+<T1 id="020">
+<num>T1-020</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 癌症醫學 </name>
+<teacher> 賴吾為   ,  陳彩雲   ,  辛致煒   ,  李政昌   ,  陳海雯   ,  蘇五洲   ,  姚維仁   ,  顏家瑞   ,  廖寶琦   ,  張南山*  ,  陳玉玲  </teacher>
+<score> 2 </score>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 基醫所，分醫所合班 </note>
+</T1>
+
+<T1 id="021">
+<num>T1-021</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 分子醫學特論（二） </name>
+<teacher> 孫孝芳   ,  王憲威*  ,  鄧景浩   ,  橋本昌征  </teacher>
+<score> 2 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統一健康大樓                  T14214 </place>
+<note></note>
+</T1>
+
+<T1 id="023">
+<num>T1-023</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 老化研究特論 </name>
+<teacher> 郭保麟   ,  陳昌熙   ,  莊季瑛   ,  吳梨華   ,  蔣輯武*  ,  張南山   ,  郭余民  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note> 基醫所、分醫所、生化所合班上課 </note>
+</T1>
+
+<T1 id="024">
+<num>T1-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 遺傳學特論（二） </name>
+<teacher> 蔡少正   ,  孫孝芳* </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 統一健康大樓                  T1B003 </place>
+<note></note>
+</T1>
+
+<T1 id="032">
+<num>T1-032</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 神經免疫學 </name>
+<teacher> 孫孝芳   ,  王憲威   ,  張南山   ,  朱俊憲*  ,  司君一  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        501 </place>
+<note></note>
+</T1>
+
+</content>

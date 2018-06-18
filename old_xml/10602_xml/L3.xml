@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<L3 id="001">
+<num>L3-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 書報討論（二） </name>
+<teacher> 蕭世裕  </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="5"> [2]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="002">
+<num>L3-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 書報討論（二） </name>
+<teacher> 林榮良  </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="5"> [1]5  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="005">
+<num>L3-005</num>
+<class> 碩                             </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 孫亦文   ,  蔡惠蓮   ,  周鶴軒   ,  鄭沐政* </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 限碩班 </note>
+</L3>
+
+<L3 id="012">
+<num>L3-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 有機化學特論 </name>
+<teacher> 吳耀庭  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3268 </place>
+<note></note>
+</L3>
+
+<L3 id="013">
+<num>L3-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 有機合成特論 </name>
+<teacher> 莊治平  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="4" s2="3" e2="3"> [1]2~3  ,  [4]3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="014">
+<num>L3-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等有機化學 </name>
+<teacher> 莊治平  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4" day2="4" s2="4" e2="4"> [3]3~4  ,  [4]4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="015">
+<num>L3-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等無機化學 </name>
+<teacher> 蔡惠蓮  </teacher>
+<score> 3 </score>
+<time day1="3" s1="1" e1="2" day2="5" s2="3" e2="3"> [3]1~2  ,  [5]3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="016">
+<num>L3-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物開發與生物催化 </name>
+<teacher> 俞聖法   ,  鄭偉杰  </teacher>
+<score> 3 </score>
+<time day1="6" s1="3" e1="8"> [6]3~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note> 隔週上課 </note>
+</L3>
+
+<L3 id="017">
+<num>L3-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電化學特論 </name>
+<teacher> 孫亦文  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3268 </place>
+<note></note>
+</L3>
+
+<L3 id="019">
+<num>L3-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 物理有機化學特論 </name>
+<teacher> 宋光生  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="6" day2="4" s2="1" e2="2"> [3]6  ,  [4]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3268 </place>
+<note></note>
+</L3>
+
+<L3 id="022">
+<num>L3-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料與分子的模擬 </name>
+<teacher> 鄭沐政  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="6" day2="3" s2="7" e2="7"> [4]5~6  ,  [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="023">
+<num>L3-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 無機奈米材料合成技術 </name>
+<teacher> 吳欣倫  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="6" day2="5" s2="5" e2="5"> [3]5~6  ,  [5]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="024">
+<num>L3-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結晶學（一） </name>
+<teacher> 許桂芳  </teacher>
+<score> 2 </score>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="035">
+<num>L3-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 質譜學 </name>
+<teacher> 廖寶琦* </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        304D </place>
+<note></note>
+</L3>
+
+<L3 id="036">
+<num>L3-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 物理化學特論 </name>
+<teacher> 葉晨聖  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="3" day2="4" s2="5" e2="6"> [3]3  ,  [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3268 </place>
+<note></note>
+</L3>
+
+<L3 id="037">
+<num>L3-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 表面改質技術特論 </name>
+<teacher> 李介仁  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="038">
+<num>L3-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 化學教學專題討論 </name>
+<teacher> 黃守仁*  ,  邱顯泰   ,  周鶴軒   ,  陳巧貞   ,  吳欣倫   ,  施良垣  </teacher>
+<score> 0 </score>
+<time day1="4" s1="4.5" e1="4.5"> [4]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="040">
+<num>L3-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 天然物生物科技 </name>
+<teacher> 邱顯泰  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      35306 </place>
+<note></note>
+</L3>
+
+<L3 id="103">
+<num>L3-103</num>
+<class> 博                             </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 孫亦文   ,  蔡惠蓮   ,  周鶴軒   ,  鄭沐政* </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 理化大樓                      格致廳小講堂 </place>
+<note> 限博班 </note>
+</L3>
+
+</content>

@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<U1 id="001">
+<num>U1-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 政治經濟學（二） </name>
+<teacher> 洪綾君  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="002">
+<num>U1-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 政策分析 </name>
+<teacher> 蔣麗君  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="003">
+<num>U1-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 王奕婷*  ,  平思寧  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="004">
+<num>U1-004</num>
+<class> 博一                           </class>
+<group></group>
+<name> 政經發展與政策 </name>
+<teacher> 宋鎮照  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室C </place>
+<note></note>
+</U1>
+
+<U1 id="005">
+<num>U1-005</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 洪綾君  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    六樓研討室C </place>
+<note></note>
+</U1>
+
+<U1 id="006">
+<num>U1-006</num>
+<class> 碩                             </class>
+<group></group>
+<name> 社會運動 </name>
+<teacher> 王金壽  </teacher>
+<score> 3 </score>
+<time day1="2" s1="4.5" e1="6"> [2]N~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室B </place>
+<note></note>
+</U1>
+
+<U1 id="008">
+<num>U1-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 社會變遷與治理 </name>
+<teacher> 宋鎮照  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="009">
+<num>U1-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 災害體系與政經治理 </name>
+<teacher> 楊永年  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="010">
+<num>U1-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 地方政治經濟 </name>
+<teacher> 丁仁方  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 限選10人，第二階段開放選課 </note>
+</U1>
+
+<U1 id="011">
+<num>U1-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 中國大陸政經專題 </name>
+<teacher> 洪敬富  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室B </place>
+<note></note>
+</U1>
+
+<U1 id="013">
+<num>U1-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 東北亞政經專題 </name>
+<teacher> 周志杰  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="301">
+<num>U1-301</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 政治經濟學（二） </name>
+<teacher> 洪綾君  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="302">
+<num>U1-302</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 政策分析 </name>
+<teacher> 宋鎮照*  ,  楊永年  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="303">
+<num>U1-303</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 洪敬富*  ,  王宏仁  </teacher>
+<score> 0 </score>
+<time day1="6" s1="3" e1="4"> [6]3~4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="304">
+<num>U1-304</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 政治制度 </name>
+<teacher> 楊永年  </teacher>
+<score> 3 </score>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="305">
+<num>U1-305</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 社會運動 </name>
+<teacher> 王金壽  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 限選10人，第二階段開放選課 </note>
+</U1>
+
+<U1 id="306">
+<num>U1-306</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 社會變遷與治理 </name>
+<teacher> 宋鎮照  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+<U1 id="307">
+<num>U1-307</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 地方政治經濟 </name>
+<teacher> 丁仁方  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室B </place>
+<note> 限選10人，第二階段開放選課 </note>
+</U1>
+
+<U1 id="308">
+<num>U1-308</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 中國大陸政經專題 </name>
+<teacher> 洪敬富  </teacher>
+<score> 3 </score>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室B </place>
+<note></note>
+</U1>
+
+<U1 id="309">
+<num>U1-309</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 東北亞政經專題 </name>
+<teacher> 周志杰  </teacher>
+<score> 3 </score>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室C </place>
+<note></note>
+</U1>
+
+<U1 id="310">
+<num>U1-310</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 亞洲安全：理論與政策 </name>
+<teacher> 王宏仁  </teacher>
+<score> 3 </score>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    六樓研討室A </place>
+<note></note>
+</U1>
+
+</content>

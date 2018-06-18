@@ -4,10 +4,10 @@
 <num>U7-001</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 認知科學議題研討（二） </name>
-<teacher> 徐欣萍* </teacher>
+<name> 心理科學議題（一） </name>
+<teacher> 楊政達  </teacher>
 <score> 1 </score>
-<time day1="5" s1="5" e1="5"> [5]5  </time>
+<time> [5]5  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>
@@ -18,12 +18,12 @@
 <num>U7-002</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 認知科學議題研討（四） </name>
-<teacher> 徐欣萍* </teacher>
+<name> 心理科學議題（三） </name>
+<teacher> 楊政達  </teacher>
 <score> 1 </score>
-<time day1="5" s1="6" e1="6"> [5]6  </time>
+<time> [5]6  </time>
 <must> 必修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>
 <note></note>
 </U7>
@@ -32,26 +32,12 @@
 <num>U7-003</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 教學實習（二） </name>
-<teacher> 龔俊嘉   ,  謝淑蘭*  ,  蕭富仁   ,  楊政達   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
+<name> 教學實習（一） </name>
+<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
 <score> 0 </score>
-<time day1="2" s1="1" e1="1"> [2]1  </time>
+<time> [5]7  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 社科院大樓                    80205 </place>
-<note></note>
-</U7>
-
-<U7 id="004">
-<num>U7-004</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 龔俊嘉   ,  謝淑蘭*  ,  蕭富仁   ,  楊政達   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
-<score> 0 </score>
-<time day1="5" s1="8" e1="8"> [5]8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>
 <note></note>
 </U7>
@@ -60,27 +46,41 @@
 <num>U7-005</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 測驗理論 </name>
-<teacher> 黃柏僩  </teacher>
+<name> 實驗設計 </name>
+<teacher> 楊政達  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
-<note></note>
+<note> 甲組必選(英文授課) </note>
+</U7>
+
+<U7 id="006">
+<num>U7-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 文化與行為專題（一） </name>
+<teacher> 徐欣萍  </teacher>
+<score> 3 </score>
+<time> [3]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note> 選課前須先email授課老師取得同意。開放大學部高年級選修，過過人數後不再加簽 </note>
 </U7>
 
 <U7 id="007">
 <num>U7-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 發展科學進階研究 </name>
-<teacher> 胡中凡  </teacher>
+<name> 腦神經電生理學 </name>
+<teacher> 蕭富仁  </teacher>
 <score> 3 </score>
-<time day1="5" s1="9" e1="11"> [5]9~B  </time>
+<time> [3]9~B  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
+<type> 研討 </type>
+<place> 社科院大樓                    80209 </place>
 <note></note>
 </U7>
 
@@ -88,24 +88,24 @@
 <num>U7-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 睡眠與認知 </name>
-<teacher> 蕭富仁  </teacher>
+<name> 發展心理學專題研究 </name>
+<teacher> 胡中凡  </teacher>
 <score> 3 </score>
-<time day1="1" s1="9" e1="11"> [1]9~B  </time>
+<time> [5]9~B  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
-<note></note>
+<type> 研討 </type>
+<place> 社科院大樓                    80204 </place>
+<note> 需經與老師討論後使得修課 </note>
 </U7>
 
 <U7 id="009">
 <num>U7-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 情緒與記憶專題研究（二） </name>
-<teacher> 陳德祐  </teacher>
+<name> 社會心理學理論 </name>
+<teacher> 周麗芳  </teacher>
 <score> 3 </score>
-<time day1="2" s1="9" e1="11"> [2]9~B  </time>
+<time> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
@@ -116,154 +116,84 @@
 <num>U7-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 臉孔與物體辨識綜論 </name>
-<teacher> 龔俊嘉  </teacher>
+<name> 情緒與記憶專題研究（一） </name>
+<teacher> 陳德祐  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
-<note></note>
+<note> 歡迎大學部選修，但每周需參與實驗至少三小時。 </note>
 </U7>
 
 <U7 id="011">
 <num>U7-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 注意力、記憶與決策 </name>
-<teacher> 楊政達  </teacher>
+<name> 神經科學綜論(一) </name>
+<teacher> 胡書榕  </teacher>
 <score> 3 </score>
-<time day1="1" s1="4.5" e1="6"> [1]N~6  </time>
+<time> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
-<note></note>
+<place> 社科院大樓                    80209 </place>
+<note> 需經授課老師同意使得選修 </note>
 </U7>
 
 <U7 id="012">
 <num>U7-012</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 神經科學綜論(四) </name>
+<name> 物質濫用導論 </name>
 <teacher> 胡書榕  </teacher>
 <score> 3 </score>
-<time day1="5" s1="9" e1="11"> [5]9~B  </time>
+<time> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
-<note> 需經授課老師同意後得以選修 </note>
+<note> 需經授課老師同意使得選修 </note>
 </U7>
 
 <U7 id="013">
 <num>U7-013</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 藥物濫用專題（二） </name>
-<teacher> 胡書榕  </teacher>
-<score> 2 </score>
-<time day1="1" s1="9" e1="10"> [1]9~A  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
-<note> 需經授課老師同意後得以選修 </note>
-</U7>
-
-<U7 id="014">
-<num>U7-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 行為科學研究法 </name>
-<teacher> 周麗芳  </teacher>
+<name> 戲劇治療 </name>
+<teacher> 楊政達   ,  盧豐華   ,  朱芳慧* </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
+<place> 藝術所                        5450 </place>
 <note></note>
-</U7>
-
-<U7 id="015">
-<num>U7-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 華人組織行為 </name>
-<teacher> 周麗芳  </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
-<note></note>
-</U7>
-
-<U7 id="016">
-<num>U7-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 文化與行為專題（二） </name>
-<teacher> 周麗芳  </teacher>
-<score> 3 </score>
-<time day1="4" s1="9" e1="11"> [4]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
-<note> 選課前須先email授課老師取得同意。 </note>
 </U7>
 
 <U7 id="017">
 <num>U7-017</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 記憶研究特論(三) </name>
-<teacher> 林君昱  </teacher>
-<score> 3 </score>
-<time day1="1" s1="9" e1="11"> [1]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    階梯教室-心理 </place>
-<note></note>
-</U7>
-
-<U7 id="018">
-<num>U7-018</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 心智發展之神經運作基礎 </name>
-<teacher> 胡中凡  </teacher>
-<score> 3 </score>
-<time day1="4" s1="9" e1="11"> [4]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    階梯教室-心理 </place>
-<note></note>
-</U7>
-
-<U7 id="026">
-<num>U7-026</num>
 <class> 碩                             </class>
 <group></group>
-<name> 統計機器學習與應用 </name>
-<teacher> 黃柏僩  </teacher>
+<name> 記憶心理學 </name>
+<teacher> 林君昱  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 建議先修過心理學概論、認知心理學。此為磨課師翻轉教室課程。 </note>
+</U7>
+
+<U7 id="021">
+<num>U7-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 實驗設計 </name>
+<teacher> 楊政達  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
-<note> 大碩合開課程。建議具備微積分與R程式之基礎 </note>
-</U7>
-
-<U7 id="031">
-<num>U7-031</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 資料管理 </name>
-<teacher> 許清芳  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75309 </place>
-<note> 外所學生須經授課教師確認統計基本知識，同意後才可選修本課程 </note>
+<note> 甲組必選(英文授課) </note>
 </U7>
 
 </content>

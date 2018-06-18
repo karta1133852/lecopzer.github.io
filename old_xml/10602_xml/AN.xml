@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<AN id="008">
+<num>AN-008</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 賴明德  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="009">
+<num>AN-009</num>
+<class></class>
+<group></group>
+<name> 簡報邏輯：溝通與表達的藝術 </name>
+<teacher> 賴明德  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="010">
+<num>AN-010</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="011">
+<num>AN-011</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="012">
+<num>AN-012</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="013">
+<num>AN-013</num>
+<class></class>
+<group></group>
+<name> 數位工藝 </name>
+<teacher> 柳川肯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="014">
+<num>AN-014</num>
+<class></class>
+<group></group>
+<name> 深度學習在電腦視覺上之應用 </name>
+<teacher> 張天豪  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="015">
+<num>AN-015</num>
+<class></class>
+<group></group>
+<name> 陪伴機器人與服務系統設計工作坊 </name>
+<teacher> 侯廷偉   ,  何明字   ,  周榮華   ,  陳蓉珊   ,  王明習   ,  曾元琦   ,  盧文祥   ,  梁勝富   ,  楊佳翰* </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+<AN id="053">
+<num>AN-053</num>
+<class></class>
+<group></group>
+<name> 跨領域問題導向專題（二） </name>
+<teacher> 陳恒安   ,  舒宇宸   ,  王育民*  ,  李旺龍   ,  賴啟銘   ,  蘇文鈺   ,  賴明德* </teacher>
+<score> 6 </score>
+<time day1="6" s1="2" e1="7"> [6]2~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> C-Hub教室 </note>
+</AN>
+
+<AN id="054">
+<num>AN-054</num>
+<class></class>
+<group></group>
+<name> 簡報製作與表達技巧 </name>
+<teacher> 辛致煒  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</AN>
+
+</content>

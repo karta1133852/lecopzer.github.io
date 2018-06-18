@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<N3 id="001">
+<num>N3-001</num>
+<class> 碩博一                         </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 邱繼正   ,  吳意珣* </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note></note>
+</N3>
+
+<N3 id="002">
+<num>N3-002</num>
+<class> 碩博二                         </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 吳　煒   ,  林家裕* </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93456 </place>
+<note></note>
+</N3>
+
+<N3 id="003">
+<num>N3-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 黃定加   ,  吳　煒* </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      華立廳 </place>
+<note> 碩三博三以上必修 </note>
+</N3>
+
+<N3 id="013">
+<num>N3-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等輸送現象 </name>
+<teacher> 魏憲鴻  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4" day2="4" s2="2" e2="2"> [3]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 化工所與能源國際工程碩士博士學程合班，化工所碩一甲組生必選英語授課 </note>
+</N3>
+
+<N3 id="014">
+<num>N3-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等輸送現象 </name>
+<teacher> 黃世宏  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note> 碩一甲組生必選中文授課 </note>
+</N3>
+
+<N3 id="024">
+<num>N3-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 觸媒之發展及應用 </name>
+<teacher> 林裕川*  ,  翁鴻山  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="8" day2="4" s2="3" e2="3"> [4]7~8  ,  [4]3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93352 </place>
+<note></note>
+</N3>
+
+<N3 id="111">
+<num>N3-111</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米材料與合成科技 </name>
+<teacher> 鍾賢龍  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 英語授課 </note>
+</N3>
+
+<N3 id="116">
+<num>N3-116</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物材料特論 </name>
+<teacher> 林睿哲   ,  詹正雄   ,  陳美瑾* </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="6" day2="5" s2="2" e2="2"> [1]5~6  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93706 </place>
+<note></note>
+</N3>
+
+<N3 id="117">
+<num>N3-117</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 程序模擬應用 </name>
+<teacher> 吳　煒  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note></note>
+</N3>
+
+<N3 id="118">
+<num>N3-118</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 界面活性劑原理與應用 </name>
+<teacher> 張鑑祥   ,  陳炳宏*  ,  郭炳林  </teacher>
+<score> 3 </score>
+<time day1="2" s1="8" e1="9" day2="4" s2="9" e2="9"> [2]8~9  ,  [4]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93420 </place>
+<note></note>
+</N3>
+
+<N3 id="119">
+<num>N3-119</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等高分子物理 </name>
+<teacher> 吳逸謨  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note></note>
+</N3>
+
+<N3 id="121">
+<num>N3-121</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工業觸媒特論（二） </name>
+<teacher> 林弘萍   ,  許梅娟   ,  黃耀輝*  ,  陳炳宏   ,  侯聖澍   ,  羅介聰   ,  陳志勇  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93456 </place>
+<note></note>
+</N3>
+
+<N3 id="123">
+<num>N3-123</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 化學工程（二） </name>
+<teacher> 吳文中   ,  吳意珣* </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="4" s2="2" e2="2"> [1]2~3  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note> 英語授課，限104學年度(含)以後入學之碩士班乙組生或博士生符合畢業資格規定第6條者選修 </note>
+</N3>
+
+<N3 id="124">
+<num>N3-124</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 永續能源材料與元件 </name>
+<teacher> 柯碧蓮  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="2" day2="4" s2="3" e2="4"> [3]2  ,  [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note> 英語授課 </note>
+</N3>
+
+<N3 id="125">
+<num>N3-125</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創意與創新於奈米科技 </name>
+<teacher> 洪昭南  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93706 </place>
+<note></note>
+</N3>
+
+<N3 id="157">
+<num>N3-157</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分子模擬 </name>
+<teacher> 邱繼正  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="6" day2="5" s2="3" e2="4"> [1]6  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93352 </place>
+<note></note>
+</N3>
+
+<N3 id="158">
+<num>N3-158</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 鋰電池製作及應用 </name>
+<teacher> 郭炳林*  ,  陳偉聖   ,  方冠榮   ,  林士剛  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93322 </place>
+<note></note>
+</N3>
+
+<N3 id="159">
+<num>N3-159</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 製程最適化 </name>
+<teacher> 張珏庭  </teacher>
+<score> 3 </score>
+<time day1="2" s1="8" e1="8" day2="3" s2="8" e2="9"> [2]8  ,  [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93806 </place>
+<note> 英語授課 </note>
+</N3>
+
+<N3 id="160">
+<num>N3-160</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等高分子化學 </name>
+<teacher> 陳　雲  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93420 </place>
+<note></note>
+</N3>
+
+<N3 id="161">
+<num>N3-161</num>
+<class></class>
+<group></group>
+<name> 專業養成輔導（二） </name>
+<teacher> 吳逸謨   ,  許梅娟   ,  張鑑祥*  ,  林睿哲   ,  陳東煌   ,  鄧熙聖   ,  王　紀   ,  吳季珍   ,  張嘉修   ,  李玉郎   ,  黃耀輝   ,  陳炳宏   ,  侯聖澍   ,  魏憲鴻   ,  莊怡哲   ,  鍾賢龍   ,  郭炳林   ,  陳　雲   ,  羅介聰   ,  詹正雄   ,  陳美瑾   ,  林建功   ,  吳文中   ,  吳　煒   ,  林家裕   ,  邱繼正   ,  吳意珣   ,  林裕川   ,  柯碧蓮   ,  陳志勇   ,  陳慧英   ,  楊毓民   ,  劉瑞祥   ,  溫添進   ,  黃世宏   ,  洪昭南   ,  張珏庭  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</N3>
+
+<N3 id="162">
+<num>N3-162</num>
+<class></class>
+<group></group>
+<name> 專業養成輔導（四） </name>
+<teacher> 吳逸謨   ,  許梅娟   ,  張鑑祥*  ,  林睿哲   ,  陳東煌   ,  鄧熙聖   ,  王　紀   ,  吳季珍   ,  張嘉修   ,  李玉郎   ,  黃耀輝   ,  陳炳宏   ,  侯聖澍   ,  魏憲鴻   ,  莊怡哲   ,  鍾賢龍   ,  郭炳林   ,  陳　雲   ,  羅介聰   ,  詹正雄   ,  陳美瑾   ,  林建功   ,  吳文中   ,  吳　煒   ,  林家裕   ,  邱繼正   ,  吳意珣   ,  林裕川   ,  柯碧蓮   ,  陳志勇   ,  陳慧英   ,  楊毓民   ,  劉瑞祥   ,  溫添進   ,  黃世宏   ,  洪昭南   ,  張珏庭  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</N3>
+
+</content>

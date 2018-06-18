@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<AA id="003">
+<num>AA-003</num>
+<class></class>
+<group></group>
+<name> 普通化學（二） </name>
+<teacher> 桂椿雄  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="1" e2="2"> [1]2~3  ,  [3]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化學系館                      3274 </place>
+<note></note>
+</AA>
+
+<AA id="004">
+<num>AA-004</num>
+<class></class>
+<group></group>
+<name> 普通物理學（二） </name>
+<teacher> 劉明豪  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="10" day2="2" s2="10" e2="11"> [4]A  ,  [2]A~B  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 物理二館                      49322 </place>
+<note> 英語授課；上課時間(二)18:10-19:40及(四)18:10-19:40 </note>
+</AA>
+
+</content>

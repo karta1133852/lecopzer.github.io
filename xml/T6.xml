@@ -1,121 +1,209 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<T6 id="001">
-<num>T6-001</num>
-<class> 碩一                           </class>
+<T6 id="007">
+<num>T6-007</num>
+<class> 碩二                           </class>
 <group></group>
-<name> 物理治療專題討論（二） </name>
-<teacher> 卓瓊鈺   ,  林桑伊   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<name> 物理治療專題討論（三） </name>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖  </teacher>
 <score> 1 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 物治系館                      B02 </place>
-<note></note>
+<note> 全體教師合上 </note>
 </T6>
 
 <T6 id="009">
 <num>T6-009</num>
-<class> 碩                             </class>
+<class> 碩博                           </class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 卓瓊鈺   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
-<score> 1 </score>
-<time day1="5" s1="4.5" e1="4.5"> [5]N  </time>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<score> 0 </score>
+<time> [2]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 醫學院                        物治207 </place>
-<note></note>
-</T6>
-
-<T6 id="024">
-<num>T6-024</num>
-<class> 碩                             </class>
-<group></group>
-<name> 生物醫學與運動生理研究方法 </name>
-<teacher> 洪菁霞   ,  蔡昆霖* </teacher>
-<score> 3 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治207 </place>
-<note></note>
-<class1> 碩                             </class1>
-<group1></group1>
-<name1> 生物醫學與運動生理研究方法 </name1>
-<time1 day1="5" s1="7" e1="8"> [5]7~8  </time1>
-<place1></place1>
-<note1></note1>
-</T6>
-
-<T6 id="026">
-<num>T6-026</num>
-<class> 碩                             </class>
-<group></group>
-<name> 智慧友善城市長期照護 </name>
-<teacher> 洪菁霞* </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 物治系館                      B02 </place>
-<note> 此課程為大碩合開 </note>
+<note> 限本系學生 </note>
 </T6>
 
-<T6 id="027">
-<num>T6-027</num>
-<class> 碩                             </class>
+<T6 id="011">
+<num>T6-011</num>
+<class> 碩一                           </class>
 <group></group>
-<name> 臨床影像學 </name>
-<teacher> 陳炯睿   ,  詹世鴻   ,  林政立   ,  王建國   ,  林呈鳳* </teacher>
+<name> 物理治療專題討論（一） </name>
+<teacher> 卓瓊鈺   ,  林桑伊   ,  成戎珠   ,  楊政峰   ,  黃英修   ,  洪菁霞*  ,  林呈鳳   ,  徐碧真   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<score> 1 </score>
+<time> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 物治系館                      B02 </place>
+<note> 全體教師合上 </note>
+</T6>
+
+<T6 id="013">
+<num>T6-013</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 物理治療研究方法學 </name>
+<teacher> 徐碧真  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治207 </place>
-<note></note>
-</T6>
-
-<T6 id="028">
-<num>T6-028</num>
-<class> 碩                             </class>
-<group></group>
-<name> 動作障礙與肌電生理 </name>
-<teacher> 黃英修* </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        物治207 </place>
-<note></note>
-</T6>
-
-<T6 id="029">
-<num>T6-029</num>
-<class> 碩                             </class>
-<group></group>
-<name> 高階小兒科物理治療臨床技巧及論證 </name>
-<teacher> 成戎珠   ,  徐碧真* </teacher>
-<score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
-<must> 選修 </must>
+<time> [4]3~4  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 物治系館                      B02 </place>
 <note></note>
 </T6>
 
-<T6 id="030">
-<num>T6-030</num>
-<class> 碩                             </class>
+<T6 id="020">
+<num>T6-020</num>
+<class> 碩一                           </class>
 <group></group>
-<name> 高階神經物理治療 </name>
-<teacher> 卓瓊鈺   ,  楊政峰   ,  黃英修*  ,  李佩紜  </teacher>
+<name> 生物統計 </name>
+<teacher> 王亮懿   ,  李中一* </teacher>
 <score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<time> [1]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note></note>
+</T6>
+
+<T6 id="021">
+<num>T6-021</num>
+<class></class>
+<group></group>
+<name> 高階骨科物治臨床技巧及論證 </name>
+<teacher> 蔡一如*  ,  郭怡良  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課教室:醫學院201 </note>
+<note> 
+ </note>
+</T6>
+
+<T6 id="022">
+<num>T6-022</num>
+<class> 碩                             </class>
+<group></group>
+<name> 智慧生活與長期照護 </name>
+<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
+<score> 3 </score>
+<time> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note> 本所與物治系合開/高齡健康與照護研究群(選) </note>
+</T6>
+
+<T6 id="023">
+<num>T6-023</num>
+<class> 碩                             </class>
+<group></group>
+<name> 臨床藥物學 </name>
+<teacher> 歐弘毅   ,  陳炯睿   ,  詹世鴻   ,  顏家瑞   ,  翁孟玉   ,  蔡昆霖*  ,  賴嘉鎮   ,  鄭靜蘭  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</T6>
+
+<T6 id="037">
+<num>T6-037</num>
+<class> 碩                             </class>
+<group></group>
+<name> 資料程式分析 </name>
+<teacher> 楊政峰  </teacher>
+<score> 3 </score>
+<time> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note></note>
+</T6>
+
+<T6 id="038">
+<num>T6-038</num>
+<class></class>
+<group></group>
+<name> 進階小兒物理治療臨床實習（I） </name>
+<teacher> 徐碧真  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T6>
+
+<T6 id="039">
+<num>T6-039</num>
+<class></class>
+<group></group>
+<name> 高階骨科物理治療實習 </name>
+<teacher> 林呈鳳   ,  蔡一如   ,  郭怡良*  ,  劉櫂緯  </teacher>
+<score> 2 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T6>
+
+<T6 id="040">
+<num>T6-040</num>
+<class></class>
+<group></group>
+<name> 高階心肺物理治療實習（一） </name>
+<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T6>
+
+<T6 id="041">
+<num>T6-041</num>
+<class></class>
+<group></group>
+<name> 高階神經物理治療學實習（一） </name>
+<teacher> 卓瓊鈺*  ,  林桑伊   ,  楊政峰   ,  李佩紜  </teacher>
+<score> 1 </score>
+<time> 
+  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</T6>
+
+<T6 id="042">
+<num>T6-042</num>
+<class> 碩                             </class>
+<group></group>
+<name> 進階本體感覺神經肌肉刺激術 </name>
+<teacher> 卓瓊鈺*  ,  成戎珠   ,  楊政峰   ,  洪菁霞   ,  林呈鳳   ,  蔡一如   ,  李佩紜   ,  蔡昆霖   ,  郭怡良  </teacher>
+<score> 1 </score>
+<time> [4]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 物治系館                      B02 </place>
+<note> 時間未定 </note>
 </T6>
 
 </content>

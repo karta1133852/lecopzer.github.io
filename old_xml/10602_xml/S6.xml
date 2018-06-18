@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<S6 id="001">
+<num>S6-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 臨床藥學專題討論（二） </name>
+<teacher> 徐之昇   ,  洪欣儀   ,  郭賓崇   ,  吳天賞   ,  賴嘉鎮   ,  林少紅   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
+<score> 1 </score>
+<time day1="4" s1="1" e1="1"> [4]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note> 醫院藥學組 </note>
+</S6>
+
+<S6 id="002">
+<num>S6-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥品動態書報討論（二） </name>
+<teacher> 洪欣儀   ,  郭賓崇   ,  吳天賞   ,  林少紅   ,  蔡瑞真*  ,  周辰熹   ,  張惠華  </teacher>
+<score> 1 </score>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 藥品動態組 </note>
+</S6>
+
+<S6 id="003">
+<num>S6-003</num>
+<class></class>
+<group></group>
+<name> 臨床實習（一） </name>
+<teacher> 高淑敏   ,  許美英   ,  林嘉音* </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 
+ </note>
+</S6>
+
+<S6 id="004">
+<num>S6-004</num>
+<class> 博一                           </class>
+<group></group>
+<name> 藥物發展實務（二） </name>
+<teacher> 周辰熹  </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        304D </place>
+<note></note>
+</S6>
+
+<S6 id="005">
+<num>S6-005</num>
+<class> 博二                           </class>
+<group></group>
+<name> 藥物發展實務（四） </name>
+<teacher> 周辰熹  </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        304D </place>
+<note></note>
+</S6>
+
+<S6 id="006">
+<num>S6-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 臨床藥品動態學 </name>
+<teacher> 周辰熹   ,  黃金鼎  </teacher>
+<score> 3 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 臨床藥品動態學 </name1>
+<time1 day1="5" s1="3" e1="4"> [5]3~4  </time1>
+<place1> 醫學院                        602 </place1>
+<note1></note1>
+</S6>
+
+<S6 id="007">
+<num>S6-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥品生體輸送 </name>
+<teacher> 蔡瑞真  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S6>
+
+<S6 id="008">
+<num>S6-008</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥物不良反應專題討論（一） </name>
+<teacher> 高雅慧   ,  王明誠  </teacher>
+<score> 1 </score>
+<time day1="3" s1="1" e1="1"> [3]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第三講堂 </place>
+<note> 醫院藥學組 </note>
+</S6>
+
+<S6 id="009">
+<num>S6-009</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥物治療專題討論（一） </name>
+<teacher> 高雅慧*  ,  王明誠   ,  鄭靜蘭  </teacher>
+<score> 1 </score>
+<time day1="3" s1="8" e1="9"> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 醫院藥學組 </note>
+</S6>
+
+<S6 id="010">
+<num>S6-010</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 張俊彥   ,  徐之昇   ,  洪欣儀   ,  郭賓崇   ,  吳天賞   ,  賴嘉鎮   ,  林少紅   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  陳本忠   ,  郭靜娟   ,  陳立宗   ,  劉柯俊   ,  鄭靜蘭   ,  歐凰姿   ,  黃金鼎   ,  林立人   ,  張惠華  </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</S6>
+
+<S6 id="011">
+<num>S6-011</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 張俊彥   ,  徐之昇   ,  洪欣儀   ,  郭賓崇   ,  吳天賞   ,  賴嘉鎮   ,  林少紅   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  陳本忠   ,  郭靜娟   ,  陳立宗   ,  劉柯俊   ,  鄭靜蘭   ,  歐凰姿   ,  黃金鼎   ,  林立人   ,  張惠華  </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S6>
+
+<S6 id="017">
+<num>S6-017</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 臨床藥學專題討論（四） </name>
+<teacher> 徐之昇   ,  洪欣儀   ,  郭賓崇   ,  吳天賞   ,  賴嘉鎮   ,  林少紅   ,  高雅慧*  ,  蔡瑞真   ,  周辰熹   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿   ,  張惠華  </teacher>
+<score> 1 </score>
+<time day1="2" s1="1" e1="1"> [2]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note> 醫院藥學組 </note>
+</S6>
+
+<S6 id="018">
+<num>S6-018</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 藥品動態書報討論（四） </name>
+<teacher> 洪欣儀   ,  郭賓崇   ,  吳天賞   ,  林少紅   ,  蔡瑞真*  ,  周辰熹   ,  張惠華  </teacher>
+<score> 1 </score>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 藥品動態組 </note>
+</S6>
+
+<S6 id="027">
+<num>S6-027</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 高雅慧  </teacher>
+<score> 0 </score>
+<time day1="2" s1="1" e1="1"> [2]1  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S6>
+
+<S6 id="029">
+<num>S6-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物經濟學特論 </name>
+<teacher> 歐凰姿  </teacher>
+<score> 1 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:醫學院605 </note>
+</S6>
+
+<S6 id="030">
+<num>S6-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物基因體學特論 </name>
+<teacher> 張惠華* </teacher>
+<score> 1 </score>
+<time day1="3" s1="5" e1="5"> [3]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note></note>
+</S6>
+
+<S6 id="031">
+<num>S6-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物基因體資料庫之分析與應用（一） </name>
+<teacher> 張惠華  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S6>
+
+<S6 id="034">
+<num>S6-034</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 社會醫學研究方法 </name>
+<teacher> 徐之昇  </teacher>
+<score> 1 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 生命科學與健康 </type>
+<place> 醫學院                        201D </place>
+<note></note>
+</S6>
+
+<S6 id="035">
+<num>S6-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物流行病學特論 </name>
+<teacher> 賴嘉鎮   ,  高雅慧   ,  鄭靜蘭* </teacher>
+<score> 1 </score>
+<time day1="5" s1="9" e1="9"> [5]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S6>
+
+<S6 id="036">
+<num>S6-036</num>
+<class></class>
+<group></group>
+<name> 教學實習（二） </name>
+<teacher> 洪欣儀* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</S6>
+
+<S6 id="037">
+<num>S6-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 進階藥物流行病學(1) </name>
+<teacher> 賴嘉鎮* </teacher>
+<score> 1 </score>
+<time day1="5" s1="9" e1="10"> [5]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S6>
+
+<S6 id="058">
+<num>S6-058</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物使用數據分析 </name>
+<teacher> 賴嘉鎮* </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</S6>
+
+<S6 id="061">
+<num>S6-061</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物科學特論 </name>
+<teacher> 洪欣儀   ,  郭賓崇   ,  林少紅* </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S6>
+
+</content>

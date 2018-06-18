@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<NB id="003">
+<num>NB-003</num>
+<class> 碩                             </class>
+<group></group>
+<name> 應用材料科學（二） </name>
+<teacher> 呂國彰  </teacher>
+<score> 3 </score>
+<time day1="3" s1="8" e1="9" day2="4" s2="6" e2="6"> [3]8~9  ,  [4]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 尖端所與材料所合班 </note>
+</NB>
+
+<NB id="004">
+<num>NB-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 環工化學原理 </name>
+<teacher> 侯文哲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="6" day2="5" s2="3" e2="4"> [1]6  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 環工系館                      47111 </place>
+<note></note>
+</NB>
+
+<NB id="010">
+<num>NB-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米材料與合成科技 </name>
+<teacher> 鍾賢龍  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="011">
+<num>NB-011</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
+<teacher> 丁志明  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="7"> [4]7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="012">
+<num>NB-012</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（四） </name>
+<teacher> 丁志明  </teacher>
+<score> 1 </score>
+<time day1="4" s1="8" e1="8"> [4]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="013">
+<num>NB-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體工程 </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
+<note></note>
+</NB>
+
+<NB id="014">
+<num>NB-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 固態熱力學 </name>
+<teacher> 林士剛  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44202 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="015">
+<num>NB-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 導電高分子特論 </name>
+<teacher> 徐邦昱  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44201 </place>
+<note></note>
+</NB>
+
+</content>

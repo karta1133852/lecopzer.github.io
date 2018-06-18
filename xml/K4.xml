@@ -1,13 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
+<K4 id="001">
+<num>K4-001</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 戲劇學研究法 </name>
+<teacher> 朱芳慧* </teacher>
+<score> 3 </score>
+<time> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
 <K4 id="002">
 <num>K4-002</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 音樂劇研究 </name>
-<teacher> 楊金峯* </teacher>
+<name> 臺灣新編戲曲專題研究 </name>
+<teacher> 陳佳彬*  ,  施德玉* </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -18,38 +32,38 @@
 <num>K4-003</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 當代藝術理論專題研究 </name>
-<teacher> 王雅倫* </teacher>
+<name> 藝術學研究法 </name>
+<teacher> 朱芳慧*  ,  王雅倫*  ,  施德玉* </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
+<time> [4]6~8  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 藝術所                        5452 </place>
+<place> 藝術所                        5450 </place>
 <note></note>
 </K4>
 
 <K4 id="004">
 <num>K4-004</num>
-<class> 碩一二                         </class>
+<class> 碩                             </class>
 <group></group>
-<name> 視覺藝術研究法 </name>
-<teacher> 吳奕芳* </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 藝術所                        5452 </place>
-<note></note>
+<name> 藝術專題討論 </name>
+<teacher> 李欣怡* </teacher>
+<score> 0 </score>
+<time> [2]6~7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 藝術所                        5450 </place>
+<note> 103學年度起入學新生必修課程 </note>
 </K4>
 
 <K4 id="005">
 <num>K4-005</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 音樂學研究法 </name>
+<name> 中國音樂史 </name>
 <teacher> 施德玉* </teacher>
 <score> 3 </score>
-<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -60,13 +74,13 @@
 <num>K4-006</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 戲曲音樂專題研究 </name>
-<teacher> 施德玉* </teacher>
+<name> 現當代視覺文化研究與評論 </name>
+<teacher> 王雅倫* </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 藝術所                        5450 </place>
+<place> 藝術所                        5452 </place>
 <note></note>
 </K4>
 
@@ -74,13 +88,13 @@
 <num>K4-007</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 小說、電影、戲劇 </name>
-<teacher> 王雅倫*  ,  陳佳彬* </teacher>
+<name> 數位音樂製作 </name>
+<teacher> 楊金峯* </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 藝術所                        5450 </place>
+<place></place>
 <note></note>
 </K4>
 
@@ -88,11 +102,11 @@
 <num>K4-008</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 美學 </name>
-<teacher> 吳奕芳*  ,  陳佳彬*  ,  施德玉* </teacher>
+<name> 美術館歷史、典藏與當代策展 </name>
+<teacher> 王雅倫* </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
-<must> 必修 </must>
+<time> [3]6~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
 <note></note>
@@ -102,10 +116,10 @@
 <num>K4-009</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 文物保存與數位典藏 </name>
-<teacher> 陳佳彬* </teacher>
+<name> 戲劇治療 </name>
+<teacher> 楊政達   ,  盧豐華   ,  朱芳慧* </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -116,28 +130,14 @@
 <num>K4-010</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 臺灣原住民藝術田野工作 </name>
-<teacher> 高燦榮* </teacher>
+<name> 表演藝術田野工作理論與實務 </name>
+<teacher> 陳佳彬*  ,  施德玉* </teacher>
 <score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 藝術所                        5450 </place>
+<place> 藝術所                        5452 </place>
 <note></note>
-</K4>
-
-<K4 id="011">
-<num>K4-011</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 臺灣戲劇與劇場史專題 </name>
-<teacher> 劉南芳* </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 藝術所                        5450 </place>
-<note> 戲劇碩士學位學程課程 </note>
 </K4>
 
 </content>

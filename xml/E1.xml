@@ -1,408 +1,426 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<E1 id="006">
-<num>E1-006</num>
+<E1 id="001">
+<num>E1-001</num>
 <class> 甲                             </class>
 <group></group>
-<name> 服務學習（二） </name>
+<name> 體育（一） </name>
+<teacher> 王駿濠  </teacher>
+<score> 0 </score>
+<time> [3]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</E1>
+
+<E1 id="004">
+<num>E1-004</num>
+<class> 甲                             </class>
+<group></group>
+<name> 服務學習（一） </name>
 <teacher> 楊天祥  </teacher>
 <score> 0 </score>
-<time day1="1" s1="9" e1="9"> [1]9  </time>
+<time> [1]N  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
 <note></note>
 </E1>
 
-<E1 id="007">
-<num>E1-007</num>
-<class> 甲乙                           </class>
+<E1 id="006">
+<num>E1-006</num>
+<class> 甲                             </class>
 <group></group>
-<name> 微積分（二） </name>
-<teacher> 洪英志  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<name> 工程圖學（一） </name>
+<teacher> 黃才烱  </teacher>
+<score> 1 </score>
+<time> [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1306(資源後) </place>
-<note> 大班合班上課 </note>
-<class1></class1>
-<group1> A </group1>
-<name1> 微積分（二） </name1>
-<time1 day1="4" s1="1" e1="1"> [4]1  </time1>
-<place1> 共同教室                      A1303 </place1>
-<note1> 分組小班研討 </note1>
-<class2></class2>
-<group2> B </group2>
-<name2> 微積分（二） </name2>
-<time2 day1="4" s1="1" e1="1"> [4]1  </time2>
-<place2> 共同教室                      A1304 </place2>
-<note2> 分組小班研討 </note2>
-<class3></class3>
-<group3> C </group3>
-<name3> 微積分（二） </name3>
-<time3 day1="4" s1="1" e1="1"> [4]1  </time3>
-<place3> 共同教室                      A1305 </place3>
-<note3> 分組小班研討 </note3>
-<class4> 甲乙                           </class4>
-<group4> D </group4>
-<name4> 微積分（二） </name4>
-<time4 day1="4" s1="1" e1="1"> [4]1  </time4>
-<place4> 共同教室                      A1301 </place4>
-<note4></note4>
+<place> 機械系館                      91303 </place>
+<note> 英語授課 </note>
+<class1> 甲                             </class1>
+<group1></group1>
+<name1> 工程圖學（一） </name1>
+<time1> [5]7~8  </time1>
+<place1> 機械系館                      91303 </place1>
+<note1></note1>
+</E1>
+
+<E1 id="007">
+<num>E1-007</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 普通化學 </name>
+<teacher> 鄭沐政   ,  吳欣倫*  ,  陳曾化  </teacher>
+<score> 3 </score>
+<time> [1]2~3  ,  [3]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      俊銘講堂 </place>
+<note> 甲乙丙合班  大班教學 </note>
 </E1>
 
 <E1 id="008">
 <num>E1-008</num>
 <class> 甲                             </class>
 <group></group>
-<name> 普通物理學（二） </name>
-<teacher> 楊緒濃  </teacher>
-<score> 3 </score>
-<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
+<name> 普通化學實驗 </name>
+<teacher> 陳曾化  </teacher>
+<score> 1 </score>
+<time> [2]5~7  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91303 </place>
-<note></note>
+<type> 實習 </type>
+<place> 理化大樓                      35102 </place>
+<note> 在理化大樓一樓上課 </note>
 </E1>
 
 <E1 id="009">
 <num>E1-009</num>
 <class> 甲                             </class>
 <group></group>
-<name> 普通物理學實驗（二） </name>
-<teacher> 楊緒濃  </teacher>
-<score> 1 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<name> 應用力學（一） </name>
+<teacher> 屈子正  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 理化大樓二樓 </note>
+<type> 講義 </type>
+<place> 機械系館                      91303 </place>
+<note> 英語授課 </note>
 </E1>
 
 <E1 id="010">
 <num>E1-010</num>
-<class> 甲                             </class>
+<class> 甲乙                           </class>
 <group></group>
-<name> 工程圖學（二） </name>
-<teacher> 黃才烱  </teacher>
-<score> 2 </score>
-<time day1="5" s1="5" e1="5"> [5]5  </time>
+<name> 微積分（一） </name>
+<teacher> 鄺國權  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91203 </place>
-<note> 英語授課 </note>
-<class1> 甲                             </class1>
-<group1></group1>
-<name1> 工程圖學（二） </name1>
-<time1 day1="5" s1="6" e1="8"> [5]6~8  </time1>
-<place1> 機械系館                      91602 </place1>
-<note1> 英語授課 </note1>
+<place> 共同教室                      A1306(資源後) </place>
+<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<class1> 甲乙                           </class1>
+<group1> A </group1>
+<name1> 微積分（一） </name1>
+<time1> [4]1  </time1>
+<place1> 唯農大樓                      7401 </place1>
+<note1></note1>
+<class2> 甲乙                           </class2>
+<group2> B </group2>
+<name2> 微積分（一） </name2>
+<time2> [4]1  </time2>
+<place2> 唯農大樓                      7403 </place2>
+<note2></note2>
+<class3> 甲乙                           </class3>
+<group3> C </group3>
+<name3> 微積分（一） </name3>
+<time3> [4]1  </time3>
+<place3> 唯農大樓                      7404 </place3>
+<note3></note3>
+<class4> 甲乙                           </class4>
+<group4> D </group4>
+<name4> 微積分（一） </name4>
+<time4> [4]1  </time4>
+<place4> 唯農大樓                      7405 </place4>
+<note4></note4>
 </E1>
 
 <E1 id="011">
 <num>E1-011</num>
 <class> 甲                             </class>
 <group></group>
-<name> 計算機概論 </name>
-<teacher> 施士塵  </teacher>
+<name> 普通物理學（一） </name>
+<teacher> 楊緒濃  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<time> [1]8  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91303 </place>
-<note> 英語授課 </note>
-<class1></class1>
-<group1></group1>
-<name1> 計算機概論 </name1>
-<time1 day1="3" s1="2" e1="4"> [3]2~4  </time1>
-<place1> 機械系館                      91602 </place1>
-<note1> 英語授課 </note1>
+<note></note>
 </E1>
 
 <E1 id="012">
 <num>E1-012</num>
 <class> 甲                             </class>
 <group></group>
-<name> 應用力學（二） </name>
-<teacher> 陳重德  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<name> 普通物理學實驗（一） </name>
+<teacher> 楊緒濃  </teacher>
+<score> 1 </score>
+<time> [1]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 在理化大樓二樓上課 </note>
+</E1>
+
+<E1 id="016">
+<num>E1-016</num>
+<class> 乙                             </class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 黃賢哲  </teacher>
+<score> 0 </score>
+<time> [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91303 </place>
-<note> 英語授課 </note>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</E1>
+
+<E1 id="019">
+<num>E1-019</num>
+<class> 乙                             </class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 楊天祥  </teacher>
+<score> 0 </score>
+<time> [3]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
 </E1>
 
 <E1 id="021">
 <num>E1-021</num>
 <class> 乙                             </class>
 <group></group>
-<name> 服務學習（二） </name>
-<teacher> 黃文敏  </teacher>
-<score> 0 </score>
-<time day1="3" s1="9" e1="9"> [3]9  </time>
+<name> 工程圖學（一） </name>
+<teacher> 林昌進  </teacher>
+<score> 1 </score>
+<time> [5]6  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place></place>
+<type> 講義 </type>
+<place> 機械系館                      91305 </place>
 <note></note>
+<class1> 乙                             </class1>
+<group1></group1>
+<name1> 工程圖學（一） </name1>
+<time1> [5]7~8  </time1>
+<place1> 機械系館                      91305 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="022">
 <num>E1-022</num>
 <class> 乙                             </class>
 <group></group>
-<name> 普通物理學（二） </name>
-<teacher> 蔡永東  </teacher>
-<score> 3 </score>
-<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
+<name> 普通化學實驗 </name>
+<teacher> 陳巧貞  </teacher>
+<score> 1 </score>
+<time> [2]5~7  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91305 </place>
-<note></note>
+<type> 實習 </type>
+<place> 理化大樓                      35122 </place>
+<note> 在理化大樓一樓上課 </note>
 </E1>
 
 <E1 id="023">
 <num>E1-023</num>
 <class> 乙                             </class>
 <group></group>
-<name> 普通物理學實驗（二） </name>
-<teacher> 蔡永東  </teacher>
-<score> 1 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<name> 應用力學（一） </name>
+<teacher> 陳鐵城  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 理化大樓二樓 </note>
+<type> 講義 </type>
+<place> 機械系館                      91305 </place>
+<note></note>
 </E1>
 
 <E1 id="024">
 <num>E1-024</num>
 <class> 乙                             </class>
 <group></group>
-<name> 工程圖學（二） </name>
-<teacher> 林昌進  </teacher>
-<score> 2 </score>
-<time day1="5" s1="7" e1="7"> [5]7  </time>
+<name> 普通物理學（一） </name>
+<teacher> 楊展其  </teacher>
+<score> 3 </score>
+<time> [1]8  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91305 </place>
 <note></note>
-<class1> 乙                             </class1>
-<group1></group1>
-<name1> 工程圖學（二） </name1>
-<time1 day1="5" s1="9" e1="10" day2="5" s2="8" e2="8"> [5]9~A  ,  [5]8  </time1>
-<place1> 機械系館                      91305 </place1>
-<note1></note1>
 </E1>
 
 <E1 id="025">
 <num>E1-025</num>
 <class> 乙                             </class>
 <group></group>
-<name> 計算機概論 </name>
-<teacher> 方晶晶  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<name> 普通物理學實驗（一） </name>
+<teacher> 楊毅  </teacher>
+<score> 1 </score>
+<time> [1]5~7  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91305 </place>
-<note></note>
-<class1> 乙                             </class1>
-<group1></group1>
-<name1> 計算機概論 </name1>
-<time1 day1="2" s1="5" e1="7"> [2]5~7  </time1>
-<place1> 機械系館                      91602 </place1>
-<note1></note1>
-</E1>
-
-<E1 id="026">
-<num>E1-026</num>
-<class> 乙                             </class>
-<group></group>
-<name> 應用力學（二） </name>
-<teacher> 朱銘祥  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91305 </place>
-<note></note>
+<type> 實習 </type>
+<place></place>
+<note> 在理化大樓二樓上課 </note>
 </E1>
 
 <E1 id="030">
 <num>E1-030</num>
 <class> 丙                             </class>
 <group></group>
-<name> 微積分（二） </name>
-<teacher> 侯世章  </teacher>
+<name> 微積分（一） </name>
+<teacher> 林育竹  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 化工系館                      柏林講堂 </place>
-<note> 機械丙化工丙合班上課分組研討 </note>
+<note> 化工丙、機械丙合班 </note>
 <class1> 丙                             </class1>
 <group1> A </group1>
-<name1> 微積分（二） </name1>
-<time1 day1="4" s1="1" e1="1"> [4]1  </time1>
+<name1> 微積分（一） </name1>
+<time1> [4]1  </time1>
 <place1> 化工系館                      93252 </place1>
 <note1></note1>
 <class2> 丙                             </class2>
 <group2> B </group2>
-<name2> 微積分（二） </name2>
-<time2 day1="4" s1="1" e1="1"> [4]1  </time2>
+<name2> 微積分（一） </name2>
+<time2> [4]1  </time2>
 <place2> 化工系館                      93422 </place2>
 <note2></note2>
 <class3> 丙                             </class3>
 <group3> C </group3>
-<name3> 微積分（二） </name3>
-<time3 day1="4" s1="1" e1="1"> [4]1  </time3>
-<place3> 化工系館                      93223 </place3>
+<name3> 微積分（一） </name3>
+<time3> [4]1  </time3>
+<place3> 化工系館                      93356 </place3>
 <note3></note3>
-<class4> 丙                             </class4>
-<group4> D </group4>
-<name4> 微積分（二） </name4>
-<time4 day1="4" s1="1" e1="1"> [4]1  </time4>
-<place4> 化工系館                      93420 </place4>
-<note4></note4>
+</E1>
+
+<E1 id="031">
+<num>E1-031</num>
+<class> 丙                             </class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 馬上鈞  </teacher>
+<score> 0 </score>
+<time> [3]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</E1>
+
+<E1 id="034">
+<num>E1-034</num>
+<class> 丙                             </class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 楊天祥  </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
 </E1>
 
 <E1 id="036">
 <num>E1-036</num>
 <class> 丙                             </class>
 <group></group>
-<name> 服務學習（二） </name>
-<teacher> 李偉賢  </teacher>
-<score> 0 </score>
-<time day1="5" s1="9" e1="9"> [5]9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note></note>
-</E1>
-
-<E1 id="037">
-<num>E1-037</num>
-<class> 丙                             </class>
-<group></group>
-<name> 普通物理學（二） </name>
-<teacher> 陳宜君  </teacher>
-<score> 3 </score>
-<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
+<name> 工程圖學（一） </name>
+<teacher> 吳博雄  </teacher>
+<score> 1 </score>
+<time> [2]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91202 </place>
+<place> 機械系館                      91303 </place>
 <note></note>
+<class1> 丙                             </class1>
+<group1></group1>
+<name1> 工程圖學（一） </name1>
+<time1> [2]7~8  </time1>
+<place1> 機械系館                      91303 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="038">
 <num>E1-038</num>
 <class> 丙                             </class>
 <group></group>
-<name> 普通物理學實驗（二） </name>
-<teacher> 陳宜君  </teacher>
+<name> 普通化學實驗 </name>
+<teacher> 莊治平  </teacher>
 <score> 1 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<time> [5]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 理化大樓二樓 </note>
+<place> 理化大樓                      35122 </place>
+<note> 在理化大樓一樓上課 </note>
 </E1>
 
 <E1 id="039">
 <num>E1-039</num>
 <class> 丙                             </class>
 <group></group>
-<name> 工程圖學（二） </name>
-<teacher> 吳博雄  </teacher>
-<score> 2 </score>
-<time day1="2" s1="6" e1="6"> [2]6  </time>
+<name> 應用力學（一） </name>
+<teacher> 林建宏  </teacher>
+<score> 3 </score>
+<time> [2]5  ,  [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91203 </place>
+<place> 機械系館                      91305 </place>
 <note></note>
-<class1> 丙                             </class1>
-<group1></group1>
-<name1> 工程圖學（二） </name1>
-<time1 day1="2" s1="7" e1="9"> [2]7~9  </time1>
-<place1> 機械系館                      91203 </place1>
-<note1> 部分實習 91602 </note1>
 </E1>
 
 <E1 id="040">
 <num>E1-040</num>
 <class> 丙                             </class>
 <group></group>
-<name> 計算機概論 </name>
-<teacher> 林啟倫  </teacher>
+<name> 普通物理學（一） </name>
+<teacher> 張烈錚  </teacher>
 <score> 3 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<time> [1]8  ,  [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91308 </place>
 <note></note>
-<class1> 丙                             </class1>
-<group1></group1>
-<name1> 計算機概論 </name1>
-<time1 day1="3" s1="7" e1="9"> [3]7~9  </time1>
-<place1> 機械系館                      91602 </place1>
-<note1></note1>
 </E1>
 
 <E1 id="041">
 <num>E1-041</num>
 <class> 丙                             </class>
 <group></group>
-<name> 應用力學（二） </name>
-<teacher> 陳鐵城  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<name> 普通物理學實驗（一） </name>
+<teacher> 陳宜君  </teacher>
+<score> 1 </score>
+<time> [1]5~7  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91205 </place>
-<note></note>
+<type> 實習 </type>
+<place></place>
+<note> 在理化大樓二樓上課 </note>
 </E1>
 
 <E1 id="054">
 <num>E1-054</num>
 <class> 甲                             </class>
 <group></group>
-<name> 工程數學（二） </name>
-<teacher> 王逸君  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<name> 服務學習（三） </name>
+<teacher> 黃文敏  </teacher>
+<score> 0 </score>
+<time> [1]N  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91206 </place>
-<note> 英語授課 </note>
-</E1>
-
-<E1 id="055">
-<num>E1-055</num>
-<class> 甲                             </class>
-<group></group>
-<name> 電工學 </name>
-<teacher> 劉彥辰  </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91202 </place>
-<note> 英語授課 </note>
+<type> 實習 </type>
+<place></place>
+<note></note>
 </E1>
 
 <E1 id="056">
 <num>E1-056</num>
 <class> 甲                             </class>
 <group></group>
-<name> 機械製造 </name>
-<teacher> 林震銘  </teacher>
+<name> 工程數學（一） </name>
+<teacher> 陳嘉元  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="6" day2="3" s2="6" e2="7"> [2]6  ,  [3]6~7  </time>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91206 </place>
+<place> 機械系館                      91205 </place>
 <note></note>
 </E1>
 
@@ -410,117 +428,123 @@
 <num>E1-057</num>
 <class> 甲                             </class>
 <group></group>
-<name> 熱力學（二） </name>
-<teacher> 李汶樺  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<name> 機械畫 </name>
+<teacher> 陳重德  </teacher>
+<score> 2 </score>
+<time> [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91203 </place>
-<note> 英語授課 </note>
+<place> 機械系館                      91307 </place>
+<note></note>
+<class1> 甲                             </class1>
+<group1></group1>
+<name1> 機械畫 </name1>
+<time1> [1]7~8  </time1>
+<place1> 機械系館                      91602 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="058">
 <num>E1-058</num>
 <class> 甲                             </class>
 <group></group>
-<name> 機動學（二） </name>
-<teacher> 顏鴻森*  ,  黃文敏  </teacher>
+<name> 熱力學（一） </name>
+<teacher> 陳嘉元  </teacher>
 <score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91204 </place>
-<note></note>
-<class1> 甲                             </class1>
-<group1></group1>
-<name1> 機動學（二） </name1>
-<time1 day1="2" s1="9" e1="9"> [2]9  </time1>
-<place1> 機械系館                      91204 </place1>
-<note1></note1>
+<place> 機械系館                      91202 </place>
+<note> 英語授課 </note>
 </E1>
 
 <E1 id="059">
 <num>E1-059</num>
 <class> 甲                             </class>
-<group> A </group>
-<name> 工場實習（二） </name>
-<teacher> 李森墉  </teacher>
-<score> 1 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<group></group>
+<name> 材料力學（一） </name>
+<teacher> 張怡玲  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91X08 </place>
-<note></note>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note> 英語授課 </note>
 </E1>
 
 <E1 id="060">
 <num>E1-060</num>
 <class> 甲                             </class>
-<group> B </group>
-<name> 工場實習（二） </name>
-<teacher> 黃文敏  </teacher>
+<group></group>
+<name> 機動學（一） </name>
+<teacher> 顏鴻森  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      三星講堂 </place>
+<note> 英語授課 </note>
+<class1> 甲                             </class1>
+<group1></group1>
+<name1> 機動學（一） </name1>
+<time1> [2]9  </time1>
+<place1> 機械系館                      三星講堂 </place1>
+<note1></note1>
+</E1>
+
+<E1 id="061">
+<num>E1-061</num>
+<class> 甲                             </class>
+<group></group>
+<name> 機械材料 </name>
+<teacher> 鍾震桂  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91205 </place>
+<note></note>
+</E1>
+
+<E1 id="062">
+<num>E1-062</num>
+<class> 甲                             </class>
+<group> A </group>
+<name> 工場實習（一） </name>
+<teacher> 吳俊煌  </teacher>
 <score> 1 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time> [3]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 機械系館                      91X08 </place>
 <note></note>
 </E1>
 
-<E1 id="061">
-<num>E1-061</num>
-<class> 甲                             </class>
-<group> A </group>
-<name> 機械工程實驗（一） </name>
-<teacher> 屈子正  </teacher>
-<score> 1 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91306 </place>
-<note> 材料:91Y04固力:91605 </note>
-</E1>
-
-<E1 id="062">
-<num>E1-062</num>
+<E1 id="063">
+<num>E1-063</num>
 <class> 甲                             </class>
 <group> B </group>
-<name> 機械工程實驗（一） </name>
-<teacher> 屈子正  </teacher>
+<name> 工場實習（一） </name>
+<teacher> 陳國聲  </teacher>
 <score> 1 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<time> [3]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 機械系館                      91306 </place>
-<note> 材料:91Y04固力:91605 </note>
+<place> 機械系館                      91X08 </place>
+<note></note>
 </E1>
 
 <E1 id="069">
 <num>E1-069</num>
 <class> 乙                             </class>
 <group></group>
-<name> 工程數學（二） </name>
-<teacher> 王逸君  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<name> 服務學習（三） </name>
+<teacher> 陳國聲  </teacher>
+<score> 0 </score>
+<time> [3]N  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91305 </place>
-<note></note>
-</E1>
-
-<E1 id="070">
-<num>E1-070</num>
-<class> 乙                             </class>
-<group></group>
-<name> 電工學 </name>
-<teacher> 施士塵  </teacher>
-<score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91203 </place>
+<type> 實習 </type>
+<place></place>
 <note></note>
 </E1>
 
@@ -528,13 +552,13 @@
 <num>E1-071</num>
 <class> 乙                             </class>
 <group></group>
-<name> 機械製造 </name>
-<teacher> 李榮顯  </teacher>
+<name> 工程數學（一） </name>
+<teacher> 王逸君  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="6" e2="6"> [1]5~6  ,  [3]6  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91207 </place>
+<place> 機械系館                      91305 </place>
 <note></note>
 </E1>
 
@@ -542,103 +566,123 @@
 <num>E1-072</num>
 <class> 乙                             </class>
 <group></group>
-<name> 熱力學（二） </name>
-<teacher> 吳志陽  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<name> 機械畫 </name>
+<teacher> 林震銘  </teacher>
+<score> 2 </score>
+<time> [3]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91207 </place>
+<place> 機械系館                      91602 </place>
 <note></note>
+<class1> 乙                             </class1>
+<group1></group1>
+<name1> 機械畫 </name1>
+<time1> [3]7~8  </time1>
+<place1> 機械系館                      91602 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="073">
 <num>E1-073</num>
 <class> 乙                             </class>
 <group></group>
-<name> 機動學（二） </name>
-<teacher> 藍兆杰  </teacher>
+<name> 熱力學（一） </name>
+<teacher> 吳明勳  </teacher>
 <score> 2 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<time> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91203 </place>
+<place> 機械系館                      91207 </place>
 <note></note>
-<class1> 乙                             </class1>
-<group1></group1>
-<name1> 機動學（二） </name1>
-<time1 day1="2" s1="9" e1="9"> [2]9  </time1>
-<place1> 機械系館                      91207 </place1>
-<note1></note1>
 </E1>
 
 <E1 id="074">
 <num>E1-074</num>
 <class> 乙                             </class>
-<group> A </group>
-<name> 工場實習（二） </name>
-<teacher> 陳國聲  </teacher>
-<score> 1 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<group></group>
+<name> 材料力學（一） </name>
+<teacher> 陳聯文  </teacher>
+<score> 3 </score>
+<time> [1]1  ,  [5]3~4  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91X08 </place>
+<type> 講義 </type>
+<place> 機械系館                      91207 </place>
 <note></note>
 </E1>
 
 <E1 id="075">
 <num>E1-075</num>
 <class> 乙                             </class>
-<group> B </group>
-<name> 工場實習（二） </name>
-<teacher> 陳國聲  </teacher>
+<group></group>
+<name> 機動學（一） </name>
+<teacher> 林啟倫  </teacher>
+<score> 2 </score>
+<time> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91205 </place>
+<note></note>
+<class1> 乙                             </class1>
+<group1></group1>
+<name1> 機動學（一） </name1>
+<time1> [2]9  </time1>
+<place1> 機械系館                      91204 </place1>
+<note1></note1>
+</E1>
+
+<E1 id="076">
+<num>E1-076</num>
+<class> 乙                             </class>
+<group></group>
+<name> 機械材料 </name>
+<teacher> 蘇演良  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note></note>
+</E1>
+
+<E1 id="077">
+<num>E1-077</num>
+<class> 乙                             </class>
+<group> A </group>
+<name> 工場實習（一） </name>
+<teacher> 楊天祥  </teacher>
 <score> 1 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time> [2]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 機械系館                      91X08 </place>
 <note></note>
 </E1>
 
-<E1 id="076">
-<num>E1-076</num>
-<class> 乙                             </class>
-<group> A </group>
-<name> 機械工程實驗（一） </name>
-<teacher> 黃文敏  </teacher>
-<score> 1 </score>
-<time day1="1" s1="1" e1="3"> [1]1~3  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91306 </place>
-<note> 材料:91Y04固力:91605 </note>
-</E1>
-
-<E1 id="077">
-<num>E1-077</num>
+<E1 id="078">
+<num>E1-078</num>
 <class> 乙                             </class>
 <group> B </group>
-<name> 機械工程實驗（一） </name>
-<teacher> 蘇演良  </teacher>
+<name> 工場實習（一） </name>
+<teacher> 鍾震桂  </teacher>
 <score> 1 </score>
-<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<time> [2]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 機械系館                      91Y04 </place>
-<note> 材料:91Y04固力:91605 </note>
+<place> 機械系館                      91X08 </place>
+<note></note>
 </E1>
 
-<E1 id="084">
-<num>E1-084</num>
+<E1 id="083">
+<num>E1-083</num>
 <class> 丙                             </class>
 <group></group>
-<name> 工程數學（二） </name>
-<teacher> 陳鐵城  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<name> 服務學習（三） </name>
+<teacher> 楊天祥  </teacher>
+<score> 0 </score>
+<time> [5]N  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91302 </place>
+<type> 實習 </type>
+<place></place>
 <note></note>
 </E1>
 
@@ -646,13 +690,13 @@
 <num>E1-085</num>
 <class> 丙                             </class>
 <group></group>
-<name> 電工學 </name>
-<teacher> 田思齊  </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<name> 工程數學（一） </name>
+<teacher> 賴新一  </teacher>
+<score> 3 </score>
+<time> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91203 </place>
+<place> 機械系館                      91302 </place>
 <note></note>
 </E1>
 
@@ -660,24 +704,30 @@
 <num>E1-086</num>
 <class> 丙                             </class>
 <group></group>
-<name> 機械製造 </name>
-<teacher> 王俊志  </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="7" day2="4" s2="7" e2="8"> [1]7  ,  [4]7~8  </time>
+<name> 機械畫 </name>
+<teacher> 吳俊煌  </teacher>
+<score> 2 </score>
+<time> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91302 </place>
+<place> 機械系館                      91307 </place>
 <note></note>
+<class1> 丙                             </class1>
+<group1></group1>
+<name1> 機械畫 </name1>
+<time1> [2]7~8  </time1>
+<place1> 機械系館                      91307 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="087">
 <num>E1-087</num>
 <class> 丙                             </class>
 <group></group>
-<name> 熱力學（二） </name>
+<name> 熱力學（一） </name>
 <teacher> 溫昌達  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<score> 2 </score>
+<time> [3]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91302 </place>
@@ -688,47 +738,47 @@
 <num>E1-088</num>
 <class> 丙                             </class>
 <group></group>
-<name> 機動學（二） </name>
-<teacher> 黃文敏  </teacher>
+<name> 材料力學（一） </name>
+<teacher> 屈子正  </teacher>
+<score> 3 </score>
+<time> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91302 </place>
+<note></note>
+</E1>
+
+<E1 id="089">
+<num>E1-089</num>
+<class> 丙                             </class>
+<group></group>
+<name> 機動學（一） </name>
+<teacher> 藍兆杰  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time> [4]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91302 </place>
 <note></note>
 <class1> 丙                             </class1>
 <group1></group1>
-<name1> 機動學（二） </name1>
-<time1 day1="2" s1="9" e1="9"> [2]9  </time1>
+<name1> 機動學（一） </name1>
+<time1> [2]9  </time1>
 <place1> 機械系館                      91205 </place1>
 <note1></note1>
-</E1>
-
-<E1 id="089">
-<num>E1-089</num>
-<class> 丙                             </class>
-<group> A </group>
-<name> 工場實習（二） </name>
-<teacher> 陳國聲  </teacher>
-<score> 1 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91X08 </place>
-<note></note>
 </E1>
 
 <E1 id="090">
 <num>E1-090</num>
 <class> 丙                             </class>
-<group> B </group>
-<name> 工場實習（二） </name>
-<teacher> 林昌進  </teacher>
-<score> 1 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<group></group>
+<name> 機械材料 </name>
+<teacher> 李偉賢  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91X08 </place>
+<type> 講義 </type>
+<place> 機械系館                      91302 </place>
 <note></note>
 </E1>
 
@@ -736,406 +786,440 @@
 <num>E1-091</num>
 <class> 丙                             </class>
 <group> A </group>
-<name> 機械工程實驗（一） </name>
-<teacher> 李永春  </teacher>
+<name> 工場實習（一） </name>
+<teacher> 吳俊煌  </teacher>
 <score> 1 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time> [1]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 機械系館                      91306 </place>
-<note> 材料:91Y04固力:91605 </note>
+<place> 機械系館                      91X08 </place>
+<note></note>
 </E1>
 
 <E1 id="092">
 <num>E1-092</num>
 <class> 丙                             </class>
 <group> B </group>
-<name> 機械工程實驗（一） </name>
-<teacher> 蘇演良  </teacher>
+<name> 工場實習（一） </name>
+<teacher> 黃文敏  </teacher>
 <score> 1 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time> [1]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 機械系館                      91Y04 </place>
-<note> 材料:91Y04固力:91605 </note>
-</E1>
-
-<E1 id="096">
-<num>E1-096</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 程式設計 </name>
-<teacher> 方晶晶  </teacher>
-<score> 3 </score>
-<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91305 </place>
+<place> 機械系館                      91X08 </place>
 <note></note>
-</E1>
-
-<E1 id="097">
-<num>E1-097</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 材料力學（二） </name>
-<teacher> 褚晴暉  </teacher>
-<score> 3 </score>
-<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91302 </place>
-<note> 第一階段不受理選課(第二階段開放選課) </note>
-</E1>
-
-<E1 id="098">
-<num>E1-098</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 材料力學（二） </name>
-<teacher> 屈子正  </teacher>
-<score> 3 </score>
-<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91203 </place>
-<note> 第一階段不受理選課(第二階段開放選課) </note>
 </E1>
 
 <E1 id="102">
 <num>E1-102</num>
 <class> 甲                             </class>
 <group></group>
-<name> 機械專題實作 </name>
+<name> 機械設計 </name>
 <teacher> 劉至行  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="5"> [1]5  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91205 </place>
-<note></note>
-<class1> 甲                             </class1>
-<group1></group1>
-<name1> 機械專題實作 </name1>
-<time1 day1="4" s1="1" e1="4"> [4]1~4  </time1>
-<place1> 機械系館                      91205 </place1>
-<note1></note1>
+<place> 機械系館                      91203 </place>
+<note> 英語授課 </note>
 </E1>
 
 <E1 id="103">
 <num>E1-103</num>
 <class> 甲                             </class>
-<group> A </group>
-<name> 機械工程實驗（三） </name>
-<teacher> 溫昌達  </teacher>
-<score> 1 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<group></group>
+<name> 流體力學 </name>
+<teacher> 吳明勳  </teacher>
+<score> 4 </score>
+<time> [3]3~4  ,  [5]3~4  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91X02 </place>
-<note> 實習91X02 講解教室另定 </note>
+<type> 講義 </type>
+<place> 機械系館                      91203 </place>
+<note> 英語授課 </note>
 </E1>
 
 <E1 id="104">
 <num>E1-104</num>
 <class> 甲                             </class>
-<group> B </group>
-<name> 機械工程實驗（三） </name>
-<teacher> 吳明勳  </teacher>
+<group> A </group>
+<name> 機械工程實驗（二） </name>
+<teacher> 李森墉  </teacher>
 <score> 1 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time> [1]7~9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 機械系館                      91X02 </place>
-<note> 實習91X02 講解教室另定 </note>
+<place> 機械系館                      91306 </place>
+<note></note>
 </E1>
 
 <E1 id="105">
 <num>E1-105</num>
 <class> 甲                             </class>
+<group> B </group>
+<name> 機械工程實驗（二） </name>
+<teacher> 施士塵  </teacher>
+<score> 1 </score>
+<time> [1]N~6  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 機械系館                      91306 </place>
+<note></note>
+</E1>
+
+<E1 id="106">
+<num>E1-106</num>
+<class> 甲                             </class>
 <group></group>
-<name> 熱傳學 </name>
-<teacher> 陳嘉元  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<name> 電子學 </name>
+<teacher> 吳馬丁  </teacher>
+<score> 2 </score>
+<time> [2]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91205 </place>
+<place> 機械系館                      91207 </place>
+<note> 英語授課 </note>
+</E1>
+
+<E1 id="107">
+<num>E1-107</num>
+<class> 甲                             </class>
+<group></group>
+<name> 自動控制 </name>
+<teacher> 劉彥辰  </teacher>
+<score> 3 </score>
+<time> [2]3  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91202 </place>
 <note></note>
+<class1> 甲                             </class1>
+<group1></group1>
+<name1> 自動控制 </name1>
+<time1> [2]4  </time1>
+<place1> 機械系館                      91202 </place1>
+<note1> 英語授課 </note1>
 </E1>
 
 <E1 id="112">
 <num>E1-112</num>
 <class> 乙                             </class>
 <group></group>
-<name> 機械專題實作 </name>
-<teacher> 劉彥辰  </teacher>
+<name> 機械設計 </name>
+<teacher> 黃才烱  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="5"> [1]5  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91202 </place>
+<place> 機械系館                      91305 </place>
 <note></note>
-<class1> 乙                             </class1>
-<group1></group1>
-<name1> 機械專題實作 </name1>
-<time1 day1="2" s1="1" e1="4"> [2]1~4  </time1>
-<place1> 機械系館                      91202 </place1>
-<note1></note1>
 </E1>
 
 <E1 id="113">
 <num>E1-113</num>
 <class> 乙                             </class>
-<group> A </group>
-<name> 機械工程實驗（三） </name>
-<teacher> 溫昌達  </teacher>
-<score> 1 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<group></group>
+<name> 流體力學 </name>
+<teacher> 楊天祥  </teacher>
+<score> 4 </score>
+<time> [2]3~4  ,  [4]3~4  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91X02 </place>
-<note> 實習91X02 講解教室另定 </note>
+<type> 講義 </type>
+<place> 機械系館                      91303 </place>
+<note></note>
 </E1>
 
 <E1 id="114">
 <num>E1-114</num>
 <class> 乙                             </class>
-<group> B </group>
-<name> 機械工程實驗（三） </name>
-<teacher> 吳明勳  </teacher>
+<group> A </group>
+<name> 機械工程實驗（二） </name>
+<teacher> 吳馬丁  </teacher>
 <score> 1 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time> [4]6~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 機械系館                      91X02 </place>
-<note> 實習91X02 講解教室另定 </note>
+<place> 機械系館                      91306 </place>
+<note></note>
 </E1>
 
 <E1 id="115">
 <num>E1-115</num>
 <class> 乙                             </class>
+<group> B </group>
+<name> 機械工程實驗（二） </name>
+<teacher> 劉彥辰  </teacher>
+<score> 1 </score>
+<time> [5]6~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 機械系館                      91306 </place>
+<note></note>
+</E1>
+
+<E1 id="116">
+<num>E1-116</num>
+<class> 乙                             </class>
 <group></group>
-<name> 熱傳學 </name>
-<teacher> 陳嘉元  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<name> 電子學 </name>
+<teacher> 施士塵  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91207 </place>
+<place> 機械系館                      91205 </place>
 <note></note>
+</E1>
+
+<E1 id="117">
+<num>E1-117</num>
+<class> 乙                             </class>
+<group></group>
+<name> 自動控制 </name>
+<teacher> 張仁宗  </teacher>
+<score> 3 </score>
+<time> [3]3~4  ,  [5]3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note></note>
+<class1> 乙                             </class1>
+<group1></group1>
+<name1> 自動控制 </name1>
+<time1> [5]4  </time1>
+<place1> 機械系館                      91602 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="122">
 <num>E1-122</num>
 <class> 丙                             </class>
 <group></group>
-<name> 機械專題實作 </name>
-<teacher> 林啟倫  </teacher>
+<name> 機械設計 </name>
+<teacher> 陳家豪  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="5"> [1]5  </time>
+<time> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91302 </place>
+<place> 機械系館                      91308 </place>
 <note></note>
-<class1> 丙                             </class1>
-<group1></group1>
-<name1> 機械專題實作 </name1>
-<time1 day1="3" s1="1" e1="4"> [3]1~4  </time1>
-<place1> 機械系館                      91302 </place1>
-<note1></note1>
 </E1>
 
 <E1 id="123">
 <num>E1-123</num>
 <class> 丙                             </class>
-<group> A </group>
-<name> 機械工程實驗（三） </name>
-<teacher> 張錦裕  </teacher>
-<score> 1 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<group></group>
+<name> 流體力學 </name>
+<teacher> 林仁輝  </teacher>
+<score> 4 </score>
+<time> [3]3~4  ,  [5]3~4  </time>
 <must> 必修 </must>
-<type> 實習 </type>
-<place> 機械系館                      91X02 </place>
-<note> 實習91X02 講解教室另定 </note>
+<type> 講義 </type>
+<place> 機械系館                      91308 </place>
+<note></note>
 </E1>
 
 <E1 id="124">
 <num>E1-124</num>
 <class> 丙                             </class>
-<group> B </group>
-<name> 機械工程實驗（三） </name>
-<teacher> 張錦裕  </teacher>
+<group> A </group>
+<name> 機械工程實驗（二） </name>
+<teacher> 田思齊  </teacher>
 <score> 1 </score>
-<time day1="5" s1="7" e1="9"> [5]7~9  </time>
+<time> [3]5~7  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 機械系館                      91X02 </place>
-<note> 實習91X02 講解教室另定 </note>
+<place> 機械系館                      91306 </place>
+<note></note>
 </E1>
 
 <E1 id="125">
 <num>E1-125</num>
 <class> 丙                             </class>
+<group> B </group>
+<name> 機械工程實驗（二） </name>
+<teacher> 李永春  </teacher>
+<score> 1 </score>
+<time> [2]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 機械系館                      91306 </place>
+<note></note>
+</E1>
+
+<E1 id="126">
+<num>E1-126</num>
+<class> 丙                             </class>
 <group></group>
-<name> 熱傳學 </name>
-<teacher> 何清政  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<name> 電子學 </name>
+<teacher> 蔡明祺  </teacher>
+<score> 2 </score>
+<time> [4]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91203 </place>
+<place> 機械系館                      三星講堂 </place>
 <note></note>
+</E1>
+
+<E1 id="127">
+<num>E1-127</num>
+<class> 丙                             </class>
+<group></group>
+<name> 自動控制 </name>
+<teacher> 田思齊  </teacher>
+<score> 3 </score>
+<time> [2]3~4  ,  [4]3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91205 </place>
+<note></note>
+<class1> 丙                             </class1>
+<group1></group1>
+<name1> 自動控制 </name1>
+<time1> [4]4  </time1>
+<place1> 機械系館                      91602 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="131">
 <num>E1-131</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 鋼鐵材料 </name>
-<teacher> 李驊登  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<name> 節能技術導論 </name>
+<teacher> 林大惠  </teacher>
+<score> 2 </score>
+<time> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      三星講堂 </place>
-<note> 第一階段不受理選課，第二階段開放選課 </note>
+<place> 機械系館                      象賢講堂 </place>
+<note></note>
 </E1>
 
 <E1 id="132">
 <num>E1-132</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 科技日文 </name>
-<teacher> 李驊登  </teacher>
+<name> 計算機圖學 </name>
+<teacher> 方晶晶  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      象賢講堂 </place>
-<note> 第一階段不受理選課、第二階段開放選課 </note>
+<place> 機械系館                      91305 </place>
+<note> 大四可修 </note>
 </E1>
 
-<E1 id="135">
-<num>E1-135</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 工具設計 </name>
-<teacher> 吳俊煌  </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95703 </place>
-<note> 第一階段不受理選課，第二階段開放選課 </note>
-</E1>
-
-<E1 id="136">
-<num>E1-136</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 機械振動學 </name>
-<teacher> 陳聯文  </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="7" day2="4" s2="7" e2="8"> [1]7  ,  [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91204 </place>
-<note></note>
-</E1>
-
-<E1 id="138">
-<num>E1-138</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 能源科技概論 </name>
-<teacher> 溫昌達  </teacher>
-<score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      三星講堂 </place>
-<note> 工學院次專長學程 (第一階段不受理選課，第二階段開放選課) </note>
-</E1>
-
-<E1 id="140">
-<num>E1-140</num>
+<E1 id="133">
+<num>E1-133</num>
 <class> 甲乙丙                         </class>
 <group></group>
 <name> 控制系統元件導論 </name>
 <teacher> 蔡南全  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91204 </place>
-<note> 本課程涉及實作、考量設備之數量限制，僅可供應20位名額(大三優先)將於選課第二階段結束後依照選課順序公佈修課名單。 </note>
+<note> 本課程涉及實作，考量設備之數量限制，僅可供應20位名額(大三優先)，將於選課第一階段結束後依照選課順序公布修課名單。 </note>
 </E1>
 
-<E1 id="142">
-<num>E1-142</num>
+<E1 id="145">
+<num>E1-145</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 伺服控制 </name>
-<teacher> 蔡明祺  </teacher>
+<name> 材料理論 </name>
+<teacher> 施士塵  </teacher>
 <score> 3 </score>
-<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<time> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      三星講堂 </place>
-<note> 第8節用91601電腦教室 </note>
+<place> 機械系館                      91204 </place>
+<note></note>
 </E1>
 
-<E1 id="143">
-<num>E1-143</num>
+<E1 id="146">
+<num>E1-146</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 物聯網與大數據於智慧製造應用 </name>
-<teacher> 林啟倫  </teacher>
+<name> 複合材料力學概論 </name>
+<teacher> 林建宏  </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91308 </place>
+<note></note>
+</E1>
+
+<E1 id="147">
+<num>E1-147</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 工具機概論 </name>
+<teacher> 王俊志  </teacher>
+<score> 3 </score>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      象賢講堂 </place>
 <note></note>
 </E1>
 
-<E1 id="160">
-<num>E1-160</num>
+<E1 id="148">
+<num>E1-148</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 汽車學 </name>
-<teacher> 梁燕輝  </teacher>
+<name> 高等材料力學 </name>
+<teacher> 陳國聲  </teacher>
 <score> 3 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<time> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91202 </place>
-<note> 第一階段不受理選課，第二階段開放選課 </note>
+<place> 機械系館                      91206 </place>
+<note></note>
+</E1>
+
+<E1 id="149">
+<num>E1-149</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 高等工程數學 </name>
+<teacher> 王逸君  </teacher>
+<score> 3 </score>
+<time> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      象賢講堂 </place>
+<note></note>
 </E1>
 
 <E1 id="161">
 <num>E1-161</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 工程統計和概率 </name>
-<teacher> 李汶樺  </teacher>
-<score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<name> 機械專題實作（二） </name>
+<teacher> 林啟倫  </teacher>
+<score> 2 </score>
+<time> [2]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      象賢講堂 </place>
+<place> 機械系館                      91307 </place>
 <note></note>
+<class1> 甲乙丙                         </class1>
+<group1></group1>
+<name1> 機械專題實作（二） </name1>
+<time1> [5]3~4  </time1>
+<place1> 機械系館                      91307 </place1>
+<note1></note1>
 </E1>
 
 <E1 id="163">
 <num>E1-163</num>
 <class></class>
 <group></group>
-<name> 論文（二） </name>
-<teacher> 楊天祥   ,  陳國聲   ,  鍾震桂   ,  屈子正   ,  張怡玲   ,  劉彥辰   ,  林啟倫   ,  顏鴻森   ,  朱銘祥   ,  方晶晶* </teacher>
+<name> 論文（一） </name>
+<teacher> 未定  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
+<time> 
   </time>
 <must> 選修 </must>
 <type> 講義 </type>
@@ -1144,31 +1228,87 @@
  </note>
 </E1>
 
+<E1 id="164">
+<num>E1-164</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 電腦輔助機械設計 </name>
+<teacher> 黃才烱  </teacher>
+<score> 3 </score>
+<time> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91202 </place>
+<note> 第4節在91601電腦教室上課 </note>
+</E1>
+
+<E1 id="165">
+<num>E1-165</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 熱質傳遞導論 </name>
+<teacher> 溫昌達  </teacher>
+<score> 3 </score>
+<time> [4]7~8  ,  [2]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91207 </place>
+<note> 大碩合開 </note>
+</E1>
+
 <E1 id="166">
 <num>E1-166</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 燃燒學 </name>
-<teacher> 吳明勳  </teacher>
+<name> 機器人系統設計 </name>
+<teacher> 蔡明俊  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91102 </place>
-<note> 英語授課 </note>
+<place> 機械系館                      91804 </place>
+<note></note>
 </E1>
 
 <E1 id="167">
 <num>E1-167</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 輻射熱傳學 </name>
-<teacher> 吳志陽  </teacher>
+<name> 物件導向程式設計及應用 </name>
+<teacher> 方晶晶  </teacher>
 <score> 3 </score>
-<time day1="3" s1="5" e1="5" day2="5" s2="6" e2="7"> [3]5  ,  [5]6~7  </time>
+<time> [1]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91207 </place>
+<place> 機械系館                      91305 </place>
+<note> 大碩合開 </note>
+</E1>
+
+<E1 id="168">
+<num>E1-168</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 田口式品質設計方法 </name>
+<teacher> 陳家豪  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91203 </place>
+<note></note>
+</E1>
+
+<E1 id="169">
+<num>E1-169</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 系統建模與控制 </name>
+<teacher> 蔡南全  </teacher>
+<score> 3 </score>
+<time> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91804 </place>
 <note></note>
 </E1>
 
@@ -1176,75 +1316,125 @@
 <num>E1-170</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 微機電系統磨潤研究 </name>
-<teacher> 林仁輝  </teacher>
+<name> 最佳設計 </name>
+<teacher> 林啟倫  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91204 </place>
-<note> 博士班學生可修 </note>
+<place> 機械系館                      91203 </place>
+<note></note>
+</E1>
+
+<E1 id="171">
+<num>E1-171</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 智慧移動機器人 </name>
+<teacher> 劉彥辰  </teacher>
+<score> 3 </score>
+<time> [2]5  ,  [4]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91202 </place>
+<note> 建議修過自動控制課程，非英語授課。 </note>
 </E1>
 
 <E1 id="172">
 <num>E1-172</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 實驗應力分析 </name>
-<teacher> 陳元方  </teacher>
+<name> 金屬物理學 </name>
+<teacher> 李驊登  </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91301 </place>
-<note></note>
-<class1> 甲乙丙                         </class1>
-<group1></group1>
-<name1> 實驗應力分析 </name1>
-<time1 day1="5" s1="6" e1="8"> [5]6~8  </time1>
-<place1> 機械系館                      91301 </place1>
-<note1></note1>
+<place> 機械系館                      三星講堂 </place>
+<note> 大碩合開 </note>
 </E1>
 
 <E1 id="173">
 <num>E1-173</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 機械發明史 </name>
-<teacher> 顏鴻森  </teacher>
+<name> 機器動力學 </name>
+<teacher> 邱顯堂  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="8" day2="1" s2="7" e2="7"> [3]7~8  ,  [1]7  </time>
+<time> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      俊銘講堂 </place>
-<note></note>
+<place> 機械系館                      91206 </place>
+<note> 大碩合開 </note>
 </E1>
 
 <E1 id="174">
 <num>E1-174</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 機器人系統設計 </name>
-<teacher> 蔡明俊  </teacher>
+<name> 潔淨化石燃料技術 </name>
+<teacher> 吳明勳   ,  李約亨  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="1" s2="4" e2="4"> [2]3~4  ,  [1]4  </time>
+<time> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91206 </place>
-<note></note>
+<place> 機械系館                      91C04 </place>
+<note> 能源學程與機械系合開。 </note>
 </E1>
 
 <E1 id="175">
 <num>E1-175</num>
 <class> 甲乙丙                         </class>
 <group></group>
-<name> 機器視覺 </name>
-<teacher> 蔡明俊  </teacher>
+<name> 創意性機構設計 </name>
+<teacher> 顏鴻森  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91204 </place>
+<place> 機械系館                      象賢講堂 </place>
+<note></note>
+</E1>
+
+<E1 id="176">
+<num>E1-176</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 金屬積層製造概論 </name>
+<teacher> 羅裕龍  </teacher>
+<score> 3 </score>
+<time> [1]6  ,  [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91103 </place>
+<note> 大碩合開 </note>
+</E1>
+
+<E1 id="177">
+<num>E1-177</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 高等動力學 </name>
+<teacher> 藍兆杰  </teacher>
+<score> 3 </score>
+<time> [1]7~8  ,  [3]9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91207 </place>
+<note></note>
+</E1>
+
+<E1 id="312">
+<num>E1-312</num>
+<class> 學程                           </class>
+<group></group>
+<name> 機械學群教材教法 </name>
+<teacher> 施士塵  </teacher>
+<score> 2 </score>
+<time> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91A04 </place>
 <note></note>
 </E1>
 
