@@ -13,9 +13,9 @@ var classCount = 0;
 /*  how much class user added */
 var classAddCount = 0;
 /*  credit now added  */
-var localCredit = 0;
+var localCredit = 0.0;
 /*  total credits */
-var credit = 0;
+var credit = 0.0;
 /*  Html class tag, NOT class name  */
 var className;
 var content = "";
