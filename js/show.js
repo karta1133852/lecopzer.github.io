@@ -341,8 +341,8 @@ function printClass(result,count) {
   localCredit = parseInt(trimAll( checkTag( result.getElementsByTagName("score"))));
   credit += localCredit;
   /*  Format of time : [1]1~2, [2]3~5 ... */  
-  var time = checkTag(result.getElementsByTagName("time"));
-  if(time.trim() == ""){
+  var time = checkTag(result.getElementsByTagName("time")).trim();
+  if(time == "" || time == "未定") {
     return;
   }
   var ctime = time.split(",");
