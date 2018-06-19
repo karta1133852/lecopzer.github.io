@@ -49,10 +49,10 @@
 <name> 書報討論（一） </name>
 <teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊   ,  林士鳴*  ,  郭瑋君  </teacher>
 <score> 1 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="1" s1="1" e1="2"> [1]1~2  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1301 </place>
+<place> 生科院大樓                    893S1 </place>
 <note></note>
 </L6>
 
@@ -61,12 +61,12 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 書報討論（三） </name>
-<teacher> 黃玲惠   ,  劉宗霖*  ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
+<teacher> 劉宗霖*  ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
 <score> 1 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1305 </place>
+<place> 生科院大樓                    893S1 </place>
 <note></note>
 </L6>
 
@@ -75,12 +75,12 @@
 <class> 碩                             </class>
 <group></group>
 <name> 生物技術學 </name>
-<teacher> 張清俊   ,  洪健睿   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純   ,  劉宗霖   ,  曾大千*  ,  林鼎晏   ,  洪良宜   ,  羅玉枝   ,  盧福翊   ,  林士鳴   ,  郭瑋君  </teacher>
+<teacher> 張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  劉宗霖   ,  洪建中   ,  曾大千*  ,  林鼎晏   ,  洪良宜   ,  羅玉枝   ,  盧福翊   ,  林士鳴   ,  郭瑋君  </teacher>
 <score> 3 </score>
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 共同教室                      A1304 </place>
+<place> 生科院大樓                    89901 </place>
 <note></note>
 </L6>
 
@@ -89,7 +89,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 黃玲惠   ,  劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
 <score> 1 </score>
 <time day1="1" s1="1" e1="2"> [1]1~2  </time>
 <must> 必修 </must>
@@ -103,7 +103,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 黃玲惠   ,  劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
 <score> 1 </score>
 <time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 必修 </must>
@@ -117,12 +117,12 @@
 <class> 博三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 黃玲惠   ,  劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
 <score> 0 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 生科院大樓                    892S1 </place>
 <note></note>
 </L6>
 
@@ -133,10 +133,10 @@
 <name> 書報討論（一） </name>
 <teacher> 陳宗嶽*  ,  張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊   ,  林士鳴   ,  郭瑋君  </teacher>
 <score> 1 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1301 </place>
+<place> 生科院大樓                    893S1 </place>
 <note></note>
 </L6>
 
@@ -145,12 +145,12 @@
 <class> 博二                           </class>
 <group></group>
 <name> 書報討論（三） </name>
-<teacher> 黃玲惠   ,  劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
 <score> 1 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 共同教室                      A1305 </place>
+<place> 生科院大樓                    893S1 </place>
 <note></note>
 </L6>
 
@@ -178,7 +178,7 @@
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95A09 </place>
+<place> 生科院大樓                    89901 </place>
 <note> 院核心課程 </note>
 </L6>
 
@@ -215,7 +215,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 生物儀器分析 </name>
-<teacher> 陳宗嶽*  ,  張清俊   ,  黃玲惠   ,  陳逸民   ,  王涵青   ,  張純純   ,  洪建中   ,  王育民   ,  林鼎晏   ,  洪良宜   ,  盧福翊   ,  林士鳴   ,  陳炳焜  </teacher>
+<teacher> 陳宗嶽*  ,  張清俊   ,  陳逸民   ,  王涵青   ,  張純純   ,  洪建中   ,  王育民   ,  林鼎晏   ,  洪良宜   ,  盧福翊   ,  林士鳴   ,  陳炳焜  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
@@ -322,36 +322,18 @@
 <note></note>
 </L6>
 
-<L6 id="025">
-<num>L6-025</num>
-<class></class>
-<group></group>
-<name> 創業思維與啟航 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
-</L6>
-
 <L6 id="026">
 <num>L6-026</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 國際產業實習 </name>
 <teacher> 陳宗嶽* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 生命科學 </type>
-<place></place>
-<note> 
- </note>
+<place> 生科院大樓                    89A01 </place>
+<note></note>
 </L6>
 
 <L6 id="027">
@@ -378,7 +360,7 @@
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    6樓小會議室 </place>
+<place> 生科院大樓                    89801 </place>
 <note></note>
 </L6>
 
@@ -424,20 +406,6 @@
 <note></note>
 </L6>
 
-<L6 id="035">
-<num>L6-035</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 生物資料分析之程式語言 </name>
-<teacher> 劉宗霖* </teacher>
-<score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科院大樓                    89A01 </place>
-<note></note>
-</L6>
-
 <L6 id="036">
 <num>L6-036</num>
 <class> 碩                             </class>
@@ -454,34 +422,72 @@
 
 <L6 id="037">
 <num>L6-037</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 新農業產業實習 </name>
 <teacher> 林士鳴  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 生科院大樓                    89916 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
 </L6>
 
 <L6 id="038">
 <num>L6-038</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 循環農業 </name>
 <teacher> 陳宗嶽  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89916 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
+</L6>
+
+<L6 id="039">
+<num>L6-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航(一)-創業發展 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑假上課 </note>
+</L6>
+
+<L6 id="040">
+<num>L6-040</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航（四）－創業設計 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑假上課 </note>
+</L6>
+
+<L6 id="041">
+<num>L6-041</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航（五）-認證及規範 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 生科中心暑期課程 </note>
 </L6>
 
 </content>

@@ -1138,66 +1138,58 @@
 
 <E2 id="154">
 <num>E2-154</num>
-<class></class>
+<class> 甲乙丙                         </class>
 <group></group>
 <name> 論文（一） </name>
 <teacher> 楊宏澤  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </E2>
 
 <E2 id="155">
 <num>E2-155</num>
-<class></class>
+<class> 甲乙丙                         </class>
 <group></group>
 <name> 電路與系統學群畢業專題（二） </name>
 <teacher> 楊宏澤  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 電機所其他各組 (自選老師)，本系必選 </note>
 </E2>
 
 <E2 id="156">
 <num>E2-156</num>
-<class></class>
+<class> 甲乙丙                         </class>
 <group></group>
 <name> 電子與材料學群畢業專題（二） </name>
 <teacher> 莊文魁  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 微電子所與材料組(自選老師)，本系必選 </note>
 </E2>
 
 <E2 id="157">
 <num>E2-157</num>
-<class></class>
+<class> 甲乙丙                         </class>
 <group></group>
 <name> 電腦與通訊學群畢業專題（二） </name>
 <teacher> 張名先  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 電腦與通訊網路組 (自選老師)，本系必選 </note>
 </E2>
 
 <E2 id="161">

@@ -321,13 +321,11 @@
 <name> 染色體學 </name>
 <teacher> 張松彬  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 為MOOCS磨課師課程,線上數位學習 </note>
 </C5>
 
 <C5 id="144">
@@ -337,13 +335,11 @@
 <name> 生物技術產學創新 </name>
 <teacher> 陳虹樺   ,  曾淑芬*  ,  張素瓊   ,  宋皇模   ,  何盧勳   ,  張松彬   ,  李純純  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 生科院大樓                    892S4 </place>
+<note> 暑期密集授課預定107/8/27-9/7期間上課 </note>
 </C5>
 
 <C5 id="150">
@@ -353,13 +349,11 @@
 <name> 實習課程 </name>
 <teacher> 蔣鎮宇   ,  黃浩仁   ,  宋皇模   ,  吳文鑾* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑期校外實習 </note>
 </C5>
 
 <C5 id="151">
@@ -439,13 +433,11 @@
 <name> 農業生物經濟 </name>
 <teacher> 陳虹樺*  ,  蔡文杰  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑期生科中心課程，碩士班與大四合開 </note>
 </C5>
 
 <C5 id="159">
@@ -497,13 +489,11 @@
 <name> 循環農業 </name>
 <teacher> 陳宗嶽  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 生科院大樓                    89916 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
 </C5>
 
 <C5 id="169">
@@ -513,13 +503,11 @@
 <name> 新農業產業實習 </name>
 <teacher> 林士鳴  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 生科院大樓                    89916 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
 </C5>
 
 </content>

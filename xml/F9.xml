@@ -101,13 +101,11 @@
 <name> 服務學習（一） </name>
 <teacher> 張志涵   ,  吳炳慶  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫技醫工館                    5730 </place>
+<note></note>
 </F9>
 
 <F9 id="021">

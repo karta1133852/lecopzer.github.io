@@ -58,34 +58,30 @@
 
 <T2 id="013">
 <num>T2-013</num>
-<class></class>
+<class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 王琪珍   ,  林梅鳳   ,  張瑩如   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  王靜枝*  ,  陳靜敏   ,  林靜蘭   ,  陳幸眉   ,  陳彰惠  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 碩二以上，未修習任何課程者選修 </note>
 </T2>
 
 <T2 id="017">
 <num>T2-017</num>
-<class></class>
+<class> 碩一                           </class>
 <group></group>
 <name> 進階護理學實習（一） </name>
 <teacher> 王琪珍   ,  林梅鳳   ,  張瑩如   ,  黃美智   ,  柯乃熒   ,  陳靜敏   ,  林靜蘭   ,  方素瓔*  ,  陳幸眉   ,  賴維淑   ,  胡芳文  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限本地生 </note>
 </T2>
 
 <T2 id="032">
@@ -146,18 +142,16 @@
 
 <T2 id="108">
 <num>T2-108</num>
-<class></class>
+<class> 碩二                           </class>
 <group></group>
 <name> 進階護理學實習（二） </name>
 <teacher> 王琪珍   ,  林梅鳳   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  方素瓔*  ,  陳幸眉   ,  高綺吟   ,  胡芳文  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 國際碩士班課程，限本系國際生。 </note>
 </T2>
 
 <T2 id="111">
@@ -193,7 +187,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 護理專業探究 </name>
-<teacher> 徐畢卿   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  陳靜敏   ,  陳幸眉   ,  賴昭翰  </teacher>
+<teacher> 徐畢卿   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  陳靜敏   ,  陳幸眉  </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>

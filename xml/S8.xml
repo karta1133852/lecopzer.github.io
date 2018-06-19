@@ -156,18 +156,16 @@
 
 <S8 id="014">
 <num>S8-014</num>
-<class></class>
+<class> 碩三                           </class>
 <group></group>
 <name> 臨床心理實習（一） </name>
 <teacher> 郭乃文   ,  黃惠玲   ,  余睿羚* </teacher>
 <score> 8 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 在醫院或醫療機構等實習單位全天實習 </note>
 </S8>
 
 <S8 id="015">

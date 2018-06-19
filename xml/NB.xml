@@ -142,34 +142,30 @@
 
 <NB id="025">
 <num>NB-025</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 薄膜工程 </name>
 <teacher> 丁志明  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 材料新館                      44202 </place>
+<note> 一半:暑假密集(8/15~8/29)；一半：開學上課 </note>
 </NB>
 
 <NB id="026">
 <num>NB-026</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 半導體工程 </name>
 <teacher> 陳嘉勻  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 材料新館                      44124 </place>
+<note> 暑假8月密集授課 </note>
 </NB>
 
 </content>

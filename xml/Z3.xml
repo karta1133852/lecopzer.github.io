@@ -128,98 +128,100 @@
 
 <Z3 id="016">
 <num>Z3-016</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 農業生物經濟 </name>
 <teacher> 陳虹樺*  ,  蔡文杰  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑期生科中心課程，碩士班與大四合開 </note>
 </Z3>
 
 <Z3 id="017">
 <num>Z3-017</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 農業生物經濟產業實作 </name>
 <teacher> 蔡文杰  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑期生科中心課程 </note>
 </Z3>
 
 <Z3 id="018">
 <num>Z3-018</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 課堂理論與實作-商業計畫書撰寫 </name>
 <teacher> 黃兆立  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 生科中心暑期課程 </note>
 </Z3>
 
 <Z3 id="019">
 <num>Z3-019</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 新農業產業實習 </name>
 <teacher> 林士鳴  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 生科院大樓                    89916 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
 </Z3>
 
 <Z3 id="020">
 <num>Z3-020</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 農業創新 </name>
 <teacher> 蔣鎮宇*  ,  黃浩仁  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑期生科中心課程 </note>
 </Z3>
 
 <Z3 id="021">
 <num>Z3-021</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 循環農業 </name>
 <teacher> 陳宗嶽  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89916 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
+</Z3>
+
+<Z3 id="022">
+<num>Z3-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航（五）-認證及規範 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 生科中心暑期課程 </note>
 </Z3>
 
 </content>

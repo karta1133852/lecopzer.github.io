@@ -1458,642 +1458,562 @@
 
 <A2 id="501">
 <num>A2-501</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子田徑校隊 </name>
 <teacher> 林麗娟  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 限現任校代表隊員選填　 </note>
 </A2>
 
 <A2 id="502">
 <num>A2-502</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子田徑校隊 </name>
 <teacher> 黃滄海  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 限現任校代表隊員選填　 </note>
 </A2>
 
 <A2 id="503">
 <num>A2-503</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子游泳校隊 </name>
 <teacher> 洪甄憶  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 健休視聽室                    健休視聽室 </place>
+<note> 限現任校代表隊員選填　 </note>
 </A2>
 
 <A2 id="504">
 <num>A2-504</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子游泳校隊 </name>
 <teacher> 周學雯  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 健休視聽室                    健休視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="505">
 <num>A2-505</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子籃球校隊 </name>
 <teacher> 潘慧雯  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="506">
 <num>A2-506</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子籃球校隊 </name>
 <teacher> 高華君   ,  林欣仕  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="507">
 <num>A2-507</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子排球校隊 </name>
 <teacher> 黃鴻鈞  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="508">
 <num>A2-508</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子排球校隊 </name>
 <teacher> 黃賢哲  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="509">
 <num>A2-509</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 足球校隊 </name>
 <teacher> 王駿濠  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="510">
 <num>A2-510</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 橄欖球校隊 </name>
 <teacher> 鄭匡佑  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="511">
 <num>A2-511</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 棒球校隊 </name>
 <teacher> 黃彥慈   ,  彭怡千  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="512">
 <num>A2-512</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子桌球校隊 </name>
 <teacher> 邱宏達  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="513">
 <num>A2-513</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子桌球校隊 </name>
 <teacher> 徐珊惠  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="514">
 <num>A2-514</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子羽球校隊 </name>
 <teacher> 涂國誠  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="515">
 <num>A2-515</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子羽球校隊 </name>
 <teacher> 蔡佳良  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="516">
 <num>A2-516</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子硬網校隊 </name>
 <teacher> 李劍如  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="517">
 <num>A2-517</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子硬網校隊 </name>
 <teacher> 馬上鈞  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="518">
 <num>A2-518</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子軟網校隊 </name>
 <teacher> 王苓華  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="519">
 <num>A2-519</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子軟網校隊 </name>
 <teacher> 王苓華  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="520">
 <num>A2-520</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子壘球校隊 </name>
 <teacher> 謝孟志  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="522">
 <num>A2-522</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子田徑校隊（一） </name>
 <teacher> 林麗娟  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="523">
 <num>A2-523</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子田徑校隊（一） </name>
 <teacher> 黃滄海  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="524">
 <num>A2-524</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子游泳校隊（一） </name>
 <teacher> 洪甄憶  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 健休視聽室                    健休視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="525">
 <num>A2-525</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子游泳校隊（一） </name>
 <teacher> 周學雯  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 健休視聽室                    健休視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="526">
 <num>A2-526</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子籃球校隊（一） </name>
 <teacher> 潘慧雯  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="527">
 <num>A2-527</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子籃球校隊（一） </name>
 <teacher> 高華君   ,  林欣仕  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="528">
 <num>A2-528</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子排球校隊（一） </name>
 <teacher> 黃鴻鈞  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="529">
 <num>A2-529</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子排球校隊（一） </name>
 <teacher> 黃賢哲  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="530">
 <num>A2-530</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 足球校隊（一） </name>
 <teacher> 王駿濠  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 光操視聽室                    光操視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="531">
 <num>A2-531</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 橄欖球校隊（一） </name>
 <teacher> 鄭匡佑  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="532">
 <num>A2-532</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 棒球校隊（一） </name>
 <teacher> 黃彥慈   ,  彭怡千  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="533">
 <num>A2-533</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子桌球校隊（一） </name>
 <teacher> 邱宏達  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="534">
 <num>A2-534</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子桌球校隊（一） </name>
 <teacher> 徐珊惠  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="535">
 <num>A2-535</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子羽球校隊（一） </name>
 <teacher> 涂國誠  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="536">
 <num>A2-536</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子羽球校隊（一） </name>
 <teacher> 蔡佳良  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="537">
 <num>A2-537</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子硬網校隊（一） </name>
 <teacher> 李劍如  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="538">
 <num>A2-538</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子硬網校隊（一） </name>
 <teacher> 馬上鈞  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="539">
 <num>A2-539</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子軟網校隊（一） </name>
 <teacher> 王苓華  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="540">
 <num>A2-540</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 女子軟網校隊（一） </name>
 <teacher> 王苓華  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="541">
 <num>A2-541</num>
-<class></class>
+<class> 體育（校代表隊）                                                       </class>
 <group></group>
 <name> 男子壘球校隊（一） </name>
 <teacher> 謝孟志  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 不可抵體育畢業學分，限現任校代表隊員選填 </note>
 </A2>
 
 <A2 id="600">
@@ -2103,13 +2023,11 @@
 <name> 非校代表隊甄審甄試生體育 </name>
 <teacher> 蔡佳良  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限非校代表隊甄審甄試生選填 </note>
 </A2>
 
 </content>

@@ -122,7 +122,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 歷史系館                      振芝講堂 </place>
+<place> 歷史系館                      25240 </place>
 <note> 台 </note>
 </K3>
 
@@ -168,6 +168,20 @@
 <note> 世 </note>
 </K3>
 
+<K3 id="033">
+<num>K3-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 獨立研究 </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 供碩三博三以上同學選課  指導教授授課 </note>
+</K3>
+
 <K3 id="102">
 <num>K3-102</num>
 <class> 博一                           </class>
@@ -175,10 +189,10 @@
 <name> 史學與史學研究（一） </name>
 <teacher> 陳恒安  </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7217 </place>
+<place> 歷史系館                      25231 </place>
 <note> 基礎課程。博士班必修 </note>
 </K3>
 

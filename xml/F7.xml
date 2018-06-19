@@ -318,18 +318,16 @@
 
 <F7 id="107">
 <num>F7-107</num>
-<class></class>
+<class> 甲乙                           </class>
 <group></group>
 <name> 資訊專題（一） </name>
 <teacher> 高宏宇  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 請於開學後二星期內於系網頁下載並繳交指導專題同意書 </note>
 </F7>
 
 <F7 id="115">
@@ -465,13 +463,11 @@
 <name> 程式設計基石 </name>
 <teacher> 莊坤達  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 資訊新館                      65405 </place>
+<note> 7/9~7/20,星期一~五,2~4節及5~7節 </note>
 </F7>
 
 <F7 id="163">
@@ -481,13 +477,11 @@
 <name> 電腦科學基石 </name>
 <teacher> 莊坤達  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 資訊新館                      65405 </place>
+<note> 7/24~8/16,星期二~四,2~4節及5~6節 </note>
 </F7>
 
 <F7 id="164">
@@ -497,13 +491,11 @@
 <name> 跨領域專案實作開發（上） </name>
 <teacher> 蘇文鈺  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 資訊新館                      65304 </place>
+<note> 8/27~9/7,星期一~五,2~4節及5~7節 </note>
 </F7>
 
 <F7 id="165">
@@ -527,13 +519,11 @@
 <name> 資訊科技合作教學與協同學習 </name>
 <teacher> 蘇文鈺  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 資訊新館                      65304 </place>
+<note> 7/28~8/26, 星期六~日, 2~4節及5~7節 </note>
 </F7>
 
 </content>

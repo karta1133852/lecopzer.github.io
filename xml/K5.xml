@@ -156,34 +156,30 @@
 
 <K5 id="012">
 <num>K5-012</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 繪本理論與實務（一） </name>
 <teacher> 吳玫瑛  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 台文系館                      88102 </place>
+<note> 密集授課，上課時間：9/7(五)-9/9(日) 9:00-12:00 及 14:00-17:00 </note>
 </K5>
 
 <K5 id="013">
 <num>K5-013</num>
-<class></class>
+<class> 碩                             </class>
 <group></group>
 <name> 繪本理論與實務（二） </name>
 <teacher> 吳玫瑛  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 台文系館                      88102 </place>
+<note> 密集授課，上課時間：10/6、10/13、10/20  9:00-12:00 及 14:00-17:00 </note>
 </K5>
 
 <K5 id="014">
@@ -244,34 +240,30 @@
 
 <K5 id="303">
 <num>K5-303</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 繪本理論與實務（一） </name>
 <teacher> 吳玫瑛  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 台文系館                      88102 </place>
+<note> 密集授課，上課時間：9/7(五)-9/9(日) 9:00-12:00 及 14:00-17:00 </note>
 </K5>
 
 <K5 id="304">
 <num>K5-304</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 繪本理論與實務（二） </name>
 <teacher> 吳玫瑛  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 台文系館                      88102 </place>
+<note> 密集授課，上課時間：10/6、10/13、10/20  9:00-12:00 及 14:00-17:00 </note>
 </K5>
 
 </content>

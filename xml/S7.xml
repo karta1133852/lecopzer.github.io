@@ -310,34 +310,30 @@
 
 <S7 id="104">
 <num>S7-104</num>
-<class></class>
+<class> 博一二                         </class>
 <group></group>
 <name> 教學實習（一） </name>
 <teacher> 郭浩然   ,  王應然   ,  張志欽*  ,  蘇慧貞   ,  李俊璋   ,  劉明毅   ,  蔡朋枝   ,  林明彥   ,  吳致杰  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 擔任課程助教 </note>
 </S7>
 
 <S7 id="105">
 <num>S7-105</num>
-<class></class>
+<class> 博一二                         </class>
 <group></group>
 <name> 教學實習（三） </name>
 <teacher> 郭浩然   ,  王應然   ,  張志欽*  ,  蘇慧貞   ,  李俊璋   ,  劉明毅   ,  蔡朋枝   ,  林明彥   ,  吳致杰  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 擔任課程助教 </note>
 </S7>
 
 <S7 id="106">

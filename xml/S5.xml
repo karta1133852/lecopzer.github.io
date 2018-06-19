@@ -5,7 +5,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 生物醫學研究入門 </name>
-<teacher> 賴明德   ,  許桂森   ,  王憶卿   ,  湯銘哲   ,  任卓穎   ,  張雅雯   ,  楊倍昌   ,  孫孝芳   ,  郭余民  </teacher>
+<teacher> 賴明德   ,  許桂森*  ,  王憶卿   ,  湯銘哲   ,  任卓穎   ,  張雅雯   ,  楊倍昌   ,  孫孝芳   ,  郭余民  </teacher>
 <score> 1 </score>
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 陳呈堯   ,  張文粲   ,  陳昌熙   ,  王淑鶯   ,  黃一修   ,  余佳益   ,  鄭宏祺   ,  呂佩融   ,  鄧景浩   ,  張南山   ,  吳佳慶   ,  王仰高  </teacher>
+<teacher> 陳呈堯   ,  張文粲   ,  陳昌熙*  ,  王淑鶯   ,  黃一修   ,  余佳益   ,  鄭宏祺   ,  呂佩融   ,  鄧景浩   ,  張南山   ,  吳佳慶   ,  王仰高  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
@@ -33,7 +33,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 分子生物學特論 </name>
-<teacher> 張權發   ,  張文粲   ,  陳昌熙   ,  黃柏憲   ,  余建泓   ,  楊尚訓   ,  顏賢章   ,  王淑鶯   ,  吳佳慶   ,  王仰高  </teacher>
+<teacher> 張權發   ,  張文粲   ,  陳昌熙*  ,  黃柏憲   ,  余建泓   ,  楊尚訓   ,  顏賢章   ,  王淑鶯   ,  吳佳慶   ,  王仰高  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
@@ -103,7 +103,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 免疫學特論 </name>
-<teacher> 王育民   ,  楊孔嘉   ,  蔡佩珍   ,  徐麗君   ,  王志堯   ,  王崇任   ,  王世敏   ,  楊倍昌   ,  林以行   ,  張　堯   ,  張志鵬   ,  余佳益  </teacher>
+<teacher> 王育民   ,  楊孔嘉   ,  蔡佩珍   ,  徐麗君   ,  王志堯   ,  王崇任   ,  王世敏   ,  楊倍昌   ,  林以行   ,  張　堯   ,  張志鵬*  ,  余佳益  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
@@ -117,7 +117,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 細胞生物學特論（一） </name>
-<teacher> 陳昌熙   ,  王憶卿   ,  姜學誠   ,  郭余民  </teacher>
+<teacher> 陳昌熙   ,  王憶卿*  ,  姜學誠   ,  郭余民  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
@@ -145,7 +145,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 研究倫理 </name>
-<teacher> 羅玉枝   ,  黃美智   ,  徐麗君   ,  張雅雯   ,  劉校生   ,  楊倍昌   ,  王淑鶯   ,  黃一修   ,  彭貴春   ,  陳振暐   ,  蔡曜聲   ,  吳尚蓉  </teacher>
+<teacher> 羅玉枝   ,  黃美智   ,  徐麗君   ,  張雅雯   ,  劉校生   ,  楊倍昌   ,  王淑鶯   ,  黃一修   ,  彭貴春*  ,  陳振暐   ,  蔡曜聲   ,  吳尚蓉  </teacher>
 <score> 1 </score>
 <time day1="4" s1="6" e1="6"> [4]6  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 癌症轉移文獻探討 </name>
-<teacher> 曾堯麟   ,  黃柏憲   ,  鄭宏祺   ,  吳梨華  </teacher>
+<teacher> 曾堯麟   ,  黃柏憲   ,  鄭宏祺*  ,  吳梨華  </teacher>
 <score> 2 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
@@ -184,18 +184,30 @@
 
 <S5 id="119">
 <num>S5-119</num>
-<class></class>
+<class> 博三延                         </class>
 <group></group>
 <name> 教學實習（二） </name>
-<teacher> 許桂森  </teacher>
+<teacher> 許桂森* </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限博三以上研究生選課 </note>
+</S5>
+
+<S5 id="131">
+<num>S5-131</num>
+<class> 博                             </class>
+<group></group>
+<name> 神經科學特論 </name>
+<teacher> 曾淑芬   ,  何盧勳   ,  陳柏熹   ,  許桂森   ,  簡伯武   ,  姜學誠   ,  蕭雅心   ,  莊季瑛   ,  黃阿敏   ,  楊尚訓*  ,  陳珮君   ,  張雅雯   ,  游一龍   ,  蔡坤哲   ,  郭余民   ,  許鍾瑜  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note></note>
 </S5>
 
 <S5 id="132">
@@ -203,7 +215,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 藥物發展實習（一） </name>
-<teacher> 周辰熹  </teacher>
+<teacher> 周辰熹* </teacher>
 <score> 1 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
@@ -217,7 +229,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等生物技術 </name>
-<teacher> 劉宗霖   ,  曾大千   ,  張權發   ,  張文粲   ,  陳昌熙   ,  黃柏憲   ,  余建泓   ,  楊尚訓   ,  王淑鶯   ,  鄭宏祺   ,  王憲威   ,  王家義   ,  王仰高  </teacher>
+<teacher> 劉宗霖   ,  曾大千   ,  張權發   ,  張文粲*  ,  陳昌熙   ,  黃柏憲   ,  余建泓   ,  楊尚訓   ,  王淑鶯   ,  鄭宏祺   ,  王憲威   ,  王家義   ,  王仰高  </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
@@ -231,7 +243,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 感染症學 </name>
-<teacher> 黃溫雅   ,  蔡佩珍   ,  王世敏   ,  林以行   ,  張　堯   ,  陳振暐   ,  鄧景浩  </teacher>
+<teacher> 黃溫雅   ,  蔡佩珍   ,  王世敏   ,  林以行*  ,  張　堯   ,  陳振暐   ,  鄧景浩  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
@@ -245,7 +257,7 @@
 <class> 博一                           </class>
 <group> 1 </group>
 <name> 專題討論（一） </name>
-<teacher> 張雅雯   ,  張志鵬  </teacher>
+<teacher> 張權發*  ,  陳昌熙* </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="7"> [2]7  </time>
 <must> 必修 </must>
@@ -259,7 +271,7 @@
 <class> 博二                           </class>
 <group> 1 </group>
 <name> 專題討論（三） </name>
-<teacher> 張雅雯   ,  張志鵬  </teacher>
+<teacher> 張權發*  ,  陳昌熙* </teacher>
 <score> 1 </score>
 <time day1="2" s1="8" e1="8"> [2]8  </time>
 <must> 必修 </must>
@@ -273,7 +285,7 @@
 <class> 博三延                         </class>
 <group> 1 </group>
 <name> 專題討論 </name>
-<teacher> 張雅雯   ,  張志鵬  </teacher>
+<teacher> 張權發*  ,  陳昌熙* </teacher>
 <score> 0 </score>
 <time day1="2" s1="9" e1="9"> [2]9  </time>
 <must> 必修 </must>
@@ -287,7 +299,7 @@
 <class> 博一                           </class>
 <group> 2 </group>
 <name> 專題討論（一） </name>
-<teacher> 姜學誠   ,  王家義  </teacher>
+<teacher> 張雅雯*  ,  王家義* </teacher>
 <score> 1 </score>
 <time day1="5" s1="7" e1="7"> [5]7  </time>
 <must> 必修 </must>
@@ -301,7 +313,7 @@
 <class> 博二                           </class>
 <group> 2 </group>
 <name> 專題討論（三） </name>
-<teacher> 姜學誠   ,  王家義  </teacher>
+<teacher> 張雅雯*  ,  王家義* </teacher>
 <score> 1 </score>
 <time day1="5" s1="8" e1="8"> [5]8  </time>
 <must> 必修 </must>
@@ -315,7 +327,7 @@
 <class> 博三延                         </class>
 <group> 2 </group>
 <name> 專題討論 </name>
-<teacher> 姜學誠   ,  王家義  </teacher>
+<teacher> 張雅雯*  ,  王家義* </teacher>
 <score> 0 </score>
 <time day1="5" s1="9" e1="9"> [5]9  </time>
 <must> 必修 </must>
@@ -380,20 +392,32 @@
 <note> 基醫所、藥理所合班 </note>
 </S5>
 
+<S5 id="168">
+<num>S5-168</num>
+<class> 博                             </class>
+<group></group>
+<name> 實驗動物學 </name>
+<teacher> 蔡佩珍   ,  蔡曜聲* </teacher>
+<score> 2 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</S5>
+
 <S5 id="169">
 <num>S5-169</num>
-<class></class>
+<class> 博三延                         </class>
 <group></group>
 <name> 教學實習（四） </name>
 <teacher> 許桂森  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限博三以上研究生選課 </note>
 </S5>
 
 <S5 id="170">

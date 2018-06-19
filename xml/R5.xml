@@ -100,18 +100,16 @@
 
 <R5 id="032">
 <num>R5-032</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 林東盈  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note> 碩博延畢生必修 </note>
 </R5>
 
 <R5 id="034">
@@ -368,66 +366,58 @@
 
 <R5 id="306">
 <num>R5-306</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（一） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限碩專班已修畢學分者選修 </note>
 </R5>
 
 <R5 id="307">
 <num>R5-307</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（三） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </R5>
 
 <R5 id="308">
 <num>R5-308</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（五） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </R5>
 
 <R5 id="309">
 <num>R5-309</num>
-<class></class>
+<class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（七） </name>
 <teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </R5>
 
 <R5 id="310">

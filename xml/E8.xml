@@ -7,13 +7,11 @@
 <name> 服務學習（一） </name>
 <teacher> 蕭士俊  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 水利系館                      4620 </place>
+<note></note>
 </E8>
 
 <E8 id="005">
@@ -193,13 +191,11 @@
 <name> 材料力學 </name>
 <teacher> 羅偉誠  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 水利系館                      4622 </place>
+<note></note>
 </E8>
 
 <E8 id="059">
@@ -514,6 +510,34 @@
 <teacher> 張駿暉  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4627 </place>
+<note></note>
+</E8>
+
+<E8 id="159">
+<num>E8-159</num>
+<class></class>
+<group></group>
+<name> 氣候變遷衝擊與調適 </name>
+<teacher> 游保杉  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4627 </place>
+<note></note>
+</E8>
+
+<E8 id="160">
+<num>E8-160</num>
+<class></class>
+<group></group>
+<name> 水工模型試驗 </name>
+<teacher> 楊瑞源  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>

@@ -933,7 +933,7 @@
 <class> 乙                             </class>
 <group> A </group>
 <name> 機械工程實驗（二） </name>
-<teacher> 吳馬丁  </teacher>
+<teacher> 李永春  </teacher>
 <score> 1 </score>
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
@@ -1037,7 +1037,7 @@
 <class> 丙                             </class>
 <group> B </group>
 <name> 機械工程實驗（二） </name>
-<teacher> 李永春  </teacher>
+<teacher> 吳馬丁  </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="7"> [2]5~7  </time>
 <must> 必修 </must>
@@ -1120,6 +1120,20 @@
 <type> 講義 </type>
 <place> 機械系館                      91204 </place>
 <note> 本課程涉及實作，考量設備之數量限制，僅可供應20位名額(大三優先)，將於選課第一階段結束後依照選課順序公布修課名單。 </note>
+</E1>
+
+<E1 id="144">
+<num>E1-144</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 第三次工業革命之工程專業技能 </name>
+<teacher> 吳馬丁  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      象賢講堂 </place>
+<note> 英語授課 </note>
 </E1>
 
 <E1 id="145">
@@ -1214,18 +1228,16 @@
 
 <E1 id="163">
 <num>E1-163</num>
-<class></class>
+<class> 甲乙丙                         </class>
 <group></group>
 <name> 論文（一） </name>
 <teacher> 未定  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 自行找教授簽"指導教授確認單"(系網下載)於當學期第三階段選課前繳至系辦 </note>
 </E1>
 
 <E1 id="164">

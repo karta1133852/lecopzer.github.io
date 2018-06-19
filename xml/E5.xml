@@ -548,18 +548,16 @@
 
 <E5 id="130">
 <num>E5-130</num>
-<class></class>
+<class> 甲乙                           </class>
 <group></group>
 <name> 論文（一） </name>
 <teacher> 未定  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </E5>
 
 <E5 id="155">

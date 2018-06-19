@@ -44,18 +44,16 @@
 
 <R9 id="020">
 <num>R9-020</num>
-<class></class>
+<class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 陳文字  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </R9>
 
 <R9 id="022">
@@ -74,18 +72,16 @@
 
 <R9 id="025">
 <num>R9-025</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
 <name> 校外實習 </name>
 <teacher> 李威勳  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </R9>
 
 <R9 id="026">

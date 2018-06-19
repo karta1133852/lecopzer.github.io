@@ -167,13 +167,11 @@
 <name> 藥物化學專題研究（一） </name>
 <teacher> 洪欣儀* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I8>
 
 <I8 id="063">
@@ -183,13 +181,11 @@
 <name> 醫學論文研究 </name>
 <teacher> 歐凰姿   ,  張惠華  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑期實習課程，不排教室及時段。 </note>
 </I8>
 
 <I8 id="065">
@@ -290,7 +286,7 @@
 <note></note>
 </I8>
 
-<I8 id="114">
+<I8 id="151">
 <num>I8-114</num>
 <class></class>
 <group></group>
@@ -304,24 +300,10 @@
 <note> 醫技、藥學合班 </note>
 <class1></class1>
 <group1></group1>
-<name1> 微生物學（含實驗） </name1>
-<time1 day1="3" s1="2" e1="4"> [3]2~4  </time1>
-<place1> 醫技醫工館                    5761 </place1>
-<note1> 4F Lab </note1>
-</I8>
-
-<I8 id="151">
-<num>I8-151</num>
-<class></class>
-<group></group>
-<name> 藥物治療學（一） </name>
-<teacher> 賴嘉鎮*  ,  高雅慧   ,  王明誠   ,  鄭靜蘭   ,  歐凰姿  </teacher>
-<score> 4 </score>
-<time day1="2" s1="3" e1="4" day2="5" s2="3" e2="4"> [2]3~4  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        602 </place>
-<note></note>
+<name1> 藥物治療學（一） </name1>
+<time1 day1="2" s1="3" e1="4" day2="5" s2="3" e2="4"> [2]3~4  ,  [5]3~4  </time1>
+<place1> 醫學院                        602 </place1>
+<note1></note1>
 </I8>
 
 <I8 id="152">

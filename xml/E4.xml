@@ -156,7 +156,7 @@
 <note></note>
 </E4>
 
-<E4 id="051">
+<E4 id="053">
 <num>E4-051</num>
 <class></class>
 <group></group>
@@ -170,24 +170,10 @@
 <note> 資訊大樓 </note>
 <class1></class1>
 <group1></group1>
-<name1> 計算機應用 </name1>
-<time1 day1="4" s1="7" e1="8"> [4]7~8  </time1>
-<place1> 資訊大樓                      75209 </place1>
-<note1> 資訊大樓 </note1>
-</E4>
-
-<E4 id="053">
-<num>E4-053</num>
-<class></class>
-<group></group>
-<name> 工程數學（一） </name>
-<teacher> 王建力  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 資源系館                      4354 </place>
-<note></note>
+<name1> 工程數學（一） </name1>
+<time1 day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time1>
+<place1> 資源系館                      4354 </place1>
+<note1></note1>
 </E4>
 
 <E4 id="055">

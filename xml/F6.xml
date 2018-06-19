@@ -338,26 +338,38 @@
 <note></note>
 </F6>
 
-<F6 id="153">
+<F6 id="151">
 <num>F6-151</num>
 <class></class>
 <group></group>
 <name> 測量總實習 </name>
 <teacher> 洪榮宏   ,  王驥魁   ,  景國恩* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 已利用暑假一個月總實習 </note>
 <class1></class1>
 <group1></group1>
-<name1> 變形監測 </name1>
-<time1 day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time1>
-<place1> 測量系副館                    55180 </place1>
+<name1> 測量總實習 </name1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
+<place1></place1>
 <note1></note1>
+</F6>
+
+<F6 id="153">
+<num>F6-153</num>
+<class></class>
+<group></group>
+<name> 變形監測 </name>
+<teacher> 曾宏正  </teacher>
+<score> 3 </score>
+<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 測量系副館                    55180 </place>
+<note></note>
 </F6>
 
 <F6 id="154">
@@ -409,13 +421,11 @@
 <name> 專題研究（二） </name>
 <teacher> 洪榮宏   ,  楊　名   ,  尤瑞哲   ,  江凱偉   ,  林昭宏   ,  王驥魁   ,  郭重言   ,  曾義星   ,  饒見有   ,  景國恩   ,  呂學展   ,  郭佩棻* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </F6>
 
 </content>

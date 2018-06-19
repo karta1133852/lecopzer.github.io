@@ -217,13 +217,11 @@
 <name> 論文（一） </name>
 <teacher> 翁嘉聲  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 由本系教師指導，並取得指導教授同意 </note>
 </B3>
 
 <B3 id="106">
@@ -359,13 +357,11 @@
 <name> 府食街市 </name>
 <teacher> 陳文松  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="4" s1="4.5" e1="6"> [4]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 歷史系館                      25236 </place>
+<note> 台、中、世 </note>
 </B3>
 
 <B3 id="122">
@@ -417,13 +413,11 @@
 <name> 史學專題講座 </name>
 <teacher> 翁嘉聲  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 未聽滿十場次者，請先辦理棄選。 </note>
 </B3>
 
 <B3 id="166">
@@ -447,7 +441,7 @@
 <name> 人與動物關係史 </name>
 <teacher> 李鑑慧  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 歷史系館                      25130 </place>

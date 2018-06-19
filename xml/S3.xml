@@ -42,7 +42,7 @@
 <note> 僅供碩三以上選修 </note>
 </S3>
 
-<S3 id="004">
+<S3 id="006">
 <num>S3-004</num>
 <class> 碩一                           </class>
 <group></group>
@@ -54,26 +54,12 @@
 <type> 講義 </type>
 <place> 醫學院                        0724 </place>
 <note> 限本所學生選，外系所需經本所同意    中英文教學 </note>
-<class1></class1>
+<class1> 碩一                           </class1>
 <group1></group1>
-<name1> 高等生理學 </name1>
-<time1 day1="1" s1="2" e1="4"> [1]2~4  </time1>
-<place1> 醫學院                        0301 </place1>
-<note1> 上課：三樓學生實驗室 </note1>
-</S3>
-
-<S3 id="006">
-<num>S3-006</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 研究方法導論 </name>
-<teacher> 湯銘哲   ,  蔡少正   ,  楊尚訓   ,  張雅雯* </teacher>
-<score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        0711 </place>
-<note> 中英文教學 </note>
+<name1> 研究方法導論 </name1>
+<time1 day1="5" s1="3" e1="4"> [5]3~4  </time1>
+<place1> 醫學院                        0711 </place1>
+<note1> 中英文教學 </note1>
 </S3>
 
 <S3 id="007">

@@ -215,13 +215,11 @@
 <name> 校外實習（二） </name>
 <teacher> 呂宗行  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 航太系與能源學程合開。至少須完成本系同意之校外實習至少二個月。 </note>
 </F0>
 
 <F0 id="106">
@@ -231,13 +229,11 @@
 <name> 校外實習（一） </name>
 <teacher> 賴維祥  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 航太系與能源學程合開。 </note>
 </F0>
 
 <F0 id="107">
@@ -289,13 +285,11 @@
 <name> 專題論文（二） </name>
 <teacher> 呂宗行   ,  張克勤   ,  楊世銘   ,  陳維新   ,  李約亨*  ,  賴維祥  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note> 欲修課請於系網下載論文登記表，並於9/26前繳至辦公室 </note>
 </F0>
 
 <F0 id="155">

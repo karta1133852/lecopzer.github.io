@@ -22,7 +22,7 @@
 <teacher> 洪綾君  </teacher>
 <score> 3 </score>
 <time day1="2" s1="5" e1="7"> [2]5~7  </time>
-<must> 選修 </must>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    六樓研討室A </place>
 <note></note>
@@ -53,7 +53,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-經濟 </place>
-<note> 經濟系: 經濟分析工具領域。     政治學系碩士班：一、「政經理論與方法」領域課程。。二、與經濟系大碩合開。 </note>
+<note> 一、經濟系: 大學部經濟分析工具領域二、政治系碩士班：1.「政經理論與方法」領域課程2.與經濟系大碩合開三、碩班選課請洽系辦 </note>
 </U1>
 
 <U1 id="005">
@@ -147,7 +147,7 @@
 <name> 亞洲安全：理論與政策 </name>
 <teacher> 王宏仁  </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    階梯教室-政治 </place>
@@ -170,7 +170,7 @@
 
 <U1 id="301">
 <num>U1-301</num>
-<class> 碩專                           </class>
+<class> 碩專一                         </class>
 <group></group>
 <name> 政治經濟學 </name>
 <teacher> 宋鎮照  </teacher>

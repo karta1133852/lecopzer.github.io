@@ -33,7 +33,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習（一） </name>
-<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
+<teacher> 龔俊嘉   ,  蕭富仁*  ,  楊政達   ,  周麗芳   ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
 <score> 0 </score>
 <time day1="5" s1="7" e1="7"> [5]7  </time>
 <must> 選修 </must>
@@ -67,7 +67,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
-<note> 選課前須先email授課老師取得同意。開放大學部高年級選修，過過人數後不再加簽 </note>
+<note> 選課前須先email授課老師取得同意。開放大學部高年級選修，過人數後不再加簽 </note>
 </U7>
 
 <U7 id="007">
@@ -180,20 +180,6 @@
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
 <note> 建議先修過心理學概論、認知心理學。此為磨課師翻轉教室課程。 </note>
-</U7>
-
-<U7 id="021">
-<num>U7-021</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 實驗設計 </name>
-<teacher> 楊政達  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80204 </place>
-<note> 甲組必選(英文授課) </note>
 </U7>
 
 </content>

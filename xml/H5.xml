@@ -443,13 +443,11 @@
 <name> 校外實習（一） </name>
 <teacher> 戴佐敏*  ,  胡守任   ,  鄭永祥   ,  陳勁甫   ,  李威勳   ,  黃郁雯   ,  林佐鼎  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 選課須經本系審核通過 </note>
 </H5>
 
 <H5 id="166">
@@ -459,13 +457,11 @@
 <name> 專題研究（二） </name>
 <teacher> 戴佐敏   ,  林正章   ,  廖俊雄   ,  鄭永祥   ,  胡大瀛   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  蔡東峻  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 選課需經本系登記審核通過. </note>
 </H5>
 
 <H5 id="169">

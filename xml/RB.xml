@@ -66,8 +66,8 @@
 <time day1="2" s1="3" e1="4" day2="3" s2="4.5" e2="4.5"> [2]3~4  ,  [3]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 中正堂                        中正堂視聽室 </place>
-<note> 運動科技產業領域【核心專業】課程 </note>
+<place></place>
+<note> 運動科技產業領域【核心專業】課程。上課地點：中正堂貴賓室 </note>
 </RB>
 
 <RB id="006">
@@ -77,13 +77,11 @@
 <name> 健身運動器材功能設計 </name>
 <teacher> 邱宏達  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 運動科技產業領域【專業選修】課程、健康管理領域【專業選修】課程 </note>
 </RB>
 
 <RB id="007">
@@ -93,13 +91,11 @@
 <name> 運動與休閒行銷學 </name>
 <teacher> 黃賢哲   ,  馬上鈞* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 休閒管理領域【專業選修】課程 </note>
 </RB>
 
 <RB id="008">
@@ -123,13 +119,11 @@
 <name> 教育統計與電腦應用 </name>
 <teacher> 馬上鈞*  ,  王駿濠  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 共同必修；限碩專選修 </note>
 </RB>
 
 <RB id="314">
@@ -139,13 +133,11 @@
 <name> 專題討論（一） </name>
 <teacher> 王駿濠  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="6" s1="1" e1="1"> [6]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 共同必修（ 碩專一、二合班）；限碩專選修 </note>
 </RB>
 
 <RB id="315">
@@ -155,13 +147,11 @@
 <name> 專題討論（三） </name>
 <teacher> 王駿濠  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="6" s1="1" e1="1"> [6]1  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 共同必修（ 碩專一、二合班）；限碩專選修 </note>
 </RB>
 
 <RB id="316">
@@ -171,13 +161,11 @@
 <name> 健康促進管理 </name>
 <teacher> 黃滄海   ,  蔡佳良*  ,  林欣仕  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="6" s1="5" e1="7"> [6]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 核心專業課程；限碩專選修 </note>
 </RB>
 
 <RB id="317">
@@ -187,13 +175,11 @@
 <name> 活躍老化健康產業專題討論 </name>
 <teacher> 林麗娟  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 選修課程；限碩專選修 </note>
 </RB>
 
 <RB id="318">
@@ -203,13 +189,11 @@
 <name> 碩士論文（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="7" s1="5" e1="6"> [7]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 必修課程：限碩二以上修習；限碩專選修 </note>
 </RB>
 
 <RB id="319">
@@ -219,13 +203,11 @@
 <name> 專題討論 </name>
 <teacher> 王駿濠  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="6" s1="1" e1="1"> [6]1  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place></place>
-<note> 
- </note>
+<place> 中正堂                        中正堂視聽室 </place>
+<note> 限碩三以上修，並修滿規定34學分以上修習；限碩專選修 </note>
 </RB>
 
 </content>

@@ -108,7 +108,7 @@
 <note></note>
 </F5>
 
-<F5 id="020">
+<F5 id="021">
 <num>F5-020</num>
 <class></class>
 <group></group>
@@ -121,28 +121,14 @@
 <place> 環工系館                      47112 </place>
 <note></note>
 <class1></class1>
-<group1> A </group1>
-<name1> 工程圖學 </name1>
-<time1 day1="3" s1="4.5" e1="5"> [3]N~5  </time1>
-<place1> 資訊大樓                      75301 </place1>
-<note1> 計網中心電腦教室 </note1>
+<group1></group1>
+<name1> 生物學 </name1>
+<time1 day1="5" s1="2" e1="4"> [5]2~4  </time1>
+<place1> 環工系館                      47114 </place1>
+<note1> 組課程必選修 </note1>
 </F5>
 
-<F5 id="021">
-<num>F5-021</num>
-<class></class>
-<group></group>
-<name> 生物學 </name>
-<teacher> 曾淑芬   ,  李純純*  ,  林鼎晏  </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 必選 </must>
-<type> 講義 </type>
-<place> 環工系館                      47114 </place>
-<note> 組課程必選修 </note>
-</F5>
-
-<F5 id="022">
+<F5 id="054">
 <num>F5-022</num>
 <class></class>
 <group></group>
@@ -155,25 +141,11 @@
 <place> 環工系館                      47112 </place>
 <note></note>
 <class1></class1>
-<group1> B </group1>
-<name1> 工程圖學 </name1>
-<time1 day1="3" s1="9" e1="10"> [3]9~A  </time1>
-<place1> 資訊大樓                      75301 </place1>
-<note1> 計網中心電腦教室 </note1>
-</F5>
-
-<F5 id="054">
-<num>F5-054</num>
-<class></class>
-<group></group>
-<name> 工程數學（一） </name>
-<teacher> 吳義林* </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 環工系館                      47110 </place>
-<note></note>
+<group1></group1>
+<name1> 工程數學（一） </name1>
+<time1 day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time1>
+<place1> 環工系館                      47110 </place1>
+<note1></note1>
 </F5>
 
 <F5 id="055">
@@ -419,13 +391,11 @@
 <name> 論文（二） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </F5>
 
 <F5 id="173">

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<C2 id="007">
+<C2 id="008">
 <num>C2-007</num>
 <class></class>
 <group></group>
@@ -13,43 +13,11 @@
 <place> 理化大樓                      格致廳小講堂 </place>
 <note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
 <class1></class1>
-<group1> A </group1>
-<name1> 微積分（一） </name1>
-<time1 day1="3" s1="5" e1="5"> [3]5  </time1>
-<place1> 物理二館                      49312 </place1>
-<note1> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note1>
-<class2></class2>
-<group2> B </group2>
-<name2> 微積分（一） </name2>
-<time2 day1="3" s1="5" e1="5"> [3]5  </time2>
-<place2> 物理二館                      49324 </place2>
-<note2></note2>
-<class3></class3>
-<group3> C </group3>
-<name3> 微積分（一） </name3>
-<time3 day1="3" s1="5" e1="5"> [3]5  </time3>
-<place3> 綜合大樓                      48217 </place3>
-<note3></note3>
-<class4></class4>
-<group4> D </group4>
-<name4> 微積分（一） </name4>
-<time4 day1="3" s1="5" e1="5"> [3]5  </time4>
-<place4> 綜合大樓                      48218 </place4>
-<note4></note4>
-</C2>
-
-<C2 id="008">
-<num>C2-008</num>
-<class></class>
-<group></group>
-<name> 普通物理學實驗（一） </name>
-<teacher> 羅光耀  </teacher>
-<score> 1 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 理化大樓二樓 </note>
+<group1></group1>
+<name1> 普通物理學實驗（一） </name1>
+<time1 day1="4" s1="5" e1="7"> [4]5~7  </time1>
+<place1></place1>
+<note1> 理化大樓二樓 </note1>
 </C2>
 
 <C2 id="009">
@@ -185,13 +153,11 @@
 <name> 服務學習（三） </name>
 <teacher> 陳岳男  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 物理二館                      49101 </place>
+<note> 上課時間(五)ABC </note>
 </C2>
 
 <C2 id="060">
@@ -383,13 +349,11 @@
 <name> 專題（一） </name>
 <teacher> 梁永成  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 物理二館                      49101 </place>
+<note> 時間(二)N(四)N；教室:物理二館49101 </note>
 </C2>
 
 </content>

@@ -21,13 +21,11 @@
 <name> 服務學習（一） </name>
 <teacher> 賴明德  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </AN>
 
 <AN id="051">
@@ -65,13 +63,11 @@
 <name> 簡報製作與表達技巧 </name>
 <teacher> 辛致煒* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 耐震大樓(建築研究大樓旁)      5117 </place>
+<note> 密集課程(9/3上午9點-下午4點、9/4下午1點到4點、9/5上午9點-下午4點、9/7上午9點到12點) </note>
 </AN>
 
 <AN id="055">
@@ -81,13 +77,11 @@
 <name> STEAM跨領域探究學習實作 </name>
 <teacher> 舒宇宸* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 密集授課，上課時間為8/1-8/11 </note>
 </AN>
 
 </content>

@@ -16,34 +16,30 @@
 
 <TA id="002">
 <num>TA-002</num>
-<class></class>
+<class> 博一                           </class>
 <group></group>
 <name> 獨立研究（一） </name>
 <teacher> 成戎珠* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </TA>
 
 <TA id="003">
 <num>TA-003</num>
-<class></class>
+<class> 博二                           </class>
 <group></group>
 <name> 獨立研究（三） </name>
 <teacher> 成戎珠* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </TA>
 
 <TA id="004">
@@ -79,7 +75,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 臨床研究設計（一） </name>
-<teacher> 成戎珠* </teacher>
+<teacher> 徐畢卿   ,  成戎珠* </teacher>
 <score> 2 </score>
 <time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
@@ -104,18 +100,16 @@
 
 <TA id="008">
 <num>TA-008</num>
-<class></class>
+<class> 博三延                         </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 徐畢卿   ,  成戎珠   ,  洪菁霞   ,  張哲豪   ,  馬慧英  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </TA>
 
 <TA id="009">

@@ -328,6 +328,20 @@
 <note></note>
 </F3>
 
+<F3 id="110">
+<num>F3-110</num>
+<class></class>
+<group></group>
+<name> 設計管理 </name>
+<teacher> 林雅惠  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5204A </place>
+<note></note>
+</F3>
+
 <F3 id="116">
 <num>F3-116</num>
 <class></class>
@@ -389,7 +403,7 @@
 <class></class>
 <group></group>
 <name> 考古與設計 </name>
-<teacher> 陳璽任   ,  鍾國風  </teacher>
+<teacher> 陳璽任*  ,  鍾國風* </teacher>
 <score> 3 </score>
 <time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
@@ -433,7 +447,7 @@
 <name> 產品企劃 </name>
 <teacher> 陳中聖  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 無                            53313 </place>
@@ -445,7 +459,7 @@
 <class></class>
 <group></group>
 <name> 專題設計（一） </name>
-<teacher> 蕭世文   ,  周君瑞   ,  吳豐光  </teacher>
+<teacher> 謝孟達*  ,  周君瑞* </teacher>
 <score> 3 </score>
 <time day1="2" s1="5" e1="10"> [2]5~A  </time>
 <must> 必修 </must>
@@ -473,7 +487,7 @@
 <class></class>
 <group></group>
 <name> 專題設計（一） </name>
-<teacher> 何俊亨   ,  曾元琦  </teacher>
+<teacher> 陳建旭*  ,  何俊亨* </teacher>
 <score> 3 </score>
 <time day1="2" s1="5" e1="10"> [2]5~A  </time>
 <must> 必修 </must>
@@ -487,7 +501,7 @@
 <class></class>
 <group></group>
 <name> 專題設計（一） </name>
-<teacher> 謝孟達   ,  陳建旭  </teacher>
+<teacher> 馬敏元  </teacher>
 <score> 3 </score>
 <time day1="2" s1="5" e1="10"> [2]5~A  </time>
 <must> 必修 </must>

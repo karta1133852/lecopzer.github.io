@@ -86,18 +86,16 @@
 
 <S6 id="013">
 <num>S6-013</num>
-<class></class>
+<class> 碩二                           </class>
 <group></group>
 <name> 臨床實習（二） </name>
 <teacher> 高淑敏   ,  許美英   ,  林嘉音  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 醫院藥學組 </note>
 </S6>
 
 <S6 id="014">
@@ -200,18 +198,16 @@
 
 <S6 id="034">
 <num>S6-034</num>
-<class></class>
+<class> 碩一                           </class>
 <group></group>
 <name> 醫院藥事作業實習 </name>
 <teacher> 高淑敏   ,  許美英   ,  林嘉音  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 醫院實習 </note>
 </S6>
 
 <S6 id="038">

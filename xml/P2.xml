@@ -216,34 +216,30 @@
 
 <P2 id="015">
 <num>P2-015</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 海洋空間規劃專論 </name>
 <teacher> 葉如萍  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 都計系館                      50202 </place>
+<note> 於指定日期週五晚間密集授課，上課時間依課程大綱及公告辦理。 </note>
 </P2>
 
 <P2 id="016">
 <num>P2-016</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 研究方法：科學哲學 </name>
 <teacher> 林峰田  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 都計系館                      50202 </place>
+<note> 於指定日期週六/日密集授課，上課時間依課程大綱及公告辦理。 </note>
 </P2>
 
 <P2 id="017">

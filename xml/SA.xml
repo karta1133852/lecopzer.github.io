@@ -16,18 +16,16 @@
 
 <SA id="002">
 <num>SA-002</num>
-<class></class>
+<class> 博                             </class>
 <group></group>
 <name> 跨領域神經科學講座（一） </name>
 <teacher> 蔡坤哲* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 中研院簡正鼎老師負責地點中研院跨領域研究大樓一樓演講廳(限本學程學生修讀) </note>
 </SA>
 
 <SA id="003">
@@ -60,50 +58,44 @@
 
 <SA id="005">
 <num>SA-005</num>
-<class></class>
+<class> 博                             </class>
 <group></group>
 <name> 電生理技術 </name>
 <teacher> 呂佩融* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 中研院簡正鼎教授負責/教室-跨領域研究大樓B100(限本學程學生修讀),此課程上課時間為暑假, 地點中研院 </note>
 </SA>
 
 <SA id="006">
 <num>SA-006</num>
-<class></class>
+<class> 博                             </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 蔡坤哲* </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </SA>
 
 <SA id="007">
 <num>SA-007</num>
-<class></class>
+<class> 博                             </class>
 <group></group>
 <name> 實驗室輪習（一） </name>
 <teacher> 蔡坤哲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 中研院簡正鼎教授負責/教室-跨領域研究大樓B100(限本學程學生修讀) </note>
 </SA>
 
 </content>

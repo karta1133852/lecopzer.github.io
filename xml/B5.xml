@@ -231,13 +231,11 @@
 <name> 影音報導 </name>
 <teacher> 王右君  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 台文系館                      88135 </place>
+<note> 1. 密集授課，上課時間：9/29、10/6、10/13、10/20、10/27、11/3  9:00-12:00及13:00-16:00。 </note>
 <class1></class1>
 <group1></group1>
 <name1> 初級新聞台語專訪 </name1>
@@ -393,13 +391,11 @@
 <name> 布袋戲創意表演及劇本寫作 </name>
 <teacher> 蔣為文  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<place> 台文系館                      88136 </place>
+<note> 1.密集授課，上課時間：9/15起至11/10每週六9:10-12:00 及 14:10-17:00；2.學生須懂台語，修過台語課者優先。 </note>
 </B5>
 
 <B5 id="110">

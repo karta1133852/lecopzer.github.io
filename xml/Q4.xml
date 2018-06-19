@@ -2,18 +2,16 @@
 <content>
 <Q4 id="002">
 <num>Q4-002</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 民航實務 </name>
 <teacher> 王　宏  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑期實習(碩一升碩二研究生才可選修) </note>
 </Q4>
 
 <Q4 id="003">

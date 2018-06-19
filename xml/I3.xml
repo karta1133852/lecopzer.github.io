@@ -187,13 +187,11 @@
 <name> 專題研究實驗（二） </name>
 <teacher> 王貞仁* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="061">
@@ -272,7 +270,7 @@
 <note></note>
 </I3>
 
-<I3 id="105">
+<I3 id="108">
 <num>I3-105</num>
 <class></class>
 <group></group>
@@ -286,66 +284,50 @@
 <note> 醫技、藥學合班 </note>
 <class1></class1>
 <group1></group1>
-<name1> 微生物學（含實驗） </name1>
-<time1 day1="3" s1="2" e1="4"> [3]2~4  </time1>
-<place1> 醫技醫工館                    5761 </place1>
-<note1> 4F Lab </note1>
-</I3>
-
-<I3 id="106">
-<num>I3-106</num>
-<class></class>
-<group></group>
-<name> 血庫學（含實驗） </name>
-<teacher> 張權發  </teacher>
-<score> 2 </score>
-<time day1="2" s1="5" e1="5"> [2]5  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
-<note> 5761教室及5791實驗室 </note>
-<class1></class1>
-<group1></group1>
 <name1> 血庫學（含實驗） </name1>
-<time1 day1="2" s1="6" e1="8"> [2]6~8  </time1>
+<time1 day1="2" s1="5" e1="5"> [2]5  </time1>
 <place1> 醫技醫工館                    5761 </place1>
-<note1> 5791實驗室 </note1>
+<note1> 5761教室及5791實驗室 </note1>
+<class2></class2>
+<group2></group2>
+<name2> 分子生物學 </name2>
+<time2 day1="4" s1="3" e1="4"> [4]3~4  </time2>
+<place2> 醫技醫工館                    5761 </place2>
+<note2></note2>
 </I3>
 
-<I3 id="108">
-<num>I3-108</num>
-<class></class>
-<group></group>
-<name> 分子生物學 </name>
-<teacher> 楊孔嘉   ,  陳百昇  </teacher>
-<score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫技醫工館                    5761 </place>
-<note></note>
-</I3>
-
-<I3 id="110">
+<I3 id="109">
 <num>I3-109</num>
 <class></class>
 <group></group>
 <name> 屈光生理學及實習 </name>
 <teacher> 王貞仁  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑假上課 </note>
 <class1></class1>
 <group1></group1>
-<name1> 專題研究 </name1>
-<time1 day1="2" s1="3" e1="4"> [2]3~4  </time1>
-<place1> 醫技醫工館                    5776 </place1>
+<name1> 屈光生理學及實習 </name1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
+<place1></place1>
 <note1></note1>
+</I3>
+
+<I3 id="110">
+<num>I3-110</num>
+<class></class>
+<group></group>
+<name> 專題研究 </name>
+<teacher> 王貞仁*  ,  陳百昇  </teacher>
+<score> 1 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必選 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5776 </place>
+<note></note>
 </I3>
 
 <I3 id="111">
@@ -355,13 +337,11 @@
 <name> 暑期研究 </name>
 <teacher> 蔡佩珍* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限參與醫學院暑期研究者 </note>
 </I3>
 
 <I3 id="151">
@@ -371,13 +351,11 @@
 <name> 臨床生理學實習 </name>
 <teacher> 徐麗君* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 凡修實習課者，除論文及暑假課程外，不得選修其他課程 </note>
 </I3>
 
 <I3 id="152">
@@ -387,13 +365,11 @@
 <name> 臨床生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="153">
@@ -403,13 +379,11 @@
 <name> 臨床生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="154">
@@ -419,13 +393,11 @@
 <name> 臨床生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="155">
@@ -435,13 +407,11 @@
 <name> 臨床生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="156">
@@ -451,13 +421,11 @@
 <name> 臨床生化學實習 </name>
 <teacher> 謝淑珠  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="157">
@@ -467,13 +435,11 @@
 <name> 臨床生化學實習 </name>
 <teacher> 謝淑珠  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="158">
@@ -483,13 +449,11 @@
 <name> 臨床生化學實習 </name>
 <teacher> 黃暉升  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="159">
@@ -499,13 +463,11 @@
 <name> 臨床生化學實習 </name>
 <teacher> 黃暉升  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="160">
@@ -515,13 +477,11 @@
 <name> 臨床生化學實習 </name>
 <teacher> 林韋伶  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="161">
@@ -531,13 +491,11 @@
 <name> 臨床血液學實習 </name>
 <teacher> 楊孔嘉   ,  黃溫雅* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="162">
@@ -547,13 +505,11 @@
 <name> 臨床血液學實習 </name>
 <teacher> 楊孔嘉   ,  黃溫雅* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="163">
@@ -563,13 +519,11 @@
 <name> 臨床血液學實習 </name>
 <teacher> 楊孔嘉   ,  黃溫雅* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="164">
@@ -579,13 +533,11 @@
 <name> 臨床血液學實習 </name>
 <teacher> 楊孔嘉   ,  黃溫雅* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="165">
@@ -595,13 +547,11 @@
 <name> 臨床血液學實習 </name>
 <teacher> 楊孔嘉   ,  黃溫雅* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="166">
@@ -611,13 +561,11 @@
 <name> 臨床鏡檢學實習 </name>
 <teacher> 楊孔嘉   ,  陳百昇* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="167">
@@ -627,13 +575,11 @@
 <name> 臨床鏡檢學實習 </name>
 <teacher> 楊孔嘉   ,  陳百昇* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="168">
@@ -643,13 +589,11 @@
 <name> 臨床鏡檢學實習 </name>
 <teacher> 楊孔嘉   ,  陳百昇* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="169">
@@ -659,13 +603,11 @@
 <name> 臨床鏡檢學實習 </name>
 <teacher> 楊孔嘉   ,  陳百昇* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="170">
@@ -675,13 +617,11 @@
 <name> 臨床鏡檢學實習 </name>
 <teacher> 楊孔嘉   ,  陳百昇* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="171">
@@ -691,13 +631,11 @@
 <name> 血庫學實習 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="172">
@@ -707,13 +645,11 @@
 <name> 血庫學實習 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="173">
@@ -723,13 +659,11 @@
 <name> 血庫學實習 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="174">
@@ -739,13 +673,11 @@
 <name> 血庫學實習 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="175">
@@ -755,13 +687,11 @@
 <name> 血庫學實習 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="176">
@@ -771,13 +701,11 @@
 <name> 臨床微生物學實習 </name>
 <teacher> 蔡佩珍  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="177">
@@ -787,13 +715,11 @@
 <name> 臨床微生物學實習 </name>
 <teacher> 阮振維  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="178">
@@ -803,13 +729,11 @@
 <name> 臨床微生物學實習 </name>
 <teacher> 陳呈堯  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="179">
@@ -819,13 +743,11 @@
 <name> 臨床微生物學實習 </name>
 <teacher> 陳呈堯  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="180">
@@ -835,13 +757,11 @@
 <name> 臨床微生物學實習 </name>
 <teacher> 阮振維  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="181">
@@ -851,13 +771,11 @@
 <name> 臨床病毒學實習 </name>
 <teacher> 王貞仁*  ,  蔡慧頻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="182">
@@ -867,13 +785,11 @@
 <name> 臨床病毒學實習 </name>
 <teacher> 王貞仁*  ,  蔡慧頻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="183">
@@ -883,13 +799,11 @@
 <name> 臨床病毒學實習 </name>
 <teacher> 王貞仁*  ,  蔡慧頻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="184">
@@ -899,13 +813,11 @@
 <name> 臨床病毒學實習 </name>
 <teacher> 王貞仁*  ,  蔡慧頻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="185">
@@ -915,13 +827,11 @@
 <name> 臨床病毒學實習 </name>
 <teacher> 王貞仁*  ,  蔡慧頻  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="186">
@@ -931,13 +841,11 @@
 <name> 臨床血清免疫學實習 </name>
 <teacher> 葉才明  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="187">
@@ -947,13 +855,11 @@
 <name> 臨床血清免疫學實習 </name>
 <teacher> 葉才明  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="188">
@@ -963,13 +869,11 @@
 <name> 臨床血清免疫學實習 </name>
 <teacher> 葉才明  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="189">
@@ -979,13 +883,11 @@
 <name> 臨床血清免疫學實習 </name>
 <teacher> 葉才明  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="190">
@@ -995,13 +897,11 @@
 <name> 臨床血清免疫學實習 </name>
 <teacher> 葉才明  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="191">
@@ -1011,13 +911,11 @@
 <name> 病理切片與細胞診斷實習 </name>
 <teacher> 張孔昭  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="192">
@@ -1027,13 +925,11 @@
 <name> 病理切片與細胞診斷實習 </name>
 <teacher> 張孔昭  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="193">
@@ -1043,13 +939,11 @@
 <name> 病理切片與細胞診斷實習 </name>
 <teacher> 張孔昭  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="194">
@@ -1059,13 +953,11 @@
 <name> 病理切片與細胞診斷實習 </name>
 <teacher> 張孔昭  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="195">
@@ -1075,13 +967,11 @@
 <name> 病理切片與細胞診斷實習 </name>
 <teacher> 張孔昭  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="196">
@@ -1091,13 +981,11 @@
 <name> 醫學分子檢驗實習 </name>
 <teacher> 黃溫雅  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="197">
@@ -1107,13 +995,11 @@
 <name> 醫學分子檢驗實習 </name>
 <teacher> 黃溫雅  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="198">
@@ -1123,13 +1009,11 @@
 <name> 醫學分子檢驗實習 </name>
 <teacher> 黃溫雅  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="199">
@@ -1139,13 +1023,11 @@
 <name> 醫學分子檢驗實習 </name>
 <teacher> 黃溫雅  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="200">
@@ -1155,13 +1037,11 @@
 <name> 醫學分子檢驗實習 </name>
 <teacher> 黃溫雅  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="201">
@@ -1171,13 +1051,11 @@
 <name> 臨床神經生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="202">
@@ -1187,13 +1065,11 @@
 <name> 臨床神經生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="203">
@@ -1203,13 +1079,11 @@
 <name> 臨床神經生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="204">
@@ -1219,13 +1093,11 @@
 <name> 臨床神經生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="205">
@@ -1235,13 +1107,11 @@
 <name> 臨床神經生理學實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="211">
@@ -1251,13 +1121,11 @@
 <name> 細胞遺傳學實習 </name>
 <teacher> 黃溫雅  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I3>
 
 <I3 id="212">
@@ -1267,13 +1135,11 @@
 <name> 輸血醫學技術實習 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 高雄捐血中心實習 </note>
 </I3>
 
 <I3 id="213">
@@ -1283,13 +1149,11 @@
 <name> 生物醫學海外實習 </name>
 <teacher> 陳呈堯  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限暑假出國實習者 </note>
 </I3>
 
 <I3 id="214">
@@ -1299,13 +1163,11 @@
 <name> 生物醫學技術產業實習 </name>
 <teacher> 徐麗君  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限暑假國內實習 </note>
 </I3>
 
 </content>

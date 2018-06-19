@@ -170,18 +170,16 @@
 
 <L3 id="038">
 <num>L3-038</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 化學教學專題討論 </name>
 <teacher> 黃守仁  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 選課須經負責授課教師簽名認可始可選修 </note>
 </L3>
 
 <L3 id="103">

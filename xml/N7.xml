@@ -19,7 +19,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 設計專題研討 </name>
-<teacher> 劉舜仁* </teacher>
+<teacher> 劉舜仁*  ,  葉玉祥  </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
@@ -524,18 +524,16 @@
 
 <N7 id="105">
 <num>N7-105</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
 <teacher> 吳光庭  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note> 科目序號：N7105限碩博修畢應修學分者選修；N7305限碩專修畢應修學分者選修。 </note>
 </N7>
 
 <N7 id="301">
@@ -601,13 +599,11 @@
 <name> 專題討論 </name>
 <teacher> 吳光庭  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note> 科目序號：N7105限碩博修畢應修學分者選修；N7305限碩專修畢應修學分者選修。 </note>
 </N7>
 
 <N7 id="306">

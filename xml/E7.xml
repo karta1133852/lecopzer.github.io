@@ -20,7 +20,7 @@
 <note1> 及5112教室。需同時選修建築圖學 </note1>
 </E7>
 
-<E7 id="007">
+<E7 id="010">
 <num>E7-007</num>
 <class> 甲乙                           </class>
 <group></group>
@@ -32,44 +32,30 @@
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
 <note> 5111教室及5112教室。需同時選修建築設計(一) </note>
-<class1></class1>
-<group1></group1>
-<name1> 建築圖學 </name1>
-<time1 day1="1" s1="5" e1="6"> [1]5~6  </time1>
-<place1> 建築系館                      5101 </place1>
-<note1> 5111教室及5112教室。需同時選修建築設計(一) </note1>
-</E7>
-
-<E7 id="010">
-<num>E7-010</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 微積分 </name>
-<teacher> 洪英志  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44101 </place>
-<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意。 </note>
 <class1> 甲乙                           </class1>
-<group1> A </group1>
+<group1></group1>
 <name1> 微積分 </name1>
-<time1 day1="3" s1="1" e1="1"> [3]1  </time1>
-<place1> 數學系館                      3175 </place1>
-<note1></note1>
+<time1 day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time1>
+<place1> 材料新館                      44101 </place1>
+<note1> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意。 </note1>
 <class2> 甲乙                           </class2>
-<group2> B </group2>
+<group2> A </group2>
 <name2> 微積分 </name2>
 <time2 day1="3" s1="1" e1="1"> [3]1  </time2>
-<place2> 數學系館                      3176 </place2>
+<place2> 數學系館                      3175 </place2>
 <note2></note2>
 <class3> 甲乙                           </class3>
-<group3> C </group3>
+<group3> B </group3>
 <name3> 微積分 </name3>
 <time3 day1="3" s1="1" e1="1"> [3]1  </time3>
-<place3> 數學系館                      3177 </place3>
+<place3> 數學系館                      3176 </place3>
 <note3></note3>
+<class4> 甲乙                           </class4>
+<group4> C </group4>
+<name4> 微積分 </name4>
+<time4 day1="3" s1="1" e1="1"> [3]1  </time4>
+<place4> 數學系館                      3177 </place4>
+<note4></note4>
 </E7>
 
 <E7 id="011">
@@ -338,7 +324,7 @@
 <note> 本課程於建築設計組為選修，建築設計組同學得於第二、三階段加選 </note>
 </E7>
 
-<E7 id="124">
+<E7 id="125">
 <num>E7-124</num>
 <class> 工程組設計組                   </class>
 <group></group>
@@ -350,26 +336,12 @@
 <type> 講義 </type>
 <place> 建築系館                      5101 </place>
 <note> 需同時選修建築設計(五) </note>
-<class1></class1>
+<class1> 工程組設計組                   </class1>
 <group1></group1>
-<name1> 建築類型研究 </name1>
-<time1 day1="1" s1="3" e1="3"> [1]3  </time1>
-<place1> 建築系館                      5101 </place1>
-<note1> 需同時選修建築設計(五) </note1>
-</E7>
-
-<E7 id="125">
-<num>E7-125</num>
-<class> 工程組設計組                   </class>
-<group></group>
-<name> 中國建築史 </name>
-<teacher> 宋立文  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5127 </place>
-<note></note>
+<name1> 中國建築史 </name1>
+<time1 day1="4" s1="7" e1="8"> [4]7~8  </time1>
+<place1> 耐震大樓(建築研究大樓旁)      5127 </place1>
+<note1></note1>
 </E7>
 
 <E7 id="128">
@@ -407,13 +379,11 @@
 <name> 建築職業實務 </name>
 <teacher> 薛丞倫   ,  陳穎澤  </teacher>
 <score> 6 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限建築設計組選修 </note>
 </E7>
 
 <E7 id="156">
@@ -423,13 +393,11 @@
 <name> 國際工作營 </name>
 <teacher> 薛丞倫  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限建築設計組選修 </note>
 </E7>
 
 <E7 id="159">

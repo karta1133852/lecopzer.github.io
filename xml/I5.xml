@@ -35,13 +35,11 @@
 <name> 服務學習（一） </name>
 <teacher> 鄭雅敏* </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限醫學系學生修讀 </note>
 </I5>
 
 <I5 id="008">
@@ -91,7 +89,7 @@
 <class></class>
 <group></group>
 <name> 生物學（一） </name>
-<teacher> 胥直利*  ,  簡伯武   ,  蔡美玲   ,  李碧雪   ,  顏賢章   ,  蔣輯武*  ,  江美治* </teacher>
+<teacher> 胥直利*  ,  簡伯武   ,  湯銘哲   ,  李碧雪   ,  顏賢章   ,  蔣輯武*  ,  江美治* </teacher>
 <score> 2 </score>
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
@@ -107,13 +105,11 @@
 <name> 醫學科技與社會 </name>
 <teacher> 王秀雲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> B模組選修課程。暑假8/27~8/31密集班上課；須經網路報名「夏季學院」方具選修資格，選課名單由系辦統一登打 </note>
 </I5>
 
 <I5 id="013">
@@ -235,13 +231,11 @@
 <name> 服務學習（三） </name>
 <teacher> 鄭雅敏* </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限醫學系學生修讀 </note>
 </I5>
 
 <I5 id="058">
@@ -567,7 +561,7 @@
 <class></class>
 <group></group>
 <name> 外科學（一） </name>
-<teacher> 賴吾為   ,  李經維*  ,  陳琮琳   ,  林啟禎   ,  陳肇真   ,  謝式洲   ,  曾堯麟   ,  歐建慧   ,  徐慧萍   ,  賴昭翰   ,  林寶彥   ,  李伯璋   ,  張勝勛   ,  李榮順  </teacher>
+<teacher> 賴吾為   ,  李經維*  ,  陳琮琳   ,  林啟禎   ,  陳肇真   ,  謝式洲   ,  曾堯麟   ,  歐建慧   ,  徐慧萍   ,  林寶彥   ,  李伯璋   ,  張勝勛   ,  李榮順  </teacher>
 <score> 1 </score>
 <time day1="1" s1="2" e1="4" day2="1" s2="5" e2="6" day3="2" s3="1" e3="4" day4="3" s4="1" e4="4" day5="3" s5="7" e5="8" day6="5" s6="1" e6="8"> [1]2~4  ,  [1]5~6  ,  [2]1~4  ,  [3]1~4  ,  [3]7~8  ,  [5]1~8  </time>
 <must> 必修 </must>
@@ -625,13 +619,11 @@
 <name> 醫學論文研究 </name>
 <teacher> 柯乃熒   ,  白明奇   ,  吳至行*  ,  許釗凱   ,  張志偉   ,  黃士銘   ,  陳柏齡   ,  蔡孟哲   ,  黃奕勛   ,  張秦松   ,  陳昌熙   ,  楊尚訓   ,  張雅雯   ,  彭貴春   ,  鄭宏祺   ,  蔡坤哲   ,  劉秉彥   ,  莫凡毅   ,  吳佳慶   ,  邱靜如  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限醫學系學生選修 </note>
 </I5>
 
 <I5 id="162">
@@ -697,21 +689,17 @@
 <name> 內科學（三）及實習 </name>
 <teacher> 蘇五洲* </teacher>
 <score> 6 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> B組臨床實習課程，限醫學系五年級以上學生選修 </note>
 <class1></class1>
 <group1> A </group1>
 <name1> 內科學（三）及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
 <place1></place1>
-<note1> 
- </note1>
+<note1> A組臨床實習課程，限醫學系五年級以上學生選修 </note1>
 </I5>
 
 <I5 id="202">
@@ -721,21 +709,17 @@
 <name> 家庭醫學及實習 </name>
 <teacher> 吳晉祥* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> A組臨床實習課程，限醫學系五年級以上學生選修 </note>
 <class1></class1>
 <group1> A </group1>
 <name1> 家庭醫學及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
 <place1></place1>
-<note1> 
- </note1>
+<note1> A組臨床實習課程，限醫學系五年級以上學生選修 </note1>
 </I5>
 
 <I5 id="203">
@@ -745,21 +729,17 @@
 <name> 外科學（三）及實習 </name>
 <teacher> 李經維* </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> A組臨床實習課程，限醫學系五年級以上學生選修 </note>
 <class1></class1>
 <group1> A </group1>
 <name1> 外科學（三）及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
 <place1></place1>
-<note1> 
- </note1>
+<note1> A組臨床實習課程，限醫學系五年級以上學生選修 </note1>
 </I5>
 
 <I5 id="204">
@@ -769,13 +749,11 @@
 <name> 職業環境醫學科實習 </name>
 <teacher> 郭耀昌* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> B組臨床實習課程，限醫學系五年級以上學生選修 </note>
 </I5>
 
 <I5 id="205">
@@ -785,21 +763,17 @@
 <name> 精神醫學及實習 </name>
 <teacher> 陳柏熹* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> B組臨床實習課程，限醫學系五年級以上學生選修 </note>
 <class1></class1>
 <group1> B </group1>
 <name1> 精神醫學及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
 <place1></place1>
-<note1> 
- </note1>
+<note1> B組臨床實習課程，限醫學系五年級以上學生選修 </note1>
 </I5>
 
 <I5 id="206">
@@ -809,13 +783,11 @@
 <name> 小兒科實習 </name>
 <teacher> 楊燿榮* </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> B組臨床實習課程，限醫學系五年級以上學生選修 </note>
 </I5>
 
 <I5 id="207">
@@ -825,13 +797,11 @@
 <name> 婦產科實習 </name>
 <teacher> 吳孟興* </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> B組臨床實習課程，限醫學系五年級以上學生選修 </note>
 </I5>
 
 <I5 id="208">
@@ -887,7 +857,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        201D </place>
-<note></note>
+<note> 臨床醫療課程，限醫學系高年級學生選修，自107年9月6日(星期四)開始上課 </note>
 </I5>
 
 <I5 id="251">
@@ -897,21 +867,17 @@
 <name> 內科學（四）及實習 </name>
 <teacher> 蘇五洲* </teacher>
 <score> 6 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 <class1></class1>
 <group1> A </group1>
 <name1> 內科學（四）及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
 <place1></place1>
-<note1> 
- </note1>
+<note1></note1>
 </I5>
 
 <I5 id="252">
@@ -921,21 +887,17 @@
 <name> 復健醫學及實習 </name>
 <teacher> 官大紳* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 <class1></class1>
 <group1></group1>
 <name1> 復健醫學及實習 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
 <place1></place1>
-<note1> 
- </note1>
+<note1></note1>
 </I5>
 
 <I5 id="253">
@@ -945,13 +907,11 @@
 <name> 神經醫學及實習 </name>
 <teacher> 林宙晴* </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="254">
@@ -961,13 +921,11 @@
 <name> 骨科學及實習 </name>
 <teacher> 蘇維仁* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="255">
@@ -977,13 +935,11 @@
 <name> 急診醫學及實習 </name>
 <teacher> 莊佳璋* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="256">
@@ -993,13 +949,11 @@
 <name> 皮膚醫學及實習 </name>
 <teacher> 趙曉秋* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="257">
@@ -1009,13 +963,11 @@
 <name> 泌尿醫學及實習 </name>
 <teacher> 林永明* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="258">
@@ -1025,13 +977,11 @@
 <name> 耳鼻喉科學及實習 </name>
 <teacher> 蕭振仁* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="259">
@@ -1041,13 +991,11 @@
 <name> 眼科學及實習 </name>
 <teacher> 黃福進   ,  張義昇   ,  許聖民*  ,  黃奕勛  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="260">
@@ -1057,13 +1005,11 @@
 <name> 外科學（四）及實習 </name>
 <teacher> 李經維* </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="261">
@@ -1073,13 +1019,11 @@
 <name> 麻醉醫學及實習 </name>
 <teacher> 曾稼志* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="262">
@@ -1089,13 +1033,11 @@
 <name> 放射線科實習 </name>
 <teacher> 王建國* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="263">
@@ -1105,13 +1047,11 @@
 <name> 自選科-內科實習（一） </name>
 <teacher> 蘇五洲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="264">
@@ -1121,13 +1061,11 @@
 <name> 自選科-內科實習（二） </name>
 <teacher> 蘇五洲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第二次至內科實習者選修。 </note>
 </I5>
 
 <I5 id="265">
@@ -1137,13 +1075,11 @@
 <name> 自選科-內科實習（三） </name>
 <teacher> 蘇五洲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第三次至內科實習者選修。 </note>
 </I5>
 
 <I5 id="266">
@@ -1153,13 +1089,11 @@
 <name> 自選科-外科實習 </name>
 <teacher> 李經維* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="267">
@@ -1169,13 +1103,11 @@
 <name> 自選科-婦產科實習（一） </name>
 <teacher> 吳孟興* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第一次至婦產科實習者選修。 </note>
 </I5>
 
 <I5 id="268">
@@ -1185,13 +1117,11 @@
 <name> 自選科-婦產科實習（二） </name>
 <teacher> 吳孟興* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第二次至婦產科實習者選修。 </note>
 </I5>
 
 <I5 id="269">
@@ -1201,13 +1131,11 @@
 <name> 自選科-婦產科實習（三） </name>
 <teacher> 吳孟興* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第三次至婦產科實習者選修。 </note>
 </I5>
 
 <I5 id="270">
@@ -1217,13 +1145,11 @@
 <name> 自選科-小兒科實習（一） </name>
 <teacher> 楊燿榮* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第一次至小兒科實習者選修。 </note>
 </I5>
 
 <I5 id="271">
@@ -1233,13 +1159,11 @@
 <name> 自選科-小兒科實習（二） </name>
 <teacher> 楊燿榮* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第二次至小兒科實習者選修。 </note>
 </I5>
 
 <I5 id="272">
@@ -1249,13 +1173,11 @@
 <name> 自選科-小兒科實習（三） </name>
 <teacher> 楊燿榮* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第三次至小兒科實習者選修。 </note>
 </I5>
 
 <I5 id="273">
@@ -1265,13 +1187,11 @@
 <name> 自選科-麻醉科實習 </name>
 <teacher> 曾稼志* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="274">
@@ -1281,13 +1201,11 @@
 <name> 自選科-皮膚科實習 </name>
 <teacher> 趙曉秋* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="275">
@@ -1297,13 +1215,11 @@
 <name> 自選科-神經科實習（一） </name>
 <teacher> 林宙晴* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第一次至神經科實習者選修。 </note>
 </I5>
 
 <I5 id="276">
@@ -1313,13 +1229,11 @@
 <name> 自選科-神經科實習（二） </name>
 <teacher> 林宙晴* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第二次至神經科實習者選修。 </note>
 </I5>
 
 <I5 id="277">
@@ -1329,13 +1243,11 @@
 <name> 自選科-神經科實習（三） </name>
 <teacher> 林宙晴* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第三次至神經科實習者選修。 </note>
 </I5>
 
 <I5 id="278">
@@ -1345,13 +1257,11 @@
 <name> 自選科-骨科實習 </name>
 <teacher> 蘇維仁* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="279">
@@ -1361,13 +1271,11 @@
 <name> 自選科-眼科實習 </name>
 <teacher> 黃福進   ,  張義昇   ,  許聖民*  ,  黃奕勛  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="280">
@@ -1377,13 +1285,11 @@
 <name> 自選科-耳鼻喉科實習 </name>
 <teacher> 蕭振仁* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="281">
@@ -1393,13 +1299,11 @@
 <name> 自選科-精神科實習 </name>
 <teacher> 陳柏熹* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="282">
@@ -1409,13 +1313,11 @@
 <name> 自選科-病理科實習 </name>
 <teacher> 張孔昭* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="283">
@@ -1425,13 +1327,11 @@
 <name> 自選科-放射科實習 </name>
 <teacher> 王建國* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="284">
@@ -1441,13 +1341,11 @@
 <name> 自選科-家庭醫學科實習 </name>
 <teacher> 吳晉祥* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="285">
@@ -1457,13 +1355,11 @@
 <name> 自選科-急診科實習 </name>
 <teacher> 莊佳璋* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="286">
@@ -1473,13 +1369,11 @@
 <name> 自選科-泌尿科實習 </name>
 <teacher> 林永明* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="287">
@@ -1489,13 +1383,11 @@
 <name> 自選科-職業環境醫學科實習 </name>
 <teacher> 郭耀昌* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；臨床醫療課程，限醫學系六年級以上學生選修 </note>
 </I5>
 
 <I5 id="288">
@@ -1505,13 +1397,11 @@
 <name> 自選科-院外實習（一） </name>
 <teacher> 謝式洲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第一次至院外實習者選修。 </note>
 </I5>
 
 <I5 id="289">
@@ -1521,13 +1411,11 @@
 <name> 自選科-院外實習（二） </name>
 <teacher> 謝式洲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第二次至院外實習者選修。 </note>
 </I5>
 
 <I5 id="290">
@@ -1537,13 +1425,11 @@
 <name> 自選科-院外實習（三） </name>
 <teacher> 謝式洲* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第三次至院外實習者選修。 </note>
 </I5>
 
 <I5 id="291">
@@ -1553,13 +1439,11 @@
 <name> 自選科-國外實習（一） </name>
 <teacher> 張雋曦* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第一次至國外實習者選修。 </note>
 </I5>
 
 <I5 id="292">
@@ -1569,13 +1453,11 @@
 <name> 自選科-國外實習（二） </name>
 <teacher> 張雋曦* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第二次至國外實習者選修。 </note>
 </I5>
 
 <I5 id="293">
@@ -1585,13 +1467,11 @@
 <name> 自選科-國外實習（三） </name>
 <teacher> 張雋曦* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 六上臨床實習時間：107年6月4日～107年11月16日；自選科第三次至國外實習者選修。 </note>
 </I5>
 
 <I5 id="301">
@@ -1601,13 +1481,11 @@
 <name> 內科實習 </name>
 <teacher> 蘇五洲* </teacher>
 <score> 12 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="302">
@@ -1617,13 +1495,11 @@
 <name> 外科實習 </name>
 <teacher> 李經維* </teacher>
 <score> 12 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="303">
@@ -1633,13 +1509,11 @@
 <name> 婦產科實習 </name>
 <teacher> 吳孟興* </teacher>
 <score> 6 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="304">
@@ -1649,13 +1523,11 @@
 <name> 小兒科實習 </name>
 <teacher> 楊燿榮* </teacher>
 <score> 6 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="305">
@@ -1665,13 +1537,11 @@
 <name> 麻醉科實習 </name>
 <teacher> 曾稼志* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="306">
@@ -1681,13 +1551,11 @@
 <name> 復健科實習 </name>
 <teacher> 官大紳* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="307">
@@ -1697,13 +1565,11 @@
 <name> 皮膚科實習 </name>
 <teacher> 趙曉秋* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="308">
@@ -1713,13 +1579,11 @@
 <name> 神經科實習 </name>
 <teacher> 林宙晴* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="309">
@@ -1729,13 +1593,11 @@
 <name> 骨科實習 </name>
 <teacher> 蘇維仁* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="310">
@@ -1745,13 +1607,11 @@
 <name> 眼科實習 </name>
 <teacher> 黃福進   ,  張義昇   ,  許聖民*  ,  黃奕勛  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="311">
@@ -1761,13 +1621,11 @@
 <name> 耳鼻喉科實習 </name>
 <teacher> 蕭振仁* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="312">
@@ -1777,13 +1635,11 @@
 <name> 精神科實習 </name>
 <teacher> 陳柏熹* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="313">
@@ -1793,13 +1649,11 @@
 <name> 病理科實習 </name>
 <teacher> 張孔昭* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="314">
@@ -1809,13 +1663,11 @@
 <name> 放射科實習 </name>
 <teacher> 王建國* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="315">
@@ -1825,13 +1677,11 @@
 <name> 家庭醫學科實習 </name>
 <teacher> 吳晉祥* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="316">
@@ -1841,13 +1691,11 @@
 <name> 急診科實習 </name>
 <teacher> 莊佳璋* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="317">
@@ -1857,13 +1705,11 @@
 <name> 職業環境醫學科實習 </name>
 <teacher> 吳政龍* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="318">
@@ -1873,13 +1719,11 @@
 <name> 泌尿科實習 </name>
 <teacher> 林永明* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="319">
@@ -1889,13 +1733,11 @@
 <name> 院外實習（一） </name>
 <teacher> 謝式洲* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="320">
@@ -1905,13 +1747,11 @@
 <name> 院外實習（二） </name>
 <teacher> 謝式洲* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="321">
@@ -1921,13 +1761,11 @@
 <name> 國外實習（一） </name>
 <teacher> 謝式洲* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 <I5 id="322">
@@ -1937,13 +1775,11 @@
 <name> 國外實習（二） </name>
 <teacher> 謝式洲* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 臨床醫療課程，限醫學系七年級學生選修 </note>
 </I5>
 
 </content>

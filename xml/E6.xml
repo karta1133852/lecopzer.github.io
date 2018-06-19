@@ -698,34 +698,30 @@
 
 <E6 id="151">
 <num>E6-151</num>
-<class></class>
+<class> 甲乙                           </class>
 <group></group>
 <name> 論文 </name>
 <teacher> 郭振銘   ,  吳致平   ,  楊士賢   ,  侯琮欽   ,  盧煉元   ,  洪崇展   ,  洪　瀞* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </E6>
 
 <E6 id="152">
 <num>E6-152</num>
-<class></class>
+<class> 甲乙                           </class>
 <group></group>
 <name> 論文選讀 </name>
 <teacher> 吳致平   ,  楊士賢   ,  侯琮欽   ,  盧煉元   ,  洪　瀞* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </E6>
 
 <E6 id="153">
@@ -786,18 +782,16 @@
 
 <E6 id="158">
 <num>E6-158</num>
-<class></class>
+<class> 甲乙                           </class>
 <group></group>
 <name> 校外實習 </name>
 <teacher> 郭振銘  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 大二以上，由課程暨學生校外實習委員會審核通過才可以選修 </note>
 </E6>
 
 <E6 id="160">
@@ -816,18 +810,16 @@
 
 <E6 id="161">
 <num>E6-161</num>
-<class></class>
+<class> 甲乙                           </class>
 <group></group>
 <name> 工程實務－世曦論壇 </name>
 <teacher> 王炤烈  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place></place>
-<note> 
- </note>
+<place> 土木系館                      210 </place>
+<note> 甲乙合班，密集式授課，隔週星期二5~6節上課 </note>
 </E6>
 
 <E6 id="162">

@@ -273,11 +273,10 @@
 <class1> 碩博                           </class1>
 <group1> 2 </group1>
 <name1> 遙測系統 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
-<place1></place1>
-<note1> 
- </note1>
+<time1 day1="0" s1="0" e1="0"> </time1>
+<place1> 
+ </place1>
+<note1></note1>
 </P1>
 
 <P1 id="152">

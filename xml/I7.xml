@@ -49,13 +49,11 @@
 <name> 服務學習（一） </name>
 <teacher> 林玲伊*  ,  黃百川  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I7>
 
 <I7 id="018">
@@ -351,13 +349,11 @@
 <name> 職能治療專題討論 </name>
 <teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴* </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I7>
 
 <I7 id="152">
@@ -367,13 +363,11 @@
 <name> 心理疾病職能治療臨床實習（一） </name>
 <teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川*  ,  張雁晴  </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 科目序號152至157等六科上下學期開課，每學期至少修15學分，至各醫院實習 </note>
 </I7>
 
 <I7 id="153">
@@ -383,13 +377,11 @@
 <name> 心理疾病職能治療臨床實習（二） </name>
 <teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川*  ,  張雁晴  </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I7>
 
 <I7 id="154">
@@ -399,13 +391,11 @@
 <name> 生理疾病職能治療臨床實習（一） </name>
 <teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  徐秀雲   ,  馬慧英   ,  張玲慧   ,  郭立杰*  ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I7>
 
 <I7 id="155">
@@ -415,13 +405,11 @@
 <name> 生理疾病職能治療臨床實習（二） </name>
 <teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  徐秀雲   ,  馬慧英   ,  張玲慧   ,  郭立杰*  ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I7>
 
 <I7 id="156">
@@ -431,13 +419,11 @@
 <name> 兒童職能治療臨床實習（一） </name>
 <teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊*  ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I7>
 
 <I7 id="157">
@@ -447,13 +433,11 @@
 <name> 兒童職能治療臨床實習（二） </name>
 <teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊*  ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
 <score> 5 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I7>
 
 </content>

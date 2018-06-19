@@ -112,20 +112,6 @@
 <note></note>
 </R6>
 
-<R6 id="009">
-<num>R6-009</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 國際企業研究方法 </name>
-<teacher> 江明憲  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 國企所                        61401 </place>
-<note> 限修過大學統計或數量方法相關課程者選修。 </note>
-</R6>
-
 <R6 id="010">
 <num>R6-010</num>
 <class> 碩博                           </class>

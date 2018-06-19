@@ -407,13 +407,11 @@
 <name> 校外實習（二） </name>
 <teacher> 呂宗行  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 航太系與能源學程合開。至少須完成本系同意之校外實習至少二個月。 </note>
 </F4>
 
 <F4 id="112">
@@ -423,13 +421,11 @@
 <name> 校外實習（一） </name>
 <teacher> 賴維祥  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 航太系與能源學程合開。 </note>
 </F4>
 
 <F4 id="113">
@@ -558,7 +554,7 @@
 <note> 本課程屬於民航學程長榮航空師資 </note>
 </F4>
 
-<F4 id="154">
+<F4 id="159">
 <num>F4-154</num>
 <class></class>
 <group> A </group>
@@ -571,67 +567,23 @@
 <place> 航太系館                      5821 </place>
 <note> 1.無人飛行器設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不可更換組別上課。 </note>
 <class1></class1>
-<group1> A </group1>
-<name1> 航太工程實作（一） </name1>
-<time1 day1="1" s1="5" e1="7"> [1]5~7  </time1>
-<place1> 航太系館                      5821 </place1>
-<note1> 1.航太系統導航控制設計與實作(一)。2.上、下學期不可更換組別上課。 </note1>
-</F4>
-
-<F4 id="155">
-<num>F4-155</num>
-<class></class>
-<group> B </group>
-<name> 航太工程實作（一） </name>
-<teacher> 未定  </teacher>
-<score> 2 </score>
-<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5828 </place>
-<note> 1.火箭系統設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note>
-<class1></class1>
 <group1> B </group1>
 <name1> 航太工程實作（一） </name1>
-<time1 day1="1" s1="5" e1="7"> [1]5~7  </time1>
+<time1 day1="1" s1="4.5" e1="4.5"> [1]N  </time1>
 <place1> 航太系館                      5828 </place1>
-<note1> 1.火箭系統設計與實作(一)。2.上、下學期不可更換組別上課。 </note1>
-</F4>
-
-<F4 id="156">
-<num>F4-156</num>
-<class></class>
-<group> C </group>
-<name> 航太工程實作（一） </name>
-<teacher> 譚俊豪  </teacher>
-<score> 2 </score>
-<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5833 </place>
-<note> 1.航太系統導航控制設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note>
-<class1></class1>
-<group1> C </group1>
-<name1> 航太工程實作（一） </name1>
-<time1 day1="1" s1="5" e1="7"> [1]5~7  </time1>
-<place1> 航太系館                      5833 </place1>
-<note1> 1.航太系統導航控制設計與實作(一)。2.上、下學期不可更換組別上課。 </note1>
-</F4>
-
-<F4 id="159">
-<num>F4-159</num>
-<class></class>
-<group></group>
-<name> 論文（二） </name>
-<teacher> 呂宗行   ,  詹劭勳*  ,  張克勤   ,  趙怡欽   ,  苗君易   ,  胡潛濱   ,  袁曉峰   ,  陳介力   ,  譚俊豪   ,  李約亨   ,  彭兆仲   ,  賴維祥  </teacher>
-<score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 
- </note>
+<note1> 1.火箭系統設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note1>
+<class2></class2>
+<group2> C </group2>
+<name2> 航太工程實作（一） </name2>
+<time2 day1="1" s1="4.5" e1="4.5"> [1]N  </time2>
+<place2> 航太系館                      5833 </place2>
+<note2> 1.航太系統導航控制設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note2>
+<class3></class3>
+<group3></group3>
+<name3> 論文（二） </name3>
+<time3 day1="0" s1="0" e1="0"> 未定  </time3>
+<place3></place3>
+<note3> 欲修課請於系網下載論文登記表，並於9/26前繳至系辦公室 </note3>
 </F4>
 
 <F4 id="192">
@@ -675,13 +627,11 @@
 <name> 航機維修實習（一） </name>
 <teacher> 彭家瑞  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 本課程屬民航工程學程於暑假至長榮航空實習。 </note>
 </F4>
 
 <F4 id="195">

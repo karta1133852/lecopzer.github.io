@@ -159,7 +159,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 細胞生物學特論（一） </name>
-<teacher> 陳昌熙   ,  王憶卿   ,  姜學誠   ,  郭余民  </teacher>
+<teacher> 陳昌熙   ,  王憶卿*  ,  姜學誠   ,  郭余民  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
@@ -240,18 +240,16 @@
 
 <S9 id="018">
 <num>S9-018</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 實驗室實習 </name>
 <teacher> 蔡坤哲*  ,  沈延盛   ,  江伯敏  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 再生醫學科技學分學程必選課程(包含30時實驗室實習與暑期 6時幹細胞彈性課程Workshop。) </note>
 </S9>
 
 <S9 id="019">

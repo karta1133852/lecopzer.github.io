@@ -30,34 +30,30 @@
 
 <T3 id="003">
 <num>T3-003</num>
-<class></class>
+<class> 碩一                           </class>
 <group></group>
 <name> 實驗室教學實習（一） </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </T3>
 
 <T3 id="004">
 <num>T3-004</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
 <name> 人類微生物體學 </name>
 <teacher> 陳呈堯*  ,  阮振維  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </T3>
 
 <T3 id="005">
@@ -146,82 +142,72 @@
 
 <T3 id="011">
 <num>T3-011</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 生醫關鍵技術之開發與應用 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑假上課 </note>
 </T3>
 
 <T3 id="012">
 <num>T3-012</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 人體研究計畫與醫療器材相關法規暨倫理規範 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑假上課 </note>
 </T3>
 
 <T3 id="016">
 <num>T3-016</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 創業思維與啟航(一)-創業發展 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑假上課 </note>
 </T3>
 
 <T3 id="019">
 <num>T3-019</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 創業思維與啟航（四）－創業設計 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 暑假上課 </note>
 </T3>
 
 <T3 id="020">
 <num>T3-020</num>
-<class></class>
+<class> 碩博                           </class>
 <group></group>
 <name> 創業思維與啟航（五）-認證及規範 </name>
 <teacher> 張權發  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 生科中心暑期課程 </note>
 </T3>
 
 </content>

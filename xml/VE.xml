@@ -2,66 +2,58 @@
 <content>
 <VE id="001">
 <num>VE-001</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
 <name> 應用電路學 </name>
 <teacher> 林瑞禮  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限本專班學生選修　暑假上課 </note>
 </VE>
 
 <VE id="002">
 <num>VE-002</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
 <name> 應用電路學分析與模擬 </name>
 <teacher> 林瑞禮  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限本專班學生選修　暑假上課 </note>
 </VE>
 
 <VE id="003">
 <num>VE-003</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
 <name> 電力電子與電源轉換器設計 </name>
 <teacher> 梁從主  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 限本專班學生選修　暑假上課 </note>
 </VE>
 
 <VE id="004">
 <num>VE-004</num>
-<class></class>
+<class> 碩一二                         </class>
 <group></group>
 <name> 電力電子與電源轉換器實習 </name>
 <teacher> 梁從主  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note> 限本專班學生選修　暑假上課 </note>
 </VE>
 
 <VE id="005">

@@ -62,7 +62,7 @@
 <note></note>
 </PA>
 
-<PA id="005">
+<PA id="006">
 <num>PA-005</num>
 <class> 碩博                           </class>
 <group></group>
@@ -74,26 +74,12 @@
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
 <note> 甲組核心 </note>
-<class1></class1>
+<class1> 碩博                           </class1>
 <group1></group1>
-<name1> 創意商品設計 </name1>
-<time1 day1="2" s1="3" e1="4"> [2]3~4  </time1>
-<place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
-<note1> 甲組核心 </note1>
-</PA>
-
-<PA id="006">
-<num>PA-006</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 物質文化研究 </name>
-<teacher> 高如妃  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5153 </place>
-<note></note>
+<name1> 物質文化研究 </name1>
+<time1 day1="2" s1="2" e1="4"> [2]2~4  </time1>
+<place1> 耐震大樓(建築研究大樓旁)      5153 </place1>
+<note1></note1>
 </PA>
 
 <PA id="007">
@@ -180,7 +166,7 @@
 <note></note>
 </PA>
 
-<PA id="013">
+<PA id="015">
 <num>PA-013</num>
 <class> 碩博                           </class>
 <group></group>
@@ -192,46 +178,18 @@
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
 <note> 丙組核心 </note>
-<class1></class1>
-<group1></group1>
-<name1> 創意服務設計 </name1>
-<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
-<place1> 耐震大樓(建築研究大樓旁)      5153 </place1>
-<note1> 丙組核心 </note1>
-</PA>
-
-<PA id="014">
-<num>PA-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 互動設計研究 </name>
-<teacher> 劉世南  </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="6"> [4]6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5153 </place>
-<note> 乙組核心 </note>
-<class1></class1>
+<class1> 碩博                           </class1>
 <group1></group1>
 <name1> 互動設計研究 </name1>
-<time1 day1="4" s1="7" e1="8"> [4]7~8  </time1>
+<time1 day1="4" s1="6" e1="6"> [4]6  </time1>
 <place1> 耐震大樓(建築研究大樓旁)      5153 </place1>
 <note1> 乙組核心 </note1>
-</PA>
-
-<PA id="015">
-<num>PA-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 產業設計實習工作坊 </name>
-<teacher> 楊佳翰  </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5108 </place>
-<note></note>
+<class2> 碩博                           </class2>
+<group2></group2>
+<name2> 產業設計實習工作坊 </name2>
+<time2 day1="5" s1="2" e1="4"> [5]2~4  </time2>
+<place2> 耐震大樓(建築研究大樓旁)      5108 </place2>
+<note2></note2>
 </PA>
 
 <PA id="016">

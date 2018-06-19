@@ -111,13 +111,11 @@
 <name> 服務學習（二）─ 物理治療中心 </name>
 <teacher> 徐碧真  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 醫學院                        物治104 </place>
+<note> 每周三 第3~4節 </note>
 </I6>
 
 <I6 id="021">
@@ -175,13 +173,11 @@
 <name> 服務學習（三） </name>
 <teacher> 成戎珠  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place></place>
-<note> 
- </note>
+<place> 物治系館                      B02 </place>
+<note> 授課時間每周一12:00-13:00 </note>
 </I6>
 
 <I6 id="057">
@@ -461,13 +457,11 @@
 <name> 物理治療臨床實習（一） </name>
 <teacher> 卓瓊鈺   ,  林桑伊   ,  蔡一如   ,  蔡昆霖* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I6>
 
 <I6 id="153">
@@ -477,13 +471,11 @@
 <name> 物理治療臨床實習（二） </name>
 <teacher> 成戎珠   ,  楊政峰   ,  洪菁霞*  ,  林呈鳳  </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I6>
 
 <I6 id="154">
@@ -493,13 +485,11 @@
 <name> 物理治療臨床實習（三） </name>
 <teacher> 徐碧真   ,  李佩紜   ,  郭怡良* </teacher>
 <score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </I6>
 
 </content>

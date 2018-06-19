@@ -1869,13 +1869,11 @@
 <name> 印尼語（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </A1>
 
 <A1 id="566">
@@ -1885,13 +1883,11 @@
 <name> 泰語（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </A1>
 
 <A1 id="567">
@@ -1901,13 +1897,11 @@
 <name> 阿拉伯語（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </A1>
 
 <A1 id="701">
@@ -1917,13 +1911,11 @@
 <name> 線上補強英文 </name>
 <teacher> 葉靜怡*  ,  賴諭萱   ,  辛佳玲  </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 須先修畢必修英文4學分且未達該系英語能力指標者始得選修 </note>
 </A1>
 
 <A1 id="702">
@@ -1933,13 +1925,11 @@
 <name> 研究所線上英文 </name>
 <teacher> 劉繼仁   ,  陳慧琴* </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note></note>
 </A1>
 
 <A1 id="970">

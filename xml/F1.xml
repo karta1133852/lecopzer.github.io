@@ -102,7 +102,7 @@
 <note></note>
 </F1>
 
-<F1 id="017">
+<F1 id="018">
 <num>F1-017</num>
 <class></class>
 <group></group>
@@ -116,24 +116,10 @@
 <note></note>
 <class1></class1>
 <group1></group1>
-<name1> 工程圖學 </name1>
-<time1 day1="1" s1="5" e1="6"> [1]5~6  </time1>
-<place1></place1>
-<note1> 5F 電腦教室(503) </note1>
-</F1>
-
-<F1 id="018">
-<num>F1-018</num>
-<class></class>
-<group></group>
-<name> 計算機程式設計 </name>
-<teacher> 吳鴻文  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 系統系館                      56111 </place>
-<note></note>
+<name1> 計算機程式設計 </name1>
+<time1 day1="3" s1="2" e1="4"> [3]2~4  </time1>
+<place1> 系統系館                      56111 </place1>
+<note1></note1>
 </F1>
 
 <F1 id="051">
@@ -241,13 +227,11 @@
 <name> 論文（一） </name>
 <teacher> 沈聖智  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 
- </note>
+<note> 選課請洽系辦並繳交大學部論文指導同意書 </note>
 </F1>
 
 <F1 id="127">
