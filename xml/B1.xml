@@ -1,41 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
 <B1 id="002">
-<num>A9-581</num>
+<num>B1-002</num>
 <class></class>
 <group></group>
-<name> 表演藝術綜合實作 </name>
-<teacher> 高美華  </teacher>
-<score> 4 </score>
-<time day1="0" s1="0" e1="0"> 
-  </time>
+<name> 國學導讀（一） </name>
+<teacher> 邱詩雯  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
-<type> 科際整合 </type>
-<place></place>
-<note> 
- </note>
-<class1></class1>
-<group1></group1>
-<name1> 設計藝術綜合實作 </name1>
-<time1 day1="0" s1="0" e1="0"> 
-  </time1>
-<place1></place1>
-<note1> 
- </note1>
-<class2></class2>
-<group2></group2>
-<name2> 視覺藝術綜合實作 </name2>
-<time2 day1="0" s1="0" e1="0"> 
-  </time2>
-<place2></place2>
-<note2> 
- </note2>
-<class3></class3>
-<group3></group3>
-<name3> 國學導讀（一） </name3>
-<time3 day1="5" s1="3" e1="4"> [5]3~4  </time3>
-<place3> 中文系館                      21201 </place3>
-<note3></note3>
+<type> 講義 </type>
+<place> 中文系館                      21201 </place>
+<note></note>
 </B1>
 
 <B1 id="003">

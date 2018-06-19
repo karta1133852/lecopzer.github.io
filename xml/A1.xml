@@ -1910,4 +1910,50 @@
  </note>
 </A1>
 
+<A1 id="701">
+<num>A1-701</num>
+<class></class>
+<group></group>
+<name> 線上補強英文 </name>
+<teacher> 葉靜怡*  ,  賴諭萱   ,  辛佳玲  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A1>
+
+<A1 id="702">
+<num>A1-702</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 研究所線上英文 </name>
+<teacher> 劉繼仁   ,  陳慧琴* </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A1>
+
+<A1 id="970">
+<num>A1-970</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 研究所專業英語：工程及科學領域 </name>
+<teacher> 陳慧琴  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 修齊大樓                      26202 </place>
+<note> 修課前請詳閱課綱 </note>
+</A1>
+
 </content>

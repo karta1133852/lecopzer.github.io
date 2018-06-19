@@ -1985,7 +1985,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place></place>
-<note> 教室：藝術中心；科際整合：人、社。選課說明會:9/14&9/20(12:10~1:00@成大藝坊，分機:50061)。科際整合:人、社、自、生 </note>
+<note> 教室：藝術中心；科際整合：人、社。選課說明會:9/14,9/20(12:10~1:00@成大藝坊，分機:50061)。科際整合:人、社、自、生 </note>
 </A9>
 
 <A9 id="401">
@@ -2437,6 +2437,206 @@
   </time>
 <must> 必修 </must>
 <type> 講義 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="641">
+<num>A9-581</num>
+<class></class>
+<group></group>
+<name> 表演藝術綜合實作 </name>
+<teacher> 高美華  </teacher>
+<score> 4 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 
+ </note>
+<class1></class1>
+<group1></group1>
+<name1> 設計藝術綜合實作 </name1>
+<time1 day1="0" s1="0" e1="0"> 
+  </time1>
+<place1></place1>
+<note1> 
+ </note1>
+<class2></class2>
+<group2></group2>
+<name2> 視覺藝術綜合實作 </name2>
+<time2 day1="0" s1="0" e1="0"> 
+  </time2>
+<place2></place2>
+<note2> 
+ </note2>
+<class3></class3>
+<group3></group3>
+<name3> 拍出跨域資訊應用首部曲--python </name3>
+<time3 day1="0" s1="0" e1="0"> 
+  </time3>
+<place3></place3>
+<note3> 
+ </note3>
+</A9>
+
+<A9 id="642">
+<num>A9-642</num>
+<class></class>
+<group></group>
+<name> 程式城市：ｕｎｉｔｙ遊戲程式設計 </name>
+<teacher> 胡敏君  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="643">
+<num>A9-643</num>
+<class></class>
+<group></group>
+<name> 從西方哲學經典看當代議題 </name>
+<teacher> 甘偵蓉   ,  林從一* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="644">
+<num>A9-644</num>
+<class></class>
+<group></group>
+<name> 從東方哲學經典看當代議題 </name>
+<teacher> 甘偵蓉   ,  林從一* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="645">
+<num>A9-645</num>
+<class></class>
+<group></group>
+<name> 流行音樂理論概論(音樂劇課群) </name>
+<teacher> 楊金峯  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="646">
+<num>A9-646</num>
+<class></class>
+<group></group>
+<name> 流行音樂理論的文化視野(音樂劇課群) </name>
+<teacher> 楊金峯  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="647">
+<num>A9-647</num>
+<class></class>
+<group></group>
+<name> 流行音樂的書面詞類(音樂劇課群) </name>
+<teacher> 楊金峯  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="648">
+<num>A9-648</num>
+<class></class>
+<group></group>
+<name> 解析音樂基本句型(音樂劇課群) </name>
+<teacher> 楊金峯  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="649">
+<num>A9-649</num>
+<class></class>
+<group></group>
+<name> 歌詞與曲調解析與實務(音樂劇課群) </name>
+<teacher> 楊金峯  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="650">
+<num>A9-650</num>
+<class></class>
+<group></group>
+<name> 音樂劇曲本賞析(音樂劇課群) </name>
+<teacher> 楊金峯  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place></place>
+<note> 
+ </note>
+</A9>
+
+<A9 id="651">
+<num>A9-651</num>
+<class></class>
+<group></group>
+<name> 與心靈及土地的對話－馬雅各之路 </name>
+<teacher> 許宏彬   ,  楊中平*  ,  翁裕峯  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 
+  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
 <place></place>
 <note> 
  </note>
