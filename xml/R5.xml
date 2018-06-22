@@ -333,7 +333,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
-<note> 限碩專班選修(碩二必修) </note>
+<note> 限碩專班選修(碩二必選) </note>
 </R5>
 
 <R5 id="304">
@@ -389,7 +389,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 限碩專班已修畢學分者選修 </note>
 </R5>
 
 <R5 id="308">
@@ -403,7 +403,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 限碩專班已修畢學分者選修 </note>
 </R5>
 
 <R5 id="309">
@@ -417,7 +417,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 限碩專班已修畢學分者選修 </note>
 </R5>
 
 <R5 id="310">

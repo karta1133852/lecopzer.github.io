@@ -1004,7 +1004,7 @@
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1032,7 +1032,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7202 </place>
+<place> 唯農大樓                      7405 </place>
 <note></note>
 </A1>
 
@@ -1046,7 +1046,7 @@
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7208 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1097,12 +1097,12 @@
 <class></class>
 <group></group>
 <name> 日文（一） </name>
-<teacher> 張巧螓  </teacher>
+<teacher> 朱戎梅  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7405 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1116,7 +1116,7 @@
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1158,7 +1158,7 @@
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1200,7 +1200,7 @@
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1256,7 +1256,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1295,10 +1295,10 @@
 <name> 日文（三） </name>
 <teacher> 朱戎梅  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1340,7 +1340,7 @@
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 
@@ -1365,7 +1365,7 @@
 <name> 日文（三） </name>
 <teacher> 張巧螓  </teacher>
 <score> 2 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7405 </place>
@@ -1382,7 +1382,7 @@
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7403 </place>
+<place> 唯農大樓                      7217 </place>
 <note></note>
 </A1>
 

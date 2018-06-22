@@ -244,6 +244,20 @@
 <note> 土木與資源合班 </note>
 </E4>
 
+<E4 id="059">
+<num>E4-059</num>
+<class></class>
+<group></group>
+<name> 環境地質學 </name>
+<teacher> 葉信富  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資源系館                      4354 </place>
+<note></note>
+</E4>
+
 <E4 id="060">
 <num>E4-060</num>
 <class></class>
@@ -255,20 +269,6 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4354 </place>
-<note></note>
-</E4>
-
-<E4 id="101">
-<num>E4-101</num>
-<class></class>
-<group></group>
-<name> 環境地質學 </name>
-<teacher> 葉信富  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資源系館                      4351 </place>
 <note></note>
 </E4>
 

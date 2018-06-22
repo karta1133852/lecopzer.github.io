@@ -105,7 +105,7 @@
 <name> 硬網（女） </name>
 <teacher> 馬上鈞  </teacher>
 <score> 0 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 光復網球場                    光復網球場 </place>
@@ -726,6 +726,20 @@
 <type> 講義 </type>
 <place> 光復體育場                    光復體育場 </place>
 <note> 光復操場 </note>
+</A2>
+
+<A2 id="307">
+<num>A2-307</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 撞球（男） </name>
+<teacher> 黃彥慈  </teacher>
+<score> 0 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 飛輪教室                      飛輪教室 </place>
+<note></note>
 </A2>
 
 <A2 id="313">

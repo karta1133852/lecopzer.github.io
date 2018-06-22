@@ -672,6 +672,20 @@
 <note> 碩博碩專合班 </note>
 </N2>
 
+<N2 id="067">
+<num>N2-067</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等ＶＬＳＩ電路設計 </name>
+<teacher> 張順志  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note></note>
+</N2>
+
 <N2 id="081">
 <num>N2-081</num>
 <class> 碩博                           </class>

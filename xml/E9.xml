@@ -287,7 +287,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工科系館                      41107 </place>
-<note></note>
+<note> 大學部必選課程 </note>
 <class1></class1>
 <group1></group1>
 <name1> 微處理機與介面設計(含實習) </name1>
@@ -391,7 +391,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 大學部必選課程 </note>
 </E9>
 
 <E9 id="152">

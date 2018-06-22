@@ -5,13 +5,13 @@
 <class></class>
 <group></group>
 <name> 經濟學（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 蔡仰虔  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61200 </place>
-<note> 星期三A-C節由兼任教師授課 </note>
+<note></note>
 </H5>
 
 <H5 id="006">
@@ -317,10 +317,10 @@
 <name> 服務業行銷 </name>
 <teacher> 蔡東峻  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 交管系館                      62102 </place>
+<place> 交管系館                      62105 </place>
 <note> 電信管理領域必修 </note>
 </H5>
 
@@ -387,11 +387,11 @@
 <name> 電信經營與管理 </name>
 <teacher> 黃光渠  </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
+<time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 交管系館                      62105 </place>
-<note> 電信領域必修,兼任教師擬調至星期六第6-8節62102教室 </note>
+<place> 交管系館                      62102 </place>
+<note> 電信領域必修, </note>
 </H5>
 
 <H5 id="130">

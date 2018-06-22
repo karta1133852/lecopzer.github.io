@@ -10,7 +10,7 @@
 <time day1="2" s1="7" e1="7"> [2]7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 雲平大樓                      709 </place>
+<place> 生科院大樓                    5樓大會議室 </place>
 <note></note>
 </Z3>
 
@@ -24,7 +24,7 @@
 <time day1="2" s1="8" e1="8"> [2]8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 雲平大樓                      709 </place>
+<place> 生科院大樓                    5樓大會議室 </place>
 <note></note>
 </Z3>
 
@@ -38,7 +38,7 @@
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      712 </place>
+<place> 生科院大樓                    6樓小會議室 </place>
 <note> 譯農所與熱植所合開(選修) </note>
 </Z3>
 
@@ -66,7 +66,7 @@
 <time day1="2" s1="5" e1="5"> [2]5  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 雲平大樓                      709 </place>
+<place> 生科院大樓                    5樓大會議室 </place>
 <note></note>
 </Z3>
 
@@ -80,7 +80,7 @@
 <time day1="2" s1="6" e1="6"> [2]6  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 雲平大樓                      709 </place>
+<place> 生科院大樓                    5樓大會議室 </place>
 <note></note>
 </Z3>
 
@@ -108,7 +108,7 @@
 <time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 雲平大樓                      712 </place>
+<place> 生科院大樓                    6樓小會議室 </place>
 <note></note>
 </Z3>
 
@@ -122,7 +122,7 @@
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 雲平大樓                      712 </place>
+<place> 雲平大樓                      709 </place>
 <note> 限熱植所學生 </note>
 </Z3>
 
@@ -178,7 +178,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </Z3>
 
@@ -193,7 +193,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 暑期生科中心課程 </note>
+<note></note>
 </Z3>
 
 <Z3 id="021">
@@ -206,7 +206,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </Z3>
 

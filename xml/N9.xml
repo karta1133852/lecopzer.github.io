@@ -19,7 +19,7 @@
 <class> 碩博一                         </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 侯廷偉  </teacher>
+<teacher> 賴槿峰  </teacher>
 <score> 0 </score>
 <time day1="4" s1="6" e1="7"> [4]6~7  </time>
 <must> 必修 </must>
@@ -52,7 +52,7 @@
 <time day1="4" s1="6" e1="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41122 </place>
+<place> 工科系館                      41307 </place>
 <note> 限應用力學固力碩博一學生選修 </note>
 </N9>
 
@@ -66,7 +66,7 @@
 <time day1="4" s1="6" e1="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41220 </place>
+<place> 工科系館                      41509 </place>
 <note> 限應用力學熱流碩博一學生選修 </note>
 </N9>
 
@@ -108,7 +108,7 @@
 <time day1="4" s1="6" e1="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41204 </place>
+<place> 工科系館                      41609 </place>
 <note> 限量子電腦、生醫光電、系統整合等碩博二學生選修 </note>
 </N9>
 
@@ -122,7 +122,7 @@
 <time day1="4" s1="6" e1="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place></place>
+<place> 工科系館                      41409 </place>
 <note> 限應用力學固力組碩博二學生選修 研討教室上課時公告 </note>
 </N9>
 
@@ -136,7 +136,7 @@
 <time day1="4" s1="6" e1="7"> [4]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 工科系館                      41202 </place>
+<place> 工科系館                      41220 </place>
 <note> 限應用力學熱流碩博二學生選修 </note>
 </N9>
 

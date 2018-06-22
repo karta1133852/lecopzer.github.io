@@ -94,7 +94,7 @@
 <time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        202D </place>
+<place> 醫學院                        302D </place>
 <note></note>
 </S7>
 
@@ -147,7 +147,7 @@
 <name> 工業通風 </name>
 <teacher> 蔡朋枝*  ,  林明彥  </teacher>
 <score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>

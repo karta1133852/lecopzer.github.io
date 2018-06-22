@@ -266,20 +266,6 @@
 <note> 限未修普化實驗者修。 </note>
 </A9>
 
-<A9 id="062">
-<num>A9-062</num>
-<class></class>
-<group></group>
-<name> 認識地震 </name>
-<teacher> 樂鍇．祿璞崚岸  </teacher>
-<score> 2 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
-<must> 必修 </must>
-<type> 自然與工程科學 </type>
-<place> 地科系館                      3035 </place>
-<note></note>
-</A9>
-
 <A9 id="063">
 <num>A9-063</num>
 <class></class>
@@ -935,6 +921,20 @@
 <must> 必修 </must>
 <type> 自然與工程科學 </type>
 <place> 電機系館                      迅慧講堂 </place>
+<note></note>
+</A9>
+
+<A9 id="169">
+<num>A9-169</num>
+<class></class>
+<group></group>
+<name> 認識地震 </name>
+<teacher> 樂鍇．祿璞崚岸  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 地科系館                      3035 </place>
 <note></note>
 </A9>
 

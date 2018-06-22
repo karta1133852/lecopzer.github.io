@@ -238,26 +238,6 @@
 <note></note>
 </I7>
 
-<I7 id="126">
-<num>I7-126</num>
-<class></class>
-<group></group>
-<name> 兒童評估學（含實作） </name>
-<teacher> 黃雅淑* </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="5"> [3]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 職治系館                      專業教室 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 兒童評估學（含實作） </name1>
-<time1 day1="3" s1="6" e1="7"> [3]6~7  </time1>
-<place1> 職治系館                      專業教室 </place1>
-<note1></note1>
-</I7>
-
 <I7 id="127">
 <num>I7-127</num>
 <class></class>

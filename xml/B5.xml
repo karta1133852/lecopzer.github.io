@@ -412,6 +412,20 @@
 <note></note>
 </B5>
 
+<B5 id="111">
+<num>B5-111</num>
+<class></class>
+<group></group>
+<name> 台灣故事劇場 </name>
+<teacher> 劉南芳  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88155 </place>
+<note></note>
+</B5>
+
 <B5 id="152">
 <num>B5-152</num>
 <class></class>
@@ -493,20 +507,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88155 </place>
-<note></note>
-</B5>
-
-<B5 id="158">
-<num>B5-158</num>
-<class></class>
-<group></group>
-<name> 台灣故事劇場 </name>
-<teacher> 劉南芳  </teacher>
-<score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88136 </place>
 <note></note>
 </B5>
 

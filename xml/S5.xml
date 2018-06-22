@@ -47,7 +47,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 蛋白質與酵素學 </name>
-<teacher> 羅玉枝   ,  吳華林* </teacher>
+<teacher> 羅玉枝*  ,  吳華林* </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -75,7 +75,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 免疫學 </name>
-<teacher> 林以行   ,  張志鵬   ,  謝奇璋  </teacher>
+<teacher> 林以行*  ,  張志鵬   ,  謝奇璋  </teacher>
 <score> 3 </score>
 <time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
@@ -123,7 +123,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        304D </place>
-<note> 限博士班學生選修。再生醫學科技學分學程。與基醫所合開。 </note>
+<note> 限博士班學生選修。 </note>
 </S5>
 
 <S5 id="111">
@@ -131,7 +131,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 神經精神藥理學 </name>
-<teacher> 林宙晴   ,  蔡景仁   ,  陳志弘   ,  劉彥青   ,  許桂森   ,  簡伯武   ,  蕭雅心   ,  張雅雯*  ,  張惠華   ,  蘇翔  </teacher>
+<teacher> 林宙晴   ,  蔡景仁   ,  陳志弘   ,  劉彥青   ,  許桂森   ,  簡伯武   ,  蕭雅心*  ,  張雅雯*  ,  張惠華   ,  蘇翔  </teacher>
 <score> 2 </score>
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
@@ -453,7 +453,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 基礎醫學研究技術 </name>
-<teacher> 邱文泰   ,  賴明德   ,  陳昌熙   ,  黃柏憲   ,  楊尚訓   ,  鄭宏祺   ,  呂佩融  </teacher>
+<teacher> 邱文泰   ,  賴明德   ,  陳昌熙   ,  黃柏憲*  ,  楊尚訓   ,  鄭宏祺   ,  呂佩融  </teacher>
 <score> 2 </score>
 <time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 選修 </must>
@@ -495,7 +495,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 基礎細胞生物學 </name>
-<teacher> 邱文泰  </teacher>
+<teacher> 邱文泰* </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>

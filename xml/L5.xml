@@ -472,7 +472,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </L5>
 
@@ -486,7 +486,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </L5>
 
@@ -501,7 +501,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 暑期生科中心課程 </note>
+<note></note>
 </L5>
 
 </content>

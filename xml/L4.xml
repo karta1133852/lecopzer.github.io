@@ -203,10 +203,10 @@
 <name> 專題討論─地震研究（三） </name>
 <teacher> 樂鍇．祿璞崚岸  </teacher>
 <score> 0 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 選修 </must>
 <type> 研討 </type>
-<place> 地科系館                      研討室一 </place>
+<place> 地科系館                      3031 </place>
 <note></note>
 </L4>
 
@@ -380,7 +380,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 地科系館                      3017 </place>
+<place> 地科系館                      3036 </place>
 <note> 限碩士在職專班選修 </note>
 </L4>
 
@@ -394,7 +394,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 地科系館                      3017 </place>
+<place> 地科系館                      3036 </place>
 <note> 限碩士在職專班學生選修 </note>
 </L4>
 

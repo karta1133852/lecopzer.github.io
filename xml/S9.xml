@@ -165,7 +165,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        304D </place>
-<note> 限博士班學生選修。再生醫學科技學分學程。與基醫所合開。 </note>
+<note> 限博士班學生選修。 </note>
 </S9>
 
 <S9 id="013">
@@ -203,7 +203,7 @@
 <name> 高等分子生物學 </name>
 <teacher> 呂佩融* </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7050 </place>
@@ -305,7 +305,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7027 </place>
-<note> 與高等儀器分析(一)合班上課 。(不開放碩專班修讀,碩專請選高等儀器分析(一))再生醫學科技學分學程。 </note>
+<note> 與高等儀器分析(一)合班上課 。(碩專請選高等儀器分析(一))再生醫學科技學分學程。 </note>
 </S9>
 
 <S9 id="023">
@@ -469,7 +469,7 @@
 <name> 專題討論（三） </name>
 <teacher> 許耿福   ,  林聖翔   ,  蘇文彬* </teacher>
 <score> 1 </score>
-<time day1="5" s1="9" e1="11"> [5]9~B  </time>
+<time day1="5" s1="9" e1="10"> [5]9~A  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 門診大樓                      7023 </place>
@@ -595,7 +595,7 @@
 <name> 高等分子生物學 </name>
 <teacher> 呂佩融* </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 門診大樓                      7050 </place>

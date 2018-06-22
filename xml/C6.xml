@@ -363,7 +363,7 @@
 <name> 生技專業執行與實務（一） </name>
 <teacher> 陳逸民*  ,  曾大千* </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<time day1="1" s1="9" e1="9" day2="2" s2="9" e2="9" day3="3" s3="9" e3="9"> [1]9  ,  [2]9  ,  [3]9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 生科院大樓                    89A16 </place>
@@ -478,7 +478,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </C6>
 
@@ -492,7 +492,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </C6>
 

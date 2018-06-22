@@ -19,7 +19,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 蛋白質與酵素學 </name>
-<teacher> 羅玉枝   ,  吳華林* </teacher>
+<teacher> 羅玉枝*  ,  吳華林* </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -33,7 +33,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 細胞生物學 </name>
-<teacher> 張權發   ,  張文粲   ,  張明熙   ,  陳昌熙   ,  黃柏憲   ,  鄭宏祺   ,  蔣輯武  </teacher>
+<teacher> 張權發   ,  張文粲*  ,  張明熙   ,  陳昌熙   ,  黃柏憲   ,  鄭宏祺   ,  蔣輯武  </teacher>
 <score> 2 </score>
 <time day1="4" s1="1" e1="2"> [4]1~2  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 陳昌熙  </teacher>
+<teacher> 陳昌熙* </teacher>
 <score> 1 </score>
 <time day1="5" s1="7" e1="7"> [5]7  </time>
 <must> 必修 </must>
@@ -75,7 +75,7 @@
 <class> 碩三                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 陳昌熙  </teacher>
+<teacher> 陳昌熙* </teacher>
 <score> 0 </score>
 <time day1="5" s1="5" e1="5"> [5]5  </time>
 <must> 必修 </must>
@@ -89,7 +89,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 基礎醫學研究技術 </name>
-<teacher> 邱文泰   ,  賴明德   ,  陳昌熙   ,  黃柏憲   ,  楊尚訓   ,  鄭宏祺   ,  呂佩融  </teacher>
+<teacher> 邱文泰   ,  賴明德   ,  陳昌熙   ,  黃柏憲*  ,  楊尚訓   ,  鄭宏祺   ,  呂佩融  </teacher>
 <score> 2 </score>
 <time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 選修 </must>
@@ -145,9 +145,9 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 線蟲生物學論特論 </name>
-<teacher> 陳昌熙  </teacher>
+<teacher> 陳昌熙* </teacher>
 <score> 1 </score>
-<time day1="3" s1="7" e1="7"> [3]7  </time>
+<time day1="3" s1="5" e1="5"> [3]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        0929 </place>

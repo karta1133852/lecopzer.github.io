@@ -67,7 +67,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
-<note> 限本所 </note>
+<note> 限本所，EMBA與AMBA合開 </note>
 </R0>
 
 <R0 id="306">
@@ -91,7 +91,7 @@
 <name> 管理經濟專題 </name>
 <teacher> 林軒竹   ,  林正章* </teacher>
 <score> 3 </score>
-<time day1="6" s1="5" e1="7"> [6]5~7  </time>
+<time day1="6" s1="3" e1="4" day2="6" s2="5" e2="5"> [6]3~4  ,  [6]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      61X02 </place>
@@ -119,7 +119,7 @@
 <name> CEO高階實務管理 （一） </name>
 <teacher> 王泰裕  </teacher>
 <score> 1 </score>
-<time day1="6" s1="9" e1="9"> [6]9  </time>
+<time day1="6" s1="11" e1="11"> [6]B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      61X02 </place>
@@ -166,6 +166,34 @@
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
 <note> 限本所 </note>
+</R0>
+
+<R0 id="313">
+<num>R0-313</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 運動減壓與健康體適能管理 </name>
+<teacher> 林麗娟  </teacher>
+<score> 2 </score>
+<time day1="6" s1="3" e1="4"> [6]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> 限本所 </note>
+</R0>
+
+<R0 id="314">
+<num>R0-314</num>
+<class> 碩專一二                       </class>
+<group></group>
+<name> 跨國管理實務融合 </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> EMBA與管理學院合開 </note>
 </R0>
 
 </content>

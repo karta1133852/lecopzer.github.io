@@ -191,7 +191,7 @@
 <name> 材料力學 </name>
 <teacher> 羅偉誠  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4622 </place>
@@ -451,7 +451,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4627 </place>
-<note></note>
+<note> 四科任選二科之設計必修 </note>
 <class1></class1>
 <group1></group1>
 <name1> 防洪排水工程設計 </name1>
@@ -471,7 +471,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4644 </place>
-<note></note>
+<note> 大學與碩士班合開課程 </note>
 </E8>
 
 <E8 id="156">
@@ -499,7 +499,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4648 </place>
-<note></note>
+<note> 大學與碩士班合開課程 </note>
 </E8>
 
 <E8 id="158">

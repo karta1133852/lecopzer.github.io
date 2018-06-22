@@ -275,7 +275,7 @@
 <class></class>
 <group></group>
 <name> 微生物學（含實驗） </name>
-<teacher> 王德華   ,  陳柏齡   ,  林子凱   ,  劉校生   ,  楊倍昌   ,  余俊強   ,  陳舜華   ,  蕭璦莉*  ,  王淑鶯   ,  黃一修   ,  陳振暐   ,  鄧景浩  </teacher>
+<teacher> 王德華   ,  陳柏齡   ,  林子凱   ,  劉校生   ,  楊倍昌   ,  陳舜華   ,  蕭璦莉*  ,  王淑鶯   ,  黃一修   ,  陳振暐   ,  鄧景浩  </teacher>
 <score> 4 </score>
 <time day1="1" s1="5" e1="6" day2="3" s2="1" e2="1"> [1]5~6  ,  [3]1  </time>
 <must> 必修 </must>
@@ -292,7 +292,7 @@
 <group2></group2>
 <name2> 分子生物學 </name2>
 <time2 day1="4" s1="3" e1="4"> [4]3~4  </time2>
-<place2> 醫技醫工館                    5761 </place2>
+<place2> 醫技醫工館                    5776 </place2>
 <note2></note2>
 </I3>
 

@@ -587,7 +587,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
-<note></note>
+<note> 甲丙合班，E2-102與E2-114請丙班同學擇一選修 </note>
 </E2>
 
 <E2 id="103">
@@ -727,7 +727,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92225 </place>
-<note></note>
+<note> 乙丙合班，E2-102與E2-114請丙班同學擇一選修 </note>
 </E2>
 
 <E2 id="115">
@@ -982,20 +982,6 @@
 <note></note>
 </E2>
 
-<E2 id="139">
-<num>E2-139</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> ＶＬＳＩ電路設計 </name>
-<teacher> 張順志  </teacher>
-<score> 3 </score>
-<time day1="1" s1="1" e1="3"> [1]1~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92185 </place>
-<note></note>
-</E2>
-
 <E2 id="141">
 <num>E2-141</num>
 <class> 甲乙丙                         </class>
@@ -1101,10 +1087,10 @@
 <name> 現場可規劃邏輯電路設計 </name>
 <teacher> 謝明得  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 電機系館                      92383 </place>
+<place> 電機系館                      92177 </place>
 <note></note>
 </E2>
 

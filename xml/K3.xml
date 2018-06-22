@@ -179,7 +179,7 @@
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> 供碩三博三以上同學選課  指導教授授課 </note>
+<note> 供碩三博三以上同學選課，由指導教授授課 </note>
 </K3>
 
 <K3 id="102">
@@ -189,10 +189,10 @@
 <name> 史學與史學研究（一） </name>
 <teacher> 陳恒安  </teacher>
 <score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 歷史系館                      25231 </place>
+<place> 歷史系館                      25233 </place>
 <note> 基礎課程。博士班必修 </note>
 </K3>
 

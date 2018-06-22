@@ -84,4 +84,32 @@
 <note> 密集授課，上課時間為8/1-8/11 </note>
 </AN>
 
+<AN id="063">
+<num>AN-063</num>
+<class></class>
+<group></group>
+<name> 國際力學創新實作教學 </name>
+<teacher> 張怡玲  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 全英授課，密集授課，8/1-8/11 </note>
+</AN>
+
+<AN id="064">
+<num>AN-064</num>
+<class></class>
+<group></group>
+<name> 智慧生活設計思考工作坊 </name>
+<teacher> 楊佳翰  </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 密集授課，7/7，C-Hub教室 </note>
+</AN>
+
 </content>

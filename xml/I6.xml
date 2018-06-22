@@ -311,7 +311,7 @@
 <class></class>
 <group></group>
 <name> 小兒物理治療學及實習（一） </name>
-<teacher> 成戎珠   ,  徐碧真  </teacher>
+<teacher> 成戎珠   ,  徐碧真* </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="5"> [2]5  </time>
 <must> 必修 </must>
@@ -331,7 +331,7 @@
 <class></class>
 <group></group>
 <name> 心肺物理治療學及實習（一） </name>
-<teacher> 洪菁霞   ,  蔡昆霖  </teacher>
+<teacher> 洪菁霞   ,  蔡昆霖* </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="7"> [2]7  </time>
 <must> 必修 </must>

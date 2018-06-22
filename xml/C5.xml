@@ -335,11 +335,11 @@
 <name> 生物技術產學創新 </name>
 <teacher> 陳虹樺   ,  曾淑芬*  ,  張素瓊   ,  宋皇模   ,  何盧勳   ,  張松彬   ,  李純純  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 生科院大樓                    892S4 </place>
-<note> 暑期密集授課預定107/8/27-9/7期間上課 </note>
+<note></note>
 </C5>
 
 <C5 id="150">
@@ -492,7 +492,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </C5>
 
@@ -506,7 +506,7 @@
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 生科院大樓                    89916 </place>
+<place> 生科院大樓                    89A16 </place>
 <note> 暑期生科中心課程。大碩合開課程 </note>
 </C5>
 
