@@ -224,7 +224,7 @@
 <note></note>
 </B5>
 
-<B5 id="061">
+<B5 id="060">
 <num>B5-060</num>
 <class></class>
 <group></group>
@@ -238,10 +238,24 @@
 <note> 1. 密集授課，上課時間：9/29、10/6、10/13、10/20、10/27、11/3  9:00-12:00及13:00-16:00。 </note>
 <class1></class1>
 <group1></group1>
-<name1> 初級新聞台語專訪 </name1>
-<time1 day1="5" s1="3" e1="4"> [5]3~4  </time1>
-<place1> 台文系館                      88135 </place1>
-<note1></note1>
+<name1> 影音報導 </name1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
+<place1></place1>
+<note1> 配合學生平日課餘及新聞中心上班時間（週一到週五白天），於授課日結束後6週內完成。 </note1>
+</B5>
+
+<B5 id="061">
+<num>B5-061</num>
+<class></class>
+<group></group>
+<name> 初級新聞台語專訪 </name>
+<teacher> 巫義淵  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88135 </place>
+<note></note>
 </B5>
 
 <B5 id="062">
@@ -532,20 +546,6 @@
 <teacher> 鄭邦鎮  </teacher>
 <score> 2 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88136 </place>
-<note></note>
-</B5>
-
-<B5 id="161">
-<num>B5-161</num>
-<class></class>
-<group></group>
-<name> 網路文化與社會 </name>
-<teacher> 王右君  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88136 </place>

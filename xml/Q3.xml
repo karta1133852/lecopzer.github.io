@@ -378,20 +378,6 @@
 <note> 電機所電通所合班 </note>
 </Q3>
 
-<Q3 id="051">
-<num>Q3-051</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 近代通訊專論 </name>
-<teacher> 張志文  </teacher>
-<score> 3 </score>
-<time day1="1" s1="10" e1="12"> [1]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92177 </place>
-<note> 碩博碩專合班 </note>
-</Q3>
-
 <Q3 id="052">
 <num>Q3-052</num>
 <class> 碩博                           </class>

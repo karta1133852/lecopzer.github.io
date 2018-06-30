@@ -378,20 +378,6 @@
 <note> 限光電系學生 </note>
 </L7>
 
-<L7 id="034">
-<num>L7-034</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 奈米製程專題（一） </name>
-<teacher> 林俊宏  </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48422 </place>
-<note> 限光電系學生 </note>
-</L7>
-
 <L7 id="035">
 <num>L7-035</num>
 <class> 碩博                           </class>

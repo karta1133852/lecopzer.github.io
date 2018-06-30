@@ -490,6 +490,20 @@
 <note> 碩博與碩專合班，戊組核心，碩專選修，英語授課。 </note>
 </N6>
 
+<N6 id="073">
+<num>N6-073</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 決策理論 </name>
+<teacher> 潘南飛  </teacher>
+<score> 3 </score>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note></note>
+</N6>
+
 <N6 id="077">
 <num>N6-077</num>
 <class> 碩博                           </class>
@@ -497,10 +511,10 @@
 <name> 作業研究 </name>
 <teacher> 李宇欣  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班，戊組核心，碩專為選修。 </note>
 </N6>
 
@@ -854,6 +868,20 @@
 <note> 碩博與碩專合班，戊組核心，碩專選修，英語授課。 </note>
 </N6>
 
+<N6 id="373">
+<num>N6-373</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 決策理論 </name>
+<teacher> 潘南飛  </teacher>
+<score> 3 </score>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4507 </place>
+<note></note>
+</N6>
+
 <N6 id="377">
 <num>N6-377</num>
 <class> 碩專                           </class>
@@ -861,10 +889,10 @@
 <name> 作業研究 </name>
 <teacher> 李宇欣  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 土木系館                      4509 </place>
+<place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班，戊組核心，碩專為選修。 </note>
 </N6>
 

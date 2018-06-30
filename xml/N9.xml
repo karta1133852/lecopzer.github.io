@@ -350,20 +350,6 @@
 <note></note>
 </N9>
 
-<N9 id="028">
-<num>N9-028</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等計算機數學 </name>
-<teacher> 黃悅民  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41122 </place>
-<note></note>
-</N9>
-
 <N9 id="029">
 <num>N9-029</num>
 <class> 碩博                           </class>
@@ -382,7 +368,7 @@
 <num>N9-030</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 工業物聯網 </name>
+<name> 創意物聯網應用設計 </name>
 <teacher> 賴槿峰  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>

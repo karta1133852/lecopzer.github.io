@@ -335,11 +335,11 @@
 <name> 設計管理 </name>
 <teacher> 林雅惠  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工設系館                      5204A </place>
-<note></note>
+<note> 第一階段不受理選課 </note>
 </F3>
 
 <F3 id="116">

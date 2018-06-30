@@ -123,7 +123,7 @@
 <class> 碩一二                         </class>
 <group></group>
 <name> 表觀遺傳學特論（一） </name>
-<teacher> 蔡少正* </teacher>
+<teacher> 蔡少正*  ,  林世杰  </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 選修 </must>
@@ -193,12 +193,12 @@
 <class> 碩                             </class>
 <group></group>
 <name> 整合醫療的實證科學 </name>
-<teacher> 陳德祐   ,  林哲偉   ,  林梅鳳   ,  黃阿敏* </teacher>
+<teacher> 林君昱   ,  黃阿敏* </teacher>
 <score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        0724 </place>
+<place> 共同教室                      A1301 </place>
 <note></note>
 </S3>
 
@@ -221,7 +221,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 以問題為導向學習神經系統和諧（二） </name>
-<teacher> 張雅雯*  ,  林世杰  </teacher>
+<teacher> 蕭雅心   ,  張雅雯*  ,  林世杰  </teacher>
 <score> 1 </score>
 <time day1="1" s1="5" e1="5"> [1]5  </time>
 <must> 選修 </must>

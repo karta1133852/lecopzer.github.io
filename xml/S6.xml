@@ -38,8 +38,8 @@
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 上課教室:醫學院605 </note>
+<place> 醫學院                        604 </place>
+<note> 上課教室:醫學院604 </note>
 </S6>
 
 <S6 id="004">
@@ -159,12 +159,12 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 藥物不良反應專題討論（二） </name>
-<teacher> 高雅慧   ,  王明誠  </teacher>
+<teacher> 高雅慧*  ,  王明誠  </teacher>
 <score> 1 </score>
-<time day1="4" s1="1" e1="1"> [4]1  </time>
+<time day1="3" s1="1" e1="1"> [3]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
+<place> 醫學院                        第三講堂 </place>
 <note> 藥劑部 </note>
 </S6>
 
@@ -215,7 +215,7 @@
 <class> 碩博三延                       </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 高雅慧  </teacher>
+<teacher> 高雅慧* </teacher>
 <score> 0 </score>
 <time day1="3" s1="1" e1="1"> [3]1  </time>
 <must> 必修 </must>
@@ -355,13 +355,13 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 藥物基因體學 </name>
-<teacher> 張惠華  </teacher>
+<teacher> 張惠華* </teacher>
 <score> 1 </score>
 <time day1="1" s1="5" e1="5"> [1]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 上課教室:醫學院605 </note>
+<place> 醫學院                        201D </place>
+<note> 上課教室:醫學院201D </note>
 </S6>
 
 <S6 id="055">

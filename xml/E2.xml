@@ -587,7 +587,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
-<note> 甲丙合班，E2-102與E2-114請丙班同學擇一選修 </note>
+<note></note>
 </E2>
 
 <E2 id="103">
@@ -718,7 +718,7 @@
 
 <E2 id="114">
 <num>E2-114</num>
-<class> 乙丙                           </class>
+<class> 乙                             </class>
 <group></group>
 <name> 電子學（三） </name>
 <teacher> 蔡建泓  </teacher>
@@ -727,7 +727,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92225 </place>
-<note> 乙丙合班，E2-102與E2-114請丙班同學擇一選修 </note>
+<note></note>
 </E2>
 
 <E2 id="115">
@@ -994,20 +994,6 @@
 <type> 講義 </type>
 <place> 電機系館                      靄雲廳 </place>
 <note></note>
-</E2>
-
-<E2 id="142">
-<num>E2-142</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 固態物理 </name>
-<teacher> 高國興  </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 電機系館                      92185 </place>
-<note> 限大學部選修 </note>
 </E2>
 
 <E2 id="143">
