@@ -1869,7 +1869,7 @@
 <name> 印尼語（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -1883,7 +1883,7 @@
 <name> 泰語（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -1897,7 +1897,7 @@
 <name> 阿拉伯語（一） </name>
 <teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -1909,7 +1909,7 @@
 <class></class>
 <group></group>
 <name> 線上補強英文 </name>
-<teacher> 葉靜怡*  ,  賴諭萱   ,  辛佳玲  </teacher>
+<teacher> 辛佳玲   ,  葉靜怡*  ,  賴諭萱  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
@@ -1923,7 +1923,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 研究所線上英文 </name>
-<teacher> 劉繼仁   ,  陳慧琴* </teacher>
+<teacher> 陳慧琴*  ,  劉繼仁  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>

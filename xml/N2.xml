@@ -686,6 +686,20 @@
 <note></note>
 </N2>
 
+<N2 id="068">
+<num>N2-068</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生醫監控晶片系統 </name>
+<teacher> 李順裕  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note></note>
+</N2>
+
 <N2 id="081">
 <num>N2-081</num>
 <class> 碩博                           </class>
@@ -697,6 +711,20 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      令洋廳 </place>
+<note></note>
+</N2>
+
+<N2 id="082">
+<num>N2-082</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電動機動力與控制 </name>
+<teacher> 蔡明祺  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      三星講堂 </place>
 <note></note>
 </N2>
 

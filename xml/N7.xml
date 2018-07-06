@@ -376,6 +376,34 @@
 <note> 以下為工程組課程 </note>
 </N7>
 
+<N7 id="084">
+<num>N7-084</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 建築構造性能評估 </name>
+<teacher> 葉玉祥  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築研究大樓                  5171 </place>
+<note></note>
+</N7>
+
+<N7 id="085">
+<num>N7-085</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 全球化與在地化的創新材料思維 </name>
+<teacher> 陳震宇  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築研究大樓                  ２Ｆ會議室 </place>
+<note></note>
+</N7>
+
 <N7 id="086">
 <num>N7-086</num>
 <class> 碩博                           </class>

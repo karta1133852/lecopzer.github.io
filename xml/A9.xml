@@ -238,20 +238,6 @@
 <note></note>
 </A9>
 
-<A9 id="061">
-<num>A9-061</num>
-<class></class>
-<group></group>
-<name> 應用化學與實驗 </name>
-<teacher> 黃守仁  </teacher>
-<score> 2 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
-<must> 必修 </must>
-<type> 自然與工程科學 </type>
-<place> 理化大樓                      35102 </place>
-<note> 限未修普化實驗者修。 </note>
-</A9>
-
 <A9 id="063">
 <num>A9-063</num>
 <class></class>
@@ -362,6 +348,20 @@
 <type> 科際整合 </type>
 <place> 化學系館                      3275 </place>
 <note> 科際整合相關領域：社會科學、自然與工程科學 </note>
+</A9>
+
+<A9 id="087">
+<num>A9-087</num>
+<class></class>
+<group></group>
+<name> 三創與設計思維 </name>
+<teacher> 周君瑞  </teacher>
+<score> 2 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 共同教室                      A1302 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
 </A9>
 
 <A9 id="101">
@@ -733,7 +733,7 @@
 <class></class>
 <group></group>
 <name> 中醫食療 </name>
-<teacher> 洪欣儀  </teacher>
+<teacher> 林少紅  </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
@@ -1181,7 +1181,7 @@
 <class></class>
 <group></group>
 <name> 心理學 </name>
-<teacher> 楊政達*  ,  林君昱   ,  胡書榕   ,  黃碧群   ,  曾元琦  </teacher>
+<teacher> 楊政達*  ,  林君昱   ,  莊佳蓉  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -1538,6 +1538,20 @@
 <type> 科際整合 </type>
 <place></place>
 <note> 科際整合相關領域：人文學、社會科學、生命科學與健康;融入服務學習內涵之專業課程; 地點:人社中心會議室 </note>
+</A9>
+
+<A9 id="293">
+<num>A9-293</num>
+<class></class>
+<group></group>
+<name> 創新設計 </name>
+<teacher> 周君瑞  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學、生命科學與健康 </note>
 </A9>
 
 <A9 id="301">
@@ -1929,7 +1943,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place></place>
-<note> 教室：藝術中心；科際整合：人、社。選課說明會:9/14,9/20(12:10~1:00@成大藝坊，分機:50061)。科際整合:人、社、自、生 </note>
+<note> 教室：藝術中心；請至藝術中心登記選課；助教-分機:50061。科際整合:人、社、自、生 </note>
 </A9>
 
 <A9 id="401">
@@ -2203,13 +2217,13 @@
 <class></class>
 <group></group>
 <name> 通識領袖論壇 </name>
-<teacher> 利德江   ,  王秀雲  </teacher>
+<teacher> 利德江   ,  王秀雲* </teacher>
 <score> 2 </score>
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
 <type> 融合通識 </type>
 <place> 理化大樓                      格致廳大講堂 </place>
-<note></note>
+<note> 第一階段限四年級選修 </note>
 </A9>
 
 <A9 id="541">
@@ -2329,13 +2343,13 @@
 <class></class>
 <group></group>
 <name> 臺灣綜合大學通識巡迴講座-環境生態保育 </name>
-<teacher> 許宏彬   ,  張怡玲  </teacher>
+<teacher> 許宏彬  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
 <type> 融合通識 </type>
 <place> 理化大樓                      格致廳大講堂 </place>
-<note></note>
+<note> 第一階段限四年級選修 </note>
 </A9>
 
 <A9 id="573">
@@ -2357,7 +2371,7 @@
 <class></class>
 <group></group>
 <name> 踏溯台南 </name>
-<teacher> 郭美芳   ,  陳家煌   ,  高實玫   ,  林明澤   ,  吳少方   ,  柯瓊琪   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  辛佳玲   ,  陳玉女*  ,  陳文松   ,  李啟彰   ,  黃崇明   ,  陳佳彬   ,  鍾國風   ,  劉益昌   ,  熊仲卿  </teacher>
+<teacher> 吳少方   ,  辛佳玲   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  郭美芳   ,  陳家煌   ,  高實玫   ,  林明澤   ,  柯瓊琪   ,  陳玉女*  ,  陳文松   ,  李啟彰   ,  黃崇明   ,  陳佳彬   ,  鍾國風   ,  劉益昌   ,  熊仲卿  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -2371,7 +2385,7 @@
 <class></class>
 <group></group>
 <name> 踏溯台南 </name>
-<teacher> 高實玫*  ,  吳少方   ,  柯瓊琪   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  辛佳玲  </teacher>
+<teacher> 吳少方   ,  辛佳玲   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  高實玫*  ,  柯瓊琪  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -2391,7 +2405,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place></place>
-<note> 密集課2019/1/14~1/24六日不上課。中文系黑盒子教室; 選課說明9/14,9/20(12:10~1:00成大藝坊分機50061)科際整合:人、社、自、生 </note>
+<note> 密集課2019/1/14~1/24(六日不上課)。中文系黑盒子教室; 選課說明會:9/14、9/20(12:10~13:00@ 耐震大樓5107教室 )。科際整合:人、 </note>
 <class1></class1>
 <group1></group1>
 <name1> 表演藝術綜合實作 </name1>
@@ -2411,7 +2425,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place></place>
-<note> 密集課2019/1/14~1/24(六日不上課)。C-hub; 選課說明會:9/14,9/20(12:10~1:00@成大藝坊，分機:50061)。科際整合:人、社、自、生 </note>
+<note> 密集課2019/1/14~1/24(六日不上課)。C-hub; 選課說明會:9/14、9/20(12:10~13:00@ 耐震大樓5107教室 )。科際整合:人、社、自、生 </note>
 <class1></class1>
 <group1></group1>
 <name1> 設計藝術綜合實作 </name1>
@@ -2431,7 +2445,7 @@
 <must> 必修 </must>
 <type> 科際整合 </type>
 <place></place>
-<note> 密集課2019/1/14~1/24六日不上課。建築系美術教室; 選課說明9/14,9/20(12:10~1:00成大藝坊分機50061)。科際整合:人、社、自、生 </note>
+<note> 密集課2019/1/14~1/24(六日不上課)。 建築系美術教室 ; 選課說明會:9/14、9/20(12:10~13:00@ 耐震大樓5107教室 )。科際整合:人、 </note>
 <class1></class1>
 <group1></group1>
 <name1> 視覺藝術綜合實作 </name1>

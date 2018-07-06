@@ -287,10 +287,10 @@
 <name> 分析動力學 </name>
 <teacher> 陳國聲  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="5" day2="5" s2="5" e2="6"> [1]5  ,  [5]5~6  </time>
+<time day1="1" s1="5" e1="5" day2="4" s2="7" e2="8"> [1]5  ,  [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91308 </place>
+<place> 機械系館                      91206 </place>
 <note></note>
 </N1>
 
@@ -382,20 +382,6 @@
 <type> 講義 </type>
 <place> 機械系館                      91305 </place>
 <note> 大碩合開 </note>
-</N1>
-
-<N1 id="052">
-<num>N1-052</num>
-<class> 碩                             </class>
-<group></group>
-<name> 最佳設計 </name>
-<teacher> 林啟倫  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91203 </place>
-<note></note>
 </N1>
 
 <N1 id="053">

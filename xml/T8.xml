@@ -145,9 +145,9 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 健康資料視覺化 </name>
-<teacher> 呂宗學  </teacher>
+<teacher> 呂宗學* </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
@@ -173,12 +173,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 健康經濟學 </name>
-<teacher> 古鯉榕  </teacher>
+<teacher> 古鯉榕* </teacher>
 <score> 2 </score>
-<time day1="3" s1="6" e1="7"> [3]6~7  </time>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        303D </place>
+<place> 醫學院                        203D </place>
 <note></note>
 </T8>
 
@@ -249,7 +249,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 上課地點:門診大樓8樓公衛所會議室08077(與公衛所健康照護的經濟評估合開) </note>
+<note> 公衛所合開，教室：門診大樓8樓公衛所08077。建議先修過生物統計學及流行病學原理 </note>
 </T8>
 
 </content>

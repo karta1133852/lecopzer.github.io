@@ -147,21 +147,7 @@
 <name> 微分幾何導論 </name>
 <teacher> 江孟蓉  </teacher>
 <score> 3 </score>
-<time day1="2" s1="5" e1="5" day2="3" s2="3" e2="4"> [2]5  ,  [3]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 數學系館                      3176 </place>
-<note></note>
-</L1>
-
-<L1 id="012">
-<num>L1-012</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 幾何與應用 </name>
-<teacher> 江孟蓉  </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="8" day2="2" s2="6" e2="6"> [1]7~8  ,  [2]6  </time>
+<time day1="3" s1="3" e1="4" day2="1" s2="7" e2="7"> [3]3~4  ,  [1]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3176 </place>
@@ -257,12 +243,12 @@
 <class> 碩                             </class>
 <group></group>
 <name> 拓樸學 </name>
-<teacher> 未定  </teacher>
+<teacher> 江孟蓉  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 數學系館                      3175 </place>
+<place> 數學系館                      3176 </place>
 <note> 大碩合開 </note>
 </L1>
 
@@ -278,20 +264,6 @@
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>
 <note> 大碩合開、資源系合開 </note>
-</L1>
-
-<L1 id="024">
-<num>L1-024</num>
-<class> 碩                             </class>
-<group></group>
-<name> 群表現導論 </name>
-<teacher> 粘珠鳳  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 數學系館                      3176 </place>
-<note> 大碩合開 </note>
 </L1>
 
 <L1 id="025">

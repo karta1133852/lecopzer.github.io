@@ -329,12 +329,12 @@
 <class></class>
 <group></group>
 <name> 拓樸學 </name>
-<teacher> 未定  </teacher>
+<teacher> 江孟蓉  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 數學系館                      3175 </place>
+<place> 數學系館                      3176 </place>
 <note> 大碩合開 </note>
 </C1>
 
@@ -350,20 +350,6 @@
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>
 <note> 大碩合開、資源系合開 </note>
-</C1>
-
-<C1 id="157">
-<num>C1-157</num>
-<class></class>
-<group></group>
-<name> 群表現導論 </name>
-<teacher> 粘珠鳳  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 數學系館                      3176 </place>
-<note> 大碩合開 </note>
 </C1>
 
 <C1 id="158">

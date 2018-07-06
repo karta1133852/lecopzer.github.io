@@ -95,7 +95,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 微積分（一） </name>
-<teacher> 鄺國權  </teacher>
+<teacher> 黃秀娟  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
@@ -297,7 +297,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 體育（一） </name>
-<teacher> 馬上鈞  </teacher>
+<teacher> 黃鴻鈞  </teacher>
 <score> 0 </score>
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
@@ -525,7 +525,7 @@
 <class> 甲                             </class>
 <group> B </group>
 <name> 工場實習（一） </name>
-<teacher> 陳國聲  </teacher>
+<teacher> 楊天祥  </teacher>
 <score> 1 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
@@ -649,7 +649,7 @@
 <class> 乙                             </class>
 <group> A </group>
 <name> 工場實習（一） </name>
-<teacher> 楊天祥  </teacher>
+<teacher> 陳國聲  </teacher>
 <score> 1 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
@@ -1080,20 +1080,6 @@
 <note1></note1>
 </E1>
 
-<E1 id="131">
-<num>E1-131</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 節能技術導論 </name>
-<teacher> 林大惠  </teacher>
-<score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      象賢講堂 </place>
-<note></note>
-</E1>
-
 <E1 id="132">
 <num>E1-132</num>
 <class> 甲乙丙                         </class>
@@ -1185,10 +1171,10 @@
 <name> 高等材料力學 </name>
 <teacher> 陳國聲  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="5" s1="5" e1="6" day2="3" s2="8" e2="8"> [5]5~6  ,  [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91206 </place>
+<place> 機械系館                      91207 </place>
 <note></note>
 </E1>
 
@@ -1321,20 +1307,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91804 </place>
-<note></note>
-</E1>
-
-<E1 id="170">
-<num>E1-170</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 最佳設計 </name>
-<teacher> 林啟倫  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91203 </place>
 <note></note>
 </E1>
 

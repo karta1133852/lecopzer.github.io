@@ -616,20 +616,6 @@
 <note></note>
 </A2>
 
-<A2 id="292">
-<num>A2-292</num>
-<class> 二年級                        體育（女生組）　                                                       </class>
-<group></group>
-<name> 體適能運動（男女） </name>
-<teacher> 黃鴻鈞  </teacher>
-<score> 0 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 健休體適能                    健休體適能 </place>
-<note> 【男女合班】 </note>
-</A2>
-
 <A2 id="297">
 <num>A2-297</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -992,6 +978,20 @@
 <type> 講義 </type>
 <place> 健休體適能                    健休體適能 </place>
 <note> 【男女合班】 </note>
+</A2>
+
+<A2 id="332">
+<num>A2-332</num>
+<class> 二年級                        體育（男生組）                                                         </class>
+<group></group>
+<name> 健訓（男） </name>
+<teacher> 黃鴻鈞  </teacher>
+<score> 0 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 光操健訓室                    光操健訓室 </place>
+<note></note>
 </A2>
 
 <A2 id="334">
@@ -1426,20 +1426,6 @@
 <type> 講義 </type>
 <place> 健休體適能                    健休體適能 </place>
 <note></note>
-</A2>
-
-<A2 id="392">
-<num>A2-392</num>
-<class> 二年級                        體育（男生組）                                                         </class>
-<group></group>
-<name> 體適能運動（男女） </name>
-<teacher> 黃鴻鈞  </teacher>
-<score> 0 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 健休體適能                    健休體適能 </place>
-<note> 【男女合班】 </note>
 </A2>
 
 <A2 id="401">
