@@ -182,20 +182,6 @@
 <note> 資工所醫資所多媒體學程合班 </note>
 </P7>
 
-<P7 id="016">
-<num>P7-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 數位音樂訊號分析 </name>
-<teacher> 蘇文鈺  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊新館                      65104 </place>
-<note> 資工所醫資所多媒體學程合班 </note>
-</P7>
-
 <P7 id="017">
 <num>P7-017</num>
 <class> 碩博                           </class>
@@ -278,6 +264,20 @@
 <type> 講義 </type>
 <place> 資訊系館                      4201 </place>
 <note> 資工所醫資所製造所合班  英語授課 </note>
+</P7>
+
+<P7 id="023">
+<num>P7-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 進階數位音樂合成專論 </name>
+<teacher> 蘇文鈺  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊新館                      65104 </place>
+<note> 資訊所醫資所多媒體學程合班 </note>
 </P7>
 
 <P7 id="024">

@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 施權峰   ,  黃正亮  </teacher>
+<teacher> 施權峰   ,  黃正亮* </teacher>
 <score> 0 </score>
 <time day1="3" s1="4.5" e1="5"> [3]N~5  </time>
 <must> 必修 </must>
@@ -117,7 +117,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 林瑞禮   ,  張簡樂仁  </teacher>
+<teacher> 林瑞禮*  ,  張簡樂仁  </teacher>
 <score> 0 </score>
 <time day1="1" s1="4.5" e1="5"> [1]N~5  </time>
 <must> 必修 </must>
@@ -215,7 +215,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 黃正亮   ,  李文熙  </teacher>
+<teacher> 黃正亮   ,  李文熙* </teacher>
 <score> 0 </score>
 <time day1="3" s1="9" e1="10"> [3]9~A  </time>
 <must> 必修 </must>
@@ -257,7 +257,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 梁從主   ,  陳建富  </teacher>
+<teacher> 梁從主*  ,  陳建富  </teacher>
 <score> 0 </score>
 <time day1="2" s1="9" e1="10"> [2]9~A  </time>
 <must> 必修 </must>
