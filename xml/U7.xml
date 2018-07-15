@@ -133,7 +133,7 @@
 <name> 神經科學綜論(一) </name>
 <teacher> 胡書榕  </teacher>
 <score> 3 </score>
-<time day1="2" s1="9" e1="11"> [2]9~B  </time>
+<time day1="3" s1="9" e1="11"> [3]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
@@ -168,6 +168,48 @@
 <note></note>
 </U7>
 
+<U7 id="014">
+<num>U7-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 記憶研究特論(四) </name>
+<teacher> 林君昱  </teacher>
+<score> 3 </score>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80201 </place>
+<note> Taught in English. Please email the instructor first </note>
+</U7>
+
+<U7 id="015">
+<num>U7-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 心理蟒蛇(PsychoPy)程式語言之簡介與應用 </name>
+<teacher> 龔俊嘉  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 建議有修過心理學工具程式集為宜 </note>
+</U7>
+
+<U7 id="016">
+<num>U7-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 領導 : 理論與實務 </name>
+<teacher> 周麗芳  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80204 </place>
+<note></note>
+</U7>
+
 <U7 id="017">
 <num>U7-017</num>
 <class> 碩                             </class>
@@ -175,7 +217,7 @@
 <name> 記憶心理學 </name>
 <teacher> 林君昱  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>

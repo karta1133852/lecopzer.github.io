@@ -378,6 +378,20 @@
 <note> 先修科目:統計學一二 </note>
 </R3>
 
+<R3 id="029">
+<num>R3-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 永續性作業管理 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="6" day2="5" s2="6" e2="7"> [2]6  ,  [5]6~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61208 </place>
+<note></note>
+</R3>
+
 <R3 id="301">
 <num>R3-301</num>
 <class> 碩專二                         </class>

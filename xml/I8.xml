@@ -83,7 +83,7 @@
 <name> 有機化學（二） </name>
 <teacher> 洪欣儀   ,  郭賓崇  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="2" e2="2"> [1]5~6  ,  [3]2  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="1" e2="2"> [1]5~6  ,  [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
@@ -123,9 +123,9 @@
 <class></class>
 <group></group>
 <name> 物理化學 </name>
-<teacher> 陳毓宏  </teacher>
+<teacher> 陳毓宏* </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        604 </place>
@@ -181,10 +181,10 @@
 <name> 生物化學（含分子生物學）（一） </name>
 <teacher> 吳昭良* </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="3" e2="4"> [2]3~4  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 醫技醫工館                    5761 </place>
 <note></note>
 </I8>
 
@@ -235,7 +235,7 @@
 <class></class>
 <group></group>
 <name> 藥劑學實驗（一） </name>
-<teacher> 蔡瑞真  </teacher>
+<teacher> 蔡瑞真* </teacher>
 <score> 1 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
@@ -249,12 +249,12 @@
 <class></class>
 <group></group>
 <name> 藥物分析（一） </name>
-<teacher> 郭賓崇  </teacher>
+<teacher> 郭賓崇* </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        202D </place>
+<place> 醫學院                        604 </place>
 <note></note>
 </I8>
 

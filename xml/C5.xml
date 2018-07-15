@@ -300,20 +300,6 @@
 <note></note>
 </C5>
 
-<C5 id="118">
-<num>C5-118</num>
-<class></class>
-<group></group>
-<name> 演化與生物多樣性 </name>
-<teacher> 小島健司  </teacher>
-<score> 2 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科院大樓                    892S4 </place>
-<note></note>
-</C5>
-
 <C5 id="119">
 <num>C5-119</num>
 <class></class>
@@ -340,6 +326,20 @@
 <type> 講義 </type>
 <place> 生科院大樓                    892S4 </place>
 <note></note>
+</C5>
+
+<C5 id="149">
+<num>C5-149</num>
+<class></class>
+<group></group>
+<name> 環境政策 </name>
+<teacher> 楊永年  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7206 </place>
+<note> 與通識合開 </note>
 </C5>
 
 <C5 id="150">
@@ -452,20 +452,6 @@
 <type> 講義 </type>
 <place> 生科院大樓                    892S3 </place>
 <note> 碩士班與大四合班 </note>
-</C5>
-
-<C5 id="164">
-<num>C5-164</num>
-<class></class>
-<group></group>
-<name> 全球變遷生物學 </name>
-<teacher> 陳一菁  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科院大樓                    892S3 </place>
-<note> 碩士班與大四合開 </note>
 </C5>
 
 <C5 id="167">

@@ -859,7 +859,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 化工系館                      93420 </place>
-<note></note>
+<note> 其他特殊因素選修者須於特殊因素選課階段辦理。 </note>
 </E3>
 
 <E3 id="150">
@@ -1013,6 +1013,20 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 化工系館                      93127 </place>
+<note></note>
+</E3>
+
+<E3 id="190">
+<num>E3-190</num>
+<class> 甲乙丙                         </class>
+<group></group>
+<name> 藥物傳遞系統與劑型 </name>
+<teacher> 陳美瑾  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
 <note></note>
 </E3>
 

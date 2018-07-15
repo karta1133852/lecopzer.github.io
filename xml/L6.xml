@@ -49,7 +49,7 @@
 <name> 書報討論（一） </name>
 <teacher> 陳宗嶽   ,  張清俊   ,  洪健睿   ,  陳逸民   ,  王涵青   ,  張純純   ,  盧福翊   ,  林士鳴*  ,  郭瑋君  </teacher>
 <score> 1 </score>
-<time day1="1" s1="1" e1="2"> [1]1~2  </time>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科院大樓                    893S1 </place>
@@ -63,7 +63,7 @@
 <name> 書報討論（三） </name>
 <teacher> 劉宗霖*  ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏   ,  洪良宜   ,  羅玉枝  </teacher>
 <score> 1 </score>
-<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<time day1="1" s1="1" e1="2"> [1]1~2  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 生科院大樓                    893S1 </place>
@@ -89,7 +89,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝  </teacher>
 <score> 1 </score>
 <time day1="1" s1="1" e1="2"> [1]1~2  </time>
 <must> 必修 </must>
@@ -103,7 +103,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝  </teacher>
 <score> 1 </score>
 <time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 必修 </must>
@@ -117,7 +117,7 @@
 <class> 博三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝  </teacher>
 <score> 0 </score>
 <time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 必修 </must>
@@ -145,7 +145,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 書報討論（三） </name>
-<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝   ,  陳炳焜  </teacher>
+<teacher> 劉宗霖   ,  洪建中   ,  王育民   ,  曾大千   ,  林鼎晏*  ,  洪良宜   ,  羅玉枝  </teacher>
 <score> 1 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 必修 </must>
@@ -173,7 +173,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 小島健司   ,  王涵青   ,  洪建中   ,  曾大千   ,  羅玉枝*  ,  林士鳴   ,  陳炳焜  </teacher>
+<teacher> 小島健司   ,  王涵青   ,  洪建中   ,  曾大千   ,  羅玉枝*  ,  林士鳴  </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
@@ -201,7 +201,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 生物科技研究特論 </name>
-<teacher> 張清俊   ,  洪健睿   ,  黃玲惠   ,  王涵青   ,  劉宗霖   ,  洪建中   ,  洪良宜   ,  羅玉枝*  ,  盧福翊   ,  林士鳴   ,  郭瑋君   ,  陳炳焜  </teacher>
+<teacher> 張清俊   ,  洪健睿   ,  黃玲惠   ,  王涵青   ,  劉宗霖   ,  洪建中   ,  洪良宜   ,  羅玉枝*  ,  盧福翊   ,  林士鳴   ,  郭瑋君  </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>

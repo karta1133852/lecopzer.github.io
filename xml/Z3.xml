@@ -224,4 +224,32 @@
 <note> 生科中心暑期課程 </note>
 </Z3>
 
+<Z3 id="023">
+<num>Z3-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業科技管理與產業分析（一） </name>
+<teacher> 陳虹樺  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心遠距課程-台大主播，成大收播 </note>
+</Z3>
+
+<Z3 id="024">
+<num>Z3-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業科技管理與產業分析（二） </name>
+<teacher> 陳虹樺  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心遠距課程-台大主播，成大收播 </note>
+</Z3>
+
 </content>

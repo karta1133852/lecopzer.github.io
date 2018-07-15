@@ -7,11 +7,11 @@
 <name> 體育健康與休閒研究法 </name>
 <teacher> 鄭匡佑*  ,  周學雯   ,  王駿濠  </teacher>
 <score> 3 </score>
-<time day1="5" s1="1" e1="3" day2="1" s2="4.5" e2="6"> [5]1~3  ,  [1]N~6  </time>
+<time day1="5" s1="1" e1="3"> [5]1~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X02 </place>
-<note></note>
+<note> 基礎專業：共同必修【鄭匡佑老師授課時段為星期一(N-6), 周學雯老師,王駿濠老師維持星期五(1-3)】 </note>
 </RB>
 
 <RB id="002">
@@ -173,7 +173,7 @@
 <class> 碩專一二                       </class>
 <group></group>
 <name> 活躍老化健康產業專題討論 </name>
-<teacher> 林麗娟  </teacher>
+<teacher> 林麗娟*  ,  周學雯  </teacher>
 <score> 3 </score>
 <time day1="7" s1="2" e1="4"> [7]2~4  </time>
 <must> 選修 </must>

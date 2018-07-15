@@ -119,7 +119,7 @@
 <name> 燃燒理論（一） </name>
 <teacher> 趙怡欽  </teacher>
 <score> 3 </score>
-<time day1="4" s1="7" e1="7" day2="2" s2="7" e2="8"> [4]7  ,  [2]7~8  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5827 </place>
@@ -259,7 +259,7 @@
 <name> 線性系統原理 </name>
 <teacher> 譚俊豪  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="8" day2="4" s2="7" e2="7"> [3]7~8  ,  [4]7  </time>
+<time day1="3" s1="7" e1="8" day2="4" s2="8" e2="8"> [3]7~8  ,  [4]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5833 </place>
@@ -273,7 +273,7 @@
 <name> 高等工程數學（一） </name>
 <teacher> 林三益  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="7" day2="4" s2="7" e2="7"> [2]6~7  ,  [4]7  </time>
+<time day1="2" s1="5" e1="6" day2="4" s2="7" e2="7"> [2]5~6  ,  [4]7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5824 </place>

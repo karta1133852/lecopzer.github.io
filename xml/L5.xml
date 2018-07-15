@@ -196,20 +196,6 @@
 <note></note>
 </L5>
 
-<L5 id="018">
-<num>L5-018</num>
-<class> 碩                             </class>
-<group></group>
-<name> 全球變遷生物學 </name>
-<teacher> 陳一菁  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 生科院大樓                    892S3 </place>
-<note> 碩士班與大四合開 </note>
-</L5>
-
 <L5 id="019">
 <num>L5-019</num>
 <class> 碩博                           </class>
@@ -495,6 +481,20 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 農業科技管理與產業分析（一） </name>
+<teacher> 陳虹樺  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心遠距課程-台大主播，成大收播 </note>
+</L5>
+
+<L5 id="052">
+<num>L5-052</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業科技管理與產業分析（二） </name>
 <teacher> 陳虹樺  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>

@@ -287,7 +287,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（一） </name>
-<teacher> 龔俊嘉   ,  蕭富仁*  ,  楊政達   ,  林君昱   ,  胡書榕   ,  黃碧群   ,  陳德祐  </teacher>
+<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁*  ,  楊政達   ,  林君昱   ,  胡書榕   ,  黃碧群   ,  陳德祐  </teacher>
 <score> 3 </score>
 <time day1="5" s1="9" e1="11"> [5]9~B  </time>
 <must> 選修 </must>
@@ -338,6 +338,20 @@
 <note></note>
 </D8>
 
+<D8 id="108">
+<num>D8-108</num>
+<class></class>
+<group></group>
+<name> 大數據在原住民教育與就業的AI分析與應用 </name>
+<teacher> 許育典   ,  蔡群立*  ,  胡中凡   ,  陳培殷  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-經濟 </place>
+<note> 法律系類別：法律系相鄰學科；經濟系屬自由選修 </note>
+</D8>
+
 <D8 id="151">
 <num>D8-151</num>
 <class></class>
@@ -359,7 +373,7 @@
 <name> 記憶心理學 </name>
 <teacher> 林君昱  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>

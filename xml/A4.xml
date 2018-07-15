@@ -287,11 +287,11 @@
 <name> 藝術生活科-表演藝術教材教法 </name>
 <teacher> 朱芳慧  </teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
-<note></note>
+<note> 兩星期上一次 </note>
 </A4>
 
 <A4 id="401">
@@ -362,6 +362,20 @@
 <type> 講義 </type>
 <place> 雲平大樓                      e化創新教室 </place>
 <note> 1.選修科目。   2.「教育專業課程」與「專門課程」學分不得重複採計。 </note>
+</A4>
+
+<A4 id="406">
+<num>A4-406</num>
+<class> 學程                           </class>
+<group></group>
+<name> 家政教育概論 </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      e化創新教室 </place>
+<note></note>
 </A4>
 
 <A4 id="409">
