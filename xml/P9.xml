@@ -63,7 +63,7 @@
 <name> 企業工程與整合 </name>
 <teacher> 陳裕民  </teacher>
 <score> 3 </score>
-<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
@@ -180,6 +180,20 @@
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
 <note> 製造所、資訊所合班；MOOCs課程 </note>
+</P9>
+
+<P9 id="022">
+<num>P9-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 精實管理 </name>
+<teacher> 洪郁修   ,  楊大和* </teacher>
+<score> 3 </score>
+<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:儀設大樓4樓95416(工學院會議室) </note>
 </P9>
 
 <P9 id="023">

@@ -14,6 +14,20 @@
 <note> 不分組 </note>
 </N1>
 
+<N1 id="003">
+<num>N1-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 藍兆杰  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note> 丙組(設計組) </note>
+</N1>
+
 <N1 id="005">
 <num>N1-005</num>
 <class> 碩二                           </class>
@@ -26,6 +40,20 @@
 <type> 講義 </type>
 <place> 機械系館                      俊銘講堂 </place>
 <note> 不分組 </note>
+</N1>
+
+<N1 id="007">
+<num>N1-007</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 藍兆杰  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91204 </place>
+<note> 丙組(設計組) </note>
 </N1>
 
 <N1 id="011">
@@ -92,6 +120,20 @@
 <teacher> 陳寒濤  </teacher>
 <score> 3 </score>
 <time day1="1" s1="2" e1="2" day2="2" s2="2" e2="3"> [1]2  ,  [2]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      91102 </place>
+<note></note>
+</N1>
+
+<N1 id="023">
+<num>N1-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 波動力學 </name>
+<teacher> 楊天祥  </teacher>
+<score> 3 </score>
+<time day1="1" s1="3" e1="4" day2="4" s2="3" e2="3"> [1]3~4  ,  [4]3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91102 </place>
@@ -590,7 +632,7 @@
 <time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95703 </place>
+<place> 機械系館                      91202 </place>
 <note></note>
 </N1>
 

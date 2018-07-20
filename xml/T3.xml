@@ -210,4 +210,32 @@
 <note> 生科中心暑期課程 </note>
 </T3>
 
+<T3 id="021">
+<num>T3-021</num>
+<class> 碩                             </class>
+<group></group>
+<name> 醫檢與藥品產業關鍵技術實作 </name>
+<teacher> 劉宗霖   ,  陳百昇   ,  陳呈堯   ,  阮振維* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑假上課 </note>
+</T3>
+
+<T3 id="022">
+<num>T3-022</num>
+<class> 碩                             </class>
+<group></group>
+<name> 醫藥智財佈局及技轉實務演練 </name>
+<teacher> 謝淑珠   ,  黃溫雅*  ,  莊偉哲  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</T3>
+
 </content>

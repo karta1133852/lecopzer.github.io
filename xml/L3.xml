@@ -95,7 +95,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 理化大樓                      35306 </place>
-<note></note>
+<note> 英語授課 </note>
 </L3>
 
 <L3 id="014">
@@ -207,7 +207,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 化學系館                      3268 </place>
-<note></note>
+<note> 英語授課 </note>
 </L3>
 
 </content>

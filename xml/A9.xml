@@ -1183,10 +1183,10 @@
 <name> 以專業華語談老化與倫理 </name>
 <teacher> 蔡美玲  </teacher>
 <score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 人文學 </type>
-<place> 共同教室                      A1307(資源後) </place>
+<place> 共同教室                      A1302 </place>
 <note> 本課程係針對本校國際學位生開設，為國際學位生修習一年華語課程後之進階華語課程。僅限已修過本校中文特別班之國際生選課。 </note>
 </A9>
 
@@ -2371,7 +2371,7 @@
 <class></class>
 <group></group>
 <name> 通識專題講座-大學導航 </name>
-<teacher> 許瑞榮   ,  王浩文   ,  張怡玲*  ,  李偉賢   ,  邵揮洲   ,  吳豐光   ,  湯銘哲  </teacher>
+<teacher> 許瑞榮   ,  王浩文   ,  張怡玲*  ,  李偉賢   ,  邵揮洲   ,  湯銘哲  </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -2399,7 +2399,7 @@
 <class></class>
 <group></group>
 <name> 踏溯台南 </name>
-<teacher> 吳少方   ,  辛佳玲   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  高實玫*  ,  柯瓊琪  </teacher>
+<teacher> 吳少方   ,  辛佳玲   ,  杜佩璇   ,  曾惠鈴   ,  許富貴   ,  葉靜怡   ,  賴諭萱   ,  陳慧琴   ,  高實玫*  ,  柯瓊琪  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -2549,7 +2549,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 密集授課  學期第四~六週  星期四  第5,6,7 節 </note>
+<note> 教室：892S1  密集授課  學期第四~六週  星期四  第5,6,7 節 </note>
 </A9>
 
 <A9 id="647">
@@ -2563,7 +2563,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 密集授課  學期第七~九週  星期四  第5,6,7 節 </note>
+<note> 教室：892S1  密集授課  學期第七~九週  星期四  第5,6,7 節 </note>
 </A9>
 
 <A9 id="648">
@@ -2577,7 +2577,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 密集授課  學期第十~十二週  星期四第5,6,7 節 </note>
+<note> 教室：892S1  密集授課  學期第十~十二週  星期四第5,6,7 節 </note>
 </A9>
 
 <A9 id="649">
@@ -2591,7 +2591,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 密集授課  學期第十三~十五週  星期四  第5,6,7 節 </note>
+<note> 教室：892S1  密集授課  學期第十三~十五週  星期四  第5,6,7 節 </note>
 </A9>
 
 <A9 id="650">
@@ -2605,7 +2605,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 密集授課  學期第十六~十八週星期四  第5,6,7 節 </note>
+<note> 教室：892S1  密集授課  學期第十六~十八週星期四  第5,6,7 節 </note>
 </A9>
 
 <A9 id="651">

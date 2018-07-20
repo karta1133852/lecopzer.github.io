@@ -182,4 +182,18 @@
 <note> 醫工系與國企所合開 </note>
 </R6>
 
+<R6 id="015">
+<num>R6-015</num>
+<class> 碩                             </class>
+<group></group>
+<name> 自我探索與職涯發展 </name>
+<teacher> 張紹基  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 國企所                        61401 </place>
+<note></note>
+</R6>
+
 </content>

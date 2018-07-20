@@ -328,20 +328,6 @@
 <note></note>
 </C4>
 
-<C4 id="115">
-<num>C4-115</num>
-<class></class>
-<group></group>
-<name> 板塊地質學 </name>
-<teacher> 袁彼得  </teacher>
-<score> 3 </score>
-<time day1="4" s1="7" e1="8" day2="1" s2="7" e2="7"> [4]7~8  ,  [1]7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 地科系館                      3031 </place>
-<note></note>
-</C4>
-
 <C4 id="116">
 <num>C4-116</num>
 <class></class>
@@ -368,6 +354,20 @@
 <type> 講義 </type>
 <place> 地科系館                      3017 </place>
 <note> 英語授課 </note>
+</C4>
+
+<C4 id="118">
+<num>C4-118</num>
+<class></class>
+<group></group>
+<name> 沉積地層學 </name>
+<teacher> 袁彼得  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="8" day2="1" s2="7" e2="7"> [4]7~8  ,  [1]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 地科系館                      3031 </place>
+<note></note>
 </C4>
 
 <C4 id="152">

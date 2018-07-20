@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 廖泓鈞*  ,  李純純  </teacher>
+<teacher> 王浩文*  ,  李純純  </teacher>
 <score> 1 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 張松彬*  ,  劉雅心  </teacher>
+<teacher> 宋皇模   ,  吳文鑾* </teacher>
 <score> 1 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
@@ -47,7 +47,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 仲澤剛史*  ,  小島健司  </teacher>
+<teacher> 仲澤剛史* </teacher>
 <score> 1 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 博三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 廖泓鈞*  ,  李純純  </teacher>
+<teacher> 王浩文*  ,  李純純  </teacher>
 <score> 0 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>

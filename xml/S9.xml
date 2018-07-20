@@ -341,7 +341,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等儀器分析(一) </name>
-<teacher> 洪澤民*  ,  蔡坤哲  </teacher>
+<teacher> 洪澤民   ,  蔡坤哲* </teacher>
 <score> 2 </score>
 <time day1="6" s1="1" e1="9"> [6]1~9  </time>
 <must> 選修 </must>
@@ -537,7 +537,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 高等儀器分析（一） </name>
-<teacher> 洪澤民*  ,  蔡坤哲  </teacher>
+<teacher> 洪澤民   ,  蔡坤哲* </teacher>
 <score> 2 </score>
 <time day1="6" s1="1" e1="9"> [6]1~9  </time>
 <must> 必修 </must>

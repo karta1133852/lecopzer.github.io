@@ -184,6 +184,20 @@
 <note> 能源學程與航太系合開，能源學程為必修、航太系為選修 </note>
 </F4>
 
+<F4 id="012">
+<num>F4-012</num>
+<class></class>
+<group></group>
+<name> 微積分預備課程 </name>
+<teacher> 張克勤   ,  彭兆仲* </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5821 </place>
+<note> 1.本課程為彈性密集授課(8月20日至9月7日)。2.上課時間為每週一、二、四、五，9:00~12:00(共3小時) </note>
+</F4>
+
 <F4 id="044">
 <num>F4-044</num>
 <class></class>

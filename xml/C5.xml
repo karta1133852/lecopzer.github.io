@@ -33,7 +33,7 @@
 <class></class>
 <group></group>
 <name> 普通生物學（一） </name>
-<teacher> 陳虹樺   ,  蔣鎮宇   ,  宋皇模   ,  張松彬   ,  廖泓鈞*  ,  劉雅心   ,  小島健司   ,  吳文鑾   ,  李瑞花  </teacher>
+<teacher> 陳虹樺   ,  蔣鎮宇   ,  宋皇模   ,  張松彬   ,  廖泓鈞*  ,  劉雅心   ,  吳文鑾   ,  李瑞花  </teacher>
 <score> 4 </score>
 <time day1="1" s1="5" e1="6" day2="5" s2="3" e2="4"> [1]5~6  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -263,7 +263,7 @@
 <class></class>
 <group></group>
 <name> 功能性生物資料分析 </name>
-<teacher> 宋皇模*  ,  小島健司  </teacher>
+<teacher> 宋皇模* </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
@@ -375,7 +375,7 @@
 <class></class>
 <group></group>
 <name> 書報討論（一） </name>
-<teacher> 宋皇模*  ,  吳文鑾  </teacher>
+<teacher> 廖泓鈞   ,  劉雅心* </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
@@ -389,7 +389,7 @@
 <class></class>
 <group></group>
 <name> 書報討論（一） </name>
-<teacher> 何盧勳* </teacher>
+<teacher> 何盧勳*  ,  張松彬  </teacher>
 <score> 1 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
