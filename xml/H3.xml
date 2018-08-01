@@ -147,12 +147,12 @@
 <class></class>
 <group></group>
 <name> 工業管理概論 </name>
-<teacher> 胡政宏  </teacher>
+<teacher></teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<time day1="0" s1="0" e1="0"> </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61104 </place>
+<place></place>
 <note></note>
 </H3>
 

@@ -89,12 +89,12 @@
 <class></class>
 <group></group>
 <name> 法學緒論 </name>
-<teacher> 未定  </teacher>
+<teacher></teacher>
 <score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<time day1="0" s1="0" e1="0"> </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    實習法庭 </place>
+<place></place>
 <note> 基礎法學 </note>
 </D2>
 
@@ -397,12 +397,12 @@
 <class></class>
 <group></group>
 <name> 強制執行法 </name>
-<teacher> 未定  </teacher>
+<teacher></teacher>
 <score> 2 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time day1="0" s1="0" e1="0"> </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80109 </place>
+<place></place>
 <note> 特別法 </note>
 </D2>
 

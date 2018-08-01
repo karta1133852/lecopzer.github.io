@@ -358,6 +358,34 @@
 <note></note>
 </E7>
 
+<E7 id="129">
+<num>E7-129</num>
+<class> 大學部                         </class>
+<group></group>
+<name> 老屋工作坊-壁體修繕 </name>
+<teacher> 簡聖芬  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 本課程為密集式授課，由系辦統一加簽 </note>
+</E7>
+
+<E7 id="130">
+<num>E7-130</num>
+<class> 大學部                         </class>
+<group></group>
+<name> 老屋工作坊-屋頂修繕 </name>
+<teacher> 簡聖芬  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 本課程為密集式授課,，由系辦統一加簽 </note>
+</E7>
+
 <E7 id="152">
 <num>E7-152</num>
 <class> 工程組                         </class>

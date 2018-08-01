@@ -5,7 +5,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 民航實務 </name>
-<teacher> 王　宏  </teacher>
+<teacher> 李志偉  </teacher>
 <score> 3 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
@@ -75,7 +75,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 航電系統 </name>
-<teacher> 未定  </teacher>
+<teacher> 賴盈誌  </teacher>
 <score> 3 </score>
 <time day1="1" s1="3" e1="3" day2="3" s2="3" e2="4"> [1]3  ,  [3]3~4  </time>
 <must> 選修 </must>

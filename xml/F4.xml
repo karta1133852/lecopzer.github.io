@@ -119,7 +119,7 @@
 <class></class>
 <group> A </group>
 <name> 工程圖學 </name>
-<teacher> 未定  </teacher>
+<teacher> 闕志哲  </teacher>
 <score> 1 </score>
 <time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 必修 </must>
@@ -133,7 +133,7 @@
 <class></class>
 <group> B </group>
 <name> 工程圖學 </name>
-<teacher> 未定  </teacher>
+<teacher> 闕志哲  </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
@@ -461,7 +461,7 @@
 <class></class>
 <group></group>
 <name> 航機載重平衡與簽派 </name>
-<teacher> 許　平  </teacher>
+<teacher> 鄭伯瑜  </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 選修 </must>
@@ -517,7 +517,7 @@
 <class></class>
 <group></group>
 <name> 航空工業製造概論（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 邢有光  </teacher>
 <score> 3 </score>
 <time day1="4" s1="7" e1="9"> [4]7~9  </time>
 <must> 選修 </must>
@@ -593,7 +593,7 @@
 <class></class>
 <group> B </group>
 <name> 航太工程實作（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 許紘瑋  </teacher>
 <score> 2 </score>
 <time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
 <must> 必修 </must>

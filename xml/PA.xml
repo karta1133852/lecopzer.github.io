@@ -199,11 +199,25 @@
 <name> 運算媒體 </name>
 <teacher> 卓彥廷  </teacher>
 <score> 3 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5153 </place>
-<note> 乙組選修 </note>
+<place></place>
+<note> 乙組選修。本課程為密集式授課。 </note>
+</PA>
+
+<PA id="017">
+<num>PA-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業實作三 </name>
+<teacher> 卓彥廷  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 1.本課程為密集式授課 2.修過創業實作二或運算媒體課程者方可修習 </note>
 </PA>
 
 </content>

@@ -245,10 +245,10 @@
 <name> 護理知識發展 </name>
 <teacher> 顏妙芬* </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85101 </place>
+<place></place>
 <note> 國際博士班課程；上課地點85109會議室 </note>
 </T2>
 

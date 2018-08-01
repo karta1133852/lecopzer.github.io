@@ -229,7 +229,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 蔡建泓  </teacher>
+<teacher> 郭致宏  </teacher>
 <score> 0 </score>
 <time day1="5" s1="9" e1="10"> [5]9~A  </time>
 <must> 必修 </must>
@@ -908,6 +908,20 @@
 <type> 講義 </type>
 <place> 電機系館                      92B28 </place>
 <note></note>
+</N2>
+
+<N2 id="114">
+<num>N2-114</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 智慧綠能農業 </name>
+<teacher> 黃浩仁   ,  梁從主* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 本課程係彈性密集課程，上課節次時間:9月5日及6日2-4節、5-8節，9月7日1-4節，上課教室92720，餘詳見課程大綱 </note>
 </N2>
 
 <N2 id="301">

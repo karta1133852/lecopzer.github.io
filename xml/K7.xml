@@ -154,4 +154,32 @@
 <note></note>
 </K7>
 
+<K7 id="012">
+<num>K7-012</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 考古空間資訊整合 </name>
+<teacher> 熊仲卿*  ,  莊家銘  </teacher>
+<score> 1 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 密集課程，GIS教室，第1 週(9/10)9-12時，第2 週(9/17)9-12時，第4 週(10/1)9-12時，第5 週(10/8)8-12時13-18時 </note>
+</K7>
+
+<K7 id="013">
+<num>K7-013</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 貿易陶瓷考古進階分析 </name>
+<teacher> 鍾國風*  ,  劉益昌   ,  趙金勇  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 彈性密集課程，9/18(二)10-12時;14-16時;9/19(三)10-12時;14-16時;9/20(四)10-12時;14-16時;9/21(五)10-12時;14-16時;16-18時 </note>
+</K7>
+
 </content>

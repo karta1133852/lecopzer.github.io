@@ -5,7 +5,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 胡宣德  </teacher>
+<teacher> 郭振銘  </teacher>
 <score> 0 </score>
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習（一） </name>
-<teacher> 胡宣德  </teacher>
+<teacher> 郭振銘  </teacher>
 <score> 1 </score>
 <time day1="5" s1="8" e1="9"> [5]8~9  </time>
 <must> 選修 </must>
@@ -173,7 +173,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習（三） </name>
-<teacher> 胡宣德  </teacher>
+<teacher> 郭振銘  </teacher>
 <score> 1 </score>
 <time day1="5" s1="8" e1="9"> [5]8~9  </time>
 <must> 選修 </must>
@@ -236,6 +236,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
 <note> 碩博與碩專合班，甲組核心，碩專選修，英語授課。 </note>
+</N6>
+
+<N6 id="024">
+<num>N6-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 數值模擬法 </name>
+<teacher> 王永明  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note></note>
 </N6>
 
 <N6 id="025">
@@ -341,7 +355,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 大地工程實務 </name>
-<teacher> 未定  </teacher>
+<teacher> 陳福成  </teacher>
 <score> 3 </score>
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
@@ -537,7 +551,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 胡宣德  </teacher>
+<teacher> 郭振銘  </teacher>
 <score> 0 </score>
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
@@ -628,6 +642,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4505 </place>
 <note> 碩博與碩專合班，甲組核心，碩專選修，英語授課。 </note>
+</N6>
+
+<N6 id="324">
+<num>N6-324</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 數值模擬法 </name>
+<teacher> 王永明  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4501 </place>
+<note></note>
 </N6>
 
 <N6 id="325">
@@ -733,7 +761,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 大地工程實務 </name>
-<teacher> 未定  </teacher>
+<teacher> 陳福成  </teacher>
 <score> 3 </score>
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>

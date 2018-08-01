@@ -5,7 +5,7 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 林宇銜  </teacher>
+<teacher> 沈聖智*  ,  林宇銜  </teacher>
 <score> 0 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -19,7 +19,7 @@
 <class> 碩二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 林宇銜  </teacher>
+<teacher> 沈聖智*  ,  林宇銜  </teacher>
 <score> 0 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -75,7 +75,7 @@
 <class> 博一                           </class>
 <group></group>
 <name> 專題討論（一） </name>
-<teacher> 林宇銜  </teacher>
+<teacher> 沈聖智*  ,  林宇銜  </teacher>
 <score> 0 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -89,7 +89,7 @@
 <class> 博二                           </class>
 <group></group>
 <name> 專題討論（三） </name>
-<teacher> 林宇銜  </teacher>
+<teacher> 沈聖智*  ,  林宇銜  </teacher>
 <score> 0 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -131,7 +131,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 林宇銜  </teacher>
+<teacher> 沈聖智*  ,  林宇銜  </teacher>
 <score> 0 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>

@@ -43,7 +43,7 @@
 <class></class>
 <group></group>
 <name> 普通物理學（一） </name>
-<teacher> 陳泉宏  </teacher>
+<teacher> 未定  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="2" day2="5" s2="1" e2="2"> [2]2  ,  [5]1~2  </time>
 <must> 必修 </must>
@@ -239,7 +239,7 @@
 <class></class>
 <group></group>
 <name> 土地法 </name>
-<teacher> 未定  </teacher>
+<teacher> 楊大偉  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>

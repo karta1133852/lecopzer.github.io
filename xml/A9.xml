@@ -53,7 +53,21 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 教室: 博物館多功能聽104學年度(含)以前學生為「哲學與藝術」 </note>
+<note> 教室: 博物館多功能廳，104學年度(含)以前學生為「哲學與藝術」 </note>
+</A9>
+
+<A9 id="005">
+<num>A9-005</num>
+<class></class>
+<group></group>
+<name> 倫理學 </name>
+<teacher> 陳欣白  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 企管系館                      62229 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
 </A9>
 
 <A9 id="006">
@@ -250,6 +264,20 @@
 <type> 生命科學與健康 </type>
 <place> 醫學院                        303D </place>
 <note></note>
+</A9>
+
+<A9 id="061">
+<num>A9-061</num>
+<class></class>
+<group></group>
+<name> 應用化學與實驗 </name>
+<teacher> 謝慕道  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 理化大樓                      35102 </place>
+<note> 限未修普化實驗者修 </note>
 </A9>
 
 <A9 id="063">
@@ -655,6 +683,20 @@
 <must> 必修 </must>
 <type> 社會科學 </type>
 <place> 會計系館                      63102 </place>
+<note></note>
+</A9>
+
+<A9 id="127">
+<num>A9-127</num>
+<class></class>
+<group></group>
+<name> 正義思辨 </name>
+<teacher> 陳欣白  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 社會科學 </type>
+<place> 統計系館                      62119 </place>
 <note></note>
 </A9>
 
@@ -1176,6 +1218,20 @@
 <note> 科際整合領域  相關領域：人文學、社會科學、生命科學與健康 </note>
 </A9>
 
+<A9 id="212">
+<num>A9-212</num>
+<class></class>
+<group></group>
+<name> 哲學概論 </name>
+<teacher> 陳欣白  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 必修 </must>
+<type> 人文學 </type>
+<place> 企管系館                      62210 </place>
+<note> 104學年度(含)以前入學生為「哲學與藝術」 </note>
+</A9>
+
 <A9 id="213">
 <num>A9-213</num>
 <class></class>
@@ -1531,7 +1587,7 @@
 <class></class>
 <group></group>
 <name> 智慧綠生活 </name>
-<teacher> 鄭泰昇   ,  蔡耀賢   ,  柳川肯   ,  鄒克萬*  ,  周君瑞   ,  洪郁修   ,  陳璽任   ,  林蕙玟   ,  高如妃  </teacher>
+<teacher> 鄭泰昇   ,  蔡耀賢   ,  柳川肯   ,  鄒克萬*  ,  周君瑞   ,  洪郁修   ,  陳璽任   ,  楊佳翰   ,  高如妃  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -1890,6 +1946,20 @@
 <note></note>
 </A9>
 
+<A9 id="361">
+<num>A9-361</num>
+<class></class>
+<group></group>
+<name> 應用化學與實驗 </name>
+<teacher> 謝慕道  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place> 理化大樓                      35102 </place>
+<note> 限未修普化實驗者修 </note>
+</A9>
+
 <A9 id="381">
 <num>A9-381</num>
 <class></class>
@@ -2217,7 +2287,7 @@
 <class></class>
 <group></group>
 <name> 科技與生命價值 </name>
-<teacher> 鄭淑惠   ,  賴麗娟   ,  張書銓*  ,  方冠榮   ,  邵揮洲   ,  洪郁修   ,  盧文祥   ,  李欣怡   ,  楊大和   ,  楊曉瑩   ,  蔡美玲   ,  陳麗光  </teacher>
+<teacher> 邵揮洲* </teacher>
 <score> 2 </score>
 <time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 必修 </must>
@@ -2385,7 +2455,7 @@
 <class></class>
 <group></group>
 <name> 踏溯台南 </name>
-<teacher> 吳少方   ,  辛佳玲   ,  曾惠鈴   ,  葉靜怡   ,  賴諭萱   ,  郭美芳   ,  陳家煌   ,  高實玫   ,  林明澤   ,  柯瓊琪   ,  陳玉女*  ,  陳文松   ,  李啟彰   ,  黃崇明   ,  陳佳彬   ,  鍾國風   ,  劉益昌   ,  熊仲卿  </teacher>
+<teacher> 吳少方   ,  郭美芳   ,  陳家煌   ,  陳玉女*  ,  陳文松   ,  陳計堯   ,  李啟彰   ,  蔡侑樺   ,  黃崇明   ,  陳佳彬   ,  鍾國風   ,  劉益昌   ,  熊仲卿  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>

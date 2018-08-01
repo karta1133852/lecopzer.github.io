@@ -433,7 +433,7 @@
 <class></class>
 <group> B </group>
 <name> 臨床生化學實習 </name>
-<teacher> 謝淑珠  </teacher>
+<teacher> 黃暉升* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -447,7 +447,7 @@
 <class></class>
 <group> C </group>
 <name> 臨床生化學實習 </name>
-<teacher> 黃暉升  </teacher>
+<teacher> 謝淑珠* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>

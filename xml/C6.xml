@@ -193,12 +193,12 @@
 <class></class>
 <group></group>
 <name> 醫藥生技與產業概論 </name>
-<teacher> 劉宗霖   ,  曾大千   ,  洪良宜*  ,  陳芃婷   ,  楊岱樺   ,  陳炳焜   ,  張雅雯  </teacher>
+<teacher> 劉宗霖   ,  洪良宜*  ,  陳芃婷   ,  楊岱樺   ,  陳炳焜   ,  張雅雯  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 生科院大樓                    89816 </place>
+<place> 生科院大樓                    892S1 </place>
 <note> 生技系與醫工系合開 </note>
 </C6>
 
@@ -447,7 +447,7 @@
 <name> 國際生技專案執行與實務 </name>
 <teacher> 陳宗嶽*  ,  王涵青* </teacher>
 <score> 3 </score>
-<time day1="1" s1="4.5" e1="4.5" day2="2" s2="4.5" e2="4.5" day3="3" s3="4.5" e3="4.5"> [1]N  ,  [2]N  ,  [3]N  </time>
+<time day1="1" s1="1" e1="1" day2="4" s2="4.5" e2="4.5" day3="5" s3="4.5" e3="4.5" day4="1" s4="4.5" e4="4.5" day5="2" s5="4.5" e5="4.5" day6="3" s6="4.5" e6="4.5"> [1]1  ,  [4]N  ,  [5]N  ,  [1]N  ,  [2]N  ,  [3]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place> 生科院大樓                    89A16 </place>
