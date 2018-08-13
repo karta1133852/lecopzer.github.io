@@ -283,7 +283,7 @@
 <class></class>
 <group></group>
 <name> 能源實驗（二） </name>
-<teacher> 陳維新   ,  王偉成  </teacher>
+<teacher> 陳維新   ,  王偉成* </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 必修 </must>
@@ -316,7 +316,7 @@
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91C04 </place>
+<place> 機械系館                      91201 </place>
 <note> 能源學程與機械系合開。 </note>
 </F0>
 

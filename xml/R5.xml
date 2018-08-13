@@ -224,20 +224,6 @@
 <note> 交管所、電管所與碩專班合開，電信所必修 </note>
 </R5>
 
-<R5 id="142">
-<num>R5-142</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 通訊網路 </name>
-<teacher> 陳文字  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62X02 </place>
-<note> 電管所必修 </note>
-</R5>
-
 <R5 id="179">
 <num>R5-179</num>
 <class> 碩博                           </class>
@@ -273,11 +259,11 @@
 <name> 多變量分析 </name>
 <teacher> 陳勁甫* </teacher>
 <score> 3 </score>
-<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 交管系館                      62205 </place>
-<note> 交管所、電管所與碩專班合開 </note>
+<place> 交管系館                      62307 </place>
+<note> 交管所、電管所 </note>
 </R5>
 
 <R5 id="184">
@@ -306,20 +292,6 @@
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
 <note> 限碩專班選修(碩一必修) </note>
-</R5>
-
-<R5 id="302">
-<num>R5-302</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 多變量分析 </name>
-<teacher> 陳勁甫* </teacher>
-<score> 3 </score>
-<time day1="5" s1="10" e1="12"> [5]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 交管系館                      62205 </place>
-<note> 交管所、電管所與碩專班合開 </note>
 </R5>
 
 <R5 id="303">
@@ -369,7 +341,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（一） </name>
-<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 戴佐敏   ,  胡守任   ,  魏健宏   ,  鄭永祥   ,  陳勁甫*  ,  胡大瀛   ,  張有恒   ,  張瀞之   ,  林東盈   ,  陳文字   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
@@ -383,7 +355,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（三） </name>
-<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 戴佐敏   ,  胡守任   ,  魏健宏   ,  鄭永祥   ,  陳勁甫*  ,  胡大瀛   ,  張有恒   ,  張瀞之   ,  林東盈   ,  陳文字   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
@@ -397,7 +369,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（五） </name>
-<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 戴佐敏   ,  胡守任   ,  魏健宏   ,  鄭永祥   ,  陳勁甫*  ,  胡大瀛   ,  張有恒   ,  張瀞之   ,  林東盈   ,  陳文字   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
@@ -411,7 +383,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 獨立研究（七） </name>
-<teacher> 魏健宏   ,  廖俊雄*  ,  鄭永祥   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 戴佐敏   ,  胡守任   ,  魏健宏   ,  鄭永祥   ,  陳勁甫*  ,  胡大瀛   ,  張有恒   ,  張瀞之   ,  林東盈   ,  陳文字   ,  黃郁雯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>

@@ -298,7 +298,7 @@
 <num>U2-122</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 刑事法基礎理論專題研究（一） </name>
+<name> 刑法爭議專題研究（一） </name>
 <teacher> 王效文  </teacher>
 <score> 2 </score>
 <time day1="1" s1="7" e1="8"> [1]7~8  </time>
@@ -460,6 +460,20 @@
 <type> 研討 </type>
 <place> 社科院大樓                    七樓會議室 </place>
 <note></note>
+</U2>
+
+<U2 id="134">
+<num>U2-134</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 中英文法律實務（一） </name>
+<teacher> 陳俊仁   ,  陳汶津* </teacher>
+<score> 1 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note> 本課程的期末成績評量，將包括選課同學參與辯論比賽的實習成果。學士班開放大三以上選修（學士班分類：專題及實例研討） </note>
 </U2>
 
 <U2 id="301">

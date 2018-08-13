@@ -19,7 +19,7 @@
 <class> 碩一                           </class>
 <group> A </group>
 <name> 進階護理核心概念 </name>
-<teacher> 王琪珍   ,  林梅鳳   ,  葉莉莉   ,  張瑩如   ,  徐畢卿   ,  黃美智*  ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝   ,  陳靜敏   ,  林靜蘭   ,  方素瓔   ,  陳幸眉   ,  賴維淑   ,  陳彰惠  </teacher>
+<teacher> 王琪珍   ,  林梅鳳   ,  葉莉莉   ,  張瑩如   ,  徐畢卿   ,  黃美智*  ,  柯乃熒   ,  許玉雲   ,  王靜枝   ,  陳靜敏   ,  林靜蘭   ,  方素瓔   ,  陳幸眉   ,  賴維淑  </teacher>
 <score> 3 </score>
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 必修 </must>
@@ -61,7 +61,7 @@
 <class> 碩三延                         </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 王琪珍   ,  林梅鳳   ,  張瑩如   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  王靜枝*  ,  陳靜敏   ,  林靜蘭   ,  陳幸眉   ,  陳彰惠  </teacher>
+<teacher> 王琪珍   ,  林梅鳳   ,  張瑩如   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  王靜枝*  ,  陳靜敏   ,  林靜蘭   ,  陳幸眉  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -187,7 +187,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 護理專業探究 </name>
-<teacher> 徐畢卿   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  馮瑞鶯   ,  王靜枝*  ,  陳靜敏   ,  陳幸眉  </teacher>
+<teacher> 徐畢卿   ,  黃美智   ,  柯乃熒   ,  許玉雲   ,  王靜枝*  ,  陳靜敏   ,  陳幸眉  </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>

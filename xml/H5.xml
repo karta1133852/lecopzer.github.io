@@ -19,7 +19,7 @@
 <class></class>
 <group></group>
 <name> 會計學（一） </name>
-<teacher> 謝喻婷  </teacher>
+<teacher> 吳思蓉  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
@@ -455,7 +455,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（二） </name>
-<teacher> 戴佐敏   ,  林正章   ,  廖俊雄   ,  鄭永祥   ,  胡大瀛   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  蔡東峻  </teacher>
+<teacher> 戴佐敏   ,  林正章   ,  鄭永祥*  ,  胡大瀛   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  蔡東峻  </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>

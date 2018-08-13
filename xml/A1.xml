@@ -1867,12 +1867,12 @@
 <class></class>
 <group></group>
 <name> 印尼語（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 董　莉  </teacher>
 <score> 2 </score>
 <time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7113 </place>
 <note></note>
 </A1>
 
@@ -1881,12 +1881,12 @@
 <class></class>
 <group></group>
 <name> 泰語（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 洪銘謙  </teacher>
 <score> 2 </score>
 <time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7113 </place>
 <note></note>
 </A1>
 
@@ -1895,12 +1895,12 @@
 <class></class>
 <group></group>
 <name> 阿拉伯語（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 江孟勳  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 唯農大樓                      7113 </place>
 <note></note>
 </A1>
 

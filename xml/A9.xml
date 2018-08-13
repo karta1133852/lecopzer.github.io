@@ -1148,20 +1148,6 @@
 <note></note>
 </A9>
 
-<A9 id="207">
-<num>A9-207</num>
-<class></class>
-<group></group>
-<name> 台灣傳統戲曲賞析 </name>
-<teacher> 李欣怡  </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 企管系館                      62218 </place>
-<note> 英語授課,104學年度(含)以前入學生為「哲學與藝術」 </note>
-</A9>
-
 <A9 id="208">
 <num>A9-208</num>
 <class></class>
@@ -1778,20 +1764,6 @@
 <note></note>
 </A9>
 
-<A9 id="312">
-<num>A9-312</num>
-<class></class>
-<group></group>
-<name> 劇場表演與創意 </name>
-<teacher> 李欣怡  </teacher>
-<score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 必修 </must>
-<type> 人文學 </type>
-<place> 交管系館                      62102 </place>
-<note></note>
-</A9>
-
 <A9 id="313">
 <num>A9-313</num>
 <class></class>
@@ -2226,6 +2198,20 @@
 <note> 科際整合課程相關領域：人文學、社會科學、自然與工程科學,與建築系合班 </note>
 </A9>
 
+<A9 id="482">
+<num>A9-482</num>
+<class></class>
+<group></group>
+<name> 服務創新科技應用 </name>
+<teacher> 陸定邦  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place> 無                            53211 </place>
+<note> 科際整合相關領域：人文學、社會科學、自然與工程科學 </note>
+</A9>
+
 <A9 id="483">
 <num>A9-483</num>
 <class></class>
@@ -2469,7 +2455,7 @@
 <class></class>
 <group></group>
 <name> 踏溯台南 </name>
-<teacher> 吳少方   ,  辛佳玲   ,  杜佩璇   ,  曾惠鈴   ,  許富貴   ,  葉靜怡   ,  賴諭萱   ,  陳慧琴   ,  高實玫*  ,  柯瓊琪  </teacher>
+<teacher> 吳少方*  ,  辛佳玲   ,  杜佩璇   ,  曾惠鈴   ,  許富貴   ,  葉靜怡   ,  賴諭萱   ,  陳慧琴  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -2605,7 +2591,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place> 生科院大樓                    892S1 </place>
-<note> 密集授課，學期第一~~三週  星期四  第5,6,7 節 </note>
+<note> 唯9/13 上課教室：893S1  密集授課，學期第一~~三週  星期四  第5,6,7 節 </note>
 </A9>
 
 <A9 id="646">

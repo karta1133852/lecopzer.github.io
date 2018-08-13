@@ -105,7 +105,7 @@
 <class></class>
 <group> A </group>
 <name> 基本設計（一） </name>
-<teacher> 莊惠棋  </teacher>
+<teacher> 簡瑋麒  </teacher>
 <score> 3 </score>
 <time day1="5" s1="5" e1="6" day2="1" s2="5" e2="8"> [5]5~6  ,  [1]5~8  </time>
 <must> 必修 </must>
@@ -286,20 +286,6 @@
 <note></note>
 </F3>
 
-<F3 id="063">
-<num>F3-063</num>
-<class></class>
-<group></group>
-<name> 意象設計 </name>
-<teacher> 莊惠棋  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 無                            53311 </place>
-<note></note>
-</F3>
-
 <F3 id="065">
 <num>F3-065</num>
 <class></class>
@@ -412,6 +398,20 @@
 <note></note>
 </F3>
 
+<F3 id="121">
+<num>F3-121</num>
+<class></class>
+<group></group>
+<name> 體驗設計概論 </name>
+<teacher> 簡瑋麒  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5204A </place>
+<note></note>
+</F3>
+
 <F3 id="122">
 <num>F3-122</num>
 <class></class>
@@ -424,6 +424,34 @@
 <type> 講義 </type>
 <place> 工設系館                      5204A </place>
 <note></note>
+</F3>
+
+<F3 id="123">
+<num>F3-123</num>
+<class></class>
+<group></group>
+<name> I-caps , D-camps國際設計營 </name>
+<teacher> 何俊亨  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 僅限參加「I-caps, D-camps國際設計營」同學選修，本課程為密集式授課 </note>
+</F3>
+
+<F3 id="124">
+<num>F3-124</num>
+<class></class>
+<group></group>
+<name> 2018亞洲七所學校聯合國際設計營 </name>
+<teacher> 何俊亨  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 僅限參加「2018亞洲七所學校聯合國際設計營」同學選修，本課程為密集式授課 </note>
 </F3>
 
 <F3 id="152">

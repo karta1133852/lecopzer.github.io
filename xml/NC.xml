@@ -112,4 +112,18 @@
 <note></note>
 </NC>
 
+<NC id="009">
+<num>NC-009</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 蕭士俊  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4645 </place>
+<note> 延畢生每學期至少需選修一門課程 </note>
+</NC>
+
 </content>

@@ -140,6 +140,20 @@
 <note></note>
 </A7>
 
+<A7 id="011">
+<num>A7-011</num>
+<class></class>
+<group></group>
+<name> 基礎國文(綜合文類)（一） </name>
+<teacher> 陳菘霖  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 基礎國文 </type>
+<place> 都計系館                      50204 </place>
+<note></note>
+</A7>
+
 <A7 id="012">
 <num>A7-012</num>
 <class></class>
@@ -271,13 +285,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文(綜合文類)（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳菘霖  </teacher>
 <score> 2 </score>
 <time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 基礎國文 </type>
 <place> 軍訓館                        6022 </place>
-<note> 陳菘齡老師 </note>
+<note></note>
 </A7>
 
 <A7 id="023">
@@ -452,7 +466,7 @@
 <num>A7-038</num>
 <class></class>
 <group></group>
-<name> 基礎國文(現代小說)（一） </name>
+<name> 基礎國文(綜合文類)（一） </name>
 <teacher> 翁文嫻  </teacher>
 <score> 2 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>

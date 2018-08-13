@@ -699,7 +699,7 @@
 <class></class>
 <group> A </group>
 <name> 臨床微生物學實習 </name>
-<teacher> 蔡佩珍  </teacher>
+<teacher> 陳呈堯* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -713,7 +713,7 @@
 <class></class>
 <group> B </group>
 <name> 臨床微生物學實習 </name>
-<teacher> 阮振維  </teacher>
+<teacher> 陳呈堯* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -727,7 +727,7 @@
 <class></class>
 <group> C </group>
 <name> 臨床微生物學實習 </name>
-<teacher> 陳呈堯  </teacher>
+<teacher> 蔡佩珍* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -741,7 +741,7 @@
 <class></class>
 <group> D </group>
 <name> 臨床微生物學實習 </name>
-<teacher> 陳呈堯  </teacher>
+<teacher> 阮振維* </teacher>
 <score> 4 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>

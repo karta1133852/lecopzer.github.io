@@ -5,7 +5,7 @@
 <class></class>
 <group></group>
 <name> 初級會計學（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 吳思蓉  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
@@ -81,7 +81,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 吳思蓉  </teacher>
 <score> 0 </score>
 <time day1="1" s1="9" e1="9"> [1]9  </time>
 <must> 必修 </must>

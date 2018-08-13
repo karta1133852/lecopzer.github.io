@@ -89,12 +89,12 @@
 <class></class>
 <group></group>
 <name> 法學緒論 </name>
-<teacher></teacher>
+<teacher> 陳宗憶  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 社科院大樓                    實習法庭 </place>
 <note> 基礎法學 </note>
 </D2>
 
@@ -215,7 +215,7 @@
 <class></class>
 <group></group>
 <name> 法理學（一） </name>
-<teacher> 未定  </teacher>
+<teacher> 陳宗憶  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 選修 </must>
@@ -397,13 +397,27 @@
 <class></class>
 <group></group>
 <name> 強制執行法 </name>
-<teacher></teacher>
+<teacher> 陳宗憶  </teacher>
 <score> 2 </score>
-<time day1="0" s1="0" e1="0"> </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 特別法 </note>
+</D2>
+
+<D2 id="115">
+<num>D2-115</num>
+<class></class>
+<group></group>
+<name> 與法學大師對話（一） </name>
+<teacher> 侯英泠*  ,  葉婉如* </teacher>
+<score> 0.5 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 特別法 </note>
+<note> 課程採微學分與彈性密集授課，類別「專題及實例研討」。9/25舉辦專題演講；9/28進行工作坊。歡迎全系及跨領域學生選修 </note>
 </D2>
 
 <D2 id="152">

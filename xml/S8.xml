@@ -126,6 +126,34 @@
 <note> 先修過臨床神經心理學、臨床心理病理學 </note>
 </S8>
 
+<S8 id="010">
+<num>S8-010</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 兒童心理衡鑑 </name>
+<teacher> 黃惠玲* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
+<note> 新開設課程 </note>
+</S8>
+
+<S8 id="011">
+<num>S8-011</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 兒童心理治療 </name>
+<teacher> 黃惠玲* </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        204D </place>
+<note> 新開設課程 </note>
+</S8>
+
 <S8 id="012">
 <num>S8-012</num>
 <class> 碩一二                         </class>
@@ -180,6 +208,34 @@
 <type> 講義 </type>
 <place> 醫學院                        202D </place>
 <note></note>
+</S8>
+
+<S8 id="016">
+<num>S8-016</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 精神藥物學 </name>
+<teacher> 李怡慧   ,  陳柏熹*  ,  曾懷萱  </teacher>
+<score> 2 </score>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:醫院12B會議室(新開設課程) </note>
+</S8>
+
+<S8 id="017">
+<num>S8-017</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 生理回饋治療 </name>
+<teacher> 廖御圻* </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        203D </place>
+<note> 新開設課程 </note>
 </S8>
 
 </content>

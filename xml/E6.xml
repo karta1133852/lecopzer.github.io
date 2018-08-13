@@ -780,6 +780,20 @@
 <note> 大二以上，由課程暨學生校外實習委員會審核通過才可以選修 </note>
 </E6>
 
+<E6 id="159">
+<num>E6-159</num>
+<class> 甲乙                           </class>
+<group></group>
+<name> 建築資訊模型軟體應用 </name>
+<teacher> 馮重偉   ,  劉光晏* </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      47240 </place>
+<note> 土木系電腦教室47240 </note>
+</E6>
+
 <E6 id="160">
 <num>E6-160</num>
 <class> 甲乙                           </class>
@@ -850,20 +864,6 @@
 <note> 甲乙合班，土木工程設計實務(甲~戊)五選一 </note>
 </E6>
 
-<E6 id="173">
-<num>E6-173</num>
-<class> 甲乙                           </class>
-<group></group>
-<name> 土木工程設計實務（丙） </name>
-<teacher> 郭振銘  </teacher>
-<score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 土木系館                      209 </place>
-<note> 甲乙合班，土木工程設計實務(甲~戊)五選一 </note>
-</E6>
-
 <E6 id="174">
 <num>E6-174</num>
 <class> 甲乙                           </class>
@@ -871,7 +871,7 @@
 <name> 土木工程設計實務（丁） </name>
 <teacher> 王雲哲  </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      209 </place>

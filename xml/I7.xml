@@ -103,7 +103,7 @@
 <class></class>
 <group></group>
 <name> 解剖學（含實驗） </name>
-<teacher> 郭余民*  ,  黃步敏   ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
+<teacher> 郭余民*  ,  吳佳慶   ,  許鍾瑜   ,  王家義   ,  王仰高  </teacher>
 <score> 6 </score>
 <time day1="1" s1="5" e1="8" day2="2" s2="1" e2="4" day3="4" s3="1" e3="4" day4="5" s4="1" e4="4"> [1]5~8  ,  [2]1~4  ,  [4]1~4  ,  [5]1~4  </time>
 <must> 必修 </must>
@@ -327,7 +327,7 @@
 <class></class>
 <group></group>
 <name> 職能治療專題討論 </name>
-<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英   ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴* </teacher>
+<teacher> 蔡佩倫   ,  張哲豪   ,  黃雅淑   ,  汪翠瀅   ,  林玲伊   ,  馬慧英*  ,  張玲慧   ,  郭立杰   ,  陳官琳   ,  黃百川   ,  張雁晴  </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>

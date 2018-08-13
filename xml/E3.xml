@@ -335,7 +335,7 @@
 <class> 甲乙丙                         </class>
 <group></group>
 <name> 化工概論 </name>
-<teacher> 未定  </teacher>
+<teacher> 龔仲偉   ,  游聲盛* </teacher>
 <score> 0 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -895,7 +895,7 @@
 <class> 甲                             </class>
 <group></group>
 <name> 程序設計 </name>
-<teacher> 未定*  ,  吳　煒   ,  張珏庭  </teacher>
+<teacher> 吳　煒   ,  龔仲偉*  ,  張珏庭  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
@@ -937,7 +937,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 程序設計 </name>
-<teacher> 未定*  ,  吳　煒   ,  張珏庭  </teacher>
+<teacher> 吳　煒   ,  龔仲偉*  ,  張珏庭  </teacher>
 <score> 3 </score>
 <time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
@@ -979,7 +979,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 程序設計 </name>
-<teacher> 未定*  ,  吳　煒   ,  張珏庭  </teacher>
+<teacher> 吳　煒   ,  龔仲偉*  ,  張珏庭  </teacher>
 <score> 3 </score>
 <time day1="2" s1="7" e1="8" day2="4" s2="1" e2="1"> [2]7~8  ,  [4]1  </time>
 <must> 必修 </must>
