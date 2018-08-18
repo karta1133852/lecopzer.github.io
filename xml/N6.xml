@@ -476,6 +476,20 @@
 <note> 碩博與碩專合班，丙組核心，碩專選修，英語授課。 </note>
 </N6>
 
+<N6 id="064">
+<num>N6-064</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料變形機制 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time day1="5" s1="8" e1="10"> [5]8~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班，英語授課。 </note>
+</N6>
+
 <N6 id="065">
 <num>N6-065</num>
 <class> 碩博                           </class>
@@ -530,6 +544,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
 <note></note>
+</N6>
+
+<N6 id="074">
+<num>N6-074</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 工程成本與財務 </name>
+<teacher> 張行道  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班，戊組核心課程，英語授課。 </note>
 </N6>
 
 <N6 id="077">
@@ -882,6 +910,20 @@
 <note> 碩博與碩專合班，丙組核心，碩專選修，英語授課。 </note>
 </N6>
 
+<N6 id="364">
+<num>N6-364</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 材料變形機制 </name>
+<teacher> 王雲哲  </teacher>
+<score> 3 </score>
+<time day1="5" s1="8" e1="10"> [5]8~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班，英語授課。 </note>
+</N6>
+
 <N6 id="365">
 <num>N6-365</num>
 <class> 碩專                           </class>
@@ -936,6 +978,20 @@
 <type> 講義 </type>
 <place> 土木系館                      4507 </place>
 <note></note>
+</N6>
+
+<N6 id="374">
+<num>N6-374</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 工程成本與財務 </name>
+<teacher> 張行道  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 土木系館                      4506 </place>
+<note> 碩博與碩專合班，戊組核心課程，英語授課。 </note>
 </N6>
 
 <N6 id="377">

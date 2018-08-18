@@ -224,20 +224,6 @@
 <note></note>
 </B2>
 
-<B2 id="030">
-<num>B2-030</num>
-<class></class>
-<group></group>
-<name> 英文／語文領域英語教材教法 </name>
-<teacher> 鄒文莉  </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26401 </place>
-<note> 1.教育學程第3學期始可修習；2.須修畢或正修習「4選2」與「6選3」課程方可 </note>
-</B2>
-
 <B2 id="051">
 <num>B2-051</num>
 <class></class>
@@ -473,7 +459,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 微學分18小時課程，於10/06, 10/13, 10/20三天 8:30 - 15:30 密集上課 </note>
+<note> 微學分18小時課程，於10/06, 10/13, 10/20三天 9:10 - 17:00 密集上課 </note>
 </B2>
 
 <B2 id="101">

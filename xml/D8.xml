@@ -161,7 +161,7 @@
 <class></class>
 <group></group>
 <name> 心理學概論（一） </name>
-<teacher> 龔俊嘉*  ,  楊政達   ,  林君昱   ,  胡書榕   ,  黃碧群   ,  吳瑞屯  </teacher>
+<teacher> 龔俊嘉   ,  蕭富仁   ,  楊政達   ,  周麗芳*  ,  林君昱   ,  胡書榕   ,  黃碧群   ,  陳德祐  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 必修 </must>
@@ -240,20 +240,6 @@
 <note></note>
 </D8>
 
-<D8 id="059">
-<num>D8-059</num>
-<class></class>
-<group></group>
-<name> 日常生活中的統計 </name>
-<teacher> 鄭中平  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
-<note></note>
-</D8>
-
 <D8 id="101">
 <num>D8-101</num>
 <class></class>
@@ -261,7 +247,7 @@
 <name> 生理心理學 </name>
 <teacher> 蕭富仁   ,  胡書榕*  ,  陳德祐  </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80201 </place>
@@ -275,7 +261,7 @@
 <name> 生理心理學實驗 </name>
 <teacher> 蕭富仁   ,  陳德祐* </teacher>
 <score> 2 </score>
-<time day1="2" s1="5" e1="8"> [2]5~8  </time>
+<time day1="4" s1="5" e1="8"> [4]5~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 社科院大樓                    80201 </place>
@@ -357,7 +343,7 @@
 <class></class>
 <group></group>
 <name> 應用心理學實習 </name>
-<teacher> 周麗芳   ,  胡中凡   ,  鄭中平*  ,  黃柏僩   ,  徐欣萍  </teacher>
+<teacher> 胡中凡   ,  鄭中平   ,  黃柏僩*  ,  徐欣萍  </teacher>
 <score> 2 </score>
 <time day1="1" s1="9" e1="12"> [1]9~C  </time>
 <must> 選修 </must>

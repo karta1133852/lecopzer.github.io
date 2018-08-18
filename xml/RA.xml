@@ -172,14 +172,14 @@
 <num>RA-013</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 行銷策略 </name>
+<name> 多變量分析 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
 <time day1="6" s1="2" e1="4"> [6]2~4  </time>
-<must> 選修 </must>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 選修課程/隔週上課/限本系 </note>
+<note> 行銷策略原時段改開多變量分析/博士班方法學門/碩士班選修課程 </note>
 </RA>
 
 <RA id="014">
@@ -410,14 +410,14 @@
 <num>RA-311</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 行銷策略 </name>
+<name> 多變量分析 </name>
 <teacher> 吳萬益  </teacher>
 <score> 3 </score>
 <time day1="6" s1="2" e1="4"> [6]2~4  </time>
-<must> 選修 </must>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
-<note> 選修課程/隔週上課/限本系 </note>
+<note> 行銷策略原時段改開多變量分析/博士班方法學門/碩士班選修課程 </note>
 </RA>
 
 <RA id="312">

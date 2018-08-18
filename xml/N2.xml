@@ -635,7 +635,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 電機械固態控制 </name>
-<teacher> 謝旻甫  </teacher>
+<teacher> 謝旻甫*  ,  施凱中  </teacher>
 <score> 3 </score>
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
@@ -921,7 +921,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92720 </place>
-<note> 本課程係彈性密集課程，上課節次時間:9月5日及6日2-4節、5-8節，9月7日1-4節，上課教室92720，餘詳見課程大綱 </note>
+<note> 本課程係彈性密集課程，上課節次時間:8月30日及31日2-4節、5-8節，9月7日1-4節，上課教室92720，餘詳見課程大綱 </note>
 </N2>
 
 <N2 id="301">
@@ -1033,7 +1033,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      92177 </place>
-<note> 碩博碩專合班 </note>
+<note> 碩博碩專合班英語授課 </note>
 </N2>
 
 <N2 id="331">

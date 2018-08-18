@@ -259,7 +259,7 @@
 <name> 彈性穩定學 </name>
 <teacher> 陳聯文  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<time day1="1" s1="2" e1="2" day2="4" s2="7" e2="8"> [1]2  ,  [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91103 </place>

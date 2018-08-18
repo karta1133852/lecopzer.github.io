@@ -450,6 +450,20 @@
 <note></note>
 </I6>
 
+<I6 id="125">
+<num>I6-125</num>
+<class></class>
+<group></group>
+<name> 初級救護技術學 </name>
+<teacher> 施欣怡   ,  徐祥清   ,  蔡一如* </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        物治104 </place>
+<note> 先修物理治療導論 </note>
+</I6>
+
 <I6 id="152">
 <num>I6-152</num>
 <class></class>

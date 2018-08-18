@@ -201,13 +201,13 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 愛滋病與公共衛生 </name>
-<teacher> 柯乃熒  </teacher>
+<teacher> 柯乃熒*  ,  莊佳蓉  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 上課教室:門診大樓8樓公衛所08077會議室 </note>
+<place> 醫學院                        201D </place>
+<note></note>
 </T8>
 
 <T8 id="016">

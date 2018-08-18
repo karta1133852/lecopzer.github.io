@@ -145,7 +145,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習 </name>
-<teacher> 林珮珺*  ,  戴佐敏   ,  胡守任   ,  鄭永祥   ,  陳勁甫   ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
+<teacher> 林珮珺   ,  戴佐敏   ,  胡守任   ,  鄭永祥   ,  陳勁甫*  ,  胡大瀛   ,  張有恒   ,  黃國平   ,  張瀞之   ,  林東盈   ,  李威勳   ,  黃郁雯   ,  沈宗緯   ,  林佐鼎   ,  蔡東峻  </teacher>
 <score> 1 </score>
 <time day1="5" s1="1" e1="1" day2="5" s2="4.5" e2="4.5"> [5]1  ,  [5]N  </time>
 <must> 選修 </must>
@@ -305,7 +305,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62205 </place>
-<note> 限碩專班選修(碩二必選) </note>
+<note> 限碩專班選修 </note>
 </R5>
 
 <R5 id="304">

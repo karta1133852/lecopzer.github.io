@@ -112,6 +112,34 @@
 <note> 密集授課，7/7，C-Hub教室 </note>
 </AN>
 
+<AN id="065">
+<num>AN-065</num>
+<class></class>
+<group></group>
+<name> 仿生學 </name>
+<teacher> 辛致煒  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 密集授課，10/13~11/3 </note>
+</AN>
+
+<AN id="066">
+<num>AN-066</num>
+<class></class>
+<group></group>
+<name> 以工業設計方法探討能源問題 </name>
+<teacher> 周君瑞   ,  陳璽任* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 密集授課，9/15~16 </note>
+</AN>
+
 <AN id="151">
 <num>AN-151</num>
 <class></class>
