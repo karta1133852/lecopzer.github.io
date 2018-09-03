@@ -89,12 +89,12 @@
 <class> 碩一                           </class>
 <group></group>
 <name> 分子毒理 </name>
-<teacher> 黃暉升  </teacher>
+<teacher> 黃暉升* </teacher>
 <score> 1 </score>
-<time day1="1" s1="1" e1="1"> [1]1  </time>
+<time day1="1" s1="2" e1="2"> [1]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫技醫工館                    5777 </place>
+<place> 醫技醫工館                    5761 </place>
 <note></note>
 </T3>
 
@@ -229,7 +229,7 @@
 <class> 碩                             </class>
 <group></group>
 <name> 醫藥智財佈局及技轉實務演練 </name>
-<teacher> 謝淑珠   ,  黃溫雅*  ,  莊偉哲  </teacher>
+<teacher> 謝淑珠   ,  黃溫雅* </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>

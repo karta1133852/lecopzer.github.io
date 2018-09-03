@@ -84,20 +84,6 @@
 <note> 與工程管理專班合開限碩專班學生選修 </note>
 </N0>
 
-<N0 id="317">
-<num>N0-317</num>
-<class> 碩專一二                       </class>
-<group></group>
-<name> 工程經濟 </name>
-<teacher> 陳家榮  </teacher>
-<score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資源系館                      4352 </place>
-<note> 選課人數未達10人，停開本課程。 </note>
-</N0>
-
 <N0 id="318">
 <num>N0-318</num>
 <class> 碩專一二                       </class>
@@ -206,8 +192,8 @@
 <time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 上課教室:儀設大樓4樓95416(工學院會議室) </note>
+<place> 照坤精密儀器大樓              95403 </place>
+<note></note>
 </N0>
 
 </content>

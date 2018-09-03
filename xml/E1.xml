@@ -1250,7 +1250,7 @@
 <time day1="4" s1="7" e1="8" day2="2" s2="4" e2="4"> [4]7~8  ,  [2]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 機械系館                      91207 </place>
+<place> 機械系館                      91203 </place>
 <note> 大碩合開 </note>
 </E1>
 
@@ -1394,20 +1394,6 @@
 <note> 大碩合開 </note>
 </E1>
 
-<E1 id="177">
-<num>E1-177</num>
-<class> 甲乙丙                         </class>
-<group></group>
-<name> 高等動力學 </name>
-<teacher> 藍兆杰  </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="8" day2="3" s2="9" e2="9"> [1]7~8  ,  [3]9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 機械系館                      91207 </place>
-<note></note>
-</E1>
-
 <E1 id="312">
 <num>E1-312</num>
 <class> 學程                           </class>
@@ -1415,7 +1401,7 @@
 <name> 機械學群教材教法 </name>
 <teacher> 施士塵  </teacher>
 <score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 機械系館                      91A04 </place>

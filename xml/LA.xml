@@ -122,7 +122,7 @@
 <time day1="1" s1="5" e1="6" day2="5" s2="4" e2="4"> [1]5~6  ,  [5]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 綜合大樓                      48216 </place>
+<place> 物理二館                      49116 </place>
 <note> 與物理所合開, 電漿所主開 </note>
 </LA>
 
@@ -148,20 +148,6 @@
 <teacher> 河森榮一郎  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 綜合大樓                      48111B </place>
-<note></note>
-</LA>
-
-<LA id="015">
-<num>LA-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 閃電物理 </name>
-<teacher> 陳炳志  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 綜合大樓                      48111B </place>

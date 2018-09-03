@@ -1573,7 +1573,7 @@
 <class></class>
 <group></group>
 <name> 智慧綠生活 </name>
-<teacher> 鄭泰昇   ,  蔡耀賢   ,  柳川肯   ,  鄒克萬*  ,  周君瑞   ,  洪郁修   ,  陳璽任   ,  楊佳翰   ,  高如妃  </teacher>
+<teacher> 張　珩   ,  鄭泰昇   ,  陳世明   ,  簡聖芬   ,  蔡耀賢   ,  柳川肯   ,  鄭皓騰   ,  鄒克萬*  ,  周君瑞   ,  洪郁修   ,  陳璽任   ,  仲曉玲   ,  楊佳翰   ,  高如妃  </teacher>
 <score> 2 </score>
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
@@ -2016,6 +2016,20 @@
 <note> 教室：藝術中心；9/10~19至藝術中心登記選課；助教-分機:50061。科際整合:人、社 </note>
 </A9>
 
+<A9 id="386">
+<num>A9-386</num>
+<class></class>
+<group></group>
+<name> 生活中玩光電 </name>
+<teacher> 徐旭政  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 自然與工程科學 </type>
+<place></place>
+<note> 普物實驗室35221 </note>
+</A9>
+
 <A9 id="401">
 <num>A9-401</num>
 <class></class>
@@ -2231,7 +2245,7 @@
 <class></class>
 <group></group>
 <name> 生醫用工程學導論 </name>
-<teacher> 林睿哲   ,  王士豪   ,  張憲彰   ,  張志涵   ,  葉明龍*  ,  胡晉嘉   ,  鄭國順   ,  莊漢聲   ,  黃執中   ,  方佑華   ,  吳炳慶   ,  林哲偉   ,  涂庭源  </teacher>
+<teacher> 林建宏   ,  林睿哲   ,  王士豪   ,  張憲彰   ,  張志涵   ,  葉明龍*  ,  胡晉嘉   ,  鄭國順   ,  莊漢聲   ,  黃執中   ,  方佑華   ,  吳炳慶   ,  林哲偉   ,  涂庭源  </teacher>
 <score> 2 </score>
 <time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 必修 </must>
@@ -2538,6 +2552,20 @@
 <note1></note1>
 </A9>
 
+<A9 id="584">
+<num>A9-584</num>
+<class></class>
+<group></group>
+<name> 永續發展跨域原理 </name>
+<teacher> 王筱雯*  ,  黃泰霖  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 必修 </must>
+<type> 科際整合 </type>
+<place></place>
+<note> 授課教室：10/20 10/27 10/28(50204)  11/26~28(5118) </note>
+</A9>
+
 <A9 id="641">
 <num>A9-641</num>
 <class></class>
@@ -2577,7 +2605,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 10/16,10/23, 10/30,11/13, 11/20,11/27   18:30-21:30 </note>
+<note> 10/16,10/23, 10/30,11/13, 11/20,11/27   18:30-21:30   教室：格致聽大講堂 </note>
 </A9>
 
 <A9 id="644">
@@ -2591,7 +2619,7 @@
 <must> 必修 </must>
 <type> 人文學 </type>
 <place></place>
-<note> 10/17,10/24, 10/31, 11/14,11/21,11/28  18:30-21:30 </note>
+<note> 10/17,10/24, 10/31, 11/14,11/21,11/28  18:30-21:30  教室：格致聽大講堂 </note>
 </A9>
 
 <A9 id="645">

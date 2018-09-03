@@ -122,7 +122,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62203 </place>
+<place> 雲平大樓                      27803 </place>
 <note> 選修課程 </note>
 </RA>
 
@@ -150,7 +150,7 @@
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62201 </place>
+<place> 雲平大樓                      27803 </place>
 <note> 選修課程 </note>
 </RA>
 
@@ -164,7 +164,7 @@
 <time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62201 </place>
+<place> 管理學院                      62203 </place>
 <note> 選修課程/限本系 </note>
 </RA>
 
@@ -280,6 +280,20 @@
 <note> 選修課程/限本系 </note>
 </RA>
 
+<RA id="021">
+<num>RA-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 策略管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩班核心課程 </note>
+</RA>
+
 <RA id="302">
 <num>RA-302</num>
 <class> 碩專                           </class>
@@ -360,7 +374,7 @@
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62203 </place>
+<place> 雲平大樓                      27803 </place>
 <note> 選修課程 </note>
 </RA>
 
@@ -388,7 +402,7 @@
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62201 </place>
+<place> 雲平大樓                      27803 </place>
 <note> 選修課程 </note>
 </RA>
 
@@ -402,7 +416,7 @@
 <time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 管理學院                      62201 </place>
+<place> 管理學院                      62203 </place>
 <note> 選修課程/限本系 </note>
 </RA>
 
@@ -516,6 +530,20 @@
 <type> 講義 </type>
 <place> 管理學院                      62201 </place>
 <note> 選修課程/限本系 </note>
+</RA>
+
+<RA id="319">
+<num>RA-319</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 策略管理 </name>
+<teacher> 許介文  </teacher>
+<score> 3 </score>
+<time day1="7" s1="2" e1="4"> [7]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62201 </place>
+<note> 碩班核心課程 </note>
 </RA>
 
 <RA id="331">

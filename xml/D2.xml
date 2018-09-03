@@ -98,6 +98,20 @@
 <note> 基礎法學 </note>
 </D2>
 
+<D2 id="012">
+<num>D2-012</num>
+<class></class>
+<group></group>
+<name> 法律與文學 </name>
+<teacher> 葉婉如  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80109 </place>
+<note> 基礎法學 </note>
+</D2>
+
 <D2 id="055">
 <num>D2-055</num>
 <class></class>
@@ -402,7 +416,7 @@
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80109 </place>
+<place> 社科院大樓                    80203 </place>
 <note> 特別法 </note>
 </D2>
 
@@ -472,7 +486,7 @@
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80109 </place>
+<place> 社科院大樓                    80205 </place>
 <note> 特別法 </note>
 </D2>
 

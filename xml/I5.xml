@@ -280,20 +280,6 @@
 <note> 限醫學院 </note>
 </I5>
 
-<I5 id="061">
-<num>I5-061</num>
-<class></class>
-<group></group>
-<name> 夢之賞讀 </name>
-<teacher> 賴明亮* </teacher>
-<score> 1 </score>
-<time day1="2" s1="1" e1="2"> [2]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        204D </place>
-<note> A模組選修課程 </note>
-</I5>
-
 <I5 id="062">
 <num>I5-062</num>
 <class></class>

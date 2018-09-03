@@ -5,7 +5,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 建築設計（一） </name>
-<teacher> 林煌迪   ,  顏世樺   ,  陳恥德   ,  陳品蓁   ,  宋立文*  ,  龔柏閔   ,  蔡寧   ,  林軒丞  </teacher>
+<teacher> 林煌迪   ,  陳恥德   ,  陳品蓁   ,  宋立文*  ,  龔柏閔   ,  蔡寧   ,  林軒丞  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="6"> [2]6  </time>
 <must> 必修 </must>
@@ -119,7 +119,7 @@
 <class> 甲乙                           </class>
 <group></group>
 <name> 建築設計（三） </name>
-<teacher> 吳秉聲   ,  恩宇   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤*  ,  郭秉煒  </teacher>
+<teacher> 吳秉聲   ,  顏世樺   ,  恩宇   ,  辛柏毅   ,  陳彥伶   ,  吳建志   ,  陳穎澤*  ,  郭秉煒  </teacher>
 <score> 4 </score>
 <time day1="2" s1="1" e1="9"> [2]1~9  </time>
 <must> 必修 </must>
@@ -461,7 +461,7 @@
 <class> 設計組                         </class>
 <group></group>
 <name> 建築設計（八） </name>
-<teacher> 杜怡萱   ,  薛丞倫*  ,  蔡耀賢  </teacher>
+<teacher> 杜怡萱   ,  薛丞倫*  ,  蔡耀賢   ,  吳光庭  </teacher>
 <score> 7 </score>
 <time day1="1" s1="9" e1="12" day2="2" s2="4.5" e2="13"> [1]9~C  ,  [2]N~D  </time>
 <must> 必修 </must>

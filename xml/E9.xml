@@ -86,6 +86,12 @@
 <time3 day1="5" s1="8" e1="8"> [5]8  </time3>
 <place3> 共同教室                      A1305 </place3>
 <note3></note3>
+<class4></class4>
+<group4> D </group4>
+<name4> 微積分（一） </name4>
+<time4 day1="5" s1="8" e1="8"> [5]8  </time4>
+<place4> 共同教室                      A1301 </place4>
+<note4></note4>
 </E9>
 
 <E9 id="012">
@@ -206,20 +212,6 @@
 <note></note>
 </E9>
 
-<E9 id="059">
-<num>E9-059</num>
-<class></class>
-<group></group>
-<name> 材料力學（二） </name>
-<teacher> 陳蓉珊  </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41101 </place>
-<note></note>
-</E9>
-
 <E9 id="060">
 <num>E9-060</num>
 <class></class>
@@ -294,20 +286,6 @@
 <time1 day1="2" s1="8" e1="10"> [2]8~A  </time1>
 <place1> 工科系館                      41202 </place1>
 <note1></note1>
-</E9>
-
-<E9 id="109">
-<num>E9-109</num>
-<class></class>
-<group></group>
-<name> 機動學 </name>
-<teacher> 劉立偉  </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工科系館                      41107 </place>
-<note></note>
 </E9>
 
 <E9 id="111">

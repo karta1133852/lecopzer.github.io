@@ -117,7 +117,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 細胞生物學特論（一） </name>
-<teacher> 陳昌熙   ,  王憶卿*  ,  姜學誠   ,  郭余民  </teacher>
+<teacher> 王憶卿*  ,  張雋曦   ,  姜學誠   ,  張志鵬   ,  郭余民  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
@@ -201,7 +201,7 @@
 <class> 博                             </class>
 <group></group>
 <name> 神經科學特論 </name>
-<teacher> 曾淑芬   ,  何盧勳   ,  陳柏熹   ,  許桂森   ,  簡伯武   ,  姜學誠   ,  蕭雅心   ,  黃阿敏   ,  楊尚訓*  ,  陳珮君   ,  張雅雯   ,  游一龍   ,  蔡坤哲   ,  郭余民   ,  許鍾瑜  </teacher>
+<teacher> 曾淑芬   ,  何盧勳   ,  陳柏熹   ,  許桂森   ,  簡伯武   ,  姜學誠   ,  蕭雅心   ,  黃阿敏   ,  楊尚訓*  ,  陳珮君   ,  張雅雯   ,  游一龍   ,  吳偉立   ,  蔡坤哲   ,  郭余民   ,  許鍾瑜  </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
@@ -355,7 +355,7 @@
 <class> 博一二                         </class>
 <group></group>
 <name> 癌症研究入門 </name>
-<teacher> 黃溫雅   ,  周楠華   ,  賴明德   ,  黃柏憲   ,  呂增宏   ,  沈孟儒   ,  王憶卿   ,  張雋曦   ,  劉校生   ,  張志鵬*  ,  鄭宏祺   ,  呂佩融   ,  陳玉玲   ,  謝達斌  </teacher>
+<teacher> 黃溫雅   ,  周楠華   ,  賴明德   ,  黃柏憲   ,  呂增宏   ,  沈孟儒   ,  王憶卿   ,  張雋曦   ,  劉校生   ,  張志鵬*  ,  鄭宏祺   ,  呂佩融   ,  陳玉玲   ,  黃則達  </teacher>
 <score> 2 </score>
 <time day1="3" s1="8" e1="9"> [3]8~9  </time>
 <must> 選修 </must>

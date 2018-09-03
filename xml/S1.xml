@@ -5,7 +5,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 高等分子生物學 </name>
-<teacher> 黃溫雅   ,  張文粲*  ,  陳昌熙   ,  王淑鶯   ,  余佳益   ,  鄭宏祺   ,  鄧景浩   ,  吳佳慶   ,  王仰高  </teacher>
+<teacher> 黃溫雅   ,  陳百昇   ,  張文粲*  ,  陳昌熙   ,  余建泓   ,  王淑鶯   ,  鄭宏祺   ,  鄧景浩   ,  王仰高  </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 必修 </must>
@@ -159,7 +159,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 癌症研究入門 </name>
-<teacher> 黃溫雅   ,  周楠華   ,  賴明德   ,  黃柏憲   ,  呂增宏   ,  沈孟儒   ,  王憶卿   ,  張雋曦   ,  劉校生   ,  張志鵬*  ,  鄭宏祺   ,  呂佩融   ,  陳玉玲   ,  謝達斌  </teacher>
+<teacher> 黃溫雅   ,  周楠華   ,  賴明德   ,  黃柏憲   ,  呂增宏   ,  沈孟儒   ,  王憶卿   ,  張雋曦   ,  劉校生   ,  張志鵬*  ,  鄭宏祺   ,  呂佩融   ,  陳玉玲   ,  黃則達  </teacher>
 <score> 2 </score>
 <time day1="3" s1="8" e1="9"> [3]8~9  </time>
 <must> 選修 </must>
@@ -208,6 +208,20 @@
 <type> 講義 </type>
 <place> 醫學院                        601 </place>
 <note></note>
+</S1>
+
+<S1 id="039">
+<num>S1-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生化研究入門(含學術倫理與生物安全) </name>
+<teacher> 吳昭良* </teacher>
+<score> 1 </score>
+<time day1="3" s1="7" e1="7"> [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:82-0929 </note>
 </S1>
 
 </content>
