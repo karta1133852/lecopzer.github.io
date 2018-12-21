@@ -1,95 +1,123 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<N5 id="005">
-<num>N5-005</num>
+<N5 id="003">
+<num>N5-003</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 固態離子元件 </name>
-<teacher> 方冠榮  </teacher>
+<name> 應用材料科學（二） </name>
+<teacher> 呂國彰  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="7" day2="5" s2="3" e2="4"> [3]7  ,  [5]3~4  </time>
+<time day1="3" s1="8" e1="9" day2="4" s2="6" e2="6"> [3]8~9  ,  [4]6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 材料系館                      4452 </place>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 尖端所與材料所合開 </note>
+</N5>
+
+<N5 id="013">
+<num>N5-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料光學特性 </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
 <note></note>
 </N5>
 
-<N5 id="012">
-<num>N5-012</num>
+<N5 id="015">
+<num>N5-015</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 生醫腐蝕 </name>
-<teacher> 陳瑾惠  </teacher>
+<name> 導電高分子特論 </name>
+<teacher> 徐邦昱  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 材料新館                      44609 </place>
-<note> 限碩一以上選課 </note>
+<place> 材料新館                      44201 </place>
+<note></note>
 </N5>
 
-<N5 id="017">
-<num>N5-017</num>
+<N5 id="016">
+<num>N5-016</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 碳材料概論 </name>
-<teacher> 朱建平  </teacher>
+<name> 金屬表面硬化熱處理 </name>
+<teacher> 李世欽  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44609 </place>
-<note> 第一階段不受理選課 </note>
-</N5>
-
-<N5 id="018">
-<num>N5-018</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 陶瓷特性 </name>
-<teacher> 黃肇瑞  </teacher>
-<score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 材料新館                      44709 </place>
 <note></note>
 </N5>
 
-<N5 id="024">
-<num>N5-024</num>
+<N5 id="018">
+<num>N5-018</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高分子化學 </name>
-<teacher> 郭昌恕  </teacher>
+<name> 薄膜材料學 </name>
+<teacher> 齊孝定  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料系館                      4452 </place>
+<note></note>
+</N5>
+
+<N5 id="027">
+<num>N5-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生醫材料特論 </name>
+<teacher> 陳瑾惠  </teacher>
+<score> 3 </score>
+<time day1="3" s1="1" e1="3"> [3]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44122 </place>
+<note></note>
+</N5>
+
+<N5 id="029">
+<num>N5-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 碳基摩擦材料 </name>
+<teacher> 朱建平  </teacher>
+<score> 3 </score>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44609 </place>
+<note></note>
+</N5>
+
+<N5 id="036">
+<num>N5-036</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高分子結晶特論 </name>
+<teacher> 阮至正  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 材料新館                      44124 </place>
-<note> 限20人選課    英語授課 </note>
+<note></note>
 </N5>
 
-<N5 id="099">
-<num>N5-099</num>
-<class> 碩                             </class>
-<group></group>
-<name> 應用材料專題－半導體與顯示器技術 </name>
-<teacher> 王寶琪  </teacher>
-<score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
-<must> 選修 </must>
-<type> 研討 </type>
-<place> 材料新館                      44101 </place>
-<note> 大學部、碩士班合開 </note>
-</N5>
-
-<N5 id="101">
-<num>N5-101</num>
+<N5 id="050">
+<num>N5-050</num>
 <class> 碩博一                         </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 齊孝定   ,  郭昌恕* </teacher>
+<name> 專題討論（二） </name>
+<teacher> 許文東*  ,  李旺龍  </teacher>
 <score> 1 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
@@ -98,12 +126,12 @@
 <note> 碩ㄧ博ㄧ修習 </note>
 </N5>
 
-<N5 id="102">
-<num>N5-102</num>
+<N5 id="051">
+<num>N5-051</num>
 <class> 碩博二                         </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 齊孝定   ,  郭昌恕* </teacher>
+<name> 專題討論（四） </name>
+<teacher> 許文東   ,  李旺龍* </teacher>
 <score> 1 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
@@ -112,12 +140,12 @@
 <note> 碩二博二修習 </note>
 </N5>
 
-<N5 id="105">
-<num>N5-105</num>
-<class> 碩博三延                       </class>
+<N5 id="052">
+<num>N5-052</num>
+<class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 齊孝定   ,  郭昌恕* </teacher>
+<teacher> 許文東   ,  李旺龍* </teacher>
 <score> 0 </score>
 <time day1="4" s1="7" e1="8"> [4]7~8  </time>
 <must> 必修 </must>
@@ -126,185 +154,157 @@
 <note> 限碩三博三(延)以上選修，0學分 </note>
 </N5>
 
-<N5 id="114">
-<num>N5-114</num>
+<N5 id="057">
+<num>N5-057</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 原子級模擬特論 </name>
-<teacher> 許文東  </teacher>
+<name> 固體熱力學 </name>
+<teacher> 朱建平  </teacher>
 <score> 3 </score>
-<time day1="3" s1="5" e1="5" day2="5" s2="3" e2="4"> [3]5  ,  [5]3~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 材料新館                      44202 </place>
+<place> 材料新館                      44609 </place>
+<note> 限碩一以上選課 </note>
+</N5>
+
+<N5 id="061">
+<num>N5-061</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高分子物理 </name>
+<teacher> 郭昌恕  </teacher>
+<score> 3 </score>
+<time day1="3" s1="5" e1="5" day2="5" s2="5" e2="6"> [3]5  ,  [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44609 </place>
 <note></note>
 </N5>
 
-<N5 id="118">
-<num>N5-118</num>
+<N5 id="092">
+<num>N5-092</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 應用材料科學（一） </name>
-<teacher> 呂國彰  </teacher>
+<name> 固態熱力學 </name>
+<teacher> 蘇彥勳  </teacher>
 <score> 3 </score>
-<time day1="1" s1="7" e1="8" day2="4" s2="6" e2="6"> [1]7~8  ,  [4]6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44124 </place>
-<note> 英語授課 尖端所與材料所合開 </note>
-</N5>
-
-<N5 id="126">
-<num>N5-126</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 組合式材料製程及其應用 </name>
-<teacher> 張高碩  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44203 </place>
-<note> 英語授課 </note>
-</N5>
-
-<N5 id="130">
-<num>N5-130</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 材料動力學 </name>
-<teacher> 方滄澤  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44202 </place>
-<note></note>
-</N5>
-
-<N5 id="131">
-<num>N5-131</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 材料動力學 </name>
-<teacher> 徐邦昱  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 材料新館                      44101 </place>
-<note></note>
+<note> 中文授課 </note>
+</N5>
+
+<N5 id="093">
+<num>N5-093</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 固態熱力學 </name>
+<teacher> 林士剛  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44202 </place>
+<note> 英語授課 </note>
 </N5>
 
 <N5 id="135">
 <num>N5-135</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 高等固態物理（一） </name>
+<name> 高等固態物理（二） </name>
 <teacher> 蘇彥勳  </teacher>
 <score> 3 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 材料新館                      44201 </place>
-<note> 英語授課 </note>
-</N5>
-
-<N5 id="138">
-<num>N5-138</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等材料分析 </name>
-<teacher> 阮至正  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="5" day2="2" s2="5" e2="6"> [1]5  ,  [2]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 化工系館                      93456 </place>
-<note> 1.中文授課班級2.以上優先係指開放第一階段選課之學生身分 </note>
-</N5>
-
-<N5 id="139">
-<num>N5-139</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 高等材料分析 </name>
-<teacher> 張高碩  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="5" day2="2" s2="5" e2="6"> [1]5  ,  [2]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44201 </place>
-<note> 1.外籍生優先 2.以上優先係指開放第一階段選課之學生身分 </note>
-</N5>
-
-<N5 id="140">
-<num>N5-140</num>
-<class> 碩                             </class>
-<group></group>
-<name> 薄膜工程 </name>
-<teacher> 丁志明  </teacher>
-<score> 3 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44202 </place>
-<note> 暑假8月密集授課。 </note>
-</N5>
-
-<N5 id="141">
-<num>N5-141</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 半導體工程 </name>
-<teacher> 陳嘉勻  </teacher>
-<score> 3 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 材料新館                      44124 </place>
-<note> 暑假8月密集授課。周一至周五6~8堂上課，本課程時程及進度詳見課程大綱。 </note>
+<place> 材料系館                      4452 </place>
+<note></note>
 </N5>
 
 <N5 id="150">
 <num>N5-150</num>
 <class> 碩                             </class>
 <group></group>
-<name> 微奈米元件製程與設計 </name>
+<name> 掃描探針技術特論 </name>
 <teacher> 劉浩志  </teacher>
 <score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 材料新館                      44122 </place>
+<place> 材料新館                      44709 </place>
+<note></note>
+</N5>
+
+<N5 id="151">
+<num>N5-151</num>
+<class> 碩                             </class>
+<group></group>
+<name> 無機固體光譜學概論 </name>
+<teacher> 齊孝定  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44202 </place>
 <note></note>
 </N5>
 
 <N5 id="152">
 <num>N5-152</num>
-<class> 碩                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 鋼鐵製程特論 </name>
-<teacher> 陳引幹  </teacher>
+<name> 高解析式電子顯微鏡 </name>
+<teacher> 劉全璞  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time day1="2" s1="2" e1="2" day2="3" s2="2" e2="3"> [2]2  ,  [3]2~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 材料新館                      44101 </place>
+<place> 材料新館                      44609 </place>
 <note></note>
 </N5>
 
-<N5 id="153">
-<num>N5-153</num>
-<class> 碩                             </class>
+<N5 id="156">
+<num>N5-156</num>
+<class> 碩博                           </class>
 <group></group>
-<name> 半導體材料及元件理論 </name>
+<name> 氧化物微電子工程 </name>
 <teacher> 陳貞夙  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95403 </place>
+<place> 材料新館                      44124 </place>
+<note></note>
+</N5>
+
+<N5 id="157">
+<num>N5-157</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 奈米材料 </name>
+<teacher> 劉全璞  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="3" s2="4" e2="4"> [2]3~4  ,  [3]4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44609 </place>
+<note></note>
+</N5>
+
+<N5 id="158">
+<num>N5-158</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 光電高分子材料 </name>
+<teacher> 許聯崇  </teacher>
+<score> 3 </score>
+<time day1="3" s1="8" e1="8" day2="5" s2="7" e2="8"> [3]8  ,  [5]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44203 </place>
 <note></note>
 </N5>
 

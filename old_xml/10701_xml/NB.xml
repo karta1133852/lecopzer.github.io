@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<NB id="001">
+<num>NB-001</num>
+<class> 碩                             </class>
+<group></group>
+<name> 應用材料科學（一） </name>
+<teacher> 呂國彰  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="8" day2="4" s2="6" e2="6"> [1]7~8  ,  [4]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
+<note> 英語授課 尖端所與材料所合班 </note>
+</NB>
+
+<NB id="003">
+<num>NB-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高分子化學 </name>
+<teacher> 郭昌恕  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
+<note> 限20人選課    英語授課 </note>
+</NB>
+
+<NB id="004">
+<num>NB-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 組合式材料製程及其應用 </name>
+<teacher> 張高碩  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44203 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="006">
+<num>NB-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等固態物理（一） </name>
+<teacher> 蘇彥勳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44201 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="009">
+<num>NB-009</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="7"> [4]7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 材料新館                      44122 </place>
+<note></note>
+</NB>
+
+<NB id="010">
+<num>NB-010</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 1 </score>
+<time day1="4" s1="8" e1="8"> [4]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 材料新館                      44122 </place>
+<note></note>
+</NB>
+
+<NB id="012">
+<num>NB-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等材料分析 </name>
+<teacher> 張高碩  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="5" day2="2" s2="5" e2="6"> [1]5  ,  [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44201 </place>
+<note> 1.外籍生優先 2.以上優先係指開放第一階段選課之學生身分 </note>
+</NB>
+
+<NB id="019">
+<num>NB-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 孔洞材料之吸附原理與結構分析 </name>
+<teacher> 鄧熙聖  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93420 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="020">
+<num>NB-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 材料性質學 </name>
+<teacher> 鍾賢龍  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 化工系館                      93406 </place>
+<note> 英語授課 </note>
+</NB>
+
+<NB id="022">
+<num>NB-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 固態離子元件 </name>
+<teacher> 方冠榮  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="7" day2="5" s2="3" e2="4"> [3]7  ,  [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料系館                      4452 </place>
+<note></note>
+</NB>
+
+<NB id="025">
+<num>NB-025</num>
+<class> 碩                             </class>
+<group></group>
+<name> 薄膜工程 </name>
+<teacher> 丁志明  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44202 </place>
+<note> 暑假8月密集授課。 </note>
+</NB>
+
+<NB id="026">
+<num>NB-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體工程 </name>
+<teacher> 陳嘉勻  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 材料新館                      44124 </place>
+<note> 暑假8月密集授課。周一至周五6~8堂上課，本課程時程及進度詳見課程大綱。 </note>
+</NB>
+
+</content>

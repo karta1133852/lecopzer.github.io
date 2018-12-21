@@ -4,10 +4,10 @@
 <num>K5-001</num>
 <class> 博二                           </class>
 <group></group>
-<name> 研究方法 </name>
-<teacher> 楊芳枝  </teacher>
+<name> 台灣文學專題討論 </name>
+<teacher> 劉南芳  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88121 </place>
@@ -16,12 +16,12 @@
 
 <K5 id="002">
 <num>K5-002</num>
-<class> 博一                           </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 學術英文（一） </name>
-<teacher> 吳玫瑛  </teacher>
-<score> 0 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<name> 文學研究方法與論文寫作 </name>
+<teacher> 廖淑芳  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
@@ -30,20 +30,34 @@
 
 <K5 id="003">
 <num>K5-003</num>
-<class> 碩                             </class>
+<class> 博一                           </class>
 <group></group>
-<name> 學術英文（一） </name>
-<teacher> 吳玫瑛  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
+<name> 學術英文（二） </name>
+<teacher> 楊芳枝  </teacher>
+<score> 0 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88102 </place>
+<place> 台文系館                      88121 </place>
 <note></note>
 </K5>
 
 <K5 id="004">
 <num>K5-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 學術英文（二） </name>
+<teacher> 楊芳枝  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88121 </place>
+<note></note>
+</K5>
+
+<K5 id="005">
+<num>K5-005</num>
 <class> 碩博                           </class>
 <group></group>
 <name> 專題討論 </name>
@@ -52,46 +66,18 @@
 <time day1="5" s1="1" e1="2"> [5]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
-<note></note>
-</K5>
-
-<K5 id="005">
-<num>K5-005</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 台灣的生態旅遊與解說教育 </name>
-<teacher> 陳玉峯  </teacher>
-<score> 3 </score>
-<time day1="3" s1="9" e1="11"> [3]9~B  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 台文系館                      88102 </place>
-<note></note>
-</K5>
-
-<K5 id="006">
-<num>K5-006</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 「歷史與自然災害的集體記憶與敘事策略」研 </name>
-<teacher> 鍾秀梅  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88102 </place>
-<note></note>
+<note> 供無須修課的碩（專）博生選課 </note>
 </K5>
 
 <K5 id="007">
 <num>K5-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 賴和文學專題研究 </name>
-<teacher> 蔡明諺  </teacher>
+<name> 越語教材與教法 </name>
+<teacher> 蔣為文  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
@@ -102,13 +88,13 @@
 <num>K5-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 日治時期台灣翻譯文學與思潮 </name>
-<teacher> 吳毓琪  </teacher>
+<name> 現代詩專題研究 </name>
+<teacher> 蔡明諺  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 台文系館                      88121 </place>
+<place> 台文系館                      88102 </place>
 <note></note>
 </K5>
 
@@ -116,10 +102,10 @@
 <num>K5-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 後殖民理論與台灣文學專題 </name>
-<teacher> 游勝冠  </teacher>
+<name> 論述分析 </name>
+<teacher> 王右君  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
@@ -130,10 +116,10 @@
 <num>K5-010</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 台灣語文測驗評量專題 </name>
-<teacher> 蔣為文  </teacher>
+<name> 社會發展史專題 </name>
+<teacher> 李承機  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
@@ -144,66 +130,10 @@
 <num>K5-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 戰後台灣現代主義文學專題 </name>
-<teacher> 廖淑芳  </teacher>
+<name> 劇本創作專題 </name>
+<teacher> 劉南芳  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 台文系館                      88102 </place>
-<note></note>
-</K5>
-
-<K5 id="012">
-<num>K5-012</num>
-<class> 碩                             </class>
-<group></group>
-<name> 繪本理論與實務（一） </name>
-<teacher> 吳玫瑛  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集授課，上課時間：9/7(五)-9/9(日) 9:00-12:00 及 14:00-17:00  教室88104 </note>
-</K5>
-
-<K5 id="013">
-<num>K5-013</num>
-<class> 碩                             </class>
-<group></group>
-<name> 繪本理論與實務（二） </name>
-<teacher> 吳玫瑛  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集授課，上課時間：10/6、10/13、10/20  9:00-12:00 及 14:00-17:00  教室88104 </note>
-</K5>
-
-<K5 id="014">
-<num>K5-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 台灣劇場與當代議題 </name>
-<teacher> 劉南芳* </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 藝術所                        5450 </place>
-<note> 與藝研所合開  戲劇學程 </note>
-</K5>
-
-<K5 id="015">
-<num>K5-015</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 歷史錄音考証、解讀與利用 </name>
-<teacher> 黃裕元  </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
@@ -214,11 +144,11 @@
 <num>K5-301</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 台灣現代文學專題研究 </name>
+<name> 研究方法與論文寫作 </name>
 <teacher> 簡義明  </teacher>
 <score> 3 </score>
-<time day1="2" s1="9" e1="11"> [2]9~B  </time>
-<must> 選修 </must>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
 <note></note>
@@ -228,42 +158,14 @@
 <num>K5-302</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 台灣的生態旅遊與解說教育 </name>
-<teacher> 陳玉峯  </teacher>
+<name> 劇本創作專題 </name>
+<teacher> 劉南芳  </teacher>
 <score> 3 </score>
-<time day1="3" s1="9" e1="11"> [3]9~B  </time>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
 <note></note>
-</K5>
-
-<K5 id="303">
-<num>K5-303</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 繪本理論與實務（一） </name>
-<teacher> 吳玫瑛  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集授課，上課時間：9/7(五)-9/9(日) 9:00-12:00 及 14:00-17:00  教室88104 </note>
-</K5>
-
-<K5 id="304">
-<num>K5-304</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 繪本理論與實務（二） </name>
-<teacher> 吳玫瑛  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集授課，上課時間：10/6、10/13、10/20  9:00-12:00 及 14:00-17:00  教室88104 </note>
 </K5>
 
 </content>

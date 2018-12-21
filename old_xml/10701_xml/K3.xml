@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K3 id="008">
+<num>K3-008</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 高級史學英文（一） </name>
+<teacher> 李鑑慧  </teacher>
+<score> 0 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25232 </place>
+<note> 碩士班高級史學英文、專業史學日文擇一必修 </note>
+</K3>
+
+<K3 id="009">
+<num>K3-009</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專業史學日文（一） </name>
+<teacher> 顧　盼  </teacher>
+<score> 0 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25240 </place>
+<note> 碩士班高級史學英文、專業史學日文擇一必修 </note>
+</K3>
+
+<K3 id="011">
+<num>K3-011</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 論文寫作與實習（一） </name>
+<teacher> 王健文  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25234 </place>
+<note> 基礎課程，碩士班必修 </note>
+</K3>
+
+<K3 id="013">
+<num>K3-013</num>
+<class> 碩                             </class>
+<group></group>
+<name> 中國近世士人專題 </name>
+<teacher> 許守泯  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25232 </place>
+<note> 中 </note>
+</K3>
+
+<K3 id="020">
+<num>K3-020</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 臺灣商業史研究（1624-1945） </name>
+<teacher> 陳計堯  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25232 </place>
+<note> 台 </note>
+</K3>
+
+<K3 id="021">
+<num>K3-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 他者之筆：「書寫韃靼」文本選讀 </name>
+<teacher> 謝美娥  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25231 </place>
+<note></note>
+</K3>
+
+<K3 id="027">
+<num>K3-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 明代社會文化史專題 </name>
+<teacher> 陳玉女  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25233 </place>
+<note> 中 </note>
+</K3>
+
+<K3 id="028">
+<num>K3-028</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 東南亞音樂文化專題研究 </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25231 </place>
+<note> 世。彈性課程，上課時段請參系網公告 </note>
+</K3>
+
+<K3 id="029">
+<num>K3-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫療市場與醫病關係：觀點與史料實作專題 </name>
+<teacher> 許宏彬  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25240 </place>
+<note> 台 </note>
+</K3>
+
+<K3 id="030">
+<num>K3-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 伊斯蘭火藥帝國史 </name>
+<teacher> 林長寬  </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25234 </place>
+<note> 世、大學部可選修 </note>
+</K3>
+
+<K3 id="031">
+<num>K3-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 公眾史學 </name>
+<teacher> 陳恒安  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25231 </place>
+<note></note>
+</K3>
+
+<K3 id="032">
+<num>K3-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 日文史料解讀（一） </name>
+<teacher> 李啟彰  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25231 </place>
+<note> 世 </note>
+</K3>
+
+<K3 id="033">
+<num>K3-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 獨立研究 </name>
+<teacher> 翁嘉聲  </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 供碩三博三以上同學選課，由指導教授授課 </note>
+</K3>
+
+<K3 id="102">
+<num>K3-102</num>
+<class> 博一                           </class>
+<group></group>
+<name> 史學與史學研究（一） </name>
+<teacher> 陳恒安  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25233 </place>
+<note> 基礎課程。博士班必修 </note>
+</K3>
+
+<K3 id="103">
+<num>K3-103</num>
+<class> 博                             </class>
+<group></group>
+<name> 喪葬史專題研究 </name>
+<teacher> 江達智  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 歷史系館                      25234 </place>
+<note> 中 </note>
+</K3>
+
+</content>

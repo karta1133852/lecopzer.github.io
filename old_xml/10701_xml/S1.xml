@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<S1 id="001">
+<num>S1-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等分子生物學 </name>
+<teacher> 黃溫雅   ,  陳百昇   ,  張文粲*  ,  陳昌熙   ,  余建泓   ,  王淑鶯   ,  鄭宏祺   ,  鄧景浩   ,  王仰高  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S1>
+
+<S1 id="003">
+<num>S1-003</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 蛋白質與酵素學 </name>
+<teacher> 羅玉枝*  ,  吳華林* </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0929 </place>
+<note> 基醫所與生化所合班 </note>
+</S1>
+
+<S1 id="005">
+<num>S1-005</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 細胞生物學 </name>
+<teacher> 張權發   ,  張文粲*  ,  張明熙   ,  陳昌熙   ,  黃柏憲   ,  鄭宏祺   ,  蔣輯武  </teacher>
+<score> 2 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S1>
+
+<S1 id="007">
+<num>S1-007</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳昌熙* </teacher>
+<score> 1 </score>
+<time day1="5" s1="6" e1="6"> [5]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S1>
+
+<S1 id="009">
+<num>S1-009</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳昌熙* </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="7"> [5]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S1>
+
+<S1 id="011">
+<num>S1-011</num>
+<class> 碩三                           </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳昌熙* </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="5"> [5]5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S1>
+
+<S1 id="012">
+<num>S1-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 基礎醫學研究技術 </name>
+<teacher> 邱文泰   ,  賴明德   ,  陳昌熙   ,  黃柏憲*  ,  楊尚訓   ,  鄭宏祺   ,  呂佩融  </teacher>
+<score> 2 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 基醫所與生化所合班 </note>
+</S1>
+
+<S1 id="021">
+<num>S1-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分子遺傳學 </name>
+<teacher> 吳昭良*  ,  蕭璦莉  </teacher>
+<score> 1 </score>
+<time day1="1" s1="8" e1="8"> [1]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S1>
+
+<S1 id="023">
+<num>S1-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 基因標定技術 </name>
+<teacher> 張文粲* </teacher>
+<score> 1 </score>
+<time day1="2" s1="6" e1="6"> [2]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0929 </place>
+<note></note>
+</S1>
+
+<S1 id="025">
+<num>S1-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分子技術學 </name>
+<teacher> 吳昭良*  ,  蕭璦莉   ,  洪澤民   ,  陳玉玲* </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note></note>
+</S1>
+
+<S1 id="027">
+<num>S1-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 線蟲生物學論特論 </name>
+<teacher> 陳昌熙* </teacher>
+<score> 1 </score>
+<time day1="3" s1="5" e1="5"> [3]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0929 </place>
+<note></note>
+</S1>
+
+<S1 id="029">
+<num>S1-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 癌症研究入門 </name>
+<teacher> 黃溫雅   ,  周楠華   ,  賴明德   ,  黃柏憲   ,  呂增宏   ,  沈孟儒   ,  王憶卿   ,  張雋曦   ,  劉校生   ,  張志鵬*  ,  鄭宏祺   ,  呂佩融   ,  陳玉玲   ,  黃則達  </teacher>
+<score> 2 </score>
+<time day1="3" s1="8" e1="9"> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S1>
+
+<S1 id="031">
+<num>S1-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 以問題為導向學習癌症轉移 </name>
+<teacher> 曾堯麟   ,  王憶卿   ,  鄭宏祺*  ,  吳梨華   ,  蔣輯武  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note> 生化、基醫、藥生合班 </note>
+</S1>
+
+<S1 id="035">
+<num>S1-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 核糖核酸參與之基因調控 </name>
+<teacher> 余建泓* </teacher>
+<score> 1 </score>
+<time day1="3" s1="6" e1="6"> [3]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0929 </place>
+<note></note>
+</S1>
+
+<S1 id="037">
+<num>S1-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 進階分析哺乳動物表觀基因體 </name>
+<teacher> 黃柏憲* </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="5"> [1]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note></note>
+</S1>
+
+<S1 id="039">
+<num>S1-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生化研究入門(含學術倫理與生物安全) </name>
+<teacher> 吳昭良* </teacher>
+<score> 1 </score>
+<time day1="3" s1="7" e1="7"> [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室:82-0929 </note>
+</S1>
+
+</content>

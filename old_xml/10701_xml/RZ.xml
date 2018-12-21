@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<RZ id="201">
+<num>RZ-201</num>
+<class> 碩                             </class>
+<group></group>
+<name> 精實創業進階 </name>
+<teacher> 楊朝旭  </teacher>
+<score> 3 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 不開放網路選課 </note>
+</RZ>
+
+<RZ id="202">
+<num>RZ-202</num>
+<class> 碩                             </class>
+<group></group>
+<name> 跨國管理實務融合 </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      62X01 </place>
+<note> EMBA與管理學院合開／不開放網路選課／8/11-18海外上課，其餘課程另行安排 </note>
+</RZ>
+
+<RZ id="203">
+<num>RZ-203</num>
+<class> 碩                             </class>
+<group></group>
+<name> 跨國管理實務融合(一) </name>
+<teacher> 林軒竹  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 管理學院                      小哈佛教室 </place>
+<note> 開放網路選課(全英文授課)／密集授課詳如課程大綱 </note>
+</RZ>
+
+</content>

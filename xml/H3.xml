@@ -1,42 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<H3 id="003">
-<num>H3-003</num>
+<H3 id="005">
+<num>H3-005</num>
 <class></class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 經濟學（二） </name>
+<teacher> 蔡仰虔  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61200 </place>
+<note> 交管系與工管系合班 </note>
+</H3>
+
+<H3 id="006">
+<num>H3-006</num>
+<class></class>
+<group></group>
+<name> 資訊管理概論 </name>
+<teacher> 呂執中  </teacher>
+<score> 3 </score>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61104 </place>
+<note></note>
+</H3>
+
+<H3 id="007">
+<num>H3-007</num>
+<class></class>
+<group></group>
+<name> 計算機程式及應用 </name>
+<teacher> 劉任修  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61101 </place>
+<note> 週四第９堂實習課不得衝堂61201 </note>
+</H3>
+
+<H3 id="012">
+<num>H3-012</num>
+<class></class>
+<group></group>
+<name> 服務學習（二） </name>
+<teacher> 王惠嘉  </teacher>
+<score> 0 </score>
+<time day1="2" s1="2" e1="2"> [2]2  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</H3>
+
+<H3 id="013">
+<num>H3-013</num>
+<class></class>
+<group></group>
+<name> 微積分（二） </name>
 <teacher> 王辰樹  </teacher>
 <score> 3 </score>
 <time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 共同教室                      A1306(資源後) </place>
-<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<note></note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（一） </name1>
+<name1> 微積分（二） </name1>
 <time1 day1="5" s1="5" e1="5"> [5]5  </time1>
 <place1> 共同教室                      A1303 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（一） </name2>
+<name2> 微積分（二） </name2>
 <time2 day1="5" s1="5" e1="5"> [5]5  </time2>
 <place2> 共同教室                      A1304 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（一） </name3>
+<name3> 微積分（二） </name3>
 <time3 day1="5" s1="5" e1="5"> [5]5  </time3>
 <place3> 共同教室                      A1305 </place3>
 <note3></note3>
 </H3>
 
-<H3 id="004">
-<num>H3-004</num>
+<H3 id="014">
+<num>H3-014</num>
 <class></class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 微積分（二） </name>
 <teacher> 舒宇宸  </teacher>
 <score> 3 </score>
 <time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
@@ -46,29 +102,29 @@
 <note></note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（一） </name1>
+<name1> 微積分（二） </name1>
 <time1 day1="5" s1="5" e1="5"> [5]5  </time1>
-<place1> 唯農大樓                      7404 </place1>
+<place1> 唯農大樓                      7401 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（一） </name2>
+<name2> 微積分（二） </name2>
 <time2 day1="5" s1="5" e1="5"> [5]5  </time2>
-<place2> 唯農大樓                      7313 </place2>
+<place2> 唯農大樓                      7403 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（一） </name3>
+<name3> 微積分（二） </name3>
 <time3 day1="5" s1="5" e1="5"> [5]5  </time3>
-<place3> 交管系館                      62205 </place3>
+<place3> 唯農大樓                      7404 </place3>
 <note3></note3>
 </H3>
 
-<H3 id="005">
-<num>H3-005</num>
+<H3 id="015">
+<num>H3-015</num>
 <class></class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 微積分（二） </name>
 <teacher> 黃柏嶧  </teacher>
 <score> 3 </score>
 <time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
@@ -78,29 +134,29 @@
 <note></note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（一） </name1>
+<name1> 微積分（二） </name1>
 <time1 day1="5" s1="5" e1="5"> [5]5  </time1>
-<place1> 唯農大樓                      7401 </place1>
+<place1> 唯農大樓                      7309 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（一） </name2>
+<name2> 微積分（二） </name2>
 <time2 day1="5" s1="5" e1="5"> [5]5  </time2>
-<place2> 唯農大樓                      7403 </place2>
+<place2> 唯農大樓                      7311 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（一） </name3>
+<name3> 微積分（二） </name3>
 <time3 day1="5" s1="5" e1="5"> [5]5  </time3>
-<place3> 唯農大樓                      7309 </place3>
+<place3> 唯農大樓                      7313 </place3>
 <note3></note3>
 </H3>
 
-<H3 id="006">
-<num>H3-006</num>
+<H3 id="016">
+<num>H3-016</num>
 <class></class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 微積分（二） </name>
 <teacher> 連文璟  </teacher>
 <score> 3 </score>
 <time day1="3" s1="7" e1="8" day2="5" s2="6" e2="6"> [3]7~8  ,  [5]6  </time>
@@ -110,147 +166,77 @@
 <note></note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（一） </name1>
+<name1> 微積分（二） </name1>
 <time1 day1="5" s1="5" e1="5"> [5]5  </time1>
 <place1> 企管系館                      62218 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（一） </name2>
+<name2> 微積分（二） </name2>
 <time2 day1="5" s1="5" e1="5"> [5]5  </time2>
 <place2> 企管系館                      62229 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（一） </name3>
+<name3> 微積分（二） </name3>
 <time3 day1="5" s1="5" e1="5"> [5]5  </time3>
 <place3> 企管系館                      62231 </place3>
 <note3></note3>
-</H3>
-
-<H3 id="007">
-<num>H3-007</num>
-<class></class>
-<group></group>
-<name> 經濟學（一） </name>
-<teacher> 蔡仰虔  </teacher>
-<score> 3 </score>
-<time day1="3" s1="10" e1="12"> [3]A~C  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61200 </place>
-<note></note>
-</H3>
-
-<H3 id="008">
-<num>H3-008</num>
-<class></class>
-<group></group>
-<name> 工業管理概論 </name>
-<teacher> 吳政翰  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61104 </place>
-<note></note>
-</H3>
-
-<H3 id="009">
-<num>H3-009</num>
-<class></class>
-<group></group>
-<name> 計算機概論 </name>
-<teacher> 李昇暾  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61101 </place>
-<note> 週二第９堂為實習課，不得衝堂61101、61201 </note>
-</H3>
-
-<H3 id="014">
-<num>H3-014</num>
-<class></class>
-<group></group>
-<name> 服務學習（一） </name>
-<teacher> 王惠嘉  </teacher>
-<score> 0 </score>
-<time day1="4" s1="6" e1="6"> [4]6  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 大一 服務學習將分為兩組，另一組時間排定星期二第３節不得衝堂 </note>
-</H3>
-
-<H3 id="016">
-<num>H3-016</num>
-<class></class>
-<group></group>
-<name> 體育（一） </name>
-<teacher> 鄭匡佑  </teacher>
-<score> 0 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 體育室前                      體育室前 </place>
-<note> 依照體育選項科目序號選課 </note>
 </H3>
 
 <H3 id="052">
 <num>H3-052</num>
 <class></class>
 <group></group>
-<name> 統計學（一） </name>
-<teacher> 謝中奇  </teacher>
+<name> 統計學（二） </name>
+<teacher> 翁慈宗  </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61101 </place>
-<note> 週三第９堂為實習課，不得衝堂61101、61201 </note>
+<note> 週二第９堂實習課不得衝堂61101 </note>
 </H3>
 
 <H3 id="053">
 <num>H3-053</num>
 <class></class>
 <group></group>
-<name> 管理學 </name>
-<teacher> 利德江  </teacher>
+<name> 資料庫管理 </name>
+<teacher> 王惠嘉  </teacher>
 <score> 3 </score>
 <time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61200 </place>
-<note></note>
+<place> 工管系館                      61102 </place>
+<note> 週三第 9 堂實習課不得衝堂61201 </note>
 </H3>
 
 <H3 id="054">
 <num>H3-054</num>
 <class></class>
 <group></group>
-<name> 資料結構 </name>
-<teacher> 王逸琳  </teacher>
+<name> 作業研究 </name>
+<teacher> 張秀雲  </teacher>
 <score> 3 </score>
-<time day1="3" s1="5" e1="6" day2="5" s2="1" e2="1"> [3]5~6  ,  [5]1  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61102 </place>
-<note> 週一第９堂為實習課，不得衝堂61201 </note>
+<place> 工管系館                      61101 </place>
+<note> 週一第９堂實習課不得衝堂61101 </note>
 </H3>
 
 <H3 id="055">
 <num>H3-055</num>
 <class></class>
 <group></group>
-<name> 會計學 </name>
-<teacher> 楊明宗  </teacher>
+<name> 離散數學 </name>
+<teacher> 王逸琳  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 必修 </must>
+<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61102 </place>
+<place> 工管系館                      61101 </place>
 <note></note>
 </H3>
 
@@ -258,13 +244,13 @@
 <num>H3-056</num>
 <class></class>
 <group></group>
-<name> 資訊服務體驗與實作 </name>
-<teacher> 謝佩璇  </teacher>
+<name> 管理會計 </name>
+<teacher> 李政勳  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61104 </place>
+<place> 工管系館                      61102 </place>
 <note></note>
 </H3>
 
@@ -272,13 +258,13 @@
 <num>H3-057</num>
 <class></class>
 <group></group>
-<name> 線性代數 </name>
-<teacher> 胡政宏  </teacher>
+<name> 工作研究與設計 </name>
+<teacher> 林明毅  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61101 </place>
+<place> 工管系館                      61103 </place>
 <note></note>
 </H3>
 
@@ -286,13 +272,13 @@
 <num>H3-101</num>
 <class></class>
 <group></group>
-<name> 生產與作業管理 </name>
-<teacher> 王泰裕  </teacher>
+<name> 行銷管理 </name>
+<teacher> 謝佩璇  </teacher>
 <score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61101 </place>
+<place> 工管系館                      61102 </place>
 <note></note>
 </H3>
 
@@ -300,108 +286,108 @@
 <num>H3-102</num>
 <class></class>
 <group></group>
-<name> 系統分析與設計 </name>
-<teacher> 王維聰  </teacher>
+<name> 品質管理 </name>
+<teacher> 陳梁軒  </teacher>
 <score> 3 </score>
-<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61101 </place>
 <note></note>
 </H3>
 
-<H3 id="103">
-<num>H3-103</num>
+<H3 id="111">
+<num>H3-111</num>
 <class></class>
 <group></group>
-<name> 組織行為 </name>
-<teacher> 黃宇翔  </teacher>
+<name> 電子商務概論 </name>
+<teacher> 王維聰  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="7" day2="1" s2="5" e2="6"> [3]7  ,  [1]5~6  </time>
-<must> 必修 </must>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61102 </place>
 <note></note>
 </H3>
 
-<H3 id="104">
-<num>H3-104</num>
+<H3 id="112">
+<num>H3-112</num>
 <class></class>
 <group></group>
-<name> 隨機過程 </name>
-<teacher> 李賢得  </teacher>
+<name> 策略定價 </name>
+<teacher> 黃宇翔  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工管系館                      61103 </place>
+<note></note>
+</H3>
+
+<H3 id="113">
+<num>H3-113</num>
+<class></class>
+<group></group>
+<name> 生產作業分析與改善 </name>
+<teacher> 王泰裕  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61104 </place>
 <note></note>
 </H3>
 
-<H3 id="105">
-<num>H3-105</num>
+<H3 id="114">
+<num>H3-114</num>
 <class></class>
 <group></group>
-<name> 機率論 </name>
+<name> 模擬導論 </name>
 <teacher> 蔡青志  </teacher>
 <score> 3 </score>
 <time day1="2" s1="5" e1="6" day2="5" s2="8" e2="8"> [2]5~6  ,  [5]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61103 </place>
-<note></note>
-</H3>
-
-<H3 id="106">
-<num>H3-106</num>
-<class></class>
-<group></group>
-<name> 決策方法 </name>
-<teacher> 陳梁軒  </teacher>
-<score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 工管系館                      61101 </place>
-<note></note>
-</H3>
-
-<H3 id="107">
-<num>H3-107</num>
-<class></class>
-<group></group>
-<name> 財務管理 </name>
-<teacher> 張秀雲  </teacher>
-<score> 3 </score>
-<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
-<must> 選修 </must>
-<type> 講義 </type>
 <place> 工管系館                      61104 </place>
 <note></note>
 </H3>
 
-<H3 id="108">
-<num>H3-108</num>
+<H3 id="115">
+<num>H3-115</num>
 <class></class>
 <group></group>
-<name> 資訊安全與倫理 </name>
-<teacher> 翁慈宗  </teacher>
+<name> VBA巨集開發與應用 </name>
+<teacher> 吳政翰  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61103 </place>
+<place> 工管系館                      61201 </place>
 <note></note>
 </H3>
 
-<H3 id="109">
-<num>H3-109</num>
+<H3 id="116">
+<num>H3-116</num>
 <class></class>
 <group></group>
-<name> 人因工程學 </name>
-<teacher> 林明毅  </teacher>
+<name> 工業與資訊管理專題（一） </name>
+<teacher> 未定  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
+<note></note>
+</H3>
+
+<H3 id="160">
+<num>H3-160</num>
+<class></class>
+<group></group>
+<name> 人力資源管理 </name>
+<teacher> 林清河  </teacher>
 <score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61103 </place>
@@ -412,13 +398,13 @@
 <num>H3-161</num>
 <class></class>
 <group></group>
-<name> 工業與資訊管理專題（二） </name>
-<teacher> 陳梁軒   ,  王泰裕   ,  李賢得   ,  謝中奇   ,  王惠嘉*  ,  翁慈宗   ,  張秀雲   ,  王維聰   ,  謝佩璇   ,  蔡青志   ,  劉任修   ,  高　強  </teacher>
-<score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<name> 領導學概論 </name>
+<teacher> 利德江  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
-<type> 研討 </type>
-<place></place>
+<type> 講義 </type>
+<place> 工管系館                      61102 </place>
 <note></note>
 </H3>
 
@@ -426,13 +412,13 @@
 <num>H3-162</num>
 <class></class>
 <group></group>
-<name> 策略管理 </name>
-<teacher> 林清河  </teacher>
+<name> 工程經濟 </name>
+<teacher> 張秀雲  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61103 </place>
+<place> 工管系館                      61102 </place>
 <note></note>
 </H3>
 
@@ -440,13 +426,13 @@
 <num>H3-163</num>
 <class></class>
 <group></group>
-<name> 服務管理 </name>
-<teacher> 張裕清  </teacher>
+<name> 供應鏈系統 </name>
+<teacher> 謝中奇  </teacher>
 <score> 3 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 工管系館                      61102 </place>
+<place> 工管系館                      61206 </place>
 <note></note>
 </H3>
 
@@ -454,27 +440,41 @@
 <num>H3-164</num>
 <class></class>
 <group></group>
-<name> 醫療品質管理 </name>
-<teacher> 呂執中  </teacher>
+<name> 統計製程管制 </name>
+<teacher> 張裕清  </teacher>
 <score> 3 </score>
-<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61102 </place>
 <note></note>
 </H3>
 
-<H3 id="166">
-<num>H3-166</num>
+<H3 id="165">
+<num>H3-165</num>
 <class></class>
 <group></group>
-<name> 雲端行動應用 </name>
-<teacher> 劉任修  </teacher>
+<name> 統計分析 </name>
+<teacher> 胡政宏  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="5" s1="3" e1="4" day2="2" s2="2" e2="2"> [5]3~4  ,  [2]2  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 工管系館                      61201 </place>
+<note></note>
+</H3>
+
+<H3 id="167">
+<num>H3-167</num>
+<class></class>
+<group></group>
+<name> 工業與資訊管理專題（二） </name>
+<teacher> 未定  </teacher>
+<score> 2 </score>
+<time day1="4" s1="14" e1="14"> [4]E  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place></place>
 <note></note>
 </H3>
 

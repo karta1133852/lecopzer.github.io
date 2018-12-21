@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<NA id="001">
+<num>NA-001</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 張　懿  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4650 </place>
+<note></note>
+</NA>
+
+<NA id="002">
+<num>NA-002</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 莊士賢  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4648 </place>
+<note></note>
+</NA>
+
+<NA id="003">
+<num>NA-003</num>
+<class> 碩專延三                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 陳璋玲  </teacher>
+<score> 0 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 水利系館                      4644 </place>
+<note> 延畢生每學期至少需選修一門課程 </note>
+</NA>
+
+<NA id="004">
+<num>NA-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋事務概論 </name>
+<teacher> 張　懿  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4650 </place>
+<note></note>
+</NA>
+
+<NA id="005">
+<num>NA-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海岸管理學 </name>
+<teacher> 陳璋玲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note></note>
+</NA>
+
+<NA id="006">
+<num>NA-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 環境法專題研究（三） </name>
+<teacher> 王毓正  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓研討室A </place>
+<note> 法律所與海事所合開 </note>
+</NA>
+
+<NA id="007">
+<num>NA-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海洋污染 </name>
+<teacher> 劉大綱  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4650 </place>
+<note></note>
+</NA>
+
+<NA id="009">
+<num>NA-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 海運科技安全法專題研究 </name>
+<teacher> 蔡志方  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 社科院大樓                    七樓會議室 </place>
+<note> 法律所與海事所合開 </note>
+</NA>
+
+</content>

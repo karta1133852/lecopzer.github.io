@@ -4,139 +4,95 @@
 <num>P9-001</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 專題討論（一） </name>
-<teacher> 陳裕民   ,  陳響亮   ,  鄭芳田   ,  楊大和   ,  陳朝鈞*  ,  蔡佩璇   ,  李家岩  </teacher>
+<name> 專題討論（二） </name>
+<teacher> 陳裕民   ,  陳響亮   ,  鄭芳田   ,  陳朝鈞   ,  蔡佩璇   ,  李家岩* </teacher>
 <score> 0 </score>
 <time day1="4" s1="6" e1="6"> [4]6  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 照坤精密儀器大樓              95405 </place>
-<note> 碩一、博一，碩博合班上課 </note>
+<note> 碩一博一合班 </note>
 </P9>
 
 <P9 id="002">
 <num>P9-002</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 專題討論（三） </name>
-<teacher> 陳裕民   ,  陳響亮   ,  鄭芳田   ,  楊大和   ,  陳朝鈞*  ,  蔡佩璇   ,  李家岩  </teacher>
+<name> 專題討論（四） </name>
+<teacher> 陳裕民   ,  陳響亮   ,  鄭芳田   ,  陳朝鈞   ,  蔡佩璇   ,  李家岩* </teacher>
 <score> 0 </score>
 <time day1="4" s1="7" e1="7"> [4]7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place> 照坤精密儀器大樓              95405 </place>
-<note> 碩二、博二以上，碩博合班上課 </note>
-</P9>
-
-<P9 id="003">
-<num>P9-003</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 製造系統 </name>
-<teacher> 陳裕民  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note></note>
+<note> 碩二博二以上合班 </note>
 </P9>
 
 <P9 id="004">
 <num>P9-004</num>
 <class> 碩博                           </class>
-<group></group>
-<name> E化製造 </name>
+<group> 2 </group>
+<name> 產業自動化與電子化實作 </name>
 <teacher> 鄭芳田  </teacher>
 <score> 3 </score>
-<time day1="4" s1="11" e1="13"> [4]B~D  </time>
+<time day1="4" s1="10" e1="11"> [4]A~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
-<note> 製造所、資訊所合班 英語授課 </note>
+<note> 英語授課 </note>
+<class1> 碩博                           </class1>
+<group1> 3 </group1>
+<name1> 產業自動化與電子化實作 </name1>
+<time1 day1="3" s1="10" e1="12"> [3]A~C  </time1>
+<place1> 照坤精密儀器大樓              95405 </place1>
+<note1></note1>
 </P9>
 
 <P9 id="005">
 <num>P9-005</num>
 <class> 碩博                           </class>
-<group></group>
-<name> 企業工程與整合 </name>
-<teacher> 陳裕民  </teacher>
+<group> 2 </group>
+<name> 高等自動化理論與實作 </name>
+<teacher> 鄭芳田  </teacher>
 <score> 3 </score>
-<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<time day1="4" s1="12" e1="13"> [4]C~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95405 </place>
-<note> 製造所與工程專班合開 </note>
-</P9>
-
-<P9 id="006">
-<num>P9-006</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 即時系統 </name>
-<teacher> 蔡佩璇  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95519 </place>
-<note> 製造所資訊所合班 </note>
-</P9>
-
-<P9 id="007">
-<num>P9-007</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 製造系統模擬 </name>
-<teacher> 楊大和  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 照坤精密儀器大樓              95519 </place>
-<note> 製造所、資訊所合班 </note>
+<note> 英語授課 </note>
+<class1> 碩博                           </class1>
+<group1> 3 </group1>
+<name1> 高等自動化理論與實作 </name1>
+<time1 day1="5" s1="10" e1="12"> [5]A~C  </time1>
+<place1> 照坤精密儀器大樓              95405 </place1>
+<note1></note1>
 </P9>
 
 <P9 id="008">
 <num>P9-008</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 進階分散式資料管理 </name>
-<teacher> 陳朝鈞  </teacher>
+<name> 網宇實體系統 </name>
+<teacher> 蔡佩璇  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="2" s1="8" e1="9" day2="4" s2="5" e2="5"> [2]8~9  ,  [4]5  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95509 </place>
-<note></note>
+<place> 照坤精密儀器大樓              95405 </place>
+<note> 製造所、資訊所合班 </note>
 </P9>
 
 <P9 id="009">
 <num>P9-009</num>
 <class> 碩博                           </class>
-<group></group>
-<name> 資料庫管理系統與實務 </name>
-<teacher> 陳朝鈞  </teacher>
+<group> 3 </group>
+<name> 企業參謀：思考的技術 </name>
+<teacher> 李家岩  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note> 製造所、醫資所、資訊所合班 </note>
-</P9>
-
-<P9 id="010">
-<num>P9-010</num>
-<class> 碩博                           </class>
-<group></group>
-<name> C#程式設計 </name>
-<teacher> 陳響亮  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊大樓                      75209 </place>
+<place> 照坤精密儀器大樓              95519 </place>
 <note> 製造所、資訊所合班 </note>
 </P9>
 
@@ -144,126 +100,98 @@
 <num>P9-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 機械智慧化專論 </name>
-<teacher> 陳響亮  </teacher>
+<name> 行動計算與無線資料管理 </name>
+<teacher> 陳朝鈞  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 照坤精密儀器大樓              95405 </place>
+<note> 製造所、資訊所合班 </note>
+</P9>
+
+<P9 id="014">
+<num>P9-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 製造資訊系統 </name>
+<teacher> 陳裕民  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 照坤精密儀器大樓              95519 </place>
 <note></note>
 </P9>
 
-<P9 id="012">
-<num>P9-012</num>
+<P9 id="017">
+<num>P9-017</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 最佳化理論與統計資料科學 </name>
-<teacher> 李家岩  </teacher>
+<name> 智慧感測與行動計算 </name>
+<teacher> 鄭憲宗  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4261 </place>
+<note> 資訊所醫資所多媒體學程製造所合班 </note>
+</P9>
+
+<P9 id="019">
+<num>P9-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電腦輔助製造 </name>
+<teacher> 陳響亮  </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note> 製造所、資訊所、醫資所合班，英語授課 </note>
+<place> 照坤精密儀器大樓              95519 </place>
+<note> 製造所、資訊所合班 </note>
 </P9>
 
-<P9 id="013">
-<num>P9-013</num>
+<P9 id="020">
+<num>P9-020</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 製造系統管理 </name>
-<teacher> 楊大和  </teacher>
+<name> 遺傳基因演譯法 </name>
+<teacher> 郭淑美  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 照坤精密儀器大樓              95405 </place>
-<note> 製造所、資訊所合班；MOOCs課程 </note>
+<place> 資訊系館                      4202 </place>
+<note> 資訊所醫資所製造所多媒學程公衛所合班 </note>
+</P9>
+
+<P9 id="021">
+<num>P9-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 排隊理論 </name>
+<teacher> 許靜芳  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4" day2="5" s2="2" e2="2"> [3]3~4  ,  [5]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊系館                      4202 </place>
+<note> 資訊所製造所合班 </note>
 </P9>
 
 <P9 id="022">
 <num>P9-022</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 精實管理 </name>
-<teacher> 洪郁修   ,  楊大和* </teacher>
+<name> 智能企業 </name>
+<teacher> 陳裕民  </teacher>
 <score> 3 </score>
-<time day1="6" s1="2" e1="4"> [6]2~4  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note> 上課教室:儀設大樓4樓95416(工學院會議室) </note>
-</P9>
-
-<P9 id="023">
-<num>P9-023</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 創意行動網路APPs之系統技術與設計研發 </name>
-<teacher> 黃崇明  </teacher>
-<score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4261 </place>
-<note> 資工所醫資所製造所合班,大碩合班 </note>
-</P9>
-
-<P9 id="024">
-<num>P9-024</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 電腦視覺：從理論到應用 </name>
-<teacher> 連震杰  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4201 </place>
-<note> 資工所醫資所製造所合班  英語授課 </note>
-</P9>
-
-<P9 id="025">
-<num>P9-025</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 智慧運算與機器學習 </name>
-<teacher> 胡敏君  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊新館                      65105 </place>
-<note> 資工所醫資所製造所多媒體學位學程合班 </note>
-</P9>
-
-<P9 id="026">
-<num>P9-026</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 數位信號處理 </name>
-<teacher> 吳宗憲  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊新館                      65104 </place>
-<note> 資訊所醫資所多媒體學程製造所合班 </note>
-</P9>
-
-<P9 id="030">
-<num>P9-030</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 圖形理論 </name>
-<teacher> 謝孫源  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 資訊系館                      4204 </place>
-<note> 資訊所醫資所製造所多煤體學程合班 </note>
+<place> 照坤精密儀器大樓              95405 </place>
+<note> 工程專班、製造所合開 </note>
 </P9>
 
 </content>

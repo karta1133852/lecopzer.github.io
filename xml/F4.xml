@@ -4,163 +4,87 @@
 <num>F4-001</num>
 <class></class>
 <group></group>
-<name> 微積分（一） </name>
+<name> 微積分（二） </name>
 <teacher> 李國明  </teacher>
 <score> 3 </score>
 <time day1="2" s1="5" e1="6" day2="5" s2="3" e2="3"> [2]5~6  ,  [5]3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 水利系館                      4671 </place>
-<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<note></note>
 <class1></class1>
 <group1> A </group1>
-<name1> 微積分（一） </name1>
+<name1> 微積分（二） </name1>
 <time1 day1="5" s1="4" e1="4"> [5]4  </time1>
 <place1> 水利系館                      4627 </place1>
 <note1></note1>
 <class2></class2>
 <group2> B </group2>
-<name2> 微積分（一） </name2>
+<name2> 微積分（二） </name2>
 <time2 day1="5" s1="4" e1="4"> [5]4  </time2>
-<place2> 數學系館                      3173 </place2>
+<place2> 航太系館                      5825 </place2>
 <note2></note2>
 <class3></class3>
 <group3> C </group3>
-<name3> 微積分（一） </name3>
+<name3> 微積分（二） </name3>
 <time3 day1="5" s1="4" e1="4"> [5]4  </time3>
-<place3> 數學系館                      3172 </place3>
+<place3> 航太系館                      5827 </place3>
 <note3></note3>
 <class4></class4>
 <group4> D </group4>
-<name4> 微積分（一） </name4>
+<name4> 微積分（二） </name4>
 <time4 day1="5" s1="4" e1="4"> [5]4  </time4>
 <place4> 水利系館                      4620 </place4>
 <note4></note4>
-</F4>
-
-<F4 id="002">
-<num>F4-002</num>
-<class></class>
-<group></group>
-<name> 普通物理學（一） </name>
-<teacher> 張景皓  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="4" s2="5" e2="6"> [2]2  ,  [4]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5830 </place>
-<note></note>
-</F4>
-
-<F4 id="003">
-<num>F4-003</num>
-<class></class>
-<group></group>
-<name> 程式設計 </name>
-<teacher> 王大中  </teacher>
-<score> 3 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5897 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 程式設計 </name1>
-<time1 day1="5" s1="5" e1="7"> [5]5~7  </time1>
-<place1> 航太系館                      5898 </place1>
-<note1></note1>
 </F4>
 
 <F4 id="004">
 <num>F4-004</num>
 <class></class>
 <group></group>
-<name> 航太工程概論 </name>
-<teacher> 賴維祥  </teacher>
-<score> 1 </score>
+<name> 普通物理學（二） </name>
+<teacher> 張景皓  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="2" day2="4" s2="5" e2="6"> [2]2  ,  [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5897 </place>
+<note></note>
+</F4>
+
+<F4 id="034">
+<num>F4-034</num>
+<class></class>
+<group></group>
+<name> 靜力學 </name>
+<teacher> 江達雲  </teacher>
+<score> 2 </score>
 <time day1="1" s1="2" e1="3"> [1]2~3  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 航太系館                      繼昌講堂 </place>
+<place> 航太系館                      5824 </place>
 <note></note>
 </F4>
 
-<F4 id="005">
-<num>F4-005</num>
-<class></class>
-<group> 1 </group>
-<name> 工場實習 </name>
-<teacher> 陳介力  </teacher>
-<score> 1 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 航太系館                      5808 </place>
-<note></note>
-</F4>
-
-<F4 id="006">
-<num>F4-006</num>
+<F4 id="035">
+<num>F4-035</num>
 <class></class>
 <group></group>
-<name> 工場實習 </name>
-<teacher> 陳介力  </teacher>
-<score> 1 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 航太系館                      5808 </place>
-<note></note>
-</F4>
-
-<F4 id="007">
-<num>F4-007</num>
-<class></class>
-<group> A </group>
-<name> 工程圖學 </name>
-<teacher> 闕志哲  </teacher>
-<score> 1 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 航太系館                      5896B </place>
-<note></note>
-</F4>
-
-<F4 id="008">
-<num>F4-008</num>
-<class></class>
-<group> B </group>
-<name> 工程圖學 </name>
-<teacher> 闕志哲  </teacher>
-<score> 1 </score>
-<time day1="2" s1="7" e1="9"> [2]7~9  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 航太系館                      5896B </place>
-<note></note>
-</F4>
-
-<F4 id="009">
-<num>F4-009</num>
-<class></class>
-<group></group>
-<name> 服務學習（一） </name>
+<name> 服務學習（二） </name>
 <teacher> 呂宗行  </teacher>
 <score> 0 </score>
 <time day1="4" s1="9" e1="9"> [4]9  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 航太系館                      5824 </place>
-<note> 航太系與能源學程合開 </note>
+<place> 航太系館                      5834 </place>
+<note></note>
 </F4>
 
-<F4 id="010">
-<num>F4-010</num>
+<F4 id="036">
+<num>F4-036</num>
 <class></class>
 <group></group>
-<name> 服務學習（一） </name>
+<name> 服務學習（二） </name>
 <teacher> 呂宗行  </teacher>
 <score> 0 </score>
 <time day1="1" s1="9" e1="9"> [1]9  </time>
@@ -170,45 +94,45 @@
 <note></note>
 </F4>
 
-<F4 id="011">
-<num>F4-011</num>
+<F4 id="037">
+<num>F4-037</num>
 <class></class>
 <group></group>
-<name> 能源科技概論 </name>
-<teacher> 葉思沂  </teacher>
-<score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5897 </place>
-<note> 能源學程與航太系合開，能源學程為必修、航太系為選修 </note>
-</F4>
-
-<F4 id="012">
-<num>F4-012</num>
-<class></class>
-<group></group>
-<name> 微積分預備課程 </name>
-<teacher> 張克勤   ,  彭兆仲* </teacher>
-<score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5821 </place>
-<note> 1.本課程為彈性密集授課(8月20日至9月7日)。2.上課時間為每週一、二、四、五，9:00~12:00(共3小時) </note>
-</F4>
-
-<F4 id="044">
-<num>F4-044</num>
-<class></class>
-<group></group>
-<name> 體育（一） </name>
-<teacher> 黃賢哲  </teacher>
-<score> 0 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<name> 工程材料科學 </name>
+<teacher> 楊文彬  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 體育室前                      體育室前 </place>
+<place> 航太系館                      5830 </place>
+<note></note>
+</F4>
+
+<F4 id="038">
+<num>F4-038</num>
+<class></class>
+<group></group>
+<name> 機械畫 </name>
+<teacher> 闕志哲  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5898 </place>
+<note></note>
+</F4>
+
+<F4 id="039">
+<num>F4-039</num>
+<class></class>
+<group> B </group>
+<name> 機械畫 </name>
+<teacher> 闕志哲  </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5898 </place>
 <note></note>
 </F4>
 
@@ -216,21 +140,105 @@
 <num>F4-051</num>
 <class></class>
 <group></group>
-<name> 電路電子學 </name>
-<teacher> 王大中  </teacher>
+<name> 流體力學 </name>
+<teacher> 葉思沂  </teacher>
 <score> 3 </score>
-<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 航太系館                      繼昌講堂 </place>
-<note> 能源與航太系合班 </note>
+<place> 航太系館                      5830 </place>
+<note></note>
 </F4>
 
 <F4 id="052">
 <num>F4-052</num>
 <class></class>
 <group></group>
-<name> 熱力學（一） </name>
+<name> 材料力學 </name>
+<teacher> 胡潛濱  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5830 </place>
+<note></note>
+</F4>
+
+<F4 id="053">
+<num>F4-053</num>
+<class></class>
+<group></group>
+<name> 結構材料實驗 </name>
+<teacher> 楊文彬  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5803 </place>
+<note></note>
+</F4>
+
+<F4 id="054">
+<num>F4-054</num>
+<class></class>
+<group></group>
+<name> 結構材料實驗 </name>
+<teacher> 楊文彬  </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5803 </place>
+<note></note>
+</F4>
+
+<F4 id="055">
+<num>F4-055</num>
+<class></class>
+<group></group>
+<name> 工程數學（二） </name>
+<teacher> 李君謨  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="7" day2="4" s2="7" e2="8"> [1]7  ,  [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5824 </place>
+<note></note>
+</F4>
+
+<F4 id="056">
+<num>F4-056</num>
+<class></class>
+<group></group>
+<name> 熱力學（二） </name>
+<teacher> 王振源  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5897 </place>
+<note></note>
+</F4>
+
+<F4 id="057">
+<num>F4-057</num>
+<class></class>
+<group></group>
+<name> 燃料電池 </name>
+<teacher> 鄭金祥  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5829 </place>
+<note> 能源學程與航太系合開 </note>
+</F4>
+
+<F4 id="101">
+<num>F4-101</num>
+<class></class>
+<group></group>
+<name> 航空發動機 </name>
 <teacher> 袁曉峰  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
@@ -240,149 +248,45 @@
 <note></note>
 </F4>
 
-<F4 id="054">
-<num>F4-054</num>
-<class></class>
-<group> B </group>
-<name> 工程數學（一） </name>
-<teacher> 林穎裕  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5897 </place>
-<note></note>
-</F4>
-
-<F4 id="055">
-<num>F4-055</num>
-<class></class>
-<group></group>
-<name> 電腦輔助創意設計 </name>
-<teacher> 賴維祥  </teacher>
-<score> 3 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5898 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 電腦輔助創意設計 </name1>
-<time1 day1="3" s1="7" e1="8"> [3]7~8  </time1>
-<place1> 航太系館                      5898 </place1>
-<note1></note1>
-</F4>
-
-<F4 id="056">
-<num>F4-056</num>
-<class></class>
-<group></group>
-<name> 航空材料學 </name>
-<teacher> 鄭泗滄  </teacher>
-<score> 3 </score>
-<time day1="4" s1="7" e1="8" day2="1" s2="7" e2="7"> [4]7~8  ,  [1]7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5830 </place>
-<note></note>
-</F4>
-
-<F4 id="057">
-<num>F4-057</num>
-<class></class>
-<group></group>
-<name> 數值方法與應用 </name>
-<teacher> 鄭金祥  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5830 </place>
-<note></note>
-</F4>
-
-<F4 id="058">
-<num>F4-058</num>
-<class></class>
-<group></group>
-<name> 動力學 </name>
-<teacher> 林穎裕  </teacher>
-<score> 3 </score>
-<time day1="2" s1="7" e1="8" day2="5" s2="7" e2="7"> [2]7~8  ,  [5]7  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5897 </place>
-<note></note>
-</F4>
-
-<F4 id="059">
-<num>F4-059</num>
-<class></class>
-<group></group>
-<name> 民用航空概論 </name>
-<teacher> 賴維祥  </teacher>
-<score> 2 </score>
-<time day1="5" s1="1" e1="2"> [5]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      繼昌講堂 </place>
-<note></note>
-</F4>
-
 <F4 id="102">
 <num>F4-102</num>
 <class></class>
 <group></group>
-<name> 控制系統導論 </name>
+<name> 導航控制實驗 </name>
 <teacher> 陳介力  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<score> 1 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5830 </place>
-<note></note>
+<type> 實習 </type>
+<place> 航太系館                      5898 </place>
+<note> 電子實驗室 </note>
 </F4>
 
 <F4 id="103">
 <num>F4-103</num>
 <class></class>
 <group></group>
-<name> 熱傳學 </name>
-<teacher> 王振源  </teacher>
+<name> 導航控制實驗 </name>
+<teacher> 陳介力  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 航太系館                      5898 </place>
+<note> 電子實驗室 </note>
+</F4>
+
+<F4 id="104">
+<num>F4-104</num>
+<class></class>
+<group></group>
+<name> 飛行力學 </name>
+<teacher> 賴盈誌  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time day1="1" s1="5" e1="6" day2="3" s2="7" e2="7"> [1]5~6  ,  [3]7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5824 </place>
-<note></note>
-</F4>
-
-<F4 id="106">
-<num>F4-106</num>
-<class></class>
-<group></group>
-<name> 熱流實驗 </name>
-<teacher> 呂宗行  </teacher>
-<score> 1 </score>
-<time day1="3" s1="3" e1="4.5"> [3]3~N  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 航太系館                      實驗室5814 </place>
-<note></note>
-</F4>
-
-<F4 id="107">
-<num>F4-107</num>
-<class></class>
-<group></group>
-<name> 熱流實驗 </name>
-<teacher> 呂宗行  </teacher>
-<score> 1 </score>
-<time day1="4" s1="3" e1="4.5"> [4]3~N  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 航太系館                      實驗室5814 </place>
 <note></note>
 </F4>
 
@@ -390,8 +294,112 @@
 <num>F4-108</num>
 <class></class>
 <group></group>
-<name> 工程數學（三） </name>
-<teacher> 李君謨  </teacher>
+<name> 通訊概論 </name>
+<teacher> 詹劭勳  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5829 </place>
+<note></note>
+</F4>
+
+<F4 id="109">
+<num>F4-109</num>
+<class></class>
+<group></group>
+<name> 振動學 </name>
+<teacher> 景鴻鑫  </teacher>
+<score> 3 </score>
+<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5830 </place>
+<note> 航太系與能源學程合開。 </note>
+</F4>
+
+<F4 id="110">
+<num>F4-110</num>
+<class></class>
+<group></group>
+<name> 飛機次系統與運作 </name>
+<teacher> 彭家瑞  </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4.5"> [3]3~N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5829 </place>
+<note> 民航工程學程 </note>
+</F4>
+
+<F4 id="111">
+<num>F4-111</num>
+<class></class>
+<group></group>
+<name> 論文（一） </name>
+<teacher> 賴維祥  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 欲修課者請於系網下載論文登記表，並於3/8前繳至系辦公室 </note>
+</F4>
+
+<F4 id="112">
+<num>F4-112</num>
+<class></class>
+<group></group>
+<name> 積層製造導論 </name>
+<teacher> 賴維祥  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="3"> [5]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5828 </place>
+<note></note>
+<class1></class1>
+<group1></group1>
+<name1> 積層製造導論 </name1>
+<time1 day1="5" s1="4" e1="4.5"> [5]4~N  </time1>
+<place1> 航太系館                      5828 </place1>
+<note1></note1>
+</F4>
+
+<F4 id="113">
+<num>F4-113</num>
+<class></class>
+<group></group>
+<name> 航空工業製造概論（二） </name>
+<teacher> 邢有光  </teacher>
+<score> 3 </score>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5834 </place>
+<note></note>
+</F4>
+
+<F4 id="147">
+<num>F4-147</num>
+<class></class>
+<group></group>
+<name> 空氣動力學（二） </name>
+<teacher> 呂宗行  </teacher>
+<score> 3 </score>
+<time day1="1" s1="1" e1="3"> [1]1~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5897 </place>
+<note></note>
+</F4>
+
+<F4 id="149">
+<num>F4-149</num>
+<class></class>
+<group></group>
+<name> 飛機結構學（二） </name>
+<teacher> 崔兆棠  </teacher>
 <score> 3 </score>
 <time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
@@ -400,154 +408,14 @@
 <note></note>
 </F4>
 
-<F4 id="110">
-<num>F4-110</num>
-<class></class>
-<group></group>
-<name> 燃燒學 </name>
-<teacher> 王偉成  </teacher>
-<score> 3 </score>
-<time day1="1" s1="9" e1="9" day2="3" s2="5" e2="6"> [1]9  ,  [3]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5827 </place>
-<note> 航太系與能源學程合開 </note>
-</F4>
-
-<F4 id="111">
-<num>F4-111</num>
-<class></class>
-<group></group>
-<name> 校外實習（二） </name>
-<teacher> 呂宗行  </teacher>
-<score> 2 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 航太系與能源學程合開。至少須完成本系同意之校外實習至少二個月。 </note>
-</F4>
-
-<F4 id="112">
-<num>F4-112</num>
-<class></class>
-<group></group>
-<name> 校外實習（一） </name>
-<teacher> 賴維祥  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 實習 </type>
-<place></place>
-<note> 航太系與能源學程合開。 </note>
-</F4>
-
-<F4 id="113">
-<num>F4-113</num>
-<class></class>
-<group></group>
-<name> 燃燒工程概論 </name>
-<teacher> 趙怡欽  </teacher>
-<score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5822 </place>
-<note></note>
-</F4>
-
-<F4 id="114">
-<num>F4-114</num>
-<class></class>
-<group></group>
-<name> 航機載重平衡與簽派 </name>
-<teacher> 鄭伯瑜  </teacher>
-<score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5824 </place>
-<note> 本課程屬民航學程 </note>
-</F4>
-
-<F4 id="116">
-<num>F4-116</num>
-<class></class>
-<group></group>
-<name> 機動學 </name>
-<teacher> 楊世銘  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="1" e2="2"> [2]2  ,  [5]1~2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5829 </place>
-<note> 與能源學程合開，能源學程為必修 </note>
-</F4>
-
-<F4 id="117">
-<num>F4-117</num>
-<class></class>
-<group></group>
-<name> 飛機結構學（一） </name>
-<teacher> 江達雲  </teacher>
-<score> 3 </score>
-<time day1="1" s1="8" e1="8" day2="4" s2="5" e2="6"> [1]8  ,  [4]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5825 </place>
-<note></note>
-</F4>
-
-<F4 id="118">
-<num>F4-118</num>
-<class></class>
-<group></group>
-<name> 空氣動力學（一） </name>
-<teacher> 呂宗行  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5824 </place>
-<note></note>
-</F4>
-
-<F4 id="119">
-<num>F4-119</num>
-<class></class>
-<group></group>
-<name> 航空工業製造概論（一） </name>
-<teacher> 邢有光  </teacher>
-<score> 3 </score>
-<time day1="4" s1="7" e1="9"> [4]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5825 </place>
-<note></note>
-</F4>
-
 <F4 id="151">
 <num>F4-151</num>
 <class></class>
 <group></group>
-<name> 應用線性代數 </name>
+<name> 回授系統電腦控制理論 </name>
 <teacher> 李君謨  </teacher>
 <score> 3 </score>
-<time day1="5" s1="5" e1="7"> [5]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5825 </place>
-<note></note>
-</F4>
-
-<F4 id="152">
-<num>F4-152</num>
-<class></class>
-<group></group>
-<name> 控制系統設計 </name>
-<teacher> 李君謨  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="6" day2="5" s2="8" e2="8"> [2]5~6  ,  [5]8  </time>
+<time day1="4" s1="5" e1="6" day2="1" s2="8" e2="8"> [4]5~6  ,  [1]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5825 </place>
@@ -558,136 +426,74 @@
 <num>F4-153</num>
 <class></class>
 <group></group>
-<name> 基礎飛行 </name>
-<teacher> 許　平  </teacher>
+<name> 自主式無人載具系統概論 </name>
+<teacher> 譚俊豪  </teacher>
 <score> 3 </score>
-<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<time day1="4" s1="3" e1="4" day2="2" s2="1" e2="1"> [4]3~4  ,  [2]1  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5824 </place>
-<note> 本課程屬於民航學程長榮航空師資 </note>
+<note></note>
 </F4>
 
-<F4 id="154">
-<num>F4-154</num>
-<class></class>
-<group> A </group>
-<name> 航太工程實作（一） </name>
-<teacher> 葉思沂  </teacher>
-<score> 2 </score>
-<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5821 </place>
-<note> 1.無人飛行器設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不可更換組別上課。 </note>
-<class1></class1>
-<group1> A </group1>
-<name1> 航太工程實作（一） </name1>
-<time1 day1="1" s1="5" e1="7"> [1]5~7  </time1>
-<place1> 航太系館                      5821 </place1>
-<note1></note1>
-</F4>
-
-<F4 id="159">
+<F4 id="155">
 <num>F4-155</num>
 <class></class>
-<group> B </group>
-<name> 航太工程實作（一） </name>
-<teacher> 許紘瑋  </teacher>
-<score> 2 </score>
-<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5828 </place>
-<note> 1.火箭系統設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note>
-<class1></class1>
-<group1> C </group1>
-<name1> 航太工程實作（一） </name1>
-<time1 day1="1" s1="4.5" e1="4.5"> [1]N  </time1>
-<place1> 航太系館                      5833 </place1>
-<note1> 1.航太系統導航控制設計與實作(一)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note1>
-<class2></class2>
-<group2></group2>
-<name2> 論文（二） </name2>
-<time2 day1="0" s1="0" e1="0"> 未定  </time2>
-<place2></place2>
-<note2> 欲修課請於系網下載論文登記表，並於9/26前繳至系辦公室 </note2>
-</F4>
-
-<F4 id="192">
-<num>F4-192</num>
-<class></class>
 <group></group>
-<name> 燃燒污染防治 </name>
-<teacher> 李約亨  </teacher>
+<name> 近代物理 </name>
+<teacher> 楊憲東  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<time day1="5" s1="5" e1="6" day2="3" s2="8" e2="8"> [5]5~6  ,  [3]8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5827 </place>
+<place> 航太系館                      5824 </place>
 <note></note>
 </F4>
 
-<F4 id="193">
-<num>F4-193</num>
+<F4 id="156">
+<num>F4-156</num>
 <class></class>
 <group></group>
-<name> 飛機設計 </name>
-<teacher> 夏育群  </teacher>
-<score> 3 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5829 </place>
-<note></note>
-<class1></class1>
-<group1></group1>
-<name1> 飛機設計 </name1>
-<time1 day1="4" s1="4.5" e1="6"> [4]N~6  </time1>
-<place1> 航太系館                      5898 </place1>
-<note1></note1>
-</F4>
-
-<F4 id="194">
-<num>F4-194</num>
-<class></class>
-<group></group>
-<name> 航機維修實習（一） </name>
+<name> 航機維修實習（二） </name>
 <teacher> 彭家瑞  </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 本課程屬民航工程學程於暑假至長榮航空實習。 </note>
+<note> 屬民航工程學程，於寒假至長榮航太實習。 </note>
 </F4>
 
-<F4 id="195">
-<num>F4-195</num>
+<F4 id="192">
+<num>F4-171</num>
 <class></class>
 <group></group>
-<name> 導引與導航概論 </name>
-<teacher> 詹劭勳  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
+<name> 航太工程實作（二） </name>
+<teacher> 葉思沂  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="5"> [2]5  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 航太系館                      5833 </place>
-<note></note>
-</F4>
-
-<F4 id="196">
-<num>F4-196</num>
-<class></class>
-<group></group>
-<name> 流體機械 </name>
-<teacher> 陳世雄  </teacher>
-<score> 3 </score>
-<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5836 </place>
-<note></note>
+<place> 航太系館                      實驗室5814 </place>
+<note> 1.無人飛行器設計與實作(二)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不可更換組別上課。 </note>
+<class1></class1>
+<group1></group1>
+<name1> 航太工程實作（二） </name1>
+<time1 day1="2" s1="5" e1="5"> [2]5  </time1>
+<place1> 航太系館                      5849 </place1>
+<note1> 1.火箭系統設計與實作(二)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note1>
+<class2></class2>
+<group2></group2>
+<name2> 航太工程實作（二） </name2>
+<time2 day1="2" s1="5" e1="5"> [2]5  </time2>
+<place2> 航太系館                      5833 </place2>
+<note2> 1.航太系統導航控制設計與實作(二)。2.需先修上學期課程內容才可修下學期。3.需同一學年修畢。4.上、下學期不得更換組別上課。 </note2>
+<class3></class3>
+<group3></group3>
+<name3> 燃燒污染防治 </name3>
+<time3 day1="3" s1="5" e1="6" day2="5" s2="8" e2="8"> [3]5~6  ,  [5]8  </time3>
+<place3> 航太系館                      5830 </place3>
+<note3></note3>
 </F4>
 
 </content>

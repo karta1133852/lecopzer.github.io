@@ -2,10 +2,10 @@
 <content>
 <K7 id="001">
 <num>K7-001</num>
-<class> 碩三延                         </class>
-<group></group>
+<class> 碩三                           </class>
+<group> 3 </group>
 <name> 碩士論文寫作 </name>
-<teacher> 鍾國風   ,  劉益昌   ,  趙金勇   ,  左星樺   ,  莊家銘  </teacher>
+<teacher> 鍾國風*  ,  劉益昌*  ,  趙金勇*  ,  熊仲卿*  ,  莊家銘* </teacher>
 <score> 3 </score>
 <time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
@@ -16,13 +16,13 @@
 
 <K7 id="002">
 <num>K7-002</num>
-<class> 碩三延                         </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 資料選讀 </name>
-<teacher> 鍾國風*  ,  劉益昌*  ,  趙金勇*  ,  左星樺*  ,  莊家銘* </teacher>
-<score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
-<must> 必修 </must>
+<name> 環境考古學 </name>
+<teacher> 熊仲卿* </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
 <note></note>
@@ -31,22 +31,8 @@
 <K7 id="003">
 <num>K7-003</num>
 <class> 碩一二                         </class>
-<group></group>
-<name> 民族考古學 </name>
-<teacher> 鍾國風* </teacher>
-<score> 3 </score>
-<time day1="1" s1="7" e1="9"> [1]7~9  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27613 </place>
-<note></note>
-</K7>
-
-<K7 id="004">
-<num>K7-004</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 量化分析 </name>
+<group> 3 </group>
+<name> 動物考古學 </name>
 <teacher> 莊家銘* </teacher>
 <score> 3 </score>
 <time day1="2" s1="2" e1="4"> [2]2~4  </time>
@@ -56,40 +42,54 @@
 <note></note>
 </K7>
 
-<K7 id="005">
-<num>K7-005</num>
-<class> 碩二                           </class>
+<K7 id="004">
+<num>K7-004</num>
+<class> 碩一                           </class>
 <group></group>
-<name> 考古學田野方法與實習（二） </name>
+<name> 田野考古學（一）：調查與發掘方法 </name>
 <teacher> 鍾國風* </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<score> 2 </score>
+<time day1="2" s1="6" e1="7"> [2]6~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
 <note></note>
 </K7>
 
-<K7 id="006">
-<num>K7-006</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 歷史考古學 </name>
+<K7 id="005">
+<num>K7-005</num>
+<class> 碩一                           </class>
+<group> 3 </group>
+<name> 考古學理論方法專題 </name>
 <teacher> 趙金勇* </teacher>
-<score> 2 </score>
-<time day1="3" s1="4" e1="4.5"> [3]4~N  </time>
-<must> 選修 </must>
+<score> 3 </score>
+<time day1="3" s1="4" e1="5"> [3]4~5  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
-<note></note>
+<note> 需先修過考古學概論課程 </note>
+</K7>
+
+<K7 id="006">
+<num>K7-006</num>
+<class> 碩二                           </class>
+<group> 3 </group>
+<name> 論文研究計畫進階討論 </name>
+<teacher> 鍾國風*  ,  劉益昌*  ,  趙金勇*  ,  熊仲卿*  ,  莊家銘* </teacher>
+<score> 2 </score>
+<time day1="3" s1="6" e1="7"> [3]6~7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      27613 </place>
+<note> 限本考古所碩二學生 </note>
 </K7>
 
 <K7 id="007">
 <num>K7-007</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 東南亞考古學 </name>
-<teacher> 熊仲卿* </teacher>
+<name> 科技考古學 </name>
+<teacher> 莊家銘* </teacher>
 <score> 3 </score>
 <time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
@@ -102,10 +102,10 @@
 <num>K7-008</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 古代文明專題 </name>
-<teacher> 左星樺* </teacher>
+<name> 考古學與文化資產 </name>
+<teacher> 鍾國風*  ,  劉益昌*  ,  左星樺* </teacher>
 <score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
@@ -116,10 +116,10 @@
 <num>K7-009</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 考古學專業英文 </name>
-<teacher> 鍾國風   ,  劉益昌   ,  趙金勇   ,  熊仲卿   ,  左星樺   ,  莊家銘* </teacher>
-<score> 1 </score>
-<time day1="4" s1="9" e1="9"> [4]9  </time>
+<name> 陶器技術分析 </name>
+<teacher> 未定  </teacher>
+<score> 3 </score>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 雲平大樓                      27613 </place>
@@ -130,56 +130,14 @@
 <num>K7-010</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 空間分析與考古GIS應用 </name>
-<teacher> 熊仲卿* </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27613 </place>
-<note></note>
-</K7>
-
-<K7 id="011">
-<num>K7-011</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 博物館學理論與方法 </name>
-<teacher> 郭美芳* </teacher>
-<score> 3 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 雲平大樓                      27613 </place>
-<note></note>
-</K7>
-
-<K7 id="012">
-<num>K7-012</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 考古空間資訊整合 </name>
-<teacher> 熊仲卿*  ,  莊家銘  </teacher>
-<score> 1 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集課程，GIS教室，第1 週(9/10)9-12時，第2 週(9/17)9-12時，第4 週(10/1)9-12時，第5 週(10/8)8-12時13-18時 </note>
-</K7>
-
-<K7 id="013">
-<num>K7-013</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 貿易陶瓷考古進階分析 </name>
-<teacher> 鍾國風*  ,  劉益昌   ,  趙金勇  </teacher>
+<name> 希臘考古學概論 </name>
+<teacher> 左星樺  </teacher>
 <score> 1 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place></place>
-<note> 彈性密集課程，9/18(二)10-12時;14-16時;9/19(三)10-12時;14-16時;9/20(四)10-12時;14-16時;9/21(五)10-12時;14-16時;16-18時 </note>
+<note> 彈性密集課程  2/20  14:00-17:00  2/27  14:00-17:00  3/6   14:00-17:00  3/13  14:00-17:00  3/20  14:00-17:00  3/27  14:00 </note>
 </K7>
 
 </content>

@@ -4,342 +4,356 @@
 <num>I2-005</num>
 <class></class>
 <group></group>
-<name> 護理學導論 </name>
-<teacher> 林靜蘭   ,  郭雪敏   ,  李佳桂* </teacher>
-<score> 2 </score>
-<time day1="5" s1="5" e1="6"> [5]5~6  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 護理系館                      85309 </place>
-<note></note>
-</I2>
-
-<I2 id="008">
-<num>I2-008</num>
-<class></class>
-<group></group>
-<name> 解剖學（含實驗） </name>
-<teacher> 楊岱樺   ,  吳佳慶   ,  許鍾瑜   ,  王家義*  ,  王仰高   ,  連偉志  </teacher>
+<name> 人類發展學（含實習） </name>
+<teacher> 林梅鳳*  ,  王靜枝   ,  陳靜敏   ,  高綺吟   ,  李佳桂   ,  張烱心  </teacher>
 <score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第四講堂 </place>
-<note> 五樓實驗室，多位教師合開 </note>
-</I2>
-
-<I2 id="009">
-<num>I2-009</num>
-<class></class>
-<group></group>
-<name> 有機與生化概論 </name>
-<teacher> 張文粲   ,  何月仁   ,  余建泓* </teacher>
-<score> 3 </score>
-<time day1="3" s1="3" e1="4" day2="4" s2="3" e2="4"> [3]3~4  ,  [4]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        303D </place>
-<note></note>
-</I2>
-
-<I2 id="016">
-<num>I2-016</num>
-<class></class>
-<group></group>
-<name> 體育（一） </name>
-<teacher> 林麗娟  </teacher>
-<score> 0 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 體育室前                      體育室前 </place>
-<note></note>
-</I2>
-
-<I2 id="017">
-<num>I2-017</num>
-<class></class>
-<group></group>
-<name> 服務學習（一） </name>
-<teacher> 賴維淑* </teacher>
-<score> 0 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place></place>
-<note></note>
-</I2>
-
-<I2 id="018">
-<num>I2-018</num>
-<class></class>
-<group></group>
-<name> 健康促進與健康生活營造 </name>
-<teacher> 王琪珍* </teacher>
-<score> 2 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
-<must> 選修 </must>
 <type> 講義 </type>
 <place> 護理系館                      85X09 </place>
 <note></note>
-</I2>
-
-<I2 id="056">
-<num>I2-056</num>
-<class></class>
-<group></group>
-<name> 社會學 </name>
-<teacher> 黃于玲* </teacher>
-<score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        303D </place>
-<note> 護理系 </note>
-</I2>
-
-<I2 id="058">
-<num>I2-057</num>
-<class></class>
-<group></group>
-<name> 微生物及免疫學（含實驗） </name>
-<teacher> 王志堯   ,  王德華   ,  陳柏齡   ,  劉校生   ,  王淑鶯   ,  張志鵬   ,  黃一修*  ,  彭貴春   ,  陳振暐   ,  鄧景浩  </teacher>
-<score> 4 </score>
-<time day1="1" s1="2" e1="3" day2="4" s2="1" e2="1"> [1]2~3  ,  [4]1  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        208 </place>
-<note> 多位教師上課，一2-3在208，四1-4上課地點208及４Ｆ實驗室 </note>
 <class1></class1>
 <group1></group1>
-<name1> 寄生蟲學 </name1>
-<time1 day1="3" s1="5" e1="6"> [3]5~6  </time1>
-<place1> 醫學院                        604 </place1>
+<name1> 人類發展學（含實習） </name1>
+<time1 day1="3" s1="3" e1="4"> [3]3~4  </time1>
+<place1> 護理系館                      85X09 </place1>
 <note1></note1>
 </I2>
 
-<I2 id="059">
-<num>I2-059</num>
+<I2 id="006">
+<num>I2-006</num>
 <class></class>
 <group></group>
-<name> 營養學 </name>
-<teacher> 郭素娥* </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 護理系館                      85X09 </place>
-<note></note>
-</I2>
-
-<I2 id="061">
-<num>I2-061</num>
-<class></class>
-<group></group>
-<name> 健康檢查與評估（含實習） </name>
-<teacher> 方素瓔   ,  陳幸眉   ,  高綺吟*  ,  賴維淑   ,  陳宜   ,  李佳桂  </teacher>
+<name> 生理學 </name>
+<teacher> 楊尚訓   ,  陳珮君*  ,  張雅雯  </teacher>
 <score> 3 </score>
-<time day1="3" s1="1" e1="4"> [3]1~4  </time>
+<time day1="1" s1="2" e1="2" day2="5" s2="3" e2="4"> [1]2  ,  [5]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 醫學院                        第一講堂 </place>
 <note></note>
 </I2>
 
-<I2 id="062">
-<num>I2-062</num>
+<I2 id="007">
+<num>I2-007</num>
 <class></class>
 <group></group>
-<name> 病態生理學 </name>
-<teacher> 方素瓔*  ,  陳彩雲   ,  白明奇   ,  宋俊明   ,  柯文謙   ,  蔡良敏   ,  郭保麟   ,  謝式洲   ,  王崇任   ,  歐弘毅   ,  莊喬雄   ,  蘇維仁   ,  林偉傑   ,  林立人   ,  王明誠  </teacher>
-<score> 2 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 護理系館                      85309 </place>
-<note> 多位醫院內外科醫師上課 </note>
-</I2>
-
-<I2 id="063">
-<num>I2-063</num>
-<class></class>
-<group></group>
-<name> 社區身心障礙者及其照護 </name>
-<teacher> 王琪珍* </teacher>
-<score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<name> 心理學 </name>
+<teacher> 游一龍*  ,  郭乃文   ,  黃惠玲   ,  余睿羚  </teacher>
+<score> 3 </score>
+<time day1="4" s1="4" e1="4" day2="4" s2="7" e2="8"> [4]4  ,  [4]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85101 </place>
+<place> 醫學院                        第四講堂 </place>
+<note> 與職治、物治合開 </note>
+</I2>
+
+<I2 id="010">
+<num>I2-010</num>
+<class></class>
+<group></group>
+<name> 公共衛生概論 </name>
+<teacher> 胡淑貞* </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
 <note></note>
 </I2>
 
-<I2 id="099">
-<num>I2-099</num>
+<I2 id="011">
+<num>I2-011</num>
 <class></class>
 <group></group>
-<name> 服務學習（三） </name>
-<teacher> 方素瓔* </teacher>
+<name> 服務學習（二） </name>
+<teacher> 賴維淑* </teacher>
 <score> 0 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 限本系學生 </note>
+</I2>
+
+<I2 id="051">
+<num>I2-051</num>
+<class></class>
+<group></group>
+<name> 基本護理學 </name>
+<teacher> 鄭雅方   ,  李歡芳* </teacher>
+<score> 2 </score>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 限本系學生(國鼎臨床技能中心) </note>
+</I2>
+
+<I2 id="052">
+<num>I2-052</num>
+<class></class>
+<group></group>
+<name> 基本護理學實習 </name>
+<teacher> 鄭雅方   ,  李歡芳* </teacher>
+<score> 3 </score>
+<time day1="3" s1="3" e1="4" day2="3" s2="5" e2="8" day3="4" s3="1" e3="4"> [3]3~4  ,  [3]5~8  ,  [4]1~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
 <note></note>
 </I2>
 
-<I2 id="104">
-<num>I2-104</num>
+<I2 id="055">
+<num>I2-055</num>
 <class></class>
 <group></group>
-<name> 產科護理學 </name>
-<teacher> 張瑩如   ,  許玉雲*  ,  鄭雅方   ,  張烱心   ,  郭保麟   ,  周振陽   ,  吳孟興   ,  鄭雅敏   ,  游振祥   ,  陳俞沛  </teacher>
+<name> 藥理學 </name>
+<teacher> 呂增宏   ,  簡偉明*  ,  許桂森   ,  沈孟儒   ,  張雋曦   ,  陳韻雯   ,  姜學誠  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<time day1="1" s1="5" e1="6" day2="5" s2="5" e2="5"> [1]5~6  ,  [5]5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85309 </place>
+<place> 醫學院                        304D </place>
 <note></note>
 </I2>
 
-<I2 id="105">
-<num>I2-105</num>
+<I2 id="067">
+<num>I2-067</num>
 <class></class>
 <group></group>
-<name> 產科護理學實習 </name>
-<teacher> 許玉雲*  ,  鄭雅方  </teacher>
+<name> 生物統計學 </name>
+<teacher> 王亮懿* </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note></note>
+</I2>
+
+<I2 id="070">
+<num>I2-070</num>
+<class></class>
+<group></group>
+<name> 急診醫學 </name>
+<teacher> 紀志賢   ,  林志豪*  ,  許以霖   ,  施欣怡   ,  何宗憲   ,  王世敏   ,  李忠勳   ,  洪明原   ,  莊佳璋*  ,  謝至嘉  </teacher>
+<score> 2 </score>
+<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note> 限本系護二、護三學生選修 </note>
+</I2>
+
+<I2 id="072">
+<num>I2-072</num>
+<class></class>
+<group></group>
+<name> 跨文化護理臨床見習 </name>
+<teacher> 方素瓔* </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 限本系學生，寒假至海外見習 </note>
+</I2>
+
+<I2 id="102">
+<num>I2-102</num>
+<class></class>
+<group></group>
+<name> 兒科護理學 </name>
+<teacher> 許玉雲   ,  馮瑞鶯*  ,  陳宜   ,  李佳桂   ,  陳建旭   ,  林啟禎   ,  劉清泉   ,  吳俊明   ,  邱元佑   ,  楊燿榮   ,  杜伊芳   ,  林永傑   ,  謝奇璋  </teacher>
 <score> 3 </score>
-<time day1="1" s1="8" e1="8" day2="2" s2="1" e2="8"> [1]8  ,  [2]1~8  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85309 </place>
+<note> 限本系學生 </note>
+</I2>
+
+<I2 id="103">
+<num>I2-103</num>
+<class></class>
+<group></group>
+<name> 兒科護理學實習 </name>
+<teacher> 馮瑞鶯*  ,  陳宜   ,  李佳桂  </teacher>
+<score> 3 </score>
+<time day1="2" s1="1" e1="8" day2="4" s2="1" e2="1"> [2]1~8  ,  [4]1  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 護理系館                      85309 </place>
-<note> 醫院實習 </note>
+<note> 醫院實習，限本系學生 </note>
 </I2>
 
 <I2 id="106">
 <num>I2-106</num>
 <class></class>
 <group></group>
-<name> 成人護理學（一） </name>
-<teacher> 張文芸   ,  柯乃熒   ,  方素瓔   ,  陳幸眉*  ,  高綺吟   ,  賴維淑   ,  官大紳   ,  李貽恒   ,  陳志弘   ,  李南瑤   ,  羅傳堯   ,  王亮超   ,  邱威鑫   ,  徐慧萍  </teacher>
+<name> 成人護理學（二） </name>
+<teacher> 張文芸   ,  柯乃熒   ,  方素瓔   ,  陳幸眉*  ,  高綺吟   ,  賴維淑   ,  翁嘉澤  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 護理系館                      85309 </place>
-<note></note>
+<note> 限本系學生 </note>
 </I2>
 
 <I2 id="107">
 <num>I2-107</num>
 <class></class>
 <group></group>
-<name> 成人護理學實習（一） </name>
-<teacher> 張文芸   ,  方素瓔   ,  陳幸眉*  ,  高綺吟   ,  賴維淑  </teacher>
+<name> 成人護理學實習（二） </name>
+<teacher> 張文芸   ,  方素瓔   ,  陳幸眉*  ,  賴維淑  </teacher>
 <score> 3 </score>
-<time day1="3" s1="1" e1="8" day2="4" s2="1" e2="1"> [3]1~8  ,  [4]1  </time>
+<time day1="1" s1="8" e1="8" day2="3" s2="1" e2="8"> [1]8  ,  [3]1~8  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 護理系館                      85309 </place>
-<note> 醫院實習，上課地點：週三1-8節及週四第一節85309 </note>
+<note> 醫院實習，限本系學生 </note>
 </I2>
 
-<I2 id="110">
-<num>I2-110</num>
+<I2 id="112">
+<num>I2-112</num>
 <class></class>
 <group></group>
-<name> 公共衛生概論 </name>
-<teacher> 吳政龍   ,  李俊璋   ,  胡淑貞*  ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯   ,  邱靜如  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        第三講堂 </place>
-<note></note>
-</I2>
-
-<I2 id="151">
-<num>I2-151</num>
-<class></class>
-<group></group>
-<name> 精神衛生護理學 </name>
-<teacher> 林梅鳳   ,  徐畢卿   ,  林靜蘭*  ,  許惠珠   ,  陳柏熹   ,  王姿云   ,  張維紘   ,  曾懷萱  </teacher>
+<name> 綜合臨床護理學實習（一） </name>
+<teacher> 王維芳   ,  李歡芳* </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 限本系學生，暑假醫院實習 </note>
+</I2>
+
+<I2 id="117">
+<num>I2-117</num>
+<class></class>
+<group></group>
+<name> 生命倫理與護理 </name>
+<teacher> 高綺吟   ,  賴維淑*  ,  簡偉明  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85X09 </place>
+<place> 護理系館                      85309 </place>
+<note> 限本系學生 </note>
+</I2>
+
+<I2 id="120">
+<num>I2-120</num>
+<class></class>
+<group></group>
+<name> 老人護理 </name>
+<teacher> 張文芸* </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85309 </place>
 <note></note>
+</I2>
+
+<I2 id="121">
+<num>I2-121</num>
+<class></class>
+<group></group>
+<name> 職業安全衛生 </name>
+<teacher> 郭耀昌* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85X09 </place>
+<note> 限醫學院學生選修 </note>
+</I2>
+
+<I2 id="155">
+<num>I2-155</num>
+<class></class>
+<group></group>
+<name> 專業問題研討 </name>
+<teacher> 張瑩如   ,  陳靜敏* </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 護理系館                      85X09 </place>
+<note> 限本系學生 </note>
 </I2>
 
 <I2 id="156">
 <num>I2-156</num>
 <class></class>
 <group></group>
-<name> 護理行政概論 </name>
-<teacher> 馬先芝   ,  張瑩如*  ,  顏妙芬   ,  王維芳   ,  黃維珍   ,  郭雪敏  </teacher>
-<score> 2 </score>
-<time day1="5" s1="1" e1="2"> [5]1~2  </time>
+<name> 社區護理學 </name>
+<teacher> 王琪珍   ,  王靜枝* </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85309 </place>
-<note></note>
+<place> 護理系館                      85X09 </place>
+<note> 限本系學生 </note>
 </I2>
 
 <I2 id="157">
 <num>I2-157</num>
 <class></class>
 <group></group>
-<name> 護理行政實習 </name>
-<teacher> 張瑩如*  ,  顏妙芬   ,  王維芳   ,  郭雪敏  </teacher>
-<score> 2 </score>
-<time day1="3" s1="2" e1="7"> [3]2~7  </time>
+<name> 社區護理學實習 </name>
+<teacher> 王琪珍   ,  王靜枝* </teacher>
+<score> 3 </score>
+<time day1="3" s1="1" e1="8" day2="2" s2="1" e2="8" day3="4" s3="1" e3="1"> [3]1~8  ,  [2]1~8  ,  [4]1  </time>
 <must> 必修 </must>
 <type> 實習 </type>
 <place> 護理系館                      85X09 </place>
+<note> 醫院實習，限本系學生 </note>
+</I2>
+
+<I2 id="160">
+<num>I2-160</num>
+<class></class>
+<group></group>
+<name> 論文寫作 </name>
+<teacher> 張文芸*  ,  黃美智   ,  許玉雲  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
 <note></note>
+</I2>
+
+<I2 id="162">
+<num>I2-162</num>
+<class></class>
+<group></group>
+<name> 綜合臨床護理學實習（二） </name>
+<teacher> 林梅鳳   ,  張文芸*  ,  高綺吟   ,  賴維淑   ,  李歡芳   ,  李佳桂  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="8" day2="3" s2="1" e2="8" day3="2" s3="1" e3="8"> [1]7~8  ,  [3]1~8  ,  [2]1~8  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 醫院實習，限本系學生 </note>
 </I2>
 
 <I2 id="163">
 <num>I2-163</num>
 <class></class>
 <group></group>
-<name> 護理研究概論 </name>
-<teacher> 陳靜敏*  ,  陳麗光  </teacher>
-<score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 護理系館                      85309 </place>
-<note></note>
-</I2>
-
-<I2 id="164">
-<num>I2-164</num>
-<class></class>
-<group></group>
-<name> 專案研究 </name>
-<teacher> 黃美智*  ,  許玉雲  </teacher>
+<name> 臨床護理專業選習 </name>
+<teacher> 胡芳文* </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 全系教師 </note>
-</I2>
-
-<I2 id="169">
-<num>I2-169</num>
-<class></class>
-<group></group>
-<name> 精神衛生護理學實習 </name>
-<teacher> 林梅鳳   ,  徐畢卿   ,  林靜蘭*  ,  許惠珠  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="8" day2="1" s2="6" e2="7"> [2]2~8  ,  [1]6~7  </time>
-<must> 必修 </must>
 <type> 實習 </type>
-<place> 護理系館                      85X09 </place>
-<note></note>
+<place></place>
+<note> 醫院實習 </note>
 </I2>
 
 </content>

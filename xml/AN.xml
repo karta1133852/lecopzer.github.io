@@ -1,24 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <content>
-<AN id="003">
-<num>AN-003</num>
+<AN id="008">
+<num>AN-008</num>
 <class></class>
 <group></group>
-<name> 體育（一） </name>
-<teacher> 王駿濠  </teacher>
-<score> 0 </score>
-<time day1="1" s1="7" e1="8"> [1]7~8  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 體育室前                      體育室前 </place>
-<note> 英語授課 </note>
-</AN>
-
-<AN id="006">
-<num>AN-006</num>
-<class></class>
-<group></group>
-<name> 服務學習（一） </name>
+<name> 服務學習（二） </name>
 <teacher> 賴明德  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
@@ -28,130 +14,18 @@
 <note></note>
 </AN>
 
-<AN id="051">
-<num>AN-051</num>
-<class></class>
+<AN id="150">
+<num>AN-150</num>
+<class> 大學部                         </class>
 <group></group>
-<name> 跨領域問題導向專題（一） </name>
-<teacher> 陳恒安   ,  舒宇宸   ,  王育民*  ,  李旺龍   ,  賴啟銘*  ,  蘇文鈺   ,  賴明德  </teacher>
-<score> 6 </score>
-<time day1="6" s1="2" e1="7"> [6]2~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> C-HUB 教室 </note>
-</AN>
-
-<AN id="052">
-<num>AN-052</num>
-<class></class>
-<group></group>
-<name> 國際企業概論 </name>
-<teacher> 林玟廷* </teacher>
-<score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5117 </place>
-<note></note>
-</AN>
-
-<AN id="054">
-<num>AN-054</num>
-<class></class>
-<group></group>
-<name> 簡報製作與表達技巧 </name>
-<teacher> 辛致煒* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5117 </place>
-<note> 密集課程(9/3上午9點-下午4點、9/4下午1點到4點、9/5上午9點-下午4點、9/7上午9點到12點) </note>
-</AN>
-
-<AN id="055">
-<num>AN-055</num>
-<class></class>
-<group></group>
-<name> STEAM跨領域探究學習實作 </name>
-<teacher> 舒宇宸* </teacher>
-<score> 3 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集授課，上課時間為8/1-8/11 </note>
-</AN>
-
-<AN id="063">
-<num>AN-063</num>
-<class></class>
-<group></group>
-<name> 國際力學創新實作教學 </name>
-<teacher> 張怡玲  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 全英授課，密集授課，8/1-8/11 </note>
-</AN>
-
-<AN id="064">
-<num>AN-064</num>
-<class></class>
-<group></group>
-<name> 智慧生活設計思考工作坊 </name>
-<teacher> 楊佳翰  </teacher>
-<score> 0.5 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集授課，7/7，C-Hub教室 </note>
-</AN>
-
-<AN id="065">
-<num>AN-065</num>
-<class></class>
-<group></group>
-<name> 仿生學 </name>
-<teacher> 辛致煒  </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集授課(10/13、10/20、10/27、11/3)上課地點：格致廳(小講堂)10/20移至大講堂 </note>
-</AN>
-
-<AN id="066">
-<num>AN-066</num>
-<class></class>
-<group></group>
-<name> 以工業設計方法探討能源問題 </name>
-<teacher> 周君瑞   ,  陳璽任* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 密集課程9/15-9/16；上午8點-下午6點，上課地點：大成館2樓5256A教室 </note>
-</AN>
-
-<AN id="151">
-<num>AN-151</num>
-<class></class>
-<group></group>
-<name> 跨領域問題導向專題（三） </name>
-<teacher> 陳恒安   ,  舒宇宸   ,  王育民*  ,  李旺龍   ,  賴啟銘   ,  陳璽任   ,  蘇文鈺   ,  賴明德  </teacher>
+<name> 跨領域問題導向專題（二） </name>
+<teacher> 陳恒安   ,  舒宇宸   ,  王育民*  ,  李旺龍   ,  賴啟銘   ,  蘇文鈺   ,  賴明德* </teacher>
 <score> 6 </score>
 <time day1="6" s1="2" e1="7"> [6]2~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
 <place></place>
-<note> C-hub </note>
+<note> C-Hub </note>
 </AN>
 
 </content>

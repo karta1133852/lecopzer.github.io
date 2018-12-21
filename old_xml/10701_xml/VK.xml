@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<VK id="001">
+<num>VK-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 鄭銘揚  </teacher>
+<score> 0 </score>
+<time day1="4" s1="4.5" e1="5"> [4]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note> 控制組 </note>
+</VK>
+
+<VK id="002">
+<num>VK-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 王　醴  </teacher>
+<score> 0 </score>
+<time day1="3" s1="4.5" e1="5"> [3]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92720 </place>
+<note> 電力組 </note>
+</VK>
+
+<VK id="003">
+<num>VK-003</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 能量轉換 </name>
+<teacher> 黃世杰  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note> 碩博碩專合班 </note>
+</VK>
+
+<VK id="004">
+<num>VK-004</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電力電子特論 </name>
+<teacher> 林瑞禮  </teacher>
+<score> 3 </score>
+<time day1="2" s1="11" e1="13"> [2]B~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      靄雲廳 </place>
+<note> 碩博碩專合班，英語授課 </note>
+</VK>
+
+<VK id="005">
+<num>VK-005</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 科技英文 </name>
+<teacher> 毛齊武  </teacher>
+<score> 3 </score>
+<time day1="3" s1="1" e1="2" day2="2" s2="1" e2="1"> [3]1~2  ,  [2]1  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92371 </place>
+<note></note>
+</VK>
+
+<VK id="006">
+<num>VK-006</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 莊智清  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92820 </place>
+<note> 控制組 </note>
+</VK>
+
+<VK id="007">
+<num>VK-007</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 林瑞禮*  ,  張簡樂仁  </teacher>
+<score> 0 </score>
+<time day1="1" s1="4.5" e1="5"> [1]N~5  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92720 </place>
+<note> 電力組 </note>
+</VK>
+
+<VK id="008">
+<num>VK-008</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電力系統分析 </name>
+<teacher> 張簡樂仁  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92720 </place>
+<note> 大四碩士合班 </note>
+</VK>
+
+<VK id="009">
+<num>VK-009</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 電機機械設計 </name>
+<teacher> 謝旻甫  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92177 </place>
+<note> 電機所系統所合班 </note>
+</VK>
+
+<VK id="010">
+<num>VK-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 視覺伺服系統 </name>
+<teacher> 鄭銘揚  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92185 </place>
+<note></note>
+</VK>
+
+<VK id="011">
+<num>VK-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等模糊控制 </name>
+<teacher> 李祖聖  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92383 </place>
+<note></note>
+</VK>
+
+<VK id="012">
+<num>VK-012</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 機器學習與生物資訊學 </name>
+<teacher> 張天豪  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note> 大四碩士合班 </note>
+</VK>
+
+<VK id="013">
+<num>VK-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 類神經網路簡介 </name>
+<teacher> 王振興  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="3" e2="3"> [1]5~6  ,  [3]3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92225 </place>
+<note></note>
+</VK>
+
+<VK id="014">
+<num>VK-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電機械固態控制 </name>
+<teacher> 謝旻甫*  ,  施凱中  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92171 </place>
+<note></note>
+</VK>
+
+<VK id="015">
+<num>VK-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 類比積體電路設計 </name>
+<teacher> 郭泰豪  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      靄雲廳 </place>
+<note></note>
+</VK>
+
+<VK id="016">
+<num>VK-016</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電動機動力與控制 </name>
+<teacher> 蔡明祺  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 機械系館                      三星講堂 </place>
+<note></note>
+</VK>
+
+</content>

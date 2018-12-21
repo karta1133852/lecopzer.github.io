@@ -2,65 +2,23 @@
 <content>
 <R4 id="001">
 <num>R4-001</num>
-<class> 碩一                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 資訊管理 </name>
-<teacher> 張心馨  </teacher>
+<name> 營運管理 </name>
+<teacher> 葉桂珍  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="002">
-<num>R4-002</num>
-<class> 碩                             </class>
-<group></group>
-<name> 金融市場技術分析 </name>
-<teacher> 蔡燿全  </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62212 </place>
 <note></note>
 </R4>
 
 <R4 id="003">
 <num>R4-003</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 人力資源管理 </name>
-<teacher> 王瑜琳  </teacher>
-<score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="004">
-<num>R4-004</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 企業政策與策略 </name>
-<teacher> 方世杰  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="005">
-<num>R4-005</num>
 <class> 碩                             </class>
 <group></group>
-<name> 財務管理 </name>
+<name> 組織理論與管理 </name>
 <teacher> 莊喜  </teacher>
 <score> 3 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
@@ -70,17 +28,45 @@
 <note></note>
 </R4>
 
+<R4 id="004">
+<num>R4-004</num>
+<class> 碩                             </class>
+<group></group>
+<name> 策略人力資源發展 </name>
+<teacher> 王瑜琳  </teacher>
+<score> 3 </score>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62455 </place>
+<note></note>
+</R4>
+
+<R4 id="005">
+<num>R4-005</num>
+<class> 碩                             </class>
+<group></group>
+<name> 行銷策略 </name>
+<teacher> 蔡惠婷  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R4>
+
 <R4 id="006">
 <num>R4-006</num>
-<class> 碩博                           </class>
+<class> 碩                             </class>
 <group></group>
-<name> 全球運籌管理 </name>
-<teacher> 張心馨  </teacher>
+<name> 新產品開發與管理 </name>
+<teacher> 周信輝  </teacher>
 <score> 3 </score>
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62231 </place>
+<place> 企管系館                      62453 </place>
 <note></note>
 </R4>
 
@@ -88,69 +74,41 @@
 <num>R4-007</num>
 <class> 碩                             </class>
 <group></group>
-<name> 國際行銷管理 </name>
-<teacher> 蔡惠婷  </teacher>
+<name> 激勵學 </name>
+<teacher> 李憲達  </teacher>
 <score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<time day1="5" s1="6" e1="8"> [5]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
 <note></note>
 </R4>
 
-<R4 id="008">
-<num>R4-008</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 資料分析方法 </name>
-<teacher> 葉桂珍  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="009">
-<num>R4-009</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 質性研究方法 </name>
-<teacher> 周信輝  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
 <R4 id="010">
 <num>R4-010</num>
-<class> 碩                             </class>
+<class> 碩博                           </class>
 <group></group>
-<name> 策略行銷專題 </name>
-<teacher> 蔡燿全  </teacher>
+<name> 服務創新 </name>
+<teacher> 張心馨  </teacher>
 <score> 3 </score>
-<time day1="5" s1="6" e1="8"> [5]6~8  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62231 </place>
-<note> 需先修行銷管理、財務管理 </note>
+<place> 企管系館                      62212 </place>
+<note></note>
 </R4>
 
 <R4 id="011">
 <num>R4-011</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 管理數量方法 </name>
-<teacher> 黃瀞瑩  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<name> 專題討論 </name>
+<teacher> 葉桂珍  </teacher>
+<score> 0 </score>
+<time day1="2" s1="4.5" e1="4.5"> [2]N  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62453 </place>
+<place> 企管系館                      62212 </place>
 <note></note>
 </R4>
 
@@ -158,13 +116,13 @@
 <num>R4-012</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 企業研究方法 </name>
-<teacher> 李憲達  </teacher>
+<name> 日本經濟與經營管理 </name>
+<teacher> 許經明  </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62455 </place>
+<place> 企管系館                      62422 </place>
 <note></note>
 </R4>
 
@@ -172,27 +130,13 @@
 <num>R4-013</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 創新管理專題 </name>
-<teacher> 許經明  </teacher>
+<name> 科技管理 </name>
+<teacher> 陳淑惠  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62455 </place>
-<note></note>
-</R4>
-
-<R4 id="014">
-<num>R4-014</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 葉桂珍  </teacher>
-<score> 0 </score>
-<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62335 </place>
+<place> 企管系館                      62453 </place>
 <note></note>
 </R4>
 
@@ -200,35 +144,21 @@
 <num>R4-015</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 組織經濟社會學 </name>
-<teacher> 方世杰  </teacher>
+<name> 多變量分析 </name>
+<teacher> 黃瀞瑩  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="016">
-<num>R4-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 社群與創新管理 </name>
-<teacher> 陳淑惠  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62422 </place>
 <note></note>
 </R4>
 
-<R4 id="301">
-<num>R4-301</num>
+<R4 id="302">
+<num>R4-302</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 企業智慧策略 </name>
+<name> 服務創新 </name>
 <teacher> 張心馨  </teacher>
 <score> 3 </score>
 <time day1="6" s1="2" e1="4"> [6]2~4  </time>
@@ -238,26 +168,12 @@
 <note></note>
 </R4>
 
-<R4 id="302">
-<num>R4-302</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 金融市場技術分析 </name>
-<teacher> 蔡燿全  </teacher>
-<score> 3 </score>
-<time day1="4" s1="10" e1="12"> [4]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
 <R4 id="303">
 <num>R4-303</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 社群與創新管理 </name>
-<teacher> 陳淑惠  </teacher>
+<name> 企業政策與策略 </name>
+<teacher> 方世杰  </teacher>
 <score> 3 </score>
 <time day1="1" s1="11" e1="13"> [1]B~D  </time>
 <must> 選修 </must>
@@ -266,14 +182,28 @@
 <note></note>
 </R4>
 
+<R4 id="304">
+<num>R4-304</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 企業組織行為 </name>
+<teacher> 莊喜  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62422 </place>
+<note></note>
+</R4>
+
 <R4 id="306">
 <num>R4-306</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 行銷管理 </name>
-<teacher> 蔡惠婷  </teacher>
+<name> 創業管理 </name>
+<teacher> 王瑜琳  </teacher>
 <score> 3 </score>
-<time day1="1" s1="10" e1="12"> [1]A~C  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
@@ -284,13 +214,27 @@
 <num>R4-307</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 策略人力資源發展 </name>
-<teacher> 王瑜琳  </teacher>
+<name> 行銷策略 </name>
+<teacher> 蔡惠婷  </teacher>
 <score> 3 </score>
-<time day1="5" s1="10" e1="12"> [5]A~C  </time>
+<time day1="1" s1="10" e1="12"> [1]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 企管系館                      62212 </place>
+<note></note>
+</R4>
+
+<R4 id="308">
+<num>R4-308</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 管理統計學 </name>
+<teacher> 黃瀞瑩  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62455 </place>
 <note></note>
 </R4>
 
@@ -298,69 +242,27 @@
 <num>R4-309</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 質性研究方法 </name>
-<teacher> 周信輝  </teacher>
-<score> 3 </score>
-<time day1="2" s1="11" e1="13"> [2]B~D  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="311">
-<num>R4-311</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 企業研究方法 </name>
-<teacher> 李憲達  </teacher>
-<score> 3 </score>
-<time day1="5" s1="10" e1="12"> [5]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="313">
-<num>R4-313</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 多變量分析 </name>
-<teacher> 黃瀞瑩  </teacher>
-<score> 3 </score>
-<time day1="3" s1="10" e1="12"> [3]A~C  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="314">
-<num>R4-314</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 營運管理 </name>
-<teacher> 葉桂珍  </teacher>
-<score> 3 </score>
-<time day1="6" s1="5" e1="7"> [6]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 企管系館                      62453 </place>
-<note></note>
-</R4>
-
-<R4 id="315">
-<num>R4-315</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 創新管理專題 </name>
+<name> 日本經濟與經營管理 </name>
 <teacher> 許經明  </teacher>
 <score> 3 </score>
 <time day1="2" s1="10" e1="12"> [2]A~C  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 企管系館                      62422 </place>
+<place> 企管系館                      62453 </place>
+<note></note>
+</R4>
+
+<R4 id="310">
+<num>R4-310</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 激勵學 </name>
+<teacher> 李憲達  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 企管系館                      62453 </place>
 <note></note>
 </R4>
 

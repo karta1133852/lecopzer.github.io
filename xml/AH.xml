@@ -4,10 +4,10 @@
 <num>AH-001</num>
 <class></class>
 <group></group>
-<name> 漢字理論與教學 </name>
+<name> 語言與文化 </name>
 <teacher> 呂璯敏  </teacher>
 <score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
@@ -18,10 +18,10 @@
 <num>AH-002</num>
 <class></class>
 <group></group>
-<name> 語法學 </name>
-<teacher> 劉怡如  </teacher>
+<name> 華語教材教法 </name>
+<teacher> 施安辛  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26707 </place>
@@ -32,8 +32,8 @@
 <num>AH-003</num>
 <class></class>
 <group></group>
-<name> 詞彙學 </name>
-<teacher> 劉怡如  </teacher>
+<name> 多媒體與電腦輔助 </name>
+<teacher> 呂璯敏  </teacher>
 <score> 2 </score>
 <time day1="3" s1="5" e1="6"> [3]5~6  </time>
 <must> 選修 </must>
@@ -46,13 +46,13 @@
 <num>AH-004</num>
 <class></class>
 <group></group>
-<name> 華語文教學導論 </name>
+<name> 社會語言學 </name>
 <teacher> 陳菘霖  </teacher>
 <score> 2 </score>
 <time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 必修 </must>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
+<place> 中文系館                      21101 </place>
 <note></note>
 </AH>
 
@@ -63,10 +63,10 @@
 <name> 基礎國文LEVEL1 </name>
 <teacher> 劉怡如  </teacher>
 <score> 2 </score>
-<time day1="1" s1="7" e1="8" day2="2" s2="9" e2="10"> [1]7~8  ,  [2]9~A  </time>
+<time day1="1" s1="7" e1="8" day2="3" s2="9" e2="10"> [1]7~8  ,  [3]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26315 </place>
+<place> 修齊大樓                      26313 </place>
 <note></note>
 </AH>
 
@@ -75,12 +75,12 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL1 </name>
-<teacher> 劉怡如  </teacher>
+<teacher> 洪瑄鍞  </teacher>
 <score> 2 </score>
-<time day1="4" s1="7" e1="8" day2="3" s2="9" e2="10"> [4]7~8  ,  [3]9~A  </time>
+<time day1="5" s1="5" e1="6" day2="1" s2="9" e2="10"> [5]5~6  ,  [1]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26315 </place>
+<place> 修齊大樓                      26313 </place>
 <note></note>
 </AH>
 
@@ -89,9 +89,9 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL1 </name>
-<teacher> 施安辛  </teacher>
+<teacher> 呂璯敏  </teacher>
 <score> 2 </score>
-<time day1="1" s1="7" e1="8" day2="3" s2="9" e2="10"> [1]7~8  ,  [3]9~A  </time>
+<time day1="1" s1="9" e1="10" day2="3" s2="7" e2="8"> [1]9~A  ,  [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 修齊大樓                      26317 </place>
@@ -105,10 +105,10 @@
 <name> 基礎國文LEVEL1 </name>
 <teacher> 呂璯敏  </teacher>
 <score> 2 </score>
-<time day1="1" s1="7" e1="8" day2="3" s2="9" e2="10"> [1]7~8  ,  [3]9~A  </time>
+<time day1="4" s1="7" e1="8" day2="2" s2="9" e2="10"> [4]7~8  ,  [2]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26313 </place>
+<place> 修齊大樓                      26317 </place>
 <note></note>
 </AH>
 
@@ -117,12 +117,12 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL1 </name>
-<teacher> 洪瑄鍞  </teacher>
+<teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="5" s1="5" e1="6" day2="2" s2="9" e2="10"> [5]5~6  ,  [2]9~A  </time>
+<time day1="4" s1="7" e1="8" day2="2" s2="9" e2="10"> [4]7~8  ,  [2]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26319 </place>
+<place> 修齊大樓                      26315 </place>
 <note></note>
 </AH>
 
@@ -131,7 +131,7 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL1 </name>
-<teacher> 呂璯敏  </teacher>
+<teacher> 劉怡如  </teacher>
 <score> 2 </score>
 <time day1="2" s1="7" e1="8" day2="4" s2="9" e2="10"> [2]7~8  ,  [4]9~A  </time>
 <must> 必修 </must>
@@ -145,12 +145,12 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL1 </name>
-<teacher> 施安辛  </teacher>
+<teacher> 劉怡如  </teacher>
 <score> 2 </score>
-<time day1="2" s1="1" e1="2" day2="4" s2="9" e2="10"> [2]1~2  ,  [4]9~A  </time>
+<time day1="5" s1="5" e1="6" day2="2" s2="9" e2="10"> [5]5~6  ,  [2]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26317 </place>
+<place> 修齊大樓                      26313 </place>
 <note></note>
 </AH>
 
@@ -158,13 +158,13 @@
 <num>AH-018</num>
 <class></class>
 <group></group>
-<name> 基礎國文LEVEL1 </name>
-<teacher> 呂璯敏  </teacher>
+<name> 基礎國文LEVEL2 </name>
+<teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8" day2="1" s2="9" e2="10"> [3]7~8  ,  [1]9~A  </time>
+<time day1="1" s1="7" e1="8" day2="3" s2="9" e2="10"> [1]7~8  ,  [3]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26313 </place>
+<place> 修齊大樓                      26315 </place>
 <note></note>
 </AH>
 
@@ -172,14 +172,14 @@
 <num>AH-019</num>
 <class></class>
 <group></group>
-<name> 基礎國文LEVEL1 </name>
+<name> 基礎國文LEVEL2 </name>
 <teacher> 劉怡如  </teacher>
 <score> 2 </score>
-<time day1="5" s1="5" e1="6" day2="1" s2="9" e2="10"> [5]5~6  ,  [1]9~A  </time>
+<time day1="3" s1="1" e1="2" day2="1" s2="9" e2="10"> [3]1~2  ,  [1]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26315 </place>
-<note></note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/18至4/17 (如有異動另行 </note>
 </AH>
 
 <AH id="020">
@@ -187,13 +187,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL2 </name>
-<teacher> 洪瑄鍞  </teacher>
+<teacher> 施安辛  </teacher>
 <score> 2 </score>
-<time day1="2" s1="7" e1="8" day2="1" s2="9" e2="10"> [2]7~8  ,  [1]9~A  </time>
+<time day1="4" s1="1" e1="2" day2="2" s2="9" e2="10"> [4]1~2  ,  [2]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26319 </place>
-<note></note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/19至4/18 (如有異動另行 </note>
 </AH>
 
 <AH id="021">
@@ -201,13 +201,13 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL2 </name>
-<teacher> 劉怡如  </teacher>
+<teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="3" s1="1" e1="2" day2="4" s2="9" e2="10"> [3]1~2  ,  [4]9~A  </time>
+<time day1="2" s1="1" e1="2" day2="4" s2="9" e2="10"> [2]1~2  ,  [4]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26315 </place>
-<note></note>
+<place> 修齊大樓                      26707 </place>
+<note> Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/19至4/18 (如有異動另行 </note>
 </AH>
 
 <AH id="022">
@@ -215,12 +215,12 @@
 <class></class>
 <group></group>
 <name> 基礎國文LEVEL2 </name>
-<teacher> 施安辛  </teacher>
+<teacher> 未定  </teacher>
 <score> 2 </score>
-<time day1="5" s1="5" e1="6" day2="2" s2="9" e2="10"> [5]5~6  ,  [2]9~A  </time>
+<time day1="3" s1="5" e1="6" day2="1" s2="9" e2="10"> [3]5~6  ,  [1]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26317 </place>
+<place> 修齊大樓                      26315 </place>
 <note></note>
 </AH>
 
@@ -228,42 +228,42 @@
 <num>AH-023</num>
 <class></class>
 <group></group>
-<name> 基礎國文LEVEL2 </name>
+<name> 基礎國文Level 4 </name>
 <teacher> 施安辛  </teacher>
 <score> 2 </score>
-<time day1="3" s1="1" e1="2" day2="1" s2="9" e2="10"> [3]1~2  ,  [1]9~A  </time>
+<time day1="2" s1="1" e1="2"> [2]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26317 </place>
-<note></note>
+<place> 唯農大樓                      7110 </place>
+<note> Level 4課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="024">
 <num>AH-024</num>
 <class></class>
 <group></group>
-<name> 基礎國文LEVEL2 </name>
-<teacher> 呂璯敏  </teacher>
+<name> 基礎國文Level 4 </name>
+<teacher> 施安辛  </teacher>
 <score> 2 </score>
-<time day1="5" s1="3" e1="4" day2="2" s2="9" e2="10"> [5]3~4  ,  [2]9~A  </time>
+<time day1="3" s1="1" e1="2"> [3]1~2  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26313 </place>
-<note></note>
+<place> 唯農大樓                      7110 </place>
+<note> Level 4課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="025">
 <num>AH-025</num>
 <class></class>
 <group></group>
-<name> 基礎國文Level 3 </name>
-<teacher> 劉怡如  </teacher>
+<name> 基礎國文Level 5 </name>
+<teacher> 洪瑄鍞  </teacher>
 <score> 2 </score>
-<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 修齊大樓                      26707 </place>
-<note> Level 3課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
+<place> 唯農大樓                      7115 </place>
+<note> Level 5課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="026">
@@ -273,7 +273,7 @@
 <name> 基礎國文Level 5 </name>
 <teacher> 洪瑄鍞  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 唯農大樓                      7115 </place>
@@ -284,14 +284,14 @@
 <num>AH-027</num>
 <class></class>
 <group></group>
-<name> 基礎國文Level 5 </name>
-<teacher> 洪瑄鍞  </teacher>
+<name> 基礎國文Level 6 </name>
+<teacher> 呂璯敏  </teacher>
 <score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7115 </place>
-<note> Level 5課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
+<place> 唯農大樓                      7113 </place>
+<note> Level 6課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 <AH id="028">
@@ -304,7 +304,7 @@
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7217 </place>
+<place> 唯農大樓                      7113 </place>
 <note> Level 6課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
@@ -312,14 +312,14 @@
 <num>AH-029</num>
 <class></class>
 <group></group>
-<name> 基礎國文Level 7 </name>
+<name> 基礎國文Level 8 </name>
 <teacher> 施安辛  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
-<must> 必修 </must>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
 <type> 講義 </type>
-<place> 唯農大樓                      7115 </place>
-<note> Level 7課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
+<place> 唯農大樓                      7110 </place>
+<note> Level 8課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。 </note>
 </AH>
 
 </content>

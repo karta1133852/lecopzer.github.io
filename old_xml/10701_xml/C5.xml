@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<C5 id="007">
+<num>C5-007</num>
+<class></class>
+<group></group>
+<name> 普通化學 </name>
+<teacher> 宋光生   ,  邱顯泰   ,  吳欣倫* </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="8" day2="5" s2="5" e2="6"> [2]7~8  ,  [5]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      華立廳 </place>
+<note></note>
+</C5>
+
+<C5 id="008">
+<num>C5-008</num>
+<class></class>
+<group></group>
+<name> 普通化學實驗 </name>
+<teacher> 許鏵芬  </teacher>
+<score> 1 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 理化大樓                      35102 </place>
+<note></note>
+</C5>
+
+<C5 id="014">
+<num>C5-014</num>
+<class></class>
+<group></group>
+<name> 普通生物學（一） </name>
+<teacher> 陳虹樺   ,  蔣鎮宇   ,  宋皇模   ,  張松彬   ,  廖泓鈞*  ,  劉雅心   ,  吳文鑾   ,  李瑞花  </teacher>
+<score> 4 </score>
+<time day1="1" s1="5" e1="6" day2="5" s2="3" e2="4"> [1]5~6  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S3 </place>
+<note></note>
+</C5>
+
+<C5 id="015">
+<num>C5-015</num>
+<class></class>
+<group></group>
+<name> 普通生物學實驗（一） </name>
+<teacher> 蔣鎮宇   ,  張松彬*  ,  廖泓鈞   ,  劉雅心  </teacher>
+<score> 1 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科院大樓                    89210 </place>
+<note></note>
+</C5>
+
+<C5 id="016">
+<num>C5-016</num>
+<class></class>
+<group></group>
+<name> 微積分（一） </name>
+<teacher> 蕭仁傑  </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 化工系館                      柏林講堂 </place>
+<note> 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 </note>
+<class1></class1>
+<group1> A </group1>
+<name1> 微積分（一） </name1>
+<time1 day1="3" s1="2" e1="2"> [3]2  </time1>
+<place1> 化工系館                      柏林講堂 </place1>
+<note1></note1>
+</C5>
+
+<C5 id="018">
+<num>C5-018</num>
+<class></class>
+<group></group>
+<name> 體育（一） </name>
+<teacher> 馬上鈞  </teacher>
+<score> 0 </score>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 體育室前                      體育室前 </place>
+<note></note>
+</C5>
+
+<C5 id="021">
+<num>C5-021</num>
+<class></class>
+<group></group>
+<name> 服務學習（一） </name>
+<teacher> 李亞夫   ,  何盧勳   ,  陳一菁*  ,  彭怡禎  </teacher>
+<score> 0 </score>
+<time day1="1" s1="9" e1="9"> [1]9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科院大樓                    891S3 </place>
+<note></note>
+</C5>
+
+<C5 id="022">
+<num>C5-022</num>
+<class></class>
+<group></group>
+<name> 生命科學討論（一） </name>
+<teacher> 陳一菁*  ,  仲澤剛史  </teacher>
+<score> 1 </score>
+<time day1="1" s1="7" e1="7"> [1]7  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S3 </place>
+<note></note>
+</C5>
+
+<C5 id="052">
+<num>C5-052</num>
+<class></class>
+<group></group>
+<name> 生物化學（一） </name>
+<teacher> 曾淑芬   ,  何盧勳*  ,  廖泓鈞   ,  彭怡禎  </teacher>
+<score> 4 </score>
+<time day1="2" s1="3" e1="4" day2="3" s2="3" e2="4"> [2]3~4  ,  [3]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S2 </place>
+<note></note>
+</C5>
+
+<C5 id="053">
+<num>C5-053</num>
+<class></class>
+<group></group>
+<name> 生物化學實驗 </name>
+<teacher> 何盧勳  </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      89209 </place>
+<note></note>
+</C5>
+
+<C5 id="054">
+<num>C5-054</num>
+<class></class>
+<group></group>
+<name> 生物統計學 </name>
+<teacher> 劉雅心   ,  邱慈暉* </teacher>
+<score> 3 </score>
+<time day1="2" s1="1" e1="1" day2="4" s2="3" e2="4"> [2]1  ,  [4]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S2 </place>
+<note></note>
+</C5>
+
+<C5 id="055">
+<num>C5-055</num>
+<class></class>
+<group></group>
+<name> 實驗室實習（一） </name>
+<teacher> 陳虹樺*  ,  王浩文   ,  邱慈暉   ,  李純純  </teacher>
+<score> 1 </score>
+<time day1="1" s1="4.5" e1="4.5" day2="2" s2="4.5" e2="4.5" day3="5" s3="4.5" e3="4.5"> [1]N  ,  [2]N  ,  [5]N  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科院大樓                    891S2 </place>
+<note></note>
+</C5>
+
+<C5 id="057">
+<num>C5-057</num>
+<class></class>
+<group></group>
+<name> 比較解剖學 </name>
+<teacher> 王建平  </teacher>
+<score> 2 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S2 </place>
+<note></note>
+</C5>
+
+<C5 id="102">
+<num>C5-102</num>
+<class></class>
+<group></group>
+<name> 植物生理學 </name>
+<teacher> 張松彬*  ,  黃俊霖   ,  郭瑋君   ,  李瑞花   ,  黃兆立  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="2" day2="5" s2="3" e2="4"> [2]2  ,  [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</C5>
+
+<C5 id="104">
+<num>C5-104</num>
+<class></class>
+<group></group>
+<name> 生態學實驗 </name>
+<teacher> 李亞夫*  ,  邱慈暉  </teacher>
+<score> 1 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科院大樓                    89210 </place>
+<note></note>
+</C5>
+
+<C5 id="106">
+<num>C5-106</num>
+<class></class>
+<group></group>
+<name> 微生物學 </name>
+<teacher> 王浩文*  ,  廖泓鈞   ,  劉雅心   ,  黃兆立  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="7" day2="4" s2="7" e2="8"> [1]7  ,  [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</C5>
+
+<C5 id="107">
+<num>C5-107</num>
+<class></class>
+<group></group>
+<name> 微生物學實驗 </name>
+<teacher> 王浩文*  ,  黃兆立  </teacher>
+<score> 1 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place> 生科系館                      89209 </place>
+<note></note>
+</C5>
+
+<C5 id="108">
+<num>C5-108</num>
+<class></class>
+<group></group>
+<name> 動物生理學 </name>
+<teacher> 曾淑芬   ,  張素瓊   ,  李純純*  ,  彭怡禎  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="3" day2="3" s2="2" e2="2"> [1]2~3  ,  [3]2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</C5>
+
+<C5 id="110">
+<num>C5-110</num>
+<class></class>
+<group></group>
+<name> 功能性生物資料分析 </name>
+<teacher> 宋皇模* </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</C5>
+
+<C5 id="111">
+<num>C5-111</num>
+<class></class>
+<group></group>
+<name> 生命科學專題研究（一） </name>
+<teacher> 蔣鎮宇   ,  黃浩仁   ,  宋皇模*  ,  吳文鑾  </teacher>
+<score> 1 </score>
+<time day1="5" s1="9" e1="11"> [5]9~B  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note></note>
+</C5>
+
+<C5 id="117">
+<num>C5-117</num>
+<class></class>
+<group></group>
+<name> 酵素學 </name>
+<teacher> 麥愛堂  </teacher>
+<score> 3 </score>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</C5>
+
+<C5 id="119">
+<num>C5-119</num>
+<class></class>
+<group></group>
+<name> 染色體學 </name>
+<teacher> 張松彬  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 為MOOCS磨課師課程,線上數位學習 </note>
+</C5>
+
+<C5 id="144">
+<num>C5-144</num>
+<class></class>
+<group></group>
+<name> 生物技術產學創新 </name>
+<teacher> 陳虹樺   ,  曾淑芬*  ,  張素瓊   ,  宋皇模   ,  何盧勳   ,  張松彬   ,  李純純  </teacher>
+<score> 2 </score>
+<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</C5>
+
+<C5 id="149">
+<num>C5-149</num>
+<class></class>
+<group></group>
+<name> 環境政策 </name>
+<teacher> 楊永年  </teacher>
+<score> 2 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 唯農大樓                      7206 </place>
+<note> 與通識合開 </note>
+</C5>
+
+<C5 id="150">
+<num>C5-150</num>
+<class></class>
+<group></group>
+<name> 實習課程 </name>
+<teacher> 蔣鎮宇   ,  黃浩仁   ,  宋皇模   ,  吳文鑾* </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 必修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 暑期校外實習 </note>
+</C5>
+
+<C5 id="151">
+<num>C5-151</num>
+<class></class>
+<group></group>
+<name> 書報討論（一） </name>
+<teacher> 陳一菁*  ,  彭怡禎  </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    891S2 </place>
+<note></note>
+</C5>
+
+<C5 id="152">
+<num>C5-152</num>
+<class></class>
+<group></group>
+<name> 書報討論（一） </name>
+<teacher> 廖泓鈞   ,  劉雅心* </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</C5>
+
+<C5 id="153">
+<num>C5-153</num>
+<class></class>
+<group></group>
+<name> 書報討論（一） </name>
+<teacher> 何盧勳*  ,  張松彬  </teacher>
+<score> 1 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    892S3 </place>
+<note></note>
+</C5>
+
+<C5 id="155">
+<num>C5-155</num>
+<class></class>
+<group></group>
+<name> 論文（一） </name>
+<teacher> 彭怡禎  </teacher>
+<score> 1 </score>
+<time day1="1" s1="1" e1="1"> [1]1  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    892S3 </place>
+<note></note>
+</C5>
+
+<C5 id="156">
+<num>C5-156</num>
+<class></class>
+<group></group>
+<name> 哺乳動物學 </name>
+<teacher> 李亞夫  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S3 </place>
+<note> 碩士班與大四合開課程 </note>
+</C5>
+
+<C5 id="158">
+<num>C5-158</num>
+<class></class>
+<group></group>
+<name> 農業生物經濟 </name>
+<teacher> 陳虹樺*  ,  蔡文杰  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心課程，碩士班與大四合開 </note>
+</C5>
+
+<C5 id="159">
+<num>C5-159</num>
+<class></class>
+<group></group>
+<name> 神經生物學 </name>
+<teacher> 曾淑芬   ,  何盧勳*  ,  劉雅心   ,  邱慈暉  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S3 </place>
+<note> 碩士班與大四合班 </note>
+</C5>
+
+<C5 id="167">
+<num>C5-167</num>
+<class></class>
+<group></group>
+<name> 生態模型導論 </name>
+<teacher> 仲澤剛史  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 89109 </place>
+<note></note>
+</C5>
+
+<C5 id="168">
+<num>C5-168</num>
+<class></class>
+<group></group>
+<name> 循環農業 </name>
+<teacher> 陳宗嶽  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89A16 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
+</C5>
+
+<C5 id="169">
+<num>C5-169</num>
+<class></class>
+<group></group>
+<name> 新農業產業實習 </name>
+<teacher> 林士鳴  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 生科院大樓                    89A16 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
+</C5>
+
+</content>

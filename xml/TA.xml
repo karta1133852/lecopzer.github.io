@@ -4,13 +4,13 @@
 <num>TA-001</num>
 <class> 博一                           </class>
 <group></group>
-<name> 健康照護專題討論（一） </name>
-<teacher> 林桑伊* </teacher>
+<name> 獨立研究（二） </name>
+<teacher> 成戎珠* </teacher>
 <score> 1 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
-<type> 研討 </type>
-<place> 物治系館                      B02 </place>
+<type> 講義 </type>
+<place></place>
 <note></note>
 </TA>
 
@@ -18,92 +18,78 @@
 <num>TA-002</num>
 <class> 博一                           </class>
 <group></group>
-<name> 獨立研究（一） </name>
-<teacher> 成戎珠* </teacher>
+<name> 健康照護專題討論（二） </name>
+<teacher> 林玲伊* </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
-<type> 講義 </type>
+<type> 研討 </type>
 <place></place>
-<note></note>
+<note> 上課教室:健照所會議室 </note>
 </TA>
 
 <TA id="003">
 <num>TA-003</num>
-<class> 博二                           </class>
+<class> 博一                           </class>
 <group></group>
-<name> 獨立研究（三） </name>
+<name> 臨床研究設計（二） </name>
 <teacher> 成戎珠* </teacher>
-<score> 1 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 上課教室：健照所會議室 </note>
 </TA>
 
 <TA id="004">
 <num>TA-004</num>
 <class> 博二                           </class>
 <group></group>
-<name> 健康照護專題討論（三） </name>
-<teacher> 林桑伊* </teacher>
+<name> 獨立研究（四） </name>
+<teacher> 未定   ,  成戎珠* </teacher>
 <score> 1 </score>
-<time day1="5" s1="7" e1="8"> [5]7~8  </time>
+<time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
-<type> 研討 </type>
-<place> 物治系館                      B02 </place>
+<type> 講義 </type>
+<place></place>
 <note></note>
 </TA>
 
 <TA id="005">
 <num>TA-005</num>
+<class> 博二                           </class>
+<group></group>
+<name> 腦波於認知與生活上的應用 </name>
+<teacher> 謝淑蘭  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 健照所合班上課 </note>
+</TA>
+
+<TA id="009">
+<num>TA-009</num>
 <class> 博                             </class>
 <group></group>
-<name> 身心發展與健康照護－從嬰兒到青少年 </name>
-<teacher> 成戎珠* </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        202D </place>
-<note> 身心發展與照護研究群(必) </note>
-</TA>
-
-<TA id="006">
-<num>TA-006</num>
-<class> 博一                           </class>
-<group></group>
-<name> 臨床研究設計（一） </name>
-<teacher> 徐畢卿   ,  成戎珠* </teacher>
+<name> 教學理論與方法特論 </name>
+<teacher> 徐畢卿* </teacher>
 <score> 2 </score>
-<time day1="2" s1="3" e1="4"> [2]3~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        203D </place>
-<note></note>
-</TA>
-
-<TA id="007">
-<num>TA-007</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 智慧生活與長期照護 </name>
-<teacher> 洪菁霞*  ,  蔡昆霖  </teacher>
-<score> 3 </score>
-<time day1="3" s1="5" e1="7"> [3]5~7  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
-<type> 講義 </type>
-<place> 物治系館                      B02 </place>
-<note> 本所與物治系合開/高齡健康與照護研究群(選) </note>
+<type> 研討 </type>
+<place></place>
+<note> 上課地點：健照所會議室 </note>
 </TA>
 
-<TA id="008">
-<num>TA-008</num>
-<class> 博三延                         </class>
+<TA id="010">
+<num>TA-010</num>
+<class> 博                             </class>
 <group></group>
 <name> 專題討論 </name>
-<teacher> 徐畢卿   ,  成戎珠   ,  洪菁霞   ,  張哲豪   ,  馬慧英  </teacher>
+<teacher> 謝淑蘭   ,  楊政達   ,  成戎珠   ,  黃英修   ,  洪菁霞   ,  張哲豪   ,  馬慧英   ,  湯銘哲   ,  郭乃文   ,  陳彰惠   ,  陳麗光  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -112,32 +98,32 @@
 <note></note>
 </TA>
 
-<TA id="009">
-<num>TA-009</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 質性研究實作：訪談資料收集與分析 </name>
-<teacher> 陳麗光* </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        205D </place>
-<note> 老年所與健照所合開 </note>
-</TA>
-
-<TA id="010">
-<num>TA-010</num>
+<TA id="012">
+<num>TA-012</num>
 <class> 博                             </class>
 <group></group>
-<name> 高齡健康與照護特論 </name>
-<teacher> 王靜枝* </teacher>
-<score> 3 </score>
-<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<name> 健身運動與認知神經科學專題研究 </name>
+<teacher> 楊政達* </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 護理系館                      85102 </place>
-<note> 國際博士班與健照所合開(高齡健康與照護研究群必選) </note>
+<place></place>
+<note> 上課教室未定 </note>
+</TA>
+
+<TA id="015">
+<num>TA-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 老化認知神經科學 </name>
+<teacher> 謝淑蘭  </teacher>
+<score> 3 </score>
+<time day1="5" s1="9" e1="11"> [5]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    80209 </place>
+<note> 健照所合班上課 </note>
 </TA>
 
 </content>

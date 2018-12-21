@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<Q1 id="001">
+<num>Q1-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 盧達生  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      繁城講堂 </place>
+<note></note>
+</Q1>
+
+<Q1 id="002">
+<num>Q1-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 莊文魁  </teacher>
+<score> 0 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="003">
+<num>Q1-003</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 許渭州   ,  劉文超* </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="004">
+<num>Q1-004</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 洪茂峰   ,  王永和* </teacher>
+<score> 0 </score>
+<time day1="3" s1="9" e1="10"> [3]9~A  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="021">
+<num>Q1-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 負微分電阻交換元件 </name>
+<teacher> 劉文超  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="2" day2="3" s2="3" e2="4"> [2]2  ,  [3]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="022">
+<num>Q1-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體製程 </name>
+<teacher> 彭洞清  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="023">
+<num>Q1-023</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體光學 </name>
+<teacher> 蔡宗祐  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="024">
+<num>Q1-024</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體記憶體元件與設計實務 </name>
+<teacher> 盧達生  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note></note>
+</Q1>
+
+<Q1 id="025">
+<num>Q1-025</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 電子構裝技術 </name>
+<teacher> 洪茂峰  </teacher>
+<score> 3 </score>
+<time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="026">
+<num>Q1-026</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 積體光學 </name>
+<teacher> 莊文魁  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      92C01 </place>
+<note></note>
+</Q1>
+
+<Q1 id="051">
+<num>Q1-051</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 半導體感測器實務技術 </name>
+<teacher> 曾永華  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 電機系館                      令洋廳 </place>
+<note></note>
+</Q1>
+
+</content>

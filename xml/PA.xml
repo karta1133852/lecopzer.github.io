@@ -4,28 +4,8 @@
 <num>PA-001</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 設計研究方法 </name>
+<name> 質性研究 </name>
 <teacher> 林蕙玟  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="3"> [1]2~3  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5152 </place>
-<note></note>
-<class1> 碩博                           </class1>
-<group1></group1>
-<name1> 設計研究方法 </name1>
-<time1 day1="1" s1="4" e1="4"> [1]4  </time1>
-<place1> 耐震大樓(建築研究大樓旁)      5152 </place1>
-<note1></note1>
-</PA>
-
-<PA id="002">
-<num>PA-002</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 文化研究 </name>
-<teacher> 陳明惠  </teacher>
 <score> 3 </score>
 <time day1="1" s1="2" e1="4"> [1]2~4  </time>
 <must> 選修 </must>
@@ -34,73 +14,39 @@
 <note></note>
 </PA>
 
-<PA id="003">
-<num>PA-003</num>
+<PA id="002">
+<num>PA-002</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 文化創意城市 </name>
-<teacher> 林蕙玟  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="8"> [1]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5152 </place>
-<note></note>
-</PA>
-
-<PA id="004">
-<num>PA-004</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 量化研究 </name>
+<name> 品牌與行銷 </name>
 <teacher> 高如妃  </teacher>
 <score> 3 </score>
 <time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
-<note></note>
-</PA>
-
-<PA id="006">
-<num>PA-005</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 創意商品設計 </name>
-<teacher> 謝孟達  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="2"> [2]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5152 </place>
 <note> 甲組核心 </note>
-<class1> 碩博                           </class1>
-<group1></group1>
-<name1> 物質文化研究 </name1>
-<time1 day1="2" s1="2" e1="4"> [2]2~4  </time1>
-<place1> 耐震大樓(建築研究大樓旁)      5153 </place1>
-<note1></note1>
 </PA>
 
-<PA id="007">
-<num>PA-007</num>
+<PA id="003">
+<num>PA-003</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 創新管理 </name>
-<teacher> 楊佳翰  </teacher>
+<name> 創意產業調查研究 </name>
+<teacher> 林蕙玟*  ,  楊佳翰  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5152 </place>
-<note></note>
+<note> 丙組核心 </note>
 </PA>
 
-<PA id="008">
-<num>PA-008</num>
+<PA id="004">
+<num>PA-004</num>
 <class> 博                             </class>
 <group></group>
-<name> 創意產業研析（一） </name>
+<name> 創意產業研析（二） </name>
 <teacher> 劉世南   ,  楊佳翰   ,  卓彥廷   ,  高如妃* </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
@@ -110,11 +56,11 @@
 <note> 博班必修 </note>
 </PA>
 
-<PA id="009">
-<num>PA-009</num>
+<PA id="005">
+<num>PA-005</num>
 <class> 碩                             </class>
 <group></group>
-<name> 創意產業體驗（一） </name>
+<name> 創意產業體驗（二） </name>
 <teacher> 仲曉玲   ,  林蕙玟   ,  陳明惠* </teacher>
 <score> 3 </score>
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
@@ -124,100 +70,60 @@
 <note> 碩班必修 </note>
 </PA>
 
-<PA id="010">
-<num>PA-010</num>
+<PA id="006">
+<num>PA-006</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 創意設計管理 </name>
+<name> 產業研究規劃與方法 </name>
 <teacher> 仲曉玲  </teacher>
 <score> 3 </score>
 <time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5152 </place>
-<note> 丙組選修 </note>
+<place> 耐震大樓(建築研究大樓旁)      5153 </place>
+<note> C組選修 </note>
 </PA>
 
-<PA id="011">
-<num>PA-011</num>
+<PA id="007">
+<num>PA-007</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 設計思考 </name>
+<name> 消費者行為 </name>
 <teacher> 劉世南  </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5107 </place>
+<note> 甲組選修 </note>
+</PA>
+
+<PA id="008">
+<num>PA-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 智財法規專論 </name>
+<teacher> 楊佳翰  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 耐震大樓(建築研究大樓旁)      5153 </place>
 <note></note>
 </PA>
 
-<PA id="012">
-<num>PA-012</num>
+<PA id="009">
+<num>PA-009</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 新媒體與科技藝術導論 </name>
+<name> 當代展覽策劃：理論與實踐 </name>
 <teacher> 陳明惠  </teacher>
 <score> 3 </score>
 <time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5152 </place>
+<place> 耐震大樓(建築研究大樓旁)      5117 </place>
 <note></note>
-</PA>
-
-<PA id="015">
-<num>PA-013</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 創意服務設計 </name>
-<teacher> 仲曉玲*  ,  楊佳翰  </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="2"> [4]2  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 耐震大樓(建築研究大樓旁)      5153 </place>
-<note> 丙組核心 </note>
-<class1> 碩博                           </class1>
-<group1></group1>
-<name1> 互動設計研究 </name1>
-<time1 day1="4" s1="6" e1="6"> [4]6  </time1>
-<place1> 耐震大樓(建築研究大樓旁)      5153 </place1>
-<note1> 乙組核心 </note1>
-<class2> 碩博                           </class2>
-<group2></group2>
-<name2> 產業設計實習工作坊 </name2>
-<time2 day1="5" s1="2" e1="4"> [5]2~4  </time2>
-<place2> 耐震大樓(建築研究大樓旁)      5108 </place2>
-<note2></note2>
-</PA>
-
-<PA id="016">
-<num>PA-016</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 運算媒體 </name>
-<teacher> 卓彥廷  </teacher>
-<score> 3 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 乙組選修。本課程為密集式授課。 </note>
-</PA>
-
-<PA id="017">
-<num>PA-017</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 創業實作三 </name>
-<teacher> 卓彥廷  </teacher>
-<score> 3 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place></place>
-<note> 1.本課程為密集式授課 2.修過創業實作二或運算媒體課程者方可修習 </note>
 </PA>
 
 </content>

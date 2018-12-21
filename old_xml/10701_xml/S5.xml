@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<S5 id="101">
+<num>S5-101</num>
+<class> 博一                           </class>
+<group></group>
+<name> 生物醫學研究入門 </name>
+<teacher> 賴明德   ,  許桂森*  ,  王憶卿   ,  湯銘哲   ,  任卓穎   ,  張雅雯   ,  楊倍昌   ,  孫孝芳   ,  郭余民  </teacher>
+<score> 1 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S5>
+
+<S5 id="102">
+<num>S5-102</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 高等分子生物學 </name>
+<teacher> 陳呈堯   ,  張文粲   ,  陳昌熙*  ,  王淑鶯   ,  黃一修   ,  余佳益   ,  鄭宏祺   ,  呂佩融   ,  鄧景浩   ,  吳佳慶   ,  王仰高  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第四講堂 </place>
+<note> 學生須依學程選修「分子生物學特論」，本校碩班未修過高等分子生物學畢業生得選修 </note>
+</S5>
+
+<S5 id="103">
+<num>S5-103</num>
+<class> 博                             </class>
+<group></group>
+<name> 分子生物學特論 </name>
+<teacher> 張權發   ,  張文粲   ,  陳昌熙*  ,  黃柏憲   ,  余建泓   ,  楊尚訓   ,  顏賢章   ,  王淑鶯   ,  吳佳慶   ,  王仰高  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        304D </place>
+<note> 博班學生應選修「分子生物學特論」 </note>
+</S5>
+
+<S5 id="104">
+<num>S5-104</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 蛋白質與酵素學 </name>
+<teacher> 羅玉枝*  ,  吳華林* </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0929 </place>
+<note> 基醫所與生化所合班 </note>
+</S5>
+
+<S5 id="106">
+<num>S5-106</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 生物資訊 </name>
+<teacher> 陳淑慧   ,  劉宗霖   ,  王育民   ,  曾大千   ,  蔡少正   ,  孫孝芳* </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊大樓                      75209 </place>
+<note> 主負責:臨醫所。再生醫學科技學分學程 </note>
+</S5>
+
+<S5 id="107">
+<num>S5-107</num>
+<class> 博一                           </class>
+<group></group>
+<name> 免疫學 </name>
+<teacher> 林以行*  ,  張志鵬   ,  謝奇璋  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 基醫所與微免所合班 </note>
+</S5>
+
+<S5 id="108">
+<num>S5-108</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 細胞凋亡的分子機轉 </name>
+<teacher> 陳昌熙   ,  姜學誠   ,  張志鵬   ,  吳梨華   ,  蔣輯武* </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note></note>
+</S5>
+
+<S5 id="109">
+<num>S5-109</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 免疫學特論 </name>
+<teacher> 王育民   ,  楊孔嘉   ,  蔡佩珍   ,  徐麗君   ,  王志堯   ,  王崇任   ,  王世敏   ,  楊倍昌   ,  林以行   ,  張　堯   ,  張志鵬*  ,  余佳益  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        1124 </place>
+<note> 與微免所合開 </note>
+</S5>
+
+<S5 id="110">
+<num>S5-110</num>
+<class> 博                             </class>
+<group></group>
+<name> 細胞生物學特論（一） </name>
+<teacher> 王憶卿*  ,  張雋曦   ,  姜學誠   ,  張志鵬   ,  郭余民  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        304D </place>
+<note> 限博士班學生選修。 </note>
+</S5>
+
+<S5 id="111">
+<num>S5-111</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 神經精神藥理學 </name>
+<teacher> 林宙晴   ,  蔡景仁   ,  陳志弘   ,  劉彥青   ,  許桂森   ,  簡伯武   ,  蕭雅心*  ,  張雅雯*  ,  張惠華   ,  蘇翔  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note> 與基醫所、藥理所合班上課，本課程採中英文上課 </note>
+</S5>
+
+<S5 id="112">
+<num>S5-112</num>
+<class> 博                             </class>
+<group></group>
+<name> 研究倫理 </name>
+<teacher> 羅玉枝   ,  黃美智   ,  徐麗君   ,  張雅雯   ,  劉校生   ,  楊倍昌   ,  王淑鶯   ,  黃一修   ,  彭貴春*  ,  陳振暐   ,  蔡曜聲   ,  吳尚蓉  </teacher>
+<score> 1 </score>
+<time day1="4" s1="6" e1="6"> [4]6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        303D </place>
+<note></note>
+</S5>
+
+<S5 id="113">
+<num>S5-113</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 癌症轉移文獻探討 </name>
+<teacher> 曾堯麟   ,  黃柏憲   ,  鄭宏祺*  ,  吳梨華  </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        201D </place>
+<note></note>
+</S5>
+
+<S5 id="114">
+<num>S5-114</num>
+<class> 博                             </class>
+<group></group>
+<name> 幹細胞生物學 </name>
+<teacher> 江伯敏*  ,  修臥龍  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 全英文;再生醫學科技學分學程 </note>
+</S5>
+
+<S5 id="119">
+<num>S5-119</num>
+<class> 博三延                         </class>
+<group></group>
+<name> 教學實習（二） </name>
+<teacher> 許桂森* </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 限博三以上研究生選課 </note>
+</S5>
+
+<S5 id="131">
+<num>S5-131</num>
+<class> 博                             </class>
+<group></group>
+<name> 神經科學特論 </name>
+<teacher> 曾淑芬   ,  何盧勳   ,  陳柏熹   ,  許桂森   ,  簡伯武   ,  姜學誠   ,  蕭雅心   ,  黃阿敏   ,  楊尚訓*  ,  陳珮君   ,  張雅雯   ,  游一龍   ,  吳偉立   ,  蔡坤哲   ,  郭余民   ,  許鍾瑜  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0724 </place>
+<note></note>
+</S5>
+
+<S5 id="132">
+<num>S5-132</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 藥物發展實習（一） </name>
+<teacher> 周辰熹* </teacher>
+<score> 1 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        304D </place>
+<note> 與臨藥所、基醫所合開 </note>
+</S5>
+
+<S5 id="135">
+<num>S5-135</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等生物技術 </name>
+<teacher> 劉宗霖   ,  曾大千   ,  張權發   ,  張文粲*  ,  陳昌熙   ,  黃柏憲   ,  余建泓   ,  楊尚訓   ,  王淑鶯   ,  鄭宏祺   ,  王憲威   ,  王家義   ,  王仰高  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note></note>
+</S5>
+
+<S5 id="147">
+<num>S5-147</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 感染症學 </name>
+<teacher> 黃溫雅   ,  蔡佩珍   ,  王世敏   ,  林以行*  ,  張　堯   ,  陳振暐   ,  鄧景浩  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        1124 </place>
+<note> 基醫所與微免所合班 </note>
+</S5>
+
+<S5 id="158">
+<num>S5-158</num>
+<class> 博一                           </class>
+<group> 1 </group>
+<name> 專題討論（一） </name>
+<teacher> 張權發*  ,  陳昌熙* </teacher>
+<score> 1 </score>
+<time day1="2" s1="7" e1="7"> [2]7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S5>
+
+<S5 id="159">
+<num>S5-159</num>
+<class> 博二                           </class>
+<group> 1 </group>
+<name> 專題討論（三） </name>
+<teacher> 張權發*  ,  陳昌熙* </teacher>
+<score> 1 </score>
+<time day1="2" s1="8" e1="8"> [2]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S5>
+
+<S5 id="160">
+<num>S5-160</num>
+<class> 博三延                         </class>
+<group> 1 </group>
+<name> 專題討論 </name>
+<teacher> 張權發*  ,  陳昌熙* </teacher>
+<score> 0 </score>
+<time day1="2" s1="9" e1="9"> [2]9  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note> 供博三以上研究生選課 </note>
+</S5>
+
+<S5 id="161">
+<num>S5-161</num>
+<class> 博一                           </class>
+<group> 2 </group>
+<name> 專題討論（一） </name>
+<teacher> 張雅雯*  ,  王家義* </teacher>
+<score> 1 </score>
+<time day1="5" s1="7" e1="7"> [5]7  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S5>
+
+<S5 id="162">
+<num>S5-162</num>
+<class> 博二                           </class>
+<group> 2 </group>
+<name> 專題討論（三） </name>
+<teacher> 張雅雯*  ,  王家義* </teacher>
+<score> 1 </score>
+<time day1="5" s1="8" e1="8"> [5]8  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S5>
+
+<S5 id="163">
+<num>S5-163</num>
+<class> 博三延                         </class>
+<group> 2 </group>
+<name> 專題討論 </name>
+<teacher> 張雅雯*  ,  王家義* </teacher>
+<score> 0 </score>
+<time day1="5" s1="9" e1="9"> [5]9  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 醫學院                        602 </place>
+<note> 供博三以上研究生選課 </note>
+</S5>
+
+<S5 id="164">
+<num>S5-164</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 研究導論 </name>
+<teacher> 陳呈堯   ,  郭保麟   ,  張雅雯   ,  吳梨華   ,  蔣輯武*  ,  王憲威   ,  鄧景浩  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        604 </place>
+<note> 分醫與基醫所合班，英語授課 </note>
+</S5>
+
+<S5 id="165">
+<num>S5-165</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 癌症研究入門 </name>
+<teacher> 黃溫雅   ,  周楠華   ,  賴明德   ,  黃柏憲   ,  呂增宏   ,  沈孟儒   ,  王憶卿   ,  張雋曦   ,  劉校生   ,  張志鵬*  ,  鄭宏祺   ,  呂佩融   ,  陳玉玲   ,  黃則達  </teacher>
+<score> 2 </score>
+<time day1="3" s1="8" e1="9"> [3]8~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        602 </place>
+<note></note>
+</S5>
+
+<S5 id="166">
+<num>S5-166</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 英文論文閱讀及寫作 </name>
+<teacher> 王淑鶯*  ,  黃一修  </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        1124 </place>
+<note> 基醫所與微免所合班 </note>
+</S5>
+
+<S5 id="167">
+<num>S5-167</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 生長基因及致癌基因 </name>
+<teacher> 洪建中   ,  洪良宜   ,  徐麗君   ,  呂增宏*  ,  陳炳焜   ,  王憶卿   ,  劉校生   ,  呂佩融   ,  蔣輯武  </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0824 </place>
+<note> 基醫所、藥理所合班 </note>
+</S5>
+
+<S5 id="168">
+<num>S5-168</num>
+<class> 博                             </class>
+<group></group>
+<name> 實驗動物學 </name>
+<teacher> 蔡佩珍   ,  蔡曜聲* </teacher>
+<score> 2 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        202D </place>
+<note></note>
+</S5>
+
+<S5 id="169">
+<num>S5-169</num>
+<class> 博三延                         </class>
+<group></group>
+<name> 教學實習（四） </name>
+<teacher> 許桂森* </teacher>
+<score> 0 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 限博三以上研究生選課 </note>
+</S5>
+
+<S5 id="170">
+<num>S5-170</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 微生物致病機轉 </name>
+<teacher> 王貞仁*  ,  王憲威   ,  鄧景浩  </teacher>
+<score> 2 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        301D </place>
+<note> 醫技、分醫、基醫合班 </note>
+</S5>
+
+<S5 id="171">
+<num>S5-171</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 高等神經生理學 </name>
+<teacher> 許桂森* </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        0811 </place>
+<note> 藥理、基醫合班 </note>
+</S5>
+
+<S5 id="174">
+<num>S5-174</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 基礎醫學研究技術 </name>
+<teacher> 邱文泰   ,  賴明德   ,  陳昌熙   ,  黃柏憲*  ,  楊尚訓   ,  鄭宏祺   ,  呂佩融  </teacher>
+<score> 2 </score>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        601 </place>
+<note> 基醫所與生化所合班 </note>
+</S5>
+
+<S5 id="176">
+<num>S5-176</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 人類疾病動物模式 </name>
+<teacher> 許博翔   ,  邱元佑   ,  歐弘毅   ,  蘇維仁   ,  王亮超   ,  阮俊能   ,  吳柏廷   ,  蔡坤哲*  ,  沈延盛   ,  謝奇璋   ,  江伯敏   ,  陳芃潔   ,  劉秉彥   ,  許育祥  </teacher>
+<score> 2 </score>
+<time day1="4" s1="9" e1="10"> [4]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7023 </place>
+<note> 再生醫學科技學分學程 </note>
+</S5>
+
+<S5 id="177">
+<num>S5-177</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 轉譯醫學（一） </name>
+<teacher> 林錫璋   ,  沈孟儒   ,  呂佩融*  ,  沈延盛   ,  劉秉彥   ,  修臥龍  </teacher>
+<score> 2 </score>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 門診大樓                      7027 </place>
+<note> 碩(含專)必選;全英文。5:30上課;再生醫學科技學分學程課程 </note>
+</S5>
+
+<S5 id="178">
+<num>S5-178</num>
+<class> 博一二                         </class>
+<group></group>
+<name> 基礎細胞生物學 </name>
+<teacher> 邱文泰* </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫技醫工館                    5756 </place>
+<note> 醫工所基醫所合開 </note>
+</S5>
+
+</content>

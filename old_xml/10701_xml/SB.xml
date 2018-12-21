@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<SB id="301">
+<num>SB-301</num>
+<class> 碩專一                         </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 呂宗學   ,  胡淑貞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯   ,  余　聰* </teacher>
+<score> 1 </score>
+<time day1="6" s1="5" e1="6"> [6]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 一、104至106學年度入學必修。二、上課地點：門診大樓8樓公衛所會議室，專題討論（一）（三）合開 </note>
+</SB>
+
+<SB id="302">
+<num>SB-302</num>
+<class> 碩專二                         </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 胡淑貞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯   ,  余　聰* </teacher>
+<score> 1 </score>
+<time day1="6" s1="5" e1="6"> [6]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 一、104至106學年度入學必修。二、上課地點：門診大樓8樓公衛所會議室，專題討論（一）（三）合開 </note>
+</SB>
+
+<SB id="303">
+<num>SB-303</num>
+<class> 碩專延三                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 胡淑貞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯   ,  余　聰* </teacher>
+<score> 0 </score>
+<time day1="6" s1="5" e1="6"> [6]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室，與專題討論（一）（三）合開 </note>
+</SB>
+
+<SB id="304">
+<num>SB-304</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 生物統計學 </name>
+<teacher> 林聖翔   ,  王亮懿   ,  李中一* </teacher>
+<score> 2 </score>
+<time day1="6" s1="1" e1="2"> [6]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室 </note>
+</SB>
+
+<SB id="305">
+<num>SB-305</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 流行病學原理 </name>
+<teacher> 王榮德  </teacher>
+<score> 2 </score>
+<time day1="6" s1="3" e1="4"> [6]3~4  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室 </note>
+</SB>
+
+<SB id="306">
+<num>SB-306</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 公共衛生之社會與行為科學面向 </name>
+<teacher> 翁慧卿  </teacher>
+<score> 2 </score>
+<time day1="6" s1="1" e1="2"> [6]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所08086研討室 </note>
+</SB>
+
+<SB id="307">
+<num>SB-307</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 臨床試驗研究設計 </name>
+<teacher> 余　聰  </teacher>
+<score> 2 </score>
+<time day1="6" s1="3" e1="4"> [6]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所08086研討室 </note>
+</SB>
+
+<SB id="308">
+<num>SB-308</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 進階健康行為理論和應用 </name>
+<teacher> 莊佳蓉* </teacher>
+<score> 2 </score>
+<time day1="6" s1="7" e1="8"> [6]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室08077(與公衛所進階健康行為理論和應用合開) </note>
+</SB>
+
+<SB id="309">
+<num>SB-309</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 健康照護的經濟評估 </name>
+<teacher> 王榮德   ,  古鯉榕* </teacher>
+<score> 2 </score>
+<time day1="6" s1="9" e1="10"> [6]9~A  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 公衛所合開，教室：門診大樓8樓公衛所08077。建議先修過生物統計學及流行病學原理 </note>
+</SB>
+
+<SB id="310">
+<num>SB-310</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 衛生計畫與評價 </name>
+<teacher> 胡淑貞  </teacher>
+<score> 2 </score>
+<time day1="6" s1="7" e1="8"> [6]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所08086研討室 </note>
+</SB>
+
+<SB id="311">
+<num>SB-311</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 長期照護與管理 </name>
+<teacher> 劉立凡  </teacher>
+<score> 2 </score>
+<time day1="3" s1="10" e1="11"> [3]A~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室 </note>
+</SB>
+
+<SB id="312">
+<num>SB-312</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 愛滋病與公共衛生 </name>
+<teacher> 柯乃熒*  ,  莊佳蓉  </teacher>
+<score> 2 </score>
+<time day1="3" s1="12" e1="13"> [3]C~D  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課地點：門診大樓8樓公衛所會議室 </note>
+</SB>
+
+<SB id="313">
+<num>SB-313</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 呂宗學   ,  胡淑貞   ,  王亮懿   ,  李中一   ,  王榮德   ,  古鯉榕   ,  莊佳蓉   ,  簡玉雯   ,  余　聰* </teacher>
+<score> 0 </score>
+<time day1="6" s1="5" e1="6"> [6]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place></place>
+<note> 一、107學年度入學必修。二、上課地點：門診大樓8樓公衛所會議室，專題討論（一）（三）合開。 </note>
+</SB>
+
+</content>

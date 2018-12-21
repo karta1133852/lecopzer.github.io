@@ -4,10 +4,10 @@
 <num>K4-001</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 戲劇學研究法 </name>
-<teacher> 朱芳慧* </teacher>
+<name> 視覺藝術研究法 </name>
+<teacher> 吳奕芳  </teacher>
 <score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
@@ -18,22 +18,8 @@
 <num>K4-002</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 臺灣新編戲曲專題研究 </name>
-<teacher> 陳佳彬*  ,  施德玉* </teacher>
-<score> 3 </score>
-<time day1="3" s1="5" e1="7"> [3]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 藝術所                        5452 </place>
-<note></note>
-</K4>
-
-<K4 id="003">
-<num>K4-003</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 藝術學研究法 </name>
-<teacher> 朱芳慧*  ,  王雅倫*  ,  施德玉* </teacher>
+<name> 美學 </name>
+<teacher> 楊金峯*  ,  王雅倫*  ,  陳佳彬* </teacher>
 <score> 3 </score>
 <time day1="4" s1="6" e1="8"> [4]6~8  </time>
 <must> 必修 </must>
@@ -42,31 +28,45 @@
 <note></note>
 </K4>
 
+<K4 id="003">
+<num>K4-003</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 影像美學研究 </name>
+<teacher> 王雅倫  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 藝術所                        5450 </place>
+<note></note>
+</K4>
+
 <K4 id="004">
 <num>K4-004</num>
-<class> 碩                             </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 藝術專題討論 </name>
-<teacher> 楊金峯* </teacher>
-<score> 0 </score>
-<time day1="2" s1="6" e1="7"> [2]6~7  </time>
-<must> 必修 </must>
-<type> 研討 </type>
+<name> 跨文化劇場評論 </name>
+<teacher> 朱芳慧  </teacher>
+<score> 3 </score>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
 <place> 藝術所                        5450 </place>
-<note> 103學年度起入學新生必修課程 </note>
+<note></note>
 </K4>
 
 <K4 id="005">
 <num>K4-005</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 中國音樂史 </name>
-<teacher> 施德玉* </teacher>
+<name> 東西美術交流史 </name>
+<teacher> 吳奕芳  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 藝術所                        5452 </place>
+<place> 藝術所                        5450 </place>
 <note></note>
 </K4>
 
@@ -74,10 +74,10 @@
 <num>K4-006</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 現當代視覺文化研究與評論 </name>
-<teacher> 王雅倫* </teacher>
+<name> 電影音樂研究 </name>
+<teacher> 楊金峯  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<time day1="1" s1="6" e1="8"> [1]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>
@@ -88,13 +88,13 @@
 <num>K4-007</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 數位音樂製作 </name>
-<teacher> 楊金峯* </teacher>
+<name> 表演藝術創意產業 </name>
+<teacher> 陳佳彬  </teacher>
 <score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 藝術所                        5450 </place>
 <note></note>
 </K4>
 
@@ -102,38 +102,24 @@
 <num>K4-008</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 美術館歷史、典藏與當代策展 </name>
-<teacher> 王雅倫* </teacher>
+<name> 劇場實務 </name>
+<teacher> 高美華*  ,  朱芳慧* </teacher>
 <score> 3 </score>
-<time day1="3" s1="6" e1="8"> [3]6~8  </time>
+<time day1="5" s1="5" e1="7"> [5]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5450 </place>
-<note></note>
+<note> 教室於5450及中文系黑盒子 </note>
 </K4>
 
 <K4 id="009">
 <num>K4-009</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 戲劇治療 </name>
-<teacher> 楊政達   ,  盧豐華   ,  朱芳慧* </teacher>
+<name> 音樂作品評論與分析 </name>
+<teacher> 楊金峯  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 藝術所                        5450 </place>
-<note></note>
-</K4>
-
-<K4 id="010">
-<num>K4-010</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 表演藝術田野工作理論與實務 </name>
-<teacher> 陳佳彬*  ,  施德玉* </teacher>
-<score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 藝術所                        5452 </place>

@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<P3 id="001">
+<num>P3-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 整合設計(一) </name>
+<teacher> 周君瑞  </teacher>
+<score> 3 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 無                            53202 </place>
+<note> 碩一必修課，甲組 </note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 整合設計(一) </name1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
+<place1> 無                            53202 </place1>
+<note1></note1>
+</P3>
+
+<P3 id="002">
+<num>P3-002</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 人本設計(一) </name>
+<teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
+<score> 3 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 無                            53205 </place>
+<note> 碩一必修課，乙組 </note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 人本設計(一) </name1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
+<place1> 無                            53205 </place1>
+<note1></note1>
+</P3>
+
+<P3 id="003">
+<num>P3-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 同步設計(一) </name>
+<teacher> 蕭世文*  ,  謝孟達* </teacher>
+<score> 3 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 無                            53204 </place>
+<note> 碩一必修課，丙組 </note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 同步設計(一) </name1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
+<place1> 無                            53204 </place1>
+<note1></note1>
+</P3>
+
+<P3 id="004">
+<num>P3-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 傳達設計(一) </name>
+<teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
+<score> 3 </score>
+<time day1="4" s1="1" e1="2"> [4]1~2  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 無                            53308 </place>
+<note> 碩一必修課，丁組 </note>
+<class1> 碩一                           </class1>
+<group1></group1>
+<name1> 傳達設計(一) </name1>
+<time1 day1="4" s1="3" e1="4"> [4]3~4  </time1>
+<place1> 無                            53308 </place1>
+<note1></note1>
+</P3>
+
+<P3 id="005">
+<num>P3-005</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 整合設計研究（一） </name>
+<teacher> 周君瑞  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53202 </place>
+<note> 碩二必選，甲組 </note>
+</P3>
+
+<P3 id="006">
+<num>P3-006</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 人本設計研究（一） </name>
+<teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53205 </place>
+<note> 碩二必選，乙組 </note>
+</P3>
+
+<P3 id="007">
+<num>P3-007</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 同步設計研究（一） </name>
+<teacher> 蕭世文*  ,  謝孟達* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53204 </place>
+<note> 碩二必選，丙組 </note>
+</P3>
+
+<P3 id="008">
+<num>P3-008</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 感性設計研究（一） </name>
+<teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53308 </place>
+<note> 碩二必選，丁組 </note>
+</P3>
+
+<P3 id="013">
+<num>P3-013</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 何俊亨  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53308 </place>
+<note> 碩三、博三以上選修 </note>
+</P3>
+
+<P3 id="014">
+<num>P3-014</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 周君瑞  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53202 </place>
+<note> 博一，甲組 </note>
+</P3>
+
+<P3 id="015">
+<num>P3-015</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53205 </place>
+<note> 博一，乙組 </note>
+</P3>
+
+<P3 id="016">
+<num>P3-016</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 蕭世文*  ,  謝孟達* </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53204 </place>
+<note> 博一，丙組 </note>
+</P3>
+
+<P3 id="017">
+<num>P3-017</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53308 </place>
+<note> 博一，丁組 </note>
+</P3>
+
+<P3 id="018">
+<num>P3-018</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 周君瑞  </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53202 </place>
+<note> 博二，甲組 </note>
+</P3>
+
+<P3 id="019">
+<num>P3-019</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 陳建旭*  ,  洪郁修*  ,  林彥呈* </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53205 </place>
+<note> 博二，乙組 </note>
+</P3>
+
+<P3 id="020">
+<num>P3-020</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 蕭世文*  ,  謝孟達* </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53204 </place>
+<note> 博二，丙組 </note>
+</P3>
+
+<P3 id="021">
+<num>P3-021</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 馬敏元*  ,  何俊亨*  ,  陳璽任* </teacher>
+<score> 0 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 無                            53308 </place>
+<note> 博二，丁組 </note>
+</P3>
+
+<P3 id="031">
+<num>P3-031</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 學術寫作 </name>
+<teacher> 何俊亨  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5204A </place>
+<note></note>
+</P3>
+
+<P3 id="032">
+<num>P3-032</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 社會文化與設計 </name>
+<teacher> 陳璽任  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5205B </place>
+<note></note>
+</P3>
+
+<P3 id="033">
+<num>P3-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 程序設計 </name>
+<teacher> 周君瑞  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5206 </place>
+<note></note>
+</P3>
+
+<P3 id="034">
+<num>P3-034</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 醫療產品開發特論 </name>
+<teacher> 謝孟達  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 無                            53313 </place>
+<note></note>
+</P3>
+
+<P3 id="044">
+<num>P3-044</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 人工智慧之人因工程 </name>
+<teacher> 林彥呈  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5256A </place>
+<note> 與工設所合開 </note>
+</P3>
+
+<P3 id="301">
+<num>P3-301</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 系統與系統設計 </name>
+<teacher> 洪郁修  </teacher>
+<score> 3 </score>
+<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5206 </place>
+<note> 限碩專選修 </note>
+</P3>
+
+<P3 id="302">
+<num>P3-302</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 數位設計 </name>
+<teacher> 陳建旭  </teacher>
+<score> 3 </score>
+<time day1="3" s1="10" e1="12"> [3]A~C  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5206 </place>
+<note></note>
+</P3>
+
+<P3 id="303">
+<num>P3-303</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 社會與文化人因學 </name>
+<teacher> 周君瑞  </teacher>
+<score> 3 </score>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
+<must> 選修 </must>
+<type> 研討 </type>
+<place> 工設系館                      5206 </place>
+<note></note>
+</P3>
+
+</content>

@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<L5 id="001">
+<num>L5-001</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 王浩文*  ,  李純純  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    891S2 </place>
+<note></note>
+</L5>
+
+<L5 id="002">
+<num>L5-002</num>
+<class> 碩二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 宋皇模   ,  吳文鑾* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    892S4 </place>
+<note></note>
+</L5>
+
+<L5 id="004">
+<num>L5-004</num>
+<class> 博一                           </class>
+<group></group>
+<name> 專題討論（一） </name>
+<teacher> 李亞夫*  ,  邱慈暉  </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 生科院大樓                    892S3 </place>
+<note></note>
+</L5>
+
+<L5 id="005">
+<num>L5-005</num>
+<class> 博二                           </class>
+<group></group>
+<name> 專題討論（三） </name>
+<teacher> 仲澤剛史* </teacher>
+<score> 1 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 研討 </type>
+<place> 89109 </place>
+<note></note>
+</L5>
+
+<L5 id="006">
+<num>L5-006</num>
+<class> 博三延                         </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 王浩文*  ,  李純純  </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S2 </place>
+<note></note>
+</L5>
+
+<L5 id="007">
+<num>L5-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 分子醫學特論 </name>
+<teacher> 曾淑芬   ,  張素瓊   ,  王浩文   ,  何盧勳*  ,  廖泓鈞   ,  李純純   ,  彭怡禎   ,  邱文泰  </teacher>
+<score> 3 </score>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S3 </place>
+<note> 與生命科學系合開 </note>
+</L5>
+
+<L5 id="008">
+<num>L5-008</num>
+<class> 碩                             </class>
+<group></group>
+<name> 分子遺傳學 </name>
+<teacher> 吳文鑾  </teacher>
+<score> 3 </score>
+<time day1="5" s1="7" e1="9"> [5]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      89110 </place>
+<note></note>
+</L5>
+
+<L5 id="009">
+<num>L5-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 基因體學 </name>
+<teacher> 陳虹樺   ,  張松彬   ,  蔡文杰  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      89110 </place>
+<note></note>
+</L5>
+
+<L5 id="010">
+<num>L5-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 演化生物學特論 </name>
+<teacher> 蔣鎮宇  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      89110 </place>
+<note></note>
+</L5>
+
+<L5 id="011">
+<num>L5-011</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 染色體學獨立研究 </name>
+<teacher> 張松彬  </teacher>
+<score> 1 </score>
+<time day1="2" s1="8" e1="8"> [2]8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 89109 </place>
+<note></note>
+</L5>
+
+<L5 id="012">
+<num>L5-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 高等分子生物學 </name>
+<teacher> 宋皇模   ,  張清俊   ,  王涵青   ,  曾大千   ,  羅玉枝*  ,  陳健生   ,  蔡文杰  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S4 </place>
+<note> 院核心課程 </note>
+</L5>
+
+<L5 id="013">
+<num>L5-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 普通生物學實驗教學（一） </name>
+<teacher> 蔣鎮宇   ,  黃浩仁   ,  李亞夫   ,  宋皇模   ,  王浩文   ,  張松彬*  ,  廖泓鈞   ,  劉雅心   ,  李純純   ,  彭怡禎   ,  吳文鑾   ,  李瑞花  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89210 </place>
+<note></note>
+</L5>
+
+<L5 id="014">
+<num>L5-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 基因體科學趨勢 </name>
+<teacher> 劉雅心  </teacher>
+<score> 1 </score>
+<time day1="3" s1="6" e1="6"> [3]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 89109 </place>
+<note> 與生命科學系合開 </note>
+</L5>
+
+<L5 id="017">
+<num>L5-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業循環經濟 </name>
+<teacher> 李亞夫   ,  張松彬* </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      89110 </place>
+<note></note>
+</L5>
+
+<L5 id="019">
+<num>L5-019</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 植物訊息傳遞 </name>
+<teacher> 黃浩仁*  ,  李瑞花  </teacher>
+<score> 3 </score>
+<time day1="4" s1="7" e1="9"> [4]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 89109 </place>
+<note></note>
+</L5>
+
+<L5 id="021">
+<num>L5-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生態模型特論 </name>
+<teacher> 陳一菁   ,  仲澤剛史* </teacher>
+<score> 2 </score>
+<time day1="1" s1="2" e1="3"> [1]2~3  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      89209 </place>
+<note> 與生命科學系合開 </note>
+</L5>
+
+<L5 id="025">
+<num>L5-025</num>
+<class> 碩                             </class>
+<group></group>
+<name> 神經生物學 </name>
+<teacher> 曾淑芬   ,  何盧勳*  ,  劉雅心   ,  邱慈暉  </teacher>
+<score> 3 </score>
+<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S3 </place>
+<note> 碩士班與大四合班 </note>
+</L5>
+
+<L5 id="027">
+<num>L5-027</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 植物二次代謝體學 </name>
+<teacher> 張松彬   ,  蔡文杰  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 雲平大樓                      712 </place>
+<note> 熱植所與生命所合開 </note>
+</L5>
+
+<L5 id="028">
+<num>L5-028</num>
+<class> 碩                             </class>
+<group></group>
+<name> 哺乳動物學 </name>
+<teacher> 李亞夫  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    892S3 </place>
+<note> 碩士班與大四合開課程 </note>
+</L5>
+
+<L5 id="029">
+<num>L5-029</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物化學實驗教學 </name>
+<teacher> 何盧勳  </teacher>
+<score> 1 </score>
+<time day1="3" s1="4.5" e1="4.5"> [3]N  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科系館                      89209 </place>
+<note></note>
+</L5>
+
+<L5 id="030">
+<num>L5-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 行為生態學 </name>
+<teacher> 李亞夫  </teacher>
+<score> 3 </score>
+<time day1="2" s1="5" e1="7"> [2]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 89109 </place>
+<note></note>
+</L5>
+
+<L5 id="033">
+<num>L5-033</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業生物科技關鍵技術導論 </name>
+<teacher> 王浩文  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心課程 </note>
+</L5>
+
+<L5 id="037">
+<num>L5-037</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生醫關鍵技術之開發與應用 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑假上課 </note>
+</L5>
+
+<L5 id="038">
+<num>L5-038</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 人體研究計畫與醫療器材相關法規暨倫理規範 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑假上課 </note>
+</L5>
+
+<L5 id="039">
+<num>L5-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航(一)-創業發展 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑假上課 </note>
+</L5>
+
+<L5 id="042">
+<num>L5-042</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航（四）－創業設計 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑假上課 </note>
+</L5>
+
+<L5 id="043">
+<num>L5-043</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創業思維與啟航（五）-認證及規範 </name>
+<teacher> 張權發  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 生科中心暑期課程 </note>
+</L5>
+
+<L5 id="044">
+<num>L5-044</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 課堂理論與實作-商業計畫書撰寫 </name>
+<teacher> 黃兆立  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 生科中心暑期課程 </note>
+</L5>
+
+<L5 id="045">
+<num>L5-045</num>
+<class> 碩                             </class>
+<group></group>
+<name> 農業生物經濟 </name>
+<teacher> 陳虹樺*  ,  蔡文杰  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心課程，碩士班與大四合開 </note>
+</L5>
+
+<L5 id="046">
+<num>L5-046</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 循環經濟 </name>
+<teacher> 張松彬*  ,  王筱雯   ,  李約亨   ,  陳必晟  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    891S2 </place>
+<note> NCKU summer school 生科新大樓891S1上課 </note>
+</L5>
+
+<L5 id="047">
+<num>L5-047</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業生物經濟產業實作 </name>
+<teacher> 蔡文杰  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心課程 </note>
+</L5>
+
+<L5 id="048">
+<num>L5-048</num>
+<class> 碩                             </class>
+<group></group>
+<name> 循環農業 </name>
+<teacher> 陳宗嶽  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 生科院大樓                    89A16 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
+</L5>
+
+<L5 id="049">
+<num>L5-049</num>
+<class> 碩                             </class>
+<group></group>
+<name> 新農業產業實習 </name>
+<teacher> 林士鳴  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 生科院大樓                    89A16 </place>
+<note> 暑期生科中心課程。大碩合開課程 </note>
+</L5>
+
+<L5 id="050">
+<num>L5-050</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業創新 </name>
+<teacher> 蔣鎮宇*  ,  黃浩仁  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note></note>
+</L5>
+
+<L5 id="051">
+<num>L5-051</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業科技管理與產業分析（一） </name>
+<teacher> 陳虹樺  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心遠距課程-台大主播，成大收播 </note>
+</L5>
+
+<L5 id="052">
+<num>L5-052</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 農業科技管理與產業分析（二） </name>
+<teacher> 陳虹樺  </teacher>
+<score> 1 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 暑期生科中心遠距課程-台大主播，成大收播 </note>
+</L5>
+
+</content>

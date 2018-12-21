@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<content>
+<K1 id="001">
+<num>K1-001</num>
+<class> 碩博一                         </class>
+<group></group>
+<name> 學術討論（一） </name>
+<teacher> 陳美朱  </teacher>
+<score> 0 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note> 碩博一共同必修 </note>
+</K1>
+
+<K1 id="002">
+<num>K1-002</num>
+<class> 碩博三延                       </class>
+<group></group>
+<name> 專題討論 </name>
+<teacher> 林朝成  </teacher>
+<score> 0 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21302 </place>
+<note> 供碩博三以上研究生選課 </note>
+</K1>
+
+<K1 id="003">
+<num>K1-003</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 漢學英文（一） </name>
+<teacher> 秦嘉嫄  </teacher>
+<score> 0 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note> 碩士班必修課程 </note>
+</K1>
+
+<K1 id="004">
+<num>K1-004</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 中國經學史研究 </name>
+<teacher> 宋鼎宗  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21205 </place>
+<note></note>
+</K1>
+
+<K1 id="005">
+<num>K1-005</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 詩經學專題研究 </name>
+<teacher> 林耀潾  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21205 </place>
+<note></note>
+</K1>
+
+<K1 id="006">
+<num>K1-006</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 《左傳》專題研究（一） </name>
+<teacher> 黃聖松  </teacher>
+<score> 2 </score>
+<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21205 </place>
+<note></note>
+</K1>
+
+<K1 id="007">
+<num>K1-007</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 魏晉南北朝思想專題研究 </name>
+<teacher> 江建俊  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note></note>
+</K1>
+
+<K1 id="008">
+<num>K1-008</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 唐詩選本專題研究 </name>
+<teacher> 陳美朱  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note></note>
+</K1>
+
+<K1 id="009">
+<num>K1-009</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 科舉與經學專題研究（一） </name>
+<teacher> 侯美珍  </teacher>
+<score> 2 </score>
+<time day1="4" s1="7" e1="8"> [4]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21205 </place>
+<note> 乙組課程 </note>
+</K1>
+
+<K1 id="010">
+<num>K1-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 詞學專題研究 </name>
+<teacher> 王偉勇  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note></note>
+</K1>
+
+<K1 id="012">
+<num>K1-012</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 漢語音韻學專題研究 </name>
+<teacher> 陳梅香  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note></note>
+</K1>
+
+<K1 id="013">
+<num>K1-013</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 古文字學專題研究（一） </name>
+<teacher> 高佑仁  </teacher>
+<score> 2 </score>
+<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note></note>
+</K1>
+
+<K1 id="014">
+<num>K1-014</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 民俗學專題研究（一） </name>
+<teacher> 陳益源  </teacher>
+<score> 2 </score>
+<time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note> 兩個星期上課一次，一次四節課。 </note>
+</K1>
+
+<K1 id="015">
+<num>K1-015</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 明清戲曲專題研究 </name>
+<teacher> 高美華  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21208 </place>
+<note></note>
+</K1>
+
+<K1 id="016">
+<num>K1-016</num>
+<class> 碩                             </class>
+<group></group>
+<name> 臺灣當代戲曲專題研究 </name>
+<teacher> 林幸慧  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21202 </place>
+<note> 限碩士班 </note>
+</K1>
+
+<K1 id="017">
+<num>K1-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 論孟專題研究 </name>
+<teacher> 林朝成  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21205 </place>
+<note> 乙組必修課程 </note>
+</K1>
+
+<K1 id="018">
+<num>K1-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 蒙學專題研究 </name>
+<teacher> 王偉勇  </teacher>
+<score> 3 </score>
+<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note> 乙組課程 </note>
+</K1>
+
+<K1 id="020">
+<num>K1-020</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 現代漢學英文選讀（一） </name>
+<teacher> 陳菘霖  </teacher>
+<score> 2 </score>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21208 </place>
+<note> 現代文學碩士班必修課程 </note>
+</K1>
+
+<K1 id="021">
+<num>K1-021</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 西方漢學家詩學研讀（一） </name>
+<teacher> 翁文嫻  </teacher>
+<score> 2 </score>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note> 現代文學碩士班課程 </note>
+</K1>
+
+<K1 id="022">
+<num>K1-022</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 現代文藝理論專題研究 </name>
+<teacher> 萬胥亭  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21102 </place>
+<note> 現代文學碩士班課程 </note>
+</K1>
+
+<K1 id="023">
+<num>K1-023</num>
+<class> 碩                             </class>
+<group></group>
+<name> 臺灣現代文學專題 </name>
+<teacher> 蘇敏逸  </teacher>
+<score> 2 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 中文系館                      21207 </place>
+<note> 現代文學碩士班課程 </note>
+</K1>
+
+</content>

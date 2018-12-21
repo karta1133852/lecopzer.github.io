@@ -4,7 +4,21 @@
 <num>S4-001</num>
 <class> 碩一                           </class>
 <group></group>
-<name> 專題討論（一） </name>
+<name> 醫學微生物學 </name>
+<teacher> 陳炯瑜   ,  劉清泉   ,  王德華   ,  何宗憲   ,  王世敏   ,  陳柏齡   ,  劉校生   ,  楊倍昌   ,  余俊強   ,  陳舜華*  ,  蕭璦莉   ,  王淑鶯   ,  黃一修   ,  陳振暐   ,  鄧景浩  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="6" day2="3" s2="1" e2="2" day3="5" s3="1" e3="2"> [1]5~6  ,  [3]1~2  ,  [5]1~2  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        第一講堂 </place>
+<note> 與醫學系合班 </note>
+</S4>
+
+<S4 id="004">
+<num>S4-004</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 專題討論（二） </name>
 <teacher> 彭貴春*  ,  陳振暐* </teacher>
 <score> 1 </score>
 <time day1="3" s1="6" e1="6"> [3]6  </time>
@@ -14,88 +28,46 @@
 <note></note>
 </S4>
 
-<S4 id="002">
-<num>S4-002</num>
-<class> 碩二                           </class>
-<group></group>
-<name> 專題討論（三） </name>
-<teacher> 彭貴春*  ,  陳振暐* </teacher>
-<score> 2 </score>
-<time day1="3" s1="5" e1="7"> [3]5~7  </time>
-<must> 必修 </must>
-<type> 研討 </type>
-<place> 醫學院                        601 </place>
-<note></note>
-</S4>
-
-<S4 id="003">
-<num>S4-003</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 免疫學 </name>
-<teacher> 林以行*  ,  凌　斌   ,  張志鵬   ,  謝奇璋  </teacher>
-<score> 3 </score>
-<time day1="1" s1="2" e1="4"> [1]2~4  </time>
-<must> 必修 </must>
-<type> 講義 </type>
-<place> 醫學院                        604 </place>
-<note> 與微免所合班;再生醫學科技學分學程 </note>
-</S4>
-
-<S4 id="004">
-<num>S4-004</num>
-<class> 碩一                           </class>
-<group></group>
-<name> 分子生物學 </name>
-<teacher> 楊孔嘉   ,  黃溫雅   ,  胥直利   ,  張文粲   ,  陳昌熙   ,  劉校生   ,  凌　斌*  ,  王淑鶯   ,  黃一修   ,  彭貴春   ,  陳振暐   ,  余佳益   ,  鄭宏祺   ,  鄧景浩   ,  吳佳慶   ,  王仰高  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        302D </place>
-<note></note>
-</S4>
-
 <S4 id="005">
 <num>S4-005</num>
 <class> 碩二                           </class>
 <group></group>
-<name> 免疫學特論 </name>
-<teacher> 王育民   ,  楊孔嘉   ,  蔡佩珍   ,  徐麗君   ,  王志堯   ,  王崇任   ,  王世敏   ,  楊倍昌   ,  林以行   ,  張　堯   ,  張志鵬*  ,  陳振暐  </teacher>
-<score> 3 </score>
-<time day1="2" s1="2" e1="4"> [2]2~4  </time>
-<must> 選修 </must>
+<name> 專題討論（四） </name>
+<teacher> 彭貴春*  ,  陳振暐* </teacher>
+<score> 1 </score>
+<time day1="3" s1="7" e1="7"> [3]7  </time>
+<must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        1124 </place>
+<place> 醫學院                        601 </place>
 <note></note>
 </S4>
 
 <S4 id="006">
 <num>S4-006</num>
-<class> 碩二                           </class>
+<class> 碩一二                         </class>
 <group></group>
-<name> 感染症學 </name>
-<teacher> 王貞仁   ,  黃溫雅   ,  蔡佩珍   ,  王世敏   ,  林以行*  ,  張　堯   ,  陳振暐   ,  余佳益   ,  鄧景浩  </teacher>
-<score> 3 </score>
-<time day1="3" s1="2" e1="4"> [3]2~4  </time>
+<name> 基因治療特論 </name>
+<teacher> 郭保麟   ,  許耿福   ,  吳昭良*  ,  謝嘉興   ,  蕭璦莉* </teacher>
+<score> 2 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        1124 </place>
-<note></note>
+<note> 基醫所、微免所合班 </note>
 </S4>
 
 <S4 id="007">
 <num>S4-007</num>
-<class> 碩二                           </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 英文論文閱讀及寫作 </name>
-<teacher> 王淑鶯*  ,  黃一修  </teacher>
-<score> 2 </score>
-<time day1="2" s1="5" e1="6"> [2]5~6  </time>
-<must> 選修 </must>
+<name> 高等細菌學 </name>
+<teacher> 黃一修*  ,  陳振暐   ,  鄧景浩   ,  橋本昌征  </teacher>
+<score> 3 </score>
+<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        1124 </place>
-<note> 基醫所與微免所合班 </note>
+<note> 基醫所，微免所合班 </note>
 </S4>
 
 <S4 id="008">
@@ -109,59 +81,87 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 醫學院                        601 </place>
-<note> 碩三以上選修 </note>
-</S4>
-
-<S4 id="009">
-<num>S4-009</num>
-<class> 碩一二                         </class>
-<group></group>
-<name> 分子生物學資料專論 </name>
-<teacher> 曾大千   ,  辛致煒*  ,  林威辰   ,  王淑鶯  </teacher>
-<score> 2 </score>
-<time day1="4" s1="7" e1="8"> [4]7~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        821024 </place>
-<note> 與醫學資訊所合班 </note>
+<note></note>
 </S4>
 
 <S4 id="010">
 <num>S4-010</num>
-<class> 碩一二                         </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 研究倫理 </name>
-<teacher> 羅玉枝   ,  黃美智   ,  徐麗君   ,  張雅雯   ,  劉校生   ,  楊倍昌   ,  王淑鶯   ,  黃一修   ,  彭貴春*  ,  陳振暐   ,  蔡曜聲   ,  吳尚蓉  </teacher>
-<score> 1 </score>
-<time day1="4" s1="6" e1="6"> [4]6  </time>
+<name> 高等病毒學 </name>
+<teacher> 楊孔嘉   ,  王貞仁   ,  張定宗   ,  劉校生   ,  陳舜華*  ,  凌　斌   ,  張　堯   ,  彭貴春   ,  余佳益   ,  王憲威  </teacher>
+<score> 3 </score>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place> 醫學院                        303D </place>
-<note> 基醫所與微免所合班 </note>
+<place> 醫學院                        1124 </place>
+<note></note>
 </S4>
 
 <S4 id="011">
 <num>S4-011</num>
 <class> 碩一二                         </class>
 <group></group>
-<name> 微生物菌相與黏膜免疫疾病 </name>
-<teacher> 王志堯*  ,  蕭璦莉* </teacher>
+<name> 動物實驗研究法 </name>
+<teacher> 余俊強* </teacher>
 <score> 2 </score>
-<time day1="3" s1="3" e1="4"> [3]3~4  </time>
+<time day1="1" s1="3" e1="4"> [1]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        1024 </place>
+<place> 醫學院                        1124 </place>
 <note></note>
 </S4>
 
 <S4 id="012">
 <num>S4-012</num>
-<class> 碩博                           </class>
+<class> 碩一                           </class>
 <group></group>
-<name> 疫苗學概論 </name>
-<teacher> 羅玉枝   ,  林威辰   ,  陳柏齡   ,  賴明德   ,  劉校生   ,  張志鵬   ,  彭貴春* </teacher>
+<name> 實驗微生物及免疫學 </name>
+<teacher> 辛致煒   ,  林威辰   ,  劉校生   ,  陳舜華*  ,  蕭璦莉   ,  凌　斌   ,  王淑鶯   ,  張志鵬   ,  黃一修   ,  彭貴春   ,  陳振暐  </teacher>
+<score> 1 </score>
+<time day1="2" s1="8" e1="8"> [2]8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 醫學院                        1124 </place>
+<note></note>
+</S4>
+
+<S4 id="013">
+<num>S4-013</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 轉譯醫學導論 </name>
+<teacher> 羅玉枝   ,  黃一修   ,  彭貴春*  ,  吳尚蓉  </teacher>
 <score> 2 </score>
 <time day1="5" s1="5" e1="6"> [5]5~6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        1124 </place>
+<note> 與基醫所合班 </note>
+</S4>
+
+<S4 id="015">
+<num>S4-015</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 寄生蟲學 </name>
+<teacher> 辛致煒*  ,  林威辰* </teacher>
+<score> 2 </score>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 與醫學系合班 </note>
+</S4>
+
+<S4 id="016">
+<num>S4-016</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 腫瘤免疫學 </name>
+<teacher> 楊倍昌*  ,  凌　斌*  ,  張志鵬  </teacher>
+<score> 2 </score>
+<time day1="2" s1="3" e1="4"> [2]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        1124 </place>
