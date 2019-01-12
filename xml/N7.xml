@@ -186,6 +186,20 @@
 <note> 以下為保存組課程 </note>
 </N7>
 
+<N7 id="041">
+<num>N7-041</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 建築史與地理資訊系統應用 </name>
+<teacher> 吳秉聲  </teacher>
+<score> 3 </score>
+<time day1="1" s1="2" e1="4"> [1]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 建築系館                      5105 </place>
+<note></note>
+</N7>
+
 <N7 id="042">
 <num>N7-042</num>
 <class> 碩博                           </class>

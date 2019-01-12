@@ -267,12 +267,12 @@
 <class></class>
 <group></group>
 <name> 專題研究（一） </name>
-<teacher></teacher>
+<teacher> 董東璟  </teacher>
 <score> 1 </score>
-<time day1="0" s1="0" e1="0"> </time>
+<time day1="1" s1="4.5" e1="4.5"> [1]N  </time>
 <must> 必修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 水利系館                      4625 </place>
 <note></note>
 </E8>
 

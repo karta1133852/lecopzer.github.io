@@ -11,7 +11,7 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note> 首次上課時間、地點：3/5 11:00 理化大樓35221室(物理演示實驗室) </note>
+<note> 首次上課時間、地點：3/4 11:00 理化大樓35221室(物理演示實驗室) </note>
 </A6>
 
 <A6 id="002">
@@ -33,7 +33,7 @@
 <class></class>
 <group></group>
 <name> 服務學習（三）─慈幼與服務學習 </name>
-<teacher> 林承諭  </teacher>
+<teacher> 羅丞巖  </teacher>
 <score> 0 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>
@@ -53,20 +53,6 @@
 <must> 必修 </must>
 <type> 實習 </type>
 <place></place>
-<note></note>
-</A6>
-
-<A6 id="005">
-<num>A6-005</num>
-<class></class>
-<group></group>
-<name> 服務學習（三）—台南發展不利社區照護:偏 </name>
-<teacher> 林呈鳳  </teacher>
-<score> 0 </score>
-<time day1="2" s1="4.5" e1="4.5"> [2]N  </time>
-<must> 必修 </must>
-<type> 實習 </type>
-<place> 物治系館                      B02 </place>
 <note></note>
 </A6>
 

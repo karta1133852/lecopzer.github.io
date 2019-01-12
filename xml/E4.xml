@@ -535,17 +535,11 @@
 <name> 岩石力學 </name>
 <teacher> 王建力  </teacher>
 <score> 3 </score>
-<time day1="1" s1="6" e1="7"> [1]6~7  </time>
+<time day1="3" s1="6" e1="8"> [3]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資源系館                      4352 </place>
 <note></note>
-<class1></class1>
-<group1></group1>
-<name1> 岩石力學 </name1>
-<time1 day1="3" s1="6" e1="8"> [3]6~8  </time1>
-<place1> 資源系館                      4352 </place1>
-<note1></note1>
 </E4>
 
 </content>

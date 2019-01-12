@@ -114,7 +114,7 @@
 
 <L1 id="013">
 <num>L1-013</num>
-<class> 碩                             </class>
+<class> 碩博                           </class>
 <group></group>
 <name> 代數曲線 </name>
 <teacher> 賴青瑞  </teacher>
@@ -175,7 +175,7 @@
 <name> 數據科學裡的線性代數 </name>
 <teacher> 王辰樹  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="3" day2="3" s2="4" e2="4"> [2]2~3  ,  [3]4  </time>
+<time day1="2" s1="2" e1="3" day2="1" s2="4" e2="4"> [2]2~3  ,  [1]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>
@@ -341,7 +341,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 數學教學專題討論（一） </name>
-<teacher> 劉育佑  </teacher>
+<teacher> 郭鴻文  </teacher>
 <score> 0 </score>
 <time day1="2" s1="4.5" e1="4.5"> [2]N  </time>
 <must> 選修 </must>

@@ -182,4 +182,18 @@
 <note> 藥理所與生理所合班 </note>
 </S3>
 
+<S3 id="029">
+<num>S3-029</num>
+<class> 碩                             </class>
+<group></group>
+<name> 教學實習 </name>
+<teacher> 張雅雯* </teacher>
+<score> 0 </score>
+<time day1="4" s1="5" e1="5"> [4]5  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 醫學院                        604 </place>
+<note></note>
+</S3>
+
 </content>

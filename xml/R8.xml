@@ -49,7 +49,7 @@
 <name> 會計及財務研究方法 </name>
 <teacher> 周庭楷  </teacher>
 <score> 3 </score>
-<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<time day1="4" s1="5" e1="7"> [4]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63205 </place>
@@ -68,20 +68,6 @@
 <type> 講義 </type>
 <place> 會計系館                      63211 </place>
 <note> 限研究所選修 </note>
-</R8>
-
-<R8 id="006">
-<num>R8-006</num>
-<class> 碩                             </class>
-<group></group>
-<name> 財務策略與價值創造 </name>
-<teacher> 廖麗凱  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 會計系館                      63415 </place>
-<note></note>
 </R8>
 
 <R8 id="007">
@@ -119,7 +105,7 @@
 <name> 高級會計資訊系統 </name>
 <teacher> 賴秀卿  </teacher>
 <score> 3 </score>
-<time day1="2" s1="10" e1="12"> [2]A~C  </time>
+<time day1="4" s1="10" e1="12"> [4]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63205 </place>
@@ -301,7 +287,7 @@
 <name> 資訊科技與創新及競爭優勢 </name>
 <teacher> 徐立群  </teacher>
 <score> 3 </score>
-<time day1="5" s1="11" e1="13"> [5]B~D  </time>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63210 </place>
@@ -329,7 +315,7 @@
 <name> 財務會計原理 </name>
 <teacher> 周庭楷*  ,  謝喻婷  </teacher>
 <score> 3 </score>
-<time day1="3" s1="11" e1="13"> [3]B~D  </time>
+<time day1="5" s1="11" e1="13"> [5]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 會計系館                      63210 </place>

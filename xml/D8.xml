@@ -315,7 +315,7 @@
 <class></class>
 <group></group>
 <name> 專題研究（二） </name>
-<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁*  ,  楊政達   ,  林君昱   ,  胡書榕   ,  黃碧群   ,  陳德祐  </teacher>
+<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁*  ,  楊政達   ,  林君昱   ,  黃碧群   ,  陳德祐  </teacher>
 <score> 3 </score>
 <time day1="5" s1="9" e1="11"> [5]9~B  </time>
 <must> 選修 </must>
@@ -329,12 +329,12 @@
 <class></class>
 <group></group>
 <name> 變態心理學 </name>
-<teacher> 胡書榕   ,  黃柏僩   ,  曾懷萱   ,  李嵐婷   ,  郭乃文   ,  黃惠玲   ,  余睿羚* </teacher>
+<teacher> 黃柏僩   ,  曾懷萱   ,  李嵐婷   ,  郭乃文   ,  黃惠玲   ,  余睿羚* </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    階梯教室-心理 </place>
+<place> 社科院大樓                    80204 </place>
 <note></note>
 </D8>
 
@@ -413,13 +413,13 @@
 <class></class>
 <group></group>
 <name> 夏日台灣祭在日本－心理X科技X文化創新 </name>
-<teacher> 楊政達*  ,  黃碧群   ,  胡敏君  </teacher>
+<teacher> 陳玉女   ,  陳文松   ,  李啟彰   ,  謝淑蘭   ,  楊政達*  ,  胡敏君  </teacher>
 <score> 3 </score>
-<time day1="0" s1="0" e1="0"> 未定  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
-<note></note>
+<place> 社科院大樓                    80209 </place>
+<note> 請考慮課程大綱之選修條件再選課，統一於第一堂課加簽 </note>
 </D8>
 
 <D8 id="155">
@@ -433,7 +433,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
-<note> 大碩合開課程。建議具備微積分與R程式之基礎 </note>
+<note> 大碩合開課程，建議具備任一程式語言撰寫之經驗。 </note>
 </D8>
 
 <D8 id="156">

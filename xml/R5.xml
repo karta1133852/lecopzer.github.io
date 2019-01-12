@@ -137,7 +137,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 管理學院                      62X01 </place>
-<note></note>
+<note> 老師借調擬調至星期五A-C節,教室62207 </note>
 </R5>
 
 <R5 id="112">
@@ -168,20 +168,6 @@
 <note> 先修:統計學 </note>
 </R5>
 
-<R5 id="114">
-<num>R5-114</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 運輸經濟 </name>
-<teacher> 未定  </teacher>
-<score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 管理學院                      62X01 </place>
-<note></note>
-</R5>
-
 <R5 id="120">
 <num>R5-120</num>
 <class> 碩博                           </class>
@@ -206,7 +192,7 @@
 <time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 交管系館                      62207 </place>
+<place> 交管系館                      62107 </place>
 <note></note>
 </R5>
 
@@ -313,7 +299,7 @@
 <class> 碩專                           </class>
 <group></group>
 <name> 交通管理實務 </name>
-<teacher> 鄭永祥  </teacher>
+<teacher> 胡大瀛  </teacher>
 <score> 3 </score>
 <time day1="6" s1="6" e1="8"> [6]6~8  </time>
 <must> 選修 </must>
@@ -340,14 +326,14 @@
 <num>R5-303</num>
 <class> 碩專                           </class>
 <group></group>
-<name> 運輸規劃實務與應用 </name>
-<teacher> 胡大瀛  </teacher>
+<name> 航空運輸管理 </name>
+<teacher> 戴佐敏  </teacher>
 <score> 3 </score>
 <time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 交管系館                      62207 </place>
-<note> 限碩專班選修 </note>
+<note></note>
 </R5>
 
 <R5 id="304">
@@ -360,7 +346,7 @@
 <time day1="6" s1="2" e1="4"> [6]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 交管系館                      62207 </place>
+<place> 交管系館                      62107 </place>
 <note></note>
 </R5>
 

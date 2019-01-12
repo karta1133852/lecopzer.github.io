@@ -231,11 +231,11 @@
 <name> 有限元素法 </name>
 <teacher> 胡宣德  </teacher>
 <score> 3 </score>
-<time day1="1" s1="11" e1="13"> [1]B~D  </time>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note> 碩博及碩專班合班 </note>
+<note> 碩博及碩專班合班，英語授課 </note>
 </N6>
 
 <N6 id="018">
@@ -343,7 +343,7 @@
 <name> 有限元素在大地工程上之應用 </name>
 <teacher> 洪　瀞  </teacher>
 <score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<time day1="4" s1="4.5" e1="6"> [4]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4506 </place>
@@ -376,20 +376,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班 </note>
-</N6>
-
-<N6 id="039">
-<num>N6-039</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 深開挖基礎工程學 </name>
-<teacher> 洪　瀞  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note> 碩博與碩專班合班，英語授課 </note>
 </N6>
 
 <N6 id="051">
@@ -461,7 +447,7 @@
 <name> 高等鋼結構 </name>
 <teacher> 鍾興陽  </teacher>
 <score> 3 </score>
-<time day1="3" s1="11" e1="13"> [3]B~D  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
@@ -643,11 +629,11 @@
 <name> 有限元素法 </name>
 <teacher> 胡宣德  </teacher>
 <score> 3 </score>
-<time day1="1" s1="11" e1="13"> [1]B~D  </time>
+<time day1="3" s1="11" e1="13"> [3]B~D  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
-<note> 碩博及碩專班合班 </note>
+<note> 碩博及碩專班合班，英語授課 </note>
 </N6>
 
 <N6 id="318">
@@ -755,7 +741,7 @@
 <name> 有限元素在大地工程上之應用 </name>
 <teacher> 洪　瀞  </teacher>
 <score> 3 </score>
-<time day1="4" s1="5" e1="7"> [4]5~7  </time>
+<time day1="4" s1="4.5" e1="6"> [4]N~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4506 </place>
@@ -788,20 +774,6 @@
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>
 <note> 碩博與碩專合班 </note>
-</N6>
-
-<N6 id="339">
-<num>N6-339</num>
-<class> 碩專                           </class>
-<group></group>
-<name> 深開挖基礎工程學 </name>
-<teacher> 洪　瀞  </teacher>
-<score> 3 </score>
-<time day1="1" s1="5" e1="7"> [1]5~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 土木系館                      4503 </place>
-<note> 碩博與碩專班合班，英語授課 </note>
 </N6>
 
 <N6 id="351">
@@ -873,7 +845,7 @@
 <name> 高等鋼結構 </name>
 <teacher> 鍾興陽  </teacher>
 <score> 3 </score>
-<time day1="3" s1="11" e1="13"> [3]B~D  </time>
+<time day1="5" s1="10" e1="12"> [5]A~C  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 土木系館                      4501 </place>

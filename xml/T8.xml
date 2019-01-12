@@ -84,20 +84,6 @@
 <note></note>
 </T8>
 
-<T8 id="007">
-<num>T8-007</num>
-<class> 博                             </class>
-<group></group>
-<name> 健康服務研究導論 </name>
-<teacher> 呂宗學* </teacher>
-<score> 2 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 醫學院                        201D </place>
-<note></note>
-</T8>
-
 <T8 id="008">
 <num>T8-008</num>
 <class> 博                             </class>
@@ -131,7 +117,7 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 衛生政策分析與評估 </name>
-<teacher> 古鯉榕* </teacher>
+<teacher> 呂宗學   ,  古鯉榕* </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
@@ -173,12 +159,12 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 醫療照護服務研究 </name>
-<teacher> 呂宗學* </teacher>
+<teacher> 呂宗學*  ,  古鯉榕  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="1" s1="5" e1="6"> [1]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place></place>
+<place> 醫學院                        201D </place>
 <note> 上課地點：門診大樓8樓公衛所08086研討室 </note>
 </T8>
 

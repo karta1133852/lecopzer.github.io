@@ -320,6 +320,20 @@
 <note></note>
 </F3>
 
+<F3 id="105">
+<num>F3-105</num>
+<class></class>
+<group></group>
+<name> 設計行為 </name>
+<teacher> 陳璽任  </teacher>
+<score> 3 </score>
+<time day1="2" s1="2" e1="4"> [2]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 工設系館                      5204A </place>
+<note></note>
+</F3>
+
 <F3 id="106">
 <num>F3-106</num>
 <class></class>

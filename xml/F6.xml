@@ -345,7 +345,7 @@
 <name> 攝影測量實習 </name>
 <teacher> 蔡展榮  </teacher>
 <score> 2 </score>
-<time day1="3" s1="6" e1="6"> [3]6  </time>
+<time day1="5" s1="6" e1="6"> [5]6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 測量系館                      55206 </place>
@@ -353,7 +353,7 @@
 <class1></class1>
 <group1></group1>
 <name1> 攝影測量實習 </name1>
-<time1 day1="3" s1="7" e1="8"> [3]7~8  </time1>
+<time1 day1="5" s1="7" e1="8"> [5]7~8  </time1>
 <place1> 測量系館                      55206 </place1>
 <note1></note1>
 </F6>

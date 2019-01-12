@@ -33,25 +33,11 @@
 <class> 碩博                           </class>
 <group></group>
 <name> 教學實習（二） </name>
-<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁   ,  楊政達   ,  周麗芳*  ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
+<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁   ,  楊政達   ,  周麗芳*  ,  林君昱   ,  胡中凡   ,  鄭中平   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
 <score> 0 </score>
 <time day1="2" s1="1" e1="1"> [2]1  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 社科院大樓                    階梯教室-心理 </place>
-<note></note>
-</U7>
-
-<U7 id="004">
-<num>U7-004</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 專題討論 </name>
-<teacher> 龔俊嘉   ,  謝淑蘭   ,  蕭富仁   ,  楊政達   ,  周麗芳*  ,  林君昱   ,  胡中凡   ,  鄭中平   ,  胡書榕   ,  黃碧群   ,  陳德祐   ,  黃柏僩   ,  徐欣萍  </teacher>
-<score> 0 </score>
-<time day1="5" s1="8" e1="8"> [5]8  </time>
-<must> 必修 </must>
-<type> 研討 </type>
 <place> 社科院大樓                    階梯教室-心理 </place>
 <note></note>
 </U7>
@@ -122,7 +108,7 @@
 <time day1="2" s1="6" e1="8"> [2]6~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 社科院大樓                    80209 </place>
+<place> 社科院大樓                    階梯教室-心理 </place>
 <note></note>
 </U7>
 
@@ -151,7 +137,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80209 </place>
-<note> 健照所合班上課 </note>
+<note> 心理所及健照所合班上課、需先email經授課老師同意才可選修 </note>
 </U7>
 
 <U7 id="012">
@@ -207,7 +193,35 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 社科院大樓                    80204 </place>
-<note> 大碩合開課程。建議具備微積分與R程式之基礎 </note>
+<note> 大碩合開課程，建議具備任一程式語言撰寫之經驗。 </note>
+</U7>
+
+<U7 id="017">
+<num>U7-017</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 健身運動與認知神經科學專題研究 </name>
+<teacher> 楊政達* </teacher>
+<score> 2 </score>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place></place>
+<note> 上課教室未定 </note>
+</U7>
+
+<U7 id="018">
+<num>U7-018</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 心理數理學專題研究 </name>
+<teacher> 楊政達  </teacher>
+<score> 3 </score>
+<time day1="5" s1="9" e1="11"> [5]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 社科院大樓                    階梯教室-心理 </place>
+<note></note>
 </U7>
 
 </content>

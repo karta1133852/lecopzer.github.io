@@ -235,7 +235,7 @@
 <class></class>
 <group></group>
 <name> 分子基因體學 </name>
-<teacher> 王憶卿   ,  蔡少正   ,  張惠華   ,  廖寶琦   ,  陳芃潔   ,  孫孝芳*  ,  鄧景浩   ,  橋本昌征  </teacher>
+<teacher> 王憶卿   ,  蔡少正   ,  張惠華   ,  廖寶琦   ,  陳芃潔   ,  孫孝芳   ,  鄧景浩   ,  橋本昌征* </teacher>
 <score> 2 </score>
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
@@ -746,7 +746,7 @@
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        302D </place>
+<place> 醫學院                        304D </place>
 <note> 限醫學系選修，其他系所選修需經協調老師同意 </note>
 </I5>
 
@@ -967,7 +967,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 醫學院                        302D </place>
-<note> 一次上2小時，後九週上課，上課日期為108年3月21日～108年5月16日 </note>
+<note> 一次上2小時，後九週上課，上課日期為108年3月14日～108年5月16日 </note>
 </I5>
 
 <I5 id="211">

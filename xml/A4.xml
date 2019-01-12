@@ -91,7 +91,7 @@
 <name> 數學／數學領域教學實習 </name>
 <teacher> 林景隆  </teacher>
 <score> 2 </score>
-<time day1="3" s1="5" e1="6"> [3]5~6  </time>
+<time day1="1" s1="4.5" e1="5"> [1]N~5  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3177 </place>
@@ -189,7 +189,7 @@
 <name> 地球科學／自然與生活科技地球科學教學實習 </name>
 <teacher> 楊懷仁  </teacher>
 <score> 2 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="5" s1="7" e1="8"> [5]7~8  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3031 </place>

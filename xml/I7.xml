@@ -52,7 +52,7 @@
 <time day1="3" s1="3" e1="4"> [3]3~4  </time>
 <must> 必修 </must>
 <type> 實習 </type>
-<place> 醫學院                        技術學教室 </place>
+<place> 醫學院                        302D </place>
 <note></note>
 </I7>
 
@@ -530,6 +530,20 @@
 <type> 講義 </type>
 <place> 職治系館                      專業教室 </place>
 <note></note>
+</I7>
+
+<I7 id="135">
+<num>I7-135</num>
+<class></class>
+<group></group>
+<name> 海外見習 </name>
+<teacher> 陳官琳*  ,  黃百川  </teacher>
+<score> 2 </score>
+<time day1="0" s1="0" e1="0"> 未定  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place></place>
+<note> 108年2月25日-3月4日 </note>
 </I7>
 
 <I7 id="152">

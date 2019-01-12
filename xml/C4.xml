@@ -241,7 +241,7 @@
 <name> 全球地震活動導論 </name>
 <teacher> 饒瑞鈞  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="5" s1="3" e1="4"> [5]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 地科系館                      3036 </place>
@@ -353,10 +353,10 @@
 <name> 大氣資料處理、分析與展示 </name>
 <teacher> 陳佳宏  </teacher>
 <score> 2 </score>
-<time day1="4" s1="5" e1="6"> [4]5~6  </time>
+<time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 地科系館                      3035 </place>
+<place> 地科系館                      3031 </place>
 <note></note>
 </C4>
 

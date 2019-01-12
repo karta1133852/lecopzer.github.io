@@ -81,7 +81,7 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5834 </place>
-<note> 航太所與能源工程國際碩士博士學程合開 </note>
+<note></note>
 </P4>
 
 <P4 id="026">
@@ -207,20 +207,6 @@
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5836 </place>
-<note></note>
-</P4>
-
-<P4 id="047">
-<num>P4-047</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 飛具穩定控制 </name>
-<teacher> 賴盈誌  </teacher>
-<score> 3 </score>
-<time day1="2" s1="5" e1="6" day2="3" s2="5" e2="5"> [2]5~6  ,  [3]5  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5829 </place>
 <note></note>
 </P4>
 
@@ -350,20 +336,6 @@
 <note></note>
 </P4>
 
-<P4 id="085">
-<num>P4-085</num>
-<class> 碩博                           </class>
-<group></group>
-<name> 板殼理論 </name>
-<teacher> 胡潛濱  </teacher>
-<score> 3 </score>
-<time day1="1" s1="6" e1="6" day2="3" s2="6" e2="7"> [1]6  ,  [3]6~7  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 航太系館                      5827 </place>
-<note></note>
-</P4>
-
 <P4 id="086">
 <num>P4-086</num>
 <class> 碩博                           </class>
@@ -372,6 +344,20 @@
 <teacher> 鄭泗滄  </teacher>
 <score> 3 </score>
 <time day1="2" s1="6" e1="7" day2="3" s2="5" e2="5"> [2]6~7  ,  [3]5  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 航太系館                      5827 </place>
+<note></note>
+</P4>
+
+<P4 id="088">
+<num>P4-088</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 結構最佳化設計 </name>
+<teacher> 胡潛濱  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="6" day2="3" s2="6" e2="7"> [1]6  ,  [3]6~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 航太系館                      5827 </place>

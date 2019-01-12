@@ -219,10 +219,10 @@
 <name> 邏輯系統 </name>
 <teacher> 陳中和  </teacher>
 <score> 3 </score>
-<time day1="5" s1="8" e1="8" day2="3" s2="5" e2="6"> [5]8  ,  [3]5~6  </time>
+<time day1="1" s1="7" e1="9"> [1]7~9  </time>
 <must> 必選 </must>
 <type> 講義 </type>
-<place> 電機系館                      92171 </place>
+<place> 電機系館                      92177 </place>
 <note> 本系必選 </note>
 </E2>
 
@@ -709,7 +709,7 @@
 <name> 使用者介面設計與開發 </name>
 <teacher> 張天豪  </teacher>
 <score> 3 </score>
-<time day1="3" s1="7" e1="9"> [3]7~9  </time>
+<time day1="2" s1="7" e1="9"> [2]7~9  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 電機系館                      令洋廳 </place>
@@ -749,7 +749,7 @@
 <class> 甲乙丙                         </class>
 <group></group>
 <name> 超大型積體電路電腦輔助設計概論 </name>
-<teacher> 邱瀝毅  </teacher>
+<teacher> 邱瀝毅*  ,  蔡建泓  </teacher>
 <score> 3 </score>
 <time day1="3" s1="7" e1="9"> [3]7~9  </time>
 <must> 選修 </must>
@@ -833,7 +833,7 @@
 <class> 乙                             </class>
 <group></group>
 <name> 電磁學（二） </name>
-<teacher> 楊慶隆  </teacher>
+<teacher> 李炳鈞  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
@@ -903,7 +903,7 @@
 <class> 丙                             </class>
 <group></group>
 <name> 電磁學（二） </name>
-<teacher> 李炳鈞  </teacher>
+<teacher> 楊慶隆  </teacher>
 <score> 3 </score>
 <time day1="2" s1="3" e1="4" day2="4" s2="2" e2="2"> [2]3~4  ,  [4]2  </time>
 <must> 必修 </must>
@@ -1126,13 +1126,6 @@
 <type> 講義 </type>
 <place> 電機系館                      92271 </place>
 <note> 大三四合班 </note>
-<class1> 甲乙丙                         </class1>
-<group1> 2 </group1>
-<name1> 創業與創新課程 </name1>
-<time1 day1="0" s1="0" e1="0"> </time1>
-<place1> 
- </place1>
-<note1></note1>
 </E2>
 
 <E2 id="148">
@@ -1161,13 +1154,6 @@
 <type> 講義 </type>
 <place> 電機系館                      92283 </place>
 <note> 大三四合班，英語授課 </note>
-<class1> 甲乙丙                         </class1>
-<group1> 2 </group1>
-<name1> 電源轉換器設計 </name1>
-<time1 day1="0" s1="0" e1="0"> </time1>
-<place1> 
- </place1>
-<note1></note1>
 </E2>
 
 <E2 id="150">

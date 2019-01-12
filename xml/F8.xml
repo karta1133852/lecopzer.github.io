@@ -290,4 +290,18 @@
 <note></note>
 </F8>
 
+<F8 id="152">
+<num>F8-152</num>
+<class></class>
+<group></group>
+<name> 光電專題（四） </name>
+<teacher> 徐旭政  </teacher>
+<score> 1 </score>
+<time day1="3" s1="4.5" e1="4.5" day2="4" s2="4.5" e2="4.5" day3="5" s3="4.5" e3="4.5"> [3]N  ,  [4]N  ,  [5]N  </time>
+<must> 選修 </must>
+<type> 實習 </type>
+<place> 綜合大樓                      48422 </place>
+<note></note>
+</F8>
+
 </content>

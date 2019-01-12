@@ -10,7 +10,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 資訊系館                      4263 </place>
+<place> 共同教室                      A1302 </place>
 <note> 資訊所醫資所多媒體學程合班,大學部勿選 </note>
 </P7>
 
@@ -24,7 +24,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 資訊系館                      4263 </place>
+<place> 共同教室                      A1302 </place>
 <note> 資訊所多媒體學位學程合班,碩博二以上選修 </note>
 </P7>
 
@@ -152,6 +152,20 @@
 <type> 講義 </type>
 <place> 資訊系館                      4260 </place>
 <note> 英語授課 </note>
+</P7>
+
+<P7 id="013">
+<num>P7-013</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 分散式系統與巨量資料平台 </name>
+<teacher> 蕭宏章  </teacher>
+<score> 3 </score>
+<time day1="1" s1="5" e1="7"> [1]5~7  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊新館                      65105 </place>
+<note> 大碩合班 </note>
 </P7>
 
 <P7 id="014">
@@ -287,7 +301,7 @@
 <name> 計算機圖學之應用實務 </name>
 <teacher> 胡敏君  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="2" s1="9" e1="11"> [2]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 資訊新館                      65105 </place>
@@ -315,11 +329,11 @@
 <name> Android應用程式開發 </name>
 <teacher> 蔡孟勳*  ,  蔡佩璇  </teacher>
 <score> 3 </score>
-<time day1="4" s1="2" e1="4"> [4]2~4  </time>
+<time day1="3" s1="5" e1="7"> [3]5~7  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 資訊新館                      65203 </place>
-<note> 與製造所合開 </note>
+<place> 資訊新館                      65304 </place>
+<note></note>
 </P7>
 
 <P7 id="027">
@@ -364,6 +378,20 @@
 <note></note>
 </P7>
 
+<P7 id="030">
+<num>P7-030</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 機器學習及圖形識別專論 </name>
+<teacher> 連震杰  </teacher>
+<score> 3 </score>
+<time day1="5" s1="2" e1="4"> [5]2~4  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊新館                      65A13 </place>
+<note> 資訊所醫資所合班 </note>
+</P7>
+
 <P7 id="031">
 <num>P7-031</num>
 <class> 碩博                           </class>
@@ -404,6 +432,34 @@
 <type> 講義 </type>
 <place> 資訊系館                      4201 </place>
 <note> 大碩合開 </note>
+</P7>
+
+<P7 id="034">
+<num>P7-034</num>
+<class> 碩一二                         </class>
+<group></group>
+<name> 從自由軟體到物聯網的實踐 </name>
+<teacher> 藍崑展  </teacher>
+<score> 3 </score>
+<time day1="4" s1="6" e1="8"> [4]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊新館                      65104 </place>
+<note> 大碩合班醫資所合班 </note>
+</P7>
+
+<P7 id="035">
+<num>P7-035</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 生物與醫學資訊專論 </name>
+<teacher> 賀保羅  </teacher>
+<score> 3 </score>
+<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 資訊新館                      65105 </place>
+<note></note>
 </P7>
 
 <P7 id="041">
@@ -500,7 +556,7 @@
 <time day1="5" s1="6" e1="7"> [5]6~7  </time>
 <must> 必修 </must>
 <type> 研討 </type>
-<place> 資訊系館                      4263 </place>
+<place> 共同教室                      A1302 </place>
 <note> 資訊所醫資所多媒體學程合班,大學部勿選 </note>
 </P7>
 

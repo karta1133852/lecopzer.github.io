@@ -126,4 +126,24 @@
 <note></note>
 </PA>
 
+<PA id="011">
+<num>PA-010</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 創意數位設計 </name>
+<teacher> 卓彥廷  </teacher>
+<score> 3 </score>
+<time day1="1" s1="6" e1="6"> [1]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 耐震大樓(建築研究大樓旁)      5118 </place>
+<note> 乙組核心 </note>
+<class1> 碩博                           </class1>
+<group1></group1>
+<name1> 創業實作四 </name1>
+<time1 day1="0" s1="0" e1="0"> 未定  </time1>
+<place1></place1>
+<note1> 本課程為密集式授課 </note1>
+</PA>
+
 </content>

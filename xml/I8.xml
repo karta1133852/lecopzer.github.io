@@ -115,7 +115,7 @@
 <must> 必修 </must>
 <type> 講義 </type>
 <place></place>
-<note></note>
+<note> 生物化學實驗課程將安排於星期三5-8節，請選課同學注意同時段是否衝堂 </note>
 </I8>
 
 <I8 id="055">
@@ -437,7 +437,7 @@
 <class></class>
 <group></group>
 <name> 藥事法規與行政 </name>
-<teacher> 徐之昇   ,  高雅慧* </teacher>
+<teacher> 徐之昇*  ,  高雅慧  </teacher>
 <score> 2 </score>
 <time day1="0" s1="0" e1="0"> 未定  </time>
 <must> 必修 </must>

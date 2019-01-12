@@ -147,7 +147,7 @@
 <name> 數據科學裡的線性代數 </name>
 <teacher> 王辰樹  </teacher>
 <score> 3 </score>
-<time day1="2" s1="2" e1="3" day2="3" s2="4" e2="4"> [2]2~3  ,  [3]4  </time>
+<time day1="2" s1="2" e1="3" day2="1" s2="4" e2="4"> [2]2~3  ,  [1]4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 數學系館                      3175 </place>

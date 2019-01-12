@@ -119,7 +119,7 @@
 <name> 社會發展史專題 </name>
 <teacher> 李承機  </teacher>
 <score> 3 </score>
-<time day1="2" s1="6" e1="8"> [2]6~8  </time>
+<time day1="4" s1="9" e1="11"> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>
@@ -162,6 +162,20 @@
 <teacher> 劉南芳  </teacher>
 <score> 3 </score>
 <time day1="2" s1="9" e1="11"> [2]9~B  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 台文系館                      88102 </place>
+<note></note>
+</K5>
+
+<K5 id="303">
+<num>K5-303</num>
+<class> 碩專                           </class>
+<group></group>
+<name> 社會發展史專題 </name>
+<teacher> 李承機  </teacher>
+<score> 3 </score>
+<time day1="4" s1="9" e1="11"> [4]9~B  </time>
 <must> 選修 </must>
 <type> 講義 </type>
 <place> 台文系館                      88102 </place>

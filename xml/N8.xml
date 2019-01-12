@@ -89,7 +89,7 @@
 <class> 碩博一                         </class>
 <group></group>
 <name> 專題討論（二） </name>
-<teacher> 未定  </teacher>
+<teacher> 蕭政宗  </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
@@ -187,7 +187,7 @@
 <class> 碩博二                         </class>
 <group></group>
 <name> 專題討論（四） </name>
-<teacher> 未定  </teacher>
+<teacher> 蕭政宗  </teacher>
 <score> 1 </score>
 <time day1="2" s1="7" e1="8"> [2]7~8  </time>
 <must> 必修 </must>
@@ -290,7 +290,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4648 </place>
+<place> 水利系館                      4644 </place>
 <note></note>
 </N8>
 
@@ -334,6 +334,20 @@
 <type> 講義 </type>
 <place> 水利系館                      4646 </place>
 <note></note>
+</N8>
+
+<N8 id="039">
+<num>N8-039</num>
+<class> 碩博                           </class>
+<group></group>
+<name> 濕地環境管理 </name>
+<teacher> 王筱雯  </teacher>
+<score> 0.5 </score>
+<time day1="5" s1="0" e1="0"> [5]  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 水利系館                      4644 </place>
+<note> 彈性課程密集式授課 </note>
 </N8>
 
 <N8 id="040">
@@ -402,7 +416,7 @@
 <time day1="3" s1="2" e1="4"> [3]2~4  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 水利系館                      4644 </place>
+<place> 水利系館                      4648 </place>
 <note></note>
 </N8>
 
@@ -455,10 +469,10 @@
 <name> 永續發展實習 </name>
 <teacher> 王筱雯  </teacher>
 <score> 1 </score>
-<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<time day1="3" s1="4.5" e1="4.5" day2="5" s2="4.5" e2="4.5"> [3]N  ,  [5]N  </time>
 <must> 選修 </must>
 <type> 實習 </type>
-<place> 水利系館                      4678 </place>
+<place> 水利系館                      4644 </place>
 <note></note>
 </N8>
 

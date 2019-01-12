@@ -160,6 +160,20 @@
 <note></note>
 </S6>
 
+<S6 id="016">
+<num>S6-016</num>
+<class> 碩一                           </class>
+<group></group>
+<name> 藥動學應用軟體概論 </name>
+<teacher> 周辰熹* </teacher>
+<score> 1 </score>
+<time day1="3" s1="6" e1="6"> [3]6  </time>
+<must> 選修 </must>
+<type> 講義 </type>
+<place> 醫學院                        208 </place>
+<note></note>
+</S6>
+
 <S6 id="017">
 <num>S6-017</num>
 <class> 碩二                           </class>
@@ -251,10 +265,10 @@
 <name> 社會醫學研究方法 </name>
 <teacher> 徐之昇* </teacher>
 <score> 1 </score>
-<time day1="4" s1="3" e1="4"> [4]3~4  </time>
+<time day1="2" s1="9" e1="10"> [2]9~A  </time>
 <must> 選修 </must>
 <type> 生命科學與健康 </type>
-<place> 醫學院                        201D </place>
+<place> 醫學院                        604 </place>
 <note></note>
 </S6>
 
@@ -272,18 +286,18 @@
 <note></note>
 </S6>
 
-<S6 id="058">
-<num>S6-058</num>
+<S6 id="049">
+<num>S6-049</num>
 <class> 碩博                           </class>
 <group></group>
-<name> 藥物使用數據分析 </name>
-<teacher> 賴嘉鎮* </teacher>
+<name> 藥物流行病學 </name>
+<teacher> 賴嘉鎮*  ,  高雅慧   ,  林素真  </teacher>
 <score> 2 </score>
 <time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 選修 </must>
 <type> 講義 </type>
-<place> 醫學院                        202D </place>
-<note></note>
+<place></place>
+<note> 上課教室:605 </note>
 </S6>
 
 <S6 id="059">

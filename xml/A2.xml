@@ -7,7 +7,7 @@
 <name> 西洋劍與健康體能 </name>
 <teacher> 鄭匡佑  </teacher>
 <score> 0 </score>
-<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂東側 </place>
@@ -483,7 +483,7 @@
 <name> 西洋劍與健康體能 </name>
 <teacher> 鄭匡佑  </teacher>
 <score> 0 </score>
-<time day1="2" s1="9" e1="10"> [2]9~A  </time>
+<time day1="1" s1="9" e1="10"> [1]9~A  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 中正堂                        中正堂東側 </place>
@@ -1106,6 +1106,48 @@
 <note></note>
 </A2>
 
+<A2 id="158">
+<num>A2-158</num>
+<class> 一年級                        體育（男生組）　                                                       </class>
+<group></group>
+<name> 長距離跑與健康體能 </name>
+<teacher> 黃滄海  </teacher>
+<score> 0 </score>
+<time day1="1" s1="7" e1="8"> [1]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強體育場                    自強體育場 </place>
+<note></note>
+</A2>
+
+<A2 id="159">
+<num>A2-159</num>
+<class> 一年級                        體育（男生組）　                                                       </class>
+<group></group>
+<name> 長距離跑與健康體能 </name>
+<teacher> 黃滄海  </teacher>
+<score> 0 </score>
+<time day1="2" s1="7" e1="8"> [2]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強體育場                    自強體育場 </place>
+<note></note>
+</A2>
+
+<A2 id="160">
+<num>A2-160</num>
+<class> 一年級                        體育（男生組）　                                                       </class>
+<group></group>
+<name> 長距離跑與健康體能 </name>
+<teacher> 黃滄海  </teacher>
+<score> 0 </score>
+<time day1="3" s1="7" e1="8"> [3]7~8  </time>
+<must> 必修 </must>
+<type> 講義 </type>
+<place> 自強體育場                    自強體育場 </place>
+<note></note>
+</A2>
+
 <A2 id="201">
 <num>A2-201</num>
 <class> 二年級                        體育（女生組）　                                                       </class>
@@ -1645,7 +1687,7 @@
 <name> 國際標準舞（男女） </name>
 <teacher> 鄭匡佑  </teacher>
 <score> 0 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 健休韻律教室                  健休韻律教室 </place>
@@ -2387,7 +2429,7 @@
 <name> 國際標準舞（男女） </name>
 <teacher> 鄭匡佑  </teacher>
 <score> 0 </score>
-<time day1="1" s1="5" e1="6"> [1]5~6  </time>
+<time day1="2" s1="5" e1="6"> [2]5~6  </time>
 <must> 必修 </must>
 <type> 講義 </type>
 <place> 健休韻律教室                  健休韻律教室 </place>

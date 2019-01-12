@@ -187,7 +187,7 @@
 <class></class>
 <group></group>
 <name> 西班牙文（二） </name>
-<teacher> 盧慧娟  </teacher>
+<teacher> 白芳怡  </teacher>
 <score> 2 </score>
 <time day1="4" s1="3" e1="4"> [4]3~4  </time>
 <must> 必修 </must>
@@ -726,20 +726,6 @@
 <type> 講義 </type>
 <place> 修齊大樓                      26406 </place>
 <note> 【跨領域選修】 </note>
-</B2>
-
-<B2 id="157">
-<num>B2-157</num>
-<class></class>
-<group></group>
-<name> 語言習得導論 </name>
-<teacher> 鄒文莉  </teacher>
-<score> 2 </score>
-<time day1="5" s1="3" e1="4"> [5]3~4  </time>
-<must> 選修 </must>
-<type> 講義 </type>
-<place> 修齊大樓                      26423 </place>
-<note> 【語言學選修】 </note>
 </B2>
 
 </content>
